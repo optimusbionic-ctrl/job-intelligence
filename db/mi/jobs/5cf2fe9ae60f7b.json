@@ -1,0 +1,78 @@
+{
+  "apply_url": null,
+  "board_apply": "https://www.linkedin.com/posts/polluxa-global_hiring-motiondesigner-motiongraphicsdesigner-activity-7507689048551981057-MtJS",
+  "category": "SaaS",
+  "comp_potential": "unknown",
+  "company": "Polluxa",
+  "company_slug": "polluxa",
+  "concerns": [
+    "Employer has not confirmed hiring from India",
+    "Compensation not disclosed"
+  ],
+  "contacts_count": 1,
+  "content_hash": "f5127c95a6fb",
+  "date_quality": "approx",
+  "deadline": null,
+  "employment": "full-time",
+  "first_seen": "2026-10-15T15:27:11Z",
+  "fit": 54,
+  "has_hiring_manager": false,
+  "has_named_contact": false,
+  "has_public_email": false,
+  "id": "5cf2fe9ae60f7b",
+  "include_reason": "Motion title with video scope",
+  "india": {
+    "cities": [],
+    "company": "unclear",
+    "reason": "Location not stated",
+    "status": "unconfirmed",
+    "visa": false
+  },
+  "kind": "video-motion",
+  "last_verified": "2026-10-15T16:19:24Z",
+  "location": "",
+  "logo": null,
+  "needs_review": false,
+  "official": false,
+  "posted_at": "2026-09-21T06:00:00Z",
+  "repost": false,
+  "requirements": [],
+  "responsibilities": [],
+  "salary": {
+    "state": "unavailable"
+  },
+  "scores": {
+    "ai": 30,
+    "comp": 48,
+    "company": 98,
+    "location": 38,
+    "seniority": 66,
+    "skill": 36
+  },
+  "seniority": "unspecified",
+  "snippet": "Polluxa, a SaaS-based technology company, is looking for a Video Motion Designer.",
+  "source_primary": "LinkedIn post (public)",
+  "sources": [
+    {
+      "id": "linkedin_post",
+      "job_id": "https://www.linkedin.com/posts/polluxa-global_hiring-motiondesigner-motiongraphicsdesigner-activity-7507689048551981057-MtJS",
+      "kind": "social",
+      "name": "LinkedIn post (public)",
+      "posted_at": "2026-09-21T06:00:00Z",
+      "seen_at": "2026-10-15T16:19:24Z",
+      "url": "https://www.linkedin.com/posts/polluxa-global_hiring-motiondesigner-motiongraphicsdesigner-activity-7507689048551981057-MtJS"
+    }
+  ],
+  "specializations": [],
+  "status": "lead",
+  "tier": 1,
+  "title": "Video Motion Designer / Motion Graphics Designer",
+  "tools": [],
+  "updated_at": null,
+  "url": "https://www.linkedin.com/posts/polluxa-global_hiring-motiondesigner-motiongraphicsdesigner-activity-7507689048551981057-MtJS",
+  "why": [
+    "SaaS company (Tier 1 priority)"
+  ],
+  "work_mode": "unspecified",
+  "years_min": null
+}

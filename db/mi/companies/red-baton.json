@@ -1,0 +1,42 @@
+{
+  "aliases": [
+    "Red Baton"
+  ],
+  "ats": null,
+  "careers": null,
+  "category": "Agency / studio",
+  "classification": "Motion Intelligence registry (curated)",
+  "domain": "redbaton.co.in",
+  "facts_note": "Basic facts only; not independently verified",
+  "hq": "Bengaluru, IN",
+  "india_hiring": {
+    "board": null,
+    "changed_at": "2026-10-18T00:29:34Z",
+    "evidence": [
+      {
+        "detail": "Senior Graphic & Motion Designer — Bengaluru, India",
+        "kind": "posting",
+        "label": "A current posting lists India as a location",
+        "url": "https://www.foundit.in/job/senior-graphic-motion-designer-red-baton-bengaluru-bangalore-69218721",
+        "weight": 5
+      },
+      {
+        "detail": "Bengaluru, IN",
+        "kind": "registry",
+        "label": "Headquartered in India",
+        "url": null,
+        "weight": 5
+      }
+    ],
+    "first_checked_at": "2026-10-15T16:19:24Z",
+    "india_based": true,
+    "method": "Careers board, posting text",
+    "sig": "b950e8dc88",
+    "summary": "Red Baton is headquartered in India.",
+    "verdict": "yes"
+  },
+  "maturity": null,
+  "name": "Red Baton",
+  "slug": "red-baton",
+  "tier": 2
+}

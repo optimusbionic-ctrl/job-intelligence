@@ -1,0 +1,96 @@
+{
+  "apply_url": null,
+  "board_apply": "https://www.shine.com/jobs/qa-engineer-as-eng-qa-india/aspire-softserv/19594242",
+  "category": "Other",
+  "comp_potential": "unknown",
+  "company": "Aspire SoftServ",
+  "company_slug": "aspire-softserv",
+  "concerns": [
+    "Mentions test automation — be ready to discuss it or show a small script",
+    "Also asks for: API testing",
+    "Pay not disclosed — ask for the range early"
+  ],
+  "contacts_count": 0,
+  "content_hash": "91541fe9856f",
+  "date_quality": "exact",
+  "deadline": null,
+  "employment": "full-time",
+  "first_seen": "2026-10-21T11:43:42Z",
+  "fit": 78,
+  "has_hiring_manager": false,
+  "has_named_contact": false,
+  "has_public_email": false,
+  "id": "52e0afd0be1adb",
+  "include_reason": "QA / test engineer title",
+  "india": {
+    "cities": [
+      "Mumbai"
+    ],
+    "company": "yes",
+    "reason": "Location lists India",
+    "status": "confirmed",
+    "visa": false
+  },
+  "kind": "qa-engineer",
+  "last_verified": "2026-10-21T11:43:42Z",
+  "location": "Mumbai City, India",
+  "logo": null,
+  "needs_review": false,
+  "official": false,
+  "posted_at": "2026-09-26T05:05:21Z",
+  "repost": false,
+  "requirements": [
+    "(Summary from the Shine.com listing; open the posting for the full description.)"
+  ],
+  "responsibilities": [],
+  "salary": {
+    "state": "unavailable"
+  },
+  "scores": {
+    "ai": 68,
+    "comp": 60,
+    "company": 66,
+    "location": 100,
+    "seniority": 94,
+    "skill": 72
+  },
+  "seniority": "unspecified",
+  "snippet": "Experience: 3 to 7 Yrs\nSkills: STLC, UI Testing, API Testing, Jira, Selenium, Cross Browser Testing, Postman\n(Summary from the Shine.com listing; open the posting for the full description.)",
+  "source_primary": "Shine.com",
+  "sources": [
+    {
+      "id": "shine",
+      "job_id": "19594242",
+      "kind": "board",
+      "name": "Shine.com",
+      "posted_at": "2026-09-26T05:05:21Z",
+      "seen_at": "2026-10-21T11:43:42Z",
+      "url": "https://www.shine.com/jobs/qa-engineer-as-eng-qa-india/aspire-softserv/19594242"
+    }
+  ],
+  "specializations": [
+    "Web apps"
+  ],
+  "status": "active",
+  "tier": 3,
+  "title": "QA Engineer- AS/ENG/QA/005 (India)",
+  "tools": [
+    "Compatibility testing",
+    "UI testing",
+    "Jira",
+    "API testing",
+    "Test automation"
+  ],
+  "track": "software",
+  "updated_at": null,
+  "url": "https://www.shine.com/jobs/qa-engineer-as-eng-qa-india/aspire-softserv/19594242",
+  "why": [
+    "QA / test engineer role",
+    "Already on your resume: Compatibility testing, UI testing, Jira",
+    "Asks for 3+ years — you have about 2.5",
+    "Location lists India"
+  ],
+  "work_mode": "onsite",
+  "years_max": 7,
+  "years_min": 3
+}

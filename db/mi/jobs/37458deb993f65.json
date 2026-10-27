@@ -1,0 +1,81 @@
+{
+ "apply_url": null,
+ "board_apply": "https://remoteOK.com/remote-jobs/remote-motion-designer-pragmatike-1134793",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "Pragmatike",
+ "company_slug": "pragmatike",
+ "concerns": [
+  "Compensation not disclosed"
+ ],
+ "contacts_count": 0,
+ "content_hash": "00018b485ee9",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-10-15T15:27:11Z",
+ "fit": 51,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "37458deb993f65",
+ "include_reason": "Motion design title",
+ "india": {
+  "cities": [],
+  "company": "yes",
+  "reason": "Worldwide remote",
+  "status": "likely",
+  "visa": false
+ },
+ "kind": "motion",
+ "last_verified": "2026-10-27T10:52:24Z",
+ "location": "Worldwide",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-07-14T03:08:25Z",
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "context_benchmark": "mi-dataset-remote",
+  "note": "Not disclosed. Global remote pay context is available, but there is no evidence it applies to this employer or to India-based hires.",
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 30,
+  "comp": 48,
+  "company": 40,
+  "location": 92,
+  "seniority": 66,
+  "skill": 47
+ },
+ "seniority": "unspecified",
+ "snippet": "Posted 7:54:32 PM. Location: Fully RemoteStart Date: ASAPLanguage: Fluent English requiredType: Full-timeâ¦See this and similar jobs on LinkedIn.\n\nPlease mention the word **LUCKY** and tag RMTYwLjc5LjEwNi4xMzU= when applying to show you read the job post completely (#RMTYwLjc5LjEwNi4xMzU=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see the",
+ "source_primary": "Remote OK",
+ "sources": [
+  {
+   "id": "remoteok",
+   "job_id": "1134793",
+   "kind": "board",
+   "name": "Remote OK",
+   "posted_at": "2026-07-14T03:08:25Z",
+   "seen_at": "2026-10-27T10:52:24Z",
+   "url": "https://remoteOK.com/remote-jobs/remote-motion-designer-pragmatike-1134793"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 3,
+ "title": "Motion Designer",
+ "tools": [],
+ "updated_at": null,
+ "url": "https://remoteOK.com/remote-jobs/remote-motion-designer-pragmatike-1134793",
+ "why": [
+  "Core motion design role",
+  "Worldwide remote",
+  "Pragmatike already hires people in India"
+ ],
+ "work_mode": "remote",
+ "years_min": null
+}

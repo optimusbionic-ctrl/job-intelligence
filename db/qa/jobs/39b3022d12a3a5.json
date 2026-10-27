@@ -1,0 +1,90 @@
+{
+  "apply_url": null,
+  "board_apply": "https://www.shine.com/jobs/software-tester-manual-testing-los-lms-immediate-joiners-mumbai-wfo/aqm-technologies/19555327",
+  "category": "Fintech",
+  "comp_potential": "unknown",
+  "company": "AQM Technologies",
+  "company_slug": "aqm-technologies",
+  "concerns": [
+    "Also asks for: SQL / databases",
+    "Pay not disclosed — ask for the range early"
+  ],
+  "contacts_count": 0,
+  "content_hash": "382c5b3387db",
+  "date_quality": "exact",
+  "deadline": null,
+  "employment": "full-time",
+  "first_seen": "2026-10-20T13:44:34Z",
+  "fit": 85,
+  "has_hiring_manager": false,
+  "has_named_contact": false,
+  "has_public_email": false,
+  "id": "39b3022d12a3a5",
+  "include_reason": "Manual / functional QA title",
+  "india": {
+    "cities": [
+      "Mumbai"
+    ],
+    "company": "yes",
+    "reason": "Location lists India",
+    "status": "confirmed",
+    "visa": false
+  },
+  "kind": "manual-qa",
+  "last_verified": "2026-10-20T13:44:34Z",
+  "location": "Mumbai City, India",
+  "logo": null,
+  "needs_review": false,
+  "official": false,
+  "posted_at": "2026-09-16T09:11:26Z",
+  "repost": false,
+  "requirements": [],
+  "responsibilities": [],
+  "salary": {
+    "state": "unavailable"
+  },
+  "scores": {
+    "ai": 58,
+    "comp": 60,
+    "company": 95,
+    "location": 100,
+    "seniority": 100,
+    "skill": 79
+  },
+  "seniority": "unspecified",
+  "snippet": "Experience: 2 to 6 Yrs\nSkills: Manual Testing, Test Scenarios, Test Cases, SQL, JIRA, Loan Origination Systems LOS, Loan Management Systems LMS, Banking Collections, Credit Collections, Debt Collections\n(Summary from the Shine.com listing; open the posting for the full description.)",
+  "source_primary": "Shine.com",
+  "sources": [
+    {
+      "id": "shine",
+      "job_id": "19555327",
+      "kind": "board",
+      "name": "Shine.com",
+      "posted_at": "2026-09-16T09:11:26Z",
+      "seen_at": "2026-10-20T13:44:34Z",
+      "url": "https://www.shine.com/jobs/software-tester-manual-testing-los-lms-immediate-joiners-mumbai-wfo/aqm-technologies/19555327"
+    }
+  ],
+  "specializations": [],
+  "status": "active",
+  "tier": 1,
+  "title": "Software Tester - Manual Testing- LOS/LMS - Immediate Joiners - Mumbai (WFO)",
+  "tools": [
+    "Test cases & scenarios",
+    "Jira",
+    "SQL / databases"
+  ],
+  "track": "software",
+  "updated_at": null,
+  "url": "https://www.shine.com/jobs/software-tester-manual-testing-los-lms-immediate-joiners-mumbai-wfo/aqm-technologies/19555327",
+  "why": [
+    "Manual / functional QA — the core of your resume",
+    "Already on your resume: Test cases & scenarios, Jira",
+    "Fintech company",
+    "Asks for 2–6 years — you have about 2.5",
+    "Location lists India"
+  ],
+  "work_mode": "onsite",
+  "years_max": 6,
+  "years_min": 2
+}

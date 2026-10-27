@@ -1,0 +1,55 @@
+{
+  "category": "Other",
+  "classification": "Inferred from job description",
+  "india_hiring": {
+    "board": null,
+    "changed_at": "2026-10-18T18:27:42Z",
+    "evidence": [],
+    "first_checked_at": "2026-10-18T18:27:42Z",
+    "india_based": false,
+    "method": "Careers board, posting text, web search",
+    "sig": "54391d7cdf",
+    "summary": "No public evidence yet about hiring from India.",
+    "verdict": "unclear",
+    "web": {
+      "checked_at": "2026-10-18T19:27:59Z",
+      "query": "\"1000xcodes\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
+      "results": [
+        {
+          "description": "",
+          "title": "Remote Apple Xcode Jobs",
+          "url": "https://jobgether.com/remote-jobs/apple-xcode/2"
+        },
+        {
+          "description": "",
+          "title": "Work Remotely for Global Companies Hiring in India",
+          "url": "https://www.wisemonk.io/for-candidates"
+        },
+        {
+          "description": "",
+          "title": "INS Global",
+          "url": "https://ins-globalconsulting.com/ja/news-post/eor-inndo/"
+        },
+        {
+          "description": "",
+          "title": "Build your career with global companies, without leaving India",
+          "url": "https://www.wisemonk.io/for-candidate"
+        },
+        {
+          "description": "",
+          "title": "Remote Company Codersbrain Jobs",
+          "url": "https://jobgether.com/remote-jobs/company-codersbrain/5"
+        },
+        {
+          "description": "",
+          "title": "Remote Company Codersbrain Jobs",
+          "url": "https://jobgether.com/remote-jobs/company-codersbrain"
+        }
+      ]
+    }
+  },
+  "inferred": true,
+  "name": "1000xcodes",
+  "slug": "1000xcodes",
+  "tier": 3
+}

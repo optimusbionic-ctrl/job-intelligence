@@ -1,0 +1,64 @@
+{
+  "category": "Other",
+  "classification": "Inferred from job description",
+  "india_hiring": {
+    "board": null,
+    "changed_at": "2026-10-18T23:27:04Z",
+    "evidence": [
+      {
+        "detail": "KM - Graphic & Web Designer (Paid Ads, Funnels & Motion) — Worldwide",
+        "kind": "posting",
+        "label": "A current posting is open worldwide",
+        "url": "https://himalayas.app/companies/kultremedia-llc/jobs/km-graphic-web-designer-paid-ads-funnels-motion?utm_source=api",
+        "weight": 3
+      }
+    ],
+    "first_checked_at": "2026-10-15T16:19:24Z",
+    "india_based": false,
+    "method": "Careers board, posting text, web search",
+    "sig": "4da35cf32b",
+    "summary": "No India-located roles found, but a current posting is open worldwide.",
+    "verdict": "likely",
+    "web": {
+      "checked_at": "2026-10-15T16:55:58Z",
+      "query": "\"KultreMedia LLC\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
+      "results": [
+        {
+          "description": "Does KultreMedia LLC support remote work or working from home? Yes, KultreMedia LLC is a remote-friendly company.",
+          "title": "KultreMedia LLC Remote Jobs and Careers | WFH.team",
+          "url": "https://wfh.team/companies/kultremedia-llc"
+        },
+        {
+          "description": "KultreMedia LLC provided pay range.",
+          "title": "KultreMedia LLC hiring Business Analyst in Philippines - LinkedIn",
+          "url": "https://ca.linkedin.com/jobs/view/business-analyst-at-kultremedia-llc-4286974336"
+        },
+        {
+          "description": "KultreMedia LLC remote jobs. KM - Email & SMS Marketing Specialist: CA, PH + 2 more. KM - Graphic & Web Designer (Paid Ads, Funnels & Motion). KM - Shopify CRO Designer & Funnel Optimizer: PH, GB + 1 more. KM-Business Analyst: Philippines only. Employees live in United States.",
+          "title": "14 Remote Jobs at KultreMedia LLC | Himalayas",
+          "url": "https://himalayas.app/companies/kultremedia-llc/jobs"
+        },
+        {
+          "description": "Open positions: KM - Copywriter – Paid Ads & Funnel Content; KM - Influencer Marketing Manager",
+          "title": "Jobs at KultreMedia LLC - Dover",
+          "url": "https://app.dover.com/jobs/kultremedia"
+        },
+        {
+          "description": "KultreMedia LLC. 1 open role listed here.",
+          "title": "KultreMedia LLC Remote Jobs & Careers",
+          "url": "https://remotejobs.org/companies/kultremedia-llc"
+        },
+        {
+          "description": "2 jobs available at KultreMedia LLC. REMOTE. FULL TIME.",
+          "title": "Jobs at KultreMedia LLC | Remote | Hiloker US",
+          "url": "https://us.hiloker.com/companies/kultremedia-llc"
+        }
+      ]
+    }
+  },
+  "inferred": true,
+  "logo": "https://cdn-images.himalayas.app/d8a3ynchuy7tqxpyn4s0tniepbs2",
+  "name": "KultreMedia LLC",
+  "slug": "kultremedia-llc",
+  "tier": 3
+}

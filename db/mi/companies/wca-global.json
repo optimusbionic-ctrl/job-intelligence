@@ -1,0 +1,27 @@
+{
+  "category": "Other",
+  "classification": "Inferred from job description",
+  "india_hiring": {
+    "board": null,
+    "changed_at": "2026-10-16T09:28:45Z",
+    "evidence": [
+      {
+        "detail": "Freelance Motion Graphic Designer — India",
+        "kind": "posting",
+        "label": "A current posting lists India as a location",
+        "url": "https://in.linkedin.com/jobs/view/freelance-motion-graphic-designer-at-wca-global%E2%84%A2-4477308585",
+        "weight": 5
+      }
+    ],
+    "first_checked_at": "2026-10-16T09:28:45Z",
+    "india_based": false,
+    "method": "Careers board, posting text",
+    "sig": "84bbef779d",
+    "summary": "A current posting lists India as a location.",
+    "verdict": "yes"
+  },
+  "inferred": true,
+  "name": "WCA GLOBAL",
+  "slug": "wca-global",
+  "tier": 3
+}

@@ -1,0 +1,87 @@
+{
+  "apply_url": null,
+  "board_apply": "https://www.shine.com/jobs/qa-engineer-manual-and-automation/dmacq-software/19556457",
+  "category": "Other",
+  "comp_potential": "unknown",
+  "company": "Dmacq Software",
+  "company_slug": "dmacq-software",
+  "concerns": [
+    "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
+    "Pay not disclosed — ask for the range early"
+  ],
+  "contacts_count": 0,
+  "content_hash": "262cd604728e",
+  "date_quality": "exact",
+  "deadline": null,
+  "employment": "full-time",
+  "first_seen": "2026-10-20T13:44:34Z",
+  "fit": 68,
+  "has_hiring_manager": false,
+  "has_named_contact": false,
+  "has_public_email": false,
+  "id": "1fc2d919941d25",
+  "include_reason": "Automation-heavy QA (SDET)",
+  "india": {
+    "cities": [
+      "Mumbai"
+    ],
+    "company": "yes",
+    "reason": "Location lists India",
+    "status": "confirmed",
+    "visa": false
+  },
+  "kind": "automation",
+  "last_verified": "2026-10-20T13:44:34Z",
+  "location": "Mumbai City, India",
+  "logo": null,
+  "needs_review": false,
+  "official": false,
+  "posted_at": "2026-09-16T09:34:03Z",
+  "repost": false,
+  "requirements": [],
+  "responsibilities": [],
+  "salary": {
+    "state": "unavailable"
+  },
+  "scores": {
+    "ai": 58,
+    "comp": 60,
+    "company": 66,
+    "location": 100,
+    "seniority": 100,
+    "skill": 38
+  },
+  "seniority": "unspecified",
+  "snippet": "Experience: 2 to 6 Yrs\nSkills: manual testing, test cases, Selenium, Cypress, Appium, software testing life cycle STLC, quality assurance methodologies, test plans, Playwright, Jest\n(Summary from the Shine.com listing; open the posting for the full description.)",
+  "source_primary": "Shine.com",
+  "sources": [
+    {
+      "id": "shine",
+      "job_id": "19556457",
+      "kind": "board",
+      "name": "Shine.com",
+      "posted_at": "2026-09-16T09:34:03Z",
+      "seen_at": "2026-10-20T13:44:34Z",
+      "url": "https://www.shine.com/jobs/qa-engineer-manual-and-automation/dmacq-software/19556457"
+    }
+  ],
+  "specializations": [],
+  "status": "active",
+  "tier": 3,
+  "title": "QA Engineer - Manual and Automation",
+  "tools": [
+    "Test cases & scenarios",
+    "Test automation"
+  ],
+  "track": "software",
+  "updated_at": null,
+  "url": "https://www.shine.com/jobs/qa-engineer-manual-and-automation/dmacq-software/19556457",
+  "why": [
+    "Already on your resume: Test cases & scenarios",
+    "Asks for 2–6 years — you have about 2.5",
+    "Location lists India"
+  ],
+  "work_mode": "onsite",
+  "years_max": 6,
+  "years_min": 2
+}

@@ -1,0 +1,99 @@
+{
+  "apply_url": null,
+  "board_apply": "https://himalayas.app/companies/pradeepit-consulting-services-pvt-ltd/jobs/remote-appian-tester-freelancer?utm_source=api",
+  "category": "Product / SaaS",
+  "comp_potential": "unknown",
+  "company": "PradeepIT Consulting Services Pvt Ltd",
+  "company_slug": "pradeepit-consulting-services-pvt-ltd",
+  "concerns": [
+    "Also asks for: Programming",
+    "Pay not disclosed — ask for the range early",
+    "Contract role"
+  ],
+  "contacts_count": 0,
+  "content_hash": "2b912cae5fd0",
+  "date_quality": "exact",
+  "deadline": "2026-11-30T09:01:21Z",
+  "employment": "contract",
+  "first_seen": "2026-10-19T13:24:59Z",
+  "fit": 75,
+  "has_hiring_manager": false,
+  "has_named_contact": false,
+  "has_public_email": false,
+  "id": "c2fe7af6440512",
+  "include_reason": "Manual / functional QA title",
+  "india": {
+    "cities": [],
+    "company": "yes",
+    "reason": "Location lists India",
+    "status": "confirmed",
+    "visa": false
+  },
+  "kind": "manual-qa",
+  "last_verified": "2026-10-19T13:24:59Z",
+  "location": "India",
+  "logo": "https://cdn-images.himalayas.app/6fab62ojb6wkuftxpvkflmbcqakl",
+  "needs_review": false,
+  "official": false,
+  "posted_at": "2026-10-01T09:01:22Z",
+  "repost": false,
+  "requirements": [
+    "Interest in the broader scope of Intelligent Automation beyond technology.",
+    "Highly enthusiastic, driven, and proactive in approach.",
+    "Ability to guide and collaborate with functional and development teams throughout the project lifecycle.",
+    "Bachelor's degree in Computer Science, Software Engineering, or a related field, or equivalent proven experience in Intelligent Automation.",
+    "3 to 5 years of relevant professional experience focused primarily on Intelligent Automation-related topics.",
+    "Join our team at PradeepIT and be part of our journey to revolutionize business processes through Intelligent Automation. Apply now to contribute to cutting-edge projects and drive digital transformation for our global customers."
+  ],
+  "responsibilities": [
+    "Help organizations harness the capabilities of the Appian platform to streamline business processes and drive operational efficiency.",
+    "Participate in the implementation of scaled intelligent automation projects (E2E) using automation technologies such as BluePrism, WorkFusion, or UiPath .",
+    "Possess a solid understanding of integration concepts and patterns, including REST and SOAP.",
+    "Familiarity with authentication concepts, patterns, and protocols such as SSO, SAML, OAuth.",
+    "Demonstrate production experience in at least one programming language (C#, Python, Java)."
+  ],
+  "salary": {
+    "state": "unavailable"
+  },
+  "scores": {
+    "ai": 58,
+    "comp": 60,
+    "company": 95,
+    "location": 100,
+    "seniority": 94,
+    "skill": 50
+  },
+  "seniority": "unspecified",
+  "snippet": "Role Overview:\n As an Appian Automation Consultant at PradeepIT, you will have the opportunity to expand your knowledge and network in the field of Intelligent Automation. You will work alongside a team of IA enthusiasts, contributing to large-scale automation projects across various industries. This role encompasses the end-to-end automation lifecycle, allowing you to make a significant impact on business processes ",
+  "source_primary": "Himalayas",
+  "sources": [
+    {
+      "id": "himalayas",
+      "job_id": "https://himalayas.app/companies/pradeepit-consulting-services-pvt-ltd/jobs/remote-appian-tester-freelancer",
+      "kind": "board",
+      "name": "Himalayas",
+      "posted_at": "2026-10-01T09:01:22Z",
+      "seen_at": "2026-10-19T13:24:59Z",
+      "url": "https://himalayas.app/companies/pradeepit-consulting-services-pvt-ltd/jobs/remote-appian-tester-freelancer?utm_source=api"
+    }
+  ],
+  "specializations": [],
+  "status": "active",
+  "tier": 1,
+  "title": "Remote Appian Tester (Freelancer)",
+  "tools": [
+    "Programming"
+  ],
+  "track": "software",
+  "updated_at": null,
+  "url": "https://himalayas.app/companies/pradeepit-consulting-services-pvt-ltd/jobs/remote-appian-tester-freelancer?utm_source=api",
+  "why": [
+    "Manual / functional QA — the core of your resume",
+    "Product / SaaS company",
+    "Asks for 3+ years — you have about 2.5",
+    "Location lists India"
+  ],
+  "work_mode": "remote",
+  "years_max": 5,
+  "years_min": 3
+}

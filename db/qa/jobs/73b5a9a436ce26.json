@@ -1,0 +1,88 @@
+{
+  "apply_url": null,
+  "board_apply": "https://www.shine.com/jobs/freelance-qa-tester-project-based-india/uis-digital/19593496",
+  "category": "Other",
+  "comp_potential": "unknown",
+  "company": "UIS Digital",
+  "company_slug": "uis-digital",
+  "concerns": [
+    "Office outside Mumbai — relocation within India",
+    "Pay not disclosed — ask for the range early"
+  ],
+  "contacts_count": 0,
+  "content_hash": "106ca21ac19e",
+  "date_quality": "exact",
+  "deadline": null,
+  "employment": "full-time",
+  "first_seen": "2026-10-19T13:24:59Z",
+  "fit": 74,
+  "has_hiring_manager": false,
+  "has_named_contact": false,
+  "has_public_email": false,
+  "id": "73b5a9a436ce26",
+  "include_reason": "Freelance / crowd-testing role",
+  "india": {
+    "cities": [],
+    "company": "yes",
+    "reason": "Location lists India",
+    "status": "confirmed",
+    "visa": false
+  },
+  "kind": "crowd",
+  "last_verified": "2026-10-19T13:24:59Z",
+  "location": "All India",
+  "logo": null,
+  "needs_review": false,
+  "official": false,
+  "posted_at": "2026-09-26T04:52:15Z",
+  "repost": false,
+  "requirements": [],
+  "responsibilities": [],
+  "salary": {
+    "state": "unavailable"
+  },
+  "scores": {
+    "ai": 62,
+    "comp": 60,
+    "company": 66,
+    "location": 80,
+    "seniority": 100,
+    "skill": 65
+  },
+  "seniority": "unspecified",
+  "snippet": "Experience: 1 to 5 Yrs\nSkills: QA, Software Testing, Website Testing, Manual Testing, UI Testing, Bug Reporting, Responsive Testing, Chrome DevTools, Browser Debugging\n(Summary from the Shine.com listing; open the posting for the full description.)",
+  "source_primary": "Shine.com",
+  "sources": [
+    {
+      "id": "shine",
+      "job_id": "19593496",
+      "kind": "board",
+      "name": "Shine.com",
+      "posted_at": "2026-09-26T04:52:15Z",
+      "seen_at": "2026-10-19T13:24:59Z",
+      "url": "https://www.shine.com/jobs/freelance-qa-tester-project-based-india/uis-digital/19593496"
+    }
+  ],
+  "specializations": [
+    "Web apps"
+  ],
+  "status": "active",
+  "tier": 3,
+  "title": "Freelance QA Tester  Project Based (India)",
+  "tools": [
+    "UI testing",
+    "Bug reporting"
+  ],
+  "track": "software",
+  "updated_at": null,
+  "url": "https://www.shine.com/jobs/freelance-qa-tester-project-based-india/uis-digital/19593496",
+  "why": [
+    "Freelance / crowd testing — paid per test cycle, remote",
+    "Already on your resume: UI testing, Bug reporting",
+    "Asks for 1–5 years — you have about 2.5",
+    "Location lists India"
+  ],
+  "work_mode": "onsite",
+  "years_max": 5,
+  "years_min": 1
+}

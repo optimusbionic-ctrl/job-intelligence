@@ -1,0 +1,30 @@
+{
+  "category": "Recruiter (client not named)",
+  "classification": "Inferred from job description",
+  "india_hiring": {
+    "board": null,
+    "changed_at": "2026-10-23T12:44:11Z",
+    "evidence": [
+      {
+        "detail": "QA Automation Engineer — Navi Mumbai, India",
+        "kind": "posting",
+        "label": "A current posting lists India as a location",
+        "url": "https://www.shine.com/jobs/qa-automation-engineer/ckpl-consulting-krew-private-limited/19740617",
+        "weight": 5
+      }
+    ],
+    "first_checked_at": "2026-10-19T13:24:59Z",
+    "india_based": false,
+    "method": "Careers board, posting text",
+    "sig": "a8157d86b5",
+    "summary": "A current posting lists India as a location.",
+    "verdict": "yes"
+  },
+  "inferred": true,
+  "name": "CKPL Consulting Krew Private Limited",
+  "slug": "ckpl-consulting-krew-private-limited",
+  "tier": 3,
+  "tracks": [
+    "software"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "category": "Other",
+  "classification": "Inferred from job description",
+  "india_hiring": {
+    "board": null,
+    "changed_at": "2026-10-15T16:55:58Z",
+    "evidence": [
+      {
+        "detail": "Starling - Current Openings - Workable Jobs — “Lists roles only in United Kingdom and Ireland”",
+        "kind": "web",
+        "label": "Web suggests hiring is limited to named countries",
+        "url": "https://apply.workable.com/starling-bank/",
+        "weight": -1
+      }
+    ],
+    "first_checked_at": "2026-10-15T16:19:24Z",
+    "india_based": false,
+    "method": "Careers board, posting text, web search",
+    "sig": "5224082919",
+    "summary": "No public evidence yet about hiring from India.",
+    "verdict": "unclear",
+    "web": {
+      "checked_at": "2026-10-15T16:55:58Z",
+      "query": "\"Starling\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
+      "results": [
+        {
+          "description": "Start your Starling career. Our locations: Starling set up shop in London, but we're proud to now recruit globally. London, Manchester, Southampton, Cardiff, Dublin. Engine: Dubai, Sydney, Toronto.",
+          "title": "Start your Starling career - Starling Bank",
+          "url": "https://www.starlingbank.com/careers/"
+        },
+        {
+          "description": "Browse 7 Seven Starling job openings from Remote. Discover flexible, work-from-home opportunities on Indeed in fields like tech, admin, and customer ...",
+          "title": "Seven Starling jobs in Remote - Indeed",
+          "url": "https://www.indeed.com/q-seven-starling-l-remote-jobs.html"
+        },
+        {
+          "description": "Find your next role with Engine. Benefits (UK): Access to initiatives like Work from Anywhere, Cycle to Work, Salary Sacrificed Gym partnerships and Electric Vehicle (EV) leasing.",
+          "title": "Careers | Engine by Starling",
+          "url": "https://enginebystarling.com/careers/"
+        },
+        {
+          "description": "Browse jobs. Starling jobs. 184 open jobs.",
+          "title": "Starling: Jobs - LinkedIn",
+          "url": "https://uk.linkedin.com/company/starlingbank/jobs"
+        },
+        {
+          "description": "Seven Starling ... Remote — Full-Time - Remote · Apply · Practice Partnership Manager (West).",
+          "title": "Seven Starling - Lever",
+          "url": "https://jobs.lever.co/seven-starling"
+        },
+        {
+          "description": "Where are we based? We have 4 offices in the UK, as well as the home of Starling International, in Dublin. Job Openings - Risk & Compliance Associate - Engine by Starling",
+          "title": "Starling - Current Openings - Workable Jobs",
+          "url": "https://apply.workable.com/starling-bank/"
+        }
+      ]
+    }
+  },
+  "inferred": true,
+  "name": "Starling",
+  "slug": "starling",
+  "tier": 3
+}

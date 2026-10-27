@@ -1,0 +1,78 @@
+{
+  "apply_url": "https://jobs.lever.co/thinkingbox/2f031b5e-1859-41c9-874e-37436d36be6d",
+  "board_apply": null,
+  "category": "Agency / studio",
+  "comp_potential": "unknown",
+  "company": "Thinkingbox",
+  "company_slug": "thinkingbox",
+  "concerns": [
+    "Employer has not confirmed hiring from India",
+    "Compensation not disclosed",
+    "Agency / studio (Tier 2)"
+  ],
+  "contacts_count": 1,
+  "content_hash": "931216d8746f",
+  "date_quality": "unknown",
+  "deadline": null,
+  "employment": "full-time",
+  "first_seen": "2026-10-15T15:39:48Z",
+  "fit": 50,
+  "has_hiring_manager": false,
+  "has_named_contact": false,
+  "has_public_email": false,
+  "id": "00e27162bb4602",
+  "include_reason": "Motion design title",
+  "india": {
+    "cities": [],
+    "reason": "Location not stated",
+    "status": "unconfirmed",
+    "visa": false
+  },
+  "kind": "motion",
+  "last_verified": "2026-10-15T15:39:48Z",
+  "location": "",
+  "logo": null,
+  "needs_review": false,
+  "official": true,
+  "posted_at": null,
+  "repost": false,
+  "requirements": [],
+  "responsibilities": [],
+  "salary": {
+    "state": "unavailable"
+  },
+  "scores": {
+    "ai": 30,
+    "comp": 48,
+    "company": 62,
+    "location": 38,
+    "seniority": 66,
+    "skill": 47
+  },
+  "seniority": "unspecified",
+  "snippet": "We bring together directors, designers, animators, editors, and technologists to create work that moves.",
+  "source_primary": "Lever (via search index)",
+  "sources": [
+    {
+      "id": "lever",
+      "job_id": "https://jobs.lever.co/thinkingbox/2f031b5e-1859-41c9-874e-37436d36be6d",
+      "kind": "search",
+      "name": "Lever (via search index)",
+      "posted_at": null,
+      "seen_at": "2026-10-15T15:39:48Z",
+      "url": "https://jobs.lever.co/thinkingbox/2f031b5e-1859-41c9-874e-37436d36be6d"
+    }
+  ],
+  "specializations": [],
+  "status": "verified",
+  "tier": 2,
+  "title": "Motion Designer - The Heist",
+  "tools": [],
+  "updated_at": null,
+  "url": "https://jobs.lever.co/thinkingbox/2f031b5e-1859-41c9-874e-37436d36be6d",
+  "why": [
+    "Core motion design role"
+  ],
+  "work_mode": "unspecified",
+  "years_min": null
+}

@@ -1,0 +1,99 @@
+{
+  "apply_url": null,
+  "board_apply": "https://in.linkedin.com/jobs/view/motion-designer-at-emergent-4475787761",
+  "category": "AI",
+  "comp_potential": "unknown",
+  "company": "Emergent",
+  "company_slug": "emergent",
+  "concerns": [
+    "Pay not disclosed — showing a low-confidence estimate",
+    "Full description not available from this source"
+  ],
+  "contacts_count": 0,
+  "content_hash": "58f4d3098fcd",
+  "date_quality": "approx",
+  "deadline": null,
+  "employment": "full-time",
+  "first_seen": "2026-10-15T15:27:11Z",
+  "fit": 70,
+  "has_hiring_manager": false,
+  "has_named_contact": false,
+  "has_public_email": false,
+  "id": "de43db38e406ca",
+  "include_reason": "Motion design title",
+  "india": {
+    "cities": [
+      "Bengaluru"
+    ],
+    "company": "yes",
+    "reason": "Location lists India",
+    "status": "confirmed",
+    "visa": false
+  },
+  "kind": "motion",
+  "last_verified": "2026-10-15T16:19:24Z",
+  "location": "Bengaluru, Karnataka, India",
+  "logo": null,
+  "needs_review": false,
+  "official": false,
+  "posted_at": "2026-10-08T06:00:00Z",
+  "repost": false,
+  "requirements": [],
+  "responsibilities": [],
+  "salary": {
+    "estimate": {
+      "confidence": "low",
+      "currency": "INR",
+      "evidence": [
+        "ab-senior-motion-designer-in",
+        "ab-senior-motion-graphic-designer-in",
+        "gd-senior-motion-designer-blr"
+      ],
+      "high": 920000,
+      "inr_high": 920000,
+      "inr_low": 800000,
+      "low": 800000,
+      "method": "India market averages for senior motion designers from 3 sources (AmbitionBox ×2, Glassdoor Bangalore): ₹8.0–9.2 LPA. These are averages across all employers and experience around 3 years; product companies like this one may pay more, but no company-specific pay data was found.",
+      "potential": "unknown"
+    },
+    "note": "Estimate — not employer-confirmed",
+    "state": "estimate",
+    "verified_at": "2026-10-15T16:19:24Z"
+  },
+  "scores": {
+    "ai": 45,
+    "comp": 48,
+    "company": 98,
+    "location": 86,
+    "seniority": 66,
+    "skill": 69
+  },
+  "seniority": "unspecified",
+  "snippet": "",
+  "source_primary": "LinkedIn Jobs (via search index)",
+  "sources": [
+    {
+      "id": "linkedin",
+      "job_id": "https://in.linkedin.com/jobs/view/motion-designer-at-emergent-4475787761",
+      "kind": "search",
+      "name": "LinkedIn Jobs (via search index)",
+      "posted_at": "2026-10-08T06:00:00Z",
+      "seen_at": "2026-10-15T16:19:24Z",
+      "url": "https://in.linkedin.com/jobs/view/motion-designer-at-emergent-4475787761"
+    }
+  ],
+  "specializations": [],
+  "status": "lead",
+  "tier": 1,
+  "title": "Motion Designer",
+  "tools": [],
+  "updated_at": null,
+  "url": "https://in.linkedin.com/jobs/view/motion-designer-at-emergent-4475787761",
+  "why": [
+    "Core motion design role",
+    "AI company (Tier 1 priority)",
+    "Location lists India"
+  ],
+  "work_mode": "onsite",
+  "years_min": null
+}

@@ -1,0 +1,27 @@
+{
+  "category": "Other",
+  "classification": "Inferred from job description",
+  "india_hiring": {
+    "board": null,
+    "changed_at": "2026-10-18T18:27:42Z",
+    "evidence": [
+      {
+        "detail": "Motion Designer — Mumbai",
+        "kind": "posting",
+        "label": "A current posting lists India as a location",
+        "url": "https://app.semesteria.com/jobs/motion-designer-mumbai-realatte-ff0ae193-4c71-4d73-88ea-51163b135879",
+        "weight": 5
+      }
+    ],
+    "first_checked_at": "2026-10-18T18:27:42Z",
+    "india_based": false,
+    "method": "Careers board, posting text",
+    "sig": "6daf611c46",
+    "summary": "A current posting lists India as a location.",
+    "verdict": "yes"
+  },
+  "inferred": true,
+  "name": "Realatte",
+  "slug": "realatte",
+  "tier": 3
+}

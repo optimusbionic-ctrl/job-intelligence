@@ -1,0 +1,90 @@
+{
+  "apply_url": null,
+  "board_apply": "https://himalayas.app/companies/xperteez-technology/jobs/qa-engineer-2d-creative-applications-remote-contract?utm_source=api",
+  "category": "Other",
+  "comp_potential": "unknown",
+  "company": "Xperteez Technology",
+  "company_slug": "xperteez-technology",
+  "concerns": [
+    "Pay not disclosed — ask for the range early",
+    "Contract role"
+  ],
+  "contacts_count": 0,
+  "content_hash": "488aec89b700",
+  "date_quality": "exact",
+  "deadline": "2026-12-11T15:18:35Z",
+  "employment": "contract",
+  "first_seen": "2026-10-19T13:24:59Z",
+  "fit": 79,
+  "has_hiring_manager": false,
+  "has_named_contact": false,
+  "has_public_email": false,
+  "id": "c5d33d3056ba87",
+  "include_reason": "QA / test engineer title",
+  "india": {
+    "cities": [],
+    "company": "likely",
+    "reason": "Worldwide remote",
+    "status": "likely",
+    "visa": false
+  },
+  "kind": "qa-engineer",
+  "last_verified": "2026-10-19T13:24:59Z",
+  "location": "Worldwide",
+  "logo": "https://cdn-images.himalayas.app/m68vtboghdo71fvod2gepzj5tyf1",
+  "needs_review": false,
+  "official": false,
+  "posted_at": "2026-10-12T15:18:35Z",
+  "repost": false,
+  "requirements": [
+    "Quality Assurance (QA)"
+  ],
+  "responsibilities": [],
+  "salary": {
+    "context_benchmark": "qa-dataset-remote",
+    "state": "unavailable"
+  },
+  "scores": {
+    "ai": 58,
+    "comp": 60,
+    "company": 66,
+    "location": 86,
+    "seniority": 84,
+    "skill": 93
+  },
+  "seniority": "unspecified",
+  "snippet": "Role Title: QA Engineer – 2D & Creative Applications\n Role Type: Contractor\n Location: Remote\n We are looking for QA Engineers with hands-on experience testing 2D design, animation, illustration, or other creative applications. You’ll use your QA and creative software expertise to evaluate real-world workflows and help improve the quality and reliability of AI systems.\n Required Skills\n\n• Quality Assurance (QA)\n\n• So",
+  "source_primary": "Himalayas",
+  "sources": [
+    {
+      "id": "himalayas",
+      "job_id": "https://himalayas.app/companies/xperteez-technology/jobs/qa-engineer-2d-creative-applications-remote-contract",
+      "kind": "board",
+      "name": "Himalayas",
+      "posted_at": "2026-10-12T15:18:35Z",
+      "seen_at": "2026-10-19T13:24:59Z",
+      "url": "https://himalayas.app/companies/xperteez-technology/jobs/qa-engineer-2d-creative-applications-remote-contract?utm_source=api"
+    }
+  ],
+  "specializations": [],
+  "status": "active",
+  "tier": 3,
+  "title": "QA Engineer – 2D & Creative Applications | Remote - Contract",
+  "tools": [
+    "Functional testing",
+    "Usability testing",
+    "Test cases & scenarios",
+    "Bug reporting"
+  ],
+  "track": "software",
+  "updated_at": null,
+  "url": "https://himalayas.app/companies/xperteez-technology/jobs/qa-engineer-2d-creative-applications-remote-contract?utm_source=api",
+  "why": [
+    "QA / test engineer role",
+    "Already on your resume: Functional testing, Usability testing, Test cases & scenarios, Bug reporting",
+    "Worldwide remote"
+  ],
+  "work_mode": "remote",
+  "years_max": null,
+  "years_min": null
+}

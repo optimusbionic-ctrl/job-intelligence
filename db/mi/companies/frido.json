@@ -1,0 +1,42 @@
+{
+  "aliases": [
+    "Frido"
+  ],
+  "ats": null,
+  "careers": null,
+  "category": "Consumer brand (D2C)",
+  "classification": "Motion Intelligence registry (curated)",
+  "domain": "myfrido.com",
+  "facts_note": "Basic facts only; not independently verified",
+  "hq": "Pune, IN",
+  "india_hiring": {
+    "board": null,
+    "changed_at": "2026-10-15T16:19:24Z",
+    "evidence": [
+      {
+        "detail": "Motion Designer - Rive — Pune, India (on-site)",
+        "kind": "posting",
+        "label": "A current posting lists India as a location",
+        "url": "https://www.shine.com/jobs/motion-designer-rive/frido/19580980",
+        "weight": 5
+      },
+      {
+        "detail": "Pune, IN",
+        "kind": "registry",
+        "label": "Headquartered in India",
+        "url": null,
+        "weight": 5
+      }
+    ],
+    "first_checked_at": "2026-10-15T16:19:24Z",
+    "india_based": true,
+    "method": "Careers board, posting text",
+    "sig": "0e73c92b14",
+    "summary": "Frido is headquartered in India.",
+    "verdict": "yes"
+  },
+  "maturity": null,
+  "name": "Frido",
+  "slug": "frido",
+  "tier": 3
+}

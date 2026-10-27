@@ -1,0 +1,91 @@
+{
+  "apply_url": null,
+  "board_apply": "https://himalayas.app/companies/all-generation-tech/jobs/qa-automation-engineer-playwright-2622946752?utm_source=api",
+  "category": "Fintech",
+  "comp_potential": "unknown",
+  "company": "All Generation Tech",
+  "company_slug": "all-generation-tech",
+  "concerns": [
+    "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
+    "Also asks for: Programming",
+    "Pay not disclosed — ask for the range early"
+  ],
+  "contacts_count": 0,
+  "content_hash": "f2fb17f50259",
+  "date_quality": "exact",
+  "deadline": "2026-12-18T18:13:37Z",
+  "employment": "full-time",
+  "first_seen": "2026-10-19T19:47:20Z",
+  "fit": 68,
+  "has_hiring_manager": false,
+  "has_named_contact": false,
+  "has_public_email": false,
+  "id": "fd5dd5a3c2081f",
+  "include_reason": "Automation-heavy QA (SDET)",
+  "india": {
+    "cities": [],
+    "company": "yes",
+    "reason": "Location lists India",
+    "status": "confirmed",
+    "visa": false
+  },
+  "kind": "automation",
+  "last_verified": "2026-10-19T19:47:20Z",
+  "location": "India",
+  "logo": "https://cdn-images.himalayas.app/mms34fg6lacbtvceh617vln4vm60",
+  "needs_review": false,
+  "official": false,
+  "posted_at": "2026-10-19T18:13:38Z",
+  "repost": false,
+  "requirements": [],
+  "responsibilities": [
+    "typescript, python, javascript",
+    "Playwright library (required)",
+    "Effective communication and self starter , fluent English, Agile methodology."
+  ],
+  "salary": {
+    "state": "unavailable"
+  },
+  "scores": {
+    "ai": 58,
+    "comp": 60,
+    "company": 95,
+    "location": 100,
+    "seniority": 100,
+    "skill": 24
+  },
+  "seniority": "unspecified",
+  "snippet": "All Gen Tech (AGT) is a global technology delivery firm specializing in building and managing high-performing engineering teams that power some of the most complex projects in financial services, insurance technology, and enterprise software. We partner directly with leading organizations to deliver scalable, reliable, and results-driven technology solutions.\n\nAGT brings together exceptional talent from across the gl",
+  "source_primary": "Himalayas",
+  "sources": [
+    {
+      "id": "himalayas",
+      "job_id": "https://himalayas.app/companies/all-generation-tech/jobs/qa-automation-engineer-playwright-2622946752",
+      "kind": "board",
+      "name": "Himalayas",
+      "posted_at": "2026-10-19T18:13:38Z",
+      "seen_at": "2026-10-19T19:47:20Z",
+      "url": "https://himalayas.app/companies/all-generation-tech/jobs/qa-automation-engineer-playwright-2622946752?utm_source=api"
+    }
+  ],
+  "specializations": [],
+  "status": "active",
+  "tier": 1,
+  "title": "QA Automation Engineer (Playwright)",
+  "tools": [
+    "Test automation",
+    "Programming",
+    "Agile / Scrum"
+  ],
+  "track": "software",
+  "updated_at": null,
+  "url": "https://himalayas.app/companies/all-generation-tech/jobs/qa-automation-engineer-playwright-2622946752?utm_source=api",
+  "why": [
+    "Fintech company",
+    "Asks for 2–3 years — you have about 2.5",
+    "Location lists India"
+  ],
+  "work_mode": "remote",
+  "years_max": 3,
+  "years_min": 2
+}

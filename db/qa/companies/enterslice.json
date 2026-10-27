@@ -1,0 +1,30 @@
+{
+ "category": "Product / SaaS",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-27T10:50:24Z",
+  "evidence": [
+   {
+    "detail": "QA Tester — Noida, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/qa-tester/enterslice/19919174",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-10-27T10:50:24Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "d19885abfe",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "ENTERSLICE",
+ "slug": "enterslice",
+ "tier": 1,
+ "tracks": [
+  "software"
+ ]
+}

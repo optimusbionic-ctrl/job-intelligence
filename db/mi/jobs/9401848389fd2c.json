@@ -1,0 +1,124 @@
+{
+  "apply_url": null,
+  "board_apply": "https://himalayas.app/companies/corpay/jobs/employer-brand-designer-multimedia-producer?utm_source=api",
+  "category": "Fintech",
+  "comp_potential": "unknown",
+  "company": "Corpay",
+  "company_slug": "corpay",
+  "concerns": [
+    "Pay not disclosed — showing a low-confidence estimate"
+  ],
+  "contacts_count": 0,
+  "content_hash": "434d487c178b",
+  "date_quality": "exact",
+  "deadline": "2026-12-05T18:27:27Z",
+  "employment": "full-time",
+  "first_seen": "2026-10-15T15:27:11Z",
+  "fit": 79,
+  "has_hiring_manager": false,
+  "has_named_contact": false,
+  "has_public_email": false,
+  "id": "9401848389fd2c",
+  "include_reason": "Adjacent title with substantial motion responsibilities",
+  "india": {
+    "cities": [],
+    "company": "yes",
+    "reason": "Location lists India",
+    "status": "confirmed",
+    "visa": false
+  },
+  "kind": "adjacent",
+  "last_verified": "2026-10-18T22:27:20Z",
+  "location": "India",
+  "logo": "https://cdn-images.himalayas.app/325dgqm3fti1gjo2gyzvrqduhvnc",
+  "needs_review": false,
+  "official": false,
+  "posted_at": "2026-10-06T18:27:28Z",
+  "repost": false,
+  "requirements": [
+    "Professional experience in graphic design, multimedia production, creative design, brand design or a related discipline.",
+    "Strong portfolio demonstrating experience across digital design, brand communications, campaign creative and multimedia production.",
+    "Advanced graphic-design capabilities, with strong knowledge of typography, layout, composition, colour, imagery and visual hierarchy.",
+    "Experience creating infographics, animations, motion graphics and multimedia content.",
+    "Strong video production and editing skills, including experience taking content from concept through post-production.",
+    "Experience creating and maintaining visual templates and design systems.",
+    "Strong understanding of brand identity and experience applying brand guidelines consistently across multiple channels and formats."
+  ],
+  "responsibilities": [
+    "Lead the graphic and creative design of employer-brand communications, campaigns and experiences.",
+    "Translate the EVP and employer-brand strategy into engaging and distinctive visual concepts.",
+    "Design creative assets for recruitment campaigns, social media, careers websites, events, presentations, internal communications and other employer-brand touchpoints.",
+    "Create infographics, illustrations, animations and visual storytelling assets that make complex information engaging and easy to understand.",
+    "Develop creative concepts from initial brief and ideation through to final production.",
+    "Adapt creative assets for different audiences, markets, formats and digital channels while maintaining brand consistency."
+  ],
+  "salary": {
+    "estimate": {
+      "confidence": "low",
+      "currency": "INR",
+      "evidence": [
+        "ab-senior-motion-designer-in",
+        "ab-senior-motion-graphic-designer-in",
+        "gd-senior-motion-designer-blr"
+      ],
+      "high": 920000,
+      "inr_high": 920000,
+      "inr_low": 800000,
+      "low": 800000,
+      "method": "India market averages for senior motion designers from 3 sources (AmbitionBox ×2, Glassdoor Bangalore): ₹8.0–9.2 LPA. These are averages across all employers and experience around 3 years; product companies like this one may pay more, but no company-specific pay data was found.",
+      "potential": "unknown"
+    },
+    "note": "Estimate — not employer-confirmed",
+    "state": "estimate",
+    "verified_at": "2026-10-18T22:27:20Z"
+  },
+  "scores": {
+    "ai": 86,
+    "comp": 48,
+    "company": 98,
+    "location": 100,
+    "seniority": 66,
+    "skill": 78
+  },
+  "seniority": "unspecified",
+  "snippet": "Your role \nRole Overview\n\nThe Employer Brand Designer & Multimedia Producer brings the organisation’s employer brand and Employee Value Proposition (EVP) to life through compelling visual design, multimedia content and creative storytelling. Working within HR and in close partnership with Employer Brand, Talent Acquisition, Communications, Marketing and other stakeholders, the role leads the creative execution of emp",
+  "source_primary": "Himalayas",
+  "sources": [
+    {
+      "id": "himalayas",
+      "job_id": "https://himalayas.app/companies/corpay/jobs/employer-brand-designer-multimedia-producer",
+      "kind": "board",
+      "name": "Himalayas",
+      "posted_at": "2026-10-06T18:27:28Z",
+      "seen_at": "2026-10-18T22:27:20Z",
+      "url": "https://himalayas.app/companies/corpay/jobs/employer-brand-designer-multimedia-producer?utm_source=api"
+    }
+  ],
+  "specializations": [
+    "Brand motion",
+    "AI-generated video",
+    "Creative engineering",
+    "Interaction systems",
+    "Technical storytelling"
+  ],
+  "status": "active",
+  "tier": 1,
+  "title": "Employer Brand Designer & Multimedia Producer",
+  "tools": [
+    "After Effects",
+    "Figma",
+    "Premiere Pro",
+    "Illustrator",
+    "Photoshop"
+  ],
+  "updated_at": null,
+  "url": "https://himalayas.app/companies/corpay/jobs/employer-brand-designer-multimedia-producer?utm_source=api",
+  "why": [
+    "Tools you already use: After Effects, Figma, Premiere Pro, Illustrator, Photoshop",
+    "Specialisations in scope: Brand motion, AI-generated video, Creative engineering, Interaction systems",
+    "Fintech company (Tier 1 priority)",
+    "Location lists India"
+  ],
+  "work_mode": "remote",
+  "years_min": null
+}

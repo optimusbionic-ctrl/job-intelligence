@@ -1,0 +1,34 @@
+{
+  "category": "AI",
+  "classification": "Inferred from job description",
+  "india_hiring": {
+    "board": null,
+    "changed_at": "2026-10-27T10:26:45Z",
+    "evidence": [
+      {
+        "detail": "GenAI Video Creator (Motion Graphics Designer) — India",
+        "kind": "posting",
+        "label": "A current posting lists India as a location",
+        "url": "https://himalayas.app/companies/brandtech/jobs/genai-video-creator-motion-graphics-designer?utm_source=api",
+        "weight": 5
+      },
+      {
+        "detail": "…n design, and digital/print content. We partner with over 300 clients in 40+ countries and counting. Our focus is to connect clients with high-quality solut…",
+        "kind": "posting",
+        "label": "Posting describes hiring across countries",
+        "url": "https://himalayas.app/companies/brandtech/jobs/genai-video-creator-motion-graphics-designer?utm_source=api",
+        "weight": 3
+      }
+    ],
+    "first_checked_at": "2026-10-27T10:26:45Z",
+    "india_based": false,
+    "method": "Careers board, posting text",
+    "sig": "6de7cb5bff",
+    "summary": "A current posting lists India as a location.",
+    "verdict": "yes"
+  },
+  "inferred": true,
+  "name": "Brandtech+",
+  "slug": "brandtech",
+  "tier": 1
+}

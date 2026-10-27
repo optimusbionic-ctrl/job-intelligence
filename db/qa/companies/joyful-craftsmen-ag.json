@@ -1,0 +1,67 @@
+{
+  "category": "Product / SaaS",
+  "classification": "Inferred from job description",
+  "india_hiring": {
+    "board": null,
+    "changed_at": "2026-10-19T19:47:20Z",
+    "evidence": [
+      {
+        "detail": "ServiceNow QA Consultant (CSM/ITSM) — Worldwide",
+        "kind": "posting",
+        "label": "A current posting is open worldwide",
+        "url": "https://himalayas.app/companies/joyful-craftsmen-ag/jobs/servicenow-qa-consultant-csm-itsm-3518563112?utm_source=api",
+        "weight": 3
+      }
+    ],
+    "first_checked_at": "2026-10-19T19:47:20Z",
+    "india_based": false,
+    "method": "Careers board, posting text, web search",
+    "sig": "d2c5962dba",
+    "summary": "No India-located roles found, but a current posting is open worldwide.",
+    "verdict": "likely",
+    "web": {
+      "checked_at": "2026-10-19T20:45:06Z",
+      "query": "\"Joyful Craftsmen AG\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
+      "results": [
+        {
+          "description": "",
+          "title": "RemoteJobs.org mascotRemoteJobs.org",
+          "url": "https://remotejobs.org/companies/joyful-craftsmen-ag"
+        },
+        {
+          "description": "",
+          "title": "Build your career with global companies, without leaving India",
+          "url": "https://www.wisemonk.io/for-candidate"
+        },
+        {
+          "description": "",
+          "title": "how to hire in india with eor",
+          "url": "https://www.globalization-partners.com/de/blog/how-to-hire-in-india-with-eor/"
+        },
+        {
+          "description": "",
+          "title": "in.indeed.com",
+          "url": "https://in.indeed.com/cmp/Joyfull-Engineering-Components/about"
+        },
+        {
+          "description": "",
+          "title": "How we hire 6d808a2b8a964380861ccc5ac7d958c3",
+          "url": "https://checkly.notion.site/How-we-hire-6d808a2b8a964380861ccc5ac7d958c3"
+        },
+        {
+          "description": "",
+          "title": "WFH.teamOpen app",
+          "url": "https://wfh.team/companies/jetztjob"
+        }
+      ]
+    }
+  },
+  "inferred": true,
+  "logo": "https://cdn-images.himalayas.app/9kfwo381x3d6zctn8wacoszs5fz9",
+  "name": "Joyful Craftsmen AG",
+  "slug": "joyful-craftsmen-ag",
+  "tier": 1,
+  "tracks": [
+    "software"
+  ]
+}

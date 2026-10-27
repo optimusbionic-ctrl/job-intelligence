@@ -1,0 +1,110 @@
+{
+ "apply_url": null,
+ "board_apply": "https://himalayas.app/companies/joyful-craftsmen-ag/jobs/servicenow-qa-consultant-csm-itsm-3518563112?utm_source=api",
+ "category": "Product / SaaS",
+ "comp_potential": "unknown",
+ "company": "Joyful Craftsmen AG",
+ "company_slug": "joyful-craftsmen-ag",
+ "concerns": [
+  "Mentions test automation — be ready to discuss it or show a small script",
+  "Pay not disclosed — ask for the range early",
+  "Contract role",
+  "Reposted / refreshed listing — original posting is older"
+ ],
+ "contacts_count": 0,
+ "content_hash": "6c9af958298a",
+ "date_quality": "exact",
+ "deadline": "2026-12-25T16:37:43Z",
+ "employment": "contract",
+ "first_seen": "2026-10-19T19:47:20Z",
+ "fit": 82,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "28be3603f799fd",
+ "include_reason": "QA / test engineer title",
+ "india": {
+  "cities": [],
+  "company": "likely",
+  "reason": "Worldwide remote",
+  "status": "likely",
+  "visa": false
+ },
+ "kind": "qa-engineer",
+ "last_verified": "2026-10-27T10:50:24Z",
+ "location": "Worldwide",
+ "logo": "https://cdn-images.himalayas.app/9kfwo381x3d6zctn8wacoszs5fz9",
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-10-26T16:37:43Z",
+ "repost": true,
+ "requirements": [
+  "Experience developing, configuring, and customizing solutions on the ServiceNow platform.",
+  "Strong experience with ServiceNow Customer Service Management (CSM) and IT Service Management (ITSM).",
+  "Strong hands-on experience with ServiceNow Automated Test Framework (ATF).",
+  "Experience designing and maintaining structured test libraries and reusable test assets.",
+  "Solid understanding of software testing methodologies, quality assurance principles, and test automation best practices.",
+  "Experience with both manual and automated testing.",
+  "Understanding of ServiceNow platform administration, configuration, and scalable solution design."
+ ],
+ "responsibilities": [
+  "Configure, customize, and enhance ServiceNow Customer Service Management (CSM) and IT Service Management (ITSM) solutions.",
+  "Collaborate with Product Owners, Solution Architects, developers, and business stakeholders to understand requirements and translate them into technical and testing solutions.",
+  "Design, create, and maintain Automated Test Framework (ATF) tests to support platform quality and release readiness.",
+  "Structure, maintain, and continuously improve reusable test libraries and automated test assets.",
+  "Define test strategies, test scenarios, and test cases for new features, enhancements, and platform releases.",
+  "Review requirements and ensure solutions meet functional, quality, and usability standards.",
+  "Support defect management, root cause analysis, regression testing, and release validation activities."
+ ],
+ "salary": {
+  "context_benchmark": "qa-dataset-remote",
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 60,
+  "company": 95,
+  "location": 86,
+  "seniority": 84,
+  "skill": 86
+ },
+ "seniority": "unspecified",
+ "snippet": "Overview: We are looking for a ServiceNow CSM Developer / Consultant to design, implement, and enhance Customer Service Management solutions on the ServiceNow platform. In this role, you will collaborate with cross-functional teams to deliver scalable, high-quality solutions, contribute to platform improvements, and help establish best practices across development, testing, and solution delivery.\n Responsibilities:\n\n",
+ "source_primary": "Himalayas",
+ "sources": [
+  {
+   "id": "himalayas",
+   "job_id": "https://himalayas.app/companies/joyful-craftsmen-ag/jobs/servicenow-qa-consultant-csm-itsm-3518563112",
+   "kind": "board",
+   "name": "Himalayas",
+   "posted_at": "2026-10-26T16:37:43Z",
+   "seen_at": "2026-10-27T10:50:24Z",
+   "url": "https://himalayas.app/companies/joyful-craftsmen-ag/jobs/servicenow-qa-consultant-csm-itsm-3518563112?utm_source=api"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 1,
+ "title": "ServiceNow QA Consultant (CSM/ITSM)",
+ "tools": [
+  "Regression testing",
+  "Usability testing",
+  "Test cases & scenarios",
+  "Bug reporting",
+  "Google Sheets / Excel",
+  "Test automation",
+  "Agile / Scrum"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://himalayas.app/companies/joyful-craftsmen-ag/jobs/servicenow-qa-consultant-csm-itsm-3518563112?utm_source=api",
+ "why": [
+  "QA / test engineer role",
+  "Already on your resume: Regression testing, Usability testing, Test cases & scenarios, Bug reporting, Google Sheets / Excel",
+  "Product / SaaS company",
+  "Worldwide remote"
+ ],
+ "work_mode": "remote",
+ "years_max": null,
+ "years_min": null
+}

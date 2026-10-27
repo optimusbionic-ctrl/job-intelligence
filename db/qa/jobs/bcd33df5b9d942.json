@@ -1,0 +1,98 @@
+{
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/quality-assurance-automation-engineer-playwright-ai-kolkata/recro/19687792",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "Recro",
+ "company_slug": "recro",
+ "concerns": [
+  "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
+  "Also asks for: API testing, Programming",
+  "Asks for 4+ years — you have about 2.5",
+  "Office outside Mumbai — relocation within India",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "ad398a33b711",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-10-23T14:44:10Z",
+ "fit": 60,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "bcd33df5b9d942",
+ "include_reason": "Automation-heavy QA (SDET)",
+ "india": {
+  "cities": [],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "automation",
+ "last_verified": "2026-10-27T10:50:24Z",
+ "location": "Kolkata, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-10-02T08:28:16Z",
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 60,
+  "company": 66,
+  "location": 80,
+  "seniority": 72,
+  "skill": 38
+ },
+ "seniority": "unspecified",
+ "snippet": "Experience: 4 to 8 Yrs\nSkills: JavaScript, Jira, Playwright, TypeScript, API automation, AIassisted QA, Claude Code, AI agents, Postman, CICD pipelines\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "19687792",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-10-02T09:05:50Z",
+   "seen_at": "2026-10-27T10:50:24Z",
+   "url": "https://www.shine.com/jobs/quality-assurance-automation-engineer-playwright-ai-kolkata/recro/19687792"
+  },
+  {
+   "id": "shine",
+   "job_id": "19685971",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-10-02T08:28:16Z",
+   "seen_at": "2026-10-27T10:50:24Z",
+   "url": "https://www.shine.com/jobs/quality-assurance-automation-engineer-playwright-ai-stthomas-mount/recro/19685971"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 3,
+ "title": "Quality Assurance Automation Engineer - Playwright + AI (Kolkata)",
+ "tools": [
+  "Jira",
+  "API testing",
+  "Test automation",
+  "Programming"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/quality-assurance-automation-engineer-playwright-ai-kolkata/recro/19687792",
+ "why": [
+  "Already on your resume: Jira",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": 8,
+ "years_min": 4
+}

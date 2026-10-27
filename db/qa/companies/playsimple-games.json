@@ -1,0 +1,30 @@
+{
+  "category": "Game studio",
+  "classification": "Inferred from job description",
+  "india_hiring": {
+    "board": null,
+    "changed_at": "2026-10-19T13:24:59Z",
+    "evidence": [
+      {
+        "detail": "QA Engineer(Monetization Team) (Bengaluru) — Bangalore, India",
+        "kind": "posting",
+        "label": "A current posting lists India as a location",
+        "url": "https://www.shine.com/jobs/qa-engineermonetization-team-bengaluru/playsimple-games/19706880",
+        "weight": 5
+      }
+    ],
+    "first_checked_at": "2026-10-19T13:24:59Z",
+    "india_based": false,
+    "method": "Careers board, posting text",
+    "sig": "81f199d700",
+    "summary": "A current posting lists India as a location.",
+    "verdict": "yes"
+  },
+  "inferred": true,
+  "name": "PlaySimple Games",
+  "slug": "playsimple-games",
+  "tier": 1,
+  "tracks": [
+    "software"
+  ]
+}

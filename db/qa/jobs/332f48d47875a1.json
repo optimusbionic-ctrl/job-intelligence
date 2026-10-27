@@ -1,0 +1,81 @@
+{
+  "apply_url": null,
+  "board_apply": "https://qajobsboard.jobboardly.com/jobs/quality-assurance-engineer-9e53ebfc",
+  "category": "Other",
+  "comp_potential": "unknown",
+  "company": "Flexiple",
+  "company_slug": "flexiple",
+  "concerns": [
+    "Employer has not confirmed hiring from India",
+    "Pay not disclosed — ask for the range early",
+    "Full description not available from this source"
+  ],
+  "contacts_count": 0,
+  "content_hash": "d9b8582433a2",
+  "date_quality": "unknown",
+  "deadline": null,
+  "employment": "full-time",
+  "first_seen": "2026-10-19T15:45:44Z",
+  "fit": 66,
+  "has_hiring_manager": false,
+  "has_named_contact": false,
+  "has_public_email": false,
+  "id": "332f48d47875a1",
+  "include_reason": "QA / test engineer title",
+  "india": {
+    "cities": [],
+    "company": "unclear",
+    "reason": "Location not stated",
+    "status": "unconfirmed",
+    "visa": false
+  },
+  "kind": "qa-engineer",
+  "last_verified": "2026-10-22T09:45:27Z",
+  "location": "",
+  "logo": null,
+  "needs_review": false,
+  "official": false,
+  "posted_at": null,
+  "repost": false,
+  "requirements": [],
+  "responsibilities": [],
+  "salary": {
+    "state": "unavailable"
+  },
+  "scores": {
+    "ai": 55,
+    "comp": 60,
+    "company": 66,
+    "location": 36,
+    "seniority": 84,
+    "skill": 74
+  },
+  "seniority": "unspecified",
+  "snippet": "",
+  "source_primary": "QA Jobs Board (via search index)",
+  "sources": [
+    {
+      "id": "web",
+      "job_id": "https://qajobsboard.jobboardly.com/jobs/quality-assurance-engineer-9e53ebfc",
+      "kind": "search",
+      "name": "QA Jobs Board (via search index)",
+      "posted_at": null,
+      "seen_at": "2026-10-22T09:45:27Z",
+      "url": "https://qajobsboard.jobboardly.com/jobs/quality-assurance-engineer-9e53ebfc"
+    }
+  ],
+  "specializations": [],
+  "status": "lead",
+  "tier": 3,
+  "title": "Quality Assurance Engineer",
+  "tools": [],
+  "track": "software",
+  "updated_at": null,
+  "url": "https://qajobsboard.jobboardly.com/jobs/quality-assurance-engineer-9e53ebfc",
+  "why": [
+    "QA / test engineer role"
+  ],
+  "work_mode": "unspecified",
+  "years_max": null,
+  "years_min": null
+}

@@ -1,0 +1,27 @@
+{
+  "category": "Other",
+  "classification": "Inferred from job description",
+  "india_hiring": {
+    "board": null,
+    "changed_at": "2026-10-16T15:28:48Z",
+    "evidence": [
+      {
+        "detail": "Video Editor & Motion Specialist — Bengaluru, Karnataka, India",
+        "kind": "posting",
+        "label": "A current posting lists India as a location",
+        "url": "https://in.linkedin.com/jobs/view/video-editor-motion-specialist-at-phonepe-4477370041",
+        "weight": 5
+      }
+    ],
+    "first_checked_at": "2026-10-16T15:28:48Z",
+    "india_based": false,
+    "method": "Careers board, posting text",
+    "sig": "72c5f90728",
+    "summary": "A current posting lists India as a location.",
+    "verdict": "yes"
+  },
+  "inferred": true,
+  "name": "PhonePe",
+  "slug": "phonepe",
+  "tier": 3
+}

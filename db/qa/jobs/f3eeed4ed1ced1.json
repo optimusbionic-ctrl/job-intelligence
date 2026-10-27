@@ -1,0 +1,82 @@
+{
+  "apply_url": null,
+  "board_apply": "https://flexday.ai/jobs/qa-engineer-india/",
+  "category": "Other",
+  "comp_potential": "unknown",
+  "company": "Flexday",
+  "company_slug": "flexday",
+  "concerns": [
+    "Office outside Mumbai — relocation within India",
+    "Pay not disclosed — ask for the range early",
+    "Full description not available from this source"
+  ],
+  "contacts_count": 0,
+  "content_hash": "80b2f2e3b9b4",
+  "date_quality": "unknown",
+  "deadline": null,
+  "employment": "full-time",
+  "first_seen": "2026-10-21T03:44:36Z",
+  "fit": 72,
+  "has_hiring_manager": false,
+  "has_named_contact": false,
+  "has_public_email": false,
+  "id": "f3eeed4ed1ced1",
+  "include_reason": "QA / test engineer title",
+  "india": {
+    "cities": [],
+    "company": "yes",
+    "reason": "Location lists India",
+    "status": "confirmed",
+    "visa": false
+  },
+  "kind": "qa-engineer",
+  "last_verified": "2026-10-24T09:44:22Z",
+  "location": "India",
+  "logo": null,
+  "needs_review": false,
+  "official": false,
+  "posted_at": null,
+  "repost": false,
+  "requirements": [],
+  "responsibilities": [],
+  "salary": {
+    "state": "unavailable"
+  },
+  "scores": {
+    "ai": 55,
+    "comp": 60,
+    "company": 66,
+    "location": 80,
+    "seniority": 84,
+    "skill": 74
+  },
+  "seniority": "unspecified",
+  "snippet": "",
+  "source_primary": "Flexday (via search index)",
+  "sources": [
+    {
+      "id": "web",
+      "job_id": "https://flexday.ai/jobs/qa-engineer-india/",
+      "kind": "search",
+      "name": "Flexday (via search index)",
+      "posted_at": null,
+      "seen_at": "2026-10-24T09:44:22Z",
+      "url": "https://flexday.ai/jobs/qa-engineer-india/"
+    }
+  ],
+  "specializations": [],
+  "status": "lead",
+  "tier": 3,
+  "title": "QA Engineer (India)",
+  "tools": [],
+  "track": "software",
+  "updated_at": null,
+  "url": "https://flexday.ai/jobs/qa-engineer-india/",
+  "why": [
+    "QA / test engineer role",
+    "Location lists India"
+  ],
+  "work_mode": "onsite",
+  "years_max": null,
+  "years_min": null
+}

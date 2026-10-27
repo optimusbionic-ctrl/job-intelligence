@@ -1,0 +1,112 @@
+{
+  "apply_url": null,
+  "board_apply": "https://himalayas.app/companies/benrey/jobs/motion-designer-1817884003?utm_source=api",
+  "category": "Agency / studio",
+  "comp_potential": "unknown",
+  "company": "Benrey",
+  "company_slug": "benrey",
+  "concerns": [
+    "Compensation not disclosed",
+    "Agency / studio (Tier 2)",
+    "Also asks for: Blender",
+    "Reposted / refreshed listing — original posting is older"
+  ],
+  "contacts_count": 0,
+  "content_hash": "7a4d85f7e72e",
+  "date_quality": "exact",
+  "deadline": "2026-12-23T23:29:04Z",
+  "employment": "full-time",
+  "first_seen": "2026-10-15T15:27:11Z",
+  "fit": 71,
+  "has_hiring_manager": false,
+  "has_named_contact": false,
+  "has_public_email": false,
+  "id": "43c2f0316d50ed",
+  "include_reason": "Motion design title",
+  "india": {
+    "cities": [],
+    "company": "yes",
+    "reason": "Worldwide remote",
+    "status": "likely",
+    "visa": false
+  },
+  "kind": "motion",
+  "last_verified": "2026-10-27T10:26:45Z",
+  "location": "Worldwide",
+  "logo": null,
+  "needs_review": false,
+  "official": false,
+  "posted_at": "2026-10-24T23:29:04Z",
+  "repost": true,
+  "requirements": [
+    "Experience working as a motion designer 3+ years",
+    "Solid experience with AI motion-design tools and the ability to create high-quality animations",
+    "Proven motion graphics and video editing experience",
+    "Professional proficiency in Adobe After Effects, working with plugins, and expressions. Creating 3D and 2D visual effects, and has good tracking, keying, and color correction skills. Confident use of Blender, Premiere Pro, Photoshop, Illustrator, Cinema 4D and Figma",
+    "Availability of a strong portfolio showcasing work and demonstrating a wide range of motion graphics skills",
+    "Knowledge of the basics of graphic design, principles of animation, composition, and typography"
+  ],
+  "responsibilities": [
+    "Create and design engaging motion graphics content for various platforms including social media, websites, and digital advertising.",
+    "Create videos and animated banners, text, logo, character, or other kinds of animations to be used in videos, websites, emails, campaigns and other media.",
+    "Collaborate closely with the creative team, including graphic designers, product designers, and content creators, to develop and execute concepts.",
+    "Encode videos for any required format and uploading to media sources.",
+    "Research and analyze best design techniques and solutions to create motion graphics.",
+    "Participate in brainstorming sessions and contribute creative ideas.",
+    "Manage multiple projects and ensure that those are completed according to the stipulated timeframe while effectively applying our methodology and following quality standards."
+  ],
+  "salary": {
+    "context_benchmark": "mi-dataset-remote",
+    "note": "Not disclosed. Global remote pay context is available, but there is no evidence it applies to this employer or to India-based hires.",
+    "state": "unavailable"
+  },
+  "scores": {
+    "ai": 44,
+    "comp": 48,
+    "company": 62,
+    "location": 92,
+    "seniority": 66,
+    "skill": 92
+  },
+  "seniority": "unspecified",
+  "snippet": "Benrey is a full-stack marketing agency built for businesses that are done wasting time. We don’t pitch fairy tales. We don’t push theories. We analyse and execute.\n We handle everything from paid media and creative to SEO, ASO, content, PR, brand protection, ambassadorship and beyond - digital, print, and everything in between. If it moves the brand forward, if it makes an impact - we’re on it.\n We’re the team you c",
+  "source_primary": "Himalayas",
+  "sources": [
+    {
+      "id": "himalayas",
+      "job_id": "https://himalayas.app/companies/benrey/jobs/motion-designer-1817884003",
+      "kind": "board",
+      "name": "Himalayas",
+      "posted_at": "2026-10-24T23:29:04Z",
+      "seen_at": "2026-10-27T10:26:45Z",
+      "url": "https://himalayas.app/companies/benrey/jobs/motion-designer-1817884003?utm_source=api"
+    }
+  ],
+  "specializations": [
+    "3D motion",
+    "Technical storytelling"
+  ],
+  "status": "active",
+  "tier": 2,
+  "title": "Motion Designer",
+  "tools": [
+    "After Effects",
+    "Cinema 4D",
+    "Figma",
+    "Blender",
+    "Premiere Pro",
+    "Illustrator",
+    "Photoshop"
+  ],
+  "updated_at": null,
+  "url": "https://himalayas.app/companies/benrey/jobs/motion-designer-1817884003?utm_source=api",
+  "why": [
+    "Core motion design role",
+    "Tools you already use: After Effects, Cinema 4D, Figma, Premiere Pro, Illustrator",
+    "Specialisations in scope: 3D motion, Technical storytelling",
+    "Worldwide remote",
+    "Benrey already hires people in India"
+  ],
+  "work_mode": "remote",
+  "years_min": null
+}

@@ -1,0 +1,81 @@
+{
+ "apply_url": null,
+ "board_apply": "https://remoteOK.com/remote-jobs/remote-qa-vds-innovation-1134968",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "VDS INNOVATION",
+ "company_slug": "vds-innovation",
+ "concerns": [
+  "Employer has not confirmed hiring from India",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "ee42b59d218a",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-10-19T13:24:59Z",
+ "fit": 57,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "2f0118f84cb8a1",
+ "include_reason": "QA / test engineer title",
+ "india": {
+  "cities": [],
+  "company": "unclear",
+  "reason": "Remote, region not stated",
+  "status": "unconfirmed",
+  "visa": false
+ },
+ "kind": "qa-engineer",
+ "last_verified": "2026-10-27T10:50:24Z",
+ "location": "Vijayawada East,",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-07-16T15:40:13Z",
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "context_benchmark": "qa-dataset-remote",
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 60,
+  "company": 66,
+  "location": 36,
+  "seniority": 84,
+  "skill": 43
+ },
+ "seniority": "unspecified",
+ "snippet": "Most people die never realizing they lived a life doing mediocre work. If you arenât one among them and need a purpose and meaning to what you do, you will find company at Keka. We do our best, to make your job feel inspired, enthused and is something that you would look forward to doing every day, something that would push you out of your bed. And not make you wonder everyday when your next vacation is. We do have",
+ "source_primary": "Remote OK",
+ "sources": [
+  {
+   "id": "remoteok",
+   "job_id": "1134968",
+   "kind": "board",
+   "name": "Remote OK",
+   "posted_at": "2026-07-16T15:40:13Z",
+   "seen_at": "2026-10-27T10:50:24Z",
+   "url": "https://remoteOK.com/remote-jobs/remote-qa-vds-innovation-1134968"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 3,
+ "title": "QA",
+ "tools": [],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://remoteOK.com/remote-jobs/remote-qa-vds-innovation-1134968",
+ "why": [
+  "QA / test engineer role"
+ ],
+ "work_mode": "remote",
+ "years_max": null,
+ "years_min": null
+}

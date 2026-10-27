@@ -1,0 +1,88 @@
+{
+ "aliases": [
+  "Paytm"
+ ],
+ "ats": {
+  "slug": "paytm",
+  "type": "lever"
+ },
+ "careers": "https://jobs.lever.co/paytm",
+ "category": "Fintech",
+ "classification": "QA Intelligence registry (curated)",
+ "domain": "paytm.com",
+ "facts_note": "Category from public company information; funding not verified",
+ "hq": "Noida, IN",
+ "india_hiring": {
+  "board": {
+   "apac": 0,
+   "countries": [
+    "India",
+    "Luxembourg",
+    "Canada",
+    "UAE",
+    "Indonesia"
+   ],
+   "india": 187,
+   "india_samples": [
+    {
+     "location": "Noida, Uttar Pradesh",
+     "title": "AM/Manager– Procurement (Admin, Real Estate & HR)",
+     "url": "https://jobs.lever.co/paytm/feb33510-9ea7-4b69-b69d-87a41f7c2c2c"
+    },
+    {
+     "location": "Dubai • Noida, Uttar Pradesh • Mumbai, Maharashtra",
+     "title": "Account Executive/ Director - AI Agentic Enterprise Sales",
+     "url": "https://jobs.lever.co/paytm/9eed4fec-73f7-4114-a5d3-b2f689c92e8c"
+    },
+    {
+     "location": "Noida, Uttar Pradesh • Bangalore, Karnataka",
+     "title": "Analytics Lead - UPI Product | Experience : 7-9 yrs",
+     "url": "https://jobs.lever.co/paytm/8c4d24b4-62d4-466d-9daa-b3c7804c5a67"
+    },
+    {
+     "location": "Noida, Uttar Pradesh",
+     "title": "Analytics Lead- User Growth I Exp- 8- 10 Years",
+     "url": "https://jobs.lever.co/paytm/4c41d1d2-ed6b-4726-95b8-beb76999ee26"
+    }
+   ],
+   "open_samples": [],
+   "remote": 2,
+   "restricted_remote": 0,
+   "restricted_samples": [],
+   "slug": "paytm",
+   "total": 197,
+   "type": "lever",
+   "url": "https://jobs.lever.co/paytm",
+   "worldwide": 0
+  },
+  "changed_at": "2026-10-27T10:50:24Z",
+  "evidence": [
+   {
+    "detail": "AM/Manager– Procurement (Admin, Real Estate & HR) (Noida, Uttar Pradesh); Account Executive/ Director - AI Agentic Enterprise Sales (Dubai • Noida, Uttar Pradesh • Mumbai, Maharashtra); Analytics Lead - UPI Product | Exp",
+    "kind": "board",
+    "label": "187 of 197 open roles are located in India",
+    "url": "https://jobs.lever.co/paytm",
+    "weight": 5
+   },
+   {
+    "detail": "Noida, IN",
+    "kind": "registry",
+    "label": "Headquartered in India",
+    "url": "https://jobs.lever.co/paytm",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-10-19T15:45:44Z",
+  "india_based": true,
+  "method": "Careers board, posting text",
+  "sig": "4fb6a663c8",
+  "summary": "Paytm is headquartered in India.",
+  "verdict": "yes"
+ },
+ "name": "Paytm",
+ "slug": "paytm",
+ "tier": 1,
+ "tracks": [
+  "software"
+ ]
+}

@@ -1,0 +1,116 @@
+{
+  "apply_url": null,
+  "board_apply": "https://jobs.workable.com/view/aZ4dPr8At8w2imyGaRw8eh/quality-engineering-(contract%2Ffreelance-1-month)-in-bengaluru-at-side",
+  "category": "Game studio",
+  "comp_potential": "unknown",
+  "company": "Side",
+  "company_slug": "side",
+  "concerns": [
+    "Mentions test automation — be ready to discuss it or show a small script",
+    "Also asks for: API testing, Programming, Localization",
+    "Office outside Mumbai — relocation within India",
+    "Pay not disclosed — ask for the range early",
+    "Contract role"
+  ],
+  "contacts_count": 0,
+  "content_hash": "7608bde2cb8e",
+  "date_quality": "exact",
+  "deadline": null,
+  "employment": "contract",
+  "first_seen": "2026-10-19T13:24:59Z",
+  "fit": 70,
+  "has_hiring_manager": false,
+  "has_named_contact": false,
+  "has_public_email": false,
+  "id": "86816edc12cbc3",
+  "include_reason": "Freelance / crowd-testing role",
+  "india": {
+    "cities": [
+      "Bengaluru"
+    ],
+    "company": "yes",
+    "reason": "Location lists India",
+    "status": "confirmed",
+    "visa": false
+  },
+  "kind": "crowd",
+  "last_verified": "2026-10-19T13:24:59Z",
+  "location": "Bengaluru, Karnataka, India",
+  "logo": "https://workablehr.s3.amazonaws.com/uploads/account/logo/302673/logo",
+  "needs_review": false,
+  "official": false,
+  "posted_at": "2026-10-15T12:51:06Z",
+  "repost": false,
+  "requirements": [
+    "Proven experience of 2 to 4 years as an SDET, Automation Engineer, QA Engineer or Quality Engineer within a software engineering environment.",
+    "Strong experience developing and maintaining automation frameworks .",
+    "Hands-on programming expertise in C#, Java, and/or Python .",
+    "Solid understanding of backend testing, API testing, and client-server architectures .",
+    "Experience integrating automated testing into CI/CD pipelines .",
+    "Hands-on experience with mobile application testing and automation .",
+    "Strong scripting and coding capabilities with a developer mindset."
+  ],
+  "responsibilities": [
+    "Design, develop, and maintain robust automation frameworks for web, mobile, API, and backend testing.",
+    "Build scalable automated test solutions integrated into CI/CD pipelines.",
+    "Collaborate closely with software engineers, product teams, and QA teams to identify quality risks early in the development lifecycle.",
+    "Develop automated test scripts and reusable testing components using modern programming languages.",
+    "Validate backend services, APIs, client-server interactions, and distributed systems.",
+    "Improve test coverage, execution efficiency, and release confidence through automation best practices.",
+    "Investigate, troubleshoot, and resolve complex quality issues across multiple platforms."
+  ],
+  "salary": {
+    "state": "unavailable"
+  },
+  "scores": {
+    "ai": 74,
+    "comp": 60,
+    "company": 96,
+    "location": 60,
+    "seniority": 84,
+    "skill": 56
+  },
+  "seniority": "unspecified",
+  "snippet": "At Side , we help bring some of the world's most exciting games to life. As a global video game development and services partner, we work with leading studios and publishers across the gaming industry, supporting the creation, quality, and delivery of next-generation gaming experiences enjoyed by millions of players worldwide.\n As we continue to expand our engineering capabilities, we're looking for passionate Softwa",
+  "source_primary": "Workable job marketplace",
+  "sources": [
+    {
+      "id": "workable",
+      "job_id": "50d9a0ba-1a6b-4d01-a556-e95ed60c4e5e",
+      "kind": "board",
+      "name": "Workable job marketplace",
+      "posted_at": "2026-10-15T12:51:06Z",
+      "seen_at": "2026-10-19T13:24:59Z",
+      "url": "https://jobs.workable.com/view/aZ4dPr8At8w2imyGaRw8eh/quality-engineering-(contract%2Ffreelance-1-month)-in-bengaluru-at-side"
+    }
+  ],
+  "specializations": [
+    "Mobile apps",
+    "Unity / Unreal"
+  ],
+  "status": "active",
+  "tier": 1,
+  "title": "Quality Engineering (Contract/Freelance-1 month)",
+  "tools": [
+    "Stress / load testing",
+    "Test cases & scenarios",
+    "API testing",
+    "Test automation",
+    "Programming",
+    "Agile / Scrum",
+    "Localization"
+  ],
+  "track": "game",
+  "updated_at": null,
+  "url": "https://jobs.workable.com/view/aZ4dPr8At8w2imyGaRw8eh/quality-engineering-(contract%2Ffreelance-1-month)-in-bengaluru-at-side",
+  "why": [
+    "Freelance / crowd testing — paid per test cycle, remote",
+    "Already on your resume: Stress / load testing, Test cases & scenarios",
+    "Platforms you test on: Mobile apps",
+    "Game studio company",
+    "Location lists India"
+  ],
+  "work_mode": "onsite",
+  "years_max": 4,
+  "years_min": null
+}

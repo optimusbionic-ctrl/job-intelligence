@@ -1,0 +1,30 @@
+{
+  "category": "Other",
+  "classification": "Inferred from job description",
+  "india_hiring": {
+    "board": null,
+    "changed_at": "2026-10-23T14:44:10Z",
+    "evidence": [
+      {
+        "detail": "QA Engineer-Agentic AI Testing& Playwright Automation (Bengaluru) — Bangalore, India",
+        "kind": "posting",
+        "label": "A current posting lists India as a location",
+        "url": "https://www.shine.com/jobs/qa-engineer-agentic-ai-testing-playwright-automation-bengaluru/nubes/19885877",
+        "weight": 5
+      }
+    ],
+    "first_checked_at": "2026-10-23T14:44:10Z",
+    "india_based": false,
+    "method": "Careers board, posting text",
+    "sig": "17e68ae32e",
+    "summary": "A current posting lists India as a location.",
+    "verdict": "yes"
+  },
+  "inferred": true,
+  "name": "Nubes",
+  "slug": "nubes",
+  "tier": 3,
+  "tracks": [
+    "software"
+  ]
+}

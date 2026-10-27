@@ -1,0 +1,96 @@
+{
+  "apply_url": null,
+  "board_apply": "https://www.shine.com/jobs/software-tester/harjai-computers-private-limited/19734075",
+  "category": "Other",
+  "comp_potential": "unknown",
+  "company": "HARJAI COMPUTERS PRIVATE LIMITED",
+  "company_slug": "harjai-computers-private-limited",
+  "concerns": [
+    "Also asks for: Programming",
+    "Office outside Mumbai — relocation within India",
+    "Pay not disclosed — ask for the range early"
+  ],
+  "contacts_count": 0,
+  "content_hash": "773965deba68",
+  "date_quality": "exact",
+  "deadline": null,
+  "employment": "full-time",
+  "first_seen": "2026-10-19T13:24:59Z",
+  "fit": 69,
+  "has_hiring_manager": false,
+  "has_named_contact": false,
+  "has_public_email": false,
+  "id": "02737a379c4a7d",
+  "include_reason": "Manual / functional QA title",
+  "india": {
+    "cities": [],
+    "company": "yes",
+    "reason": "Location lists India",
+    "status": "confirmed",
+    "visa": false
+  },
+  "kind": "manual-qa",
+  "last_verified": "2026-10-21T04:44:53Z",
+  "location": "Ahmednagar, India",
+  "logo": "https://staticrect.shine.com/r/m/images/job_logo/7c4a21f5d8e84382a7ca9d468b4859d2.webp",
+  "needs_review": false,
+  "official": false,
+  "posted_at": "2026-10-06T13:02:24Z",
+  "repost": false,
+  "requirements": [
+    "(Summary from the Shine.com listing; open the posting for the full description.)"
+  ],
+  "responsibilities": [],
+  "salary": {
+    "state": "unavailable"
+  },
+  "scores": {
+    "ai": 58,
+    "comp": 60,
+    "company": 66,
+    "location": 80,
+    "seniority": 100,
+    "skill": 50
+  },
+  "seniority": "unspecified",
+  "snippet": "Experience: 2 to 7 Yrs\nSkills: manual testing, java, testing, software tester\n(Summary from the Shine.com listing; open the posting for the full description.)",
+  "source_primary": "Shine.com",
+  "sources": [
+    {
+      "id": "shine",
+      "job_id": "19734075",
+      "kind": "board",
+      "name": "Shine.com",
+      "posted_at": "2026-10-07T18:44:13Z",
+      "seen_at": "2026-10-21T04:44:53Z",
+      "url": "https://www.shine.com/jobs/software-tester/harjai-computers-private-limited/19734075"
+    },
+    {
+      "id": "shine",
+      "job_id": "19718527",
+      "kind": "board",
+      "name": "Shine.com",
+      "posted_at": "2026-10-06T13:02:24Z",
+      "seen_at": "2026-10-21T04:44:53Z",
+      "url": "https://www.shine.com/jobs/software-tester/harjai-computers-private-limited/19718527"
+    }
+  ],
+  "specializations": [],
+  "status": "active",
+  "tier": 3,
+  "title": "Software Tester",
+  "tools": [
+    "Programming"
+  ],
+  "track": "software",
+  "updated_at": null,
+  "url": "https://www.shine.com/jobs/software-tester/harjai-computers-private-limited/19734075",
+  "why": [
+    "Manual / functional QA — the core of your resume",
+    "Asks for 2–7 years — you have about 2.5",
+    "Location lists India"
+  ],
+  "work_mode": "onsite",
+  "years_max": 7,
+  "years_min": 2
+}

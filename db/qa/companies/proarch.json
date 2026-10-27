@@ -1,0 +1,32 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "domain": "proarch.com",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-27T10:50:24Z",
+  "evidence": [
+   {
+    "detail": "QA Engineer — Bengaluru, Karnataka, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://jobs.workable.com/view/7iUsyiWZz9C37YyXWK2npF/qa-engineer-in-bengaluru-at-proarch",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-10-27T10:50:24Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "5345e5a401",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "logo": "https://workablehr.s3.amazonaws.com/uploads/account/logo/390768/logo",
+ "name": "ProArch",
+ "slug": "proarch",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}

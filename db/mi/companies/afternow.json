@@ -1,0 +1,55 @@
+{
+  "category": "Other",
+  "classification": "Inferred from job description",
+  "india_hiring": {
+    "board": null,
+    "changed_at": "2026-10-15T16:19:24Z",
+    "evidence": [],
+    "first_checked_at": "2026-10-15T16:19:24Z",
+    "india_based": false,
+    "method": "Careers board, posting text, web search",
+    "sig": "54391d7cdf",
+    "summary": "No public evidence yet about hiring from India.",
+    "verdict": "unclear",
+    "web": {
+      "checked_at": "2026-10-15T16:49:04Z",
+      "query": "\"Afternow\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
+      "results": [
+        {
+          "description": "",
+          "title": "Working Remotely Without an Employer of Record in India 2025",
+          "url": "https://ins-globalconsulting.com/?p=80019"
+        },
+        {
+          "description": "",
+          "title": "Work Remotely for Global Companies Hiring in India",
+          "url": "https://www.wisemonk.io/for-candidates"
+        },
+        {
+          "description": "",
+          "title": "Build your career with global companies, without leaving India",
+          "url": "https://www.wisemonk.io/for-candidate"
+        },
+        {
+          "description": "",
+          "title": "employer of record",
+          "url": "https://remote.com/country-explorer/india/employer-of-record"
+        },
+        {
+          "description": "",
+          "title": "India leads the pack in global remote hiring for international workers in the Asia/Pacific Region",
+          "url": "https://cxotoday.com/media-coverage/india-leads-the-pack-in-global-remote-hiring-for-international-workers-in-the-asia-pacific-region/"
+        },
+        {
+          "description": "",
+          "title": "Introducing Work Forward! A better future of work for people and organizations",
+          "url": "https://www.flexindex.com/company/remunance-com"
+        }
+      ]
+    }
+  },
+  "inferred": true,
+  "name": "Afternow",
+  "slug": "afternow",
+  "tier": 3
+}

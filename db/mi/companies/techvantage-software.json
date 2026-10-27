@@ -1,0 +1,63 @@
+{
+  "category": "SaaS",
+  "classification": "Inferred from job description",
+  "india_hiring": {
+    "board": null,
+    "changed_at": "2026-10-16T03:28:23Z",
+    "evidence": [
+      {
+        "detail": "Motion Graphic Designer — India",
+        "kind": "posting",
+        "label": "A current posting lists India as a location",
+        "url": "https://in.linkedin.com/jobs/view/motion-graphic-designer-at-techvantage-software-4475694541",
+        "weight": 5
+      }
+    ],
+    "first_checked_at": "2026-10-15T16:19:24Z",
+    "india_based": false,
+    "method": "Careers board, posting text, web search",
+    "sig": "44b3527fc9",
+    "summary": "A current posting lists India as a location.",
+    "verdict": "yes",
+    "web": {
+      "checked_at": "2026-10-15T16:52:46Z",
+      "query": "\"Techvantage Software\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
+      "results": [
+        {
+          "description": "Techvantage Software - 4 Active jobs. About Us At TechVantage Software ... Remote Jobs · Blog · Employer resources. BeBee. For job seekers · For employers ...",
+          "title": "Techvantage Software - Jobs - BeBee",
+          "url": "https://bebee.com/in/companies/techvantage-software"
+        },
+        {
+          "description": "Close menu. Direct message the job poster from Techvantage Software ... Senior Fullstack Engineer (Remote). Zencastr. San Francisco, CA 11 ...",
+          "title": "Senior Software Engineer – Full-Stack - Jobs - LinkedIn",
+          "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-%E2%80%93-full-stack-at-techvantage-software-4464536529"
+        },
+        {
+          "description": "Apply to Sr. Data Analyst Tariff Data Job in Techvantage Software at Pune ... India & US-based delivery teamsTroubleshoot modelling issues with cross ...",
+          "title": "Sr. Data Analyst Tariff Data Job in Techvantage Software at Pune",
+          "url": "https://www.shine.com/jobs/sr-data-analyst-tariff-data/techvantage-software/19554234"
+        },
+        {
+          "description": "Director, Professional Services Nice Cxone in united states(1000+) ; Senior IT Support Engineer, Tier 3/SME – NICE CXone. Techvantage Software · Computer Software ...",
+          "title": "Director, Professional Services Nice Cxone Jobs in United States ...",
+          "url": "https://jobright.ai/job-list/director%2C-professional-services---nice-cxone-jobs-in-united-states"
+        },
+        {
+          "description": "3 days ago · Motion Graphic Designer. Techvantage Software Gurugram, Haryana, India. 12 hours ago Be among the first 25 applicants. See who Techvantage ...",
+          "title": "Motion Graphic Designer - Techvantage Software - LinkedIn",
+          "url": "https://in.linkedin.com/jobs/view/motion-graphic-designer-at-techvantage-software-4475694541"
+        },
+        {
+          "description": "Mid-Level Software Engineer. Technology. Techvantage Software. New York ... Remote Jobs · Blog · Employer resources. BeBee. For job seekers · For employers ...",
+          "title": "Mid-Level Software Engineer - Techvantage Software - BeBee",
+          "url": "https://bebee.com/us/jobs/mid-level-software-engineer-techvantage-software-new-york--t7xk-849171775"
+        }
+      ]
+    }
+  },
+  "inferred": true,
+  "name": "Techvantage Software",
+  "slug": "techvantage-software",
+  "tier": 1
+}

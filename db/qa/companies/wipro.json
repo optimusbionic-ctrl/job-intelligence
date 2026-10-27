@@ -1,0 +1,30 @@
+{
+  "category": "Other",
+  "classification": "Inferred from job description",
+  "india_hiring": {
+    "board": null,
+    "changed_at": "2026-10-20T13:44:34Z",
+    "evidence": [
+      {
+        "detail": "Wipro Test Engineer 2026 | Test Engineer L1 | Mumbai  Apply Now — Mumbai City, India",
+        "kind": "posting",
+        "label": "A current posting lists India as a location",
+        "url": "https://www.shine.com/jobs/wipro-test-engineer-test-engineer-l1-mumbai-apply-now/wipro/19535718",
+        "weight": 5
+      }
+    ],
+    "first_checked_at": "2026-10-20T13:44:34Z",
+    "india_based": false,
+    "method": "Careers board, posting text",
+    "sig": "3267c7f9f1",
+    "summary": "A current posting lists India as a location.",
+    "verdict": "yes"
+  },
+  "inferred": true,
+  "name": "Wipro",
+  "slug": "wipro",
+  "tier": 3,
+  "tracks": [
+    "software"
+  ]
+}

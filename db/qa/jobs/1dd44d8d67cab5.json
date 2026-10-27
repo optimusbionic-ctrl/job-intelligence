@@ -1,0 +1,112 @@
+{
+  "apply_url": null,
+  "board_apply": "https://jobs.workable.com/view/jjpBBEXHYi4i3pt5RyBV4G/remote-qa-engineer-in-india-at-jove",
+  "category": "Product / SaaS",
+  "comp_potential": "unknown",
+  "company": "JoVE",
+  "company_slug": "jove",
+  "concerns": [
+    "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
+    "Also asks for: API testing, Programming",
+    "Asks for 4+ years — you have about 2.5",
+    "Pay not disclosed — ask for the range early"
+  ],
+  "contacts_count": 0,
+  "content_hash": "3b40e2d429db",
+  "date_quality": "exact",
+  "deadline": null,
+  "employment": "full-time",
+  "first_seen": "2026-10-22T14:44:45Z",
+  "fit": 75,
+  "has_hiring_manager": false,
+  "has_named_contact": false,
+  "has_public_email": false,
+  "id": "1dd44d8d67cab5",
+  "include_reason": "Automation-heavy QA (SDET)",
+  "india": {
+    "cities": [],
+    "company": "yes",
+    "reason": "Location lists India",
+    "status": "confirmed",
+    "visa": false
+  },
+  "kind": "automation",
+  "last_verified": "2026-10-22T14:44:45Z",
+  "location": "India (Remote)",
+  "logo": "https://workablehr.s3.amazonaws.com/uploads/account/logo/736049/logo",
+  "needs_review": false,
+  "official": false,
+  "posted_at": "2026-10-22T14:11:30Z",
+  "repost": false,
+  "requirements": [
+    "Familiarity with Software Development Life cycle (SDLC) and testing process",
+    "A sense of ownership and pride in your performance and its impact on the Organization's success.",
+    "A competitive compensation package.",
+    "We are fully remote!",
+    "You will make a direct impact in accelerating science research and education.",
+    "Opportunity to work with global teams and in an environment that promotes innovation and collaboration.",
+    "Our strong promotion from within culture draws a clear path to advance your career with us."
+  ],
+  "responsibilities": [
+    "We are looking for an experienced Quality Assurance Engineer to spearhead our quality assurance activities. You will manage software and product testing within the Technology department. If you have extensive experience in test suite management, automated testing, and high-level problem-solving skills, then we want to talk to you.",
+    "Lead & Execute the testing of our client-facing applications, internal tools, and backend APIs to identify deficiencies to ensure quality expectations are met.",
+    "Utilize and promote formal testing methodologies to contribute to a process focused on high-quality output.",
+    "Investigate product quality to make improvements to achieve high levels of customer satisfaction.",
+    "Log and track defects using the designated tracking system and tools.",
+    "Identify quality assurance process bottlenecks and suggest actions for improvement.",
+    "Work closely with Development, Product Management, and QA team members to develop an appropriate test approach and strategy for specific products and product lines."
+  ],
+  "salary": {
+    "state": "unavailable"
+  },
+  "scores": {
+    "ai": 78,
+    "comp": 60,
+    "company": 95,
+    "location": 100,
+    "seniority": 72,
+    "skill": 57
+  },
+  "seniority": "unspecified",
+  "snippet": "JoVE is the world-leading video platform for scientific research and education. Millions of scientists, educators and students worldwide use JoVE for their research, teaching and learning. Our institutional clients comprise over 1,000 universities, colleges, and biopharma companies, including leaders such as Harvard, MIT, and Stanford. As a rapidly growing company, with offices in the USA, UK, Australia, and India se",
+  "source_primary": "Workable job marketplace",
+  "sources": [
+    {
+      "id": "workable",
+      "job_id": "94566fb8-feed-4765-9b54-f8428addfde2",
+      "kind": "board",
+      "name": "Workable job marketplace",
+      "posted_at": "2026-10-22T14:11:30Z",
+      "seen_at": "2026-10-22T14:44:45Z",
+      "url": "https://jobs.workable.com/view/jjpBBEXHYi4i3pt5RyBV4G/remote-qa-engineer-in-india-at-jove"
+    }
+  ],
+  "specializations": [
+    "Mobile apps",
+    "Web apps"
+  ],
+  "status": "active",
+  "tier": 1,
+  "title": "QA Engineer",
+  "tools": [
+    "Regression testing",
+    "Test cases & scenarios",
+    "Bug reporting",
+    "API testing",
+    "Test automation",
+    "Programming",
+    "Agile / Scrum"
+  ],
+  "track": "software",
+  "updated_at": null,
+  "url": "https://jobs.workable.com/view/jjpBBEXHYi4i3pt5RyBV4G/remote-qa-engineer-in-india-at-jove",
+  "why": [
+    "Already on your resume: Regression testing, Test cases & scenarios, Bug reporting",
+    "Platforms you test on: Mobile apps",
+    "Product / SaaS company",
+    "Location lists India"
+  ],
+  "work_mode": "remote",
+  "years_max": null,
+  "years_min": 4
+}

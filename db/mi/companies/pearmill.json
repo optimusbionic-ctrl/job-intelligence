@@ -1,0 +1,86 @@
+{
+  "ats": {
+    "slug": "pearmill",
+    "type": "ashby"
+  },
+  "category": "Agency / studio",
+  "classification": "Inferred from job description",
+  "india_hiring": {
+    "board": {
+      "apac": 0,
+      "countries": [
+        "United States",
+        "Canada",
+        "Spain",
+        "United Kingdom"
+      ],
+      "india": 0,
+      "india_samples": [],
+      "open_samples": [],
+      "remote": 11,
+      "restricted_remote": 10,
+      "restricted_samples": [
+        {
+          "location": "Remote (US) • Remote (UK) • Remote (Spain)",
+          "title": "Analytics Lead",
+          "url": "https://jobs.ashbyhq.com/pearmill/1a99f111-e09f-4f1a-91fb-470743b511eb"
+        },
+        {
+          "location": "Remote (+/- 2 hours of ET) • Remote (UK) • Remote (Spain) • Remote (US)",
+          "title": "Client Strategy Lead",
+          "url": "https://jobs.ashbyhq.com/pearmill/ee0111c3-64f0-446d-8df5-412769381731"
+        },
+        {
+          "location": "Remote (Canada) • Remote (US) • Remote (+/- 3 hours of ET)",
+          "title": "Client Success- Paid Ads",
+          "url": "https://jobs.ashbyhq.com/pearmill/ff4b0db1-9f1f-4175-98d5-b3d5737bf089"
+        },
+        {
+          "location": "Remote (Canada) • Remote (US) • Remote (+/- 3 hours of ET)",
+          "title": "Growth Manager",
+          "url": "https://jobs.ashbyhq.com/pearmill/ec28b5aa-2f7e-416a-a8aa-8883ad3e67e0"
+        }
+      ],
+      "slug": "pearmill",
+      "total": 11,
+      "type": "ashby",
+      "url": "https://jobs.ashbyhq.com/pearmill",
+      "worldwide": 0
+    },
+    "changed_at": "2026-10-27T10:26:45Z",
+    "evidence": [
+      {
+        "detail": "None are located in India or open worldwide; 10 remote roles are limited to named countries",
+        "kind": "board",
+        "label": "All 11 open roles are in United States, Canada, Spain and United Kingdom",
+        "url": "https://jobs.ashbyhq.com/pearmill",
+        "weight": -3
+      },
+      {
+        "detail": "Motion Graphic Designer (Contract) — Worldwide",
+        "kind": "posting",
+        "label": "A current posting is open worldwide",
+        "url": "https://himalayas.app/companies/pearmill/jobs/motion-graphic-designer-contract?utm_source=api",
+        "weight": 3
+      },
+      {
+        "detail": "…le.**Compensation Philosophy**We’re a fully remote company, with team members living in many countries around the world. Each country has different market rates for roles, and we strive to…",
+        "kind": "posting",
+        "label": "Posting describes hiring across countries",
+        "url": "https://himalayas.app/companies/pearmill/jobs/motion-graphic-designer-contract?utm_source=api",
+        "weight": 3
+      }
+    ],
+    "first_checked_at": "2026-10-15T16:19:24Z",
+    "india_based": false,
+    "method": "Careers board, posting text",
+    "sig": "97ce0f95f3",
+    "summary": "No India-located roles found, but a current posting is open worldwide.",
+    "verdict": "likely"
+  },
+  "inferred": true,
+  "logo": "https://cdn-images.himalayas.app/k9we0hbry7uot0y7qp4bnipz9zhq",
+  "name": "Pearmill",
+  "slug": "pearmill",
+  "tier": 2
+}

@@ -1,0 +1,105 @@
+{
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/as-manual-functional-integration-tester/converse-placement-services-india-private-limited/19869271",
+ "category": "Recruiter (client not named)",
+ "comp_potential": "listed_good",
+ "company": "CONVERSE PLACEMENT SERVICES INDIA PRIVATE LIMITED",
+ "company_slug": "converse-placement-services-india-private-limited",
+ "concerns": [
+  "Asks for 4+ years — you have about 2.5",
+  "Office outside Mumbai — relocation within India"
+ ],
+ "contacts_count": 0,
+ "content_hash": "e662f0f6e5aa",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-10-21T22:43:56Z",
+ "fit": 71,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "247030d5f4108b",
+ "include_reason": "Manual / functional QA title",
+ "india": {
+  "cities": [
+   "Pune",
+   "Hyderabad"
+  ],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "manual-qa",
+ "last_verified": "2026-10-27T10:50:24Z",
+ "location": "Pune, Belgaum, Gulbarga, Hyderabad, Hubli, Bidar, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-10-20T12:03:55Z",
+ "repost": false,
+ "requirements": [
+  "(Summary from the Shine.com listing; open the posting for the full description.)"
+ ],
+ "responsibilities": [],
+ "salary": {
+  "applies_india": true,
+  "basis": "listed",
+  "currency": "INR",
+  "fx_at": "Tue, 27 Oct 2026 00:02:31 +0000",
+  "fx_rate": 1.0,
+  "inr_max": 1400000,
+  "inr_min": 100000,
+  "max": 1400000,
+  "min": 100000,
+  "note": "Listed in the posting",
+  "original_period": "annual",
+  "period": "annual",
+  "source_name": "Shine.com",
+  "source_url": "https://www.shine.com/jobs/as-manual-functional-integration-tester/converse-placement-services-india-private-limited/19869271",
+  "state": "verified",
+  "verified_at": "2026-10-27T10:50:24Z"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 100,
+  "company": 66,
+  "location": 78,
+  "seniority": 72,
+  "skill": 64
+ },
+ "seniority": "unspecified",
+ "snippet": "Experience: 4 to 9 Yrs\nSkills: as400, manual testing, functional testing, integration testing\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "19869271",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-10-20T12:03:55Z",
+   "seen_at": "2026-10-27T10:50:24Z",
+   "url": "https://www.shine.com/jobs/as-manual-functional-integration-tester/converse-placement-services-india-private-limited/19869271"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 3,
+ "title": "AS400 Manual/Functional/Integration Tester",
+ "tools": [
+  "Functional testing"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/as-manual-functional-integration-tester/converse-placement-services-india-private-limited/19869271",
+ "why": [
+  "Manual / functional QA — the core of your resume",
+  "Already on your resume: Functional testing",
+  "Pay is listed in the posting",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": 9,
+ "years_min": 4
+}

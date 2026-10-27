@@ -1,0 +1,123 @@
+{
+  "apply_url": null,
+  "board_apply": "https://himalayas.app/companies/creative-clicks-b-v/jobs/qa-analyst?utm_source=api",
+  "category": "Product / SaaS",
+  "comp_potential": "listed_global",
+  "company": "Creative Clicks B.V.",
+  "company_slug": "creative-clicks-b-v",
+  "concerns": [
+    "Contract role"
+  ],
+  "contacts_count": 0,
+  "content_hash": "1c25d9dbe9f0",
+  "date_quality": "exact",
+  "deadline": "2026-12-21T03:39:51Z",
+  "employment": "contract",
+  "first_seen": "2026-10-22T04:45:32Z",
+  "fit": 92,
+  "has_hiring_manager": false,
+  "has_named_contact": false,
+  "has_public_email": false,
+  "id": "df1e2c123b1611",
+  "include_reason": "Manual / functional QA title",
+  "india": {
+    "cities": [],
+    "company": "likely",
+    "reason": "Worldwide remote",
+    "status": "likely",
+    "visa": false
+  },
+  "kind": "manual-qa",
+  "last_verified": "2026-10-22T04:45:32Z",
+  "location": "Worldwide",
+  "logo": "https://cdn-images.himalayas.app/96zp9ig6218ryz2hoem3z8ir26gz",
+  "needs_review": false,
+  "official": false,
+  "posted_at": "2026-10-22T03:39:52Z",
+  "repost": false,
+  "requirements": [
+    "Document and report test results, including any defects or inconsistencies, in a structured and timely manner.",
+    "Collaborate with internal stakeholders to understand product requirements and align testing efforts with business goals.",
+    "Participate in design and requirement reviews, offering insights on potential risks, usability concerns, and quality improvements.",
+    "Minimum of 1 year of experience in software testing or quality assurance.",
+    "Solid understanding of software test design and testing methodologies.",
+    "Familiarity with various testing techniques and compatibility across different software platforms.",
+    "Strong ability to clearly describe unexpected or incorrect system behavior."
+  ],
+  "responsibilities": [
+    "For our growing MOVION product team, we're looking for a QA Analyst. Your mission is to make sure quality assurance is seamlessly integrated throughout the software development lifecycle from initial design to final release.",
+    "You'll collaborate closely with developers, product managers, and other stakeholders to uphold high standards of quality and deliver an outstanding customer experience. Your role involves planning and executing tests, promoting best practices, and contributing to the continuous improvement of our product.",
+    "Perform manual testing of multilingual portals and landing pages across various devices to ensure consistent functionality and user experience.",
+    "Validate integrations with payment partners in both staging and production environments.",
+    "Utilize tools like BrowserStack and other testing platforms to simulate real-world scenarios and environments.",
+    "Review software requirements and translate them into clear, actionable test scenarios.",
+    "Document and report test results, including any defects or inconsistencies, in a structured and timely manner."
+  ],
+  "salary": {
+    "applies_india": "unconfirmed",
+    "basis": "listed",
+    "currency": "EUR",
+    "fx_at": "Thu, 22 Oct 2026 00:02:31 +0000",
+    "fx_rate": 106.2504,
+    "inr_max": 2550009,
+    "inr_min": 1912507,
+    "max": 24000,
+    "min": 18000,
+    "note": "Listed for a worldwide-remote role; confirm it applies to India-based hires",
+    "original_period": "monthly",
+    "period": "annual",
+    "source_name": "Himalayas",
+    "source_url": "https://himalayas.app/companies/creative-clicks-b-v/jobs/qa-analyst?utm_source=api",
+    "state": "verified",
+    "verified_at": "2026-10-22T04:45:32Z"
+  },
+  "scores": {
+    "ai": 68,
+    "comp": 96,
+    "company": 95,
+    "location": 86,
+    "seniority": 90,
+    "skill": 100
+  },
+  "seniority": "unspecified",
+  "snippet": "QA Analyst\n Location: Remote (Southern Europe / North Africa) \n Work model: Fully remote \n Team: MOVION\n About Movion\n Movion helps digital brands reach and grow audiences through mobile networks around the world. We bring together performance marketing, technology, content, and local payment solutions to turn great digital products into successful subscription businesses.\n With more than 16 years of mobile expertise",
+  "source_primary": "Himalayas",
+  "sources": [
+    {
+      "id": "himalayas",
+      "job_id": "https://himalayas.app/companies/creative-clicks-b-v/jobs/qa-analyst",
+      "kind": "board",
+      "name": "Himalayas",
+      "posted_at": "2026-10-22T03:39:52Z",
+      "seen_at": "2026-10-22T04:45:32Z",
+      "url": "https://himalayas.app/companies/creative-clicks-b-v/jobs/qa-analyst?utm_source=api"
+    }
+  ],
+  "specializations": [
+    "Web apps"
+  ],
+  "status": "active",
+  "tier": 1,
+  "title": "QA analyst",
+  "tools": [
+    "Compatibility testing",
+    "Usability testing",
+    "Test cases & scenarios",
+    "Bug reporting",
+    "Google Sheets / Excel"
+  ],
+  "track": "software",
+  "updated_at": null,
+  "url": "https://himalayas.app/companies/creative-clicks-b-v/jobs/qa-analyst?utm_source=api",
+  "why": [
+    "Manual / functional QA — the core of your resume",
+    "Already on your resume: Compatibility testing, Usability testing, Test cases & scenarios, Bug reporting, Google Sheets / Excel",
+    "Product / SaaS company",
+    "Asks for 1+ years — you have about 2.5",
+    "Worldwide remote",
+    "Pay is listed in the posting"
+  ],
+  "work_mode": "remote",
+  "years_max": null,
+  "years_min": 1
+}

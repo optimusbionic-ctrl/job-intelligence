@@ -1,0 +1,105 @@
+{
+  "apply_url": null,
+  "board_apply": "https://remoteOK.com/remote-jobs/remote-qa-engineer-ineight-1134965",
+  "category": "Other",
+  "comp_potential": "unknown",
+  "company": "InEight",
+  "company_slug": "ineight",
+  "concerns": [
+    "Employer has not confirmed hiring from India",
+    "Also asks for: ISTQB",
+    "Pay not disclosed — ask for the range early"
+  ],
+  "contacts_count": 0,
+  "content_hash": "84fe5a734579",
+  "date_quality": "exact",
+  "deadline": null,
+  "employment": "full-time",
+  "first_seen": "2026-10-19T13:24:59Z",
+  "fit": 71,
+  "has_hiring_manager": false,
+  "has_named_contact": false,
+  "has_public_email": false,
+  "id": "d8bcd189d32390",
+  "include_reason": "QA / test engineer title",
+  "india": {
+    "cities": [],
+    "company": "unclear",
+    "reason": "Remote, region not stated",
+    "status": "unconfirmed",
+    "visa": false
+  },
+  "kind": "qa-engineer",
+  "last_verified": "2026-10-19T13:24:59Z",
+  "location": "Colombo,",
+  "logo": null,
+  "needs_review": false,
+  "official": false,
+  "posted_at": "2026-07-14T12:57:45Z",
+  "repost": false,
+  "requirements": [
+    "1- 2 years of software testing experience and solid domain experience.",
+    "Execution of test plan reviews, system integration testing, and documentation of testing results in conjunction with QA manager and subject matter experts.",
+    "Diagnose, track and manage testing issues and defects to resolution.",
+    "Communicate testing progress, results and other relevant information to QA Manager.",
+    "Actively participate in process improvement initiatives by providing feedback on deployed processes.",
+    "ISTQB testing certification is considered advantageous",
+    "InEight Inc. is an Equal Opportunity Employer, (EOE) and will consider all applications without regard to race, marital status, sex, age, color, religion, national origin, veteran status, disability or any other characteristic protected by law."
+  ],
+  "responsibilities": [
+    "1- 2 years of software testing experience and solid domain experience.",
+    "Execution of test plan reviews, system integration testing, and documentation of testing results in conjunction with QA manager and subject matter experts.",
+    "Diagnose, track and manage testing issues and defects to resolution.",
+    "Communicate testing progress, results and other relevant information to QA Manager.",
+    "Actively participate in process improvement initiatives by providing feedback on deployed processes.",
+    "ISTQB testing certification is considered advantageous",
+    "InEight Inc. is an Equal Opportunity Employer, (EOE) and will consider all applications without regard to race, marital status, sex, age, color, religion, national origin, veteran status, disability or any other characteristic protected by law."
+  ],
+  "salary": {
+    "context_benchmark": "qa-dataset-remote",
+    "state": "unavailable"
+  },
+  "scores": {
+    "ai": 58,
+    "comp": 60,
+    "company": 66,
+    "location": 36,
+    "seniority": 90,
+    "skill": 86
+  },
+  "seniority": "unspecified",
+  "snippet": "Company Description\n\n InEight provides field-tested project management software for the owners, contractors, engineers and architects who are building the world around us. Over 300,000 users and more than 750 customers worldwide rely on InEight for real-time insights that help manage risk and keep projects on schedule and under budget across the entire life cycle. From pre-planning to design, from estimating to sched",
+  "source_primary": "Remote OK",
+  "sources": [
+    {
+      "id": "remoteok",
+      "job_id": "1134965",
+      "kind": "board",
+      "name": "Remote OK",
+      "posted_at": "2026-07-14T12:57:45Z",
+      "seen_at": "2026-10-19T13:24:59Z",
+      "url": "https://remoteOK.com/remote-jobs/remote-qa-engineer-ineight-1134965"
+    }
+  ],
+  "specializations": [],
+  "status": "active",
+  "tier": 3,
+  "title": "QA Engineer",
+  "tools": [
+    "Usability testing",
+    "Test cases & scenarios",
+    "Bug reporting",
+    "ISTQB"
+  ],
+  "track": "software",
+  "updated_at": null,
+  "url": "https://remoteOK.com/remote-jobs/remote-qa-engineer-ineight-1134965",
+  "why": [
+    "QA / test engineer role",
+    "Already on your resume: Usability testing, Test cases & scenarios, Bug reporting",
+    "Asks for 1+ years — you have about 2.5"
+  ],
+  "work_mode": "remote",
+  "years_max": 2,
+  "years_min": 1
+}

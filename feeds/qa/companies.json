@@ -1,0 +1,929 @@
+[
+ {
+  "name": "Scopely",
+  "aliases": [
+   "Scopely"
+  ],
+  "slug": "scopely",
+  "ats": {
+   "type": "greenhouse",
+   "slug": "scopely"
+  },
+  "tier": 1,
+  "category": "Game studio",
+  "domain": "scopely.com",
+  "careers": "https://job-boards.greenhouse.io/scopely",
+  "tracks": [
+   "game"
+  ],
+  "classification": "QA Intelligence registry (curated)",
+  "facts_note": "Category from public company information; funding not verified",
+  "hq": "Culver City, US"
+ },
+ {
+  "name": "Rockstar Games",
+  "aliases": [
+   "Rockstar Games"
+  ],
+  "slug": "rockstar-games",
+  "ats": {
+   "type": "greenhouse",
+   "slug": "rockstargames"
+  },
+  "tier": 1,
+  "category": "Game studio",
+  "domain": "rockstargames.com",
+  "careers": "https://job-boards.greenhouse.io/rockstargames",
+  "tracks": [
+   "game"
+  ],
+  "classification": "QA Intelligence registry (curated)",
+  "facts_note": "Category from public company information; funding not verified",
+  "hq": "New York, US"
+ },
+ {
+  "name": "Krafton",
+  "aliases": [
+   "Krafton"
+  ],
+  "slug": "krafton",
+  "ats": {
+   "type": "greenhouse",
+   "slug": "krafton"
+  },
+  "tier": 1,
+  "category": "Game studio",
+  "domain": "krafton.com",
+  "careers": "https://job-boards.greenhouse.io/krafton",
+  "tracks": [
+   "game"
+  ],
+  "classification": "QA Intelligence registry (curated)",
+  "facts_note": "Category from public company information; funding not verified",
+  "hq": "Seoul, KR"
+ },
+ {
+  "name": "Playtech",
+  "aliases": [
+   "Playtech"
+  ],
+  "slug": "playtech",
+  "ats": {
+   "type": "smartrecruiters",
+   "slug": "playtech"
+  },
+  "tier": 1,
+  "category": "iGaming / real-money games",
+  "domain": "playtech.com",
+  "careers": "https://jobs.smartrecruiters.com/playtech",
+  "tracks": [
+   "game"
+  ],
+  "classification": "QA Intelligence registry (curated)",
+  "facts_note": "Category from public company information; funding not verified"
+ },
+ {
+  "name": "Evolution",
+  "aliases": [
+   "Evolution"
+  ],
+  "slug": "evolution",
+  "ats": {
+   "type": "smartrecruiters",
+   "slug": "evolution"
+  },
+  "tier": 1,
+  "category": "iGaming / real-money games",
+  "domain": "evolution.com",
+  "careers": "https://jobs.smartrecruiters.com/evolution",
+  "tracks": [
+   "game"
+  ],
+  "classification": "QA Intelligence registry (curated)",
+  "facts_note": "Category from public company information; funding not verified"
+ },
+ {
+  "name": "Supercell",
+  "aliases": [
+   "Supercell"
+  ],
+  "slug": "supercell",
+  "ats": {
+   "type": "ashby",
+   "slug": "supercell"
+  },
+  "tier": 1,
+  "category": "Game studio",
+  "domain": "supercell.com",
+  "careers": "https://jobs.ashbyhq.com/supercell",
+  "tracks": [
+   "game"
+  ],
+  "classification": "QA Intelligence registry (curated)",
+  "facts_note": "Category from public company information; funding not verified",
+  "hq": "Helsinki, FI"
+ },
+ {
+  "name": "Voodoo",
+  "aliases": [
+   "Voodoo"
+  ],
+  "slug": "voodoo",
+  "ats": {
+   "type": "ashby",
+   "slug": "voodoo"
+  },
+  "tier": 1,
+  "category": "Game studio",
+  "domain": "voodoo.io",
+  "careers": "https://jobs.ashbyhq.com/voodoo",
+  "tracks": [
+   "game"
+  ],
+  "classification": "QA Intelligence registry (curated)",
+  "facts_note": "Category from public company information; funding not verified",
+  "hq": "Paris, FR"
+ },
+ {
+  "name": "NetEase Games",
+  "aliases": [
+   "NetEase Games"
+  ],
+  "slug": "netease-games",
+  "ats": {
+   "type": "greenhouse",
+   "slug": "neteasegames"
+  },
+  "tier": 1,
+  "category": "Game studio",
+  "domain": "neteasegames.com",
+  "careers": "https://job-boards.greenhouse.io/neteasegames",
+  "tracks": [
+   "game"
+  ],
+  "classification": "QA Intelligence registry (curated)",
+  "facts_note": "Category from public company information; funding not verified"
+ },
+ {
+  "name": "Moon Active",
+  "aliases": [
+   "Moon Active"
+  ],
+  "slug": "moon-active",
+  "ats": {
+   "type": "ashby",
+   "slug": "moonactive"
+  },
+  "tier": 1,
+  "category": "Game studio",
+  "domain": "moonactive.com",
+  "careers": "https://jobs.ashbyhq.com/moonactive",
+  "tracks": [
+   "game"
+  ],
+  "classification": "QA Intelligence registry (curated)",
+  "facts_note": "Category from public company information; funding not verified",
+  "hq": "Tel Aviv, IL"
+ },
+ {
+  "name": "Epic Games",
+  "aliases": [
+   "Epic Games"
+  ],
+  "slug": "epic-games",
+  "ats": {
+   "type": "greenhouse",
+   "slug": "epicgames"
+  },
+  "tier": 1,
+  "category": "Game studio",
+  "domain": "epicgames.com",
+  "careers": "https://job-boards.greenhouse.io/epicgames",
+  "tracks": [
+   "game"
+  ],
+  "classification": "QA Intelligence registry (curated)",
+  "facts_note": "Category from public company information; funding not verified",
+  "hq": "Cary, US"
+ },
+ {
+  "name": "Roblox",
+  "aliases": [
+   "Roblox"
+  ],
+  "slug": "roblox",
+  "ats": {
+   "type": "greenhouse",
+   "slug": "roblox"
+  },
+  "tier": 1,
+  "category": "Game studio",
+  "domain": "roblox.com",
+  "careers": "https://job-boards.greenhouse.io/roblox",
+  "tracks": [
+   "game"
+  ],
+  "classification": "QA Intelligence registry (curated)",
+  "facts_note": "Category from public company information; funding not verified",
+  "hq": "San Mateo, US"
+ },
+ {
+  "name": "Keywords Studios",
+  "aliases": [
+   "Keywords Studios"
+  ],
+  "slug": "keywords-studios",
+  "ats": {
+   "type": "smartrecruiters",
+   "slug": "keywordsstudios"
+  },
+  "tier": 2,
+  "category": "Game services / QA",
+  "domain": "keywordsstudios.com",
+  "careers": "https://jobs.smartrecruiters.com/keywordsstudios",
+  "tracks": [
+   "game"
+  ],
+  "classification": "QA Intelligence registry (curated)",
+  "facts_note": "Category from public company information; funding not verified",
+  "hq": "Dublin, IE"
+ },
+ {
+  "name": "Testlio",
+  "aliases": [
+   "Testlio"
+  ],
+  "slug": "testlio",
+  "ats": {
+   "type": "greenhouse",
+   "slug": "testlio"
+  },
+  "tier": 2,
+  "category": "Crowd testing platform",
+  "domain": "testlio.com",
+  "careers": "https://job-boards.greenhouse.io/testlio",
+  "tracks": [
+   "software",
+   "game"
+  ],
+  "classification": "QA Intelligence registry (curated)",
+  "facts_note": "Category from public company information; funding not verified"
+ },
+ {
+  "name": "TestingXperts",
+  "aliases": [
+   "TestingXperts"
+  ],
+  "slug": "testingxperts",
+  "ats": {
+   "type": "smartrecruiters",
+   "slug": "testingxperts"
+  },
+  "tier": 2,
+  "category": "QA services",
+  "domain": "testingxperts.com",
+  "careers": "https://jobs.smartrecruiters.com/testingxperts",
+  "tracks": [
+   "software"
+  ],
+  "classification": "QA Intelligence registry (curated)",
+  "facts_note": "Category from public company information; funding not verified"
+ },
+ {
+  "name": "Paytm",
+  "aliases": [
+   "Paytm"
+  ],
+  "slug": "paytm",
+  "ats": {
+   "type": "lever",
+   "slug": "paytm"
+  },
+  "tier": 1,
+  "category": "Fintech",
+  "domain": "paytm.com",
+  "careers": "https://jobs.lever.co/paytm",
+  "tracks": [
+   "software"
+  ],
+  "classification": "QA Intelligence registry (curated)",
+  "facts_note": "Category from public company information; funding not verified",
+  "hq": "Noida, IN"
+ },
+ {
+  "name": "Meesho",
+  "aliases": [
+   "Meesho"
+  ],
+  "slug": "meesho",
+  "ats": {
+   "type": "lever",
+   "slug": "meesho"
+  },
+  "tier": 1,
+  "category": "Product / SaaS",
+  "domain": "meesho.com",
+  "careers": "https://jobs.lever.co/meesho",
+  "tracks": [
+   "software"
+  ],
+  "classification": "QA Intelligence registry (curated)",
+  "facts_note": "Category from public company information; funding not verified",
+  "hq": "Bengaluru, IN"
+ },
+ {
+  "name": "Swiggy",
+  "aliases": [
+   "Swiggy"
+  ],
+  "slug": "swiggy",
+  "ats": {
+   "type": "smartrecruiters",
+   "slug": "swiggy"
+  },
+  "tier": 1,
+  "category": "Product / SaaS",
+  "domain": "swiggy.com",
+  "careers": "https://jobs.smartrecruiters.com/swiggy",
+  "tracks": [
+   "software"
+  ],
+  "classification": "QA Intelligence registry (curated)",
+  "facts_note": "Category from public company information; funding not verified",
+  "hq": "Bengaluru, IN"
+ },
+ {
+  "name": "Zeta",
+  "aliases": [
+   "Zeta"
+  ],
+  "slug": "zeta",
+  "ats": {
+   "type": "lever",
+   "slug": "zeta"
+  },
+  "tier": 1,
+  "category": "Fintech",
+  "domain": "zeta.tech",
+  "careers": "https://jobs.lever.co/zeta",
+  "tracks": [
+   "software"
+  ],
+  "classification": "QA Intelligence registry (curated)",
+  "facts_note": "Category from public company information; funding not verified",
+  "hq": "Bengaluru, IN"
+ },
+ {
+  "name": "Groww",
+  "aliases": [
+   "Groww"
+  ],
+  "slug": "groww",
+  "ats": {
+   "type": "greenhouse",
+   "slug": "groww"
+  },
+  "tier": 1,
+  "category": "Fintech",
+  "domain": "groww.in",
+  "careers": "https://job-boards.greenhouse.io/groww",
+  "tracks": [
+   "software"
+  ],
+  "classification": "QA Intelligence registry (curated)",
+  "facts_note": "Category from public company information; funding not verified",
+  "hq": "Bengaluru, IN"
+ },
+ {
+  "name": "CRED",
+  "aliases": [
+   "CRED"
+  ],
+  "slug": "cred",
+  "ats": {
+   "type": "lever",
+   "slug": "cred"
+  },
+  "tier": 1,
+  "category": "Fintech",
+  "domain": "cred.club",
+  "careers": "https://jobs.lever.co/cred",
+  "tracks": [
+   "software"
+  ],
+  "classification": "QA Intelligence registry (curated)",
+  "facts_note": "Category from public company information; funding not verified",
+  "hq": "Bengaluru, IN"
+ },
+ {
+  "name": "Upstox",
+  "aliases": [
+   "Upstox"
+  ],
+  "slug": "upstox",
+  "ats": {
+   "type": "smartrecruiters",
+   "slug": "upstox"
+  },
+  "tier": 1,
+  "category": "Fintech",
+  "domain": "upstox.com",
+  "careers": "https://jobs.smartrecruiters.com/upstox",
+  "tracks": [
+   "software"
+  ],
+  "classification": "QA Intelligence registry (curated)",
+  "facts_note": "Category from public company information; funding not verified",
+  "hq": "Mumbai, IN"
+ },
+ {
+  "name": "Druva",
+  "aliases": [
+   "Druva"
+  ],
+  "slug": "druva",
+  "ats": {
+   "type": "greenhouse",
+   "slug": "druva"
+  },
+  "tier": 1,
+  "category": "Product / SaaS",
+  "domain": "druva.com",
+  "careers": "https://job-boards.greenhouse.io/druva",
+  "tracks": [
+   "software"
+  ],
+  "classification": "QA Intelligence registry (curated)",
+  "facts_note": "Category from public company information; funding not verified",
+  "hq": "Pune, IN / Sunnyvale, US"
+ },
+ {
+  "name": "Tekion",
+  "aliases": [
+   "Tekion"
+  ],
+  "slug": "tekion",
+  "ats": {
+   "type": "ashby",
+   "slug": "tekion"
+  },
+  "tier": 1,
+  "category": "Product / SaaS",
+  "domain": "tekion.com",
+  "careers": "https://jobs.ashbyhq.com/tekion",
+  "tracks": [
+   "software"
+  ],
+  "classification": "QA Intelligence registry (curated)",
+  "facts_note": "Category from public company information; funding not verified"
+ },
+ {
+  "name": "HighRadius",
+  "aliases": [
+   "HighRadius"
+  ],
+  "slug": "highradius",
+  "ats": {
+   "type": "greenhouse",
+   "slug": "highradius"
+  },
+  "tier": 1,
+  "category": "Product / SaaS",
+  "domain": "highradius.com",
+  "careers": "https://job-boards.greenhouse.io/highradius",
+  "tracks": [
+   "software"
+  ],
+  "classification": "QA Intelligence registry (curated)",
+  "facts_note": "Category from public company information; funding not verified"
+ },
+ {
+  "name": "Hevo Data",
+  "aliases": [
+   "Hevo Data"
+  ],
+  "slug": "hevo-data",
+  "ats": {
+   "type": "lever",
+   "slug": "hevodata"
+  },
+  "tier": 1,
+  "category": "Product / SaaS",
+  "domain": "hevodata.com",
+  "careers": "https://jobs.lever.co/hevodata",
+  "tracks": [
+   "software"
+  ],
+  "classification": "QA Intelligence registry (curated)",
+  "facts_note": "Category from public company information; funding not verified",
+  "hq": "Bengaluru, IN"
+ },
+ {
+  "name": "Mindtickle",
+  "aliases": [
+   "Mindtickle"
+  ],
+  "slug": "mindtickle",
+  "ats": {
+   "type": "lever",
+   "slug": "mindtickle"
+  },
+  "tier": 1,
+  "category": "Product / SaaS",
+  "domain": "mindtickle.com",
+  "careers": "https://jobs.lever.co/mindtickle",
+  "tracks": [
+   "software"
+  ],
+  "classification": "QA Intelligence registry (curated)",
+  "facts_note": "Category from public company information; funding not verified"
+ },
+ {
+  "name": "Sprinto",
+  "aliases": [
+   "Sprinto"
+  ],
+  "slug": "sprinto",
+  "ats": {
+   "type": "lever",
+   "slug": "Sprinto"
+  },
+  "tier": 1,
+  "category": "Product / SaaS",
+  "domain": "sprinto.com",
+  "careers": "https://jobs.lever.co/Sprinto",
+  "tracks": [
+   "software"
+  ],
+  "classification": "QA Intelligence registry (curated)",
+  "facts_note": "Category from public company information; funding not verified",
+  "hq": "Bengaluru, IN"
+ },
+ {
+  "name": "DoorDash India",
+  "aliases": [
+   "DoorDash India"
+  ],
+  "slug": "doordash-india",
+  "ats": {
+   "type": "greenhouse",
+   "slug": "doordashindia"
+  },
+  "tier": 1,
+  "category": "Product / SaaS",
+  "domain": "doordash.com",
+  "careers": "https://job-boards.greenhouse.io/doordashindia",
+  "tracks": [
+   "software"
+  ],
+  "classification": "QA Intelligence registry (curated)",
+  "facts_note": "Category from public company information; funding not verified"
+ },
+ {
+  "name": "Sigmoid",
+  "aliases": [
+   "Sigmoid"
+  ],
+  "slug": "sigmoid",
+  "ats": {
+   "type": "greenhouse",
+   "slug": "sigmoid"
+  },
+  "tier": 2,
+  "category": "IT services",
+  "domain": "sigmoid.com",
+  "careers": "https://job-boards.greenhouse.io/sigmoid",
+  "tracks": [
+   "software"
+  ],
+  "classification": "QA Intelligence registry (curated)",
+  "facts_note": "Category from public company information; funding not verified"
+ },
+ {
+  "name": "Freshworks",
+  "aliases": [
+   "Freshworks"
+  ],
+  "slug": "freshworks",
+  "ats": {
+   "type": "smartrecruiters",
+   "slug": "freshworks"
+  },
+  "tier": 1,
+  "category": "Product / SaaS",
+  "domain": "freshworks.com",
+  "careers": "https://jobs.smartrecruiters.com/freshworks",
+  "tracks": [
+   "software"
+  ],
+  "classification": "QA Intelligence registry (curated)",
+  "facts_note": "Category from public company information; funding not verified"
+ },
+ {
+  "name": "InMobi",
+  "aliases": [
+   "InMobi"
+  ],
+  "slug": "inmobi",
+  "ats": {
+   "type": "greenhouse",
+   "slug": "inmobi"
+  },
+  "tier": 1,
+  "category": "Product / SaaS",
+  "domain": "inmobi.com",
+  "careers": "https://job-boards.greenhouse.io/inmobi",
+  "tracks": [
+   "software"
+  ],
+  "classification": "QA Intelligence registry (curated)",
+  "facts_note": "Category from public company information; funding not verified",
+  "hq": "Bengaluru, IN"
+ },
+ {
+  "name": "Glance",
+  "aliases": [
+   "Glance"
+  ],
+  "slug": "glance",
+  "ats": {
+   "type": "greenhouse",
+   "slug": "glance"
+  },
+  "tier": 1,
+  "category": "Product / SaaS",
+  "domain": "glance.com",
+  "careers": "https://job-boards.greenhouse.io/glance",
+  "tracks": [
+   "software",
+   "game"
+  ],
+  "classification": "QA Intelligence registry (curated)",
+  "facts_note": "Category from public company information; funding not verified",
+  "hq": "Bengaluru, IN"
+ },
+ {
+  "name": "Pocket FM",
+  "aliases": [
+   "Pocket FM"
+  ],
+  "slug": "pocket-fm",
+  "ats": {
+   "type": "lever",
+   "slug": "pocketfm"
+  },
+  "tier": 1,
+  "category": "Product / SaaS",
+  "domain": "pocketfm.com",
+  "careers": "https://jobs.lever.co/pocketfm",
+  "tracks": [
+   "software"
+  ],
+  "classification": "QA Intelligence registry (curated)",
+  "facts_note": "Category from public company information; funding not verified",
+  "hq": "Bengaluru, IN"
+ },
+ {
+  "name": "Observe.AI",
+  "aliases": [
+   "Observe.AI"
+  ],
+  "slug": "observe-ai",
+  "ats": {
+   "type": "greenhouse",
+   "slug": "observeai"
+  },
+  "tier": 1,
+  "category": "Product / SaaS",
+  "domain": "observe.ai",
+  "careers": "https://job-boards.greenhouse.io/observeai",
+  "tracks": [
+   "software"
+  ],
+  "classification": "QA Intelligence registry (curated)",
+  "facts_note": "Category from public company information; funding not verified"
+ },
+ {
+  "name": "Unacademy",
+  "aliases": [
+   "Unacademy"
+  ],
+  "slug": "unacademy",
+  "ats": {
+   "type": "smartrecruiters",
+   "slug": "unacademy"
+  },
+  "tier": 1,
+  "category": "Product / SaaS",
+  "domain": "unacademy.com",
+  "careers": "https://jobs.smartrecruiters.com/unacademy",
+  "tracks": [
+   "software"
+  ],
+  "classification": "QA Intelligence registry (curated)",
+  "facts_note": "Category from public company information; funding not verified",
+  "hq": "Bengaluru, IN"
+ },
+ {
+  "name": "Cars24",
+  "aliases": [
+   "Cars24"
+  ],
+  "slug": "cars24",
+  "ats": {
+   "type": "smartrecruiters",
+   "slug": "cars24"
+  },
+  "tier": 1,
+  "category": "Product / SaaS",
+  "domain": "cars24.com",
+  "careers": "https://jobs.smartrecruiters.com/cars24",
+  "tracks": [
+   "software"
+  ],
+  "classification": "QA Intelligence registry (curated)",
+  "facts_note": "Category from public company information; funding not verified",
+  "hq": "Gurugram, IN"
+ },
+ {
+  "name": "Whatfix",
+  "aliases": [
+   "Whatfix"
+  ],
+  "slug": "whatfix",
+  "ats": {
+   "type": "smartrecruiters",
+   "slug": "whatfix"
+  },
+  "tier": 1,
+  "category": "Product / SaaS",
+  "domain": "whatfix.com",
+  "careers": "https://jobs.smartrecruiters.com/whatfix",
+  "tracks": [
+   "software"
+  ],
+  "classification": "QA Intelligence registry (curated)",
+  "facts_note": "Category from public company information; funding not verified"
+ },
+ {
+  "name": "Agoda",
+  "aliases": [
+   "Agoda"
+  ],
+  "slug": "agoda",
+  "ats": {
+   "type": "greenhouse",
+   "slug": "agoda"
+  },
+  "tier": 1,
+  "category": "Product / SaaS",
+  "domain": "agoda.com",
+  "careers": "https://job-boards.greenhouse.io/agoda",
+  "tracks": [
+   "software"
+  ],
+  "classification": "QA Intelligence registry (curated)",
+  "facts_note": "Category from public company information; funding not verified"
+ },
+ {
+  "name": "GoDaddy",
+  "aliases": [
+   "GoDaddy"
+  ],
+  "slug": "godaddy",
+  "ats": {
+   "type": "greenhouse",
+   "slug": "godaddy"
+  },
+  "tier": 1,
+  "category": "Product / SaaS",
+  "domain": "godaddy.com",
+  "careers": "https://job-boards.greenhouse.io/godaddy",
+  "tracks": [
+   "software"
+  ],
+  "classification": "QA Intelligence registry (curated)",
+  "facts_note": "Category from public company information; funding not verified"
+ },
+ {
+  "name": "Nium",
+  "aliases": [
+   "Nium"
+  ],
+  "slug": "nium",
+  "ats": {
+   "type": "lever",
+   "slug": "nium"
+  },
+  "tier": 1,
+  "category": "Fintech",
+  "domain": "nium.com",
+  "careers": "https://jobs.lever.co/nium",
+  "tracks": [
+   "software"
+  ],
+  "classification": "QA Intelligence registry (curated)",
+  "facts_note": "Category from public company information; funding not verified"
+ },
+ {
+  "name": "Simpplr",
+  "aliases": [
+   "Simpplr"
+  ],
+  "slug": "simpplr",
+  "ats": {
+   "type": "greenhouse",
+   "slug": "simpplr"
+  },
+  "tier": 1,
+  "category": "Product / SaaS",
+  "domain": "simpplr.com",
+  "careers": "https://job-boards.greenhouse.io/simpplr",
+  "tracks": [
+   "software"
+  ],
+  "classification": "QA Intelligence registry (curated)",
+  "facts_note": "Category from public company information; funding not verified"
+ },
+ {
+  "name": "Atlys",
+  "aliases": [
+   "Atlys"
+  ],
+  "slug": "atlys",
+  "ats": {
+   "type": "ashby",
+   "slug": "atlys"
+  },
+  "tier": 1,
+  "category": "Product / SaaS",
+  "domain": "atlys.com",
+  "careers": "https://jobs.ashbyhq.com/atlys",
+  "tracks": [
+   "software"
+  ],
+  "classification": "QA Intelligence registry (curated)",
+  "facts_note": "Category from public company information; funding not verified"
+ },
+ {
+  "name": "Sarvam AI",
+  "aliases": [
+   "Sarvam AI"
+  ],
+  "slug": "sarvam-ai",
+  "ats": {
+   "type": "ashby",
+   "slug": "sarvam"
+  },
+  "tier": 1,
+  "category": "Product / SaaS",
+  "domain": "sarvam.ai",
+  "careers": "https://jobs.ashbyhq.com/sarvam",
+  "tracks": [
+   "software"
+  ],
+  "classification": "QA Intelligence registry (curated)",
+  "facts_note": "Category from public company information; funding not verified",
+  "hq": "Bengaluru, IN"
+ },
+ {
+  "name": "Atlan",
+  "aliases": [
+   "Atlan"
+  ],
+  "slug": "atlan",
+  "ats": {
+   "type": "ashby",
+   "slug": "atlan"
+  },
+  "tier": 1,
+  "category": "Product / SaaS",
+  "domain": "atlan.com",
+  "careers": "https://jobs.ashbyhq.com/atlan",
+  "tracks": [
+   "software"
+  ],
+  "classification": "QA Intelligence registry (curated)",
+  "facts_note": "Category from public company information; funding not verified"
+ },
+ {
+  "name": "Turing",
+  "aliases": [
+   "Turing"
+  ],
+  "slug": "turing",
+  "ats": {
+   "type": "greenhouse",
+   "slug": "turing"
+  },
+  "tier": 2,
+  "category": "IT services",
+  "domain": "turing.com",
+  "careers": "https://job-boards.greenhouse.io/turing",
+  "tracks": [
+   "software"
+  ],
+  "classification": "QA Intelligence registry (curated)",
+  "facts_note": "Category from public company information; funding not verified"
+ }
+]

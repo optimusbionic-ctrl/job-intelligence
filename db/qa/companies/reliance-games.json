@@ -1,0 +1,58 @@
+{
+  "category": "Game studio",
+  "classification": "Inferred from job description",
+  "india_hiring": {
+    "board": null,
+    "changed_at": "2026-10-21T12:45:28Z",
+    "evidence": [],
+    "first_checked_at": "2026-10-19T13:24:59Z",
+    "india_based": false,
+    "method": "Careers board, posting text, web search",
+    "sig": "54391d7cdf",
+    "summary": "No public evidence yet about hiring from India.",
+    "verdict": "unclear",
+    "web": {
+      "checked_at": "2026-10-21T13:44:11Z",
+      "query": "\"Reliance Games\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
+      "results": [
+        {
+          "description": "",
+          "title": "Careers- Intern HR-Pune | Reliancegames.com",
+          "url": "https://reliancegames.com/careers/intern-hr-pune.html"
+        },
+        {
+          "description": "",
+          "title": "Popular Jobs at Reliance Games",
+          "url": "https://in.indeed.com/cmp/Reliance-Games/salaries"
+        },
+        {
+          "description": "",
+          "title": "223 reliance games ceo manish agarwal quits the company",
+          "url": "https://www.medianama.com/2015/05/223-reliance-games-ceo-manish-agarwal-quits-the-company/"
+        },
+        {
+          "description": "",
+          "title": "manish agarwal steps down as reliance games ceo",
+          "url": "https://pocketgamer.biz/asia/job-news/61331/manish-agarwal-steps-down-as-reliance-games-ceo/"
+        },
+        {
+          "description": "",
+          "title": "manish agarwal steps down as reliance games ceo",
+          "url": "https://www.pocketgamer.biz/manish-agarwal-steps-down-as-reliance-games-ceo"
+        },
+        {
+          "description": "",
+          "title": "Compare Pritish Nandy Communications vs Reliance Games",
+          "url": "https://www.cbinsights.com/compare/pritish-nandy-communications-vs-reliance-games"
+        }
+      ]
+    }
+  },
+  "inferred": true,
+  "name": "Reliance Games",
+  "slug": "reliance-games",
+  "tier": 1,
+  "tracks": [
+    "game"
+  ]
+}

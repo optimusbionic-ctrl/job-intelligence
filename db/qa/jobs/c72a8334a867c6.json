@@ -1,0 +1,110 @@
+{
+  "apply_url": null,
+  "board_apply": "https://himalayas.app/companies/smart-working/jobs/qa-automation-engineer-remote-full-time-hr217?utm_source=api",
+  "category": "Product / SaaS",
+  "comp_potential": "unknown",
+  "company": "Smart Working",
+  "company_slug": "smart-working",
+  "concerns": [
+    "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
+    "Also asks for: SQL / databases, Programming",
+    "Asks for 4+ years — you have about 2.5",
+    "Pay not disclosed — ask for the range early"
+  ],
+  "contacts_count": 0,
+  "content_hash": "27e8cc4c0e8a",
+  "date_quality": "exact",
+  "deadline": "2026-12-17T07:28:36Z",
+  "employment": "full-time",
+  "first_seen": "2026-10-19T13:24:59Z",
+  "fit": 75,
+  "has_hiring_manager": false,
+  "has_named_contact": false,
+  "has_public_email": false,
+  "id": "c72a8334a867c6",
+  "include_reason": "Automation-heavy QA (SDET)",
+  "india": {
+    "cities": [],
+    "company": "yes",
+    "reason": "Location lists India",
+    "status": "confirmed",
+    "visa": false
+  },
+  "kind": "automation",
+  "last_verified": "2026-10-19T13:24:59Z",
+  "location": "India",
+  "logo": null,
+  "needs_review": false,
+  "official": false,
+  "posted_at": "2026-10-18T07:28:36Z",
+  "repost": false,
+  "requirements": [
+    "Flag compliance, regulatory and security implications.",
+    "Run exploratory testing to identify where the product behaves incorrectly.",
+    "Improve reliability and enable faster, safer releases through automation.",
+    "Reproduce multi-step defects precisely and identify edge cases.",
+    "Build a repeatable, documented QA process from an unreliable baseline.",
+    "Work out how the system should behave across multiple user perspectives and how it might break.",
+    "4+ years of experience in QA or test automation, hands-on with TypeScript or JavaScript."
+  ],
+  "responsibilities": [
+    "As a QA Automation Engineer, you will take end-to-end ownership of quality across a large, roughly 10-year, multi-repo digital health platform. You will build the automated test framework hands-on, define expected behaviour, and help improve reliability from an existing baseline where test coverage and pass rates need strengthening.",
+    "You will work with an engineering team of 4, collaborating to understand how the system should work from client, end-user and internal operations perspectives. The role is predominantly hands-on and independent, with shared responsibility for product quality.",
+    "The first phase will involve speaking with stakeholders, clarifying requirements, documenting expected behaviour, and building out automation that enables faster, safer releases.",
+    "Own the quality process end to end and build the automated test framework hands-on.",
+    "Understand how a large, roughly 10-year, multi-repo system works and how it should work from client, end-user and internal operations perspectives.",
+    "Ask the right questions and document expected behaviour where inherited documentation is partly out of date.",
+    "Author English-readable scenarios in Cucumber and Gherkin."
+  ],
+  "salary": {
+    "state": "unavailable"
+  },
+  "scores": {
+    "ai": 80,
+    "comp": 60,
+    "company": 95,
+    "location": 100,
+    "seniority": 72,
+    "skill": 57
+  },
+  "seniority": "unspecified",
+  "snippet": "About Smart Working \n\n At Smart Working , we believe your job should not only look right on paper but also feel right every day. This isn’t just another remote opportunity - it’s about finding where you truly belong, no matter where you are. From day one, you’re welcomed into a genuine community that values your growth and well-being.\n\n Our mission is simple: to break down geographic barriers and connect skilled prof",
+  "source_primary": "Himalayas",
+  "sources": [
+    {
+      "id": "himalayas",
+      "job_id": "https://himalayas.app/companies/smart-working/jobs/qa-automation-engineer-remote-full-time-hr217",
+      "kind": "board",
+      "name": "Himalayas",
+      "posted_at": "2026-10-18T07:28:36Z",
+      "seen_at": "2026-10-19T13:24:59Z",
+      "url": "https://himalayas.app/companies/smart-working/jobs/qa-automation-engineer-remote-full-time-hr217?utm_source=api"
+    }
+  ],
+  "specializations": [
+    "Mobile apps"
+  ],
+  "status": "active",
+  "tier": 1,
+  "title": "QA Automation Engineer (Remote, Full-Time) [HR217]",
+  "tools": [
+    "UI testing",
+    "Exploratory testing",
+    "Bug reporting",
+    "SQL / databases",
+    "Test automation",
+    "Programming"
+  ],
+  "track": "software",
+  "updated_at": null,
+  "url": "https://himalayas.app/companies/smart-working/jobs/qa-automation-engineer-remote-full-time-hr217?utm_source=api",
+  "why": [
+    "Already on your resume: UI testing, Exploratory testing, Bug reporting",
+    "Platforms you test on: Mobile apps",
+    "Product / SaaS company",
+    "Location lists India"
+  ],
+  "work_mode": "remote",
+  "years_max": null,
+  "years_min": 4
+}

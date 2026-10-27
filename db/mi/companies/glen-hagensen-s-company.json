@@ -1,0 +1,55 @@
+{
+  "category": "Other",
+  "classification": "Inferred from job description",
+  "india_hiring": {
+    "board": null,
+    "changed_at": "2026-10-16T12:28:27Z",
+    "evidence": [],
+    "first_checked_at": "2026-10-16T12:28:27Z",
+    "india_based": false,
+    "method": "Careers board, posting text, web search",
+    "sig": "54391d7cdf",
+    "summary": "No public evidence yet about hiring from India.",
+    "verdict": "unclear",
+    "web": {
+      "checked_at": "2026-10-16T13:27:58Z",
+      "query": "\"Glen Hagensen's company\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
+      "results": [
+        {
+          "description": "To produce a demo of a song can cost anywhere from a couple hundred dollars to a whole bunch of money. I had found the guy I like to use and ...",
+          "title": "The full album is OUT! Ten original songs - Facebook",
+          "url": "https://www.facebook.com/arthurstulien/posts/the-full-album-is-out-ten-original-songs-ten-different-stories-hope-you-find-roo/1424187146181090/"
+        },
+        {
+          "description": "TUESDAY, AUGUST 25, 2026 🏜️ ARE YOU READY, ABQ?! Our DESERT TOUR is loaded up and ready to roll! We're taking you beyond ...",
+          "title": "️ TUESDAY, AUGUST 25, 2026 🏜️ ARE YOU READY, ABQ ... - Facebook",
+          "url": "https://www.facebook.com/frank.sandoval.37853/posts/%EF%B8%8F-tuesday-august-25-2026-%EF%B8%8F-are-you-ready-abq-our-desert-tour-is-loaded-up-and-re/1605512821362763/"
+        },
+        {
+          "description": "DW ROUTE 66 TO A Avery Memorial Brdge Neon Park- Tulsa, OK . Other posts. Related groups.",
+          "title": "Ever wonder why Route 66 took the route it did? Here's part of the reason",
+          "url": "https://www.facebook.com/groups/Route66Travelers/posts/24178661348469117/"
+        },
+        {
+          "description": "Josh Hefton thank you for actual answer. Which in comparison to regular pt about $35 ish? 7 years ato I did a composite deck with 2x8x12 ...",
+          "title": "How many nails can you drive into Owens Corning lumber? - Facebook",
+          "url": "https://www.facebook.com/promesconstruction/posts/how-many-nails-can-you-drive-into-owens-corning-lumber/122186285678911270/"
+        },
+        {
+          "description": "Hvordan håndterer småbyer økende narkotikaproblemer? Brennpunkt ser på småkommunenes rusarbeid og hvordan Hells Angels rekrutterer norske unggutter som ...",
+          "title": "Brennpunkt - Hells Angels - NRK TV",
+          "url": "https://tv.nrk.no/serie/brennpunkt/sesong/2011/episode/MDUP11000811"
+        },
+        {
+          "description": "If I was a pilot flying into fires I would want the best plane not a 30 yr old one. It makes them useful but torn on whether they are safe.",
+          "title": "Built to serve. Ready to protect again. Ten former RCAF Hercules aircraft ...",
+          "url": "https://www.facebook.com/61588653290138/posts/built-to-serve-ready-to-protect-again-ten-former-rcaf-hercules-aircraft-could-be/122119708599288443/"
+        }
+      ]
+    }
+  },
+  "inferred": true,
+  "name": "Glen Hagensen's company",
+  "slug": "glen-hagensen-s-company",
+  "tier": 3
+}

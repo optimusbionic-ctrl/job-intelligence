@@ -1,0 +1,30 @@
+{
+  "category": "Other",
+  "classification": "Inferred from job description",
+  "india_hiring": {
+    "board": null,
+    "changed_at": "2026-10-20T23:43:22Z",
+    "evidence": [
+      {
+        "detail": "QA Tester  Hospital Information System (Mumbai) — Mumbai City, India",
+        "kind": "posting",
+        "label": "A current posting lists India as a location",
+        "url": "https://www.shine.com/jobs/qa-tester-hospital-information-system-mumbai/vrinda-international/19634181",
+        "weight": 5
+      }
+    ],
+    "first_checked_at": "2026-10-20T23:43:22Z",
+    "india_based": false,
+    "method": "Careers board, posting text",
+    "sig": "cea9c0e23a",
+    "summary": "A current posting lists India as a location.",
+    "verdict": "yes"
+  },
+  "inferred": true,
+  "name": "Vrinda International",
+  "slug": "vrinda-international",
+  "tier": 3,
+  "tracks": [
+    "software"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "category": "Other",
+  "classification": "Inferred from job description",
+  "india_hiring": {
+    "board": null,
+    "changed_at": "2026-10-23T14:44:10Z",
+    "evidence": [
+      {
+        "detail": "Associate QA Analyst - (Swing Shift) (Mumbai) — Mumbai City, India",
+        "kind": "posting",
+        "label": "A current posting lists India as a location",
+        "url": "https://www.shine.com/jobs/associate-qa-analyst-swing-shift-mumbai/nameless/19887015",
+        "weight": 5
+      }
+    ],
+    "first_checked_at": "2026-10-23T14:44:10Z",
+    "india_based": false,
+    "method": "Careers board, posting text",
+    "sig": "fa2527afde",
+    "summary": "A current posting lists India as a location.",
+    "verdict": "yes"
+  },
+  "inferred": true,
+  "name": "Nameless",
+  "slug": "nameless",
+  "tier": 3,
+  "tracks": [
+    "software"
+  ]
+}

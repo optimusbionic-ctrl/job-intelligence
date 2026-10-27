@@ -1,0 +1,89 @@
+{
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/qa-engineer/infovision-hr-consulting-services-pvt-ltd/19932549",
+ "category": "Recruiter (client not named)",
+ "comp_potential": "unknown",
+ "company": "Infovision HR Consulting Services Pvt Ltd",
+ "company_slug": "infovision-hr-consulting-services-pvt-ltd",
+ "concerns": [
+  "Also asks for: API testing, SQL / databases",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "e4db32641b8d",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-10-27T10:50:24Z",
+ "fit": 73,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "ce086e29324da4",
+ "include_reason": "QA / test engineer title",
+ "india": {
+  "cities": [
+   "Mumbai"
+  ],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "qa-engineer",
+ "last_verified": "2026-10-27T10:50:24Z",
+ "location": "Navi Mumbai, Mumbai City, Mira Bhayandar, Vasai, Kalyan, Bhiwandi, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-10-26T12:19:00Z",
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 60,
+  "company": 66,
+  "location": 100,
+  "seniority": 94,
+  "skill": 57
+ },
+ "seniority": "unspecified",
+ "snippet": "Experience: 3 to 8 Yrs\nSkills: manual testing, software testing, qa, sql, database testing, jira, soap ui, brnet, postman\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "19932549",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-10-26T12:19:00Z",
+   "seen_at": "2026-10-27T10:50:24Z",
+   "url": "https://www.shine.com/jobs/qa-engineer/infovision-hr-consulting-services-pvt-ltd/19932549"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 3,
+ "title": "QA Engineer",
+ "tools": [
+  "Jira",
+  "API testing",
+  "SQL / databases"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/qa-engineer/infovision-hr-consulting-services-pvt-ltd/19932549",
+ "why": [
+  "QA / test engineer role",
+  "Already on your resume: Jira",
+  "Asks for 3+ years — you have about 2.5",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": 8,
+ "years_min": 3
+}

@@ -1,0 +1,100 @@
+{
+  "apply_url": null,
+  "board_apply": "https://himalayas.app/companies/companion-group-ltd/jobs/senior-animation-engineer?utm_source=api",
+  "category": "Agency / studio",
+  "comp_potential": "unknown",
+  "company": "Companion Group Ltd",
+  "company_slug": "companion-group-ltd",
+  "concerns": [
+    "Compensation not disclosed",
+    "Agency / studio (Tier 2)",
+    "Also asks for: Unreal Engine, DaVinci Resolve"
+  ],
+  "contacts_count": 0,
+  "content_hash": "1ff21afe1892",
+  "date_quality": "exact",
+  "deadline": "2026-12-01T08:23:08Z",
+  "employment": "full-time",
+  "first_seen": "2026-10-15T15:27:11Z",
+  "fit": 72,
+  "has_hiring_manager": false,
+  "has_named_contact": false,
+  "has_public_email": false,
+  "id": "16d75e4b186b98",
+  "include_reason": "Motion design title",
+  "india": {
+    "cities": [],
+    "company": "likely",
+    "reason": "Worldwide remote",
+    "status": "likely",
+    "visa": false
+  },
+  "kind": "motion",
+  "last_verified": "2026-10-19T03:27:48Z",
+  "location": "Worldwide",
+  "logo": "https://cdn-images.himalayas.app/h81e9o4xidn23ap9abqn5edi87hr",
+  "needs_review": false,
+  "official": false,
+  "posted_at": "2026-10-02T08:23:09Z",
+  "repost": false,
+  "requirements": [
+    "Architect, implement, and refine cutting-edge multiplayer-ready animation systems in and outside of the Unreal Engine",
+    "Produce elegant, efficient, and maintainable C++ code",
+    "Leverage expert-level understanding of data structures and algorithms to solve interesting challenges",
+    "Collaborate with cross-functional teams to deliver innovative animation experiences",
+    "Contribute to the development of scalable and robust networking solutions",
+    "Tackle and resolve intricate technical hurdles in complex multiplayer games",
+    "6+ years of experience in the Unreal Engine"
+  ],
+  "responsibilities": [],
+  "salary": {
+    "context_benchmark": "mi-dataset-remote",
+    "note": "Not disclosed. Global remote pay context is available, but there is no evidence it applies to this employer or to India-based hires.",
+    "state": "unavailable"
+  },
+  "scores": {
+    "ai": 58,
+    "comp": 48,
+    "company": 62,
+    "location": 92,
+    "seniority": 100,
+    "skill": 76
+  },
+  "seniority": "senior",
+  "snippet": "Companion Group is a AAA co-development gaming studio with a globally distributed and fully remote setup, renowned for its adeptness in overcoming the most intricate challenges in multiplayer game development. Our reputation precedes us as an excellent choice for clients aspiring to elevate their latest multiplayer titles, enabling scalability in player numbers, maximising player density, and crafting immersive gamep",
+  "source_primary": "Himalayas",
+  "sources": [
+    {
+      "id": "himalayas",
+      "job_id": "https://himalayas.app/companies/companion-group-ltd/jobs/senior-animation-engineer",
+      "kind": "board",
+      "name": "Himalayas",
+      "posted_at": "2026-10-02T08:23:09Z",
+      "seen_at": "2026-10-19T03:27:48Z",
+      "url": "https://himalayas.app/companies/companion-group-ltd/jobs/senior-animation-engineer?utm_source=api"
+    }
+  ],
+  "specializations": [
+    "UI/UX animation",
+    "Creative engineering",
+    "Interaction systems"
+  ],
+  "status": "active",
+  "tier": 2,
+  "title": "Senior Animation Engineer",
+  "tools": [
+    "Unreal Engine",
+    "DaVinci Resolve",
+    "CSS/JS animation"
+  ],
+  "updated_at": null,
+  "url": "https://himalayas.app/companies/companion-group-ltd/jobs/senior-animation-engineer?utm_source=api",
+  "why": [
+    "Core motion design role",
+    "Tools you already use: CSS/JS animation",
+    "Specialisations in scope: UI/UX animation, Creative engineering, Interaction systems",
+    "Worldwide remote"
+  ],
+  "work_mode": "remote",
+  "years_min": 6
+}

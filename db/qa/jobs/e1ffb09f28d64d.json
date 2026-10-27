@@ -1,0 +1,107 @@
+{
+  "apply_url": null,
+  "board_apply": "https://himalayas.app/companies/cxm/jobs/full-stack-qa-developer?utm_source=api",
+  "category": "Fintech",
+  "comp_potential": "unknown",
+  "company": "CXM",
+  "company_slug": "cxm",
+  "concerns": [
+    "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
+    "Also asks for: Programming",
+    "Pay not disclosed — ask for the range early"
+  ],
+  "contacts_count": 0,
+  "content_hash": "a49c1d1dfdda",
+  "date_quality": "exact",
+  "deadline": "2026-12-04T19:37:07Z",
+  "employment": "full-time",
+  "first_seen": "2026-10-19T13:24:59Z",
+  "fit": 74,
+  "has_hiring_manager": false,
+  "has_named_contact": false,
+  "has_public_email": false,
+  "id": "e1ffb09f28d64d",
+  "include_reason": "Automation-heavy QA (SDET)",
+  "india": {
+    "cities": [],
+    "company": "likely",
+    "reason": "Worldwide remote",
+    "status": "likely",
+    "visa": false
+  },
+  "kind": "automation",
+  "last_verified": "2026-10-19T13:24:59Z",
+  "location": "Worldwide",
+  "logo": "https://cdn-images.himalayas.app/ph311gs3k0qmv9jstinkbi2yemtu",
+  "needs_review": false,
+  "official": false,
+  "posted_at": "2026-10-05T19:37:08Z",
+  "repost": false,
+  "requirements": [
+    "Practical experience testing web applications, both manually and through automation.",
+    "Experience with Playwright and TypeScript/JavaScript for E2E testing, and Python for API integration testing.",
+    "Familiarity with forex, crypto, or trading products and concepts.",
+    "Ability to work independently, prioritize competing tasks, and take ownership of quality beyond individual test cases.",
+    "Clear written communication and attention to detail.",
+    "Native-level Russian and English at B2 level or above."
+  ],
+  "responsibilities": [
+    "Test features end to end, including functional, integration, API, regression, and exploratory testing.",
+    "Review requirements and acceptance criteria for gaps, unclear behavior, and quality risks.",
+    "Build and maintain E2E tests in TypeScript/JavaScript with Playwright and API integration tests in Python.",
+    "Investigate failing or flaky tests and improve automation reliability.",
+    "Work with developers, product managers, and the QA Lead to resolve issues.",
+    "Validate releases and communicate outstanding risks before deployment.",
+    "Use approved AI tools where they improve testing quality or efficiency."
+  ],
+  "salary": {
+    "context_benchmark": "qa-dataset-remote",
+    "state": "unavailable"
+  },
+  "scores": {
+    "ai": 68,
+    "comp": 60,
+    "company": 95,
+    "location": 86,
+    "seniority": 84,
+    "skill": 58
+  },
+  "seniority": "unspecified",
+  "snippet": "Full-Stack QA Engineer\n Location: Fully remote \n Reports to: QA Lead\n We’re looking for a QA Engineer to own quality across assigned areas of a financial trading product. The role combines hands-on manual testing, test automation, and release validation. Familiarity with forex, crypto, or trading is required.\n\nResponsibilities\n• Test features end to end, including functional, integration, API, regression, and explora",
+  "source_primary": "Himalayas",
+  "sources": [
+    {
+      "id": "himalayas",
+      "job_id": "https://himalayas.app/companies/cxm/jobs/full-stack-qa-developer",
+      "kind": "board",
+      "name": "Himalayas",
+      "posted_at": "2026-10-05T19:37:08Z",
+      "seen_at": "2026-10-19T13:24:59Z",
+      "url": "https://himalayas.app/companies/cxm/jobs/full-stack-qa-developer?utm_source=api"
+    }
+  ],
+  "specializations": [
+    "Web apps"
+  ],
+  "status": "active",
+  "tier": 1,
+  "title": "Full Stack QA Developer",
+  "tools": [
+    "Regression testing",
+    "Exploratory testing",
+    "Test cases & scenarios",
+    "Test automation",
+    "Programming"
+  ],
+  "track": "software",
+  "updated_at": null,
+  "url": "https://himalayas.app/companies/cxm/jobs/full-stack-qa-developer?utm_source=api",
+  "why": [
+    "Already on your resume: Regression testing, Exploratory testing, Test cases & scenarios",
+    "Fintech company",
+    "Worldwide remote"
+  ],
+  "work_mode": "remote",
+  "years_max": null,
+  "years_min": null
+}

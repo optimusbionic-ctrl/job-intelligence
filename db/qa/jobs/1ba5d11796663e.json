@@ -1,0 +1,95 @@
+{
+  "apply_url": null,
+  "board_apply": "https://jobs.workable.com/view/2wYJBh81pNaATNb3GwD16v/software-tester-(playwright)-in-hyderabad-at-unison-group",
+  "category": "Other",
+  "comp_potential": "unknown",
+  "company": "Unison Group",
+  "company_slug": "unison-group",
+  "concerns": [
+    "Mentions test automation — be ready to discuss it or show a small script",
+    "Also asks for: API testing, Programming",
+    "Asks for 4+ years — you have about 2.5",
+    "Office outside Mumbai — relocation within India",
+    "Pay not disclosed — ask for the range early"
+  ],
+  "contacts_count": 0,
+  "content_hash": "8552bb2ac448",
+  "date_quality": "exact",
+  "deadline": null,
+  "employment": "full-time",
+  "first_seen": "2026-10-19T13:24:59Z",
+  "fit": 67,
+  "has_hiring_manager": false,
+  "has_named_contact": false,
+  "has_public_email": false,
+  "id": "1ba5d11796663e",
+  "include_reason": "Manual / functional QA title",
+  "india": {
+    "cities": [
+      "Hyderabad"
+    ],
+    "company": "yes",
+    "reason": "Location lists India",
+    "status": "confirmed",
+    "visa": false
+  },
+  "kind": "manual-qa",
+  "last_verified": "2026-10-19T13:24:59Z",
+  "location": "Hyderabad, Telangana, India",
+  "logo": "https://workablehr.s3.amazonaws.com/uploads/account/logo/599747/logo",
+  "needs_review": false,
+  "official": false,
+  "posted_at": "2026-08-13T07:08:42Z",
+  "repost": false,
+  "requirements": [],
+  "responsibilities": [],
+  "salary": {
+    "state": "unavailable"
+  },
+  "scores": {
+    "ai": 58,
+    "comp": 60,
+    "company": 66,
+    "location": 60,
+    "seniority": 72,
+    "skill": 74
+  },
+  "seniority": "unspecified",
+  "snippet": "• Design, develop, and maintain automated test scripts using Playwright.\n\n• Build and enhance automation frameworks using TypeScript or JavaScript.\n\n• Automate UI, functional, regression, and end-to-end test scenarios.\n\n• Collaborate with developers, business analysts, and QA teams to understand requirements and define test strategies.\n\n• Execute automated test suites and analyze test results.\n\n• Report, track, and v",
+  "source_primary": "Workable job marketplace",
+  "sources": [
+    {
+      "id": "workable",
+      "job_id": "0c6c6a6c-4982-45b8-8863-2bc80d50f367",
+      "kind": "board",
+      "name": "Workable job marketplace",
+      "posted_at": "2026-08-13T07:08:42Z",
+      "seen_at": "2026-10-19T13:24:59Z",
+      "url": "https://jobs.workable.com/view/2wYJBh81pNaATNb3GwD16v/software-tester-(playwright)-in-hyderabad-at-unison-group"
+    }
+  ],
+  "specializations": [],
+  "status": "active",
+  "tier": 3,
+  "title": "Software Tester (Playwright)",
+  "tools": [
+    "Regression testing",
+    "Test cases & scenarios",
+    "Bug reporting",
+    "API testing",
+    "Test automation",
+    "Programming",
+    "Agile / Scrum"
+  ],
+  "track": "software",
+  "updated_at": null,
+  "url": "https://jobs.workable.com/view/2wYJBh81pNaATNb3GwD16v/software-tester-(playwright)-in-hyderabad-at-unison-group",
+  "why": [
+    "Manual / functional QA — the core of your resume",
+    "Already on your resume: Regression testing, Test cases & scenarios, Bug reporting",
+    "Location lists India"
+  ],
+  "work_mode": "onsite",
+  "years_max": 9,
+  "years_min": 4
+}

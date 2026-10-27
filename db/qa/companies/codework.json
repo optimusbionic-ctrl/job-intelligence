@@ -1,0 +1,31 @@
+{
+  "category": "Other",
+  "classification": "Inferred from job description",
+  "domain": "codework.ai",
+  "india_hiring": {
+    "board": null,
+    "changed_at": "2026-10-21T08:43:55Z",
+    "evidence": [
+      {
+        "detail": "QA Automation Engineer — Bengaluru, Karnataka, India",
+        "kind": "posting",
+        "label": "A current posting lists India as a location",
+        "url": "https://jobs.workable.com/view/oAgnLQb4SE6WVyDYcdky7Q/qa-automation-engineer-in-bengaluru-at-codework",
+        "weight": 5
+      }
+    ],
+    "first_checked_at": "2026-10-21T08:43:55Z",
+    "india_based": false,
+    "method": "Careers board, posting text",
+    "sig": "bc4c773436",
+    "summary": "A current posting lists India as a location.",
+    "verdict": "yes"
+  },
+  "inferred": true,
+  "name": "Codework",
+  "slug": "codework",
+  "tier": 3,
+  "tracks": [
+    "software"
+  ]
+}

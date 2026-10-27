@@ -1,0 +1,30 @@
+{
+  "category": "Recruiter (client not named)",
+  "classification": "Inferred from job description",
+  "india_hiring": {
+    "board": null,
+    "changed_at": "2026-10-19T13:24:59Z",
+    "evidence": [
+      {
+        "detail": "Junior Qa Tester - Fresher - Pune only — Pune, India",
+        "kind": "posting",
+        "label": "A current posting lists India as a location",
+        "url": "https://www.shine.com/jobs/junior-qa-tester-fresher-pune-only/agilewaters-consulting/19532549",
+        "weight": 5
+      }
+    ],
+    "first_checked_at": "2026-10-19T13:24:59Z",
+    "india_based": false,
+    "method": "Careers board, posting text",
+    "sig": "b8a8bd4902",
+    "summary": "A current posting lists India as a location.",
+    "verdict": "yes"
+  },
+  "inferred": true,
+  "name": "Agilewaters Consulting",
+  "slug": "agilewaters-consulting",
+  "tier": 3,
+  "tracks": [
+    "software"
+  ]
+}

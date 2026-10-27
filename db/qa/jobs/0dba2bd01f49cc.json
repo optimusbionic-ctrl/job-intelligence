@@ -1,0 +1,92 @@
+{
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/qa-engineer-retail-company-e-commerce-company-only-bengaluru/orcapod-consulting-services/19935430",
+ "category": "Recruiter (client not named)",
+ "comp_potential": "unknown",
+ "company": "Orcapod Consulting Services",
+ "company_slug": "orcapod-consulting-services",
+ "concerns": [
+  "Also asks for: API testing",
+  "Office outside Mumbai — relocation within India",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "2eb3a1fad9e0",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-10-27T10:50:24Z",
+ "fit": 73,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "0dba2bd01f49cc",
+ "include_reason": "QA / test engineer title",
+ "india": {
+  "cities": [
+   "Bengaluru"
+  ],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "qa-engineer",
+ "last_verified": "2026-10-27T10:50:24Z",
+ "location": "Bangalore, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-10-27T03:31:45Z",
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 74,
+  "comp": 60,
+  "company": 66,
+  "location": 60,
+  "seniority": 94,
+  "skill": 72
+ },
+ "seniority": "unspecified",
+ "snippet": "Experience: 3 to 7 Yrs\nSkills: Demandware, E2E Testing, API Testing, Mobile Testing, Order Management, Agile Methodology, Salesforce Commerce Cloud SFCC, Retail  Ecommerce Domain, Postman, iOS Testing\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "19935430",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-10-27T03:31:45Z",
+   "seen_at": "2026-10-27T10:50:24Z",
+   "url": "https://www.shine.com/jobs/qa-engineer-retail-company-e-commerce-company-only-bengaluru/orcapod-consulting-services/19935430"
+  }
+ ],
+ "specializations": [
+  "iOS",
+  "Mobile apps"
+ ],
+ "status": "active",
+ "tier": 3,
+ "title": "Qa Engineer ( Retail Company , E commerce company only) (Bengaluru)",
+ "tools": [
+  "API testing",
+  "Agile / Scrum"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/qa-engineer-retail-company-e-commerce-company-only-bengaluru/orcapod-consulting-services/19935430",
+ "why": [
+  "QA / test engineer role",
+  "Platforms you test on: iOS, Mobile apps",
+  "Asks for 3+ years — you have about 2.5",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": 7,
+ "years_min": 3
+}

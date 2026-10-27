@@ -1,0 +1,88 @@
+{
+  "apply_url": null,
+  "board_apply": "https://www.shine.com/jobs/qa-test-engineer/aziro/19579016",
+  "category": "Other",
+  "comp_potential": "unknown",
+  "company": "Aziro",
+  "company_slug": "aziro",
+  "concerns": [
+    "Mentions test automation — be ready to discuss it or show a small script",
+    "Also asks for: Programming",
+    "Pay not disclosed — ask for the range early"
+  ],
+  "contacts_count": 0,
+  "content_hash": "90e26256f54a",
+  "date_quality": "exact",
+  "deadline": null,
+  "employment": "full-time",
+  "first_seen": "2026-10-21T11:43:42Z",
+  "fit": 68,
+  "has_hiring_manager": false,
+  "has_named_contact": false,
+  "has_public_email": false,
+  "id": "fa2e0f391410a0",
+  "include_reason": "QA / test engineer title",
+  "india": {
+    "cities": [
+      "Mumbai"
+    ],
+    "company": "yes",
+    "reason": "Location lists India",
+    "status": "confirmed",
+    "visa": false
+  },
+  "kind": "qa-engineer",
+  "last_verified": "2026-10-21T11:43:42Z",
+  "location": "Mumbai City, India",
+  "logo": null,
+  "needs_review": false,
+  "official": false,
+  "posted_at": "2026-09-23T03:45:45Z",
+  "repost": false,
+  "requirements": [],
+  "responsibilities": [],
+  "salary": {
+    "state": "unavailable"
+  },
+  "scores": {
+    "ai": 58,
+    "comp": 60,
+    "company": 66,
+    "location": 100,
+    "seniority": 100,
+    "skill": 38
+  },
+  "seniority": "unspecified",
+  "snippet": "Experience: 0 to 4 Yrs\nSkills: Python, automation, test automation, network protocol validation, cellular technologies, embedded Linux systems, CICD\n(Summary from the Shine.com listing; open the posting for the full description.)",
+  "source_primary": "Shine.com",
+  "sources": [
+    {
+      "id": "shine",
+      "job_id": "19579016",
+      "kind": "board",
+      "name": "Shine.com",
+      "posted_at": "2026-09-23T03:45:45Z",
+      "seen_at": "2026-10-21T11:43:42Z",
+      "url": "https://www.shine.com/jobs/qa-test-engineer/aziro/19579016"
+    }
+  ],
+  "specializations": [],
+  "status": "active",
+  "tier": 3,
+  "title": "Qa Test Engineer",
+  "tools": [
+    "Test automation",
+    "Programming"
+  ],
+  "track": "software",
+  "updated_at": null,
+  "url": "https://www.shine.com/jobs/qa-test-engineer/aziro/19579016",
+  "why": [
+    "QA / test engineer role",
+    "Asks for 0–4 years — you have about 2.5",
+    "Location lists India"
+  ],
+  "work_mode": "onsite",
+  "years_max": 4,
+  "years_min": 0
+}

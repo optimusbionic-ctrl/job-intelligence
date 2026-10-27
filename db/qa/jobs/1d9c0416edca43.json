@@ -1,0 +1,108 @@
+{
+  "apply_url": null,
+  "board_apply": "https://himalayas.app/companies/makerble/jobs/automated-tester?utm_source=api",
+  "category": "Product / SaaS",
+  "comp_potential": "unknown",
+  "company": "Makerble",
+  "company_slug": "makerble",
+  "concerns": [
+    "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
+    "Also asks for: Programming",
+    "Pay not disclosed — ask for the range early"
+  ],
+  "contacts_count": 0,
+  "content_hash": "fc635035c4e7",
+  "date_quality": "exact",
+  "deadline": "2026-12-16T08:10:11Z",
+  "employment": "full-time",
+  "first_seen": "2026-10-19T13:24:59Z",
+  "fit": 74,
+  "has_hiring_manager": false,
+  "has_named_contact": false,
+  "has_public_email": false,
+  "id": "1d9c0416edca43",
+  "include_reason": "Automation-heavy QA (SDET)",
+  "india": {
+    "cities": [],
+    "company": "likely",
+    "reason": "Worldwide remote",
+    "status": "likely",
+    "visa": false
+  },
+  "kind": "automation",
+  "last_verified": "2026-10-19T13:24:59Z",
+  "location": "Worldwide",
+  "logo": "https://cdn-images.himalayas.app/cy9zxy96hizec4hukv3pemej2zbr",
+  "needs_review": false,
+  "official": false,
+  "posted_at": "2026-10-17T08:10:11Z",
+  "repost": false,
+  "requirements": [
+    "Experience or strong interest in automated testing using low-code/no-code platforms (BugBug, GetScandium, TestSigma, etc.).",
+    "Good understanding of JavaScript and HTML for creating advanced automation scripts and troubleshooting (Optional)",
+    "Strong attention to detail, ensuring automated scripts accurately reflect client requirements before Go Live.",
+    "Excellent written and verbal English for clear communication and documentation.",
+    "Ability and willingness to learn quickly, especially in the domain of impact measurement and the charity sector.",
+    "Familiarity with Agile methodologies, regression testing, and CI/CD integration for automated tests is a plus.",
+    "PLEASE NOTE: THIS IS A FIXED-TERM CONTRACT, AND THE COMPENSATION IS GOAL-BASED / PERFORMANCE-BASED, PAID IN LUMP-SUM AT THE END OF THE TENURE."
+  ],
+  "responsibilities": [
+    "We are seeking an enthusiastic and proactive Automated Tester to join our team. This internship offers a unique opportunity to work directly in a production environment, collaborating with other developers to enhance our platform's testing systems. The ideal candidate will be passionate about contributing to impactful projects.",
+    "Architecting the complete testing mechanism with a proper plan.",
+    "Create, maintain, and execute automated test cases using tools like BugBug , GetScandium , and/or similar low-code/no-code testing platforms.",
+    "Identify, document, and track defects, collaborating with developers for resolution.",
+    "Maintain accurate and detailed automated testing documentation, including test plans, scripts, and reports.",
+    "Find edge cases and improve test coverage. (End-to-end responsibility from test planning to implementation and deployment)",
+    "Regularly update the client and internal teams on test progress, findings, and automation improvements."
+  ],
+  "salary": {
+    "context_benchmark": "qa-dataset-remote",
+    "state": "unavailable"
+  },
+  "scores": {
+    "ai": 58,
+    "comp": 60,
+    "company": 95,
+    "location": 86,
+    "seniority": 84,
+    "skill": 62
+  },
+  "seniority": "unspecified",
+  "snippet": "Company Overview\n Makerble is a pioneering platform that empowers enterprises to track, measure, and analyze their impact. Learn more from \n Position Title\n Automated Tester \n Role Overview\n We are seeking an enthusiastic and proactive Automated Tester to join our team. This internship offers a unique opportunity to work directly in a production environment, collaborating with other developers to enhance our platform",
+  "source_primary": "Himalayas",
+  "sources": [
+    {
+      "id": "himalayas",
+      "job_id": "https://himalayas.app/companies/makerble/jobs/automated-tester",
+      "kind": "board",
+      "name": "Himalayas",
+      "posted_at": "2026-10-17T08:10:11Z",
+      "seen_at": "2026-10-19T13:24:59Z",
+      "url": "https://himalayas.app/companies/makerble/jobs/automated-tester?utm_source=api"
+    }
+  ],
+  "specializations": [],
+  "status": "active",
+  "tier": 1,
+  "title": "Automated Tester",
+  "tools": [
+    "Regression testing",
+    "Test cases & scenarios",
+    "Bug reporting",
+    "Google Sheets / Excel",
+    "Test automation",
+    "Programming",
+    "Agile / Scrum"
+  ],
+  "track": "software",
+  "updated_at": null,
+  "url": "https://himalayas.app/companies/makerble/jobs/automated-tester?utm_source=api",
+  "why": [
+    "Already on your resume: Regression testing, Test cases & scenarios, Bug reporting, Google Sheets / Excel",
+    "Product / SaaS company",
+    "Worldwide remote"
+  ],
+  "work_mode": "remote",
+  "years_max": null,
+  "years_min": null
+}

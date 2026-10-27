@@ -1,0 +1,32 @@
+{
+  "category": "Other",
+  "classification": "Inferred from job description",
+  "domain": "tp-link.com",
+  "india_hiring": {
+    "board": null,
+    "changed_at": "2026-10-19T13:24:59Z",
+    "evidence": [
+      {
+        "detail": "…ong the world’s leading providers of Wi-Fi devices. Serving customers in over 170 countries, TP-Link develops innovative technologies that connect millions of us…",
+        "kind": "posting",
+        "label": "Posting describes hiring across countries",
+        "url": "https://jobs.workable.com/view/4riRR6BLLKkTULD36NLSpH/software-quality-assurance-engineer---cloud-web-platforms-in-irvine-at-tp-link-systems-inc.",
+        "weight": 3
+      }
+    ],
+    "first_checked_at": "2026-10-19T13:24:59Z",
+    "india_based": false,
+    "method": "Careers board, posting text",
+    "sig": "baa82f0a16",
+    "summary": "No India-located roles found, but posting describes hiring across countries.",
+    "verdict": "likely"
+  },
+  "inferred": true,
+  "logo": "https://workablehr.s3.amazonaws.com/uploads/account/logo/210578/logo",
+  "name": "TP-Link Systems Inc.",
+  "slug": "tp-link-systems-inc",
+  "tier": 3,
+  "tracks": [
+    "software"
+  ]
+}

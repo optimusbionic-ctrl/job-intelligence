@@ -1,0 +1,9 @@
+{
+  "checked_at": "2026-10-19T14:22:01Z",
+  "found": 0,
+  "kind": "salary_company",
+  "name": "AQM Technologies",
+  "query": "\"AQM Technologies\" (QA OR tester OR \"test engineer\") salary (site:ambitionbox.com OR site:glassdoor.co.in OR site:glassdoor.com OR site:payscale.com)",
+  "results": 8,
+  "slug": "aqm-technologies"
+}

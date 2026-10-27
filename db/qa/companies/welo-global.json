@@ -1,0 +1,142 @@
+{
+ "ats": {
+  "slug": "weloglobal",
+  "type": "lever"
+ },
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": {
+   "apac": 0,
+   "countries": [
+    "United States",
+    "Spain",
+    "Japan",
+    "India",
+    "Germany",
+    "United Kingdom",
+    "Canada",
+    "France"
+   ],
+   "india": 46,
+   "india_samples": [
+    {
+     "location": "India",
+     "title": "AI Trainers Network - Assamese",
+     "url": "https://jobs.lever.co/weloglobal/a808d5c0-b4cc-4a3e-b328-bd3b82576976"
+    },
+    {
+     "location": "India • Remote, Worldwide • Remote - Europe",
+     "title": "AI Trainers Network - Bengali",
+     "url": "https://jobs.lever.co/weloglobal/622bd924-7c24-42dc-9f31-8a4c54d84138"
+    },
+    {
+     "location": "India",
+     "title": "AI Trainers Network - English (India)",
+     "url": "https://jobs.lever.co/weloglobal/ce7d7ad2-a85e-4e63-a352-d42f839eb61b"
+    },
+    {
+     "location": "India • Remote, Worldwide • Remote - Europe",
+     "title": "AI Trainers Network - Gujarati",
+     "url": "https://jobs.lever.co/weloglobal/356f0d57-704e-4d0a-94dc-bd1c60aaaf35"
+    }
+   ],
+   "open_samples": [
+    {
+     "location": "Albania • Remote, Worldwide • Remote - Europe • Remote",
+     "title": "AI Trainers Network - Albanian",
+     "url": "https://jobs.lever.co/weloglobal/6d10f2c0-ad1c-4432-be17-f04175a56367"
+    },
+    {
+     "location": "Addis Ababa, Ethiopia • Remote, Worldwide • Remote - Europe • Remote",
+     "title": "AI Trainers Network - Amharic",
+     "url": "https://jobs.lever.co/weloglobal/12499f58-91b4-43a1-8bf8-6b2bf73849c6"
+    },
+    {
+     "location": "Azerbaijan • Remote, Worldwide • Remote - Europe • Remote",
+     "title": "AI Trainers Network - Azerbaijani",
+     "url": "https://jobs.lever.co/weloglobal/e0af350d-f782-4fd7-9f4a-7a011df6bcab"
+    },
+    {
+     "location": "Minsk, Belarus • Remote, Worldwide • Remote - Europe • Remote",
+     "title": "AI Trainers Network - Belarusian",
+     "url": "https://jobs.lever.co/weloglobal/63cff927-d6ac-4769-b594-00686ede8e40"
+    }
+   ],
+   "remote": 366,
+   "restricted_remote": 310,
+   "restricted_samples": [
+    {
+     "location": "Brazil",
+     "title": "*Scout Junior Quality Coordinator - Portuguese (Brazil)",
+     "url": "https://jobs.lever.co/weloglobal/6e0ac589-3fba-429a-8ce4-5c48a2cf0e2d"
+    },
+    {
+     "location": "Mexico City, Mexico",
+     "title": "*Scout Junior Quality Coordinator - Spanish (Mexico)",
+     "url": "https://jobs.lever.co/weloglobal/aaae7990-493d-4359-afc5-8e118e8f0d04"
+    },
+    {
+     "location": "Japan",
+     "title": "*Scout Search Quality Rater - Japanese  | ウェブ検索結果品質評価者【在宅/フリーランス/英語を活かせる】 (日本在住の方)",
+     "url": "https://jobs.lever.co/weloglobal/fd03d02c-3430-4174-abcd-d2b5f8f6f0dc"
+    },
+    {
+     "location": "Canada",
+     "title": "AI Data Annotator - French (Canada)",
+     "url": "https://jobs.lever.co/weloglobal/a4eea322-dd9f-49ef-8b5b-df7620786b91"
+    }
+   ],
+   "slug": "weloglobal",
+   "total": 468,
+   "type": "lever",
+   "url": "https://jobs.lever.co/weloglobal",
+   "worldwide": 12
+  },
+  "changed_at": "2026-10-27T10:50:24Z",
+  "evidence": [
+   {
+    "detail": "AI Trainers Network - Assamese (India); AI Trainers Network - Bengali (India • Remote, Worldwide • Remote - Europe); AI Trainers Network - English (India) (India)",
+    "kind": "board",
+    "label": "46 of 468 open roles are located in India",
+    "url": "https://jobs.lever.co/weloglobal",
+    "weight": 5
+   },
+   {
+    "detail": "SDET - API/Middleware (India) — India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://himalayas.app/companies/welo-global/jobs/sdet-api-middleware-india?utm_source=api",
+    "weight": 5
+   },
+   {
+    "detail": "AI Trainers Network - Albanian (Albania • Remote, Worldwide • Remote - Europe • Remote); AI Trainers Network - Amharic (Addis Ababa, Ethiopia • Remote, Worldwide • Remote - Europe • Remote); AI Trainers Network - Azerbai",
+    "kind": "board",
+    "label": "12 open roles are open worldwide or to APAC",
+    "url": "https://jobs.lever.co/weloglobal",
+    "weight": 3
+   },
+   {
+    "detail": "…stems. We’re building smarter, more human AI with a diverse community in 100+ countries.    At Welo Data, Limitless AI. Limitless You. isn’t just a slogan—it…",
+    "kind": "posting",
+    "label": "Posting describes hiring across countries",
+    "url": "https://himalayas.app/companies/welo-global/jobs/sdet-api-middleware-india?utm_source=api",
+    "weight": 3
+   }
+  ],
+  "first_checked_at": "2026-10-19T13:24:59Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "8f630994ca",
+  "summary": "46 of 468 open roles are located in India.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "logo": "https://cdn-images.himalayas.app/qm45ge9z7ovif6tgv4leq7re76kc",
+ "name": "Welo Global",
+ "slug": "welo-global",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}

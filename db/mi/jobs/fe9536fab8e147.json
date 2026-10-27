@@ -1,0 +1,100 @@
+{
+  "apply_url": null,
+  "board_apply": "https://www.jobleads.com/in/job/motion-designer--india--e928f813dff096c199b44264c9d7384a0",
+  "category": "Other",
+  "comp_potential": "below",
+  "company": "NRewind",
+  "company_slug": "nrewind",
+  "concerns": [
+    "Pay not disclosed — showing a low-confidence estimate",
+    "Pay evidence suggests below ₹35 LPA"
+  ],
+  "contacts_count": 0,
+  "content_hash": "d7c45544f70c",
+  "date_quality": "approx",
+  "deadline": null,
+  "employment": "full-time",
+  "first_seen": "2026-10-15T15:39:48Z",
+  "fit": 53,
+  "has_hiring_manager": false,
+  "has_named_contact": false,
+  "has_public_email": false,
+  "id": "fe9536fab8e147",
+  "include_reason": "Motion design title",
+  "india": {
+    "cities": [],
+    "company": "yes",
+    "reason": "Location lists India",
+    "status": "confirmed",
+    "visa": false
+  },
+  "kind": "motion",
+  "last_verified": "2026-10-16T06:28:21Z",
+  "location": "India",
+  "logo": null,
+  "needs_review": false,
+  "official": false,
+  "posted_at": "2026-10-11T00:00:00Z",
+  "repost": false,
+  "requirements": [],
+  "responsibilities": [],
+  "salary": {
+    "estimate": {
+      "confidence": "low",
+      "currency": "INR",
+      "evidence": [
+        "ab-senior-motion-designer-in",
+        "ab-senior-motion-graphic-designer-in",
+        "gd-senior-motion-designer-blr"
+      ],
+      "high": 920000,
+      "inr_high": 920000,
+      "inr_low": 800000,
+      "low": 800000,
+      "method": "India market averages for senior motion designers from 3 sources (AmbitionBox ×2, Glassdoor Bangalore): ₹8.0–9.2 LPA. These are averages across all employers and experience around 3 years; no evidence that this employer pays above market.",
+      "potential": "below"
+    },
+    "note": "Estimate — not employer-confirmed",
+    "state": "estimate",
+    "verified_at": "2026-10-16T06:28:21Z"
+  },
+  "scores": {
+    "ai": 30,
+    "comp": 22,
+    "company": 40,
+    "location": 88,
+    "seniority": 66,
+    "skill": 67
+  },
+  "seniority": "unspecified",
+  "snippet": "NRewind is seeking a skilled motion designer to bring interfaces, brand films and product launches to life through crafted motion and micro-interactions.",
+  "source_primary": "JobLeads (via search index)",
+  "sources": [
+    {
+      "id": "web",
+      "job_id": "https://www.jobleads.com/in/job/motion-designer--india--e928f813dff096c199b44264c9d7384a0",
+      "kind": "search",
+      "name": "JobLeads (via search index)",
+      "posted_at": "2026-10-11T00:00:00Z",
+      "seen_at": "2026-10-16T06:28:21Z",
+      "url": "https://www.jobleads.com/in/job/motion-designer--india--e928f813dff096c199b44264c9d7384a0"
+    }
+  ],
+  "specializations": [
+    "Micro-interactions",
+    "Product films"
+  ],
+  "status": "lead",
+  "tier": 3,
+  "title": "Motion Designer",
+  "tools": [],
+  "updated_at": null,
+  "url": "https://www.jobleads.com/in/job/motion-designer--india--e928f813dff096c199b44264c9d7384a0",
+  "why": [
+    "Core motion design role",
+    "Specialisations in scope: Micro-interactions, Product films",
+    "Location lists India"
+  ],
+  "work_mode": "onsite",
+  "years_min": null
+}

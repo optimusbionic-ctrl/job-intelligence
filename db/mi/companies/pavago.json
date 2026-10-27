@@ -1,0 +1,55 @@
+{
+  "category": "Other",
+  "classification": "Inferred from job description",
+  "india_hiring": {
+    "board": null,
+    "changed_at": "2026-10-16T15:28:48Z",
+    "evidence": [],
+    "first_checked_at": "2026-10-16T15:28:48Z",
+    "india_based": false,
+    "method": "Careers board, posting text, web search",
+    "sig": "54391d7cdf",
+    "summary": "No public evidence yet about hiring from India.",
+    "verdict": "unclear",
+    "web": {
+      "checked_at": "2026-10-16T16:26:59Z",
+      "query": "\"Pavago\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
+      "results": [
+        {
+          "description": "# You're good at what you do. Getting foundshouldn't be the hard part.\n## Common questions\n### What countries can I apply from?\nPavago works with candidates across LATAM, Africa, South Asia, and Europe.\n\n## Are you hiring, or looking for work?\nPavago connects US companies with remote professionals.",
+          "title": "Remote Jobs Worldwide: Get Hired by Global Companies - Pavago",
+          "url": "https://www.pavago.co/jobs"
+        },
+        {
+          "description": "## Job Openings\n**Remote**\n\n**Remote**\n\n**Remote**\n\n**Remote**\n\n**Remote**\n\nIndia\n\n**Remote**\n\n**Remote**\n\n**Remote**\n\n**Remote**",
+          "title": "Pavago - Current Openings - Workable Jobs",
+          "url": "https://apply.workable.com/pavago/"
+        },
+        {
+          "description": "# Skip weeks of sourcing.Get matched with vetted remote talent in under a minute.\n## Featured Profiles from439,219remote professionals\nBased in Mexico, South Africa, Brazil, Portugal, Pakistan, Colombia, Netherlands, Honduras, United States, Philippines",
+          "title": "Pavago: The Remote Talent Marketplace Where You Hire Directly",
+          "url": "https://www.pavago.co/"
+        },
+        {
+          "description": "... Remote Jobs Worldwide: Get Hired by Global Companies | Pavago pavago.co ... jobs · Operations Coordinator jobs · Python Developer jobs · Software Engineer jobs ...",
+          "title": "Pavago - LinkedIn",
+          "url": "https://www.linkedin.com/company/pavago"
+        },
+        {
+          "description": "# Remote Pavago jobs\nPavago\n\nStaffing & Recruiting\n\nPavago is a global staffing and recruiting firm emphasizing remote work with geographic restrictions, hiring from selected countries across Asia, Africa, and the Caribbean. Their operational model supports remote roles in specific jurisdictions, with a focus on international talent for local and global growth.\n\n### Remote Hiring & Policy Analysis Brief\n#### 2. Where they usually hire from\nPredominantly hires from countries including Pakistan, South Africa, Jamaica, Belize, and Mexico, indicating a focus on regions with available remote talent.",
+          "title": "Remote Pavago Jobs - Work From Home - Jobgether",
+          "url": "https://jobgether.com/remote-jobs/company-pavago"
+        },
+        {
+          "description": "It's free, and it always will be. Create your profile → · pavago. The hiring marketplace for full-time remote talent.",
+          "title": "Remote Jobs for African Talent — No Fees, Get Hired Fast | Pavago",
+          "url": "https://www.pavago.co/jobs/africa"
+        }
+      ]
+    }
+  },
+  "inferred": true,
+  "name": "Pavago",
+  "slug": "pavago",
+  "tier": 3
+}

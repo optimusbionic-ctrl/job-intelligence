@@ -1,0 +1,2855 @@
+[
+ {
+  "name": "Figma",
+  "aliases": [
+   "Figma"
+  ],
+  "slug": "figma",
+  "ats": {
+   "type": "greenhouse",
+   "slug": "figma"
+  },
+  "tier": 1,
+  "category": "Creative software",
+  "hq": "San Francisco, US",
+  "maturity": "Public",
+  "domain": "figma.com",
+  "careers": "https://boards.greenhouse.io/figma",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Notion",
+  "aliases": [
+   "Notion"
+  ],
+  "slug": "notion",
+  "ats": {
+   "type": "ashby",
+   "slug": "notion"
+  },
+  "tier": 1,
+  "category": "SaaS",
+  "hq": "San Francisco, US",
+  "maturity": "Late-stage private",
+  "domain": "notion.com",
+  "careers": "https://jobs.ashbyhq.com/notion",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Linear",
+  "aliases": [
+   "Linear"
+  ],
+  "slug": "linear",
+  "ats": {
+   "type": "ashby",
+   "slug": "linear"
+  },
+  "tier": 1,
+  "category": "SaaS",
+  "hq": "San Francisco, US",
+  "maturity": "Growth-stage private",
+  "domain": "linear.app",
+  "careers": "https://jobs.ashbyhq.com/linear",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Vercel",
+  "aliases": [
+   "Vercel"
+  ],
+  "slug": "vercel",
+  "ats": {
+   "type": "greenhouse",
+   "slug": "vercel"
+  },
+  "tier": 1,
+  "category": "Developer tools",
+  "hq": "San Francisco, US",
+  "maturity": "Late-stage private",
+  "domain": "vercel.com",
+  "careers": "https://boards.greenhouse.io/vercel",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Webflow",
+  "aliases": [
+   "Webflow"
+  ],
+  "slug": "webflow",
+  "ats": {
+   "type": "greenhouse",
+   "slug": "webflow"
+  },
+  "tier": 1,
+  "category": "Creative software",
+  "hq": "San Francisco, US",
+  "maturity": "Late-stage private",
+  "domain": "webflow.com",
+  "careers": "https://boards.greenhouse.io/webflow",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Miro",
+  "aliases": [
+   "Miro"
+  ],
+  "slug": "miro",
+  "ats": {
+   "type": "ashby",
+   "slug": "miro"
+  },
+  "tier": 1,
+  "category": "SaaS",
+  "hq": "Amsterdam, NL",
+  "maturity": "Late-stage private",
+  "domain": "miro.com",
+  "careers": "https://jobs.ashbyhq.com/miro",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Airtable",
+  "aliases": [
+   "Airtable"
+  ],
+  "slug": "airtable",
+  "ats": {
+   "type": "greenhouse",
+   "slug": "airtable"
+  },
+  "tier": 1,
+  "category": "SaaS",
+  "hq": "San Francisco, US",
+  "maturity": "Late-stage private",
+  "domain": "airtable.com",
+  "careers": "https://boards.greenhouse.io/airtable",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Asana",
+  "aliases": [
+   "Asana"
+  ],
+  "slug": "asana",
+  "ats": {
+   "type": "greenhouse",
+   "slug": "asana"
+  },
+  "tier": 1,
+  "category": "SaaS",
+  "hq": "San Francisco, US",
+  "maturity": "Public",
+  "domain": "asana.com",
+  "careers": "https://boards.greenhouse.io/asana",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Stripe",
+  "aliases": [
+   "Stripe"
+  ],
+  "slug": "stripe",
+  "ats": {
+   "type": "greenhouse",
+   "slug": "stripe"
+  },
+  "tier": 1,
+  "category": "Fintech",
+  "hq": "San Francisco, US",
+  "maturity": "Late-stage private",
+  "domain": "stripe.com",
+  "careers": "https://boards.greenhouse.io/stripe",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Ramp",
+  "aliases": [
+   "Ramp"
+  ],
+  "slug": "ramp",
+  "ats": {
+   "type": "ashby",
+   "slug": "ramp"
+  },
+  "tier": 1,
+  "category": "Fintech",
+  "hq": "New York, US",
+  "maturity": "Late-stage private",
+  "domain": "ramp.com",
+  "careers": "https://jobs.ashbyhq.com/ramp",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Mercury",
+  "aliases": [
+   "Mercury"
+  ],
+  "slug": "mercury",
+  "ats": {
+   "type": "greenhouse",
+   "slug": "mercury"
+  },
+  "tier": 1,
+  "category": "Fintech",
+  "hq": "San Francisco, US",
+  "maturity": "Late-stage private",
+  "domain": "mercury.com",
+  "careers": "https://boards.greenhouse.io/mercury",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Brex",
+  "aliases": [
+   "Brex"
+  ],
+  "slug": "brex",
+  "ats": {
+   "type": "greenhouse",
+   "slug": "brex"
+  },
+  "tier": 1,
+  "category": "Fintech",
+  "hq": "San Francisco, US",
+  "maturity": "Late-stage private",
+  "domain": "brex.com",
+  "careers": "https://boards.greenhouse.io/brex",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Plaid",
+  "aliases": [
+   "Plaid"
+  ],
+  "slug": "plaid",
+  "ats": {
+   "type": "ashby",
+   "slug": "plaid"
+  },
+  "tier": 1,
+  "category": "Fintech",
+  "hq": "San Francisco, US",
+  "maturity": "Late-stage private",
+  "domain": "plaid.com",
+  "careers": "https://jobs.ashbyhq.com/plaid",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Intercom",
+  "aliases": [
+   "Intercom"
+  ],
+  "slug": "intercom",
+  "ats": {
+   "type": "greenhouse",
+   "slug": "intercom"
+  },
+  "tier": 1,
+  "category": "AI",
+  "hq": "San Francisco, US / Dublin, IE",
+  "maturity": "Late-stage private",
+  "domain": "intercom.com",
+  "careers": "https://boards.greenhouse.io/intercom",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Datadog",
+  "aliases": [
+   "Datadog"
+  ],
+  "slug": "datadog",
+  "ats": {
+   "type": "greenhouse",
+   "slug": "datadog"
+  },
+  "tier": 1,
+  "category": "Developer tools",
+  "hq": "New York, US",
+  "maturity": "Public",
+  "domain": "datadoghq.com",
+  "careers": "https://boards.greenhouse.io/datadog",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Cloudflare",
+  "aliases": [
+   "Cloudflare"
+  ],
+  "slug": "cloudflare",
+  "ats": {
+   "type": "greenhouse",
+   "slug": "cloudflare"
+  },
+  "tier": 1,
+  "category": "Cloud infrastructure",
+  "hq": "San Francisco, US",
+  "maturity": "Public",
+  "domain": "cloudflare.com",
+  "careers": "https://boards.greenhouse.io/cloudflare",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Discord",
+  "aliases": [
+   "Discord"
+  ],
+  "slug": "discord",
+  "ats": {
+   "type": "greenhouse",
+   "slug": "discord"
+  },
+  "tier": 1,
+  "category": "Consumer tech",
+  "hq": "San Francisco, US",
+  "maturity": "Late-stage private",
+  "domain": "discord.com",
+  "careers": "https://boards.greenhouse.io/discord",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Duolingo",
+  "aliases": [
+   "Duolingo"
+  ],
+  "slug": "duolingo",
+  "ats": {
+   "type": "greenhouse",
+   "slug": "duolingo"
+  },
+  "tier": 1,
+  "category": "Consumer tech",
+  "hq": "Pittsburgh, US",
+  "maturity": "Public",
+  "domain": "duolingo.com",
+  "careers": "https://boards.greenhouse.io/duolingo",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Dropbox",
+  "aliases": [
+   "Dropbox"
+  ],
+  "slug": "dropbox",
+  "ats": {
+   "type": "greenhouse",
+   "slug": "dropbox"
+  },
+  "tier": 1,
+  "category": "SaaS",
+  "hq": "San Francisco, US",
+  "maturity": "Public",
+  "domain": "dropbox.com",
+  "careers": "https://boards.greenhouse.io/dropbox",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Spotify",
+  "aliases": [
+   "Spotify"
+  ],
+  "slug": "spotify",
+  "ats": {
+   "type": "lever",
+   "slug": "spotify"
+  },
+  "tier": 1,
+  "category": "Consumer tech",
+  "hq": "Stockholm, SE",
+  "maturity": "Public",
+  "domain": "spotify.com",
+  "careers": "https://jobs.lever.co/spotify",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Airbnb",
+  "aliases": [
+   "Airbnb"
+  ],
+  "slug": "airbnb",
+  "ats": {
+   "type": "greenhouse",
+   "slug": "airbnb"
+  },
+  "tier": 1,
+  "category": "Consumer tech",
+  "hq": "San Francisco, US",
+  "maturity": "Public",
+  "domain": "airbnb.com",
+  "careers": "https://boards.greenhouse.io/airbnb",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Pinterest",
+  "aliases": [
+   "Pinterest"
+  ],
+  "slug": "pinterest",
+  "ats": {
+   "type": "greenhouse",
+   "slug": "pinterest"
+  },
+  "tier": 1,
+  "category": "Consumer tech",
+  "hq": "San Francisco, US",
+  "maturity": "Public",
+  "domain": "pinterest.com",
+  "careers": "https://boards.greenhouse.io/pinterest",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Reddit",
+  "aliases": [
+   "Reddit"
+  ],
+  "slug": "reddit",
+  "ats": {
+   "type": "greenhouse",
+   "slug": "reddit"
+  },
+  "tier": 1,
+  "category": "Consumer tech",
+  "hq": "San Francisco, US",
+  "maturity": "Public",
+  "domain": "reddit.com",
+  "careers": "https://boards.greenhouse.io/reddit",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Robinhood",
+  "aliases": [
+   "Robinhood"
+  ],
+  "slug": "robinhood",
+  "ats": {
+   "type": "greenhouse",
+   "slug": "robinhood"
+  },
+  "tier": 1,
+  "category": "Fintech",
+  "hq": "Menlo Park, US",
+  "maturity": "Public",
+  "domain": "robinhood.com",
+  "careers": "https://boards.greenhouse.io/robinhood",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Coinbase",
+  "aliases": [
+   "Coinbase"
+  ],
+  "slug": "coinbase",
+  "ats": {
+   "type": "greenhouse",
+   "slug": "coinbase"
+  },
+  "tier": 1,
+  "category": "Crypto / Web3",
+  "hq": "Remote-first, US",
+  "maturity": "Public",
+  "domain": "coinbase.com",
+  "careers": "https://boards.greenhouse.io/coinbase",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Chime",
+  "aliases": [
+   "Chime"
+  ],
+  "slug": "chime",
+  "ats": {
+   "type": "greenhouse",
+   "slug": "chime"
+  },
+  "tier": 1,
+  "category": "Fintech",
+  "hq": "San Francisco, US",
+  "maturity": "Public",
+  "domain": "chime.com",
+  "careers": "https://boards.greenhouse.io/chime",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Gusto",
+  "aliases": [
+   "Gusto"
+  ],
+  "slug": "gusto",
+  "ats": {
+   "type": "greenhouse",
+   "slug": "gusto"
+  },
+  "tier": 1,
+  "category": "SaaS",
+  "hq": "San Francisco, US",
+  "maturity": "Late-stage private",
+  "domain": "gusto.com",
+  "careers": "https://boards.greenhouse.io/gusto",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Supabase",
+  "aliases": [
+   "Supabase"
+  ],
+  "slug": "supabase",
+  "ats": {
+   "type": "ashby",
+   "slug": "supabase"
+  },
+  "tier": 1,
+  "category": "Developer tools",
+  "hq": "Remote-first",
+  "maturity": "Growth-stage private",
+  "domain": "supabase.com",
+  "careers": "https://jobs.ashbyhq.com/supabase",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "OpenAI",
+  "aliases": [
+   "OpenAI"
+  ],
+  "slug": "openai",
+  "ats": {
+   "type": "ashby",
+   "slug": "openai"
+  },
+  "tier": 1,
+  "category": "AI",
+  "hq": "San Francisco, US",
+  "maturity": "Late-stage private",
+  "domain": "openai.com",
+  "careers": "https://jobs.ashbyhq.com/openai",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Anthropic",
+  "aliases": [
+   "Anthropic"
+  ],
+  "slug": "anthropic",
+  "ats": {
+   "type": "greenhouse",
+   "slug": "anthropic"
+  },
+  "tier": 1,
+  "category": "AI",
+  "hq": "San Francisco, US",
+  "maturity": "Late-stage private",
+  "domain": "anthropic.com",
+  "careers": "https://boards.greenhouse.io/anthropic",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Perplexity",
+  "aliases": [
+   "Perplexity"
+  ],
+  "slug": "perplexity",
+  "ats": {
+   "type": "ashby",
+   "slug": "perplexity"
+  },
+  "tier": 1,
+  "category": "AI",
+  "hq": "San Francisco, US",
+  "maturity": "Late-stage private",
+  "domain": "perplexity.ai",
+  "careers": "https://jobs.ashbyhq.com/perplexity",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "ElevenLabs",
+  "aliases": [
+   "ElevenLabs"
+  ],
+  "slug": "elevenlabs",
+  "ats": {
+   "type": "ashby",
+   "slug": "elevenlabs"
+  },
+  "tier": 1,
+  "category": "AI",
+  "hq": "London, UK / New York, US",
+  "maturity": "Late-stage private",
+  "domain": "elevenlabs.io",
+  "careers": "https://jobs.ashbyhq.com/elevenlabs",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Runway",
+  "aliases": [
+   "Runway (business planning)"
+  ],
+  "slug": "runway",
+  "ats": {
+   "type": "ashby",
+   "slug": "runway"
+  },
+  "tier": 1,
+  "category": "Fintech",
+  "hq": "San Francisco, US",
+  "maturity": "Growth-stage private",
+  "domain": "runway.com",
+  "careers": "https://jobs.ashbyhq.com/runway",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Pika",
+  "aliases": [
+   "Pika"
+  ],
+  "slug": "pika",
+  "ats": {
+   "type": "ashby",
+   "slug": "pika"
+  },
+  "tier": 1,
+  "category": "AI",
+  "hq": "Palo Alto, US",
+  "maturity": "Growth-stage private",
+  "domain": "pika.art",
+  "careers": "https://jobs.ashbyhq.com/pika",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Synthesia",
+  "aliases": [
+   "Synthesia"
+  ],
+  "slug": "synthesia",
+  "ats": {
+   "type": "ashby",
+   "slug": "synthesia"
+  },
+  "tier": 1,
+  "category": "AI",
+  "hq": "London, UK",
+  "maturity": "Late-stage private",
+  "domain": "synthesia.io",
+  "careers": "https://jobs.ashbyhq.com/synthesia",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Descript",
+  "aliases": [
+   "Descript"
+  ],
+  "slug": "descript",
+  "ats": {
+   "type": "greenhouse",
+   "slug": "descript"
+  },
+  "tier": 1,
+  "category": "Creative software",
+  "hq": "San Francisco, US",
+  "maturity": "Growth-stage private",
+  "domain": "descript.com",
+  "careers": "https://boards.greenhouse.io/descript",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "HeyGen",
+  "aliases": [
+   "HeyGen"
+  ],
+  "slug": "heygen",
+  "ats": {
+   "type": "greenhouse",
+   "slug": "heygen"
+  },
+  "tier": 1,
+  "category": "AI",
+  "hq": "Los Angeles, US",
+  "maturity": "Growth-stage private",
+  "domain": "heygen.com",
+  "careers": "https://boards.greenhouse.io/heygen",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Cursor",
+  "aliases": [
+   "Cursor (Anysphere)"
+  ],
+  "slug": "cursor",
+  "ats": {
+   "type": "ashby",
+   "slug": "cursor"
+  },
+  "tier": 1,
+  "category": "Developer tools",
+  "hq": "San Francisco, US",
+  "maturity": "Late-stage private",
+  "domain": "cursor.com",
+  "careers": "https://jobs.ashbyhq.com/cursor",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Replit",
+  "aliases": [
+   "Replit"
+  ],
+  "slug": "replit",
+  "ats": {
+   "type": "ashby",
+   "slug": "replit"
+  },
+  "tier": 1,
+  "category": "Developer tools",
+  "hq": "San Francisco, US",
+  "maturity": "Late-stage private",
+  "domain": "replit.com",
+  "careers": "https://jobs.ashbyhq.com/replit",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "PostHog",
+  "aliases": [
+   "PostHog"
+  ],
+  "slug": "posthog",
+  "ats": {
+   "type": "ashby",
+   "slug": "posthog"
+  },
+  "tier": 1,
+  "category": "Developer tools",
+  "hq": "Remote-first",
+  "maturity": "Growth-stage private",
+  "domain": "posthog.com",
+  "careers": "https://jobs.ashbyhq.com/posthog",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Sentry",
+  "aliases": [
+   "Sentry"
+  ],
+  "slug": "sentry",
+  "ats": {
+   "type": "ashby",
+   "slug": "sentry"
+  },
+  "tier": 1,
+  "category": "Developer tools",
+  "hq": "San Francisco, US",
+  "maturity": "Late-stage private",
+  "domain": "sentry.io",
+  "careers": "https://jobs.ashbyhq.com/sentry",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "MongoDB",
+  "aliases": [
+   "MongoDB"
+  ],
+  "slug": "mongodb",
+  "ats": {
+   "type": "greenhouse",
+   "slug": "mongodb"
+  },
+  "tier": 1,
+  "category": "Developer tools",
+  "hq": "New York, US",
+  "maturity": "Public",
+  "domain": "mongodb.com",
+  "careers": "https://boards.greenhouse.io/mongodb",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Elastic",
+  "aliases": [
+   "Elastic"
+  ],
+  "slug": "elastic",
+  "ats": {
+   "type": "greenhouse",
+   "slug": "elastic"
+  },
+  "tier": 1,
+  "category": "Developer tools",
+  "hq": "Remote-first",
+  "maturity": "Public",
+  "domain": "elastic.co",
+  "careers": "https://boards.greenhouse.io/elastic",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "GitLab",
+  "aliases": [
+   "GitLab"
+  ],
+  "slug": "gitlab",
+  "ats": {
+   "type": "greenhouse",
+   "slug": "gitlab"
+  },
+  "tier": 1,
+  "category": "Developer tools",
+  "hq": "Remote-first",
+  "maturity": "Public",
+  "domain": "gitlab.com",
+  "careers": "https://boards.greenhouse.io/gitlab",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Zapier",
+  "aliases": [
+   "Zapier"
+  ],
+  "slug": "zapier",
+  "ats": {
+   "type": "ashby",
+   "slug": "zapier"
+  },
+  "tier": 1,
+  "category": "SaaS",
+  "hq": "Remote-first",
+  "maturity": "Late-stage private",
+  "domain": "zapier.com",
+  "careers": "https://jobs.ashbyhq.com/zapier",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "ClickUp",
+  "aliases": [
+   "ClickUp"
+  ],
+  "slug": "clickup",
+  "ats": {
+   "type": "ashby",
+   "slug": "clickup"
+  },
+  "tier": 1,
+  "category": "SaaS",
+  "hq": "San Diego, US",
+  "maturity": "Late-stage private",
+  "domain": "clickup.com",
+  "careers": "https://jobs.ashbyhq.com/clickup",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Squarespace",
+  "aliases": [
+   "Squarespace"
+  ],
+  "slug": "squarespace",
+  "ats": {
+   "type": "greenhouse",
+   "slug": "squarespace"
+  },
+  "tier": 1,
+  "category": "Creative software",
+  "hq": "New York, US",
+  "maturity": "Private",
+  "domain": "squarespace.com",
+  "careers": "https://boards.greenhouse.io/squarespace",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Klaviyo",
+  "aliases": [
+   "Klaviyo"
+  ],
+  "slug": "klaviyo",
+  "ats": {
+   "type": "greenhouse",
+   "slug": "klaviyo"
+  },
+  "tier": 1,
+  "category": "SaaS",
+  "hq": "Boston, US",
+  "maturity": "Public",
+  "domain": "klaviyo.com",
+  "careers": "https://boards.greenhouse.io/klaviyo",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Amplitude",
+  "aliases": [
+   "Amplitude"
+  ],
+  "slug": "amplitude",
+  "ats": {
+   "type": "ashby",
+   "slug": "amplitude"
+  },
+  "tier": 1,
+  "category": "SaaS",
+  "hq": "San Francisco, US",
+  "maturity": "Public",
+  "domain": "amplitude.com",
+  "careers": "https://jobs.ashbyhq.com/amplitude",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Mixpanel",
+  "aliases": [
+   "Mixpanel"
+  ],
+  "slug": "mixpanel",
+  "ats": {
+   "type": "greenhouse",
+   "slug": "mixpanel"
+  },
+  "tier": 1,
+  "category": "SaaS",
+  "hq": "San Francisco, US",
+  "maturity": "Growth-stage private",
+  "domain": "mixpanel.com",
+  "careers": "https://boards.greenhouse.io/mixpanel",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Twilio",
+  "aliases": [
+   "Twilio"
+  ],
+  "slug": "twilio",
+  "ats": {
+   "type": "greenhouse",
+   "slug": "twilio"
+  },
+  "tier": 1,
+  "category": "Developer tools",
+  "hq": "San Francisco, US",
+  "maturity": "Public",
+  "domain": "twilio.com",
+  "careers": "https://boards.greenhouse.io/twilio",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Okta",
+  "aliases": [
+   "Okta"
+  ],
+  "slug": "okta",
+  "ats": {
+   "type": "greenhouse",
+   "slug": "okta"
+  },
+  "tier": 1,
+  "category": "Cybersecurity",
+  "hq": "San Francisco, US",
+  "maturity": "Public",
+  "domain": "okta.com",
+  "careers": "https://boards.greenhouse.io/okta",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "1Password",
+  "aliases": [
+   "1Password"
+  ],
+  "slug": "1password",
+  "ats": {
+   "type": "ashby",
+   "slug": "1password"
+  },
+  "tier": 1,
+  "category": "Cybersecurity",
+  "hq": "Toronto, CA",
+  "maturity": "Late-stage private",
+  "domain": "1password.com",
+  "careers": "https://jobs.ashbyhq.com/1password",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Tailscale",
+  "aliases": [
+   "Tailscale"
+  ],
+  "slug": "tailscale",
+  "ats": {
+   "type": "greenhouse",
+   "slug": "tailscale"
+  },
+  "tier": 1,
+  "category": "Cybersecurity",
+  "hq": "Toronto, CA",
+  "maturity": "Growth-stage private",
+  "domain": "tailscale.com",
+  "careers": "https://boards.greenhouse.io/tailscale",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Docker",
+  "aliases": [
+   "Docker"
+  ],
+  "slug": "docker",
+  "ats": {
+   "type": "ashby",
+   "slug": "docker"
+  },
+  "tier": 1,
+  "category": "Developer tools",
+  "hq": "Remote-first",
+  "maturity": "Late-stage private",
+  "domain": "docker.com",
+  "careers": "https://jobs.ashbyhq.com/docker",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Snyk",
+  "aliases": [
+   "Snyk"
+  ],
+  "slug": "snyk",
+  "ats": {
+   "type": "ashby",
+   "slug": "snyk"
+  },
+  "tier": 1,
+  "category": "Cybersecurity",
+  "hq": "Boston, US",
+  "maturity": "Late-stage private",
+  "domain": "snyk.io",
+  "careers": "https://jobs.ashbyhq.com/snyk",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "CRED",
+  "aliases": [
+   "CRED"
+  ],
+  "slug": "cred",
+  "ats": {
+   "type": "lever",
+   "slug": "cred"
+  },
+  "tier": 1,
+  "category": "Fintech",
+  "hq": "Bengaluru, IN",
+  "maturity": "Late-stage private",
+  "domain": "cred.club",
+  "careers": "https://jobs.lever.co/cred",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Groww",
+  "aliases": [
+   "Groww"
+  ],
+  "slug": "groww",
+  "ats": {
+   "type": "greenhouse",
+   "slug": "groww"
+  },
+  "tier": 1,
+  "category": "Fintech",
+  "hq": "Bengaluru, IN",
+  "maturity": "Public",
+  "domain": "groww.in",
+  "careers": "https://boards.greenhouse.io/groww",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Meesho",
+  "aliases": [
+   "Meesho"
+  ],
+  "slug": "meesho",
+  "ats": {
+   "type": "lever",
+   "slug": "meesho"
+  },
+  "tier": 1,
+  "category": "Consumer tech",
+  "hq": "Bengaluru, IN",
+  "maturity": "Public",
+  "domain": "meesho.com",
+  "careers": "https://jobs.lever.co/meesho",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Atlan",
+  "aliases": [
+   "Atlan"
+  ],
+  "slug": "atlan",
+  "ats": {
+   "type": "ashby",
+   "slug": "atlan"
+  },
+  "tier": 1,
+  "category": "SaaS",
+  "hq": "Remote-first / India",
+  "maturity": "Growth-stage private",
+  "domain": "atlan.com",
+  "careers": "https://jobs.ashbyhq.com/atlan",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "InMobi",
+  "aliases": [
+   "InMobi"
+  ],
+  "slug": "inmobi",
+  "ats": {
+   "type": "greenhouse",
+   "slug": "inmobi"
+  },
+  "tier": 1,
+  "category": "AI",
+  "hq": "Bengaluru, IN",
+  "maturity": "Late-stage private",
+  "domain": "inmobi.com",
+  "careers": "https://boards.greenhouse.io/inmobi",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Glance",
+  "aliases": [
+   "Glance"
+  ],
+  "slug": "glance",
+  "ats": {
+   "type": "greenhouse",
+   "slug": "glance"
+  },
+  "tier": 1,
+  "category": "Consumer tech",
+  "hq": "Bengaluru, IN",
+  "maturity": "Late-stage private",
+  "domain": "glance.com",
+  "careers": "https://boards.greenhouse.io/glance",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Simpplr",
+  "aliases": [
+   "Simpplr"
+  ],
+  "slug": "simpplr",
+  "ats": {
+   "type": "greenhouse",
+   "slug": "simpplr"
+  },
+  "tier": 1,
+  "category": "SaaS",
+  "hq": "Redwood City, US / Bengaluru, IN",
+  "maturity": "Growth-stage private",
+  "domain": "simpplr.com",
+  "careers": "https://boards.greenhouse.io/simpplr",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "ManvsMachine",
+  "aliases": [
+   "ManvsMachine"
+  ],
+  "slug": "manvsmachine",
+  "ats": {
+   "type": "greenhouse",
+   "slug": "manvsmachine"
+  },
+  "tier": 2,
+  "category": "Agency / studio",
+  "hq": "London, UK",
+  "maturity": "Private studio",
+  "domain": "mvsm.com",
+  "careers": "https://boards.greenhouse.io/manvsmachine",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "OpenSea",
+  "aliases": [
+   "OpenSea"
+  ],
+  "slug": "opensea",
+  "ats": {
+   "type": "ashby",
+   "slug": "opensea"
+  },
+  "tier": 1,
+  "category": "Crypto / Web3",
+  "hq": "New York, US",
+  "maturity": "Growth-stage private",
+  "domain": "opensea.io",
+  "careers": "https://jobs.ashbyhq.com/opensea",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Uniswap Labs",
+  "aliases": [
+   "Uniswap Labs"
+  ],
+  "slug": "uniswap-labs",
+  "ats": {
+   "type": "ashby",
+   "slug": "uniswap"
+  },
+  "tier": 1,
+  "category": "Crypto / Web3",
+  "hq": "New York, US",
+  "maturity": "Growth-stage private",
+  "domain": "uniswap.org",
+  "careers": "https://jobs.ashbyhq.com/uniswap",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Consensys",
+  "aliases": [
+   "Consensys"
+  ],
+  "slug": "consensys",
+  "ats": {
+   "type": "greenhouse",
+   "slug": "consensys"
+  },
+  "tier": 1,
+  "category": "Crypto / Web3",
+  "hq": "Remote-first",
+  "maturity": "Late-stage private",
+  "domain": "consensys.io",
+  "careers": "https://boards.greenhouse.io/consensys",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Phantom",
+  "aliases": [
+   "Phantom"
+  ],
+  "slug": "phantom",
+  "ats": {
+   "type": "ashby",
+   "slug": "phantom"
+  },
+  "tier": 1,
+  "category": "Crypto / Web3",
+  "hq": "Remote-first",
+  "maturity": "Growth-stage private",
+  "domain": "phantom.com",
+  "careers": "https://jobs.ashbyhq.com/phantom",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Alchemy",
+  "aliases": [
+   "Alchemy"
+  ],
+  "slug": "alchemy",
+  "ats": {
+   "type": "ashby",
+   "slug": "alchemy"
+  },
+  "tier": 1,
+  "category": "Crypto / Web3",
+  "hq": "San Francisco, US",
+  "maturity": "Late-stage private",
+  "domain": "alchemy.com",
+  "careers": "https://jobs.ashbyhq.com/alchemy",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Fireblocks",
+  "aliases": [
+   "Fireblocks"
+  ],
+  "slug": "fireblocks",
+  "ats": {
+   "type": "greenhouse",
+   "slug": "fireblocks"
+  },
+  "tier": 1,
+  "category": "Crypto / Web3",
+  "hq": "New York, US",
+  "maturity": "Late-stage private",
+  "domain": "fireblocks.com",
+  "careers": "https://boards.greenhouse.io/fireblocks",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Circle.so",
+  "aliases": [
+   "Circle.so"
+  ],
+  "slug": "circleso",
+  "ats": {
+   "type": "ashby",
+   "slug": "circle"
+  },
+  "tier": 1,
+  "category": "SaaS",
+  "hq": "Remote-first",
+  "maturity": "Growth-stage private",
+  "domain": "circle.so",
+  "careers": "https://jobs.ashbyhq.com/circle",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Ledger",
+  "aliases": [
+   "Ledger"
+  ],
+  "slug": "ledger",
+  "ats": {
+   "type": "ashby",
+   "slug": "ledger"
+  },
+  "tier": 1,
+  "category": "Crypto / Web3",
+  "hq": "Paris, FR",
+  "maturity": "Late-stage private",
+  "domain": "ledger.com",
+  "careers": "https://jobs.ashbyhq.com/ledger",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "MoonPay",
+  "aliases": [
+   "MoonPay"
+  ],
+  "slug": "moonpay",
+  "ats": {
+   "type": "lever",
+   "slug": "moonpay"
+  },
+  "tier": 1,
+  "category": "Crypto / Web3",
+  "hq": "Miami, US",
+  "maturity": "Late-stage private",
+  "domain": "moonpay.com",
+  "careers": "https://jobs.lever.co/moonpay",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Aptos Labs",
+  "aliases": [
+   "Aptos Labs"
+  ],
+  "slug": "aptos-labs",
+  "ats": {
+   "type": "greenhouse",
+   "slug": "aptoslabs"
+  },
+  "tier": 1,
+  "category": "Crypto / Web3",
+  "hq": "Palo Alto, US",
+  "maturity": "Growth-stage private",
+  "domain": "aptoslabs.com",
+  "careers": "https://boards.greenhouse.io/aptoslabs",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Mysten Labs",
+  "aliases": [
+   "Mysten Labs"
+  ],
+  "slug": "mysten-labs",
+  "ats": {
+   "type": "ashby",
+   "slug": "mystenlabs"
+  },
+  "tier": 1,
+  "category": "Crypto / Web3",
+  "hq": "Palo Alto, US",
+  "maturity": "Growth-stage private",
+  "domain": "mystenlabs.com",
+  "careers": "https://jobs.ashbyhq.com/mystenlabs",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Scale AI",
+  "aliases": [
+   "Scale AI"
+  ],
+  "slug": "scale-ai",
+  "ats": {
+   "type": "greenhouse",
+   "slug": "scaleai"
+  },
+  "tier": 1,
+  "category": "AI",
+  "hq": "San Francisco, US",
+  "maturity": "Late-stage private",
+  "domain": "scale.com",
+  "careers": "https://boards.greenhouse.io/scaleai",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Cohere",
+  "aliases": [
+   "Cohere"
+  ],
+  "slug": "cohere",
+  "ats": {
+   "type": "ashby",
+   "slug": "cohere"
+  },
+  "tier": 1,
+  "category": "AI",
+  "hq": "Toronto, CA",
+  "maturity": "Late-stage private",
+  "domain": "cohere.com",
+  "careers": "https://jobs.ashbyhq.com/cohere",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Stability AI",
+  "aliases": [
+   "Stability AI"
+  ],
+  "slug": "stability-ai",
+  "ats": {
+   "type": "greenhouse",
+   "slug": "stabilityai"
+  },
+  "tier": 1,
+  "category": "AI",
+  "hq": "London, UK",
+  "maturity": "Growth-stage private",
+  "domain": "stability.ai",
+  "careers": "https://boards.greenhouse.io/stabilityai",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Character.AI",
+  "aliases": [
+   "Character.AI"
+  ],
+  "slug": "characterai",
+  "ats": {
+   "type": "ashby",
+   "slug": "character"
+  },
+  "tier": 1,
+  "category": "AI",
+  "hq": "Menlo Park, US",
+  "maturity": "Growth-stage private",
+  "domain": "character.ai",
+  "careers": "https://jobs.ashbyhq.com/character",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Pinecone",
+  "aliases": [
+   "Pinecone"
+  ],
+  "slug": "pinecone",
+  "ats": {
+   "type": "ashby",
+   "slug": "pinecone"
+  },
+  "tier": 1,
+  "category": "Developer tools",
+  "hq": "New York, US",
+  "maturity": "Growth-stage private",
+  "domain": "pinecone.io",
+  "careers": "https://jobs.ashbyhq.com/pinecone",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Weaviate",
+  "aliases": [
+   "Weaviate"
+  ],
+  "slug": "weaviate",
+  "ats": {
+   "type": "ashby",
+   "slug": "weaviate"
+  },
+  "tier": 1,
+  "category": "Developer tools",
+  "hq": "Amsterdam, NL",
+  "maturity": "Growth-stage private",
+  "domain": "weaviate.io",
+  "careers": "https://jobs.ashbyhq.com/weaviate",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "LangChain",
+  "aliases": [
+   "LangChain"
+  ],
+  "slug": "langchain",
+  "ats": {
+   "type": "ashby",
+   "slug": "langchain"
+  },
+  "tier": 1,
+  "category": "Developer tools",
+  "hq": "San Francisco, US",
+  "maturity": "Growth-stage private",
+  "domain": "langchain.com",
+  "careers": "https://jobs.ashbyhq.com/langchain",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Calendly",
+  "aliases": [
+   "Calendly"
+  ],
+  "slug": "calendly",
+  "ats": {
+   "type": "greenhouse",
+   "slug": "calendly"
+  },
+  "tier": 1,
+  "category": "SaaS",
+  "hq": "Atlanta, US",
+  "maturity": "Late-stage private",
+  "domain": "calendly.com",
+  "careers": "https://boards.greenhouse.io/calendly",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Typeform",
+  "aliases": [
+   "Typeform"
+  ],
+  "slug": "typeform",
+  "ats": {
+   "type": "greenhouse",
+   "slug": "typeform"
+  },
+  "tier": 1,
+  "category": "SaaS",
+  "hq": "Barcelona, ES",
+  "maturity": "Late-stage private",
+  "domain": "typeform.com",
+  "careers": "https://boards.greenhouse.io/typeform",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "tldraw",
+  "aliases": [
+   "tldraw"
+  ],
+  "slug": "tldraw",
+  "ats": {
+   "type": "ashby",
+   "slug": "tldraw"
+  },
+  "tier": 1,
+  "category": "Creative software",
+  "hq": "London, UK",
+  "maturity": "Early-stage",
+  "domain": "tldraw.com",
+  "careers": "https://jobs.ashbyhq.com/tldraw",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Mural",
+  "aliases": [
+   "Mural"
+  ],
+  "slug": "mural",
+  "ats": {
+   "type": "ashby",
+   "slug": "mural"
+  },
+  "tier": 1,
+  "category": "SaaS",
+  "hq": "San Francisco, US",
+  "maturity": "Late-stage private",
+  "domain": "mural.co",
+  "careers": "https://jobs.ashbyhq.com/mural",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Lucid Software",
+  "aliases": [
+   "Lucid Software"
+  ],
+  "slug": "lucid-software",
+  "ats": {
+   "type": "greenhouse",
+   "slug": "lucidsoftware"
+  },
+  "tier": 1,
+  "category": "SaaS",
+  "hq": "Salt Lake City, US",
+  "maturity": "Late-stage private",
+  "domain": "lucid.co",
+  "careers": "https://boards.greenhouse.io/lucidsoftware",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Dovetail",
+  "aliases": [
+   "Dovetail"
+  ],
+  "slug": "dovetail",
+  "ats": {
+   "type": "ashby",
+   "slug": "dovetail"
+  },
+  "tier": 1,
+  "category": "SaaS",
+  "hq": "Sydney, AU",
+  "maturity": "Growth-stage private",
+  "domain": "dovetail.com",
+  "careers": "https://jobs.ashbyhq.com/dovetail",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Attio",
+  "aliases": [
+   "Attio"
+  ],
+  "slug": "attio",
+  "ats": {
+   "type": "ashby",
+   "slug": "attio"
+  },
+  "tier": 1,
+  "category": "SaaS",
+  "hq": "London, UK",
+  "maturity": "Growth-stage private",
+  "domain": "attio.com",
+  "careers": "https://jobs.ashbyhq.com/attio",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Hex",
+  "aliases": [
+   "Hex"
+  ],
+  "slug": "hex",
+  "ats": {
+   "type": "ashby",
+   "slug": "hex"
+  },
+  "tier": 1,
+  "category": "SaaS",
+  "hq": "San Francisco, US",
+  "maturity": "Growth-stage private",
+  "domain": "hex.tech",
+  "careers": "https://jobs.ashbyhq.com/hex",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Modal",
+  "aliases": [
+   "Modal"
+  ],
+  "slug": "modal",
+  "ats": {
+   "type": "ashby",
+   "slug": "modal"
+  },
+  "tier": 1,
+  "category": "Cloud infrastructure",
+  "hq": "New York, US",
+  "maturity": "Growth-stage private",
+  "domain": "modal.com",
+  "careers": "https://jobs.ashbyhq.com/modal",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Baseten",
+  "aliases": [
+   "Baseten"
+  ],
+  "slug": "baseten",
+  "ats": {
+   "type": "ashby",
+   "slug": "baseten"
+  },
+  "tier": 1,
+  "category": "Cloud infrastructure",
+  "hq": "San Francisco, US",
+  "maturity": "Growth-stage private",
+  "domain": "baseten.co",
+  "careers": "https://jobs.ashbyhq.com/baseten",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Together AI",
+  "aliases": [
+   "Together AI"
+  ],
+  "slug": "together-ai",
+  "ats": {
+   "type": "greenhouse",
+   "slug": "togetherai"
+  },
+  "tier": 1,
+  "category": "AI",
+  "hq": "San Francisco, US",
+  "maturity": "Late-stage private",
+  "domain": "together.ai",
+  "careers": "https://boards.greenhouse.io/togetherai",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Krea",
+  "aliases": [
+   "Krea"
+  ],
+  "slug": "krea",
+  "ats": {
+   "type": "ashby",
+   "slug": "krea"
+  },
+  "tier": 1,
+  "category": "AI",
+  "hq": "San Francisco, US",
+  "maturity": "Growth-stage private",
+  "domain": "krea.ai",
+  "careers": "https://jobs.ashbyhq.com/krea",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Ideogram",
+  "aliases": [
+   "Ideogram"
+  ],
+  "slug": "ideogram",
+  "ats": {
+   "type": "ashby",
+   "slug": "ideogram"
+  },
+  "tier": 1,
+  "category": "AI",
+  "hq": "Toronto, CA",
+  "maturity": "Growth-stage private",
+  "domain": "ideogram.ai",
+  "careers": "https://jobs.ashbyhq.com/ideogram",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Suno",
+  "aliases": [
+   "Suno"
+  ],
+  "slug": "suno",
+  "ats": {
+   "type": "ashby",
+   "slug": "suno"
+  },
+  "tier": 1,
+  "category": "AI",
+  "hq": "Cambridge, US",
+  "maturity": "Late-stage private",
+  "domain": "suno.com",
+  "careers": "https://jobs.ashbyhq.com/suno",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Udio",
+  "aliases": [
+   "Udio"
+  ],
+  "slug": "udio",
+  "ats": {
+   "type": "greenhouse",
+   "slug": "udio"
+  },
+  "tier": 1,
+  "category": "AI",
+  "hq": "New York, US",
+  "maturity": "Growth-stage private",
+  "domain": "udio.com",
+  "careers": "https://boards.greenhouse.io/udio",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "OpusClip",
+  "aliases": [
+   "OpusClip"
+  ],
+  "slug": "opusclip",
+  "ats": {
+   "type": "ashby",
+   "slug": "opusclip"
+  },
+  "tier": 1,
+  "category": "AI",
+  "hq": "Palo Alto, US",
+  "maturity": "Growth-stage private",
+  "domain": "opus.pro",
+  "careers": "https://jobs.ashbyhq.com/opusclip",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Gamma",
+  "aliases": [
+   "Gamma"
+  ],
+  "slug": "gamma",
+  "ats": {
+   "type": "ashby",
+   "slug": "gamma"
+  },
+  "tier": 1,
+  "category": "AI",
+  "hq": "San Francisco, US",
+  "maturity": "Growth-stage private",
+  "domain": "gamma.app",
+  "careers": "https://jobs.ashbyhq.com/gamma",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Arcade",
+  "aliases": [
+   "Arcade"
+  ],
+  "slug": "arcade",
+  "ats": {
+   "type": "ashby",
+   "slug": "arcade"
+  },
+  "tier": 1,
+  "category": "SaaS",
+  "hq": "San Francisco, US",
+  "maturity": "Growth-stage private",
+  "domain": "arcade.software",
+  "careers": "https://jobs.ashbyhq.com/arcade",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Guidde",
+  "aliases": [
+   "Guidde"
+  ],
+  "slug": "guidde",
+  "ats": {
+   "type": "greenhouse",
+   "slug": "guidde"
+  },
+  "tier": 1,
+  "category": "AI",
+  "hq": "Tel Aviv, IL",
+  "maturity": "Growth-stage private",
+  "domain": "guidde.com",
+  "careers": "https://boards.greenhouse.io/guidde",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Wistia",
+  "aliases": [
+   "Wistia"
+  ],
+  "slug": "wistia",
+  "ats": {
+   "type": "ashby",
+   "slug": "wistia"
+  },
+  "tier": 1,
+  "category": "SaaS",
+  "hq": "Boston, US",
+  "maturity": "Private",
+  "domain": "wistia.com",
+  "careers": "https://jobs.ashbyhq.com/wistia",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Writer",
+  "aliases": [
+   "Writer"
+  ],
+  "slug": "writer",
+  "ats": {
+   "type": "ashby",
+   "slug": "writer"
+  },
+  "tier": 1,
+  "category": "AI",
+  "hq": "San Francisco, US",
+  "maturity": "Late-stage private",
+  "domain": "writer.com",
+  "careers": "https://jobs.ashbyhq.com/writer",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Typeface",
+  "aliases": [
+   "Typeface"
+  ],
+  "slug": "typeface",
+  "ats": {
+   "type": "greenhouse",
+   "slug": "typeface"
+  },
+  "tier": 1,
+  "category": "AI",
+  "hq": "San Francisco, US",
+  "maturity": "Growth-stage private",
+  "domain": "typeface.ai",
+  "careers": "https://boards.greenhouse.io/typeface",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Epic Games",
+  "aliases": [
+   "Epic Games"
+  ],
+  "slug": "epic-games",
+  "ats": {
+   "type": "greenhouse",
+   "slug": "epicgames"
+  },
+  "tier": 1,
+  "category": "Gaming",
+  "hq": "Cary, US",
+  "maturity": "Late-stage private",
+  "domain": "epicgames.com",
+  "careers": "https://boards.greenhouse.io/epicgames",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Roblox",
+  "aliases": [
+   "Roblox"
+  ],
+  "slug": "roblox",
+  "ats": {
+   "type": "greenhouse",
+   "slug": "roblox"
+  },
+  "tier": 1,
+  "category": "Gaming",
+  "hq": "San Mateo, US",
+  "maturity": "Public",
+  "domain": "roblox.com",
+  "careers": "https://boards.greenhouse.io/roblox",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Canva",
+  "aliases": [
+   "Canva"
+  ],
+  "slug": "canva",
+  "ats": {
+   "type": "smartrecruiters",
+   "slug": "Canva"
+  },
+  "tier": 1,
+  "category": "Creative software",
+  "hq": "Sydney, AU",
+  "maturity": "Late-stage private",
+  "domain": "canva.com",
+  "careers": "https://jobs.smartrecruiters.com/Canva",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Freshworks",
+  "aliases": [
+   "Freshworks"
+  ],
+  "slug": "freshworks",
+  "ats": {
+   "type": "smartrecruiters",
+   "slug": "Freshworks"
+  },
+  "tier": 1,
+  "category": "SaaS",
+  "hq": "San Mateo, US / Chennai, IN",
+  "maturity": "Public",
+  "domain": "freshworks.com",
+  "careers": "https://jobs.smartrecruiters.com/Freshworks",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Swiggy",
+  "aliases": [
+   "Swiggy"
+  ],
+  "slug": "swiggy",
+  "ats": {
+   "type": "smartrecruiters",
+   "slug": "Swiggy"
+  },
+  "tier": 1,
+  "category": "Consumer tech",
+  "hq": "Bengaluru, IN",
+  "maturity": "Public",
+  "domain": "swiggy.com",
+  "careers": "https://jobs.smartrecruiters.com/Swiggy",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "ServiceNow",
+  "aliases": [
+   "ServiceNow"
+  ],
+  "slug": "servicenow",
+  "ats": {
+   "type": "smartrecruiters",
+   "slug": "ServiceNow"
+  },
+  "tier": 1,
+  "category": "SaaS",
+  "hq": "Santa Clara, US",
+  "maturity": "Public",
+  "domain": "servicenow.com",
+  "careers": "https://jobs.smartrecruiters.com/ServiceNow",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Atlys",
+  "aliases": [
+   "Atlys"
+  ],
+  "slug": "atlys",
+  "ats": {
+   "type": "ashby",
+   "slug": "atlys"
+  },
+  "tier": 1,
+  "category": "Consumer tech",
+  "hq": "San Francisco, US / New Delhi, IN",
+  "maturity": "Growth-stage private",
+  "domain": "atlys.com",
+  "careers": "https://jobs.ashbyhq.com/atlys",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Sarvam AI",
+  "aliases": [
+   "Sarvam AI"
+  ],
+  "slug": "sarvam-ai",
+  "ats": {
+   "type": "ashby",
+   "slug": "sarvam"
+  },
+  "tier": 1,
+  "category": "AI",
+  "hq": "Bengaluru, IN",
+  "maturity": "Growth-stage private",
+  "domain": "sarvam.ai",
+  "careers": "https://jobs.ashbyhq.com/sarvam",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Strava",
+  "aliases": [
+   "Strava"
+  ],
+  "slug": "strava",
+  "ats": {
+   "type": "ashby",
+   "slug": "strava"
+  },
+  "tier": 1,
+  "category": "Consumer tech",
+  "hq": "San Francisco, US",
+  "maturity": "Late-stage private",
+  "domain": "strava.com",
+  "careers": "https://jobs.ashbyhq.com/strava",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Raisin",
+  "aliases": [
+   "Raisin"
+  ],
+  "slug": "raisin",
+  "ats": {
+   "type": "greenhouse",
+   "slug": "raisin"
+  },
+  "tier": 1,
+  "category": "Fintech",
+  "hq": "Berlin, DE",
+  "maturity": "Late-stage private",
+  "domain": "raisin.com",
+  "careers": "https://boards.greenhouse.io/raisin",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Pogo",
+  "aliases": [
+   "Pogo"
+  ],
+  "slug": "pogo",
+  "ats": {
+   "type": "ashby",
+   "slug": "joinpogo"
+  },
+  "tier": 1,
+  "category": "Consumer tech",
+  "hq": "New York, US",
+  "maturity": "Early-stage",
+  "domain": "joinpogo.com",
+  "careers": "https://jobs.ashbyhq.com/joinpogo",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Story",
+  "aliases": [
+   "Story"
+  ],
+  "slug": "story",
+  "ats": {
+   "type": "ashby",
+   "slug": "story"
+  },
+  "tier": 2,
+  "category": "Agency / studio",
+  "hq": "San Francisco, US",
+  "maturity": "Private studio",
+  "domain": "story.com",
+  "careers": "https://jobs.ashbyhq.com/story",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Hyperbound",
+  "aliases": [
+   "Hyperbound"
+  ],
+  "slug": "hyperbound",
+  "ats": {
+   "type": "ashby",
+   "slug": "hyperbound"
+  },
+  "tier": 1,
+  "category": "AI",
+  "hq": "San Francisco, US",
+  "maturity": "Early-stage",
+  "domain": "hyperbound.ai",
+  "careers": "https://jobs.ashbyhq.com/hyperbound",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Active Theory",
+  "aliases": [
+   "Active Theory"
+  ],
+  "slug": "active-theory",
+  "ats": {
+   "type": "lever",
+   "slug": "activetheory"
+  },
+  "tier": 2,
+  "category": "Agency / studio",
+  "hq": "Los Angeles, US",
+  "maturity": "Private studio",
+  "domain": "activetheory.net",
+  "careers": "https://jobs.lever.co/activetheory",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Mistplay",
+  "aliases": [
+   "Mistplay"
+  ],
+  "slug": "mistplay",
+  "ats": {
+   "type": "lever",
+   "slug": "mistplay"
+  },
+  "tier": 1,
+  "category": "Gaming",
+  "hq": "Montreal, CA",
+  "maturity": "Growth-stage private",
+  "domain": "mistplay.com",
+  "careers": "https://jobs.lever.co/mistplay",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Insider One",
+  "aliases": [
+   "Insider One"
+  ],
+  "slug": "insider-one",
+  "ats": {
+   "type": "lever",
+   "slug": "insiderone"
+  },
+  "tier": 1,
+  "category": "SaaS",
+  "hq": "Istanbul, TR / Singapore",
+  "maturity": "Late-stage private",
+  "domain": "useinsider.com",
+  "careers": "https://jobs.lever.co/insiderone",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Thinkingbox",
+  "aliases": [
+   "Thinkingbox"
+  ],
+  "slug": "thinkingbox",
+  "ats": {
+   "type": "lever",
+   "slug": "thinkingbox"
+  },
+  "tier": 2,
+  "category": "Agency / studio",
+  "hq": "Vancouver, CA",
+  "maturity": "Private studio",
+  "domain": "thinkingbox.com",
+  "careers": "https://jobs.lever.co/thinkingbox",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Pure",
+  "aliases": [
+   "Pure"
+  ],
+  "slug": "pure",
+  "ats": {
+   "type": "ashby",
+   "slug": "pureapp"
+  },
+  "tier": 1,
+  "category": "Consumer tech",
+  "hq": "Remote-first",
+  "maturity": "Growth-stage private",
+  "domain": "pure.app",
+  "careers": "https://jobs.ashbyhq.com/pureapp",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Surfshark",
+  "aliases": [
+   "Surfshark"
+  ],
+  "slug": "surfshark",
+  "ats": {
+   "type": "ashby",
+   "slug": "surfshark"
+  },
+  "tier": 1,
+  "category": "Cybersecurity",
+  "hq": "Vilnius, LT",
+  "maturity": "Late-stage private",
+  "domain": "surfshark.com",
+  "careers": "https://jobs.ashbyhq.com/surfshark",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "tastylive",
+  "aliases": [
+   "tastylive"
+  ],
+  "slug": "tastylive",
+  "ats": {
+   "type": "greenhouse",
+   "slug": "tastylive"
+  },
+  "tier": 1,
+  "category": "Fintech",
+  "hq": "Chicago, US",
+  "maturity": "Private",
+  "domain": "tastylive.com",
+  "careers": "https://boards.greenhouse.io/tastylive",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Vox Media",
+  "aliases": [
+   "Vox Media"
+  ],
+  "slug": "vox-media",
+  "ats": {
+   "type": "greenhouse",
+   "slug": "voxmedia"
+  },
+  "tier": 3,
+  "category": "Media",
+  "hq": "New York, US",
+  "maturity": "Private",
+  "domain": "voxmedia.com",
+  "careers": "https://boards.greenhouse.io/voxmedia",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Superside",
+  "aliases": [
+   "Superside"
+  ],
+  "slug": "superside",
+  "ats": {
+   "type": "lever",
+   "slug": "superside"
+  },
+  "tier": 2,
+  "category": "Agency / studio",
+  "hq": "Remote-first (global)",
+  "maturity": "Growth-stage private",
+  "domain": "superside.com",
+  "careers": "https://jobs.lever.co/superside",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Acceldata",
+  "aliases": [
+   "Acceldata"
+  ],
+  "slug": "acceldata",
+  "ats": {
+   "type": "lever",
+   "slug": "acceldata"
+  },
+  "tier": 1,
+  "category": "SaaS",
+  "hq": "Campbell, US / Bengaluru, IN",
+  "maturity": "Growth-stage private",
+  "domain": "acceldata.io",
+  "careers": "https://jobs.lever.co/acceldata",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Render",
+  "aliases": [
+   "Render"
+  ],
+  "slug": "render",
+  "ats": {
+   "type": "ashby",
+   "slug": "render"
+  },
+  "tier": 1,
+  "category": "Cloud infrastructure",
+  "hq": "San Francisco, US",
+  "maturity": "Growth-stage private",
+  "domain": "render.com",
+  "careers": "https://jobs.ashbyhq.com/render",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Mercor",
+  "aliases": [
+   "Mercor"
+  ],
+  "slug": "mercor",
+  "ats": {
+   "type": "ashby",
+   "slug": "mercor"
+  },
+  "tier": 1,
+  "category": "AI",
+  "hq": "San Francisco, US",
+  "maturity": "Growth-stage private",
+  "domain": "mercor.com",
+  "careers": "https://jobs.ashbyhq.com/mercor",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Lovable",
+  "aliases": [
+   "Lovable"
+  ],
+  "slug": "lovable",
+  "ats": {
+   "type": "ashby",
+   "slug": "lovable"
+  },
+  "tier": 1,
+  "category": "AI",
+  "hq": "Stockholm, SE",
+  "maturity": "Growth-stage private",
+  "domain": "lovable.dev",
+  "careers": "https://jobs.ashbyhq.com/lovable",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "n8n",
+  "aliases": [
+   "n8n"
+  ],
+  "slug": "n8n",
+  "ats": {
+   "type": "ashby",
+   "slug": "n8n"
+  },
+  "tier": 1,
+  "category": "Developer tools",
+  "hq": "Berlin, DE",
+  "maturity": "Growth-stage private",
+  "domain": "n8n.io",
+  "careers": "https://jobs.ashbyhq.com/n8n",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Composio",
+  "aliases": [
+   "Composio"
+  ],
+  "slug": "composio",
+  "ats": {
+   "type": "ashby",
+   "slug": "composio"
+  },
+  "tier": 1,
+  "category": "Developer tools",
+  "hq": "San Francisco, US / Bengaluru, IN",
+  "maturity": "Early-stage",
+  "domain": "composio.dev",
+  "careers": "https://jobs.ashbyhq.com/composio",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "AlphaSense",
+  "aliases": [
+   "AlphaSense"
+  ],
+  "slug": "alphasense",
+  "ats": {
+   "type": "greenhouse",
+   "slug": "alphasense"
+  },
+  "tier": 1,
+  "category": "AI",
+  "hq": "New York, US / Pune, IN",
+  "maturity": "Late-stage private",
+  "domain": "alpha-sense.com",
+  "careers": "https://boards.greenhouse.io/alphasense",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Abridge",
+  "aliases": [
+   "Abridge"
+  ],
+  "slug": "abridge",
+  "ats": {
+   "type": "ashby",
+   "slug": "abridge"
+  },
+  "tier": 1,
+  "category": "AI",
+  "hq": "Pittsburgh, US",
+  "maturity": "Late-stage private",
+  "domain": "abridge.com",
+  "careers": "https://jobs.ashbyhq.com/abridge",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "Nothing",
+  "aliases": [
+   "Nothing"
+  ],
+  "slug": "nothing",
+  "ats": {
+   "type": "greenhouse",
+   "slug": "nothing"
+  },
+  "tier": 1,
+  "category": "Consumer tech",
+  "hq": "London, UK / Bengaluru, IN",
+  "maturity": "Growth-stage private",
+  "domain": "nothing.tech",
+  "careers": "https://boards.greenhouse.io/nothing",
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "HQ and maturity from public company information; funding not verified"
+ },
+ {
+  "name": "PayGlocal",
+  "aliases": [
+   "PayGlocal"
+  ],
+  "slug": "payglocal",
+  "ats": null,
+  "tier": 1,
+  "category": "Fintech",
+  "hq": "Bengaluru, IN",
+  "maturity": null,
+  "domain": "payglocal.in",
+  "careers": null,
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "Basic facts only; not independently verified"
+ },
+ {
+  "name": "Emergent",
+  "aliases": [
+   "Emergent"
+  ],
+  "slug": "emergent",
+  "ats": null,
+  "tier": 1,
+  "category": "AI",
+  "hq": "Bengaluru, IN / San Francisco, US",
+  "maturity": null,
+  "domain": "emergent.sh",
+  "careers": null,
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "Basic facts only; not independently verified"
+ },
+ {
+  "name": "Psych X86 Technologies",
+  "aliases": [
+   "Psych X86 Technologies"
+  ],
+  "slug": "psych-x86-technologies",
+  "ats": null,
+  "tier": 1,
+  "category": "AI",
+  "hq": "India",
+  "maturity": null,
+  "domain": "psychx86.com",
+  "careers": null,
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "Basic facts only; not independently verified"
+ },
+ {
+  "name": "MaximusLabs AI",
+  "aliases": [
+   "MaximusLabs AI"
+  ],
+  "slug": "maximuslabs-ai",
+  "ats": null,
+  "tier": 1,
+  "category": "AI",
+  "hq": "Bengaluru, IN",
+  "maturity": null,
+  "domain": null,
+  "careers": null,
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "Basic facts only; not independently verified"
+ },
+ {
+  "name": "Vyve",
+  "aliases": [
+   "Vyve"
+  ],
+  "slug": "vyve",
+  "ats": null,
+  "tier": 1,
+  "category": "Consumer tech",
+  "hq": "Bengaluru, IN",
+  "maturity": null,
+  "domain": null,
+  "careers": null,
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "Basic facts only; not independently verified"
+ },
+ {
+  "name": "Happiest Minds Technologies",
+  "aliases": [
+   "Happiest Minds Technologies"
+  ],
+  "slug": "happiest-minds-technologies",
+  "ats": null,
+  "tier": 3,
+  "category": "IT services",
+  "hq": "Bengaluru, IN",
+  "maturity": null,
+  "domain": "happiestminds.com",
+  "careers": null,
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "Basic facts only; not independently verified"
+ },
+ {
+  "name": "Mastercard",
+  "aliases": [
+   "Mastercard"
+  ],
+  "slug": "mastercard",
+  "ats": null,
+  "tier": 1,
+  "category": "Fintech",
+  "hq": "Purchase, US / Gurugram, IN",
+  "maturity": null,
+  "domain": "mastercard.com",
+  "careers": null,
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "Basic facts only; not independently verified"
+ },
+ {
+  "name": "Frido",
+  "aliases": [
+   "Frido"
+  ],
+  "slug": "frido",
+  "ats": null,
+  "tier": 3,
+  "category": "Consumer brand (D2C)",
+  "hq": "Pune, IN",
+  "maturity": null,
+  "domain": "myfrido.com",
+  "careers": null,
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "Basic facts only; not independently verified"
+ },
+ {
+  "name": "CredX",
+  "aliases": [
+   "CredX"
+  ],
+  "slug": "credx",
+  "ats": null,
+  "tier": 1,
+  "category": "Fintech",
+  "hq": "India",
+  "maturity": null,
+  "domain": null,
+  "careers": null,
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "Basic facts only; not independently verified"
+ },
+ {
+  "name": "Talk & Target",
+  "aliases": [
+   "Talk & Target"
+  ],
+  "slug": "talk-and-target",
+  "ats": null,
+  "tier": 2,
+  "category": "Agency / studio",
+  "hq": "Gurugram, IN",
+  "maturity": null,
+  "domain": null,
+  "careers": null,
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "Basic facts only; not independently verified"
+ },
+ {
+  "name": "Red Baton",
+  "aliases": [
+   "Red Baton"
+  ],
+  "slug": "red-baton",
+  "ats": null,
+  "tier": 2,
+  "category": "Agency / studio",
+  "hq": "Bengaluru, IN",
+  "maturity": null,
+  "domain": "redbaton.co.in",
+  "careers": null,
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "Basic facts only; not independently verified"
+ },
+ {
+  "name": "Digikit",
+  "aliases": [
+   "Digikit"
+  ],
+  "slug": "digikit",
+  "ats": null,
+  "tier": 2,
+  "category": "Agency / studio",
+  "hq": "Bengaluru, IN",
+  "maturity": null,
+  "domain": null,
+  "careers": null,
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "Basic facts only; not independently verified"
+ },
+ {
+  "name": "M+C Saatchi Performance",
+  "aliases": [
+   "M+C Saatchi Performance"
+  ],
+  "slug": "mc-saatchi-performance",
+  "ats": null,
+  "tier": 2,
+  "category": "Agency / studio",
+  "hq": "Bengaluru, IN",
+  "maturity": null,
+  "domain": null,
+  "careers": null,
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "Basic facts only; not independently verified"
+ },
+ {
+  "name": "Lumen Lab | Creative Studio",
+  "aliases": [
+   "Lumen Lab | Creative Studio"
+  ],
+  "slug": "lumen-lab-creative-studio",
+  "ats": null,
+  "tier": 2,
+  "category": "Agency / studio",
+  "hq": "India",
+  "maturity": null,
+  "domain": null,
+  "careers": null,
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "Basic facts only; not independently verified"
+ },
+ {
+  "name": "WPP",
+  "aliases": [
+   "WPP"
+  ],
+  "slug": "wpp",
+  "ats": null,
+  "tier": 2,
+  "category": "Agency / studio",
+  "hq": "London, UK / Chennai, IN",
+  "maturity": null,
+  "domain": "wpp.com",
+  "careers": null,
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "Basic facts only; not independently verified"
+ },
+ {
+  "name": "vidIQ",
+  "aliases": [
+   "vidIQ"
+  ],
+  "slug": "vidiq",
+  "ats": null,
+  "tier": 1,
+  "category": "SaaS",
+  "hq": "Remote-first",
+  "maturity": null,
+  "domain": "vidiq.com",
+  "careers": null,
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "Basic facts only; not independently verified"
+ },
+ {
+  "name": "Polluxa",
+  "aliases": [
+   "Polluxa"
+  ],
+  "slug": "polluxa",
+  "ats": null,
+  "tier": 1,
+  "category": "SaaS",
+  "hq": "",
+  "maturity": null,
+  "domain": null,
+  "careers": null,
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "Basic facts only; not independently verified"
+ },
+ {
+  "name": "VOICE",
+  "aliases": [
+   "VOICE"
+  ],
+  "slug": "voice",
+  "ats": null,
+  "tier": 1,
+  "category": "Crypto / Web3",
+  "hq": "London, UK",
+  "maturity": null,
+  "domain": null,
+  "careers": null,
+  "classification": "Motion Intelligence registry (curated)",
+  "facts_note": "Basic facts only; not independently verified"
+ }
+]

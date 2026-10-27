@@ -1,0 +1,92 @@
+{
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/software-testers-pune/recognized/19936455",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "Recognized",
+ "company_slug": "recognized",
+ "concerns": [
+  "Mentions test automation — be ready to discuss it or show a small script",
+  "Office outside Mumbai — relocation within India",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "5fd4b75ad4ae",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-10-27T10:50:24Z",
+ "fit": 77,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "2a72003ba8ff4f",
+ "include_reason": "Manual / functional QA title",
+ "india": {
+  "cities": [
+   "Pune"
+  ],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "manual-qa",
+ "last_verified": "2026-10-27T10:50:24Z",
+ "location": "Pune, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-10-27T03:48:58Z",
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 74,
+  "comp": 60,
+  "company": 66,
+  "location": 78,
+  "seniority": 100,
+  "skill": 74
+ },
+ "seniority": "unspecified",
+ "snippet": "Experience: 0 to 4 Yrs\nSkills: test automation tools, programming languages, mobile application testing, quality assurance, software testing methodologies, bug tracking tools, problemsolving skills, teamwork abilities, attention to detail\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "19936455",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-10-27T03:48:58Z",
+   "seen_at": "2026-10-27T10:50:24Z",
+   "url": "https://www.shine.com/jobs/software-testers-pune/recognized/19936455"
+  }
+ ],
+ "specializations": [
+  "Mobile apps"
+ ],
+ "status": "active",
+ "tier": 3,
+ "title": "Software Testers (Pune)",
+ "tools": [
+  "Bug reporting",
+  "Test automation"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/software-testers-pune/recognized/19936455",
+ "why": [
+  "Manual / functional QA — the core of your resume",
+  "Already on your resume: Bug reporting",
+  "Platforms you test on: Mobile apps",
+  "Asks for 0–4 years — you have about 2.5",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": 4,
+ "years_min": 0
+}

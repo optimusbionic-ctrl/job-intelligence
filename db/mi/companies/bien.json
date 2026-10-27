@@ -1,0 +1,63 @@
+{
+  "category": "Other",
+  "classification": "Inferred from job description",
+  "india_hiring": {
+    "board": null,
+    "changed_at": "2026-10-15T16:19:24Z",
+    "evidence": [
+      {
+        "detail": "Freelance Motion Designer — Anywhere",
+        "kind": "posting",
+        "label": "A current posting is open worldwide",
+        "url": "https://jobs.motionographer.com/jobs/605682641-freelance-motion-designer-at-bien",
+        "weight": 3
+      }
+    ],
+    "first_checked_at": "2026-10-15T16:19:24Z",
+    "india_based": false,
+    "method": "Careers board, posting text, web search",
+    "sig": "8be950e129",
+    "summary": "No India-located roles found, but a current posting is open worldwide.",
+    "verdict": "likely",
+    "web": {
+      "checked_at": "2026-10-15T18:30:15Z",
+      "query": "\"BIEN\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
+      "results": [
+        {
+          "description": "ATTENTION JOB SEEKERS: REMOTE POSITIONS ARE U.S.-BASED ONLY. All remote ... bien passé.wZn4. Filter. Specialist, Facility Site Review - Remote in CA.",
+          "title": "Search our Job Opportunities at Molina Healthcare",
+          "url": "https://careers.molinahealthcare.com/search-jobs?k=credit%20fc%2026%20pas%20cher%20Visitez%20le%20site%20Buyfc26coins.com%20%20Premi%C3%A8re%20commande%20de%20FC%2026%20coins%20et%20tout%20s%27est%20parfaitement%20bien%20pass%C3%A9.wZn4"
+        },
+        {
+          "description": "Remote jobs in Bien Unido · 100% Remote Technical Support Agent | Voice & Email | Weekly USD Pay · TikTok Shop Affiliate & Community Lead (PowerTools) - Full Time ...",
+          "title": "Hiring Remote Jobs in Bien Unido | Indeed",
+          "url": "https://ph.indeed.com/q-remote-l-bien-unido-jobs.html"
+        },
+        {
+          "description": "Entreprise de bien-être de l'année. French Blog Menu. Communautéicons · Conseils ... Photo of image India Location Registered Office - No. 23 & 24, AMR ...",
+          "title": "Entreprise de bien-être de l'année | India - Sagility Careers",
+          "url": "https://career.sagilityhealth.com/in/fr/node/350"
+        },
+        {
+          "description": "36 Search Results Found for \"base bien root\" ; Food Safety, Quality & Regulatory (FSQR) Manager - Tuas Based. Singapore, Singapore ; Travel and Expense Team ...",
+          "title": "Search our Job Opportunities at Cargill",
+          "url": "https://careers.cargill.com/en/search_jobs/base%2Bbien%2Broot/23251/1/1%26p%3D2"
+        },
+        {
+          "description": "Finding success in remote careers. If you work from home for Progressive, you ... Okay, esta bien. Yo le voy a ayudar, señora. Va ver un botón que diga ...",
+          "title": "Work From Home Careers",
+          "url": "https://careers.progressive.com/en/pages/difference-work-from-home/"
+        },
+        {
+          "description": "Today's top 2000+ Bien'ici jobs in Worldwide. Leverage your professional network, and get hired. New Bien'ici jobs added daily ... Correspondent (Remote). The ...",
+          "title": "Bien'ici Jobs in Worldwide (2,000+ Open Roles) | LinkedIn",
+          "url": "https://www.linkedin.com/jobs/bien%27ici-jobs-worldwide"
+        }
+      ]
+    }
+  },
+  "inferred": true,
+  "name": "BIEN",
+  "slug": "bien",
+  "tier": 3
+}

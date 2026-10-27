@@ -1,0 +1,91 @@
+{
+  "apply_url": null,
+  "board_apply": "https://www.shine.com/jobs/software-testing-manual-automation/way2society/19593545",
+  "category": "Other",
+  "comp_potential": "unknown",
+  "company": "way2society",
+  "company_slug": "way2society",
+  "concerns": [
+    "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
+    "Also asks for: API testing",
+    "Pay not disclosed — ask for the range early"
+  ],
+  "contacts_count": 0,
+  "content_hash": "2e820f23fc5c",
+  "date_quality": "exact",
+  "deadline": null,
+  "employment": "full-time",
+  "first_seen": "2026-10-24T18:44:21Z",
+  "fit": 78,
+  "has_hiring_manager": false,
+  "has_named_contact": false,
+  "has_public_email": false,
+  "id": "d1d74a81faa3d9",
+  "include_reason": "Automation-heavy QA (SDET)",
+  "india": {
+    "cities": [
+      "Mumbai"
+    ],
+    "company": "yes",
+    "reason": "Location lists India",
+    "status": "confirmed",
+    "visa": false
+  },
+  "kind": "automation",
+  "last_verified": "2026-10-24T18:44:21Z",
+  "location": "Mumbai City, India",
+  "logo": null,
+  "needs_review": false,
+  "official": false,
+  "posted_at": "2026-09-26T04:54:57Z",
+  "repost": false,
+  "requirements": [],
+  "responsibilities": [],
+  "salary": {
+    "state": "unavailable"
+  },
+  "scores": {
+    "ai": 58,
+    "comp": 60,
+    "company": 66,
+    "location": 100,
+    "seniority": 100,
+    "skill": 70
+  },
+  "seniority": "unspecified",
+  "snippet": "Experience: 0 to 4 Yrs\nSkills: Manual Testing, Automation Testing, Functional Testing, Regression Testing, Smoke Testing, Sanity Testing, Integration Testing, System Testing, API Testing, Postman\n(Summary from the Shine.com listing; open the posting for the full description.)",
+  "source_primary": "Shine.com",
+  "sources": [
+    {
+      "id": "shine",
+      "job_id": "19593545",
+      "kind": "board",
+      "name": "Shine.com",
+      "posted_at": "2026-09-26T04:54:57Z",
+      "seen_at": "2026-10-24T18:44:21Z",
+      "url": "https://www.shine.com/jobs/software-testing-manual-automation/way2society/19593545"
+    }
+  ],
+  "specializations": [],
+  "status": "active",
+  "tier": 3,
+  "title": "Software Testing (Manual & Automation)",
+  "tools": [
+    "Functional testing",
+    "Regression testing",
+    "Smoke testing",
+    "Sanity testing",
+    "API testing"
+  ],
+  "track": "software",
+  "updated_at": null,
+  "url": "https://www.shine.com/jobs/software-testing-manual-automation/way2society/19593545",
+  "why": [
+    "Already on your resume: Functional testing, Regression testing, Smoke testing, Sanity testing",
+    "Asks for 0–4 years — you have about 2.5",
+    "Location lists India"
+  ],
+  "work_mode": "onsite",
+  "years_max": 4,
+  "years_min": 0
+}

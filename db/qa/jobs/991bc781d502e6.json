@@ -1,0 +1,95 @@
+{
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/qa-tester/enterslice/19919174",
+ "category": "Product / SaaS",
+ "comp_potential": "unknown",
+ "company": "ENTERSLICE",
+ "company_slug": "enterslice",
+ "concerns": [
+  "Mentions test automation — be ready to discuss it or show a small script",
+  "Also asks for: SQL / databases",
+  "Office outside Mumbai — relocation within India",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "5df6e0626d9b",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-10-27T10:50:24Z",
+ "fit": 79,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "991bc781d502e6",
+ "include_reason": "Manual / functional QA title",
+ "india": {
+  "cities": [
+   "Delhi NCR"
+  ],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "manual-qa",
+ "last_verified": "2026-10-27T10:50:24Z",
+ "location": "Noida, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-10-24T08:05:02Z",
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 74,
+  "comp": 60,
+  "company": 95,
+  "location": 60,
+  "seniority": 100,
+  "skill": 74
+ },
+ "seniority": "unspecified",
+ "snippet": "Experience: 2 to 6 Yrs\nSkills: Automation, Manual Testing, SDLC, Software Testing, SQL, Test Cases, UI Automation, Selenium, App Testing, Test Plans\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "19919174",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-10-24T08:05:02Z",
+   "seen_at": "2026-10-27T10:50:24Z",
+   "url": "https://www.shine.com/jobs/qa-tester/enterslice/19919174"
+  }
+ ],
+ "specializations": [
+  "Mobile apps"
+ ],
+ "status": "active",
+ "tier": 1,
+ "title": "QA Tester",
+ "tools": [
+  "Test cases & scenarios",
+  "SQL / databases",
+  "Test automation"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/qa-tester/enterslice/19919174",
+ "why": [
+  "Manual / functional QA — the core of your resume",
+  "Already on your resume: Test cases & scenarios",
+  "Platforms you test on: Mobile apps",
+  "Product / SaaS company",
+  "Location lists India",
+  "Asks for 2–6 years — you have about 2.5"
+ ],
+ "work_mode": "onsite",
+ "years_max": 6,
+ "years_min": 2
+}

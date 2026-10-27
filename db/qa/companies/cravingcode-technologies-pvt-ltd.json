@@ -1,0 +1,58 @@
+{
+  "category": "Other",
+  "classification": "Inferred from job description",
+  "india_hiring": {
+    "board": null,
+    "changed_at": "2026-10-19T15:45:44Z",
+    "evidence": [],
+    "first_checked_at": "2026-10-19T15:45:44Z",
+    "india_based": false,
+    "method": "Careers board, posting text, web search",
+    "sig": "54391d7cdf",
+    "summary": "No public evidence yet about hiring from India.",
+    "verdict": "unclear",
+    "web": {
+      "checked_at": "2026-10-19T16:45:07Z",
+      "query": "\"Cravingcode Technologies Pvt Ltd\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
+      "results": [
+        {
+          "description": "",
+          "title": "Compare Cravingcode Technologies vs MindInventory",
+          "url": "https://www.cbinsights.com/compare/cravingcode-technologies-vs-mindinventory"
+        },
+        {
+          "description": "",
+          "title": "Compare Cravingcode Technologies vs FancyTech",
+          "url": "https://www.cbinsights.com/compare/cravingcode-technologies-vs-fancy-technology"
+        },
+        {
+          "description": "",
+          "title": "Compare Cravingcode Technologies vs Pragma Infotech",
+          "url": "https://www.cbinsights.com/compare/cravingcode-technologies-vs-pragma-infotech"
+        },
+        {
+          "description": "",
+          "title": "Compare Cravingcode Technologies vs Foobaz Labs",
+          "url": "https://www.cbinsights.com/compare/cravingcode-technologies-vs-foobaz-labs"
+        },
+        {
+          "description": "",
+          "title": "Compare Cravingcode Technologies vs IIH Global",
+          "url": "https://www.cbinsights.com/compare/cravingcode-technologies-vs-iih-global"
+        },
+        {
+          "description": "",
+          "title": "Founded Year",
+          "url": "https://www.cbinsights.com/company/cravingcode-technologies"
+        }
+      ]
+    }
+  },
+  "inferred": true,
+  "name": "Cravingcode Technologies Pvt Ltd",
+  "slug": "cravingcode-technologies-pvt-ltd",
+  "tier": 3,
+  "tracks": [
+    "software"
+  ]
+}

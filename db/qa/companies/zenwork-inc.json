@@ -1,0 +1,30 @@
+{
+  "category": "Other",
+  "classification": "Inferred from job description",
+  "india_hiring": {
+    "board": null,
+    "changed_at": "2026-10-21T12:45:28Z",
+    "evidence": [
+      {
+        "detail": "QA - Automation Test Engineer — Hyderabad, India",
+        "kind": "posting",
+        "label": "A current posting lists India as a location",
+        "url": "https://www.shine.com/jobs/qa-automation-test-engineer/zenwork-inc/19865672",
+        "weight": 5
+      }
+    ],
+    "first_checked_at": "2026-10-21T12:45:28Z",
+    "india_based": false,
+    "method": "Careers board, posting text",
+    "sig": "4154f173ca",
+    "summary": "A current posting lists India as a location.",
+    "verdict": "yes"
+  },
+  "inferred": true,
+  "name": "zenwork, inc",
+  "slug": "zenwork-inc",
+  "tier": 3,
+  "tracks": [
+    "software"
+  ]
+}

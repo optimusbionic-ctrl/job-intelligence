@@ -1,0 +1,41 @@
+{
+ "first_run_at": "2026-10-15T15:27:11Z",
+ "fx": {
+  "as_of": "Tue, 27 Oct 2026 00:02:31 +0000",
+  "source": "https://open.er-api.com/v6/latest/USD (ExchangeRate-API open access)",
+  "usd_inr": 95.269051
+ },
+ "india_checks": {
+  "companies": 137,
+  "roles_clarified": 1,
+  "verdicts": {
+   "likely": 22,
+   "no": 4,
+   "unclear": 29,
+   "yes": 82
+  },
+  "web_checked": 0
+ },
+ "last_run": {
+  "alerts_count": 0,
+  "closed_count": 0,
+  "finished_at": "2026-10-27T10:53:22Z",
+  "id": "20261027T105224Z",
+  "kept": 28,
+  "new_count": 0,
+  "raw_count": 918
+ },
+ "monitor": {
+  "cadence": "every hour",
+  "created_at": "2026-10-15T15:35:45Z",
+  "cron": "0 * * * * (UTC)",
+  "name": "Motion Intelligence job monitor",
+  "notifications": {
+   "email": false,
+   "push": true
+  },
+  "trigger_id": "trig_01AcYzMU7L1j3u73f9kfZhgY"
+ },
+ "pipeline_version": "2.1.0",
+ "updated_at": "2026-10-27T10:53:22Z"
+}

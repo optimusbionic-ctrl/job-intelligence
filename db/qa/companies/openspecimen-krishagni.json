@@ -1,0 +1,37 @@
+{
+ "category": "Product / SaaS",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-27T10:50:24Z",
+  "evidence": [
+   {
+    "detail": "Quality analyst / Business analyst — India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://himalayas.app/companies/openspecimen-krishagni/jobs/quality-analyst-business-analyst?utm_source=api",
+    "weight": 5
+   },
+   {
+    "detail": "…esearch centers. Our product - OpenSpecimen - is used in 65+ biobanks across 16+ countries, including clients like Stanford University, Johns Hopkins University…",
+    "kind": "posting",
+    "label": "Posting describes hiring across countries",
+    "url": "https://himalayas.app/companies/openspecimen-krishagni/jobs/quality-analyst-business-analyst?utm_source=api",
+    "weight": 3
+   }
+  ],
+  "first_checked_at": "2026-10-27T10:50:24Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "aa84d87548",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "OpenSpecimen (Krishagni)",
+ "slug": "openspecimen-krishagni",
+ "tier": 1,
+ "tracks": [
+  "software"
+ ]
+}

@@ -1,0 +1,90 @@
+{
+  "apply_url": null,
+  "board_apply": "https://himalayas.app/companies/micro1/jobs/qa-engineer-8208548492?utm_source=api",
+  "category": "Other",
+  "comp_potential": "unknown",
+  "company": "micro1",
+  "company_slug": "micro1",
+  "concerns": [
+    "Pay not disclosed — ask for the range early",
+    "Contract role"
+  ],
+  "contacts_count": 0,
+  "content_hash": "b1eb15b97c3a",
+  "date_quality": "exact",
+  "deadline": "2026-12-15T17:03:36Z",
+  "employment": "contract",
+  "first_seen": "2026-10-19T13:24:59Z",
+  "fit": 73,
+  "has_hiring_manager": false,
+  "has_named_contact": false,
+  "has_public_email": false,
+  "id": "9edd633f70ea44",
+  "include_reason": "QA / test engineer title",
+  "india": {
+    "cities": [],
+    "company": "likely",
+    "reason": "Worldwide remote",
+    "status": "likely",
+    "visa": false
+  },
+  "kind": "qa-engineer",
+  "last_verified": "2026-10-19T13:24:59Z",
+  "location": "Worldwide",
+  "logo": "https://cdn-images.himalayas.app/91oa56akgt3qjqc1nh3uoruub40c",
+  "needs_review": false,
+  "official": false,
+  "posted_at": "2026-10-16T17:03:37Z",
+  "repost": false,
+  "requirements": [
+    "Hands-on expertise in software quality assurance, with a strong understanding of test planning and defect reporting.",
+    "Prior experience with data labeling, annotation, reinforcement learning from human feedback (RLHF), or model evaluation.",
+    "Proficiency in English at B2 level or above for effective collaboration and reporting."
+  ],
+  "responsibilities": [],
+  "salary": {
+    "context_benchmark": "qa-dataset-remote",
+    "state": "unavailable"
+  },
+  "scores": {
+    "ai": 58,
+    "comp": 60,
+    "company": 66,
+    "location": 86,
+    "seniority": 84,
+    "skill": 72
+  },
+  "seniority": "unspecified",
+  "snippet": "Role Title: QA Engineer\n Role Type: Contractor\n Location: Remote\n micro1 is engaging QA Engineers to contribute to an AI training project with a forward-thinking customer. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is ",
+  "source_primary": "Himalayas",
+  "sources": [
+    {
+      "id": "himalayas",
+      "job_id": "https://himalayas.app/companies/micro1/jobs/qa-engineer-8208548492",
+      "kind": "board",
+      "name": "Himalayas",
+      "posted_at": "2026-10-16T17:03:37Z",
+      "seen_at": "2026-10-19T13:24:59Z",
+      "url": "https://himalayas.app/companies/micro1/jobs/qa-engineer-8208548492?utm_source=api"
+    }
+  ],
+  "specializations": [],
+  "status": "active",
+  "tier": 3,
+  "title": "QA Engineer",
+  "tools": [
+    "Test cases & scenarios",
+    "Bug reporting"
+  ],
+  "track": "software",
+  "updated_at": null,
+  "url": "https://himalayas.app/companies/micro1/jobs/qa-engineer-8208548492?utm_source=api",
+  "why": [
+    "QA / test engineer role",
+    "Already on your resume: Test cases & scenarios, Bug reporting",
+    "Worldwide remote"
+  ],
+  "work_mode": "remote",
+  "years_max": null,
+  "years_min": null
+}

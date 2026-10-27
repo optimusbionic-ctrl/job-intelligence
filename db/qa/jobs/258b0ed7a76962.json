@@ -1,0 +1,107 @@
+{
+ "apply_url": "https://jobs.ashbyhq.com/tekion/061fcb56-abb0-4d68-a760-69f3cecd9858/application",
+ "board_apply": null,
+ "category": "Product / SaaS",
+ "comp_potential": "unknown",
+ "company": "Tekion",
+ "company_slug": "tekion",
+ "concerns": [
+  "Mentions test automation — be ready to discuss it or show a small script",
+  "Office outside Mumbai — relocation within India",
+  "Pay not disclosed — ask for the range early",
+  "Reposted / refreshed listing — original posting is older"
+ ],
+ "contacts_count": 1,
+ "content_hash": "1ec987231dd4",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-10-20T14:44:49Z",
+ "fit": 69,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "258b0ed7a76962",
+ "include_reason": "QA / test engineer title",
+ "india": {
+  "cities": [
+   "Bengaluru"
+  ],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "qa-engineer",
+ "last_verified": "2026-10-27T10:50:24Z",
+ "location": "Bangalore HQ (India)",
+ "logo": null,
+ "needs_review": false,
+ "official": true,
+ "posted_at": "2026-06-29T05:20:38Z",
+ "repost": true,
+ "requirements": [],
+ "responsibilities": [
+  "We are looking for a highly motivated individuals to join Tekion's Enterprise Data Platform team. Our platform powers the organization's data lake and serves as the foundation for a wide range of data products, analytics, reporting, AI/ML, and customer-facing experiences.",
+  "In this role, you will be responsible for building confidence in the quality, reliability, and correctness of data across the platform. You will work closely with Data Engineering, Product Management, Analytics, and AI teams to define robust validation strategies, automate testing, and ensure that data products meet the highest quality standards.",
+  "As Tekion expands its AI-powered Analytics Agent, you will also play a key role in validating user intents, defining evaluation frameworks, and ensuring the accuracy and consistency of AI-generated insights.",
+  "Develop a deep understanding of Tekion's enterprise data model, business domains, and data flows.",
+  "Own end-to-end quality for data products published through the Enterprise Data Platform.",
+  "Design and implement automated testing frameworks for data pipelines, transformations, APIs, and platform capabilities.",
+  "Validate data correctness, completeness, consistency, freshness, and lineage across the data platform."
+ ],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 60,
+  "company": 95,
+  "location": 60,
+  "seniority": 92,
+  "skill": 52
+ },
+ "seniority": "mid",
+ "snippet": "ABOUT TEKION:\n\nPositively disrupting an industry that has not seen any innovation in over 50 years, Tekion has challenged the paradigm with the first and fastest cloud-native automotive platform that includes the revolutionary Automotive Retail Cloud (ARC) for retailers, Automotive Enterprise Cloud (AEC) for manufacturers and other large automotive enterprises and Automotive Partner Cloud (APC) for technology and ind",
+ "source_primary": "Tekion careers (Ashby)",
+ "sources": [
+  {
+   "id": "ashby",
+   "job_id": "ashby:tekion:061fcb56-abb0-4d68-a760-69f3cecd9858",
+   "kind": "ats",
+   "name": "Tekion careers (Ashby)",
+   "posted_at": "2026-07-07T10:51:22Z",
+   "seen_at": "2026-10-27T10:50:24Z",
+   "url": "https://jobs.ashbyhq.com/tekion/061fcb56-abb0-4d68-a760-69f3cecd9858"
+  },
+  {
+   "id": "ashby",
+   "job_id": "ashby:tekion:233197fd-4dcc-4092-ad83-9887a59448bb",
+   "kind": "ats",
+   "name": "Tekion careers (Ashby)",
+   "posted_at": "2026-06-29T05:20:38Z",
+   "seen_at": "2026-10-27T10:50:24Z",
+   "url": "https://jobs.ashbyhq.com/tekion/233197fd-4dcc-4092-ad83-9887a59448bb"
+  }
+ ],
+ "specializations": [],
+ "status": "verified",
+ "tier": 1,
+ "title": "Software Development Test Engineer - II",
+ "tools": [
+  "Regression testing",
+  "Test automation"
+ ],
+ "track": "software",
+ "updated_at": "2026-07-07T10:51:22Z",
+ "url": "https://jobs.ashbyhq.com/tekion/061fcb56-abb0-4d68-a760-69f3cecd9858",
+ "why": [
+  "QA / test engineer role",
+  "Already on your resume: Regression testing",
+  "Product / SaaS company",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": null,
+ "years_min": null
+}

@@ -1,0 +1,63 @@
+{
+  "category": "Other",
+  "classification": "Inferred from job description",
+  "india_hiring": {
+    "board": null,
+    "changed_at": "2026-10-17T22:28:03Z",
+    "evidence": [
+      {
+        "detail": "Careers - Dub — “Work from anywhere in the world”",
+        "kind": "web",
+        "label": "Web shows it hires across countries",
+        "url": "https://dub.co/careers",
+        "weight": 2
+      }
+    ],
+    "first_checked_at": "2026-10-17T21:28:06Z",
+    "india_based": false,
+    "method": "Careers board, posting text, web search",
+    "sig": "8f4becd189",
+    "summary": "No India-located roles found, but web shows it hires across countries.",
+    "verdict": "likely",
+    "web": {
+      "checked_at": "2026-10-17T22:28:03Z",
+      "query": "\"dub\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
+      "results": [
+        {
+          "description": "# Careers at Dub\nWe are a global, fully remote team on a mission to reimagine marketing attribution for the modern web.\n\n## Benefits and wellness\n### Fully remote\nWork from anywhere in the world, your office is wherever you are.\n\n## Open roles\n[**Staff Software Engineer** \\\nAmericas | RemoteApply](https://dub.co/careers/staff-software-engineer)",
+          "title": "Careers - Dub",
+          "url": "https://dub.co/careers"
+        },
+        {
+          "description": "Find remote work from home jobs and careers with DUB. Get a better remote ... Top 10 Companies Hiring for Work From Anywhere Jobs. A professional works ...",
+          "title": "DUB Jobs & Careers - Remote, Work From Home & Flexible - FlexJobs",
+          "url": "https://www.flexjobs.com/remote-jobs/company/dub"
+        },
+        {
+          "description": "Find out if Dub is the right fit for your future career! Explore jobs ... Remote Jobs, Locations, Startups, Startups Hiring, Industries, Tech Hubs. One ...",
+          "title": "Dub Careers - Insights and Opportunities - Wellfound",
+          "url": "https://wellfound.com/company/dubuk"
+        },
+        {
+          "description": "We're hiring our first Technical Support Engineer at Dub.co: Fully remote (Americas / Europe timezone) 4+ years of experience in ...",
+          "title": "We're hiring our first Technical Support Engineer at Dub.co",
+          "url": "https://www.linkedin.com/posts/steventey_were-hiring-our-first-technical-support-activity-7335353831666397184-Mjaw"
+        },
+        {
+          "description": "Careers at dub. FinTech. dub, or replicate, anyone's investment portfolio ... Remote options. All jobs. Posted Anytime. Powered by Consider. 2 jobs. #LI-DNI ...",
+          "title": "Jobs at dub | Scribble",
+          "url": "https://jobs.scribble.vc/jobs/dub"
+        },
+        {
+          "description": "# Join the dubbing revolution.\n## Our open positions\n- Production Dubbing Director / Adapter / Voice Actor - Brazilian Portuguese, Brazil · Rio de Janeiro, Freelance, Remote\n- Sales Business Development Manager, London · England · United Kingdom, Full-time, Remote",
+          "title": "Careers | Deepdub",
+          "url": "https://deepdub.ai/careers"
+        }
+      ]
+    }
+  },
+  "inferred": true,
+  "name": "dub",
+  "slug": "dub",
+  "tier": 3
+}

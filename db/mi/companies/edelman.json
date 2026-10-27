@@ -1,0 +1,27 @@
+{
+  "category": "Other",
+  "classification": "Inferred from job description",
+  "india_hiring": {
+    "board": null,
+    "changed_at": "2026-10-18T18:27:42Z",
+    "evidence": [
+      {
+        "detail": "Motion Graphic Designer, Digital Studio — Bengaluru",
+        "kind": "posting",
+        "label": "A current posting lists India as a location",
+        "url": "https://builtinbengaluru.in/job/motion-graphic-designer-digital-studio/3065579",
+        "weight": 5
+      }
+    ],
+    "first_checked_at": "2026-10-18T18:27:42Z",
+    "india_based": false,
+    "method": "Careers board, posting text",
+    "sig": "e2dd73a786",
+    "summary": "A current posting lists India as a location.",
+    "verdict": "yes"
+  },
+  "inferred": true,
+  "name": "Edelman",
+  "slug": "edelman",
+  "tier": 3
+}

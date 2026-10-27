@@ -1,0 +1,101 @@
+{
+  "apply_url": null,
+  "board_apply": "https://jobs.workable.com/view/cnS3TJrHFvZ19XKs6caAyZ/remote-manual-tester-in-sihi-at-bash",
+  "category": "Other",
+  "comp_potential": "unknown",
+  "company": "Bash",
+  "company_slug": "bash",
+  "concerns": [
+    "Pay not disclosed — ask for the range early"
+  ],
+  "contacts_count": 0,
+  "content_hash": "3b62a0dccc24",
+  "date_quality": "exact",
+  "deadline": null,
+  "employment": "full-time",
+  "first_seen": "2026-10-19T13:24:59Z",
+  "fit": 84,
+  "has_hiring_manager": false,
+  "has_named_contact": false,
+  "has_public_email": false,
+  "id": "34670590dc776b",
+  "include_reason": "Manual / functional QA title",
+  "india": {
+    "cities": [],
+    "company": "yes",
+    "reason": "Location lists India",
+    "status": "confirmed",
+    "visa": false
+  },
+  "kind": "manual-qa",
+  "last_verified": "2026-10-19T13:24:59Z",
+  "location": "Sihi, Haryana, India (Remote)",
+  "logo": null,
+  "needs_review": false,
+  "official": false,
+  "posted_at": "2026-09-11T14:30:16Z",
+  "repost": false,
+  "requirements": [
+    "Ability to write clear, concise, and comprehensive test cases and reports.",
+    "Familiarity with defect tracking tools and test management software.",
+    "Basic understanding of software development life cycle and Agile methodologies."
+  ],
+  "responsibilities": [
+    "Design and execute comprehensive manual test cases based on product requirements and specifications.",
+    "Identify, document, and track software defects and inconsistencies in a clear and detailed manner.",
+    "Perform regression, functional, usability, and exploratory testing to ensure software stability.",
+    "Collaborate with cross-functional teams including developers, product managers, and business analysts to clarify requirements and enhance product quality.",
+    "Participate in review sessions and provide feedback on product design and usability.",
+    "Verify bug fixes and enhancements to confirm resolution before product releases.",
+    "Maintain detailed test documentation and generate reports on test results and quality metrics."
+  ],
+  "salary": {
+    "state": "unavailable"
+  },
+  "scores": {
+    "ai": 64,
+    "comp": 60,
+    "company": 66,
+    "location": 100,
+    "seniority": 84,
+    "skill": 100
+  },
+  "seniority": "unspecified",
+  "snippet": "Bash is seeking a meticulous and dedicated Manual Tester to join our dynamic quality assurance team. In this role, you will play a critical part in ensuring the highest level of quality and functionality in our software products by performing thorough manual testing. You will be responsible for identifying bugs, verifying fixes, and validating new features to guarantee an exceptional user experience. As a Manual Test",
+  "source_primary": "Workable job marketplace",
+  "sources": [
+    {
+      "id": "workable",
+      "job_id": "5c21fd1e-e2ab-4f22-a331-43af59fbd279",
+      "kind": "board",
+      "name": "Workable job marketplace",
+      "posted_at": "2026-09-11T14:30:16Z",
+      "seen_at": "2026-10-19T13:24:59Z",
+      "url": "https://jobs.workable.com/view/cnS3TJrHFvZ19XKs6caAyZ/remote-manual-tester-in-sihi-at-bash"
+    }
+  ],
+  "specializations": [],
+  "status": "active",
+  "tier": 3,
+  "title": "Manual Tester",
+  "tools": [
+    "Regression testing",
+    "Exploratory testing",
+    "Usability testing",
+    "Test cases & scenarios",
+    "Bug reporting",
+    "Google Sheets / Excel",
+    "Agile / Scrum"
+  ],
+  "track": "software",
+  "updated_at": null,
+  "url": "https://jobs.workable.com/view/cnS3TJrHFvZ19XKs6caAyZ/remote-manual-tester-in-sihi-at-bash",
+  "why": [
+    "Manual / functional QA — the core of your resume",
+    "Already on your resume: Regression testing, Exploratory testing, Usability testing, Test cases & scenarios, Bug reporting, Google Sheets / Excel",
+    "Location lists India"
+  ],
+  "work_mode": "remote",
+  "years_max": null,
+  "years_min": null
+}

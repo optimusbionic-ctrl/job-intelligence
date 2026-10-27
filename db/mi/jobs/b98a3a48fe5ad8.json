@@ -1,0 +1,113 @@
+{
+  "apply_url": "https://jobs.ashbyhq.com/zapier/c0582311-18cb-4415-9c86-79014f1b74f6/application",
+  "board_apply": null,
+  "category": "SaaS",
+  "comp_potential": "verified35",
+  "company": "Zapier",
+  "company_slug": "zapier",
+  "concerns": [
+    "Listed pay is in EUR; confirm it applies to India-based hires",
+    "Reposted / refreshed listing — original posting is older"
+  ],
+  "contacts_count": 2,
+  "content_hash": "1ba0e416caa4",
+  "date_quality": "exact",
+  "deadline": null,
+  "employment": "full-time",
+  "first_seen": "2026-10-15T15:39:48Z",
+  "fit": 79,
+  "has_hiring_manager": false,
+  "has_named_contact": false,
+  "has_public_email": true,
+  "id": "b98a3a48fe5ad8",
+  "include_reason": "Motion design title",
+  "india": {
+    "cities": [],
+    "company": "likely",
+    "reason": "Worldwide remote",
+    "status": "likely",
+    "visa": false
+  },
+  "kind": "motion",
+  "last_verified": "2026-10-18T15:28:43Z",
+  "location": "Anywhere in the World",
+  "logo": null,
+  "needs_review": false,
+  "official": true,
+  "posted_at": "2026-10-02T17:54:13Z",
+  "repost": true,
+  "requirements": [
+    "You can take a UI frame or a brand brief and turn it into a story that lands. You ask the right questions, understand the product well enough to know what the animation needs to communicate, and don't wait for a fully baked storyboard to get started",
+    "You think in systems. You build mogrts files, component libraries, and motion guidelines that other people can use independently, and every project is an opportunity to make the next one ship faster",
+    "You understand brand as well as UI: timing, easing, personality, the emotional register that makes motion feel ownable rather than generic",
+    "You have a strong sense of sound and rhythm. You know how motion and sound work together, and you shape that relationship intentionally rather than as an afterthought",
+    "You understand narrative. You think about motion the way a director thinks about a scene: setup, tension, resolution. You know when to breathe and when to accelerate, and you can articulate that thinking to stakeholders",
+    "You manage up with creative insight, bringing your expertise into conversations proactively so stakeholders understand the why behind every creative choice",
+    "You use AI as a genuine part of your practice, experimenting with video tools and sharing what you figure out so the whole team benefits"
+  ],
+  "responsibilities": [],
+  "salary": {
+    "applies_india": "unconfirmed",
+    "basis": "base",
+    "currency": "EUR",
+    "fx_at": "Sun, 18 Oct 2026 00:02:31 +0000",
+    "fx_rate": 106.873,
+    "inr_max": 14855341,
+    "inr_min": 9896436,
+    "max": 139000,
+    "min": 92600,
+    "note": "Europe",
+    "original_period": "annual",
+    "period": "annual",
+    "source_name": "Zapier careers (Ashby)",
+    "source_url": "https://jobs.ashbyhq.com/zapier/c0582311-18cb-4415-9c86-79014f1b74f6",
+    "state": "verified",
+    "verified_at": "2026-10-18T15:28:43Z"
+  },
+  "scores": {
+    "ai": 58,
+    "comp": 100,
+    "company": 98,
+    "location": 92,
+    "seniority": 100,
+    "skill": 47
+  },
+  "seniority": "senior",
+  "snippet": "AI AT ZAPIER\n\nAt Zapier https://zapier.com/about, we build and use automation every day to make work more efficient, creative, and human. So if you’re using AI tools while applying here - that’s great! We just ask that you use them responsibly and transparently.\n\nCheck out our guidance on How to Collaborate with AI During Zapier’s Hiring Process https://zapier.com/l/jobs/ai-at-zapier, including how to use AI tools li",
+  "source_primary": "Zapier careers (Ashby)",
+  "sources": [
+    {
+      "id": "ashby",
+      "job_id": "ashby:zapier:c0582311-18cb-4415-9c86-79014f1b74f6",
+      "kind": "ats",
+      "name": "Zapier careers (Ashby)",
+      "posted_at": "2026-10-02T17:54:13Z",
+      "seen_at": "2026-10-18T15:28:43Z",
+      "url": "https://jobs.ashbyhq.com/zapier/c0582311-18cb-4415-9c86-79014f1b74f6"
+    },
+    {
+      "id": "linkedin_post",
+      "job_id": "https://www.linkedin.com/posts/we-work-remotely_remote-sr-motion-designer-at-zapier-activity-7516578840220057600-XRQT",
+      "kind": "social",
+      "name": "LinkedIn post (public)",
+      "posted_at": "2026-10-15T19:20:46Z",
+      "seen_at": "2026-10-18T15:28:43Z",
+      "url": "https://www.linkedin.com/posts/we-work-remotely_remote-sr-motion-designer-at-zapier-activity-7516578840220057600-XRQT"
+    }
+  ],
+  "specializations": [],
+  "status": "verified",
+  "tier": 1,
+  "title": "Sr. Motion Designer",
+  "tools": [],
+  "updated_at": "2026-10-15T19:20:46Z",
+  "url": "https://jobs.ashbyhq.com/zapier/c0582311-18cb-4415-9c86-79014f1b74f6",
+  "why": [
+    "Core motion design role",
+    "SaaS company (Tier 1 priority)",
+    "Listed pay clears your ₹35 LPA target",
+    "Worldwide remote"
+  ],
+  "work_mode": "remote",
+  "years_min": null
+}

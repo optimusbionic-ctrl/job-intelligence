@@ -1,0 +1,55 @@
+{
+  "category": "Other",
+  "classification": "Inferred from job description",
+  "india_hiring": {
+    "board": null,
+    "changed_at": "2026-10-18T18:27:42Z",
+    "evidence": [],
+    "first_checked_at": "2026-10-18T18:27:42Z",
+    "india_based": false,
+    "method": "Careers board, posting text, web search",
+    "sig": "54391d7cdf",
+    "summary": "No public evidence yet about hiring from India.",
+    "verdict": "unclear",
+    "web": {
+      "checked_at": "2026-10-18T19:27:59Z",
+      "query": "\"Launch3D\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
+      "results": [
+        {
+          "description": "",
+          "title": "Work Remotely for Global Companies Hiring in India",
+          "url": "https://www.wisemonk.io/for-candidates"
+        },
+        {
+          "description": "",
+          "title": "Build your career with global companies, without leaving India",
+          "url": "https://www.wisemonk.io/for-candidate"
+        },
+        {
+          "description": "",
+          "title": "Working Remotely Without an Employer of Record in India 2025",
+          "url": "https://ins-globalconsulting.com/?p=80019"
+        },
+        {
+          "description": "",
+          "title": "employer of record",
+          "url": "https://remote.com/country-explorer/india/employer-of-record"
+        },
+        {
+          "description": "",
+          "title": "employer of record",
+          "url": "https://remote.com/en-hk/country-explorer/india/employer-of-record"
+        },
+        {
+          "description": "",
+          "title": "dnb.co.in",
+          "url": "https://dnb.co.in/events/leapindiastartupsummit/images/2024/branded-content/case-study/Remunance.pdf"
+        }
+      ]
+    }
+  },
+  "inferred": true,
+  "name": "Launch3D",
+  "slug": "launch3d",
+  "tier": 3
+}

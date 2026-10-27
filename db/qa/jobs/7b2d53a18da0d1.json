@@ -1,0 +1,88 @@
+{
+  "apply_url": null,
+  "board_apply": "https://www.shine.com/jobs/quality-analyst-tester-mobile-and-web-testing/trigent-software/19593475",
+  "category": "Other",
+  "comp_potential": "unknown",
+  "company": "Trigent Software",
+  "company_slug": "trigent-software",
+  "concerns": [
+    "Pay not disclosed — ask for the range early"
+  ],
+  "contacts_count": 0,
+  "content_hash": "2c323c8ce528",
+  "date_quality": "exact",
+  "deadline": null,
+  "employment": "full-time",
+  "first_seen": "2026-10-19T13:24:59Z",
+  "fit": 76,
+  "has_hiring_manager": false,
+  "has_named_contact": false,
+  "has_public_email": false,
+  "id": "7b2d53a18da0d1",
+  "include_reason": "Mobile app QA",
+  "india": {
+    "cities": [
+      "Mumbai"
+    ],
+    "company": "yes",
+    "reason": "Location lists India",
+    "status": "confirmed",
+    "visa": false
+  },
+  "kind": "mobile-qa",
+  "last_verified": "2026-10-19T13:24:59Z",
+  "location": "Mumbai City, India",
+  "logo": null,
+  "needs_review": false,
+  "official": false,
+  "posted_at": "2026-09-26T04:52:00Z",
+  "repost": false,
+  "requirements": [],
+  "responsibilities": [],
+  "salary": {
+    "state": "unavailable"
+  },
+  "scores": {
+    "ai": 62,
+    "comp": 60,
+    "company": 66,
+    "location": 100,
+    "seniority": 100,
+    "skill": 62
+  },
+  "seniority": "unspecified",
+  "snippet": "Experience: 2 to 6 Yrs\nSkills: QA, Software Testing, Device Testing, HTML, CSS, CMS, Hosting, SEO, Test Case Writing, Website Publishing\n(Summary from the Shine.com listing; open the posting for the full description.)",
+  "source_primary": "Shine.com",
+  "sources": [
+    {
+      "id": "shine",
+      "job_id": "19593475",
+      "kind": "board",
+      "name": "Shine.com",
+      "posted_at": "2026-09-26T04:52:00Z",
+      "seen_at": "2026-10-19T13:24:59Z",
+      "url": "https://www.shine.com/jobs/quality-analyst-tester-mobile-and-web-testing/trigent-software/19593475"
+    }
+  ],
+  "specializations": [
+    "Web apps"
+  ],
+  "status": "active",
+  "tier": 3,
+  "title": "Quality Analyst Tester (Mobile and Web Testing)",
+  "tools": [
+    "Test cases & scenarios"
+  ],
+  "track": "software",
+  "updated_at": null,
+  "url": "https://www.shine.com/jobs/quality-analyst-tester-mobile-and-web-testing/trigent-software/19593475",
+  "why": [
+    "Mobile app testing on Android and iOS, like your current work",
+    "Already on your resume: Test cases & scenarios",
+    "Asks for 2–6 years — you have about 2.5",
+    "Location lists India"
+  ],
+  "work_mode": "onsite",
+  "years_max": 6,
+  "years_min": 2
+}

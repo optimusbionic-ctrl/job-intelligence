@@ -1,0 +1,58 @@
+{
+  "category": "Other",
+  "classification": "Inferred from job description",
+  "india_hiring": {
+    "board": null,
+    "changed_at": "2026-10-19T15:45:44Z",
+    "evidence": [],
+    "first_checked_at": "2026-10-19T15:45:44Z",
+    "india_based": false,
+    "method": "Careers board, posting text, web search",
+    "sig": "54391d7cdf",
+    "summary": "No public evidence yet about hiring from India.",
+    "verdict": "unclear",
+    "web": {
+      "checked_at": "2026-10-19T16:45:07Z",
+      "query": "\"Flexiple\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
+      "results": [
+        {
+          "description": "",
+          "title": "flexiple vs workingnomads",
+          "url": "https://flexiple.com/alternatives/flexiple-vs-workingnomads"
+        },
+        {
+          "description": "",
+          "title": "human resources specialist at flexiple wkdy2f1y40",
+          "url": "https://jobs.weekday.works/human-resources-specialist-at-flexiple-wkdy2f1y40"
+        },
+        {
+          "description": "",
+          "title": "Flexiple Logo",
+          "url": "https://flexiple.com/alternatives/workindia"
+        },
+        {
+          "description": "",
+          "title": "flexiple vs weworkremotely",
+          "url": "https://flexiple.com/alternatives/flexiple-vs-weworkremotely"
+        },
+        {
+          "description": "",
+          "title": "Flexiple vs FlexJobs",
+          "url": "https://flexiple.com/compare/flexiple-vs-flexjobs"
+        },
+        {
+          "description": "",
+          "title": "recruitment consultant at flexiple wkdywzwgm1",
+          "url": "https://jobs.weekday.works/recruitment-consultant-at-flexiple-wkdywzwgm1"
+        }
+      ]
+    }
+  },
+  "inferred": true,
+  "name": "Flexiple",
+  "slug": "flexiple",
+  "tier": 3,
+  "tracks": [
+    "software"
+  ]
+}

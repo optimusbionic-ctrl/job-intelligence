@@ -1,0 +1,27 @@
+{
+  "category": "Other",
+  "classification": "Inferred from job description",
+  "india_hiring": {
+    "board": null,
+    "changed_at": "2026-10-17T00:29:29Z",
+    "evidence": [
+      {
+        "detail": "Video Editor + Motion Graphics Designer — India (Remote)",
+        "kind": "posting",
+        "label": "A current posting lists India as a location",
+        "url": "https://in.linkedin.com/jobs/view/video-editor-%2B-motion-graphics-designer-at-adsdial-4477233984",
+        "weight": 5
+      }
+    ],
+    "first_checked_at": "2026-10-17T00:29:29Z",
+    "india_based": false,
+    "method": "Careers board, posting text",
+    "sig": "7d4bd3351d",
+    "summary": "A current posting lists India as a location.",
+    "verdict": "yes"
+  },
+  "inferred": true,
+  "name": "Adsdial",
+  "slug": "adsdial",
+  "tier": 3
+}

@@ -1,0 +1,30 @@
+{
+ "category": "Recruiter (client not named)",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-27T10:50:24Z",
+  "evidence": [
+   {
+    "detail": "QA Integration Tester — Pune, Bangalore, Hyderabad, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/qa-integration-tester/converse-placement-services-india-private-limited/19873841",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-10-21T09:45:21Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "c4c6d02644",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "CONVERSE PLACEMENT SERVICES INDIA PRIVATE LIMITED",
+ "slug": "converse-placement-services-india-private-limited",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}

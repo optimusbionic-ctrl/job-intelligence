@@ -1,0 +1,66 @@
+{
+ "ats": {
+  "slug": "mercor",
+  "type": "ashby"
+ },
+ "category": "Product / SaaS",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": {
+   "apac": 0,
+   "countries": [
+    "United States",
+    "Mexico",
+    "United Kingdom"
+   ],
+   "india": 0,
+   "india_samples": [],
+   "open_samples": [],
+   "remote": 1,
+   "restricted_remote": 1,
+   "restricted_samples": [
+    {
+     "location": "San Francisco • Mexico | Mexico City • New York City • London",
+     "title": "Mercor AI Research Fund Grants: Benchmarks",
+     "url": "https://jobs.ashbyhq.com/mercor/e1f6792d-1aae-4c2e-8edb-e2b91343dbb5"
+    }
+   ],
+   "slug": "mercor",
+   "total": 108,
+   "type": "ashby",
+   "url": "https://jobs.ashbyhq.com/mercor",
+   "worldwide": 0
+  },
+  "changed_at": "2026-10-27T10:50:24Z",
+  "evidence": [
+   {
+    "detail": "Linguistic QA Expert - Fully Remote | Upto $18/hr — India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://himalayas.app/companies/mercor/jobs/linguistic-qa-expert-fully-remote-upto-18-hr?utm_source=api",
+    "weight": 5
+   },
+   {
+    "detail": "None are located in India or open worldwide; 1 remote role is limited to named countries",
+    "kind": "board",
+    "label": "All 108 open roles are in United States, Mexico and United Kingdom",
+    "url": "https://jobs.ashbyhq.com/mercor",
+    "weight": -3
+   }
+  ],
+  "first_checked_at": "2026-10-20T08:44:35Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "c00d43f0ea",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "logo": "https://cdn-images.himalayas.app/6jo5q9nua35jgtdfm41nq6b7ocqf",
+ "name": "mercor",
+ "slug": "mercor",
+ "tier": 1,
+ "tracks": [
+  "software"
+ ]
+}

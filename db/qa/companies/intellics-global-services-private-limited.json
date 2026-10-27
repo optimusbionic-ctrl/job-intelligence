@@ -1,0 +1,31 @@
+{
+  "category": "Other",
+  "classification": "Inferred from job description",
+  "india_hiring": {
+    "board": null,
+    "changed_at": "2026-10-20T17:43:38Z",
+    "evidence": [
+      {
+        "detail": "Mulesoft QA Engineer — Pune, Bangalore, Coimbatore, Chennai, India",
+        "kind": "posting",
+        "label": "A current posting lists India as a location",
+        "url": "https://www.shine.com/jobs/mulesoft-qa-engineer/intellics-global-services-private-limited/19723991",
+        "weight": 5
+      }
+    ],
+    "first_checked_at": "2026-10-20T17:43:38Z",
+    "india_based": false,
+    "method": "Careers board, posting text",
+    "sig": "774935025a",
+    "summary": "A current posting lists India as a location.",
+    "verdict": "yes"
+  },
+  "inferred": true,
+  "logo": "https://staticrect.shine.com/r/m/images/job_logo/ebf3eba550f642d1b6841e0392a7e27d.webp",
+  "name": "INTELLICS GLOBAL SERVICES PRIVATE LIMITED",
+  "slug": "intellics-global-services-private-limited",
+  "tier": 3,
+  "tracks": [
+    "software"
+  ]
+}

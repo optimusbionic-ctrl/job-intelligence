@@ -1,0 +1,55 @@
+{
+  "category": "Other",
+  "classification": "Inferred from job description",
+  "india_hiring": {
+    "board": null,
+    "changed_at": "2026-10-18T21:28:08Z",
+    "evidence": [],
+    "first_checked_at": "2026-10-18T21:28:08Z",
+    "india_based": false,
+    "method": "Careers board, posting text, web search",
+    "sig": "54391d7cdf",
+    "summary": "No public evidence yet about hiring from India.",
+    "verdict": "unclear",
+    "web": {
+      "checked_at": "2026-10-18T22:27:20Z",
+      "query": "\"Solvative\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
+      "results": [
+        {
+          "description": "",
+          "title": "builtin.com",
+          "url": "https://builtin.com/job/recruiter/2552275"
+        },
+        {
+          "description": "",
+          "title": "WFH.teamOpen app",
+          "url": "https://wfh.team/companies/solvative"
+        },
+        {
+          "description": "",
+          "title": "Work Remotely for Global Companies Hiring in India",
+          "url": "https://wisemonk.io/for-candidates"
+        },
+        {
+          "description": "",
+          "title": "Working Remotely Without an Employer of Record in India 2025",
+          "url": "https://ins-globalconsulting.com/?p=80019"
+        },
+        {
+          "description": "",
+          "title": "Build your career with global companies, without leaving India",
+          "url": "https://www.wisemonk.io/for-candidate"
+        },
+        {
+          "description": "",
+          "title": "employer of record",
+          "url": "https://remote.com/country-explorer/india/employer-of-record"
+        }
+      ]
+    }
+  },
+  "inferred": true,
+  "name": "Solvative",
+  "slug": "solvative",
+  "tier": 3
+}

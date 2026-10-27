@@ -1,0 +1,55 @@
+{
+  "category": "Other",
+  "classification": "Inferred from job description",
+  "india_hiring": {
+    "board": null,
+    "changed_at": "2026-10-18T18:27:42Z",
+    "evidence": [],
+    "first_checked_at": "2026-10-18T18:27:42Z",
+    "india_based": false,
+    "method": "Careers board, posting text, web search",
+    "sig": "54391d7cdf",
+    "summary": "No public evidence yet about hiring from India.",
+    "verdict": "unclear",
+    "web": {
+      "checked_at": "2026-10-18T19:27:59Z",
+      "query": "\"Branch International\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
+      "results": [
+        {
+          "description": "",
+          "title": "People Operations Associate",
+          "url": "https://builtin.com/job/people-operations-associate/8075110"
+        },
+        {
+          "description": "",
+          "title": "Branch International",
+          "url": "https://jobs.weekday.works/treasury-associate-at-branch-international-wkdyczz3mf"
+        },
+        {
+          "description": "",
+          "title": "Updating Results",
+          "url": "https://kalingauniversity.prosple.com/graduate-employers/branch-international-india"
+        },
+        {
+          "description": "",
+          "title": "Branch International logo",
+          "url": "https://in.indeed.com/cmp/Branch-International"
+        },
+        {
+          "description": "",
+          "title": "Job Information",
+          "url": "https://bluelinxco.dejobs.org/mumbai-ind/staff-accountant-payroll-specialist/FFFD3A13E42D4852A576C34DC42B35D3/job/"
+        },
+        {
+          "description": "",
+          "title": "branch international",
+          "url": "https://zerogtalent.com/tech-companies/branch-international?page=3"
+        }
+      ]
+    }
+  },
+  "inferred": true,
+  "name": "Branch International",
+  "slug": "branch-international",
+  "tier": 3
+}

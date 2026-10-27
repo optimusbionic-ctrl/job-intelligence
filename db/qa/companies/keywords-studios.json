@@ -1,0 +1,92 @@
+{
+ "aliases": [
+  "Keywords Studios"
+ ],
+ "ats": {
+  "slug": "keywordsstudios",
+  "type": "smartrecruiters"
+ },
+ "careers": "https://jobs.smartrecruiters.com/keywordsstudios",
+ "category": "Game services / QA",
+ "classification": "QA Intelligence registry (curated)",
+ "domain": "keywordsstudios.com",
+ "facts_note": "Category from public company information; funding not verified",
+ "hq": "Dublin, IE",
+ "india_hiring": {
+  "board": {
+   "apac": 0,
+   "countries": [
+    "Japan",
+    "Australia",
+    "Philippines"
+   ],
+   "india": 1,
+   "india_samples": [
+    {
+     "location": "Manila, NCR, Philippines",
+     "title": "Subtitling Project Coordinator - TEST TEST TEST DO NOT APPLY",
+     "url": "https://jobs.smartrecruiters.com/keywordsstudios/744000148405609"
+    }
+   ],
+   "open_samples": [],
+   "remote": 18,
+   "restricted_remote": 17,
+   "restricted_samples": [
+    {
+     "location": "Tokyo, Tokyo, Japan",
+     "title": "3D キャラクターアーティスト",
+     "url": "https://jobs.smartrecruiters.com/keywordsstudios/744000112678832"
+    },
+    {
+     "location": "Tokyo, Tokyo, Japan",
+     "title": "3D 背景アーティスト",
+     "url": "https://jobs.smartrecruiters.com/keywordsstudios/744000149246099"
+    },
+    {
+     "location": "Tokyo, Tokyo, Japan",
+     "title": "Lighting Artist",
+     "url": "https://jobs.smartrecruiters.com/keywordsstudios/744000138022509"
+    },
+    {
+     "location": "Tokyo, Tokyo, Japan",
+     "title": "Software Engineer",
+     "url": "https://jobs.smartrecruiters.com/keywordsstudios/744000138021024"
+    }
+   ],
+   "slug": "keywordsstudios",
+   "total": 34,
+   "type": "smartrecruiters",
+   "url": "https://jobs.smartrecruiters.com/keywordsstudios",
+   "worldwide": 0
+  },
+  "changed_at": "2026-10-27T10:50:24Z",
+  "evidence": [
+   {
+    "detail": "Subtitling Project Coordinator - TEST TEST TEST DO NOT APPLY (Manila, NCR, Philippines)",
+    "kind": "board",
+    "label": "1 of 34 open roles is located in India",
+    "url": "https://jobs.smartrecruiters.com/keywordsstudios",
+    "weight": 5
+   },
+   {
+    "detail": "Video Game Tester (Gurugram) — All India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/video-game-tester-gurugram/keywords-studios/19475268",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-10-19T13:24:59Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "70f01e8b4e",
+  "summary": "1 of 34 open roles is located in India.",
+  "verdict": "yes"
+ },
+ "name": "Keywords Studios",
+ "slug": "keywords-studios",
+ "tier": 2,
+ "tracks": [
+  "game"
+ ]
+}

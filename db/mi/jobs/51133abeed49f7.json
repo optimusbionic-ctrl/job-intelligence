@@ -1,0 +1,80 @@
+{
+  "apply_url": "https://apply.workable.com/globaldevgroup/j/91A34EB697/",
+  "board_apply": null,
+  "category": "Other",
+  "comp_potential": "unknown",
+  "company": "Globaldev Group",
+  "company_slug": "globaldev-group",
+  "concerns": [
+    "Globaldev Group's other roles are limited to named countries; confirm India is eligible",
+    "Employer has not confirmed hiring from India",
+    "Compensation not disclosed",
+    "Reposted / refreshed listing — original posting is older"
+  ],
+  "contacts_count": 0,
+  "content_hash": "a515f7036978",
+  "date_quality": "approx",
+  "deadline": null,
+  "employment": "full-time",
+  "first_seen": "2026-10-15T15:39:48Z",
+  "fit": 51,
+  "has_hiring_manager": false,
+  "has_named_contact": false,
+  "has_public_email": false,
+  "id": "51133abeed49f7",
+  "include_reason": "Motion design title",
+  "india": {
+    "cities": [],
+    "company": "no",
+    "reason": "Location not stated · Globaldev Group hires only in named countries",
+    "status": "unconfirmed",
+    "visa": false
+  },
+  "kind": "motion",
+  "last_verified": "2026-10-18T00:29:34Z",
+  "location": "",
+  "logo": null,
+  "needs_review": false,
+  "official": true,
+  "posted_at": "2026-10-13T00:00:00Z",
+  "repost": true,
+  "requirements": [],
+  "responsibilities": [],
+  "salary": {
+    "state": "unavailable"
+  },
+  "scores": {
+    "ai": 30,
+    "comp": 48,
+    "company": 40,
+    "location": 38,
+    "seniority": 100,
+    "skill": 47
+  },
+  "seniority": "senior",
+  "snippet": "We're looking for a Senior Motion Designer to work on exciting projects and create engaging visual content for digital products and platforms.",
+  "source_primary": "Workable (via search index)",
+  "sources": [
+    {
+      "id": "workable",
+      "job_id": "https://apply.workable.com/globaldevgroup/j/91A34EB697/",
+      "kind": "search",
+      "name": "Workable (via search index)",
+      "posted_at": "2026-10-13T00:00:00Z",
+      "seen_at": "2026-10-18T00:29:34Z",
+      "url": "https://apply.workable.com/globaldevgroup/j/91A34EB697/"
+    }
+  ],
+  "specializations": [],
+  "status": "verified",
+  "tier": 3,
+  "title": "Senior Motion Designer",
+  "tools": [],
+  "updated_at": null,
+  "url": "https://apply.workable.com/globaldevgroup/j/91A34EB697/",
+  "why": [
+    "Core motion design role"
+  ],
+  "work_mode": "unspecified",
+  "years_min": null
+}

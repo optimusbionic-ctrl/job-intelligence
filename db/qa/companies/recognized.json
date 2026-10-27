@@ -1,0 +1,30 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-27T10:50:24Z",
+  "evidence": [
+   {
+    "detail": "Software Testers (Pune) — Pune, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/software-testers-pune/recognized/19936455",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-10-27T10:50:24Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "42c808f53d",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Recognized",
+ "slug": "recognized",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}

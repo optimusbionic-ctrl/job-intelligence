@@ -1,0 +1,136 @@
+{
+  "ats": {
+    "slug": "remotepeople",
+    "type": "greenhouse"
+  },
+  "category": "Product / SaaS",
+  "classification": "Inferred from job description",
+  "india_hiring": {
+    "board": {
+      "apac": 3,
+      "countries": [
+        "China",
+        "Philippines"
+      ],
+      "india": 0,
+      "india_samples": [],
+      "open_samples": [
+        {
+          "location": "APAC (Remote)",
+          "title": "Headhunting Services Manager (APAC）   ",
+          "url": "https://job-boards.eu.greenhouse.io/remotepeople/jobs/4957549101"
+        },
+        {
+          "location": "APAC or China (Remote)",
+          "title": "Product Manager - Payroll",
+          "url": "https://job-boards.eu.greenhouse.io/remotepeople/jobs/4975169101"
+        },
+        {
+          "location": "APAC",
+          "title": "Sales Development Representative ",
+          "url": "https://job-boards.eu.greenhouse.io/remotepeople/jobs/4975025101"
+        }
+      ],
+      "remote": 10,
+      "restricted_remote": 2,
+      "restricted_samples": [
+        {
+          "location": "China (Remote)",
+          "title": "DevOps Engineer",
+          "url": "https://job-boards.eu.greenhouse.io/remotepeople/jobs/4964433101"
+        },
+        {
+          "location": "Remote - Philippines",
+          "title": "Payroll Specialist, EMEA ",
+          "url": "https://job-boards.eu.greenhouse.io/remotepeople/jobs/4995757101"
+        }
+      ],
+      "slug": "remotepeople",
+      "total": 16,
+      "type": "greenhouse",
+      "url": "https://boards.greenhouse.io/remotepeople",
+      "worldwide": 0
+    },
+    "changed_at": "2026-10-19T14:45:32Z",
+    "evidence": [
+      {
+        "detail": "Headhunting Services Manager (APAC）    (APAC (Remote)); Product Manager - Payroll (APAC or China (Remote)); Sales Development Representative  (APAC)",
+        "kind": "board",
+        "label": "3 open roles are open worldwide or to APAC",
+        "url": "https://boards.greenhouse.io/remotepeople",
+        "weight": 3
+      },
+      {
+        "detail": "QA Automation Engineer — Worldwide",
+        "kind": "posting",
+        "label": "A current posting is open worldwide",
+        "url": "https://job-boards.eu.greenhouse.io/remotepeople/jobs/4965136101",
+        "weight": 3
+      },
+      {
+        "detail": "…ner, Front-End, Back-End and QA Engineers — building the world's best Employer of Record platform. We are a remote-first team spread across Asia and Europe, s…",
+        "kind": "posting",
+        "label": "Posting describes hiring across countries",
+        "url": "https://job-boards.eu.greenhouse.io/remotepeople/jobs/4965136101",
+        "weight": 3
+      },
+      {
+        "detail": "Remote People Named Best Employer of Record for 2026 by Outsource Accelerator — “Employer of Record”",
+        "kind": "web",
+        "label": "Web shows it hires across countries",
+        "url": "https://www.bolsamania.com/nota-de-prensa_print/mercados/remote-people-named-best-employer-of-record-for-2026-by-outsource-accelerator--22301406.html",
+        "weight": 2
+      }
+    ],
+    "first_checked_at": "2026-10-19T13:24:59Z",
+    "india_based": false,
+    "method": "Careers board, posting text, web search",
+    "sig": "46b2893b2b",
+    "summary": "No India-located roles found, but 3 open roles are open worldwide or to APAC.",
+    "verdict": "likely",
+    "web": {
+      "checked_at": "2026-10-19T14:45:32Z",
+      "query": "\"Remote People\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
+      "results": [
+        {
+          "description": "",
+          "title": "Work Remotely for Global Companies Hiring in India",
+          "url": "https://wisemonk.io/for-candidates"
+        },
+        {
+          "description": "",
+          "title": "Working Remotely Without an Employer of Record in India 2025",
+          "url": "https://ins-globalconsulting.com/?p=80019"
+        },
+        {
+          "description": "",
+          "title": "Remote Company Remotepeople Jobs",
+          "url": "https://jobgether.com/remote-jobs/company-remotepeople"
+        },
+        {
+          "description": "",
+          "title": "Remote People",
+          "url": "https://vendordirectory.shrm.org/company/935740/remote-people"
+        },
+        {
+          "description": "",
+          "title": "Remote People Named Best Employer of Record for 2026 by Outsource Accelerator",
+          "url": "https://www.bolsamania.com/nota-de-prensa_print/mercados/remote-people-named-best-employer-of-record-for-2026-by-outsource-accelerator--22301406.html"
+        },
+        {
+          "description": "",
+          "title": "Build your career with global companies, without leaving India",
+          "url": "https://www.wisemonk.io/for-candidate"
+        }
+      ]
+    }
+  },
+  "inferred": true,
+  "logo": "https://cdn-images.himalayas.app/noex8fqze1yl9lhr6rby06ibn22y",
+  "name": "Remote People",
+  "slug": "remote-people",
+  "tier": 1,
+  "tracks": [
+    "software"
+  ]
+}

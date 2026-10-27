@@ -1,0 +1,58 @@
+{
+  "category": "IT services",
+  "classification": "Inferred from job description",
+  "india_hiring": {
+    "board": null,
+    "changed_at": "2026-10-19T13:24:59Z",
+    "evidence": [],
+    "first_checked_at": "2026-10-19T13:24:59Z",
+    "india_based": false,
+    "method": "Careers board, posting text, web search",
+    "sig": "54391d7cdf",
+    "summary": "No public evidence yet about hiring from India.",
+    "verdict": "unclear",
+    "web": {
+      "checked_at": "2026-10-19T14:17:45Z",
+      "query": "\"Ace IT Careers\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
+      "results": [
+        {
+          "description": "",
+          "title": "Image: ACE Program | Global Coordinator (AIESECers Only)",
+          "url": "https://aiesec.org/opportunity/global-talent/1330678"
+        },
+        {
+          "description": "",
+          "title": "Build your career with global companies, without leaving India",
+          "url": "https://www.wisemonk.io/for-candidate"
+        },
+        {
+          "description": "",
+          "title": "# Ace IT Careers",
+          "url": "https://jobs.workable.com/companies/anTJYQ7CPhx7JoC9JY4Q8q.md"
+        },
+        {
+          "description": "",
+          "title": "Image: ACE Program | Junior Developer",
+          "url": "https://aiesec.org/opportunity/global-talent/1305408"
+        },
+        {
+          "description": "",
+          "title": "Image: ACE Program | Talent Acquisition Specialist (Spanish Speaker)",
+          "url": "https://aiesec.org/opportunity/global-talent/1308372"
+        },
+        {
+          "description": "",
+          "title": "Image: ACE Program | Mexican Junior Developer",
+          "url": "https://aiesec.org/opportunity/global-talent/1321461"
+        }
+      ]
+    }
+  },
+  "inferred": true,
+  "name": "Ace IT Careers",
+  "slug": "ace-it-careers",
+  "tier": 2,
+  "tracks": [
+    "software"
+  ]
+}

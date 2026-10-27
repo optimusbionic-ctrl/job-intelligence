@@ -1,0 +1,113 @@
+{
+  "aliases": [
+    "Acceldata"
+  ],
+  "ats": {
+    "slug": "acceldata",
+    "type": "lever"
+  },
+  "careers": "https://jobs.lever.co/acceldata",
+  "category": "SaaS",
+  "classification": "Motion Intelligence registry (curated)",
+  "domain": "acceldata.io",
+  "facts_note": "HQ and maturity from public company information; funding not verified",
+  "hq": "Campbell, US / Bengaluru, IN",
+  "india_hiring": {
+    "board": {
+      "apac": 0,
+      "countries": [
+        "India",
+        "United States",
+        "Canada",
+        "United Kingdom"
+      ],
+      "india": 14,
+      "india_samples": [
+        {
+          "location": "Bengaluru",
+          "title": "Principal Engineer - Open Source Data Platform (ODP)",
+          "url": "https://jobs.lever.co/acceldata/18f8c832-7a0c-4ccb-a0bf-9af63fabd9a1"
+        },
+        {
+          "location": "Bengaluru",
+          "title": "Senior Engineering Manager",
+          "url": "https://jobs.lever.co/acceldata/d3410611-78e7-4130-9d9b-b2f720863ae6"
+        },
+        {
+          "location": "Bengaluru • India",
+          "title": "Senior SDET - Hadoop Observability (Pulse)",
+          "url": "https://jobs.lever.co/acceldata/495913ff-d0ef-4234-b44e-ac2470c53540"
+        },
+        {
+          "location": "Bengaluru",
+          "title": "Senior Software Engineer - Backend",
+          "url": "https://jobs.lever.co/acceldata/9c037a7b-4d1a-4c97-a05c-7948072e13e1"
+        }
+      ],
+      "open_samples": [],
+      "remote": 6,
+      "restricted_remote": 6,
+      "restricted_samples": [
+        {
+          "location": "United States",
+          "title": "Enterprise Account Executive - Central",
+          "url": "https://jobs.lever.co/acceldata/9c1e2902-deb2-4577-8028-8bdf9adc1b48"
+        },
+        {
+          "location": "United States",
+          "title": "Enterprise Account Executive - NY Metro",
+          "url": "https://jobs.lever.co/acceldata/d30b142c-545e-4da7-a370-d9af33261373"
+        },
+        {
+          "location": "United Kingdom",
+          "title": "Enterprise Account Executive - UK",
+          "url": "https://jobs.lever.co/acceldata/f43cc266-6ca0-491d-b474-0223ad874ad7"
+        },
+        {
+          "location": "United States • Kitchener",
+          "title": "Sales Engineer  | xLake: Data & AI Platform",
+          "url": "https://jobs.lever.co/acceldata/d8f43db5-5bfa-4033-b040-10260c024cd6"
+        }
+      ],
+      "slug": "acceldata",
+      "total": 34,
+      "type": "lever",
+      "url": "https://jobs.lever.co/acceldata",
+      "worldwide": 0
+    },
+    "changed_at": "2026-10-27T10:26:45Z",
+    "evidence": [
+      {
+        "detail": "Principal Engineer - Open Source Data Platform (ODP) (Bengaluru); Senior Engineering Manager (Bengaluru); Senior SDET - Hadoop Observability (Pulse) (Bengaluru • India)",
+        "kind": "board",
+        "label": "14 of 34 open roles are located in India",
+        "url": "https://jobs.lever.co/acceldata",
+        "weight": 5
+      },
+      {
+        "detail": "Motion Designer — Greater Bengaluru Area",
+        "kind": "posting",
+        "label": "A current posting lists India as a location",
+        "url": "https://in.linkedin.com/jobs/view/motion-designer-at-acceldata-4478439064",
+        "weight": 5
+      },
+      {
+        "detail": "Campbell, US / Bengaluru, IN",
+        "kind": "registry",
+        "label": "Has an office in India",
+        "url": "https://jobs.lever.co/acceldata",
+        "weight": 5
+      }
+    ],
+    "first_checked_at": "2026-10-15T16:19:24Z",
+    "india_based": false,
+    "method": "Careers board, posting text",
+    "sig": "5efe0e714a",
+    "summary": "14 of 34 open roles are located in India.",
+    "verdict": "yes"
+  },
+  "maturity": "Growth-stage private",
+  "name": "Acceldata",
+  "slug": "acceldata",
+  "tier": 1
+}

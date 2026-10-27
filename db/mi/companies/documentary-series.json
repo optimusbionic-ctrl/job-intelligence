@@ -1,0 +1,63 @@
+{
+  "category": "Other",
+  "classification": "Inferred from job description",
+  "india_hiring": {
+    "board": null,
+    "changed_at": "2026-10-15T16:19:24Z",
+    "evidence": [
+      {
+        "detail": "Freelance Motion Designer - Cinematic Documentary / Adventure YouTube Series — Anywhere",
+        "kind": "posting",
+        "label": "A current posting is open worldwide",
+        "url": "https://jobs.motionographer.com/jobs/609434152-freelance-motion-designer-cinematic-documentary-adventure-youtube-series-at-documentary-series",
+        "weight": 3
+      }
+    ],
+    "first_checked_at": "2026-10-15T16:19:24Z",
+    "india_based": false,
+    "method": "Careers board, posting text, web search",
+    "sig": "c932b66fe8",
+    "summary": "No India-located roles found, but a current posting is open worldwide.",
+    "verdict": "likely",
+    "web": {
+      "checked_at": "2026-10-15T18:30:15Z",
+      "query": "\"Documentary Series\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
+      "results": [
+        {
+          "description": "M I R A L.L.C is seeking an experienced editor for its post-production team to work on an ongoing documentary series focused on large-scale real ...",
+          "title": "Remote Documentary Editor Long-Form Series (Russian)",
+          "url": "https://www.mediabistro.com/jobs/3540968480-remote-documentary-editor-long-form-series-russian"
+        },
+        {
+          "description": "... countries Featured on CNN, BBC, Bloomberg, Forbes and Fast Company ... documentary series on Prime Video, Roku, Tubi and 45+ platforms ...",
+          "title": "The Future of Work | Full Documentary by Ian Khan - YouTube",
+          "url": "https://www.youtube.com/watch?v=qE4FRwsmFHk"
+        },
+        {
+          "description": "Remote. From $1 a year. Temporary. Winter Film Festival is fully in the swing ... Responsible for supporting the execution of documentary and feature stories, ...",
+          "title": "Now Hiring: 700 Documentary Film Jobs | Indeed",
+          "url": "https://www.indeed.com/q-documentary-film-jobs.html"
+        },
+        {
+          "description": "Associate Producer - Contract · Salt Lake City, UT · Remote. This role supports Daniel Steiner , an independent documentary journalist and ...",
+          "title": "Travel Documentary Producer Jobs (NOW HIRING) - ZipRecruiter",
+          "url": "https://www.ziprecruiter.com/Jobs/Travel-Documentary-Producer"
+        },
+        {
+          "description": "Show remote jobs only. Job locationAny Location. Select or type to search ... Male Documentary Series Jobs · Female Documentary Series Jobs. See more.",
+          "title": "Female Documentary Series Jobs - The Mandy Network",
+          "url": "https://www.mandy.com/aa/jobs/documentary-series-female/"
+        },
+        {
+          "description": "Creative Assistant, Documentaries, Documentary Series and Film. Amazon. Culver ... Editor, Paid Social - Health (Remote). Forbes Advisor. Wilmington, DE 1 ...",
+          "title": "Documentary Jobs in United States (1,000+ Open Roles) | LinkedIn",
+          "url": "https://www.linkedin.com/jobs/documentary-jobs"
+        }
+      ]
+    }
+  },
+  "inferred": true,
+  "name": "Documentary Series",
+  "slug": "documentary-series",
+  "tier": 3
+}

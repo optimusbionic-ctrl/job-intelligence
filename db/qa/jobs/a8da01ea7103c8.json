@@ -1,0 +1,96 @@
+{
+  "apply_url": null,
+  "board_apply": "https://www.shine.com/jobs/qa-engineer/talent-stock-solutions/19788841",
+  "category": "Recruiter (client not named)",
+  "comp_potential": "unknown",
+  "company": "Talent Stock Solutions",
+  "company_slug": "talent-stock-solutions",
+  "concerns": [
+    "Asks for 4+ years — you have about 2.5",
+    "Pay not disclosed — ask for the range early"
+  ],
+  "contacts_count": 0,
+  "content_hash": "cfdaf92ab9bb",
+  "date_quality": "exact",
+  "deadline": null,
+  "employment": "full-time",
+  "first_seen": "2026-10-19T13:24:59Z",
+  "fit": 73,
+  "has_hiring_manager": false,
+  "has_named_contact": false,
+  "has_public_email": false,
+  "id": "a8da01ea7103c8",
+  "include_reason": "QA / test engineer title",
+  "india": {
+    "cities": [
+      "Mumbai"
+    ],
+    "company": "yes",
+    "reason": "Location lists India",
+    "status": "confirmed",
+    "visa": false
+  },
+  "kind": "qa-engineer",
+  "last_verified": "2026-10-24T16:43:42Z",
+  "location": "Mumbai City, India",
+  "logo": null,
+  "needs_review": false,
+  "official": false,
+  "posted_at": "2026-10-12T19:00:43Z",
+  "repost": false,
+  "requirements": [],
+  "responsibilities": [],
+  "salary": {
+    "state": "unavailable"
+  },
+  "scores": {
+    "ai": 58,
+    "comp": 60,
+    "company": 66,
+    "location": 100,
+    "seniority": 72,
+    "skill": 72
+  },
+  "seniority": "unspecified",
+  "snippet": "Experience: 4 to 9 Yrs\nSkills: manual testing, functional testing, regression testing, banking domain, bfsi, trade finance\n(Summary from the Shine.com listing; open the posting for the full description.)",
+  "source_primary": "Shine.com",
+  "sources": [
+    {
+      "id": "shine",
+      "job_id": "19788841",
+      "kind": "board",
+      "name": "Shine.com",
+      "posted_at": "2026-10-12T19:03:50Z",
+      "seen_at": "2026-10-24T16:43:42Z",
+      "url": "https://www.shine.com/jobs/qa-engineer/talent-stock-solutions/19788841"
+    },
+    {
+      "id": "shine",
+      "job_id": "19785831",
+      "kind": "board",
+      "name": "Shine.com",
+      "posted_at": "2026-10-12T19:00:43Z",
+      "seen_at": "2026-10-24T16:43:42Z",
+      "url": "https://www.shine.com/jobs/qa-engineer/talent-stock-solutions/19785831"
+    }
+  ],
+  "specializations": [],
+  "status": "active",
+  "tier": 3,
+  "title": "QA Engineer",
+  "tools": [
+    "Functional testing",
+    "Regression testing"
+  ],
+  "track": "software",
+  "updated_at": null,
+  "url": "https://www.shine.com/jobs/qa-engineer/talent-stock-solutions/19788841",
+  "why": [
+    "QA / test engineer role",
+    "Already on your resume: Functional testing, Regression testing",
+    "Location lists India"
+  ],
+  "work_mode": "onsite",
+  "years_max": 9,
+  "years_min": 4
+}

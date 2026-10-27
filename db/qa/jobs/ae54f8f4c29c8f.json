@@ -1,0 +1,101 @@
+{
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/software-tester/rupee-xpert-ar-services/19941374",
+ "category": "Other",
+ "comp_potential": "listed_good",
+ "company": "Rupee Xpert AR Services",
+ "company_slug": "rupee-xpert-ar-services",
+ "concerns": [
+  "Asks for 4+ years — you have about 2.5"
+ ],
+ "contacts_count": 0,
+ "content_hash": "1b71eb366c9f",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-10-27T10:50:24Z",
+ "fit": 70,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "ae54f8f4c29c8f",
+ "include_reason": "Manual / functional QA title",
+ "india": {
+  "cities": [
+   "Mumbai",
+   "Pune",
+   "Bengaluru",
+   "Delhi NCR"
+  ],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "manual-qa",
+ "last_verified": "2026-10-27T10:50:24Z",
+ "location": "Mumbai City, Pune, Bangalore, Noida, Delhi, Bhuj, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-10-27T12:23:45Z",
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "applies_india": true,
+  "basis": "listed",
+  "currency": "INR",
+  "fx_at": "Tue, 27 Oct 2026 00:02:31 +0000",
+  "fx_rate": 1.0,
+  "inr_max": 1600000,
+  "inr_min": 600000,
+  "max": 1600000,
+  "min": 600000,
+  "note": "Listed in the posting",
+  "original_period": "annual",
+  "period": "annual",
+  "source_name": "Shine.com",
+  "source_url": "https://www.shine.com/jobs/software-tester/rupee-xpert-ar-services/19941374",
+  "state": "verified",
+  "verified_at": "2026-10-27T10:50:24Z"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 100,
+  "company": 66,
+  "location": 100,
+  "seniority": 72,
+  "skill": 50
+ },
+ "seniority": "unspecified",
+ "snippet": "Experience: 4 to 9 Yrs\nSkills: software, system administration, data analysis, software testing, automated software testing\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "19941374",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-10-27T12:23:45Z",
+   "seen_at": "2026-10-27T10:50:24Z",
+   "url": "https://www.shine.com/jobs/software-tester/rupee-xpert-ar-services/19941374"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 3,
+ "title": "Software Tester",
+ "tools": [],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/software-tester/rupee-xpert-ar-services/19941374",
+ "why": [
+  "Manual / functional QA — the core of your resume",
+  "Pay is listed in the posting",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": 9,
+ "years_min": 4
+}

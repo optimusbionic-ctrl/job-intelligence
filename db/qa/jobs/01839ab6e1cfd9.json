@@ -1,0 +1,110 @@
+{
+  "apply_url": null,
+  "board_apply": "https://himalayas.app/companies/kestra-technologies/jobs/qa-engineer-6503849793?utm_source=api",
+  "category": "Product / SaaS",
+  "comp_potential": "unknown",
+  "company": "Kestra Technologies",
+  "company_slug": "kestra-technologies",
+  "concerns": [
+    "Mentions test automation — be ready to discuss it or show a small script",
+    "Also asks for: Programming",
+    "Pay not disclosed — ask for the range early"
+  ],
+  "contacts_count": 0,
+  "content_hash": "1c3ca6dac5c8",
+  "date_quality": "exact",
+  "deadline": "2026-10-27T19:52:31Z",
+  "employment": "full-time",
+  "first_seen": "2026-10-19T13:24:59Z",
+  "fit": 83,
+  "has_hiring_manager": false,
+  "has_named_contact": false,
+  "has_public_email": false,
+  "id": "01839ab6e1cfd9",
+  "include_reason": "QA / test engineer title",
+  "india": {
+    "cities": [],
+    "company": "yes",
+    "reason": "Location lists India",
+    "status": "confirmed",
+    "visa": false
+  },
+  "kind": "qa-engineer",
+  "last_verified": "2026-10-19T13:24:59Z",
+  "location": "France, India",
+  "logo": "https://cdn-images.himalayas.app/n8fg86go8wmavj4soyaamc9zhwpl",
+  "needs_review": false,
+  "official": false,
+  "posted_at": "2026-08-28T19:52:32Z",
+  "repost": false,
+  "requirements": [
+    "Experience in software QA with a strong foundation in both manual and automated testing methodologies.",
+    "Ability to read and interpret customer support tickets, often with incomplete information, and systematically reproduce issues. This is central to the role.",
+    "Knowledge of the basics of Linux. You're comfortable navigating the command line, managing files and processes, and working in a Linux environment.",
+    "Hands on experience with Claude Code for everyday engineering and testing work.",
+    "Familiarity with infrastructure and orchestration concepts: Docker, Kubernetes, CI/CD pipelines, or workflow automation tools. You'll need this context to test effectively.",
+    "Comfortable working with APIs, reading logs, and navigating distributed systems to trace issues.",
+    "Experience writing automated tests (for instance, in Java, Python, or TypeScript) and working with test frameworks."
+  ],
+  "responsibilities": [
+    "We're looking for a QA Engineer based in India or Europe to ensure the quality and reliability of Kestra's platform across both the open source and Enterprise editions.",
+    "A key part of this role involves working directly with customer support tickets: understanding reported issues, reproducing them in local or staging environments, and verifying fixes before they ship. You'll be the bridge between what customers experience and what the engineering team delivers.",
+    "This is a fully remote position. We're hiring from India and Europe for timezone alignment with the broader team.",
+    "Review and analyze customer support tickets to understand reported issues, extract reproduction steps, and translate problems reported by customers into actionable bug reports for the engineering team.",
+    "Reproduce bugs reported by customers across different environments and configurations, ensuring the engineering team has the context they need to fix issues efficiently.",
+    "Design, write, and maintain test plans and test cases covering both the open source platform and Enterprise Edition features.",
+    "Perform manual and exploratory testing for new features and regression testing for existing functionality across each release cycle."
+  ],
+  "salary": {
+    "state": "unavailable"
+  },
+  "scores": {
+    "ai": 68,
+    "comp": 60,
+    "company": 95,
+    "location": 100,
+    "seniority": 84,
+    "skill": 79
+  },
+  "seniority": "unspecified",
+  "snippet": "About Kestra\n Kestra is the universal orchestration platform: open source, declarative, and designed to orchestrate data pipelines, IT automation, business workflows, and AI/agentic systems.\n Trusted by over 10,000 organizations worldwide, including JPMorgan Chase, Bloomberg, FILA, and Crédit Agricole, Kestra orchestrates mission critical workloads at scale. The open source project has close to 30,000 GitHub stars, h",
+  "source_primary": "Himalayas",
+  "sources": [
+    {
+      "id": "himalayas",
+      "job_id": "https://himalayas.app/companies/kestra-technologies/jobs/qa-engineer-6503849793",
+      "kind": "board",
+      "name": "Himalayas",
+      "posted_at": "2026-08-28T19:52:32Z",
+      "seen_at": "2026-10-19T13:24:59Z",
+      "url": "https://himalayas.app/companies/kestra-technologies/jobs/qa-engineer-6503849793?utm_source=api"
+    }
+  ],
+  "specializations": [
+    "Web apps"
+  ],
+  "status": "active",
+  "tier": 1,
+  "title": "QA Engineer",
+  "tools": [
+    "Regression testing",
+    "Stress / load testing",
+    "Exploratory testing",
+    "Test cases & scenarios",
+    "Bug reporting",
+    "Test automation",
+    "Programming"
+  ],
+  "track": "software",
+  "updated_at": null,
+  "url": "https://himalayas.app/companies/kestra-technologies/jobs/qa-engineer-6503849793?utm_source=api",
+  "why": [
+    "QA / test engineer role",
+    "Already on your resume: Regression testing, Stress / load testing, Exploratory testing, Test cases & scenarios, Bug reporting",
+    "Product / SaaS company",
+    "Location lists India"
+  ],
+  "work_mode": "remote",
+  "years_max": null,
+  "years_min": null
+}

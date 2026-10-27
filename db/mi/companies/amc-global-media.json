@@ -1,0 +1,70 @@
+{
+  "category": "Other",
+  "classification": "Inferred from job description",
+  "india_hiring": {
+    "board": null,
+    "changed_at": "2026-10-15T18:30:15Z",
+    "evidence": [
+      {
+        "detail": "Motion Graphics Designer/Animator — Anywhere",
+        "kind": "posting",
+        "label": "A current posting is open worldwide",
+        "url": "https://jobs.motionographer.com/jobs/604695706-motion-graphics-designer-animator-at-amc-global-media",
+        "weight": 3
+      },
+      {
+        "detail": "AMC Global Media Jobs & Careers - 8 Open Positions | Glassdoor — “hiring for 8 open positions in India”",
+        "kind": "web",
+        "label": "Web mentions India hiring or an India office",
+        "url": "https://www.glassdoor.co.in/Jobs/AMC-Networks-New-York-City-NY-Jobs-EI_IE13227.0,12_IL.13,29_IM615.htm?filter.jobTitleExact=Director%2C+Integrated+Marketing",
+        "weight": 3
+      }
+    ],
+    "first_checked_at": "2026-10-15T16:19:24Z",
+    "india_based": false,
+    "method": "Careers board, posting text, web search",
+    "sig": "2c26dcef45",
+    "summary": "No India-located roles found, but a current posting is open worldwide.",
+    "verdict": "likely",
+    "web": {
+      "checked_at": "2026-10-15T18:30:15Z",
+      "query": "\"AMC Global Media\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
+      "results": [
+        {
+          "description": "AMC Global Media is the ultimate destination for premier storytelling ... remote. What locations have openings available? Most our internships are ...",
+          "title": "Careers - AMC Global Media",
+          "url": "https://www.amcglobalmedia.com/careers/"
+        },
+        {
+          "description": "Today's top 21 Amc Global Media jobs in United States. Leverage your professional network, and get hired. New Amc Global Media jobs added daily ... Remote. Remote.",
+          "title": "21 Amc Global Media jobs in United States - LinkedIn",
+          "url": "https://www.linkedin.com/jobs/amc-global-media-jobs"
+        },
+        {
+          "description": "Leads AMC Global Media's data product and analytics transformation for streaming platforms. ... Remote · Salaries · Post Job · BuiltIn. © 2026 Built In. All ...",
+          "title": "AMC Networks Inc. NYC Jobs + Careers",
+          "url": "https://www.builtinnyc.com/company/amc-networks-inc/jobs"
+        },
+        {
+          "description": "AMC Global Media is the ultimate destination for premier storytelling, known ... Careers · Working Here · Current Opportunities · Benefits · Diversity ...",
+          "title": "AMC Global Media",
+          "url": "https://www.amcglobalmedia.com/"
+        },
+        {
+          "description": "Yes, AMC Global Media is currently hiring for 8 open positions in India. Use Glassdoor to find and apply for a job that loves you back. Then start preparing for ...",
+          "title": "AMC Global Media Jobs & Careers - 8 Open Positions | Glassdoor",
+          "url": "https://www.glassdoor.co.in/Jobs/AMC-Networks-New-York-City-NY-Jobs-EI_IE13227.0,12_IL.13,29_IM615.htm?filter.jobTitleExact=Director%2C+Integrated+Marketing"
+        },
+        {
+          "description": "AMC Global Media values the benefits achieved through in-office collaboration, but we provide our employees with the flexibility to work from home one day per ...",
+          "title": "Director - Marketing & Growth Analytics - Myworkdayjobs.com",
+          "url": "https://amcn.wd5.myworkdayjobs.com/en-US/amcnetworks/job/Director---Marketing---Growth-Analytics_R-4946"
+        }
+      ]
+    }
+  },
+  "inferred": true,
+  "name": "AMC Global Media",
+  "slug": "amc-global-media",
+  "tier": 3
+}

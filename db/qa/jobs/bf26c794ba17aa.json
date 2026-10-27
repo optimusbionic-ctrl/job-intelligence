@@ -1,0 +1,100 @@
+{
+  "apply_url": null,
+  "board_apply": "https://www.shine.com/jobs/software-tester/ckpl-consulting-krew-private-limited/19726962",
+  "category": "Recruiter (client not named)",
+  "comp_potential": "unknown",
+  "company": "CKPL Consulting Krew Private Limited",
+  "company_slug": "ckpl-consulting-krew-private-limited",
+  "concerns": [
+    "Mentions test automation — be ready to discuss it or show a small script",
+    "Also asks for: API testing, Programming",
+    "Pay not disclosed — ask for the range early"
+  ],
+  "contacts_count": 0,
+  "content_hash": "c7771170fa3e",
+  "date_quality": "exact",
+  "deadline": null,
+  "employment": "full-time",
+  "first_seen": "2026-10-19T13:24:59Z",
+  "fit": 69,
+  "has_hiring_manager": false,
+  "has_named_contact": false,
+  "has_public_email": false,
+  "id": "bf26c794ba17aa",
+  "include_reason": "Manual / functional QA title",
+  "india": {
+    "cities": [
+      "Mumbai"
+    ],
+    "company": "yes",
+    "reason": "Location lists India",
+    "status": "confirmed",
+    "visa": false
+  },
+  "kind": "manual-qa",
+  "last_verified": "2026-10-19T13:24:59Z",
+  "location": "Navi Mumbai, India",
+  "logo": null,
+  "needs_review": false,
+  "official": false,
+  "posted_at": "2026-10-07T12:18:47Z",
+  "repost": false,
+  "requirements": [
+    "(Summary from the Shine.com listing; open the posting for the full description.)"
+  ],
+  "responsibilities": [],
+  "salary": {
+    "state": "unavailable"
+  },
+  "scores": {
+    "ai": 58,
+    "comp": 60,
+    "company": 66,
+    "location": 100,
+    "seniority": 94,
+    "skill": 45
+  },
+  "seniority": "unspecified",
+  "snippet": "Experience: 3 to 6 Yrs\nSkills: playwriting, java, selenium, api testing\n(Summary from the Shine.com listing; open the posting for the full description.)",
+  "source_primary": "Shine.com",
+  "sources": [
+    {
+      "id": "shine",
+      "job_id": "19726962",
+      "kind": "board",
+      "name": "Shine.com",
+      "posted_at": "2026-10-07T12:55:21Z",
+      "seen_at": "2026-10-19T13:24:59Z",
+      "url": "https://www.shine.com/jobs/software-tester/ckpl-consulting-krew-private-limited/19726962"
+    },
+    {
+      "id": "shine",
+      "job_id": "19726255",
+      "kind": "board",
+      "name": "Shine.com",
+      "posted_at": "2026-10-07T12:18:47Z",
+      "seen_at": "2026-10-19T13:24:59Z",
+      "url": "https://www.shine.com/jobs/software-tester/ckpl-consulting-krew-private-limited/19726255"
+    }
+  ],
+  "specializations": [],
+  "status": "active",
+  "tier": 3,
+  "title": "Software Tester",
+  "tools": [
+    "API testing",
+    "Test automation",
+    "Programming"
+  ],
+  "track": "software",
+  "updated_at": null,
+  "url": "https://www.shine.com/jobs/software-tester/ckpl-consulting-krew-private-limited/19726962",
+  "why": [
+    "Manual / functional QA — the core of your resume",
+    "Asks for 3+ years — you have about 2.5",
+    "Location lists India"
+  ],
+  "work_mode": "onsite",
+  "years_max": 6,
+  "years_min": 3
+}

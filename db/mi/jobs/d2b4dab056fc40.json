@@ -1,0 +1,106 @@
+{
+  "apply_url": null,
+  "board_apply": "https://himalayas.app/companies/pearmill/jobs/motion-graphic-designer-contract?utm_source=api",
+  "category": "Agency / studio",
+  "comp_potential": "verified35",
+  "company": "Pearmill",
+  "company_slug": "pearmill",
+  "concerns": [
+    "Listed pay is in USD; confirm it applies to India-based hires",
+    "Agency / studio (Tier 2)",
+    "Contract role",
+    "Reposted / refreshed listing — original posting is older"
+  ],
+  "contacts_count": 0,
+  "content_hash": "b64cecc7eb9b",
+  "date_quality": "exact",
+  "deadline": "2026-12-23T20:33:42Z",
+  "employment": "contract",
+  "first_seen": "2026-10-15T15:27:11Z",
+  "fit": 69,
+  "has_hiring_manager": false,
+  "has_named_contact": false,
+  "has_public_email": false,
+  "id": "d2b4dab056fc40",
+  "include_reason": "Mixed graphic + motion title",
+  "india": {
+    "cities": [],
+    "company": "likely",
+    "reason": "Worldwide remote",
+    "status": "likely",
+    "visa": false
+  },
+  "kind": "graphic-motion",
+  "last_verified": "2026-10-27T10:26:45Z",
+  "location": "Worldwide",
+  "logo": "https://cdn-images.himalayas.app/k9we0hbry7uot0y7qp4bnipz9zhq",
+  "needs_review": false,
+  "official": false,
+  "posted_at": "2026-10-24T20:33:43Z",
+  "repost": true,
+  "requirements": [],
+  "responsibilities": [],
+  "salary": {
+    "applies_india": "unconfirmed",
+    "basis": "listed",
+    "currency": "USD",
+    "fx_at": "Tue, 27 Oct 2026 00:02:31 +0000",
+    "fx_rate": 95.2691,
+    "inr_max": 5716143,
+    "inr_min": 2858072,
+    "max": 60000,
+    "min": 30000,
+    "note": "Listed for a worldwide-remote role; confirm it applies to India-based hires",
+    "original_period": "annual",
+    "period": "annual",
+    "source_name": "Himalayas",
+    "source_url": "https://himalayas.app/companies/pearmill/jobs/motion-graphic-designer-contract?utm_source=api",
+    "state": "verified",
+    "verified_at": "2026-10-27T10:26:45Z"
+  },
+  "scores": {
+    "ai": 44,
+    "comp": 92,
+    "company": 62,
+    "location": 92,
+    "seniority": 66,
+    "skill": 64
+  },
+  "seniority": "unspecified",
+  "snippet": "_**Note: We are not actively hiring for this role at the moment. If you still wish to submit an application, we will get back to you when hiring starts July 2023! **_​**About the company**You've never worked for a company quite like Pearmill . That wishlist you have for your current company... We've ticked all those boxes. We're growing fast and we're changing the game as we go.We're a diverse group of designers, mar",
+  "source_primary": "Himalayas",
+  "sources": [
+    {
+      "id": "himalayas",
+      "job_id": "https://himalayas.app/companies/pearmill/jobs/motion-graphic-designer-contract",
+      "kind": "board",
+      "name": "Himalayas",
+      "posted_at": "2026-10-24T20:33:43Z",
+      "seen_at": "2026-10-27T10:26:45Z",
+      "url": "https://himalayas.app/companies/pearmill/jobs/motion-graphic-designer-contract?utm_source=api"
+    }
+  ],
+  "specializations": [
+    "Interaction systems"
+  ],
+  "status": "active",
+  "tier": 2,
+  "title": "Motion Graphic Designer (Contract)",
+  "tools": [
+    "After Effects",
+    "Figma",
+    "Premiere Pro",
+    "Illustrator",
+    "Photoshop"
+  ],
+  "updated_at": null,
+  "url": "https://himalayas.app/companies/pearmill/jobs/motion-graphic-designer-contract?utm_source=api",
+  "why": [
+    "Tools you already use: After Effects, Figma, Premiere Pro, Illustrator, Photoshop",
+    "Specialisations in scope: Interaction systems",
+    "Listed pay clears your ₹35 LPA target",
+    "Worldwide remote"
+  ],
+  "work_mode": "remote",
+  "years_min": null
+}

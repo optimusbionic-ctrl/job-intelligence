@@ -1,0 +1,80 @@
+{
+  "apply_url": null,
+  "board_apply": "https://www.linkedin.com/posts/yt-jobs_you-know-vidiq-for-helping-creators-grow-activity-7511163461364596737-1kdE",
+  "category": "SaaS",
+  "comp_potential": "unknown",
+  "company": "vidIQ",
+  "company_slug": "vidiq",
+  "concerns": [
+    "Employer has not confirmed hiring from India",
+    "Compensation not disclosed"
+  ],
+  "contacts_count": 0,
+  "content_hash": "cd78aa5a022a",
+  "date_quality": "approx",
+  "deadline": null,
+  "employment": "full-time",
+  "first_seen": "2026-10-15T15:27:11Z",
+  "fit": 54,
+  "has_hiring_manager": false,
+  "has_named_contact": false,
+  "has_public_email": false,
+  "id": "7cba3fcd36a141",
+  "include_reason": "Motion title with video scope",
+  "india": {
+    "cities": [],
+    "company": "unclear",
+    "reason": "Remote, region not stated",
+    "status": "unconfirmed",
+    "visa": false
+  },
+  "kind": "video-motion",
+  "last_verified": "2026-10-15T16:19:24Z",
+  "location": "Remote",
+  "logo": null,
+  "needs_review": false,
+  "official": false,
+  "posted_at": "2026-09-30T06:00:00Z",
+  "repost": false,
+  "requirements": [],
+  "responsibilities": [],
+  "salary": {
+    "context_benchmark": "mi-dataset-remote",
+    "note": "Not disclosed. Global remote pay context is available, but there is no evidence it applies to this employer or to India-based hires.",
+    "state": "unavailable"
+  },
+  "scores": {
+    "ai": 30,
+    "comp": 48,
+    "company": 98,
+    "location": 38,
+    "seniority": 66,
+    "skill": 36
+  },
+  "seniority": "unspecified",
+  "snippet": "vidIQ is hiring a YouTube Video Editor & Motion Designer for a full-time, remote role.",
+  "source_primary": "LinkedIn post (public)",
+  "sources": [
+    {
+      "id": "linkedin_post",
+      "job_id": "https://www.linkedin.com/posts/yt-jobs_you-know-vidiq-for-helping-creators-grow-activity-7511163461364596737-1kdE",
+      "kind": "social",
+      "name": "LinkedIn post (public)",
+      "posted_at": "2026-09-30T06:00:00Z",
+      "seen_at": "2026-10-15T16:19:24Z",
+      "url": "https://www.linkedin.com/posts/yt-jobs_you-know-vidiq-for-helping-creators-grow-activity-7511163461364596737-1kdE"
+    }
+  ],
+  "specializations": [],
+  "status": "lead",
+  "tier": 1,
+  "title": "YouTube Video Editor & Motion Designer",
+  "tools": [],
+  "updated_at": null,
+  "url": "https://www.linkedin.com/posts/yt-jobs_you-know-vidiq-for-helping-creators-grow-activity-7511163461364596737-1kdE",
+  "why": [
+    "SaaS company (Tier 1 priority)"
+  ],
+  "work_mode": "remote",
+  "years_min": null
+}

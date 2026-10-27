@@ -1,0 +1,67 @@
+{
+  "category": "Other",
+  "classification": "Inferred from job description",
+  "india_hiring": {
+    "board": null,
+    "changed_at": "2026-10-19T13:24:59Z",
+    "evidence": [
+      {
+        "detail": "QA Engineer – 2D & Creative Applications | Remote - Contract — Worldwide",
+        "kind": "posting",
+        "label": "A current posting is open worldwide",
+        "url": "https://himalayas.app/companies/xperteez-technology/jobs/qa-engineer-2d-creative-applications-remote-contract?utm_source=api",
+        "weight": 3
+      }
+    ],
+    "first_checked_at": "2026-10-19T13:24:59Z",
+    "india_based": false,
+    "method": "Careers board, posting text, web search",
+    "sig": "968d6c767c",
+    "summary": "No India-located roles found, but a current posting is open worldwide.",
+    "verdict": "likely",
+    "web": {
+      "checked_at": "2026-10-19T14:17:45Z",
+      "query": "\"Xperteez Technology\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
+      "results": [
+        {
+          "description": "",
+          "title": "Xperteez Technology",
+          "url": "https://remowork.life/companies/xperteez-technology"
+        },
+        {
+          "description": "",
+          "title": "Xperteez Technology",
+          "url": "https://remowork.life/companies/xperteez-technology/jobs"
+        },
+        {
+          "description": "",
+          "title": "Xperteez Technology",
+          "url": "https://builtincalgary.org/company/xperteez-technology"
+        },
+        {
+          "description": "",
+          "title": "Xperteez Technology",
+          "url": "https://builtinmontreal.com/company/xperteez-technology"
+        },
+        {
+          "description": "",
+          "title": "Xperteez Technology",
+          "url": "https://remowork.life/companies/xperteez-technology/pay-and-benefits"
+        },
+        {
+          "description": "",
+          "title": "Xperteez Technology",
+          "url": "https://remowork.life/companies/xperteez-technology/reviews?rating=2"
+        }
+      ]
+    }
+  },
+  "inferred": true,
+  "logo": "https://cdn-images.himalayas.app/m68vtboghdo71fvod2gepzj5tyf1",
+  "name": "Xperteez Technology",
+  "slug": "xperteez-technology",
+  "tier": 3,
+  "tracks": [
+    "software"
+  ]
+}

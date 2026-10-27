@@ -1,0 +1,30 @@
+{
+  "category": "Other",
+  "classification": "Inferred from job description",
+  "india_hiring": {
+    "board": null,
+    "changed_at": "2026-10-21T11:43:42Z",
+    "evidence": [
+      {
+        "detail": "QA Engineer | Mumbai — Mumbai City, India",
+        "kind": "posting",
+        "label": "A current posting lists India as a location",
+        "url": "https://www.shine.com/jobs/qa-engineer-mumbai/tradelab-software-private-limited/19555312",
+        "weight": 5
+      }
+    ],
+    "first_checked_at": "2026-10-21T11:43:42Z",
+    "india_based": false,
+    "method": "Careers board, posting text",
+    "sig": "d158c6b9fd",
+    "summary": "A current posting lists India as a location.",
+    "verdict": "yes"
+  },
+  "inferred": true,
+  "name": "Tradelab Software Private Limited",
+  "slug": "tradelab-software-private-limited",
+  "tier": 3,
+  "tracks": [
+    "software"
+  ]
+}

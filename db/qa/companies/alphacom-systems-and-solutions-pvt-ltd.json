@@ -1,0 +1,30 @@
+{
+  "category": "Other",
+  "classification": "Inferred from job description",
+  "india_hiring": {
+    "board": null,
+    "changed_at": "2026-10-23T04:43:53Z",
+    "evidence": [
+      {
+        "detail": "Automation Tester — Pune, Hyderabad, India",
+        "kind": "posting",
+        "label": "A current posting lists India as a location",
+        "url": "https://www.shine.com/jobs/automation-tester/alphacom-systems-and-solutions-pvt-ltd/19895662",
+        "weight": 5
+      }
+    ],
+    "first_checked_at": "2026-10-23T04:43:53Z",
+    "india_based": false,
+    "method": "Careers board, posting text",
+    "sig": "fe1a80f904",
+    "summary": "A current posting lists India as a location.",
+    "verdict": "yes"
+  },
+  "inferred": true,
+  "name": "Alphacom Systems and Solutions Pvt Ltd",
+  "slug": "alphacom-systems-and-solutions-pvt-ltd",
+  "tier": 3,
+  "tracks": [
+    "software"
+  ]
+}

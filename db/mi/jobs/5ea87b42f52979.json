@@ -1,0 +1,80 @@
+{
+  "apply_url": null,
+  "board_apply": "https://dailyremote.com/remote-job/motion-designer-5765741",
+  "category": "Other",
+  "comp_potential": "unknown",
+  "company": "Afternow",
+  "company_slug": "afternow",
+  "concerns": [
+    "Employer has not confirmed hiring from India",
+    "Compensation not disclosed"
+  ],
+  "contacts_count": 0,
+  "content_hash": "bae7ac6a4413",
+  "date_quality": "unknown",
+  "deadline": null,
+  "employment": "full-time",
+  "first_seen": "2026-10-15T15:39:48Z",
+  "fit": 46,
+  "has_hiring_manager": false,
+  "has_named_contact": false,
+  "has_public_email": false,
+  "id": "5ea87b42f52979",
+  "include_reason": "Motion design title",
+  "india": {
+    "cities": [],
+    "company": "unclear",
+    "reason": "Remote, region not stated",
+    "status": "unconfirmed",
+    "visa": false
+  },
+  "kind": "motion",
+  "last_verified": "2026-10-17T15:28:24Z",
+  "location": "Fully remote",
+  "logo": null,
+  "needs_review": false,
+  "official": false,
+  "posted_at": null,
+  "repost": false,
+  "requirements": [],
+  "responsibilities": [],
+  "salary": {
+    "context_benchmark": "mi-dataset-remote",
+    "note": "Not disclosed. Global remote pay context is available, but there is no evidence it applies to this employer or to India-based hires.",
+    "state": "unavailable"
+  },
+  "scores": {
+    "ai": 30,
+    "comp": 48,
+    "company": 40,
+    "location": 38,
+    "seniority": 66,
+    "skill": 47
+  },
+  "seniority": "unspecified",
+  "snippet": "Motion Designer. Location: Fully remote.",
+  "source_primary": "DailyRemote",
+  "sources": [
+    {
+      "id": "web",
+      "job_id": "https://dailyremote.com/remote-job/motion-designer-5765741",
+      "kind": "search",
+      "name": "DailyRemote",
+      "posted_at": null,
+      "seen_at": "2026-10-17T15:28:24Z",
+      "url": "https://dailyremote.com/remote-job/motion-designer-5765741"
+    }
+  ],
+  "specializations": [],
+  "status": "lead",
+  "tier": 3,
+  "title": "Motion Designer",
+  "tools": [],
+  "updated_at": null,
+  "url": "https://dailyremote.com/remote-job/motion-designer-5765741",
+  "why": [
+    "Core motion design role"
+  ],
+  "work_mode": "remote",
+  "years_min": null
+}

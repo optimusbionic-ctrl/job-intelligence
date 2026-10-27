@@ -1,0 +1,104 @@
+{
+  "apply_url": "https://careers.roblox.com/jobs/8069987?gh_jid=8069987",
+  "board_apply": null,
+  "category": "Game studio",
+  "comp_potential": "unknown",
+  "company": "Roblox",
+  "company_slug": "roblox",
+  "concerns": [
+    "Office outside Mumbai — relocation within India",
+    "Pay not disclosed — ask for the range early",
+    "Reposted / refreshed listing — original posting is older"
+  ],
+  "contacts_count": 1,
+  "content_hash": "13c3f294aa07",
+  "date_quality": "exact",
+  "deadline": null,
+  "employment": "full-time",
+  "first_seen": "2026-10-19T13:24:59Z",
+  "fit": 71,
+  "has_hiring_manager": false,
+  "has_named_contact": false,
+  "has_public_email": false,
+  "id": "57745fe28982f4",
+  "include_reason": "QA / test engineer title",
+  "india": {
+    "cities": [
+      "Delhi NCR"
+    ],
+    "company": "yes",
+    "reason": "Location lists India",
+    "status": "confirmed",
+    "visa": false
+  },
+  "kind": "qa-engineer",
+  "last_verified": "2026-10-19T13:24:59Z",
+  "location": "Gurugram, Haryana, India",
+  "logo": null,
+  "needs_review": false,
+  "official": true,
+  "posted_at": "2026-08-04T09:45:13Z",
+  "repost": true,
+  "requirements": [
+    "3-5 years of experience in quality assurance, moderation, compliance, or a trust and safety-related role.",
+    "Bachelor's degree or equivalent foundational experience in operational auditing.",
+    "Proficiency in spreadsheet software like Excel or Google Sheets for tracking audit results and basic trend analysis.",
+    "Highly organised with a strong ability to identify subtle discrepancies in moderation decisions and data entries.",
+    "Clear written and verbal communication skills used to document audit findings and provide feedback to vendor teams.",
+    "Ability to troubleshoot routine quality issues and apply policy rubrics to complex user cases independently.",
+    "Capacity to thrive in a fast-paced team setting with the flexibility to adapt to evolving safety policies and global operational needs."
+  ],
+  "responsibilities": [
+    "Assist in executing regular quality compliance reviews and operational audits to ensure vendors adhere to established grading rubrics.",
+    "Conduct daily audits of vendor customer service and moderation audits to verify accuracy and policy alignment.",
+    "Gather, format, and maintain quality performance metrics and audit data to highlight recurring errors or vendor grading drift.",
+    "Support the Lead in coordinating with Moderation, Customer Support, and Global Scaled Operations teams to resolve quality disputes.",
+    "Participate in calibration sessions to ensure consistent interpretation of trust and safety policies across all vendor sites.",
+    "Help test and implement new quality automation tools or auditing platforms introduced by the technical and leadership teams."
+  ],
+  "salary": {
+    "state": "unavailable"
+  },
+  "scores": {
+    "ai": 58,
+    "comp": 60,
+    "company": 95,
+    "location": 60,
+    "seniority": 94,
+    "skill": 57
+  },
+  "seniority": "unspecified",
+  "snippet": "Every day, tens of millions of people come to Roblox to explore, create, play, learn, and connect with friends in 3D immersive digital experiences– all created by our global community of developers and creators. \n\n At Roblox, we’re building the tools and platform that empower our community to bring any experience that they can imagine to life. Our vision is to reimagine the way people come together, from anywhere in ",
+  "source_primary": "Roblox careers (Greenhouse)",
+  "sources": [
+    {
+      "id": "greenhouse",
+      "job_id": "gh:roblox:8069987",
+      "kind": "ats",
+      "name": "Roblox careers (Greenhouse)",
+      "posted_at": "2026-08-04T09:45:13Z",
+      "seen_at": "2026-10-19T13:24:59Z",
+      "url": "https://careers.roblox.com/jobs/8069987?gh_jid=8069987"
+    }
+  ],
+  "specializations": [],
+  "status": "verified",
+  "tier": 1,
+  "title": "Quality Analyst",
+  "tools": [
+    "Google Sheets / Excel"
+  ],
+  "track": "software",
+  "updated_at": "2026-10-19T06:42:43Z",
+  "url": "https://careers.roblox.com/jobs/8069987?gh_jid=8069987",
+  "why": [
+    "QA / test engineer role",
+    "Already on your resume: Google Sheets / Excel",
+    "Game studio company",
+    "Asks for 3+ years — you have about 2.5",
+    "Location lists India"
+  ],
+  "work_mode": "onsite",
+  "years_max": 5,
+  "years_min": 3
+}

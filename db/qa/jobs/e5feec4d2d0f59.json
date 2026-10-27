@@ -1,0 +1,98 @@
+{
+ "apply_url": null,
+ "board_apply": "https://himalayas.app/companies/zoftify-travel-software-development/jobs/quality-assurance-engineer?utm_source=api",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "Zoftify — Travel Software Development",
+ "company_slug": "zoftify-travel-software-development",
+ "concerns": [
+  "Also asks for: API testing, SQL / databases",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "678c082bbc79",
+ "date_quality": "exact",
+ "deadline": "2026-12-24T06:56:34Z",
+ "employment": "full-time",
+ "first_seen": "2026-10-27T10:50:24Z",
+ "fit": 79,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "e5feec4d2d0f59",
+ "include_reason": "QA / test engineer title",
+ "india": {
+  "cities": [],
+  "company": "likely",
+  "reason": "Worldwide remote",
+  "status": "likely",
+  "visa": false
+ },
+ "kind": "qa-engineer",
+ "last_verified": "2026-10-27T10:50:24Z",
+ "location": "Worldwide",
+ "logo": "https://cdn-images.himalayas.app/bbqjil72erqzt6oq7onvectbvjgo",
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-10-25T06:56:35Z",
+ "repost": false,
+ "requirements": [
+  "100% remote work, so you can work from wherever you want"
+ ],
+ "responsibilities": [],
+ "salary": {
+  "context_benchmark": "qa-dataset-remote",
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 74,
+  "comp": 60,
+  "company": 66,
+  "location": 86,
+  "seniority": 84,
+  "skill": 88
+ },
+ "seniority": "unspecified",
+ "snippet": "We are Zoftify, a digital product agency that creates stunning solutions for various businesses, mostly in the travel industry, from startups to enterprises. At Zoftify, we care about user experience and pridefully design beautiful and sleek interfaces for each product we develop. We're always excited to take on new and challenging projects!\n We are looking for a Quality Assurance Engineer to join our team to help de",
+ "source_primary": "Himalayas",
+ "sources": [
+  {
+   "id": "himalayas",
+   "job_id": "https://himalayas.app/companies/zoftify-travel-software-development/jobs/quality-assurance-engineer",
+   "kind": "board",
+   "name": "Himalayas",
+   "posted_at": "2026-10-25T06:56:35Z",
+   "seen_at": "2026-10-27T10:50:24Z",
+   "url": "https://himalayas.app/companies/zoftify-travel-software-development/jobs/quality-assurance-engineer?utm_source=api"
+  }
+ ],
+ "specializations": [
+  "Android",
+  "iOS",
+  "Mobile apps"
+ ],
+ "status": "active",
+ "tier": 3,
+ "title": "Quality Assurance Engineer",
+ "tools": [
+  "Stress / load testing",
+  "Test cases & scenarios",
+  "Jira",
+  "Google Sheets / Excel",
+  "API testing",
+  "SQL / databases",
+  "Agile / Scrum"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://himalayas.app/companies/zoftify-travel-software-development/jobs/quality-assurance-engineer?utm_source=api",
+ "why": [
+  "QA / test engineer role",
+  "Already on your resume: Stress / load testing, Test cases & scenarios, Jira, Google Sheets / Excel",
+  "Platforms you test on: Android, iOS, Mobile apps",
+  "Worldwide remote"
+ ],
+ "work_mode": "remote",
+ "years_max": null,
+ "years_min": null
+}

@@ -1,0 +1,71 @@
+{
+  "aliases": [
+    "Polluxa"
+  ],
+  "ats": null,
+  "careers": null,
+  "category": "SaaS",
+  "classification": "Motion Intelligence registry (curated)",
+  "domain": null,
+  "facts_note": "Basic facts only; not independently verified",
+  "hq": "",
+  "india_hiring": {
+    "board": null,
+    "changed_at": "2026-10-15T16:55:58Z",
+    "evidence": [
+      {
+        "detail": "Associate HR - Polluxa — “India, Remote”",
+        "kind": "web",
+        "label": "Web mentions India hiring or an India office",
+        "url": "https://www.polluxa.com/en/careers/associate-hr-canada",
+        "weight": 3
+      }
+    ],
+    "first_checked_at": "2026-10-15T16:19:24Z",
+    "india_based": false,
+    "method": "Careers board, posting text, web search",
+    "sig": "794cb8eb97",
+    "summary": "No India-located roles found, but web mentions India hiring or an India office.",
+    "verdict": "likely",
+    "web": {
+      "checked_at": "2026-10-15T16:55:58Z",
+      "query": "\"Polluxa\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
+      "results": [
+        {
+          "description": "As a Business Strategy Analyst at Polluxa, you will play a pivotal role in driving strategic initiatives to support the company's growth and expansion efforts.",
+          "title": "Careers at the Forefront of Innovation for Consumer Goods - Polluxa",
+          "url": "https://www.polluxa.com/en/careers"
+        },
+        {
+          "description": "Work Mode: Remote Experience: 0–2 Years Employment: Full-Time ... Polluxa #Careers.",
+          "title": "Polluxa - LinkedIn",
+          "url": "https://www.linkedin.com/company/polluxa-global"
+        },
+        {
+          "description": "Your business is unique, and so should be your software. Polluxa delivers tailored ERP and CRM software solutions to streamline your processes and fuel growth.",
+          "title": "Polluxa",
+          "url": "https://www.polluxa.com/en"
+        },
+        {
+          "description": "Careers at Polluxa. location_on Remote (anywhere). open_in_new Apply through Polluxa.",
+          "title": "Careers at Polluxa - Torre.ai",
+          "url": "https://torre.ai/careers/Polluxa1"
+        },
+        {
+          "description": "Benefits: • 100% remote work – Work from anywhere in India",
+          "title": "We're Hiring: Data Analyst at Polluxa Are you passionate about turning ...",
+          "url": "https://www.instagram.com/p/DZqjywvspGB/"
+        },
+        {
+          "description": "Senior Product Designer. USA, Canada, Netherlands, Prague, Dubai, India, Remote. Exp 5+ years. The Senior Product Designer will assume a pivotal role in ...",
+          "title": "Associate HR - Polluxa",
+          "url": "https://www.polluxa.com/en/careers/associate-hr-canada"
+        }
+      ]
+    }
+  },
+  "maturity": null,
+  "name": "Polluxa",
+  "slug": "polluxa",
+  "tier": 1
+}

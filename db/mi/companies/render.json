@@ -1,0 +1,76 @@
+{
+  "aliases": [
+    "Render"
+  ],
+  "ats": {
+    "slug": "render",
+    "type": "ashby"
+  },
+  "careers": "https://jobs.ashbyhq.com/render",
+  "category": "Cloud infrastructure",
+  "classification": "Motion Intelligence registry (curated)",
+  "domain": "render.com",
+  "facts_note": "HQ and maturity from public company information; funding not verified",
+  "hq": "San Francisco, US",
+  "india_hiring": {
+    "board": {
+      "apac": 0,
+      "countries": [
+        "United States",
+        "Canada"
+      ],
+      "india": 0,
+      "india_samples": [],
+      "open_samples": [],
+      "remote": 36,
+      "restricted_remote": 36,
+      "restricted_samples": [
+        {
+          "location": "Remote: United States",
+          "title": "Account Manager",
+          "url": "https://jobs.ashbyhq.com/render/54aaceee-1aa8-4f47-a77c-9f9597a99903"
+        },
+        {
+          "location": "Remote: United States",
+          "title": "Customer Engineer",
+          "url": "https://jobs.ashbyhq.com/render/324ad170-5bdd-44c7-becf-9c30a696178e"
+        },
+        {
+          "location": "Remote: United States • San Francisco HQ • Remote: Canada",
+          "title": "Engineering Manager, Governance & Access",
+          "url": "https://jobs.ashbyhq.com/render/31c30b8e-7e2a-49e8-ad7c-359201ee27b3"
+        },
+        {
+          "location": "Remote: United States",
+          "title": "Engineering Manager, Object Storage",
+          "url": "https://jobs.ashbyhq.com/render/d326d138-568f-49b7-a560-da42a0742886"
+        }
+      ],
+      "slug": "render",
+      "total": 36,
+      "type": "ashby",
+      "url": "https://jobs.ashbyhq.com/render",
+      "worldwide": 0
+    },
+    "changed_at": "2026-10-27T10:26:45Z",
+    "evidence": [
+      {
+        "detail": "None are located in India or open worldwide; 36 remote roles are limited to named countries",
+        "kind": "board",
+        "label": "All 36 open roles are in United States and Canada",
+        "url": "https://jobs.ashbyhq.com/render",
+        "weight": -3
+      }
+    ],
+    "first_checked_at": "2026-10-15T16:19:24Z",
+    "india_based": false,
+    "method": "Careers board, posting text",
+    "sig": "de53fb10c4",
+    "summary": "All 36 open roles are in United States and Canada. None are located in India or open worldwide; 36 remote roles are limited to named countries.",
+    "verdict": "no"
+  },
+  "maturity": "Growth-stage private",
+  "name": "Render",
+  "slug": "render",
+  "tier": 1
+}

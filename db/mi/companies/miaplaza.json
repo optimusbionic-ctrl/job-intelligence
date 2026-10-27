@@ -1,0 +1,56 @@
+{
+  "category": "AI",
+  "classification": "Inferred from job description",
+  "india_hiring": {
+    "board": null,
+    "changed_at": "2026-10-15T16:19:24Z",
+    "evidence": [],
+    "first_checked_at": "2026-10-15T16:19:24Z",
+    "india_based": false,
+    "method": "Careers board, posting text, web search",
+    "sig": "54391d7cdf",
+    "summary": "No public evidence yet about hiring from India.",
+    "verdict": "unclear",
+    "web": {
+      "checked_at": "2026-10-15T16:49:04Z",
+      "query": "\"Miaplaza\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
+      "results": [
+        {
+          "description": "",
+          "title": "talent acquisition specialist",
+          "url": "https://miaplaza.recruitee.com/o/talent-acquisition-specialist"
+        },
+        {
+          "description": "",
+          "title": "Talent Acquisition Specialist",
+          "url": "https://miaplaza.recruitee.com/o/talent-acquisition-specialistrecruiter"
+        },
+        {
+          "description": "",
+          "title": "Miaplaza logo",
+          "url": "https://scoutify.com/companies/miaplaza/"
+        },
+        {
+          "description": "",
+          "title": "miaplaza com",
+          "url": "https://himalayas.app/companies/miaplaza-com"
+        },
+        {
+          "description": "",
+          "title": "miaplaza inc",
+          "url": "https://www.remotely.de/firma/miaplaza-inc"
+        },
+        {
+          "description": "",
+          "title": "BlogCompany News",
+          "url": "https://remote.com/blog/company-news/217882-remote-launches-in-asia-pacific-region"
+        }
+      ]
+    }
+  },
+  "inferred": true,
+  "logo": "https://cdn-images.himalayas.app/h3mi5f78hdmlf7274iqez0crp3qa",
+  "name": "Miaplaza",
+  "slug": "miaplaza",
+  "tier": 1
+}

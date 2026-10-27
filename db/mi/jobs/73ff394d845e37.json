@@ -1,0 +1,129 @@
+{
+  "apply_url": "https://jobs.ashbyhq.com/atlys/c9b3bf73-e663-46f8-a840-3a9f2e649fb2/application",
+  "board_apply": null,
+  "category": "Consumer tech",
+  "comp_potential": "unknown",
+  "company": "Atlys",
+  "company_slug": "atlys",
+  "concerns": [
+    "Pay not disclosed — showing a low-confidence estimate",
+    "Also asks for: ProtoPie",
+    "Reposted / refreshed listing — original posting is older"
+  ],
+  "contacts_count": 1,
+  "content_hash": "50bb9fd7432b",
+  "date_quality": "exact",
+  "deadline": null,
+  "employment": "full-time",
+  "first_seen": "2026-10-15T15:27:11Z",
+  "fit": 75,
+  "has_hiring_manager": false,
+  "has_named_contact": false,
+  "has_public_email": false,
+  "id": "73ff394d845e37",
+  "include_reason": "Motion design title",
+  "india": {
+    "cities": [
+      "Delhi NCR"
+    ],
+    "company": "yes",
+    "reason": "Location lists India",
+    "status": "confirmed",
+    "visa": true
+  },
+  "kind": "motion",
+  "last_verified": "2026-10-15T18:30:15Z",
+  "location": "Delhi HQ (India)",
+  "logo": null,
+  "needs_review": false,
+  "official": true,
+  "posted_at": "2026-09-23T08:21:09Z",
+  "repost": true,
+  "requirements": [],
+  "responsibilities": [
+    "We're looking for a Motion Designer to own motion and interaction design across the Atlys app and website.",
+    "You'll work with Product Designers, PMs and Engineers to make Atlys feel intuitive, responsive and premium.",
+    "This is a high-ownership role. You'll own motion from concept to final QA, making Atlys feel like a product designed to move rather than one with animations added afterward."
+  ],
+  "salary": {
+    "estimate": {
+      "confidence": "low",
+      "currency": "INR",
+      "evidence": [
+        "ab-senior-motion-designer-in",
+        "ab-senior-motion-graphic-designer-in",
+        "gd-senior-motion-designer-blr"
+      ],
+      "high": 920000,
+      "inr_high": 920000,
+      "inr_low": 800000,
+      "low": 800000,
+      "method": "India market averages for senior motion designers from 3 sources (AmbitionBox ×2, Glassdoor Bangalore): ₹8.0–9.2 LPA. These are averages across all employers and experience around 3 years; product companies like this one may pay more, but no company-specific pay data was found.",
+      "potential": "unknown"
+    },
+    "note": "Estimate — not employer-confirmed",
+    "state": "estimate",
+    "verified_at": "2026-10-15T18:30:15Z"
+  },
+  "scores": {
+    "ai": 72,
+    "comp": 48,
+    "company": 95,
+    "location": 64,
+    "seniority": 66,
+    "skill": 84
+  },
+  "seniority": "unspecified",
+  "snippet": "ABOUT ATLYS\n\nOur mission is to enable every person on Earth to travel freely.\n\nTravel should feel exciting. Instead, too much of it is still defined by paperwork, uncertainty, and processes that were never designed for travellers.\n\nAtlys http://atlys.com/ is changing that.\n\nWe’re building an AI-first platform that removes friction and uncertainty from travel. To date, we’ve processed visas for 1M+ travellers across 1",
+  "source_primary": "Atlys careers (Ashby)",
+  "sources": [
+    {
+      "id": "ashby",
+      "job_id": "ashby:atlys:c9b3bf73-e663-46f8-a840-3a9f2e649fb2",
+      "kind": "ats",
+      "name": "Atlys careers (Ashby)",
+      "posted_at": "2026-09-23T08:21:09Z",
+      "seen_at": "2026-10-15T18:30:15Z",
+      "url": "https://jobs.ashbyhq.com/atlys/c9b3bf73-e663-46f8-a840-3a9f2e649fb2"
+    },
+    {
+      "id": "foundit",
+      "job_id": "https://www.foundit.in/job/motion-designer-atlys-delhi-69485470",
+      "kind": "search",
+      "name": "foundit (via search index)",
+      "posted_at": "2026-10-14T00:00:00Z",
+      "seen_at": "2026-10-15T18:30:15Z",
+      "url": "https://www.foundit.in/job/motion-designer-atlys-delhi-69485470"
+    }
+  ],
+  "specializations": [
+    "Product motion",
+    "UI/UX animation",
+    "Micro-interactions",
+    "Brand motion",
+    "Interaction systems",
+    "Technical storytelling"
+  ],
+  "status": "verified",
+  "tier": 1,
+  "title": "Motion Designer",
+  "tools": [
+    "After Effects",
+    "Rive",
+    "Lottie",
+    "Figma",
+    "Jitter",
+    "ProtoPie"
+  ],
+  "updated_at": "2026-10-14T00:00:00Z",
+  "url": "https://jobs.ashbyhq.com/atlys/c9b3bf73-e663-46f8-a840-3a9f2e649fb2",
+  "why": [
+    "Core motion design role",
+    "Tools you already use: After Effects, Rive, Lottie, Figma",
+    "Specialisations in scope: Product motion, UI/UX animation, Micro-interactions, Brand motion",
+    "Consumer tech company (Tier 1 priority)",
+    "Location lists India"
+  ],
+  "work_mode": "onsite",
+  "years_min": null
+}

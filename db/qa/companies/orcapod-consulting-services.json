@@ -1,0 +1,30 @@
+{
+ "category": "Recruiter (client not named)",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-27T10:50:24Z",
+  "evidence": [
+   {
+    "detail": "Qa Engineer ( Retail Company , E commerce company only) (Bengaluru) — Bangalore, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/qa-engineer-retail-company-e-commerce-company-only-bengaluru/orcapod-consulting-services/19935430",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-10-27T10:50:24Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "cd69bbeeb0",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Orcapod Consulting Services",
+ "slug": "orcapod-consulting-services",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}

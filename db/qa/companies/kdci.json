@@ -1,0 +1,67 @@
+{
+  "category": "IT services",
+  "classification": "Inferred from job description",
+  "india_hiring": {
+    "board": null,
+    "changed_at": "2026-10-21T21:44:12Z",
+    "evidence": [
+      {
+        "detail": "Web QA Specialist — Worldwide",
+        "kind": "posting",
+        "label": "A current posting is open worldwide",
+        "url": "https://himalayas.app/companies/kdci/jobs/web-qa-specialist?utm_source=api",
+        "weight": 3
+      }
+    ],
+    "first_checked_at": "2026-10-21T21:44:12Z",
+    "india_based": false,
+    "method": "Careers board, posting text, web search",
+    "sig": "10acdd6d59",
+    "summary": "No India-located roles found, but a current posting is open worldwide.",
+    "verdict": "likely",
+    "web": {
+      "checked_at": "2026-10-21T22:43:56Z",
+      "query": "\"KDCI\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
+      "results": [
+        {
+          "description": "",
+          "title": "KDCI Outsourcing logo",
+          "url": "https://ph.indeed.com/cmp/Kdci-Outsourcing"
+        },
+        {
+          "description": "",
+          "title": "kdci 168555133330823",
+          "url": "https://ph.jobstreet.com/companies/kdci-168555133330823"
+        },
+        {
+          "description": "",
+          "title": "Work Remotely for Global Companies Hiring in India",
+          "url": "https://www.wisemonk.io/for-candidates"
+        },
+        {
+          "description": "",
+          "title": "KDCI Outsourcing logo",
+          "url": "https://www.hirebase.org/company/kdci-outsourcing"
+        },
+        {
+          "description": "",
+          "title": "Build your career with global companies, without leaving India",
+          "url": "https://www.wisemonk.io/for-candidate"
+        },
+        {
+          "description": "",
+          "title": "Working Remotely Without an Employer of Record in India 2025",
+          "url": "https://ins-globalconsulting.com/?p=80019"
+        }
+      ]
+    }
+  },
+  "inferred": true,
+  "logo": "https://cdn-images.himalayas.app/3shlvcpzich5um7uaqkb63mkcoeu",
+  "name": "KDCI",
+  "slug": "kdci",
+  "tier": 2,
+  "tracks": [
+    "software"
+  ]
+}

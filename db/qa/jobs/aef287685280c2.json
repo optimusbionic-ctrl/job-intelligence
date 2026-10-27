@@ -1,0 +1,150 @@
+{
+  "apply_url": null,
+  "board_apply": "https://www.shine.com/jobs/playwright-automation-tester/harjai-computers-private-limited/19785260",
+  "category": "Other",
+  "comp_potential": "unknown",
+  "company": "HARJAI COMPUTERS PRIVATE LIMITED",
+  "company_slug": "harjai-computers-private-limited",
+  "concerns": [
+    "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
+    "Asks for 4+ years — you have about 2.5",
+    "Pay not disclosed — ask for the range early"
+  ],
+  "contacts_count": 0,
+  "content_hash": "dd61db61b138",
+  "date_quality": "exact",
+  "deadline": null,
+  "employment": "full-time",
+  "first_seen": "2026-10-19T13:24:59Z",
+  "fit": 58,
+  "has_hiring_manager": false,
+  "has_named_contact": false,
+  "has_public_email": false,
+  "id": "aef287685280c2",
+  "include_reason": "Automation-heavy QA (SDET)",
+  "india": {
+    "cities": [
+      "Mumbai"
+    ],
+    "company": "yes",
+    "reason": "Location lists India",
+    "status": "confirmed",
+    "visa": false
+  },
+  "kind": "automation",
+  "last_verified": "2026-10-19T13:24:59Z",
+  "location": "Mumbai City, Kolkata, India",
+  "logo": "https://staticrect.shine.com/r/m/images/job_logo/7c4a21f5d8e84382a7ca9d468b4859d2.webp",
+  "needs_review": false,
+  "official": false,
+  "posted_at": "2026-10-12T13:37:28Z",
+  "repost": false,
+  "requirements": [
+    "(Summary from the Shine.com listing; open the posting for the full description.)"
+  ],
+  "responsibilities": [],
+  "salary": {
+    "state": "unavailable"
+  },
+  "scores": {
+    "ai": 58,
+    "comp": 60,
+    "company": 66,
+    "location": 100,
+    "seniority": 72,
+    "skill": 24
+  },
+  "seniority": "unspecified",
+  "snippet": "Experience: 4 to 7 Yrs\nSkills: automation, testing, playwright\n(Summary from the Shine.com listing; open the posting for the full description.)",
+  "source_primary": "Shine.com",
+  "sources": [
+    {
+      "id": "shine",
+      "job_id": "19785260",
+      "kind": "board",
+      "name": "Shine.com",
+      "posted_at": "2026-10-12T15:19:41Z",
+      "seen_at": "2026-10-19T13:24:59Z",
+      "url": "https://www.shine.com/jobs/playwright-automation-tester/harjai-computers-private-limited/19785260"
+    },
+    {
+      "id": "shine",
+      "job_id": "19785235",
+      "kind": "board",
+      "name": "Shine.com",
+      "posted_at": "2026-10-12T15:19:08Z",
+      "seen_at": "2026-10-19T13:24:59Z",
+      "url": "https://www.shine.com/jobs/playwright-automation-tester/harjai-computers-private-limited/19785235"
+    },
+    {
+      "id": "shine",
+      "job_id": "19785209",
+      "kind": "board",
+      "name": "Shine.com",
+      "posted_at": "2026-10-12T15:18:46Z",
+      "seen_at": "2026-10-19T13:24:59Z",
+      "url": "https://www.shine.com/jobs/playwright-automation-tester/harjai-computers-private-limited/19785209"
+    },
+    {
+      "id": "shine",
+      "job_id": "19785164",
+      "kind": "board",
+      "name": "Shine.com",
+      "posted_at": "2026-10-12T15:17:59Z",
+      "seen_at": "2026-10-19T13:24:59Z",
+      "url": "https://www.shine.com/jobs/playwright-automation-tester/harjai-computers-private-limited/19785164"
+    },
+    {
+      "id": "shine",
+      "job_id": "19785121",
+      "kind": "board",
+      "name": "Shine.com",
+      "posted_at": "2026-10-12T15:17:10Z",
+      "seen_at": "2026-10-19T13:24:59Z",
+      "url": "https://www.shine.com/jobs/playwright-automation-tester/harjai-computers-private-limited/19785121"
+    },
+    {
+      "id": "shine",
+      "job_id": "19784818",
+      "kind": "board",
+      "name": "Shine.com",
+      "posted_at": "2026-10-12T15:13:27Z",
+      "seen_at": "2026-10-19T13:24:59Z",
+      "url": "https://www.shine.com/jobs/playwright-automation-tester/harjai-computers-private-limited/19784818"
+    },
+    {
+      "id": "shine",
+      "job_id": "19784622",
+      "kind": "board",
+      "name": "Shine.com",
+      "posted_at": "2026-10-12T15:03:31Z",
+      "seen_at": "2026-10-19T13:24:59Z",
+      "url": "https://www.shine.com/jobs/playwright-automation-tester/harjai-computers-private-limited/19784622"
+    },
+    {
+      "id": "shine",
+      "job_id": "19783372",
+      "kind": "board",
+      "name": "Shine.com",
+      "posted_at": "2026-10-12T13:37:28Z",
+      "seen_at": "2026-10-19T13:24:59Z",
+      "url": "https://www.shine.com/jobs/playwright-automation-tester/harjai-computers-private-limited/19783372"
+    }
+  ],
+  "specializations": [],
+  "status": "active",
+  "tier": 3,
+  "title": "Playwright Automation Tester",
+  "tools": [
+    "Test automation"
+  ],
+  "track": "software",
+  "updated_at": null,
+  "url": "https://www.shine.com/jobs/playwright-automation-tester/harjai-computers-private-limited/19785260",
+  "why": [
+    "Location lists India"
+  ],
+  "work_mode": "onsite",
+  "years_max": 7,
+  "years_min": 4
+}

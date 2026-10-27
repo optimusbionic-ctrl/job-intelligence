@@ -1,0 +1,27 @@
+{
+  "category": "Other",
+  "classification": "Inferred from job description",
+  "india_hiring": {
+    "board": null,
+    "changed_at": "2026-10-18T12:27:37Z",
+    "evidence": [
+      {
+        "detail": "Senior Video Editor – 3D Motion Graphics — Bengaluru, Karnataka, India",
+        "kind": "posting",
+        "label": "A current posting lists India as a location",
+        "url": "https://in.linkedin.com/jobs/view/senior-video-editor-%E2%80%93-3d-motion-graphics-at-corenza-for-marketers-4480828165",
+        "weight": 5
+      }
+    ],
+    "first_checked_at": "2026-10-18T12:27:37Z",
+    "india_based": false,
+    "method": "Careers board, posting text",
+    "sig": "82baa6caf6",
+    "summary": "A current posting lists India as a location.",
+    "verdict": "yes"
+  },
+  "inferred": true,
+  "name": "Corenza for Marketers",
+  "slug": "corenza-for-marketers",
+  "tier": 3
+}

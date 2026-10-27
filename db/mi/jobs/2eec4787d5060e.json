@@ -1,0 +1,98 @@
+{
+  "apply_url": null,
+  "board_apply": "https://in.linkedin.com/jobs/view/senior-motion-graphic-designer-at-digikit-4475799276",
+  "category": "Agency / studio",
+  "comp_potential": "below",
+  "company": "Digikit",
+  "company_slug": "digikit",
+  "concerns": [
+    "Pay not disclosed — showing a low-confidence estimate",
+    "Pay evidence suggests below ₹35 LPA",
+    "Agency / studio (Tier 2)"
+  ],
+  "contacts_count": 0,
+  "content_hash": "86ebe679be41",
+  "date_quality": "approx",
+  "deadline": null,
+  "employment": "full-time",
+  "first_seen": "2026-10-15T15:27:11Z",
+  "fit": 51,
+  "has_hiring_manager": false,
+  "has_named_contact": false,
+  "has_public_email": false,
+  "id": "2eec4787d5060e",
+  "include_reason": "Mixed graphic + motion title",
+  "india": {
+    "cities": [
+      "Bengaluru"
+    ],
+    "company": "yes",
+    "reason": "Location lists India",
+    "status": "confirmed",
+    "visa": false
+  },
+  "kind": "graphic-motion",
+  "last_verified": "2026-10-15T16:19:24Z",
+  "location": "Bengaluru, Karnataka, India",
+  "logo": null,
+  "needs_review": false,
+  "official": false,
+  "posted_at": "2026-10-08T06:00:00Z",
+  "repost": false,
+  "requirements": [],
+  "responsibilities": [],
+  "salary": {
+    "estimate": {
+      "confidence": "low",
+      "currency": "INR",
+      "evidence": [
+        "ab-senior-motion-designer-in",
+        "ab-senior-motion-graphic-designer-in",
+        "gd-senior-motion-designer-blr"
+      ],
+      "high": 920000,
+      "inr_high": 920000,
+      "inr_low": 800000,
+      "low": 800000,
+      "method": "India market averages for senior motion designers from 3 sources (AmbitionBox ×2, Glassdoor Bangalore): ₹8.0–9.2 LPA. These are averages across all employers and experience around 3 years; no evidence that this employer pays above market.",
+      "potential": "below"
+    },
+    "note": "Estimate — not employer-confirmed",
+    "state": "estimate",
+    "verified_at": "2026-10-15T16:19:24Z"
+  },
+  "scores": {
+    "ai": 30,
+    "comp": 22,
+    "company": 62,
+    "location": 86,
+    "seniority": 100,
+    "skill": 29
+  },
+  "seniority": "senior",
+  "snippet": "Bengaluru-based digital agency.",
+  "source_primary": "LinkedIn Jobs (via search index)",
+  "sources": [
+    {
+      "id": "linkedin",
+      "job_id": "https://in.linkedin.com/jobs/view/senior-motion-graphic-designer-at-digikit-4475799276",
+      "kind": "search",
+      "name": "LinkedIn Jobs (via search index)",
+      "posted_at": "2026-10-08T06:00:00Z",
+      "seen_at": "2026-10-15T16:19:24Z",
+      "url": "https://in.linkedin.com/jobs/view/senior-motion-graphic-designer-at-digikit-4475799276"
+    }
+  ],
+  "specializations": [],
+  "status": "lead",
+  "tier": 2,
+  "title": "Senior Motion Graphic Designer",
+  "tools": [],
+  "updated_at": null,
+  "url": "https://in.linkedin.com/jobs/view/senior-motion-graphic-designer-at-digikit-4475799276",
+  "why": [
+    "Location lists India"
+  ],
+  "work_mode": "onsite",
+  "years_min": null
+}

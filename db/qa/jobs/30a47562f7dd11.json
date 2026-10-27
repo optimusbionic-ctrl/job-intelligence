@@ -1,0 +1,111 @@
+{
+  "apply_url": "https://job-boards.eu.greenhouse.io/remotepeople/jobs/4965136101",
+  "board_apply": null,
+  "category": "Product / SaaS",
+  "comp_potential": "unknown",
+  "company": "Remote People",
+  "company_slug": "remote-people",
+  "concerns": [
+    "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
+    "Also asks for: API testing",
+    "Pay not disclosed — ask for the range early",
+    "Reposted / refreshed listing — original posting is older"
+  ],
+  "contacts_count": 1,
+  "content_hash": "4642b5bb6fa9",
+  "date_quality": "exact",
+  "deadline": "2026-12-06T16:43:08Z",
+  "employment": "full-time",
+  "first_seen": "2026-10-19T13:24:59Z",
+  "fit": 74,
+  "has_hiring_manager": false,
+  "has_named_contact": false,
+  "has_public_email": true,
+  "id": "30a47562f7dd11",
+  "include_reason": "Automation-heavy QA (SDET)",
+  "india": {
+    "cities": [],
+    "company": "likely",
+    "reason": "Worldwide remote",
+    "status": "likely",
+    "visa": false
+  },
+  "kind": "automation",
+  "last_verified": "2026-10-19T13:24:59Z",
+  "location": "Worldwide",
+  "logo": "https://cdn-images.himalayas.app/noex8fqze1yl9lhr6rby06ibn22y",
+  "needs_review": false,
+  "official": true,
+  "posted_at": "2026-09-01T10:11:57Z",
+  "repost": true,
+  "requirements": [
+    "Minimum of 3 years in Quality Assurance or Software Development roles",
+    "Hands-on experience with Playwright or a comparable test automation framework"
+  ],
+  "responsibilities": [
+    "Develop automated tests for both new features and regression scenarios",
+    "Conduct functional, integration and regression testing to validate application functionality against requirements, with manual testing as needed",
+    "Triage and report defects accurately, tracking them from discovery through to resolution",
+    "Monitor and help reduce the ratio of end-user found vs QA found defects"
+  ],
+  "salary": {
+    "context_benchmark": "qa-dataset-remote",
+    "state": "unavailable"
+  },
+  "scores": {
+    "ai": 62,
+    "comp": 60,
+    "company": 95,
+    "location": 86,
+    "seniority": 84,
+    "skill": 58
+  },
+  "seniority": "unspecified",
+  "snippet": "About Remote People\n\n At Remote People, we're building the infrastructure to power borderless teams . By handling global payroll, benefits, taxes, and compliance, our technology enables businesses to hire anyone anywhere compliantly at the push of a button.\n\n If you're interested in adding to our vision of enabling people to work in dream jobs, for every company, and from anywhere in the world , apply now!\n\n We're co",
+  "source_primary": "Remote People careers (Greenhouse)",
+  "sources": [
+    {
+      "id": "greenhouse",
+      "job_id": "gh:remotepeople:4965136101",
+      "kind": "ats",
+      "name": "Remote People careers (Greenhouse)",
+      "posted_at": "2026-09-01T10:11:57Z",
+      "seen_at": "2026-10-19T13:24:59Z",
+      "url": "https://job-boards.eu.greenhouse.io/remotepeople/jobs/4965136101"
+    },
+    {
+      "id": "himalayas",
+      "job_id": "https://himalayas.app/companies/remote-people/jobs/qa-automation-engineer",
+      "kind": "board",
+      "name": "Himalayas",
+      "posted_at": "2026-10-07T16:43:08Z",
+      "seen_at": "2026-10-19T13:24:59Z",
+      "url": "https://himalayas.app/companies/remote-people/jobs/qa-automation-engineer?utm_source=api"
+    }
+  ],
+  "specializations": [
+    "Web apps"
+  ],
+  "status": "verified",
+  "tier": 1,
+  "title": "QA Automation Engineer",
+  "tools": [
+    "Regression testing",
+    "Bug reporting",
+    "Jira",
+    "API testing",
+    "Test automation",
+    "Agile / Scrum"
+  ],
+  "track": "software",
+  "updated_at": "2026-10-07T16:43:08Z",
+  "url": "https://job-boards.eu.greenhouse.io/remotepeople/jobs/4965136101",
+  "why": [
+    "Already on your resume: Regression testing, Bug reporting, Jira",
+    "Product / SaaS company",
+    "Worldwide remote"
+  ],
+  "work_mode": "remote",
+  "years_max": null,
+  "years_min": null
+}

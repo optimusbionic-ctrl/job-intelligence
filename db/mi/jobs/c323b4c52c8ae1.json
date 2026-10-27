@@ -1,0 +1,100 @@
+{
+  "apply_url": null,
+  "board_apply": "https://in.linkedin.com/jobs/view/motion-graphic-designer-at-option-designs-4477763656",
+  "category": "Other",
+  "comp_potential": "below",
+  "company": "Option Designs",
+  "company_slug": "option-designs",
+  "concerns": [
+    "Pay not disclosed — showing a low-confidence estimate",
+    "Pay evidence suggests below ₹35 LPA"
+  ],
+  "contacts_count": 0,
+  "content_hash": "44aa3004e243",
+  "date_quality": "approx",
+  "deadline": null,
+  "employment": "full-time",
+  "first_seen": "2026-10-18T00:29:34Z",
+  "fit": 42,
+  "has_hiring_manager": false,
+  "has_named_contact": false,
+  "has_public_email": false,
+  "id": "c323b4c52c8ae1",
+  "include_reason": "Mixed graphic + motion title",
+  "india": {
+    "cities": [
+      "Delhi NCR"
+    ],
+    "company": "yes",
+    "reason": "Location lists India",
+    "status": "confirmed",
+    "visa": false
+  },
+  "kind": "graphic-motion",
+  "last_verified": "2026-10-18T00:29:34Z",
+  "location": "Gurgaon, Haryana, India",
+  "logo": null,
+  "needs_review": false,
+  "official": false,
+  "posted_at": "2026-10-17T00:00:00Z",
+  "repost": false,
+  "requirements": [],
+  "responsibilities": [],
+  "salary": {
+    "estimate": {
+      "confidence": "low",
+      "currency": "INR",
+      "evidence": [
+        "ab-senior-motion-designer-in",
+        "ab-senior-motion-graphic-designer-in",
+        "gd-senior-motion-designer-blr"
+      ],
+      "high": 920000,
+      "inr_high": 920000,
+      "inr_low": 800000,
+      "low": 800000,
+      "method": "India market averages for senior motion designers from 3 sources (AmbitionBox ×2, Glassdoor Bangalore): ₹8.0–9.2 LPA. These are averages across all employers and experience around 3 years; no evidence that this employer pays above market.",
+      "potential": "below"
+    },
+    "note": "Estimate — not employer-confirmed",
+    "state": "estimate",
+    "verified_at": "2026-10-18T00:29:34Z"
+  },
+  "scores": {
+    "ai": 30,
+    "comp": 22,
+    "company": 40,
+    "location": 64,
+    "seniority": 66,
+    "skill": 39
+  },
+  "seniority": "unspecified",
+  "snippet": "We are looking for a creative Motion Designer & Video Editor with strong experience in video editing, motion graphics and visual storytelling.",
+  "source_primary": "LinkedIn Jobs (via search index)",
+  "sources": [
+    {
+      "id": "linkedin",
+      "job_id": "https://in.linkedin.com/jobs/view/motion-graphic-designer-at-option-designs-4477763656",
+      "kind": "search",
+      "name": "LinkedIn Jobs (via search index)",
+      "posted_at": "2026-10-17T00:00:00Z",
+      "seen_at": "2026-10-18T00:29:34Z",
+      "url": "https://in.linkedin.com/jobs/view/motion-graphic-designer-at-option-designs-4477763656"
+    }
+  ],
+  "specializations": [
+    "Technical storytelling"
+  ],
+  "status": "lead",
+  "tier": 3,
+  "title": "Motion Graphic Designer",
+  "tools": [],
+  "updated_at": null,
+  "url": "https://in.linkedin.com/jobs/view/motion-graphic-designer-at-option-designs-4477763656",
+  "why": [
+    "Specialisations in scope: Technical storytelling",
+    "Location lists India"
+  ],
+  "work_mode": "onsite",
+  "years_min": null
+}

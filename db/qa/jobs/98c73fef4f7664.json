@@ -1,0 +1,105 @@
+{
+  "apply_url": null,
+  "board_apply": "https://himalayas.app/companies/infomediji/jobs/qa-engineer-unity-team?utm_source=api",
+  "category": "Product / SaaS",
+  "comp_potential": "unknown",
+  "company": "Infomediji",
+  "company_slug": "infomediji",
+  "concerns": [
+    "Also asks for: Test management (TestRail/Zephyr), API testing",
+    "Pay not disclosed — ask for the range early",
+    "Contract role"
+  ],
+  "contacts_count": 0,
+  "content_hash": "9aea23bc440c",
+  "date_quality": "exact",
+  "deadline": "2026-12-12T23:23:14Z",
+  "employment": "contract",
+  "first_seen": "2026-10-19T13:24:59Z",
+  "fit": 85,
+  "has_hiring_manager": false,
+  "has_named_contact": false,
+  "has_public_email": false,
+  "id": "98c73fef4f7664",
+  "include_reason": "Game QA engineer / analyst",
+  "india": {
+    "cities": [],
+    "company": "likely",
+    "reason": "Worldwide remote",
+    "status": "likely",
+    "visa": false
+  },
+  "kind": "game-qa-engineer",
+  "last_verified": "2026-10-19T13:24:59Z",
+  "location": "Worldwide",
+  "logo": "https://cdn-images.himalayas.app/fmuw8usfuzogbbusx4rzvetvvig6",
+  "needs_review": false,
+  "official": false,
+  "posted_at": "2026-10-13T23:23:16Z",
+  "repost": false,
+  "requirements": [],
+  "responsibilities": [
+    "We are looking for a colleague to join our QA Unity team in the segment of a **global VR video streaming ecosystem.",
+    "Conduct functional and non-functional manual testing of our web, mobile and VR applications to identify defects and inconsistencies.",
+    "Perform root cause analysis of the issues, report and track them.",
+    "Contribute to prevention strategy of the identified issues.",
+    "Create and improve test documentation to facilitate the testing process.",
+    "Collaborate with the team and stakeholders on quality improvement, issue resolving and requirements refinement.",
+    "Provide clear and non-ambiguous reporting on tasks progress, notifying about obstacles in a timely manner."
+  ],
+  "salary": {
+    "context_benchmark": "qa-dataset-remote",
+    "state": "unavailable"
+  },
+  "scores": {
+    "ai": 74,
+    "comp": 60,
+    "company": 95,
+    "location": 86,
+    "seniority": 94,
+    "skill": 87
+  },
+  "seniority": "unspecified",
+  "snippet": "Join Our Vision: We are building the next generation of Spatial Media - a new way people experience videos through interaction, multi-user presence, haptics, AI, and immersive storytelling.\n DeoVR is the leading immersive streaming technology serving multiple enterprise customers and millions of users globally.\n We are now expanding the boundaries of what video can be - moving from passive watching to active, interac",
+  "source_primary": "Himalayas",
+  "sources": [
+    {
+      "id": "himalayas",
+      "job_id": "https://himalayas.app/companies/infomediji/jobs/qa-engineer-unity-team",
+      "kind": "board",
+      "name": "Himalayas",
+      "posted_at": "2026-10-13T23:23:16Z",
+      "seen_at": "2026-10-19T13:24:59Z",
+      "url": "https://himalayas.app/companies/infomediji/jobs/qa-engineer-unity-team?utm_source=api"
+    }
+  ],
+  "specializations": [
+    "Android",
+    "Mobile apps",
+    "Unity / Unreal"
+  ],
+  "status": "active",
+  "tier": 1,
+  "title": "QA Engineer (Unity Team)",
+  "tools": [
+    "Test cases & scenarios",
+    "Bug reporting",
+    "Jira",
+    "Test management (TestRail/Zephyr)",
+    "API testing"
+  ],
+  "track": "game",
+  "updated_at": null,
+  "url": "https://himalayas.app/companies/infomediji/jobs/qa-engineer-unity-team?utm_source=api",
+  "why": [
+    "Game QA role at engineer/analyst level",
+    "Already on your resume: Test cases & scenarios, Bug reporting, Jira",
+    "Platforms you test on: Android, Mobile apps",
+    "Product / SaaS company",
+    "Worldwide remote",
+    "Asks for 3+ years — you have about 2.5"
+  ],
+  "work_mode": "remote",
+  "years_max": null,
+  "years_min": 3
+}

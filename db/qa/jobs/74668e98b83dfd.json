@@ -1,0 +1,88 @@
+{
+  "apply_url": null,
+  "board_apply": "https://www.shine.com/jobs/qa-engineer-agentic-ai-testing-playwright-automation-bengaluru/nubes/19885877",
+  "category": "Other",
+  "comp_potential": "unknown",
+  "company": "Nubes",
+  "company_slug": "nubes",
+  "concerns": [
+    "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
+    "Also asks for: API testing",
+    "Office outside Mumbai — relocation within India",
+    "Pay not disclosed — ask for the range early"
+  ],
+  "contacts_count": 0,
+  "content_hash": "30981cafbba4",
+  "date_quality": "exact",
+  "deadline": null,
+  "employment": "full-time",
+  "first_seen": "2026-10-23T14:44:10Z",
+  "fit": 57,
+  "has_hiring_manager": false,
+  "has_named_contact": false,
+  "has_public_email": false,
+  "id": "74668e98b83dfd",
+  "include_reason": "Automation-heavy QA (SDET)",
+  "india": {
+    "cities": [
+      "Bengaluru"
+    ],
+    "company": "yes",
+    "reason": "Location lists India",
+    "status": "confirmed",
+    "visa": false
+  },
+  "kind": "automation",
+  "last_verified": "2026-10-23T14:44:10Z",
+  "location": "Bangalore, India",
+  "logo": null,
+  "needs_review": false,
+  "official": false,
+  "posted_at": "2026-10-22T10:06:46Z",
+  "repost": false,
+  "requirements": [],
+  "responsibilities": [],
+  "salary": {
+    "state": "unavailable"
+  },
+  "scores": {
+    "ai": 58,
+    "comp": 60,
+    "company": 66,
+    "location": 60,
+    "seniority": 94,
+    "skill": 24
+  },
+  "seniority": "unspecified",
+  "snippet": "Experience: 3 to 7 Yrs\nSkills: QA automation, quality engineering, AI system testing, Rest Assured, Playwright, endtoend testing, Codex, ChatGPT Enterprise, GitHub Copilot, automated test generation tools\n(Summary from the Shine.com listing; open the posting for the full description.)",
+  "source_primary": "Shine.com",
+  "sources": [
+    {
+      "id": "shine",
+      "job_id": "19885877",
+      "kind": "board",
+      "name": "Shine.com",
+      "posted_at": "2026-10-22T10:06:46Z",
+      "seen_at": "2026-10-23T14:44:10Z",
+      "url": "https://www.shine.com/jobs/qa-engineer-agentic-ai-testing-playwright-automation-bengaluru/nubes/19885877"
+    }
+  ],
+  "specializations": [],
+  "status": "active",
+  "tier": 3,
+  "title": "QA Engineer-Agentic AI Testing& Playwright Automation (Bengaluru)",
+  "tools": [
+    "API testing",
+    "Test automation"
+  ],
+  "track": "software",
+  "updated_at": null,
+  "url": "https://www.shine.com/jobs/qa-engineer-agentic-ai-testing-playwright-automation-bengaluru/nubes/19885877",
+  "why": [
+    "Asks for 3+ years — you have about 2.5",
+    "Location lists India"
+  ],
+  "work_mode": "onsite",
+  "years_max": 7,
+  "years_min": 3
+}

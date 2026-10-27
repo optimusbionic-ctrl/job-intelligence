@@ -1,0 +1,30 @@
+{
+  "category": "Product / SaaS",
+  "classification": "Inferred from job description",
+  "india_hiring": {
+    "board": null,
+    "changed_at": "2026-10-19T13:24:59Z",
+    "evidence": [
+      {
+        "detail": "Quality Assurance Engineer — India",
+        "kind": "posting",
+        "label": "A current posting lists India as a location",
+        "url": "https://himalayas.app/companies/learntastic/jobs/quality-assurance-engineer-8896676299?utm_source=api",
+        "weight": 5
+      }
+    ],
+    "first_checked_at": "2026-10-19T13:24:59Z",
+    "india_based": false,
+    "method": "Careers board, posting text",
+    "sig": "7a0f4e4a25",
+    "summary": "A current posting lists India as a location.",
+    "verdict": "yes"
+  },
+  "inferred": true,
+  "name": "Learntastic",
+  "slug": "learntastic",
+  "tier": 1,
+  "tracks": [
+    "software"
+  ]
+}

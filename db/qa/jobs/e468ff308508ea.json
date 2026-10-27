@@ -1,0 +1,112 @@
+{
+  "apply_url": null,
+  "board_apply": "https://himalayas.app/companies/transperfect/jobs/qa-automation-engineer?utm_source=api",
+  "category": "Other",
+  "comp_potential": "unknown",
+  "company": "TransPerfect",
+  "company_slug": "transperfect",
+  "concerns": [
+    "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
+    "Also asks for: Test management (TestRail/Zephyr), API testing, SQL / databases",
+    "Pay not disclosed — ask for the range early",
+    "Contract role"
+  ],
+  "contacts_count": 0,
+  "content_hash": "7a9c9caa5401",
+  "date_quality": "exact",
+  "deadline": "2026-12-18T16:49:07Z",
+  "employment": "contract",
+  "first_seen": "2026-10-19T17:44:21Z",
+  "fit": 72,
+  "has_hiring_manager": false,
+  "has_named_contact": false,
+  "has_public_email": false,
+  "id": "e468ff308508ea",
+  "include_reason": "Automation-heavy QA (SDET)",
+  "india": {
+    "cities": [],
+    "company": "yes",
+    "reason": "Worldwide remote",
+    "status": "likely",
+    "visa": false
+  },
+  "kind": "automation",
+  "last_verified": "2026-10-19T17:44:21Z",
+  "location": "Worldwide",
+  "logo": "https://cdn-images.himalayas.app/ajo5i9rif4b5o85fv5k9mcd8pr0p",
+  "needs_review": false,
+  "official": false,
+  "posted_at": "2026-10-19T16:49:07Z",
+  "repost": false,
+  "requirements": [
+    "Professional experience in software quality assurance for enterprise-level applications",
+    "Proficient with test automation frameworks (e.g. Selenium, Playwright, Cypress)",
+    "Expertise in API testing using tools like Postman or REST",
+    "Experience with responsive and native mobile application testing (iOS and Android)",
+    "Familiarity with test management tools (e.g. Jira, Azure DevOps, ALM) for planning and tracking"
+  ],
+  "responsibilities": [
+    "Perform thorough manual testing (functional, regression and smoke) and accurately document test results and test coverage metrics",
+    "Design, develop, and maintain robust, scalable automated test scripts using industry-standard tools and frameworks",
+    "Accurately identify, log, prioritize, and track defects to provide clear and concise reports to the development team",
+    "Work closely and proactively with development, product, and business teams to understand requirements and embed quality practices throughout the SDLC"
+  ],
+  "salary": {
+    "context_benchmark": "qa-dataset-remote",
+    "state": "unavailable"
+  },
+  "scores": {
+    "ai": 74,
+    "comp": 60,
+    "company": 66,
+    "location": 86,
+    "seniority": 84,
+    "skill": 62
+  },
+  "seniority": "unspecified",
+  "snippet": "At Avatria, we specialize in bringing world-class Digital Commerce and Content solutions to our customers. We are sharp, hands-on technologists with a genuine love for all things digital. We’ve got an eye on the future — working to truly move this industry forward with creative and innovative solutions. More than that, we're committed to a fresh and friendly approach to business, one that focuses on doing the right t",
+  "source_primary": "Himalayas",
+  "sources": [
+    {
+      "id": "himalayas",
+      "job_id": "https://himalayas.app/companies/transperfect/jobs/qa-automation-engineer",
+      "kind": "board",
+      "name": "Himalayas",
+      "posted_at": "2026-10-19T16:49:07Z",
+      "seen_at": "2026-10-19T17:44:21Z",
+      "url": "https://himalayas.app/companies/transperfect/jobs/qa-automation-engineer?utm_source=api"
+    }
+  ],
+  "specializations": [
+    "Android",
+    "iOS",
+    "Mobile apps"
+  ],
+  "status": "active",
+  "tier": 3,
+  "title": "QA Automation Engineer",
+  "tools": [
+    "Regression testing",
+    "Test cases & scenarios",
+    "Bug reporting",
+    "Jira",
+    "Google Sheets / Excel",
+    "Test management (TestRail/Zephyr)",
+    "API testing",
+    "SQL / databases",
+    "Test automation",
+    "Agile / Scrum"
+  ],
+  "track": "software",
+  "updated_at": null,
+  "url": "https://himalayas.app/companies/transperfect/jobs/qa-automation-engineer?utm_source=api",
+  "why": [
+    "Already on your resume: Regression testing, Test cases & scenarios, Bug reporting, Jira, Google Sheets / Excel",
+    "Platforms you test on: Android, iOS, Mobile apps",
+    "Worldwide remote",
+    "TransPerfect already hires people in India"
+  ],
+  "work_mode": "remote",
+  "years_max": null,
+  "years_min": null
+}

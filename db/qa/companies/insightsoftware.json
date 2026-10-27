@@ -1,0 +1,31 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-27T10:50:24Z",
+  "evidence": [
+   {
+    "detail": "Software Development Engineer in Test — India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://himalayas.app/companies/insightsoftware/jobs/software-development-engineer-in-test?utm_source=api",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-10-27T10:50:24Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "3c523d0a3e",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "logo": "https://cdn-images.himalayas.app/n2uxlohlk0nknik80ym1e7bdckgk",
+ "name": "insightsoftware",
+ "slug": "insightsoftware",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}

@@ -1,0 +1,30 @@
+{
+  "category": "Other",
+  "classification": "Inferred from job description",
+  "india_hiring": {
+    "board": null,
+    "changed_at": "2026-10-20T20:44:02Z",
+    "evidence": [
+      {
+        "detail": "Walk-in || Software Tester — Navi Mumbai, India",
+        "kind": "posting",
+        "label": "A current posting lists India as a location",
+        "url": "https://www.shine.com/jobs/walk-in-software-tester/osource-india/19777158",
+        "weight": 5
+      }
+    ],
+    "first_checked_at": "2026-10-20T20:44:02Z",
+    "india_based": false,
+    "method": "Careers board, posting text",
+    "sig": "633c63d6c4",
+    "summary": "A current posting lists India as a location.",
+    "verdict": "yes"
+  },
+  "inferred": true,
+  "name": "Osource India",
+  "slug": "osource-india",
+  "tier": 3,
+  "tracks": [
+    "software"
+  ]
+}

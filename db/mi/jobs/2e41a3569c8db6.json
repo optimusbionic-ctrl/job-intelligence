@@ -1,0 +1,77 @@
+{
+  "apply_url": "https://jobs.lever.co/vacancies/b4f9c222-f854-402a-9511-1a8a66390eb0",
+  "board_apply": null,
+  "category": "Other",
+  "comp_potential": "unknown",
+  "company": "United Tech",
+  "company_slug": "united-tech",
+  "concerns": [
+    "Employer has not confirmed hiring from India",
+    "Compensation not disclosed"
+  ],
+  "contacts_count": 0,
+  "content_hash": "bf485e1e79ec",
+  "date_quality": "unknown",
+  "deadline": null,
+  "employment": "full-time",
+  "first_seen": "2026-10-15T15:39:48Z",
+  "fit": 46,
+  "has_hiring_manager": false,
+  "has_named_contact": false,
+  "has_public_email": false,
+  "id": "2e41a3569c8db6",
+  "include_reason": "Motion design title",
+  "india": {
+    "cities": [],
+    "reason": "Location not stated",
+    "status": "unconfirmed",
+    "visa": false
+  },
+  "kind": "motion",
+  "last_verified": "2026-10-15T15:39:48Z",
+  "location": "",
+  "logo": null,
+  "needs_review": false,
+  "official": true,
+  "posted_at": null,
+  "repost": false,
+  "requirements": [],
+  "responsibilities": [],
+  "salary": {
+    "state": "unavailable"
+  },
+  "scores": {
+    "ai": 30,
+    "comp": 48,
+    "company": 40,
+    "location": 38,
+    "seniority": 66,
+    "skill": 47
+  },
+  "seniority": "unspecified",
+  "snippet": "Founded in Ukraine, scaling worldwide. We are looking for a Marketing Motion Designer.",
+  "source_primary": "Lever (via search index)",
+  "sources": [
+    {
+      "id": "lever",
+      "job_id": "https://jobs.lever.co/vacancies/b4f9c222-f854-402a-9511-1a8a66390eb0",
+      "kind": "search",
+      "name": "Lever (via search index)",
+      "posted_at": null,
+      "seen_at": "2026-10-15T15:39:48Z",
+      "url": "https://jobs.lever.co/vacancies/b4f9c222-f854-402a-9511-1a8a66390eb0"
+    }
+  ],
+  "specializations": [],
+  "status": "verified",
+  "tier": 3,
+  "title": "Marketing Motion Designer",
+  "tools": [],
+  "updated_at": null,
+  "url": "https://jobs.lever.co/vacancies/b4f9c222-f854-402a-9511-1a8a66390eb0",
+  "why": [
+    "Core motion design role"
+  ],
+  "work_mode": "unspecified",
+  "years_min": null
+}

@@ -1,0 +1,85 @@
+{
+  "apply_url": null,
+  "board_apply": "https://www.shine.com/jobs/game-tester-entry-level-work-from-home-no-e/remotepromsp/19484736",
+  "category": "Game studio",
+  "comp_potential": "unknown",
+  "company": "remotepromsp",
+  "company_slug": "remotepromsp",
+  "concerns": [
+    "Generic work-from-home listing from an unverified poster — check the employer independently, and never pay a fee to apply",
+    "Entry-level role — pay may be at the lower end",
+    "Office outside Mumbai — relocation within India",
+    "Pay not disclosed — ask for the range early"
+  ],
+  "contacts_count": 0,
+  "content_hash": "805265d09783",
+  "date_quality": "exact",
+  "deadline": null,
+  "employment": "full-time",
+  "first_seen": "2026-10-19T13:24:59Z",
+  "fit": 73,
+  "has_hiring_manager": false,
+  "has_named_contact": false,
+  "has_public_email": false,
+  "id": "0d66dca4279b8c",
+  "include_reason": "Game tester title",
+  "india": {
+    "cities": [],
+    "company": "yes",
+    "reason": "Location lists India",
+    "status": "confirmed",
+    "visa": false
+  },
+  "kind": "game-tester",
+  "last_verified": "2026-10-19T13:24:59Z",
+  "location": "All India",
+  "logo": null,
+  "needs_review": false,
+  "official": false,
+  "posted_at": "2026-08-20T23:05:24Z",
+  "repost": false,
+  "requirements": [],
+  "responsibilities": [],
+  "salary": {
+    "state": "unavailable"
+  },
+  "scores": {
+    "ai": 58,
+    "comp": 60,
+    "company": 96,
+    "location": 80,
+    "seniority": 100,
+    "skill": 50
+  },
+  "seniority": "junior",
+  "snippet": "Experience: 0 to 4 Yrs\nSkills: written communication, verbal communication, analytical skills, time management, computer literacy, attention to detail, observational skills, problemsolving, passion for video games\n(Summary from the Shine.com listing; open the posting for the full description.)",
+  "source_primary": "Shine.com",
+  "sources": [
+    {
+      "id": "shine",
+      "job_id": "19484736",
+      "kind": "board",
+      "name": "Shine.com",
+      "posted_at": "2026-08-20T23:05:24Z",
+      "seen_at": "2026-10-19T13:24:59Z",
+      "url": "https://www.shine.com/jobs/game-tester-entry-level-work-from-home-no-e/remotepromsp/19484736"
+    }
+  ],
+  "specializations": [],
+  "status": "active",
+  "tier": 1,
+  "title": "Game Tester  Entry Level (Work From Home, No E...",
+  "tools": [],
+  "track": "game",
+  "updated_at": null,
+  "url": "https://www.shine.com/jobs/game-tester-entry-level-work-from-home-no-e/remotepromsp/19484736",
+  "why": [
+    "Game tester role — matches your game QA work at Webmobril and Golden Horde",
+    "Game studio company",
+    "Asks for 0–4 years — you have about 2.5",
+    "Location lists India"
+  ],
+  "work_mode": "onsite",
+  "years_max": 4,
+  "years_min": 0
+}

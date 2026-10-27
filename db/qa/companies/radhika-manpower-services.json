@@ -1,0 +1,30 @@
+{
+  "category": "Recruiter (client not named)",
+  "classification": "Inferred from job description",
+  "india_hiring": {
+    "board": null,
+    "changed_at": "2026-10-20T20:44:02Z",
+    "evidence": [
+      {
+        "detail": "Automation Software Tester — Mumbai City, India",
+        "kind": "posting",
+        "label": "A current posting lists India as a location",
+        "url": "https://www.shine.com/jobs/automation-software-tester/radhika-manpower-services/19503116",
+        "weight": 5
+      }
+    ],
+    "first_checked_at": "2026-10-20T20:44:02Z",
+    "india_based": false,
+    "method": "Careers board, posting text",
+    "sig": "e44eafa4c1",
+    "summary": "A current posting lists India as a location.",
+    "verdict": "yes"
+  },
+  "inferred": true,
+  "name": "Radhika Manpower Services",
+  "slug": "radhika-manpower-services",
+  "tier": 3,
+  "tracks": [
+    "software"
+  ]
+}

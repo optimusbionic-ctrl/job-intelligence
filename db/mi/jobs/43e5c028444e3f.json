@@ -1,0 +1,80 @@
+{
+  "apply_url": null,
+  "board_apply": "https://jobs.motionographer.com/jobs/609434152-freelance-motion-designer-cinematic-documentary-adventure-youtube-series-at-documentary-series",
+  "category": "Other",
+  "comp_potential": "unknown",
+  "company": "Documentary Series",
+  "company_slug": "documentary-series",
+  "concerns": [
+    "Compensation not disclosed"
+  ],
+  "contacts_count": 0,
+  "content_hash": "a9bfa8e38f45",
+  "date_quality": "exact",
+  "deadline": null,
+  "employment": "full-time",
+  "first_seen": "2026-10-15T15:27:11Z",
+  "fit": 51,
+  "has_hiring_manager": false,
+  "has_named_contact": false,
+  "has_public_email": false,
+  "id": "43e5c028444e3f",
+  "include_reason": "Motion design title",
+  "india": {
+    "cities": [],
+    "company": "likely",
+    "reason": "Worldwide remote",
+    "status": "likely",
+    "visa": false
+  },
+  "kind": "motion",
+  "last_verified": "2026-10-15T18:30:15Z",
+  "location": "Anywhere",
+  "logo": null,
+  "needs_review": false,
+  "official": false,
+  "posted_at": "2026-09-27T20:36:00Z",
+  "repost": false,
+  "requirements": [],
+  "responsibilities": [],
+  "salary": {
+    "context_benchmark": "mi-dataset-remote",
+    "note": "Not disclosed. Global remote pay context is available, but there is no evidence it applies to this employer or to India-based hires.",
+    "state": "unavailable"
+  },
+  "scores": {
+    "ai": 30,
+    "comp": 48,
+    "company": 40,
+    "location": 92,
+    "seniority": 66,
+    "skill": 47
+  },
+  "seniority": "unspecified",
+  "snippet": "I'm building a cinematic documentary YouTube series following my journey climbing the world's highest mountains. I've already climbed several of the 14...",
+  "source_primary": "Motionographer Jobs",
+  "sources": [
+    {
+      "id": "motionographer",
+      "job_id": "https://jobs.motionographer.com/jobs/609434152-freelance-motion-designer-cinematic-documentary-adventure-youtube-series-at-documentary-series",
+      "kind": "board",
+      "name": "Motionographer Jobs",
+      "posted_at": "2026-09-27T20:36:00Z",
+      "seen_at": "2026-10-15T18:30:15Z",
+      "url": "https://jobs.motionographer.com/jobs/609434152-freelance-motion-designer-cinematic-documentary-adventure-youtube-series-at-documentary-series"
+    }
+  ],
+  "specializations": [],
+  "status": "active",
+  "tier": 3,
+  "title": "Freelance Motion Designer - Cinematic Documentary / Adventure YouTube Series",
+  "tools": [],
+  "updated_at": null,
+  "url": "https://jobs.motionographer.com/jobs/609434152-freelance-motion-designer-cinematic-documentary-adventure-youtube-series-at-documentary-series",
+  "why": [
+    "Core motion design role",
+    "Worldwide remote"
+  ],
+  "work_mode": "remote",
+  "years_min": null
+}

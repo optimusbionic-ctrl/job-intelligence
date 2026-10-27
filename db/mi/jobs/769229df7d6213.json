@@ -1,0 +1,113 @@
+{
+  "apply_url": null,
+  "board_apply": "https://himalayas.app/companies/seez/jobs/motion-designer-video-editor-contract?utm_source=api",
+  "category": "SaaS",
+  "comp_potential": "unknown",
+  "company": "Seez",
+  "company_slug": "seez",
+  "concerns": [
+    "Compensation not disclosed",
+    "Contract role",
+    "Also asks for: Blender"
+  ],
+  "contacts_count": 0,
+  "content_hash": "4aaa9db07445",
+  "date_quality": "exact",
+  "deadline": "2026-12-07T05:44:52Z",
+  "employment": "contract",
+  "first_seen": "2026-10-15T15:27:11Z",
+  "fit": 75,
+  "has_hiring_manager": false,
+  "has_named_contact": false,
+  "has_public_email": false,
+  "id": "769229df7d6213",
+  "include_reason": "Motion title with video scope",
+  "india": {
+    "cities": [],
+    "company": "likely",
+    "reason": "Worldwide remote",
+    "status": "likely",
+    "visa": false
+  },
+  "kind": "video-motion",
+  "last_verified": "2026-10-18T22:27:20Z",
+  "location": "Worldwide",
+  "logo": "https://cdn-images.himalayas.app/v6tfjnqbdmevkwweaa983cgm0ijg",
+  "needs_review": false,
+  "official": false,
+  "posted_at": "2026-10-08T05:44:52Z",
+  "repost": false,
+  "requirements": [
+    "Strong understanding of animation principles, motion design, and video editing.",
+    "Proficiency in tools such as After Effects, Premiere Pro, Photoshop, Illustrator, or similar.",
+    "Experience creating motion graphics for digital platforms (social, web, app, marketing).",
+    "A portfolio demonstrating motion and video work with strong storytelling and design sense.",
+    "Ability to manage multiple projects and meet deadlines in a fast-paced environment."
+  ],
+  "responsibilities": [
+    "Concept & Storyboarding: Translate creative briefs into storyboards, motion concepts, and animation ideas that align with brand tone and campaign goals.",
+    "Motion & Animation: Design and animate 2D/3D graphics, transitions, and sequences for videos, UI animations, and marketing materials.",
+    "Video Editing: Edit raw footage into polished videos - incorporating sound, motion graphics, and effects where needed.",
+    "Brand Storytelling: Ensure all motion work aligns with Seez ’s visual identity and contributes to a cohesive, premium brand experience.",
+    "Cross-Functional Collaboration: Work with designers, and marketers to craft compelling visual narratives for campaigns, product launches, and internal presentations.",
+    "Asset Management: Organize, export, and deliver motion and video assets in various formats optimized for digital channels (web, mobile, social).",
+    "Iterate & Improve: Apply feedback, refine animations, and explore creative ways to enhance engagement through motion."
+  ],
+  "salary": {
+    "context_benchmark": "mi-dataset-remote",
+    "note": "Not disclosed. Global remote pay context is available, but there is no evidence it applies to this employer or to India-based hires.",
+    "state": "unavailable"
+  },
+  "scores": {
+    "ai": 44,
+    "comp": 48,
+    "company": 98,
+    "location": 92,
+    "seniority": 66,
+    "skill": 81
+  },
+  "seniority": "unspecified",
+  "snippet": "general information\n Seez is transforming the car-buying experience with cutting-edge e-commerce technology. Our data-driven platform streamlines every step of the vehicle purchase and sale process, offering consumers a seamless experience with extensive vehicle selection, transparent pricing, competitive financing, and contact-free at-home delivery. As we scale rapidly, we are looking for passionate individuals to j",
+  "source_primary": "Himalayas",
+  "sources": [
+    {
+      "id": "himalayas",
+      "job_id": "https://himalayas.app/companies/seez/jobs/motion-designer-video-editor-contract",
+      "kind": "board",
+      "name": "Himalayas",
+      "posted_at": "2026-10-08T05:44:52Z",
+      "seen_at": "2026-10-18T22:27:20Z",
+      "url": "https://himalayas.app/companies/seez/jobs/motion-designer-video-editor-contract?utm_source=api"
+    }
+  ],
+  "specializations": [
+    "Product motion",
+    "UI/UX animation",
+    "Product films",
+    "3D motion",
+    "Interaction systems",
+    "Technical storytelling"
+  ],
+  "status": "active",
+  "tier": 1,
+  "title": "Motion Designer / Video Editor (Contract)",
+  "tools": [
+    "After Effects",
+    "Cinema 4D",
+    "Figma",
+    "Blender",
+    "Premiere Pro",
+    "Illustrator",
+    "Photoshop"
+  ],
+  "updated_at": null,
+  "url": "https://himalayas.app/companies/seez/jobs/motion-designer-video-editor-contract?utm_source=api",
+  "why": [
+    "Tools you already use: After Effects, Cinema 4D, Figma, Premiere Pro, Illustrator",
+    "Specialisations in scope: Product motion, UI/UX animation, Product films, 3D motion",
+    "SaaS company (Tier 1 priority)",
+    "Worldwide remote"
+  ],
+  "work_mode": "remote",
+  "years_min": null
+}

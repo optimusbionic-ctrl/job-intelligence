@@ -1,0 +1,30 @@
+{
+  "category": "Other",
+  "classification": "Inferred from job description",
+  "india_hiring": {
+    "board": null,
+    "changed_at": "2026-10-19T15:45:44Z",
+    "evidence": [
+      {
+        "detail": "QA Engineer, Software (Slot Game Exp Mandate) — Bengaluru, India",
+        "kind": "posting",
+        "label": "A current posting lists India as a location",
+        "url": "https://builtinbengaluru.in/job/qa-engineer-software-slot-game-exp-mandate/8740656",
+        "weight": 5
+      }
+    ],
+    "first_checked_at": "2026-10-19T15:45:44Z",
+    "india_based": false,
+    "method": "Careers board, posting text",
+    "sig": "9e9d7f53eb",
+    "summary": "A current posting lists India as a location.",
+    "verdict": "yes"
+  },
+  "inferred": true,
+  "name": "SciPlay",
+  "slug": "sciplay",
+  "tier": 3,
+  "tracks": [
+    "game"
+  ]
+}

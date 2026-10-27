@@ -1,0 +1,67 @@
+{
+  "category": "Other",
+  "classification": "Inferred from job description",
+  "india_hiring": {
+    "board": null,
+    "changed_at": "2026-10-22T21:44:47Z",
+    "evidence": [
+      {
+        "detail": "QA Engineer – Creative Automation (100% Remote) (LATAM ONLY) — Worldwide",
+        "kind": "posting",
+        "label": "A current posting is open worldwide",
+        "url": "https://himalayas.app/companies/allshore-talent/jobs/qa-engineer-creative-automation-100-remote-latam-only?utm_source=api",
+        "weight": 3
+      }
+    ],
+    "first_checked_at": "2026-10-22T21:44:47Z",
+    "india_based": false,
+    "method": "Careers board, posting text, web search",
+    "sig": "d2140fc017",
+    "summary": "No India-located roles found, but a current posting is open worldwide.",
+    "verdict": "likely",
+    "web": {
+      "checked_at": "2026-10-22T22:44:03Z",
+      "query": "\"Allshore Talent\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
+      "results": [
+        {
+          "description": "",
+          "title": "www.g2.com",
+          "url": "https://www.g2.com/products/remote-recruit/discuss"
+        },
+        {
+          "description": "",
+          "title": "El poder del ‘allshore’: conectando talento global para impulsar la innovación en las organizaciones",
+          "url": "https://spanish.entrepreneur.com/?p=384"
+        },
+        {
+          "description": "",
+          "title": "allshore talent",
+          "url": "https://zerotaxjobs.com/companies/allshore-talent"
+        },
+        {
+          "description": "",
+          "title": "Working Remotely Without an Employer of Record in India 2025",
+          "url": "https://ins-globalconsulting.com/?p=80019"
+        },
+        {
+          "description": "",
+          "title": "India leads the pack in global remote hiring for international workers in the Asia/Pacific Region",
+          "url": "https://cxotoday.com/media-coverage/india-leads-the-pack-in-global-remote-hiring-for-international-workers-in-the-asia-pacific-region/"
+        },
+        {
+          "description": "",
+          "title": "Allshore Virtual Staffing logo",
+          "url": "https://pk.indeed.com/cmp/Allshore-Virtual-Staffing"
+        }
+      ]
+    }
+  },
+  "inferred": true,
+  "logo": "https://cdn-images.himalayas.app/65ypwkvdtxdabxkk90yvvy1x916k",
+  "name": "Allshore Talent",
+  "slug": "allshore-talent",
+  "tier": 3,
+  "tracks": [
+    "software"
+  ]
+}

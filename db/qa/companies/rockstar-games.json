@@ -1,0 +1,72 @@
+{
+ "aliases": [
+  "Rockstar Games"
+ ],
+ "ats": {
+  "slug": "rockstargames",
+  "type": "greenhouse"
+ },
+ "careers": "https://job-boards.greenhouse.io/rockstargames",
+ "category": "Game studio",
+ "classification": "QA Intelligence registry (curated)",
+ "domain": "rockstargames.com",
+ "facts_note": "Category from public company information; funding not verified",
+ "hq": "New York, US",
+ "india_hiring": {
+  "board": {
+   "apac": 0,
+   "countries": [
+    "United States",
+    "United Kingdom",
+    "Australia",
+    "Canada",
+    "India"
+   ],
+   "india": 2,
+   "india_samples": [
+    {
+     "location": "Bengaluru, Karnataka, India",
+     "title": "Security Compliance Operations Lead",
+     "url": "https://job-boards.greenhouse.io/rockstargames/jobs/7862721003"
+    },
+    {
+     "location": "Bengaluru, Karnataka, India",
+     "title": "Security GRC Analyst ",
+     "url": "https://job-boards.greenhouse.io/rockstargames/jobs/7827686003"
+    }
+   ],
+   "open_samples": [],
+   "remote": 0,
+   "restricted_remote": 0,
+   "restricted_samples": [],
+   "slug": "rockstargames",
+   "total": 24,
+   "type": "greenhouse",
+   "url": "https://boards.greenhouse.io/rockstargames",
+   "worldwide": 0
+  },
+  "changed_at": "2026-10-27T10:50:24Z",
+  "evidence": [
+   {
+    "detail": "Security Compliance Operations Lead (Bengaluru, Karnataka, India); Security GRC Analyst  (Bengaluru, Karnataka, India)",
+    "kind": "board",
+    "label": "2 of 24 open roles are located in India",
+    "url": "https://boards.greenhouse.io/rockstargames",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-10-19T15:45:44Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "85867792cc",
+  "summary": "2 of 24 open roles are located in India.",
+  "verdict": "yes"
+ },
+ "name": "Rockstar Games",
+ "slug": "rockstar-games",
+ "tier": 1,
+ "tracks": [
+  "game",
+  "software"
+ ]
+}

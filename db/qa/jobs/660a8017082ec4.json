@@ -1,0 +1,100 @@
+{
+  "apply_url": null,
+  "board_apply": "https://jobs.workable.com/view/q8ts9h6BYt5Y5DTHHGAPte/robotics-software-engineer---ii-(qa)-in-bengaluru-at-botsync",
+  "category": "Other",
+  "comp_potential": "unknown",
+  "company": "Botsync",
+  "company_slug": "botsync",
+  "concerns": [
+    "Mentions test automation — be ready to discuss it or show a small script",
+    "Also asks for: Programming",
+    "Office outside Mumbai — relocation within India",
+    "Pay not disclosed — ask for the range early"
+  ],
+  "contacts_count": 0,
+  "content_hash": "f42b825c5b62",
+  "date_quality": "exact",
+  "deadline": null,
+  "employment": "full-time",
+  "first_seen": "2026-10-19T13:24:59Z",
+  "fit": 71,
+  "has_hiring_manager": false,
+  "has_named_contact": false,
+  "has_public_email": false,
+  "id": "660a8017082ec4",
+  "include_reason": "QA / test engineer title",
+  "india": {
+    "cities": [
+      "Bengaluru"
+    ],
+    "company": "yes",
+    "reason": "Location lists India",
+    "status": "confirmed",
+    "visa": false
+  },
+  "kind": "qa-engineer",
+  "last_verified": "2026-10-19T13:24:59Z",
+  "location": "Bengaluru, Karnataka, India",
+  "logo": "https://workablehr.s3.amazonaws.com/uploads/account/logo/733253/logo",
+  "needs_review": false,
+  "official": false,
+  "posted_at": "2026-09-19T03:36:08Z",
+  "repost": false,
+  "requirements": [],
+  "responsibilities": [
+    "Build and own the test infrastructure that makes AMR acceptance testing repeatable across every MAG variant and hardware generation.",
+    "Run the released Botsync Artifact through independent, full-stack hardware-and-software verification before sign-off - commissioning-grade rigor applied in the lab, before it ever reaches a site.",
+    "Test infrastructure, end to end - Design, build, and maintain HIL rigs and physical test fixtures spanning every MAG AMR variant (lifter, forklift, counterbalance, conveyor, tugger) and hardware generation (R2/R3/new), so acceptance runs are repeatable, not improvised per release.",
+    "Deployment-profile automation - Build and own the automation that runs deployment-profile gates per site/variant/generation against the release candidate, replacing manual bench-testing with a repeatable regression pass.",
+    "Full-stack acceptance testing - Run the released candidate through hardware-level acceptance tests before sign-off, exercising hardware, firmware, and software together the way a commissioning engineer would on a live site - not layer by layer in isolation.",
+    "Independent verification, not build - Test and certify robot behavior across variants and generations without owning or patching the production robot software or hardware under test; defects go back to the owning Robotics team, never fixed in place.",
+    "Defect triage and traceability - Log, reproduce, and route hardware-surfaced defects to the correct Robotics or SyncOS team with enough rig data, logs, and repro steps to unblock a fix without back-and-forth."
+  ],
+  "salary": {
+    "state": "unavailable"
+  },
+  "scores": {
+    "ai": 58,
+    "comp": 60,
+    "company": 66,
+    "location": 60,
+    "seniority": 92,
+    "skill": 72
+  },
+  "seniority": "mid",
+  "snippet": "We started as roboticists ourselves. We know the pain of fragmented, proprietary systems that refuse to talk to each other. syncOS is our answer — and we believe it's what the industry has been waiting for. We are a young, passionate team chasing one big mission: #automateasia. If you love robots, hate inefficiency, and want to build solutions that run on real factory floors — read on. \n\nThe roles and responsibilitie",
+  "source_primary": "Workable job marketplace",
+  "sources": [
+    {
+      "id": "workable",
+      "job_id": "c366738b-7d0a-47cd-9056-0919aed8fef7",
+      "kind": "board",
+      "name": "Workable job marketplace",
+      "posted_at": "2026-09-19T03:36:08Z",
+      "seen_at": "2026-10-19T13:24:59Z",
+      "url": "https://jobs.workable.com/view/q8ts9h6BYt5Y5DTHHGAPte/robotics-software-engineer---ii-(qa)-in-bengaluru-at-botsync"
+    }
+  ],
+  "specializations": [],
+  "status": "active",
+  "tier": 3,
+  "title": "Robotics Software Engineer - II (QA)",
+  "tools": [
+    "Regression testing",
+    "Test cases & scenarios",
+    "Bug reporting",
+    "Test automation",
+    "Programming"
+  ],
+  "track": "software",
+  "updated_at": null,
+  "url": "https://jobs.workable.com/view/q8ts9h6BYt5Y5DTHHGAPte/robotics-software-engineer---ii-(qa)-in-bengaluru-at-botsync",
+  "why": [
+    "QA / test engineer role",
+    "Already on your resume: Regression testing, Test cases & scenarios, Bug reporting",
+    "Location lists India"
+  ],
+  "work_mode": "onsite",
+  "years_max": 6,
+  "years_min": null
+}

@@ -1,0 +1,58 @@
+{
+  "category": "Other",
+  "classification": "Inferred from job description",
+  "india_hiring": {
+    "board": null,
+    "changed_at": "2026-10-19T15:45:44Z",
+    "evidence": [],
+    "first_checked_at": "2026-10-19T15:45:44Z",
+    "india_based": false,
+    "method": "Careers board, posting text, web search",
+    "sig": "54391d7cdf",
+    "summary": "No public evidence yet about hiring from India.",
+    "verdict": "unclear",
+    "web": {
+      "checked_at": "2026-10-19T16:45:07Z",
+      "query": "\"Ubisoft\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
+      "results": [
+        {
+          "description": "",
+          "title": "Job Closed",
+          "url": "https://hitmarker.net/jobs/ubisoft-international-mobility-director-m-nb-w-358227"
+        },
+        {
+          "description": "",
+          "title": "WFH.teamOpen app",
+          "url": "https://wfh.team/companies/ubisoft"
+        },
+        {
+          "description": "",
+          "title": "Life at Ubisoft in India",
+          "url": "https://ubisoft.com/en-us/company/careers/locations/india/about-us"
+        },
+        {
+          "description": "",
+          "title": "Featured - IndiaFeatured PostsIndiaNews",
+          "url": "https://www.indianvideogamer.com/?p=33464"
+        },
+        {
+          "description": "",
+          "title": "Featured - IndiaFeatured PostsIndiaNews",
+          "url": "https://www.indianvideogamer.com/news/jobs-in-gaming-ubisoft-india-hiring-for-mumbai-pune-studios/33464"
+        },
+        {
+          "description": "",
+          "title": "about us",
+          "url": "https://companies.naukri.com/ubisoft-jobs/about-us"
+        }
+      ]
+    }
+  },
+  "inferred": true,
+  "name": "Ubisoft",
+  "slug": "ubisoft",
+  "tier": 3,
+  "tracks": [
+    "game"
+  ]
+}

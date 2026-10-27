@@ -1,0 +1,98 @@
+{
+  "ats": {
+    "slug": "remotepeople",
+    "type": "greenhouse"
+  },
+  "category": "Product / SaaS",
+  "classification": "Inferred from job description",
+  "india_hiring": {
+    "board": {
+      "apac": 4,
+      "countries": [
+        "China",
+        "Philippines"
+      ],
+      "india": 0,
+      "india_samples": [],
+      "open_samples": [
+        {
+          "location": "APAC or China (Remote)",
+          "title": "Full Stack Engineer (APAC)",
+          "url": "https://job-boards.eu.greenhouse.io/remotepeople/jobs/5011829101"
+        },
+        {
+          "location": "APAC (Remote)",
+          "title": "Headhunting Services Manager (APAC）   ",
+          "url": "https://job-boards.eu.greenhouse.io/remotepeople/jobs/4957549101"
+        },
+        {
+          "location": "APAC or China (Remote)",
+          "title": "Product Manager - Payroll",
+          "url": "https://job-boards.eu.greenhouse.io/remotepeople/jobs/4975169101"
+        },
+        {
+          "location": "APAC",
+          "title": "Sales Development Representative ",
+          "url": "https://job-boards.eu.greenhouse.io/remotepeople/jobs/4975025101"
+        }
+      ],
+      "remote": 11,
+      "restricted_remote": 2,
+      "restricted_samples": [
+        {
+          "location": "China (Remote)",
+          "title": "DevOps Engineer",
+          "url": "https://job-boards.eu.greenhouse.io/remotepeople/jobs/4964433101"
+        },
+        {
+          "location": "Remote - Philippines",
+          "title": "Payroll Specialist, EMEA ",
+          "url": "https://job-boards.eu.greenhouse.io/remotepeople/jobs/4995757101"
+        }
+      ],
+      "slug": "remotepeople",
+      "total": 17,
+      "type": "greenhouse",
+      "url": "https://boards.greenhouse.io/remotepeople",
+      "worldwide": 0
+    },
+    "changed_at": "2026-10-21T08:43:55Z",
+    "evidence": [
+      {
+        "detail": "Full Stack Engineer (APAC) (APAC or China (Remote)); Headhunting Services Manager (APAC）    (APAC (Remote)); Product Manager - Payroll (APAC or China (Remote))",
+        "kind": "board",
+        "label": "4 open roles are open worldwide or to APAC",
+        "url": "https://boards.greenhouse.io/remotepeople",
+        "weight": 3
+      },
+      {
+        "detail": "QA Automation Engineer — Worldwide",
+        "kind": "posting",
+        "label": "A current posting is open worldwide",
+        "url": "https://job-boards.eu.greenhouse.io/remotepeople/jobs/4965136101",
+        "weight": 3
+      },
+      {
+        "detail": "…ner, Front-End, Back-End and QA Engineers — building the world's best Employer of Record platform. We are a remote-first team spread across Asia and Europe, s…",
+        "kind": "posting",
+        "label": "Posting describes hiring across countries",
+        "url": "https://job-boards.eu.greenhouse.io/remotepeople/jobs/4965136101",
+        "weight": 3
+      }
+    ],
+    "first_checked_at": "2026-10-21T01:43:55Z",
+    "india_based": false,
+    "method": "Careers board, posting text",
+    "sig": "66c4ed76f7",
+    "summary": "No India-located roles found, but 4 open roles are open worldwide or to APAC.",
+    "verdict": "likely"
+  },
+  "inferred": true,
+  "logo": "https://cdn-images.himalayas.app/noex8fqze1yl9lhr6rby06ibn22y",
+  "name": "RemotePeople",
+  "slug": "remotepeople",
+  "tier": 1,
+  "tracks": [
+    "software"
+  ]
+}

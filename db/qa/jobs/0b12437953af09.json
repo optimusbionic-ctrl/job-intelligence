@@ -1,0 +1,91 @@
+{
+  "apply_url": null,
+  "board_apply": "https://www.shine.com/jobs/junior-software-tester/bliss-it-solution-and-innovation/19839465",
+  "category": "Other",
+  "comp_potential": "unknown",
+  "company": "bliss it solution and innovation",
+  "company_slug": "bliss-it-solution-and-innovation",
+  "concerns": [
+    "Also asks for: SQL / databases",
+    "Entry-level role — pay may be at the lower end",
+    "Pay not disclosed — ask for the range early"
+  ],
+  "contacts_count": 0,
+  "content_hash": "25dad8552551",
+  "date_quality": "exact",
+  "deadline": null,
+  "employment": "full-time",
+  "first_seen": "2026-10-19T13:24:59Z",
+  "fit": 85,
+  "has_hiring_manager": false,
+  "has_named_contact": false,
+  "has_public_email": false,
+  "id": "0b12437953af09",
+  "include_reason": "Manual / functional QA title",
+  "india": {
+    "cities": [
+      "Mumbai"
+    ],
+    "company": "yes",
+    "reason": "Location lists India",
+    "status": "confirmed",
+    "visa": false
+  },
+  "kind": "manual-qa",
+  "last_verified": "2026-10-19T13:24:59Z",
+  "location": "Mumbai City, India",
+  "logo": null,
+  "needs_review": false,
+  "official": false,
+  "posted_at": "2026-10-17T10:44:17Z",
+  "repost": false,
+  "requirements": [],
+  "responsibilities": [],
+  "salary": {
+    "state": "unavailable"
+  },
+  "scores": {
+    "ai": 58,
+    "comp": 60,
+    "company": 66,
+    "location": 100,
+    "seniority": 100,
+    "skill": 93
+  },
+  "seniority": "junior",
+  "snippet": "Experience: 0 to 4 Yrs\nSkills: manual testing, test case preparation, bug reporting, software quality assurance, SDLC, STLC, regression testing, SQL, Software Testing Fundamentals, problemsolving skills\n(Summary from the Shine.com listing; open the posting for the full description.)",
+  "source_primary": "Shine.com",
+  "sources": [
+    {
+      "id": "shine",
+      "job_id": "19839465",
+      "kind": "board",
+      "name": "Shine.com",
+      "posted_at": "2026-10-17T10:44:17Z",
+      "seen_at": "2026-10-19T13:24:59Z",
+      "url": "https://www.shine.com/jobs/junior-software-tester/bliss-it-solution-and-innovation/19839465"
+    }
+  ],
+  "specializations": [],
+  "status": "active",
+  "tier": 3,
+  "title": "Junior Software Tester",
+  "tools": [
+    "Regression testing",
+    "Test cases & scenarios",
+    "Bug reporting",
+    "SQL / databases"
+  ],
+  "track": "software",
+  "updated_at": null,
+  "url": "https://www.shine.com/jobs/junior-software-tester/bliss-it-solution-and-innovation/19839465",
+  "why": [
+    "Manual / functional QA — the core of your resume",
+    "Already on your resume: Regression testing, Test cases & scenarios, Bug reporting",
+    "Asks for 0–4 years — you have about 2.5",
+    "Location lists India"
+  ],
+  "work_mode": "onsite",
+  "years_max": 4,
+  "years_min": 0
+}

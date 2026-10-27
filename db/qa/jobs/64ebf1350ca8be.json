@@ -1,0 +1,109 @@
+{
+  "apply_url": null,
+  "board_apply": "https://jobs.workable.com/view/77jGBMd4sSJUMXYq3MHmyD/quality-assurance-engineer-in-hyderabad-at-weekday-ai",
+  "category": "Fintech",
+  "comp_potential": "unknown",
+  "company": "Weekday AI",
+  "company_slug": "weekday-ai",
+  "concerns": [
+    "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
+    "Also asks for: API testing",
+    "Office outside Mumbai — relocation within India",
+    "Pay not disclosed — ask for the range early"
+  ],
+  "contacts_count": 0,
+  "content_hash": "82472b819337",
+  "date_quality": "exact",
+  "deadline": null,
+  "employment": "full-time",
+  "first_seen": "2026-10-19T13:24:59Z",
+  "fit": 76,
+  "has_hiring_manager": false,
+  "has_named_contact": false,
+  "has_public_email": false,
+  "id": "64ebf1350ca8be",
+  "include_reason": "Automation-heavy QA (SDET)",
+  "india": {
+    "cities": [
+      "Hyderabad"
+    ],
+    "company": "yes",
+    "reason": "Location lists India",
+    "status": "confirmed",
+    "visa": false
+  },
+  "kind": "automation",
+  "last_verified": "2026-10-19T13:24:59Z",
+  "location": "Hyderabad, Telangana, India",
+  "logo": "https://workablehr.s3.amazonaws.com/uploads/account/logo/691818/logo",
+  "needs_review": false,
+  "official": false,
+  "posted_at": "2026-10-12T05:51:12Z",
+  "repost": false,
+  "requirements": [
+    "Risk-based and regression testing methodologies",
+    "Experience in API-first testing environments",
+    "Strong test documentation and traceability practices"
+  ],
+  "responsibilities": [
+    "1. Quality Strategy & Leadership",
+    "Own end-to-end QA strategy across B2B authentication systems and consumer applications",
+    "Define testing standards, release governance and risk-based testing frameworks",
+    "Establish automation-first QA practices",
+    "Create structured regression, performance and security testing pipelines",
+    "Collaborate with engineering and DevOps to ensure quality at every stage of the SDLC",
+    "Lead QA planning, risk assessment and production sign-offs"
+  ],
+  "salary": {
+    "state": "unavailable"
+  },
+  "scores": {
+    "ai": 68,
+    "comp": 60,
+    "company": 95,
+    "location": 60,
+    "seniority": 100,
+    "skill": 65
+  },
+  "seniority": "unspecified",
+  "snippet": "This role is for one of the Weekday's clients \n\n We are hiring a Quality Assurance Engineer to lead quality strategy, automation architecture, performance engineering and security validation for a digital authentication platform serving the banking sector, alongside a consumer-facing application.\n This role combines technical leadership, hands-on quality engineering, enterprise observability integration and complianc",
+  "source_primary": "Workable job marketplace",
+  "sources": [
+    {
+      "id": "workable",
+      "job_id": "3178d1ac-db42-4f94-b217-6203aed7e0ad",
+      "kind": "board",
+      "name": "Workable job marketplace",
+      "posted_at": "2026-10-12T05:51:12Z",
+      "seen_at": "2026-10-19T13:24:59Z",
+      "url": "https://jobs.workable.com/view/77jGBMd4sSJUMXYq3MHmyD/quality-assurance-engineer-in-hyderabad-at-weekday-ai"
+    }
+  ],
+  "specializations": [
+    "Web apps"
+  ],
+  "status": "active",
+  "tier": 1,
+  "title": "Quality Assurance Engineer",
+  "tools": [
+    "Regression testing",
+    "Compatibility testing",
+    "Stress / load testing",
+    "Test cases & scenarios",
+    "Bug reporting",
+    "API testing",
+    "Test automation"
+  ],
+  "track": "software",
+  "updated_at": null,
+  "url": "https://jobs.workable.com/view/77jGBMd4sSJUMXYq3MHmyD/quality-assurance-engineer-in-hyderabad-at-weekday-ai",
+  "why": [
+    "Already on your resume: Regression testing, Compatibility testing, Stress / load testing, Test cases & scenarios, Bug reporting",
+    "Fintech company",
+    "Asks for 2+ years — you have about 2.5",
+    "Location lists India"
+  ],
+  "work_mode": "onsite",
+  "years_max": null,
+  "years_min": 2
+}

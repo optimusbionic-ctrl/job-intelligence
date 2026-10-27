@@ -1,0 +1,91 @@
+{
+  "apply_url": null,
+  "board_apply": "https://www.shine.com/jobs/qa-automation-tester-financial-markets/scymes-services-pvt-limited/19909133",
+  "category": "Fintech",
+  "comp_potential": "unknown",
+  "company": "scymes services pvt limited",
+  "company_slug": "scymes-services-pvt-limited",
+  "concerns": [
+    "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
+    "Also asks for: Test management (TestRail/Zephyr)",
+    "Pay not disclosed — ask for the range early"
+  ],
+  "contacts_count": 0,
+  "content_hash": "9ef7e9104b11",
+  "date_quality": "exact",
+  "deadline": null,
+  "employment": "full-time",
+  "first_seen": "2026-10-24T02:43:25Z",
+  "fit": 72,
+  "has_hiring_manager": false,
+  "has_named_contact": false,
+  "has_public_email": false,
+  "id": "2e7cff85e66a9b",
+  "include_reason": "Automation-heavy QA (SDET)",
+  "india": {
+    "cities": [
+      "Mumbai"
+    ],
+    "company": "yes",
+    "reason": "Location lists India",
+    "status": "confirmed",
+    "visa": false
+  },
+  "kind": "automation",
+  "last_verified": "2026-10-24T02:43:25Z",
+  "location": "Mumbai City, India",
+  "logo": null,
+  "needs_review": false,
+  "official": false,
+  "posted_at": "2026-10-23T08:51:28Z",
+  "repost": false,
+  "requirements": [],
+  "responsibilities": [],
+  "salary": {
+    "state": "unavailable"
+  },
+  "scores": {
+    "ai": 58,
+    "comp": 60,
+    "company": 95,
+    "location": 100,
+    "seniority": 100,
+    "skill": 38
+  },
+  "seniority": "unspecified",
+  "snippet": "Experience: 0 to 4 Yrs\nSkills: QA Automation, test automation, financial services, Agile methodologies, defect management, Tricentis Tosca, Xray, trading data, capital markets testing, endtoend trading workflows\n(Summary from the Shine.com listing; open the posting for the full description.)",
+  "source_primary": "Shine.com",
+  "sources": [
+    {
+      "id": "shine",
+      "job_id": "19909133",
+      "kind": "board",
+      "name": "Shine.com",
+      "posted_at": "2026-10-23T08:51:28Z",
+      "seen_at": "2026-10-24T02:43:25Z",
+      "url": "https://www.shine.com/jobs/qa-automation-tester-financial-markets/scymes-services-pvt-limited/19909133"
+    }
+  ],
+  "specializations": [],
+  "status": "active",
+  "tier": 1,
+  "title": "QA Automation Tester  Financial Markets",
+  "tools": [
+    "Bug reporting",
+    "Test management (TestRail/Zephyr)",
+    "Test automation",
+    "Agile / Scrum"
+  ],
+  "track": "software",
+  "updated_at": null,
+  "url": "https://www.shine.com/jobs/qa-automation-tester-financial-markets/scymes-services-pvt-limited/19909133",
+  "why": [
+    "Already on your resume: Bug reporting",
+    "Fintech company",
+    "Asks for 0–4 years — you have about 2.5",
+    "Location lists India"
+  ],
+  "work_mode": "onsite",
+  "years_max": 4,
+  "years_min": 0
+}

@@ -1,0 +1,28 @@
+{
+  "category": "Agency / studio",
+  "classification": "Inferred from job description",
+  "india_hiring": {
+    "board": null,
+    "changed_at": "2026-10-18T23:27:04Z",
+    "evidence": [
+      {
+        "detail": "Sr Animator — India",
+        "kind": "posting",
+        "label": "A current posting lists India as a location",
+        "url": "https://himalayas.app/companies/loonker-creative-solutions-opc-pvt-ltd/jobs/sr-animator?utm_source=api",
+        "weight": 5
+      }
+    ],
+    "first_checked_at": "2026-10-15T16:19:24Z",
+    "india_based": false,
+    "method": "Careers board, posting text",
+    "sig": "7a5233c414",
+    "summary": "A current posting lists India as a location.",
+    "verdict": "yes"
+  },
+  "inferred": true,
+  "logo": "https://cdn-images.himalayas.app/1yv4uiq9jsxaxj3cg3n21qy23z2d",
+  "name": "Loonker creative solutions OPC Pvt Ltd",
+  "slug": "loonker-creative-solutions-opc-pvt-ltd",
+  "tier": 2
+}

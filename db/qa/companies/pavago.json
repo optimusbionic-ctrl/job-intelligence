@@ -1,0 +1,32 @@
+{
+ "category": "Product / SaaS",
+ "classification": "Inferred from job description",
+ "domain": "pavago.co",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-27T10:50:24Z",
+  "evidence": [
+   {
+    "detail": "AI-Augmented QA Engineer — India (Remote)",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://jobs.workable.com/view/dj1yNS6VgYj4VLtFBZCzPt/remote-ai-augmented-qa-engineer-in-india-at-pavago",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-10-19T13:24:59Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "7adbafbe5b",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "logo": "https://workablehr.s3.amazonaws.com/uploads/account/logo/622549/logo",
+ "name": "Pavago",
+ "slug": "pavago",
+ "tier": 1,
+ "tracks": [
+  "software"
+ ]
+}

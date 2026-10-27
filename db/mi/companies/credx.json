@@ -1,0 +1,42 @@
+{
+  "aliases": [
+    "CredX"
+  ],
+  "ats": null,
+  "careers": null,
+  "category": "Fintech",
+  "classification": "Motion Intelligence registry (curated)",
+  "domain": null,
+  "facts_note": "Basic facts only; not independently verified",
+  "hq": "India",
+  "india_hiring": {
+    "board": null,
+    "changed_at": "2026-10-15T16:19:24Z",
+    "evidence": [
+      {
+        "detail": "Motion Graphics Designer (Product and Brand) — India",
+        "kind": "posting",
+        "label": "A current posting lists India as a location",
+        "url": "https://in.linkedin.com/jobs/view/motion-graphics-designer-product-and-brand-at-credx-4472906878",
+        "weight": 5
+      },
+      {
+        "detail": "India",
+        "kind": "registry",
+        "label": "Headquartered in India",
+        "url": null,
+        "weight": 5
+      }
+    ],
+    "first_checked_at": "2026-10-15T16:19:24Z",
+    "india_based": true,
+    "method": "Careers board, posting text",
+    "sig": "954ec65e03",
+    "summary": "CredX is headquartered in India.",
+    "verdict": "yes"
+  },
+  "maturity": null,
+  "name": "CredX",
+  "slug": "credx",
+  "tier": 1
+}

@@ -1,0 +1,30 @@
+{
+  "category": "Other",
+  "classification": "Inferred from job description",
+  "india_hiring": {
+    "board": null,
+    "changed_at": "2026-10-23T14:44:10Z",
+    "evidence": [
+      {
+        "detail": "Manual and Automation Test Engineer (Goregaon) — Mumbai City, India",
+        "kind": "posting",
+        "label": "A current posting lists India as a location",
+        "url": "https://www.shine.com/jobs/manual-and-automation-test-engineer-goregaon/skil-travel/19839866",
+        "weight": 5
+      }
+    ],
+    "first_checked_at": "2026-10-23T14:44:10Z",
+    "india_based": false,
+    "method": "Careers board, posting text",
+    "sig": "dcec79a3f6",
+    "summary": "A current posting lists India as a location.",
+    "verdict": "yes"
+  },
+  "inferred": true,
+  "name": "SKIL Travel",
+  "slug": "skil-travel",
+  "tier": 3,
+  "tracks": [
+    "software"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "category": "Product / SaaS",
+  "classification": "Inferred from job description",
+  "india_hiring": {
+    "board": null,
+    "changed_at": "2026-10-20T13:44:34Z",
+    "evidence": [
+      {
+        "detail": "QA Manual — Mumbai City, India",
+        "kind": "posting",
+        "label": "A current posting lists India as a location",
+        "url": "https://www.shine.com/jobs/qa-manual/tudip-technologies-pvt-ltd/19532801",
+        "weight": 5
+      }
+    ],
+    "first_checked_at": "2026-10-20T13:44:34Z",
+    "india_based": false,
+    "method": "Careers board, posting text",
+    "sig": "69f92bd357",
+    "summary": "A current posting lists India as a location.",
+    "verdict": "yes"
+  },
+  "inferred": true,
+  "name": "Tudip Technologies Pvt Ltd",
+  "slug": "tudip-technologies-pvt-ltd",
+  "tier": 1,
+  "tracks": [
+    "software"
+  ]
+}

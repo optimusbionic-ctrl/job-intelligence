@@ -1,0 +1,91 @@
+{
+  "apply_url": null,
+  "board_apply": "https://www.shine.com/jobs/testing-qa/confidential/19886105",
+  "category": "Recruiter (client not named)",
+  "comp_potential": "unknown",
+  "company": "confidential",
+  "company_slug": "confidential",
+  "concerns": [
+    "Mentions test automation — be ready to discuss it or show a small script",
+    "Also asks for: Programming",
+    "Office outside Mumbai — relocation within India",
+    "Pay not disclosed — ask for the range early"
+  ],
+  "contacts_count": 0,
+  "content_hash": "d4b3066c3f51",
+  "date_quality": "exact",
+  "deadline": null,
+  "employment": "full-time",
+  "first_seen": "2026-10-23T14:44:10Z",
+  "fit": 75,
+  "has_hiring_manager": false,
+  "has_named_contact": false,
+  "has_public_email": false,
+  "id": "e14b79a2bcacae",
+  "include_reason": "QA / test engineer title",
+  "india": {
+    "cities": [],
+    "company": "yes",
+    "reason": "Location lists India",
+    "status": "confirmed",
+    "visa": false
+  },
+  "kind": "qa-engineer",
+  "last_verified": "2026-10-23T14:44:10Z",
+  "location": "Ahmedabad, India",
+  "logo": null,
+  "needs_review": false,
+  "official": false,
+  "posted_at": "2026-10-22T10:09:25Z",
+  "repost": false,
+  "requirements": [],
+  "responsibilities": [],
+  "salary": {
+    "state": "unavailable"
+  },
+  "scores": {
+    "ai": 58,
+    "comp": 60,
+    "company": 66,
+    "location": 80,
+    "seniority": 100,
+    "skill": 72
+  },
+  "seniority": "unspecified",
+  "snippet": "Experience: 0 to 4 Yrs\nSkills: Selenium, QTP, programming languages, Java, Python, JIRA, Bugzilla, software testing methodologies, automated testing tools, bug tracking tools\n(Summary from the Shine.com listing; open the posting for the full description.)",
+  "source_primary": "Shine.com",
+  "sources": [
+    {
+      "id": "shine",
+      "job_id": "19886105",
+      "kind": "board",
+      "name": "Shine.com",
+      "posted_at": "2026-10-22T10:09:25Z",
+      "seen_at": "2026-10-23T14:44:10Z",
+      "url": "https://www.shine.com/jobs/testing-qa/confidential/19886105"
+    }
+  ],
+  "specializations": [],
+  "status": "active",
+  "tier": 3,
+  "title": "Testing Qa",
+  "tools": [
+    "Bug reporting",
+    "Jira",
+    "Bugzilla",
+    "Test automation",
+    "Programming"
+  ],
+  "track": "software",
+  "updated_at": null,
+  "url": "https://www.shine.com/jobs/testing-qa/confidential/19886105",
+  "why": [
+    "QA / test engineer role",
+    "Already on your resume: Bug reporting, Jira, Bugzilla",
+    "Asks for 0–4 years — you have about 2.5",
+    "Location lists India"
+  ],
+  "work_mode": "onsite",
+  "years_max": 4,
+  "years_min": 0
+}

@@ -1,0 +1,84 @@
+{
+  "apply_url": null,
+  "board_apply": "https://app.semesteria.com/jobs/product-motion-designer-remote-1000xcodes-a5aff251-e303-4011-8964-1af1fa002030",
+  "category": "Other",
+  "comp_potential": "unknown",
+  "company": "1000xcodes",
+  "company_slug": "1000xcodes",
+  "concerns": [
+    "Employer has not confirmed hiring from India",
+    "Compensation not disclosed",
+    "Full description not available from this source"
+  ],
+  "contacts_count": 0,
+  "content_hash": "af524f37da52",
+  "date_quality": "unknown",
+  "deadline": null,
+  "employment": "full-time",
+  "first_seen": "2026-10-18T18:27:42Z",
+  "fit": 57,
+  "has_hiring_manager": false,
+  "has_named_contact": false,
+  "has_public_email": false,
+  "id": "254c531c034ad9",
+  "include_reason": "Dedicated product-motion title",
+  "india": {
+    "cities": [],
+    "company": "unclear",
+    "reason": "Remote, region not stated",
+    "status": "unconfirmed",
+    "visa": false
+  },
+  "kind": "product-motion",
+  "last_verified": "2026-10-19T09:28:17Z",
+  "location": "Remote",
+  "logo": null,
+  "needs_review": false,
+  "official": false,
+  "posted_at": null,
+  "repost": false,
+  "requirements": [],
+  "responsibilities": [],
+  "salary": {
+    "context_benchmark": "mi-dataset-remote",
+    "note": "Not disclosed. Global remote pay context is available, but there is no evidence it applies to this employer or to India-based hires.",
+    "state": "unavailable"
+  },
+  "scores": {
+    "ai": 45,
+    "comp": 48,
+    "company": 40,
+    "location": 38,
+    "seniority": 66,
+    "skill": 80
+  },
+  "seniority": "unspecified",
+  "snippet": "",
+  "source_primary": "Semesteria (via search index)",
+  "sources": [
+    {
+      "id": "web",
+      "job_id": "https://app.semesteria.com/jobs/product-motion-designer-remote-1000xcodes-a5aff251-e303-4011-8964-1af1fa002030",
+      "kind": "search",
+      "name": "Semesteria (via search index)",
+      "posted_at": null,
+      "seen_at": "2026-10-19T09:28:17Z",
+      "url": "https://app.semesteria.com/jobs/product-motion-designer-remote-1000xcodes-a5aff251-e303-4011-8964-1af1fa002030"
+    }
+  ],
+  "specializations": [
+    "Product motion"
+  ],
+  "status": "lead",
+  "tier": 3,
+  "title": "Product Motion Designer",
+  "tools": [],
+  "updated_at": null,
+  "url": "https://app.semesteria.com/jobs/product-motion-designer-remote-1000xcodes-a5aff251-e303-4011-8964-1af1fa002030",
+  "why": [
+    "Dedicated product-motion role — matches your core SaaS product motion work",
+    "Specialisations in scope: Product motion"
+  ],
+  "work_mode": "remote",
+  "years_min": null
+}

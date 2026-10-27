@@ -1,0 +1,121 @@
+{
+  "apply_url": "https://job-boards.greenhouse.io/boldin/jobs/4420462009",
+  "board_apply": null,
+  "category": "Agency / studio",
+  "comp_potential": "verified35",
+  "company": "Boldin",
+  "company_slug": "boldin",
+  "concerns": [
+    "Listed pay is in USD; confirm it applies to India-based hires",
+    "Agency / studio (Tier 2)"
+  ],
+  "contacts_count": 0,
+  "content_hash": "7196c2cab345",
+  "date_quality": "exact",
+  "deadline": "2026-11-26T12:27:29Z",
+  "employment": "full-time",
+  "first_seen": "2026-10-15T15:27:11Z",
+  "fit": 70,
+  "has_hiring_manager": false,
+  "has_named_contact": false,
+  "has_public_email": false,
+  "id": "436d31f2a5dd61",
+  "include_reason": "Adjacent title — motion responsibilities need review",
+  "india": {
+    "cities": [],
+    "company": "likely",
+    "reason": "Worldwide remote",
+    "status": "likely",
+    "visa": false
+  },
+  "kind": "adjacent",
+  "last_verified": "2026-10-15T18:30:15Z",
+  "location": "Worldwide",
+  "logo": null,
+  "needs_review": true,
+  "official": true,
+  "posted_at": "2026-09-24T22:00:41Z",
+  "repost": false,
+  "requirements": [
+    "7+ years of brand design experience, including meaningful in-house work at product companies (fintech or other trust-heavy domains a plus)",
+    "A portfolio showing exceptional craft across typography, layout, color, and motion, including brand systems you built, scaled, or evolved",
+    "Experience owning a brand's creative direction, including at least one rebrand or brand evolution you led from concept through rollout",
+    "Active use of AI in your creative workflow, from ideation to production pipelines, with shipped work and a clear point of view on where AI accelerates and where human judgment matters",
+    "Outcomes driven: comfortable tying creative work to marketing tests and business results, and adjusting based on what you learn",
+    "Experience partnering directly with founders, executives, and cross-functional teams in a fast-moving startup environment"
+  ],
+  "responsibilities": [
+    "Own the brand vision: Lead the evolution of Boldin 's visual identity and brand story across every touchpoint, from web and social to product and motion, partnering with founders and leadership to shape the brand's future.",
+    "Build the brand engine: Create and maintain the workflows, tools, and templates that keep generated brand assets consistent at scale.",
+    "Fuel marketing: Partner with the marketing team on creative directions, campaigns, and end deliverables while testing to optimize outcomes.",
+    "Bridge product & brand: Work closely with the product team to create one cohesive brand experience across the platform.",
+    "Co-own design systems: Co-create and maintain Boldin 's brand and product design systems, optimizing both for human and AI-driven workflows to produce on-brand work.",
+    "Accelerate with AI: Embrace new technology to move faster on production and exploration, while pushing past generic AI output with taste, judgment, and critical thinking.",
+    "Raise the bar: Empathize deeply with our customers and obsess over how the Boldin brand is expressed in every detail we ship."
+  ],
+  "salary": {
+    "applies_india": "unconfirmed",
+    "basis": "base",
+    "currency": "USD",
+    "fx_at": "Thu, 15 Oct 2026 00:02:31 +0000",
+    "fx_rate": 95.2528,
+    "inr_max": 17145495,
+    "inr_min": 15240440,
+    "max": 180000,
+    "min": 160000,
+    "note": "Listed for a worldwide-remote role; confirm it applies to India-based hires",
+    "original_period": "annual",
+    "period": "annual",
+    "source_name": "Boldin careers (Greenhouse)",
+    "source_url": "https://job-boards.greenhouse.io/boldin/jobs/4420462009",
+    "state": "verified",
+    "verified_at": "2026-10-15T18:30:15Z"
+  },
+  "scores": {
+    "ai": 58,
+    "comp": 100,
+    "company": 62,
+    "location": 92,
+    "seniority": 100,
+    "skill": 43
+  },
+  "seniority": "senior",
+  "snippet": "Senior Brand Designer \n Full Time • Remote \n Boldin helps anyone build a comprehensive financial plan and understand how today's decisions shape their future. We've recently raised $20M+ from top investors, seen exponential growth, and are scaling the team to meet the moment.\n About This Role\n We're hiring a Senior Brand Designer to own how Boldin shows up in the world — from first impression to everyday use of the p",
+  "source_primary": "Boldin careers (Greenhouse)",
+  "sources": [
+    {
+      "id": "greenhouse",
+      "job_id": "gh:boldin:4420462009",
+      "kind": "ats",
+      "name": "Boldin careers (Greenhouse)",
+      "posted_at": "2026-09-24T22:00:41Z",
+      "seen_at": "2026-10-15T18:30:15Z",
+      "url": "https://job-boards.greenhouse.io/boldin/jobs/4420462009"
+    },
+    {
+      "id": "himalayas",
+      "job_id": "https://himalayas.app/companies/boldin/jobs/senior-brand-designer",
+      "kind": "board",
+      "name": "Himalayas",
+      "posted_at": "2026-09-27T12:27:30Z",
+      "seen_at": "2026-10-15T18:30:15Z",
+      "url": "https://himalayas.app/companies/boldin/jobs/senior-brand-designer"
+    }
+  ],
+  "specializations": [
+    "Interaction systems"
+  ],
+  "status": "verified",
+  "tier": 2,
+  "title": "Senior Brand Designer",
+  "tools": [],
+  "updated_at": null,
+  "url": "https://job-boards.greenhouse.io/boldin/jobs/4420462009",
+  "why": [
+    "Specialisations in scope: Interaction systems",
+    "Listed pay clears your ₹35 LPA target",
+    "Worldwide remote"
+  ],
+  "work_mode": "remote",
+  "years_min": 7
+}

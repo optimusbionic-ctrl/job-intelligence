@@ -1,0 +1,28 @@
+{
+  "category": "Other",
+  "classification": "Inferred from job description",
+  "india_hiring": {
+    "board": null,
+    "changed_at": "2026-10-19T03:27:48Z",
+    "evidence": [
+      {
+        "detail": "Creative Developer — 3D Web & Interactive Animation — India",
+        "kind": "posting",
+        "label": "A current posting lists India as a location",
+        "url": "https://himalayas.app/companies/stage-works/jobs/creative-developer-3d-web-interactive-animation?utm_source=api",
+        "weight": 5
+      }
+    ],
+    "first_checked_at": "2026-10-16T10:27:31Z",
+    "india_based": false,
+    "method": "Careers board, posting text",
+    "sig": "5e4c586616",
+    "summary": "A current posting lists India as a location.",
+    "verdict": "yes"
+  },
+  "inferred": true,
+  "logo": "https://cdn-images.himalayas.app/a0vlnlf41il15n8jbfnjssfrvk64",
+  "name": "Stage Works",
+  "slug": "stage-works",
+  "tier": 3
+}

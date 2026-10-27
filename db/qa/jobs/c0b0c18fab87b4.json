@@ -1,0 +1,88 @@
+{
+  "apply_url": null,
+  "board_apply": "https://www.shine.com/jobs/qa-engineer-mumbai/tradelab-software-private-limited/19555312",
+  "category": "Other",
+  "comp_potential": "unknown",
+  "company": "Tradelab Software Private Limited",
+  "company_slug": "tradelab-software-private-limited",
+  "concerns": [
+    "Mentions test automation — be ready to discuss it or show a small script",
+    "Also asks for: Programming",
+    "Pay not disclosed — ask for the range early"
+  ],
+  "contacts_count": 0,
+  "content_hash": "7797b789548b",
+  "date_quality": "exact",
+  "deadline": null,
+  "employment": "full-time",
+  "first_seen": "2026-10-21T11:43:42Z",
+  "fit": 68,
+  "has_hiring_manager": false,
+  "has_named_contact": false,
+  "has_public_email": false,
+  "id": "c0b0c18fab87b4",
+  "include_reason": "QA / test engineer title",
+  "india": {
+    "cities": [
+      "Mumbai"
+    ],
+    "company": "yes",
+    "reason": "Location lists India",
+    "status": "confirmed",
+    "visa": false
+  },
+  "kind": "qa-engineer",
+  "last_verified": "2026-10-21T11:43:42Z",
+  "location": "Mumbai City, India",
+  "logo": null,
+  "needs_review": false,
+  "official": false,
+  "posted_at": "2026-09-16T09:11:14Z",
+  "repost": false,
+  "requirements": [],
+  "responsibilities": [],
+  "salary": {
+    "state": "unavailable"
+  },
+  "scores": {
+    "ai": 58,
+    "comp": 60,
+    "company": 66,
+    "location": 100,
+    "seniority": 100,
+    "skill": 38
+  },
+  "seniority": "unspecified",
+  "snippet": "Experience: 0 to 4 Yrs\nSkills: software testing, SDLC, STLC, programming, automation, Java, Python, JavaScript, Selenium, QA methodologies\n(Summary from the Shine.com listing; open the posting for the full description.)",
+  "source_primary": "Shine.com",
+  "sources": [
+    {
+      "id": "shine",
+      "job_id": "19555312",
+      "kind": "board",
+      "name": "Shine.com",
+      "posted_at": "2026-09-16T09:11:14Z",
+      "seen_at": "2026-10-21T11:43:42Z",
+      "url": "https://www.shine.com/jobs/qa-engineer-mumbai/tradelab-software-private-limited/19555312"
+    }
+  ],
+  "specializations": [],
+  "status": "active",
+  "tier": 3,
+  "title": "QA Engineer | Mumbai",
+  "tools": [
+    "Test automation",
+    "Programming"
+  ],
+  "track": "software",
+  "updated_at": null,
+  "url": "https://www.shine.com/jobs/qa-engineer-mumbai/tradelab-software-private-limited/19555312",
+  "why": [
+    "QA / test engineer role",
+    "Asks for 0–4 years — you have about 2.5",
+    "Location lists India"
+  ],
+  "work_mode": "onsite",
+  "years_max": 4,
+  "years_min": 0
+}

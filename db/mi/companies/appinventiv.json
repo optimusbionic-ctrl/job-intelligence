@@ -1,0 +1,27 @@
+{
+  "category": "Other",
+  "classification": "Inferred from job description",
+  "india_hiring": {
+    "board": null,
+    "changed_at": "2026-10-18T18:27:42Z",
+    "evidence": [
+      {
+        "detail": "Senior Motion Designer — Noida",
+        "kind": "posting",
+        "label": "A current posting lists India as a location",
+        "url": "https://app.semesteria.com/jobs/senior-motion-designer-noida-appinventiv-9142fb8e-8041-479d-b1c6-0fe6b5eaa3ac",
+        "weight": 5
+      }
+    ],
+    "first_checked_at": "2026-10-18T18:27:42Z",
+    "india_based": false,
+    "method": "Careers board, posting text",
+    "sig": "780c04fb5e",
+    "summary": "A current posting lists India as a location.",
+    "verdict": "yes"
+  },
+  "inferred": true,
+  "name": "Appinventiv",
+  "slug": "appinventiv",
+  "tier": 3
+}

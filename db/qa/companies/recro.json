@@ -1,0 +1,30 @@
+{
+  "category": "Other",
+  "classification": "Inferred from job description",
+  "india_hiring": {
+    "board": null,
+    "changed_at": "2026-10-23T14:44:10Z",
+    "evidence": [
+      {
+        "detail": "Quality Assurance Automation Engineer - Playwright + AI (Kolkata) — Kolkata, India",
+        "kind": "posting",
+        "label": "A current posting lists India as a location",
+        "url": "https://www.shine.com/jobs/quality-assurance-automation-engineer-playwright-ai-kolkata/recro/19687792",
+        "weight": 5
+      }
+    ],
+    "first_checked_at": "2026-10-23T14:44:10Z",
+    "india_based": false,
+    "method": "Careers board, posting text",
+    "sig": "c6aecf989d",
+    "summary": "A current posting lists India as a location.",
+    "verdict": "yes"
+  },
+  "inferred": true,
+  "name": "Recro",
+  "slug": "recro",
+  "tier": 3,
+  "tracks": [
+    "software"
+  ]
+}

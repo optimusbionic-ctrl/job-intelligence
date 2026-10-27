@@ -1,0 +1,30 @@
+{
+  "category": "Other",
+  "classification": "Inferred from job description",
+  "india_hiring": {
+    "board": null,
+    "changed_at": "2026-10-19T13:24:59Z",
+    "evidence": [
+      {
+        "detail": "Opportunity for Salesforce QA Tester Role 4 to 8 Years Experience — Mumbai City, India",
+        "kind": "posting",
+        "label": "A current posting lists India as a location",
+        "url": "https://www.shine.com/jobs/opportunity-for-salesforce-qa-tester-role-4-to-8-years-experience/capgemini-technology-services-india-limited/19532657",
+        "weight": 5
+      }
+    ],
+    "first_checked_at": "2026-10-19T13:24:59Z",
+    "india_based": false,
+    "method": "Careers board, posting text",
+    "sig": "bfc21f45c3",
+    "summary": "A current posting lists India as a location.",
+    "verdict": "yes"
+  },
+  "inferred": true,
+  "name": "CAPGEMINI TECHNOLOGY SERVICES INDIA LIMITED",
+  "slug": "capgemini-technology-services-india-limited",
+  "tier": 3,
+  "tracks": [
+    "software"
+  ]
+}

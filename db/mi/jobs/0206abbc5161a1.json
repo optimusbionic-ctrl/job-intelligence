@@ -1,0 +1,78 @@
+{
+  "apply_url": "https://jobs.ashbyhq.com/universe/a21890bd-51e0-47f1-a919-5bf375b57786",
+  "board_apply": null,
+  "category": "AI",
+  "comp_potential": "unknown",
+  "company": "Universe",
+  "company_slug": "universe",
+  "concerns": [
+    "Employer has not confirmed hiring from India",
+    "Compensation not disclosed"
+  ],
+  "contacts_count": 0,
+  "content_hash": "d5731cbff17b",
+  "date_quality": "unknown",
+  "deadline": null,
+  "employment": "full-time",
+  "first_seen": "2026-10-15T15:39:48Z",
+  "fit": 59,
+  "has_hiring_manager": false,
+  "has_named_contact": false,
+  "has_public_email": false,
+  "id": "0206abbc5161a1",
+  "include_reason": "Motion design title",
+  "india": {
+    "cities": [],
+    "reason": "Location not stated",
+    "status": "unconfirmed",
+    "visa": false
+  },
+  "kind": "motion",
+  "last_verified": "2026-10-15T15:39:48Z",
+  "location": "",
+  "logo": null,
+  "needs_review": false,
+  "official": true,
+  "posted_at": null,
+  "repost": false,
+  "requirements": [],
+  "responsibilities": [],
+  "salary": {
+    "state": "unavailable"
+  },
+  "scores": {
+    "ai": 44,
+    "comp": 48,
+    "company": 98,
+    "location": 38,
+    "seniority": 66,
+    "skill": 47
+  },
+  "seniority": "unspecified",
+  "snippet": "AI Motion Designer creating AI creatives for Meta Ads to scale production.",
+  "source_primary": "Ashby (via search index)",
+  "sources": [
+    {
+      "id": "ashby",
+      "job_id": "https://jobs.ashbyhq.com/universe/a21890bd-51e0-47f1-a919-5bf375b57786",
+      "kind": "search",
+      "name": "Ashby (via search index)",
+      "posted_at": null,
+      "seen_at": "2026-10-15T15:39:48Z",
+      "url": "https://jobs.ashbyhq.com/universe/a21890bd-51e0-47f1-a919-5bf375b57786"
+    }
+  ],
+  "specializations": [],
+  "status": "verified",
+  "tier": 1,
+  "title": "AI Motion designer",
+  "tools": [],
+  "updated_at": null,
+  "url": "https://jobs.ashbyhq.com/universe/a21890bd-51e0-47f1-a919-5bf375b57786",
+  "why": [
+    "Core motion design role",
+    "AI company (Tier 1 priority)"
+  ],
+  "work_mode": "unspecified",
+  "years_min": null
+}

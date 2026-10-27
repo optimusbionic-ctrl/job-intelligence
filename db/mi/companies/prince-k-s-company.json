@@ -1,0 +1,27 @@
+{
+  "category": "Other",
+  "classification": "Inferred from job description",
+  "india_hiring": {
+    "board": null,
+    "changed_at": "2026-10-16T15:28:48Z",
+    "evidence": [
+      {
+        "detail": "Motion Designer — Gurugram, India",
+        "kind": "posting",
+        "label": "A current posting lists India as a location",
+        "url": "https://www.linkedin.com/posts/kprince838_were-hiring-a-motion-designer-this-is-an-activity-7516772836997230592-hFfN",
+        "weight": 5
+      }
+    ],
+    "first_checked_at": "2026-10-16T15:28:48Z",
+    "india_based": false,
+    "method": "Careers board, posting text",
+    "sig": "06b2dad4cb",
+    "summary": "A current posting lists India as a location.",
+    "verdict": "yes"
+  },
+  "inferred": true,
+  "name": "Prince K.'s company",
+  "slug": "prince-k-s-company",
+  "tier": 3
+}

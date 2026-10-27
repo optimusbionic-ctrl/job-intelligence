@@ -1,0 +1,42 @@
+{
+  "aliases": [
+    "MaximusLabs AI"
+  ],
+  "ats": null,
+  "careers": null,
+  "category": "AI",
+  "classification": "Motion Intelligence registry (curated)",
+  "domain": null,
+  "facts_note": "Basic facts only; not independently verified",
+  "hq": "Bengaluru, IN",
+  "india_hiring": {
+    "board": null,
+    "changed_at": "2026-10-18T16:27:36Z",
+    "evidence": [
+      {
+        "detail": "Motion Designer — Bengaluru, Karnataka, India",
+        "kind": "posting",
+        "label": "A current posting lists India as a location",
+        "url": "https://in.linkedin.com/jobs/view/motion-designer-at-maximuslabs-ai-4471319895",
+        "weight": 5
+      },
+      {
+        "detail": "Bengaluru, IN",
+        "kind": "registry",
+        "label": "Headquartered in India",
+        "url": null,
+        "weight": 5
+      }
+    ],
+    "first_checked_at": "2026-10-15T16:19:24Z",
+    "india_based": true,
+    "method": "Careers board, posting text",
+    "sig": "69182cc811",
+    "summary": "MaximusLabs AI is headquartered in India.",
+    "verdict": "yes"
+  },
+  "maturity": null,
+  "name": "MaximusLabs AI",
+  "slug": "maximuslabs-ai",
+  "tier": 1
+}

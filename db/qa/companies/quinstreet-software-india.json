@@ -1,0 +1,30 @@
+{
+  "category": "Other",
+  "classification": "Inferred from job description",
+  "india_hiring": {
+    "board": null,
+    "changed_at": "2026-10-20T13:44:34Z",
+    "evidence": [
+      {
+        "detail": "Manual QA Engg (DB+API must) — Mumbai City, India",
+        "kind": "posting",
+        "label": "A current posting lists India as a location",
+        "url": "https://www.shine.com/jobs/manual-qa-engg-dbapi-must/quinstreet-software-india/19591881",
+        "weight": 5
+      }
+    ],
+    "first_checked_at": "2026-10-20T13:44:34Z",
+    "india_based": false,
+    "method": "Careers board, posting text",
+    "sig": "8feb9e2feb",
+    "summary": "A current posting lists India as a location.",
+    "verdict": "yes"
+  },
+  "inferred": true,
+  "name": "Quinstreet Software India",
+  "slug": "quinstreet-software-india",
+  "tier": 3,
+  "tracks": [
+    "software"
+  ]
+}

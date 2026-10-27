@@ -1,0 +1,55 @@
+{
+  "category": "Other",
+  "classification": "Inferred from job description",
+  "india_hiring": {
+    "board": null,
+    "changed_at": "2026-10-18T18:27:42Z",
+    "evidence": [],
+    "first_checked_at": "2026-10-18T18:27:42Z",
+    "india_based": false,
+    "method": "Careers board, posting text, web search",
+    "sig": "54391d7cdf",
+    "summary": "No public evidence yet about hiring from India.",
+    "verdict": "unclear",
+    "web": {
+      "checked_at": "2026-10-18T19:27:59Z",
+      "query": "\"Wells Fargo\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
+      "results": [
+        {
+          "description": "",
+          "title": "Wells Fargo Remote Careers - Monetize Software",
+          "url": "https://extads.monetize.software/news/wells-fargo-remote-careers"
+        },
+        {
+          "description": "",
+          "title": "Opportunity Expired",
+          "url": "https://in.prosple.com/graduate-employers/wells-fargo-india/jobs-internships/associate-operations-processor"
+        },
+        {
+          "description": "",
+          "title": "Updating Results",
+          "url": "https://kalingauniversity.prosple.com/graduate-employers/wells-fargo-india/jobs-internships/associate-operations-processor"
+        },
+        {
+          "description": "",
+          "title": "Updating Results",
+          "url": "https://kalingauniversity.prosple.com/graduate-employers/wells-fargo-india/jobs-internships/due-diligence-coordinator"
+        },
+        {
+          "description": "",
+          "title": "business execution associate 9a7583",
+          "url": "https://themuse.com/jobs/wellsfargo/business-execution-associate-9a7583"
+        },
+        {
+          "description": "",
+          "title": "Updating Results",
+          "url": "https://kalingauniversity.prosple.com/graduate-employers/wells-fargo-india/jobs-internships/intern-analyst"
+        }
+      ]
+    }
+  },
+  "inferred": true,
+  "name": "Wells Fargo",
+  "slug": "wells-fargo",
+  "tier": 3
+}

@@ -1,0 +1,87 @@
+{
+  "apply_url": null,
+  "board_apply": "https://builtinbengaluru.in/job/qa-engineer-software-slot-game-exp-mandate/8740656",
+  "category": "Other",
+  "comp_potential": "unknown",
+  "company": "SciPlay",
+  "company_slug": "sciplay",
+  "concerns": [
+    "Office outside Mumbai — relocation within India",
+    "Pay not disclosed — ask for the range early",
+    "Full description not available from this source"
+  ],
+  "contacts_count": 0,
+  "content_hash": "d1a2b8f8382d",
+  "date_quality": "unknown",
+  "deadline": null,
+  "employment": "full-time",
+  "first_seen": "2026-10-19T15:45:44Z",
+  "fit": 73,
+  "has_hiring_manager": false,
+  "has_named_contact": false,
+  "has_public_email": false,
+  "id": "815f322e9fda93",
+  "include_reason": "Slot / casino / real-money game QA",
+  "india": {
+    "cities": [
+      "Bengaluru"
+    ],
+    "company": "yes",
+    "reason": "Location lists India",
+    "status": "confirmed",
+    "visa": false
+  },
+  "kind": "slot-qa",
+  "last_verified": "2026-10-24T18:44:21Z",
+  "location": "Bengaluru, India",
+  "logo": null,
+  "needs_review": false,
+  "official": false,
+  "posted_at": null,
+  "repost": false,
+  "requirements": [],
+  "responsibilities": [],
+  "salary": {
+    "state": "unavailable"
+  },
+  "scores": {
+    "ai": 55,
+    "comp": 60,
+    "company": 66,
+    "location": 60,
+    "seniority": 84,
+    "skill": 86
+  },
+  "seniority": "unspecified",
+  "snippet": "",
+  "source_primary": "Built In Bengaluru (via search index)",
+  "sources": [
+    {
+      "id": "web",
+      "job_id": "https://builtinbengaluru.in/job/qa-engineer-software-slot-game-exp-mandate/8740656",
+      "kind": "search",
+      "name": "Built In Bengaluru (via search index)",
+      "posted_at": null,
+      "seen_at": "2026-10-24T18:44:21Z",
+      "url": "https://builtinbengaluru.in/job/qa-engineer-software-slot-game-exp-mandate/8740656"
+    }
+  ],
+  "specializations": [
+    "Slot / casino games"
+  ],
+  "status": "lead",
+  "tier": 3,
+  "title": "QA Engineer, Software (Slot Game Exp Mandate)",
+  "tools": [],
+  "track": "game",
+  "updated_at": null,
+  "url": "https://builtinbengaluru.in/job/qa-engineer-software-slot-game-exp-mandate/8740656",
+  "why": [
+    "Slot / casino game QA — you have tested slot mechanics, betting, payouts and bonus features (Savannah)",
+    "Platforms you test on: Slot / casino games",
+    "Location lists India"
+  ],
+  "work_mode": "onsite",
+  "years_max": null,
+  "years_min": null
+}

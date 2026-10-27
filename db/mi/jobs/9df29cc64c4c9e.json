@@ -1,0 +1,95 @@
+{
+  "apply_url": null,
+  "board_apply": "https://in.linkedin.com/jobs/view/motion-graphics-developer-code-based-2d-animation-at-service-robot-co-4479562831",
+  "category": "Other",
+  "comp_potential": "below",
+  "company": "Service Robot Co",
+  "company_slug": "service-robot-co",
+  "concerns": [
+    "Pay not disclosed — showing a low-confidence estimate",
+    "Pay evidence suggests below ₹35 LPA"
+  ],
+  "contacts_count": 0,
+  "content_hash": "a9ed02099404",
+  "date_quality": "approx",
+  "deadline": null,
+  "employment": "full-time",
+  "first_seen": "2026-10-15T15:27:11Z",
+  "fit": 43,
+  "has_hiring_manager": false,
+  "has_named_contact": false,
+  "has_public_email": false,
+  "id": "9df29cc64c4c9e",
+  "include_reason": "Mixed graphic + motion title",
+  "india": {
+    "cities": [],
+    "company": "yes",
+    "reason": "Location lists India",
+    "status": "confirmed",
+    "visa": false
+  },
+  "kind": "graphic-motion",
+  "last_verified": "2026-10-18T15:28:43Z",
+  "location": "Remote (India-friendly)",
+  "logo": null,
+  "needs_review": false,
+  "official": false,
+  "posted_at": "2026-10-13T00:00:00Z",
+  "repost": false,
+  "requirements": [],
+  "responsibilities": [],
+  "salary": {
+    "estimate": {
+      "confidence": "low",
+      "currency": "INR",
+      "evidence": [
+        "ab-senior-motion-designer-in",
+        "ab-senior-motion-graphic-designer-in",
+        "gd-senior-motion-designer-blr"
+      ],
+      "high": 920000,
+      "inr_high": 920000,
+      "inr_low": 800000,
+      "low": 800000,
+      "method": "India market averages for senior motion designers from 3 sources (AmbitionBox ×2, Glassdoor Bangalore): ₹8.0–9.2 LPA. These are averages across all employers and experience around 3 years; no evidence that this employer pays above market.",
+      "potential": "below"
+    },
+    "note": "Estimate — not employer-confirmed",
+    "state": "estimate",
+    "verified_at": "2026-10-18T15:28:43Z"
+  },
+  "scores": {
+    "ai": 30,
+    "comp": 22,
+    "company": 40,
+    "location": 100,
+    "seniority": 66,
+    "skill": 29
+  },
+  "seniority": "unspecified",
+  "snippet": "Contract | Remote (India-friendly) | Paid per ...",
+  "source_primary": "LinkedIn Jobs (via search index)",
+  "sources": [
+    {
+      "id": "linkedin",
+      "job_id": "https://in.linkedin.com/jobs/view/motion-graphics-developer-code-based-2d-animation-at-service-robot-co-4479562831",
+      "kind": "search",
+      "name": "LinkedIn Jobs (via search index)",
+      "posted_at": "2026-10-13T00:00:00Z",
+      "seen_at": "2026-10-18T15:28:43Z",
+      "url": "https://in.linkedin.com/jobs/view/motion-graphics-developer-code-based-2d-animation-at-service-robot-co-4479562831"
+    }
+  ],
+  "specializations": [],
+  "status": "lead",
+  "tier": 3,
+  "title": "Motion Graphics Developer (Code-Based 2D Animation)",
+  "tools": [],
+  "updated_at": null,
+  "url": "https://in.linkedin.com/jobs/view/motion-graphics-developer-code-based-2d-animation-at-service-robot-co-4479562831",
+  "why": [
+    "Location lists India"
+  ],
+  "work_mode": "remote",
+  "years_min": null
+}

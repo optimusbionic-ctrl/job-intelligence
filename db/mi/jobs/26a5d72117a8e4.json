@@ -1,0 +1,98 @@
+{
+  "apply_url": null,
+  "board_apply": "https://www.foundit.in/job/senior-graphic-motion-designer-red-baton-bengaluru-bangalore-69218721",
+  "category": "Agency / studio",
+  "comp_potential": "below",
+  "company": "Red Baton",
+  "company_slug": "red-baton",
+  "concerns": [
+    "Pay not disclosed — showing a low-confidence estimate",
+    "Pay evidence suggests below ₹35 LPA",
+    "Agency / studio (Tier 2)"
+  ],
+  "contacts_count": 0,
+  "content_hash": "e6dcffb11028",
+  "date_quality": "unknown",
+  "deadline": null,
+  "employment": "full-time",
+  "first_seen": "2026-10-15T15:27:11Z",
+  "fit": 51,
+  "has_hiring_manager": false,
+  "has_named_contact": false,
+  "has_public_email": false,
+  "id": "26a5d72117a8e4",
+  "include_reason": "Mixed graphic + motion title",
+  "india": {
+    "cities": [
+      "Bengaluru"
+    ],
+    "company": "yes",
+    "reason": "Location lists India",
+    "status": "confirmed",
+    "visa": false
+  },
+  "kind": "graphic-motion",
+  "last_verified": "2026-10-18T15:28:43Z",
+  "location": "Bengaluru, India",
+  "logo": null,
+  "needs_review": false,
+  "official": false,
+  "posted_at": null,
+  "repost": false,
+  "requirements": [],
+  "responsibilities": [],
+  "salary": {
+    "estimate": {
+      "confidence": "low",
+      "currency": "INR",
+      "evidence": [
+        "ab-senior-motion-designer-in",
+        "ab-senior-motion-graphic-designer-in",
+        "gd-senior-motion-designer-blr"
+      ],
+      "high": 920000,
+      "inr_high": 920000,
+      "inr_low": 800000,
+      "low": 800000,
+      "method": "India market averages for senior motion designers from 3 sources (AmbitionBox ×2, Glassdoor Bangalore): ₹8.0–9.2 LPA. These are averages across all employers and experience around 3 years; no evidence that this employer pays above market.",
+      "potential": "below"
+    },
+    "note": "Estimate — not employer-confirmed",
+    "state": "estimate",
+    "verified_at": "2026-10-18T15:28:43Z"
+  },
+  "scores": {
+    "ai": 30,
+    "comp": 22,
+    "company": 62,
+    "location": 86,
+    "seniority": 100,
+    "skill": 29
+  },
+  "seniority": "senior",
+  "snippet": "We are looking for a Senior Graphic & Motion Designer who can independently take ownership of client projects and deliver strong visual communication across ...",
+  "source_primary": "foundit (via search index)",
+  "sources": [
+    {
+      "id": "foundit",
+      "job_id": "https://www.foundit.in/job/senior-graphic-motion-designer-red-baton-bengaluru-bangalore-69218721",
+      "kind": "search",
+      "name": "foundit (via search index)",
+      "posted_at": null,
+      "seen_at": "2026-10-18T15:28:43Z",
+      "url": "https://www.foundit.in/job/senior-graphic-motion-designer-red-baton-bengaluru-bangalore-69218721"
+    }
+  ],
+  "specializations": [],
+  "status": "lead",
+  "tier": 2,
+  "title": "Senior Graphic & Motion Designer",
+  "tools": [],
+  "updated_at": null,
+  "url": "https://www.foundit.in/job/senior-graphic-motion-designer-red-baton-bengaluru-bangalore-69218721",
+  "why": [
+    "Location lists India"
+  ],
+  "work_mode": "onsite",
+  "years_min": null
+}

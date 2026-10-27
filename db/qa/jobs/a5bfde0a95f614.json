@@ -1,0 +1,83 @@
+{
+  "apply_url": null,
+  "board_apply": "https://www.shine.com/jobs/manual-testing-engineer-mumbai-india/godigi-infotech/19887000",
+  "category": "Other",
+  "comp_potential": "unknown",
+  "company": "GoDigi InfoTech",
+  "company_slug": "godigi-infotech",
+  "concerns": [
+    "Pay not disclosed — ask for the range early"
+  ],
+  "contacts_count": 0,
+  "content_hash": "627954822805",
+  "date_quality": "exact",
+  "deadline": null,
+  "employment": "full-time",
+  "first_seen": "2026-10-23T14:44:10Z",
+  "fit": 72,
+  "has_hiring_manager": false,
+  "has_named_contact": false,
+  "has_public_email": false,
+  "id": "a5bfde0a95f614",
+  "include_reason": "Manual / functional QA title",
+  "india": {
+    "cities": [
+      "Mumbai"
+    ],
+    "company": "yes",
+    "reason": "Location lists India",
+    "status": "confirmed",
+    "visa": false
+  },
+  "kind": "manual-qa",
+  "last_verified": "2026-10-23T14:44:10Z",
+  "location": "Mumbai City, India",
+  "logo": null,
+  "needs_review": false,
+  "official": false,
+  "posted_at": "2026-10-22T10:23:31Z",
+  "repost": false,
+  "requirements": [],
+  "responsibilities": [],
+  "salary": {
+    "state": "unavailable"
+  },
+  "scores": {
+    "ai": 58,
+    "comp": 60,
+    "company": 66,
+    "location": 100,
+    "seniority": 100,
+    "skill": 50
+  },
+  "seniority": "unspecified",
+  "snippet": "Experience: 0 to 4 Yrs\nSkills: SDLC, STLC, Manual Testing, Strong verbal, written communication skills, Understanding of business, Ability to work under pressure, Attention to detail, Competent technical skills, Ability to work in a team, individually\n(Summary from the Shine.com listing; open the posting for the full description.)",
+  "source_primary": "Shine.com",
+  "sources": [
+    {
+      "id": "shine",
+      "job_id": "19887000",
+      "kind": "board",
+      "name": "Shine.com",
+      "posted_at": "2026-10-22T10:23:31Z",
+      "seen_at": "2026-10-23T14:44:10Z",
+      "url": "https://www.shine.com/jobs/manual-testing-engineer-mumbai-india/godigi-infotech/19887000"
+    }
+  ],
+  "specializations": [],
+  "status": "active",
+  "tier": 3,
+  "title": "Manual Testing Engineer Mumbai (India)",
+  "tools": [],
+  "track": "software",
+  "updated_at": null,
+  "url": "https://www.shine.com/jobs/manual-testing-engineer-mumbai-india/godigi-infotech/19887000",
+  "why": [
+    "Manual / functional QA — the core of your resume",
+    "Asks for 0–4 years — you have about 2.5",
+    "Location lists India"
+  ],
+  "work_mode": "onsite",
+  "years_max": 4,
+  "years_min": 0
+}

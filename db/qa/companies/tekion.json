@@ -1,0 +1,107 @@
+{
+ "aliases": [
+  "Tekion"
+ ],
+ "ats": {
+  "slug": "tekion",
+  "type": "ashby"
+ },
+ "careers": "https://jobs.ashbyhq.com/tekion",
+ "category": "Product / SaaS",
+ "classification": "QA Intelligence registry (curated)",
+ "domain": "tekion.com",
+ "facts_note": "Category from public company information; funding not verified",
+ "india_hiring": {
+  "board": {
+   "apac": 0,
+   "countries": [
+    "India",
+    "United States",
+    "Canada",
+    "United Kingdom"
+   ],
+   "india": 68,
+   "india_samples": [
+    {
+     "location": "Bangalore HQ",
+     "title": "Architect, Software Engineering - Frontend - Integration ",
+     "url": "https://jobs.ashbyhq.com/tekion/6b7a5781-860e-4a8c-ad2b-b9713cdf2a3b"
+    },
+    {
+     "location": "Bangalore HQ",
+     "title": "Architect, Software Engineering - Integration ",
+     "url": "https://jobs.ashbyhq.com/tekion/c9eca2e7-075a-4e1e-9697-61f521d48316"
+    },
+    {
+     "location": "Bangalore HQ",
+     "title": "Associate Principal Graphic Designer",
+     "url": "https://jobs.ashbyhq.com/tekion/1c6ab033-1734-4d45-bcf9-cbedfee319f0"
+    },
+    {
+     "location": "Bangalore HQ",
+     "title": "CDP - Data Analyst",
+     "url": "https://jobs.ashbyhq.com/tekion/123ca252-d027-4e31-bcab-3275bb54ec76"
+    }
+   ],
+   "open_samples": [],
+   "remote": 16,
+   "restricted_remote": 16,
+   "restricted_samples": [
+    {
+     "location": "Virtual - United States",
+     "title": "Account Development Representative I",
+     "url": "https://jobs.ashbyhq.com/tekion/c7db0289-baa8-490b-9e1f-4e4bae7f18b1"
+    },
+    {
+     "location": "Virtual - United States",
+     "title": "Account Development Representative I",
+     "url": "https://jobs.ashbyhq.com/tekion/3e72a436-859b-47d9-8911-c53245aadbf5"
+    },
+    {
+     "location": "Virtual - United States",
+     "title": "Automotive Emerging Product Enablement Lead ",
+     "url": "https://jobs.ashbyhq.com/tekion/15f53638-7d07-4833-9bc6-ee5a4eacfe30"
+    },
+    {
+     "location": "Virtual - Texas",
+     "title": "Customer Value Architect (Retail, CRM & Analytics)",
+     "url": "https://jobs.ashbyhq.com/tekion/efe15c5d-721b-4f57-bf11-4d6872a84d09"
+    }
+   ],
+   "slug": "tekion",
+   "total": 93,
+   "type": "ashby",
+   "url": "https://jobs.ashbyhq.com/tekion",
+   "worldwide": 0
+  },
+  "changed_at": "2026-10-27T10:50:24Z",
+  "evidence": [
+   {
+    "detail": "Architect, Software Engineering - Frontend - Integration  (Bangalore HQ); Architect, Software Engineering - Integration  (Bangalore HQ); Associate Principal Graphic Designer (Bangalore HQ)",
+    "kind": "board",
+    "label": "68 of 93 open roles are located in India",
+    "url": "https://jobs.ashbyhq.com/tekion",
+    "weight": 5
+   },
+   {
+    "detail": "Software Development Test Engineer - II — Bangalore HQ (India)",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://jobs.ashbyhq.com/tekion/061fcb56-abb0-4d68-a760-69f3cecd9858",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-10-19T13:24:59Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "016939c841",
+  "summary": "68 of 93 open roles are located in India.",
+  "verdict": "yes"
+ },
+ "name": "Tekion",
+ "slug": "tekion",
+ "tier": 1,
+ "tracks": [
+  "software"
+ ]
+}

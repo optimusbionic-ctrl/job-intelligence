@@ -1,0 +1,123 @@
+{
+  "apply_url": null,
+  "board_apply": "https://himalayas.app/companies/all-generation-tech/jobs/qa-engineer-test-automation-katalon?utm_source=api",
+  "category": "Fintech",
+  "comp_potential": "listed_good",
+  "company": "All Generation Tech",
+  "company_slug": "all-generation-tech",
+  "concerns": [
+    "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
+    "Also asks for: Test management (TestRail/Zephyr), API testing, ISTQB"
+  ],
+  "contacts_count": 0,
+  "content_hash": "068bf715b7dd",
+  "date_quality": "exact",
+  "deadline": "2026-12-18T18:04:21Z",
+  "employment": "full-time",
+  "first_seen": "2026-10-19T19:47:20Z",
+  "fit": 81,
+  "has_hiring_manager": false,
+  "has_named_contact": false,
+  "has_public_email": false,
+  "id": "329b3308924002",
+  "include_reason": "Automation-heavy QA (SDET)",
+  "india": {
+    "cities": [],
+    "company": "yes",
+    "reason": "Location lists India",
+    "status": "confirmed",
+    "visa": false
+  },
+  "kind": "automation",
+  "last_verified": "2026-10-19T19:47:20Z",
+  "location": "India",
+  "logo": "https://cdn-images.himalayas.app/mms34fg6lacbtvceh617vln4vm60",
+  "needs_review": false,
+  "official": false,
+  "posted_at": "2026-10-19T18:04:23Z",
+  "repost": false,
+  "requirements": [
+    "3-6 years of experience in software quality assurance or test automation roles",
+    "Hands-on experience with Katalon Studio for web, API, and mobile test automation",
+    "Strong understanding of software testing methodologies including functional, regression, and integration testing",
+    "Experience with defect management and test management tools such as JIRA, Zephyr, or similar"
+  ],
+  "responsibilities": [
+    "Design, develop, and maintain automated test scripts and frameworks using Katalon Studio",
+    "Execute functional, regression, integration, and end-to-end testing across web and API-based applications",
+    "Collaborate with developers and BAs to review requirements and define testable acceptance criteria",
+    "Develop and maintain test plans, test cases, and test data for both manual and automated testing",
+    "Identify, log, and track defects through to resolution using tools such as JIRA or equivalent",
+    "Integrate automated tests into CI/CD pipelines to support continuous testing practices",
+    "Conduct API testing using Katalon or tools such as Postman or REST Assured"
+  ],
+  "salary": {
+    "applies_india": true,
+    "basis": "listed",
+    "currency": "INR",
+    "fx_at": "Mon, 19 Oct 2026 00:02:32 +0000",
+    "fx_rate": 1,
+    "inr_max": 3500000,
+    "inr_min": 3500000,
+    "max": 3500000,
+    "min": 3500000,
+    "note": "Listed in the posting",
+    "original_period": "annual",
+    "period": "annual",
+    "source_name": "Himalayas",
+    "source_url": "https://himalayas.app/companies/all-generation-tech/jobs/qa-engineer-test-automation-katalon?utm_source=api",
+    "state": "verified",
+    "verified_at": "2026-10-19T19:47:20Z"
+  },
+  "scores": {
+    "ai": 58,
+    "comp": 100,
+    "company": 95,
+    "location": 100,
+    "seniority": 94,
+    "skill": 56
+  },
+  "seniority": "unspecified",
+  "snippet": "All Gen Tech (AGT) is a global technology delivery firm specializing in building and managing high-performing engineering teams that power some of the most complex projects in financial services, insurance technology, and enterprise software. We partner directly with leading organizations to deliver scalable, reliable, and results-driven technology solutions.\n\nAGT brings together exceptional talent from across the gl",
+  "source_primary": "Himalayas",
+  "sources": [
+    {
+      "id": "himalayas",
+      "job_id": "https://himalayas.app/companies/all-generation-tech/jobs/qa-engineer-test-automation-katalon",
+      "kind": "board",
+      "name": "Himalayas",
+      "posted_at": "2026-10-19T18:04:23Z",
+      "seen_at": "2026-10-19T19:47:20Z",
+      "url": "https://himalayas.app/companies/all-generation-tech/jobs/qa-engineer-test-automation-katalon?utm_source=api"
+    }
+  ],
+  "specializations": [],
+  "status": "active",
+  "tier": 1,
+  "title": "QA Engineer – Test Automation (Katalon)",
+  "tools": [
+    "Regression testing",
+    "Test cases & scenarios",
+    "Bug reporting",
+    "Jira",
+    "Google Sheets / Excel",
+    "Test management (TestRail/Zephyr)",
+    "API testing",
+    "Test automation",
+    "Agile / Scrum",
+    "ISTQB"
+  ],
+  "track": "software",
+  "updated_at": null,
+  "url": "https://himalayas.app/companies/all-generation-tech/jobs/qa-engineer-test-automation-katalon?utm_source=api",
+  "why": [
+    "Already on your resume: Regression testing, Test cases & scenarios, Bug reporting, Jira, Google Sheets / Excel",
+    "Fintech company",
+    "Asks for 3+ years — you have about 2.5",
+    "Pay is listed in the posting",
+    "Location lists India"
+  ],
+  "work_mode": "remote",
+  "years_max": 6,
+  "years_min": 3
+}

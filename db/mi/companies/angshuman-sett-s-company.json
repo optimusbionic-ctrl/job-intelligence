@@ -1,0 +1,27 @@
+{
+  "category": "Other",
+  "classification": "Inferred from job description",
+  "india_hiring": {
+    "board": null,
+    "changed_at": "2026-10-16T21:30:21Z",
+    "evidence": [
+      {
+        "detail": "Motion Designer — Kolkata, India",
+        "kind": "posting",
+        "label": "A current posting lists India as a location",
+        "url": "https://www.linkedin.com/posts/angshumansett_hiring-kolkatajobs-performancemarketing-activity-7514922847710965760-Ub4S",
+        "weight": 5
+      }
+    ],
+    "first_checked_at": "2026-10-16T21:30:21Z",
+    "india_based": false,
+    "method": "Careers board, posting text",
+    "sig": "9020721f2c",
+    "summary": "A current posting lists India as a location.",
+    "verdict": "yes"
+  },
+  "inferred": true,
+  "name": "Angshuman Sett's Company",
+  "slug": "angshuman-sett-s-company",
+  "tier": 3
+}

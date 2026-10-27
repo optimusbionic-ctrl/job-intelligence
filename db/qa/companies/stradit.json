@@ -1,0 +1,32 @@
+{
+  "category": "Other",
+  "classification": "Inferred from job description",
+  "domain": "stradit.com",
+  "india_hiring": {
+    "board": null,
+    "changed_at": "2026-10-19T13:24:59Z",
+    "evidence": [
+      {
+        "detail": "Automation Test Engineer - Data Analytics and Reporting — Chennai, Tamil Nadu, India",
+        "kind": "posting",
+        "label": "A current posting lists India as a location",
+        "url": "https://jobs.workable.com/view/vGfzrUUGjoCg72B7zcpXn7/hybrid-automation-test-engineer---data-analytics-and-reporting-in-chennai-at-stradit",
+        "weight": 5
+      }
+    ],
+    "first_checked_at": "2026-10-19T13:24:59Z",
+    "india_based": false,
+    "method": "Careers board, posting text",
+    "sig": "84a4d71067",
+    "summary": "A current posting lists India as a location.",
+    "verdict": "yes"
+  },
+  "inferred": true,
+  "logo": "https://workablehr.s3.amazonaws.com/uploads/account/logo/734377/logo",
+  "name": "StradIT",
+  "slug": "stradit",
+  "tier": 3,
+  "tracks": [
+    "software"
+  ]
+}

@@ -1,0 +1,85 @@
+{
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/game-tester-qa-tester/make-things-simple/19935533",
+ "category": "Game studio",
+ "comp_potential": "unknown",
+ "company": "Make Things Simple",
+ "company_slug": "make-things-simple",
+ "concerns": [
+  "Office outside Mumbai — relocation within India",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "e7633d2ab74a",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-10-27T10:50:24Z",
+ "fit": 73,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "a32e601a942a3b",
+ "include_reason": "Game tester title",
+ "india": {
+  "cities": [],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "game-tester",
+ "last_verified": "2026-10-27T10:50:24Z",
+ "location": "All India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-10-27T03:35:06Z",
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 60,
+  "company": 96,
+  "location": 80,
+  "seniority": 100,
+  "skill": 50
+ },
+ "seniority": "unspecified",
+ "snippet": "Experience: 0 to 4 Yrs\nSkills: communication, observation, problemsolving skills, attention to detail, bugreporting tools, testing processes, Unity games, mobile game testing\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "19935533",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-10-27T03:35:06Z",
+   "seen_at": "2026-10-27T10:50:24Z",
+   "url": "https://www.shine.com/jobs/game-tester-qa-tester/make-things-simple/19935533"
+  }
+ ],
+ "specializations": [
+  "Unity / Unreal"
+ ],
+ "status": "active",
+ "tier": 1,
+ "title": "Game Tester (QA Tester)",
+ "tools": [],
+ "track": "game",
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/game-tester-qa-tester/make-things-simple/19935533",
+ "why": [
+  "Game tester role — matches your game QA work at Webmobril and Golden Horde",
+  "Game studio company",
+  "Asks for 0–4 years — you have about 2.5",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": 4,
+ "years_min": 0
+}

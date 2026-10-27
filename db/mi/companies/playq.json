@@ -1,0 +1,89 @@
+{
+  "ats": {
+    "slug": "playq",
+    "type": "greenhouse"
+  },
+  "category": "SaaS",
+  "classification": "Inferred from job description",
+  "india_hiring": {
+    "board": {
+      "apac": 0,
+      "countries": [],
+      "india": 0,
+      "india_samples": [],
+      "open_samples": [],
+      "remote": 1,
+      "restricted_remote": 0,
+      "restricted_samples": [],
+      "slug": "playq",
+      "total": 2,
+      "type": "greenhouse",
+      "url": "https://boards.greenhouse.io/playq",
+      "worldwide": 0
+    },
+    "changed_at": "2026-10-23T18:26:40Z",
+    "evidence": [
+      {
+        "detail": "Senior Motion Graphics Designer — Worldwide",
+        "kind": "posting",
+        "label": "A current posting is open worldwide",
+        "url": "https://job-boards.greenhouse.io/playq/jobs/8119190",
+        "weight": 3
+      },
+      {
+        "detail": "Jobs at PlayQ - Greenhouse — “Lists roles only in Ukraine”",
+        "kind": "web",
+        "label": "Web suggests hiring is limited to named countries",
+        "url": "https://job-boards.greenhouse.io/playq?error=true",
+        "weight": -1
+      }
+    ],
+    "first_checked_at": "2026-10-15T16:19:24Z",
+    "india_based": false,
+    "method": "Careers board, posting text, web search",
+    "sig": "6ed7963998",
+    "summary": "No India-located roles found, but a current posting is open worldwide.",
+    "verdict": "likely",
+    "web": {
+      "checked_at": "2026-10-15T18:30:15Z",
+      "query": "\"PlayQ\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
+      "results": [
+        {
+          "description": "# Careers\n## Openroles\n[**Senior C#/Unity Engineer** \\\n\\\nKyiv, Ukraine (Remote)\\\n\\\nFull-time](https://job-boards.greenhouse.io/playq/jobs/8190859)\n\n[**Senior Motion Graphics Designer** \\\n\\\nRemote\\\n\\\nFull-time](https://job-boards.greenhouse.io/playq/jobs/8119190)",
+          "title": "Careers - PlayQ",
+          "url": "https://www.playq.com/careers"
+        },
+        {
+          "description": "Find remote work from home jobs and careers with PlayQ. Get a better remote job search with FlexJobs today!",
+          "title": "PlayQ - Remote Work From Home Jobs & Careers | FlexJobs",
+          "url": "https://www.flexjobs.com/remote-jobs/company/playq"
+        },
+        {
+          "description": "Level-up your career by having opportunities at PlayQ sent directly to your inbox. ... Kyiv, Ukraine (Remote). General. Job. Don't See What You're Looking For?",
+          "title": "Jobs at PlayQ - Greenhouse",
+          "url": "https://job-boards.greenhouse.io/playq?error=true"
+        },
+        {
+          "description": "Latest PlayQ remote jobs. No active public remote jobs are listed for this company right now. Check back as new roles are ingested. See all PlayQ jobs ...",
+          "title": "PlayQ Remote Jobs, Careers, Tech Stack, and Company Profile",
+          "url": "https://wfh.team/companies/playq"
+        },
+        {
+          "description": "# PlayQ\nSanta Monica\n\n- Offices\n\n## PlayQ Offices\nEmployees engage in a combination of remote and on-site work.\n\nPlayQ’s workplace includes a combination of both hybrid and remote roles.\n\nHQSanta Monica, California, USA",
+          "title": "PlayQ Los Angeles Office: Careers, Perks + Culture",
+          "url": "https://www.builtinla.com/company/playq"
+        },
+        {
+          "description": "About PlayQ. PlayQ's aim is to deliver remarkable gaming experiences that players will treasure for years to come. Currently Open Remote Jobs.",
+          "title": "PlayQ's Careers Page - Open Remote Jobs, October 2026 - Dynamite Jobs",
+          "url": "https://dynamitejobs.com/company/playq"
+        }
+      ]
+    }
+  },
+  "inferred": true,
+  "logo": "https://cdn-images.himalayas.app/484dxpy5w8fxh7obb14ntj6qxtep",
+  "name": "PlayQ",
+  "slug": "playq",
+  "tier": 1
+}

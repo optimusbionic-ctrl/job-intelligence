@@ -1,0 +1,30 @@
+{
+  "category": "Recruiter (client not named)",
+  "classification": "Inferred from job description",
+  "india_hiring": {
+    "board": null,
+    "changed_at": "2026-10-23T14:44:10Z",
+    "evidence": [
+      {
+        "detail": "QA Automation Engineer — Chennai, India",
+        "kind": "posting",
+        "label": "A current posting lists India as a location",
+        "url": "https://www.shine.com/jobs/qa-automation-engineer/golden-hues-consultants-private-limited/19752053",
+        "weight": 5
+      }
+    ],
+    "first_checked_at": "2026-10-23T14:44:10Z",
+    "india_based": false,
+    "method": "Careers board, posting text",
+    "sig": "4f977e81e9",
+    "summary": "A current posting lists India as a location.",
+    "verdict": "yes"
+  },
+  "inferred": true,
+  "name": "Golden Hues Consultants Private Limited",
+  "slug": "golden-hues-consultants-private-limited",
+  "tier": 3,
+  "tracks": [
+    "software"
+  ]
+}

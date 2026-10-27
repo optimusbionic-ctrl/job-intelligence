@@ -1,0 +1,30 @@
+{
+  "category": "Other",
+  "classification": "Inferred from job description",
+  "india_hiring": {
+    "board": null,
+    "changed_at": "2026-10-21T22:43:56Z",
+    "evidence": [
+      {
+        "detail": "Junior Software Tester — Mumbai City, India",
+        "kind": "posting",
+        "label": "A current posting lists India as a location",
+        "url": "https://www.shine.com/jobs/junior-software-tester/brained-aiab-ventures-pvt-ltd/19555387",
+        "weight": 5
+      }
+    ],
+    "first_checked_at": "2026-10-21T22:43:56Z",
+    "india_based": false,
+    "method": "Careers board, posting text",
+    "sig": "f06bd2e8d1",
+    "summary": "A current posting lists India as a location.",
+    "verdict": "yes"
+  },
+  "inferred": true,
+  "name": "Brained (AIAB Ventures Pvt Ltd)",
+  "slug": "brained-aiab-ventures-pvt-ltd",
+  "tier": 3,
+  "tracks": [
+    "software"
+  ]
+}

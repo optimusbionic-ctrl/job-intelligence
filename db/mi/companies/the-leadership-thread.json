@@ -1,0 +1,28 @@
+{
+  "category": "Agency / studio",
+  "classification": "Inferred from job description",
+  "india_hiring": {
+    "board": null,
+    "changed_at": "2026-10-27T10:26:45Z",
+    "evidence": [
+      {
+        "detail": "Multimedia Production Specialist - Remote | Open Across India — India",
+        "kind": "posting",
+        "label": "A current posting lists India as a location",
+        "url": "https://himalayas.app/companies/the-leadership-thread/jobs/multimedia-production-specialist-remote-open-across-india?utm_source=api",
+        "weight": 5
+      }
+    ],
+    "first_checked_at": "2026-10-27T10:26:45Z",
+    "india_based": false,
+    "method": "Careers board, posting text",
+    "sig": "90685c0966",
+    "summary": "A current posting lists India as a location.",
+    "verdict": "yes"
+  },
+  "inferred": true,
+  "logo": "https://cdn-images.himalayas.app/twfz71hgjnoqullm4rr2enboja0v",
+  "name": "The Leadership Thread",
+  "slug": "the-leadership-thread",
+  "tier": 2
+}

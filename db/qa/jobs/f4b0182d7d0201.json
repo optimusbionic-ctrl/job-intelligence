@@ -1,0 +1,108 @@
+{
+  "apply_url": null,
+  "board_apply": "https://himalayas.app/companies/resourceful-talent-group/jobs/qa-automation-engineer-playwright-typescript?utm_source=api",
+  "category": "Fintech",
+  "comp_potential": "unknown",
+  "company": "Resourceful Talent Group",
+  "company_slug": "resourceful-talent-group",
+  "concerns": [
+    "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
+    "Also asks for: Programming",
+    "Asks for 4+ years — you have about 2.5",
+    "Pay not disclosed — ask for the range early",
+    "Reposted / refreshed listing — original posting is older"
+  ],
+  "contacts_count": 0,
+  "content_hash": "44a6bc5e8762",
+  "date_quality": "exact",
+  "deadline": "2026-12-19T16:44:00Z",
+  "employment": "full-time",
+  "first_seen": "2026-10-19T13:24:59Z",
+  "fit": 71,
+  "has_hiring_manager": false,
+  "has_named_contact": false,
+  "has_public_email": false,
+  "id": "f4b0182d7d0201",
+  "include_reason": "Automation-heavy QA (SDET)",
+  "india": {
+    "cities": [],
+    "company": "likely",
+    "reason": "Worldwide remote",
+    "status": "likely",
+    "visa": false
+  },
+  "kind": "automation",
+  "last_verified": "2026-10-20T18:45:07Z",
+  "location": "Worldwide",
+  "logo": "https://cdn-images.himalayas.app/ecz23034gdsqektlnqlcyxyixx1n",
+  "needs_review": false,
+  "official": false,
+  "posted_at": "2026-10-20T16:44:00Z",
+  "repost": true,
+  "requirements": [
+    "4+ years of experience in QA Automation, including designing, building, and maintaining automated testing frameworks.",
+    "Strong proficiency in TypeScript for developing automation scripts and test frameworks, with hands-on experience with Playwright.",
+    "Strong understanding of testing best practices, test strategy, software development lifecycles, and modern QA methodologies.",
+    "Hands-on experience working with CI/CD pipelines and containerized environments such as Docker.",
+    "Previous experience in fintech, financial services, payments, banking, or other financial technology environments is highly preferred, particularly where accuracy, reliability, security, and data integrity are critical.",
+    "Strong verbal English communication skills, excellent attention to detail, and availability to work and collaborate effectively with distributed teams during EST (Eastern Standard Time) hours."
+  ],
+  "responsibilities": [
+    "Design, build, and maintain automated testing frameworks across web applications, APIs, backend services, and third-party integrations.",
+    "Develop and execute unit, integration, regression, and end-to-end automated test suites to ensure system reliability, stability, and overall quality.",
+    "Create and maintain automated tests for complex workflows, edge cases, data integrity, and state transitions across services.",
+    "Integrate and manage automated testing within CI/CD pipelines using tools such as GitHub Actions, GitLab CI, or Jenkins.",
+    "Conduct performance, scalability, and load testing across core services and infrastructure to identify bottlenecks and reliability risks.",
+    "Identify, document, and track bugs, performance issues, and system weaknesses while partnering closely with engineering, DevOps, and product teams to improve QA processes, automation coverage, and testing standards."
+  ],
+  "salary": {
+    "context_benchmark": "qa-dataset-remote",
+    "state": "unavailable"
+  },
+  "scores": {
+    "ai": 62,
+    "comp": 60,
+    "company": 95,
+    "location": 86,
+    "seniority": 72,
+    "skill": 58
+  },
+  "seniority": "unspecified",
+  "snippet": "Are you a QA Automation Engineer with strong TypeScript and Playwright experience looking for a long-term, fully remote opportunity in fintech? Join a fast-moving project focused on modern payment and disbursement workflows, where you’ll help build robust automation coverage and ensure the quality and reliability of a high-impact financial platform. \n\nWe’re looking for someone with 4+ years of QA Automation experienc",
+  "source_primary": "Himalayas",
+  "sources": [
+    {
+      "id": "himalayas",
+      "job_id": "https://himalayas.app/companies/resourceful-talent-group/jobs/qa-automation-engineer-playwright-typescript",
+      "kind": "board",
+      "name": "Himalayas",
+      "posted_at": "2026-10-20T16:44:00Z",
+      "seen_at": "2026-10-20T18:45:07Z",
+      "url": "https://himalayas.app/companies/resourceful-talent-group/jobs/qa-automation-engineer-playwright-typescript?utm_source=api"
+    }
+  ],
+  "specializations": [
+    "Web apps"
+  ],
+  "status": "active",
+  "tier": 1,
+  "title": "QA Automation Engineer (Playwright + Typescript)",
+  "tools": [
+    "Regression testing",
+    "Stress / load testing",
+    "Google Sheets / Excel",
+    "Test automation",
+    "Programming"
+  ],
+  "track": "software",
+  "updated_at": null,
+  "url": "https://himalayas.app/companies/resourceful-talent-group/jobs/qa-automation-engineer-playwright-typescript?utm_source=api",
+  "why": [
+    "Already on your resume: Regression testing, Stress / load testing, Google Sheets / Excel",
+    "Fintech company",
+    "Worldwide remote"
+  ],
+  "work_mode": "remote",
+  "years_max": null,
+  "years_min": 4
+}

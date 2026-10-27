@@ -1,0 +1,106 @@
+{
+ "avg": 7812062,
+ "basis": "Interquartile range of posting midpoints, converted to INR at today's rate",
+ "currency": "INR",
+ "high": 10479596,
+ "id": "qa-dataset-remote",
+ "label": "Disclosed pay on remote QA postings (any region, this dataset)",
+ "low": 5096894,
+ "market": "Remote (global)",
+ "n": 10,
+ "retrieved_at": "2026-10-27",
+ "samples": [
+  {
+   "company": "Vantum",
+   "currency": "USD",
+   "location": "Worldwide",
+   "max": 12000,
+   "min": 6000,
+   "title": "QA Tester",
+   "url": "https://himalayas.app/companies/vantum/jobs/qa-tester?utm_source=api"
+  },
+  {
+   "company": "Study Now",
+   "currency": "GBP",
+   "location": "India",
+   "max": 15600,
+   "min": 9360,
+   "title": "QA ENGINEERING (AUTOMATIONS)",
+   "url": "https://himalayas.app/companies/study-now/jobs/qa-engineering-automations-4056876587?utm_source=api"
+  },
+  {
+   "company": "Primerica",
+   "currency": "USD",
+   "location": "Georgia",
+   "max": 55000,
+   "min": 52000,
+   "title": "Software Testing Analyst",
+   "url": "https://himalayas.app/companies/primerica/jobs/software-testing-analyst?utm_source=api"
+  },
+  {
+   "company": "Integrity Management Services, Inc.",
+   "currency": "USD",
+   "location": "United States",
+   "max": 65000,
+   "min": 45000,
+   "title": "Tester: Data Analytics & Technology (Full-time, Remote)",
+   "url": "https://himalayas.app/companies/integrity-management-services-inc/jobs/tester-data-analytics-technology-full-time-remote?utm_source=api"
+  },
+  {
+   "company": "Businessolver",
+   "currency": "USD",
+   "location": "United States",
+   "max": 99000,
+   "min": 65000,
+   "title": "Product Quality Analyst II",
+   "url": "https://himalayas.app/companies/businessolver/jobs/product-quality-analyst-ii?utm_source=api"
+  },
+  {
+   "company": "EdgeQ Technologies Private Limited",
+   "currency": "USD",
+   "location": "United States",
+   "max": 140000,
+   "min": 75000,
+   "title": "API Test Engineer",
+   "url": "https://himalayas.app/companies/edgeq-technologies-private-limited/jobs/api-test-engineer?utm_source=api"
+  },
+  {
+   "company": "Global Alliant",
+   "currency": "USD",
+   "location": "United States",
+   "max": 110000,
+   "min": 110000,
+   "title": "QA Automation Tester",
+   "url": "https://himalayas.app/companies/global-alliant/jobs/qa-automation-tester?utm_source=api"
+  },
+  {
+   "company": "Amyx, Inc.",
+   "currency": "USD",
+   "location": "United States",
+   "max": 130000,
+   "min": 90000,
+   "title": "Platform Testing Specialist",
+   "url": "https://himalayas.app/companies/amyx-inc/jobs/platform-testing-specialist?utm_source=api"
+  },
+  {
+   "company": "Guidehouse",
+   "currency": "USD",
+   "location": "United States",
+   "max": 141000,
+   "min": 85000,
+   "title": "Quality Assurance System Tester",
+   "url": "https://himalayas.app/companies/guidehouse/jobs/quality-assurance-system-tester-5550669612?utm_source=api"
+  },
+  {
+   "company": "Bright Vision Technologies",
+   "currency": "USD",
+   "location": "United States",
+   "max": 125000,
+   "min": 105000,
+   "title": "Software Test Engineer",
+   "url": "https://himalayas.app/companies/bright-vision-technologies/jobs/software-test-engineer-782024292?utm_source=api"
+  }
+ ],
+ "source_name": "QA Intelligence dataset",
+ "source_url": null
+}

@@ -1,0 +1,122 @@
+{
+  "apply_url": null,
+  "board_apply": "https://himalayas.app/companies/miaplaza/jobs/senior-product-designer-illustration-motion-edtech?utm_source=api",
+  "category": "AI",
+  "comp_potential": "verified35",
+  "company": "Miaplaza",
+  "company_slug": "miaplaza",
+  "concerns": [
+    "Employer has not confirmed hiring from India",
+    "Listed pay is in EUR; confirm it applies to India-based hires",
+    "Reposted / refreshed listing — original posting is older"
+  ],
+  "contacts_count": 0,
+  "content_hash": "503692d63437",
+  "date_quality": "exact",
+  "deadline": "2026-12-19T16:59:19Z",
+  "employment": "full-time",
+  "first_seen": "2026-10-15T15:27:11Z",
+  "fit": 82,
+  "has_hiring_manager": false,
+  "has_named_contact": false,
+  "has_public_email": false,
+  "id": "af9c36cd01c770",
+  "include_reason": "Motion design title",
+  "india": {
+    "cities": [],
+    "company": "unclear",
+    "reason": "Description mentions remote (EMEA, CET±2)",
+    "status": "unconfirmed",
+    "visa": false
+  },
+  "kind": "motion",
+  "last_verified": "2026-10-20T18:28:36Z",
+  "location": "Worldwide",
+  "logo": "https://cdn-images.himalayas.app/h3mi5f78hdmlf7274iqez0crp3qa",
+  "needs_review": false,
+  "official": false,
+  "posted_at": "2026-09-15T14:00:14Z",
+  "repost": true,
+  "requirements": [
+    "A portfolio of shipped digital product work — not only concepts or standalone pieces",
+    "At least 2 years working inside a product team, collaborating with PMs and engineers",
+    "Strong illustration or motion skills, with at least 1 year focused on either as a primary craft"
+  ],
+  "responsibilities": [
+    "You'd own product design for the student learning experience end-to-end: from problem framing through delivery, in a Product Trio with a PM and EM who have strong opinions and expect yours. This is product work with real trade-offs — pedagogical, technical, and business — and you're accountable for how it lands, not just how it looks.",
+    "Beyond Curriculum, you'd set the illustration and motion bar for all of Miaplaza : the standards, motion principles, and character direction that the other designers and the design system build from.",
+    "A defining part of the role is art-directing AI-assisted production. You'd build the prompts, references, and review process that let a small team produce quality illustration and motion at a scale hand-crafting alone can't reach. We don't expect you to know every current tool — we expect the taste and judgment to direct output rather than accept defaults.",
+    "You'd report to the Head of UX, with regular 1:1s covering craft, product, and career growth. The direction is upward: deeper craft leadership, cross-product influence, or both."
+  ],
+  "salary": {
+    "applies_india": "unconfirmed",
+    "basis": "listed",
+    "currency": "EUR",
+    "fx_at": "Tue, 20 Oct 2026 00:02:32 +0000",
+    "fx_rate": 106.6236,
+    "inr_max": 9596126,
+    "inr_min": 6397418,
+    "max": 90000,
+    "min": 60000,
+    "note": "Listed for a worldwide-remote role; confirm it applies to India-based hires",
+    "original_period": "annual",
+    "period": "annual",
+    "source_name": "Himalayas",
+    "source_url": "https://himalayas.app/companies/miaplaza/jobs/senior-product-designer-illustration-motion-edtech?utm_source=api",
+    "state": "verified",
+    "verified_at": "2026-10-20T18:28:36Z"
+  },
+  "scores": {
+    "ai": 58,
+    "comp": 100,
+    "company": 98,
+    "location": 38,
+    "seniority": 100,
+    "skill": 76
+  },
+  "seniority": "senior",
+  "snippet": "Location: 100% remote (EMEA, CET±2), with team gatherings in person a few times a year\n Hours: Full-time, 40 hours per week\n Pay: €60.000 to €90.000 annually, adjusted by experience and location\n At Miaplaza , we build homeschool platforms that kids aged 4–18 actually want to use — Miacademy, MiaPrep, and our Online High School are serving over 150.000 students today. Our product foundations are strong. What we want ",
+  "source_primary": "Himalayas",
+  "sources": [
+    {
+      "id": "himalayas",
+      "job_id": "https://himalayas.app/companies/miaplaza/jobs/senior-product-designer-illustration-motion-edtech",
+      "kind": "board",
+      "name": "Himalayas",
+      "posted_at": "2026-10-20T16:59:19Z",
+      "seen_at": "2026-10-20T18:28:36Z",
+      "url": "https://himalayas.app/companies/miaplaza/jobs/senior-product-designer-illustration-motion-edtech?utm_source=api"
+    },
+    {
+      "id": "dribbble",
+      "job_id": "/jobs/310208-Snr-Product-Designer-Illustration-Motion",
+      "kind": "board",
+      "name": "Dribbble Jobs",
+      "posted_at": "2026-09-15T14:00:14Z",
+      "seen_at": "2026-10-20T18:28:36Z",
+      "url": "https://dribbble.com/jobs/310208-Snr-Product-Designer-Illustration-Motion"
+    }
+  ],
+  "specializations": [
+    "UI/UX animation",
+    "AI-generated video",
+    "Interaction systems"
+  ],
+  "status": "active",
+  "tier": 1,
+  "title": "Senior Product Designer (Illustration & Motion, EdTech)",
+  "tools": [
+    "Figma"
+  ],
+  "updated_at": "2026-10-20T16:59:19Z",
+  "url": "https://himalayas.app/companies/miaplaza/jobs/senior-product-designer-illustration-motion-edtech?utm_source=api",
+  "why": [
+    "Core motion design role",
+    "Tools you already use: Figma",
+    "Specialisations in scope: UI/UX animation, AI-generated video, Interaction systems",
+    "AI company (Tier 1 priority)",
+    "Listed pay clears your ₹35 LPA target"
+  ],
+  "work_mode": "remote",
+  "years_min": null
+}

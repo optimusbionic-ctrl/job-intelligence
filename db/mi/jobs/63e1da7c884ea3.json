@@ -1,0 +1,121 @@
+{
+  "apply_url": null,
+  "board_apply": "https://himalayas.app/companies/the-leadership-thread/jobs/multimedia-production-specialist-remote-open-across-india?utm_source=api",
+  "category": "Agency / studio",
+  "comp_potential": "below",
+  "company": "The Leadership Thread",
+  "company_slug": "the-leadership-thread",
+  "concerns": [
+    "Pay not disclosed — showing a low-confidence estimate",
+    "Pay evidence suggests below ₹35 LPA",
+    "Agency / studio (Tier 2)"
+  ],
+  "contacts_count": 0,
+  "content_hash": "628ee850136f",
+  "date_quality": "exact",
+  "deadline": "2026-12-24T17:33:43Z",
+  "employment": "full-time",
+  "first_seen": "2026-10-27T10:26:45Z",
+  "fit": 58,
+  "has_hiring_manager": false,
+  "has_named_contact": false,
+  "has_public_email": false,
+  "id": "63e1da7c884ea3",
+  "include_reason": "Adjacent title — motion responsibilities need review",
+  "india": {
+    "cities": [],
+    "company": "yes",
+    "reason": "Location lists India",
+    "status": "confirmed",
+    "visa": false
+  },
+  "kind": "adjacent",
+  "last_verified": "2026-10-27T10:26:45Z",
+  "location": "India",
+  "logo": "https://cdn-images.himalayas.app/twfz71hgjnoqullm4rr2enboja0v",
+  "needs_review": true,
+  "official": false,
+  "posted_at": "2026-10-25T17:33:44Z",
+  "repost": false,
+  "requirements": [
+    "Bachelor's degree in Multimedia, Graphic Design, Video Production, Communications, Marketing, or a related field preferred",
+    "4+ years of experience in multimedia production, graphic design, video editing, or related creative work",
+    "Proficiency in tools such as Adobe Creative Suite, including Photoshop, Illustrator, Premiere Pro, After Effects, and InDesign",
+    "Experience creating content for digital marketing and social media platforms",
+    "Strong portfolio showcasing multimedia, video, and design work",
+    "Attention to detail and commitment to producing high-quality work",
+    "Experience with photography, videography, or animation"
+  ],
+  "responsibilities": [
+    "Create, edit, and produce multimedia content, including videos, motion graphics, presentations, and digital assets",
+    "Design visually compelling materials for marketing campaigns, social media, websites, events, and internal communications",
+    "Collaborate with marketing, content, and leadership teams to translate ideas into engaging visual content",
+    "Manage projects from concept through final delivery while meeting deadlines and quality standards",
+    "Support video production tasks, including filming, editing, sound syncing, and post-production",
+    "Maintain brand consistency across all creative materials and communication channels",
+    "Optimize multimedia content for various platforms, including web, mobile, and social media"
+  ],
+  "salary": {
+    "estimate": {
+      "confidence": "low",
+      "currency": "INR",
+      "evidence": [
+        "ab-senior-motion-designer-in",
+        "ab-senior-motion-graphic-designer-in",
+        "gd-senior-motion-designer-blr"
+      ],
+      "high": 920000,
+      "inr_high": 920000,
+      "inr_low": 800000,
+      "low": 800000,
+      "method": "India market averages for senior motion designers from 3 sources (AmbitionBox ×2, Glassdoor Bangalore): ₹8.0–9.2 LPA. These are averages across all employers and experience around 3 years; no evidence that this employer pays above market.",
+      "potential": "below"
+    },
+    "note": "Estimate — not employer-confirmed",
+    "state": "estimate",
+    "verified_at": "2026-10-27T10:26:45Z"
+  },
+  "scores": {
+    "ai": 30,
+    "comp": 22,
+    "company": 62,
+    "location": 100,
+    "seniority": 62,
+    "skill": 68
+  },
+  "seniority": "mid",
+  "snippet": "Bring Stories to Life Through Creative Content \n We are seeking a Multimedia Production Specialist who is passionate about visual storytelling and skilled at turning ideas into powerful content. From video and motion graphics to digital campaigns and branded materials, you will play a key role in shaping how our brand shows up and connects with audiences.\n If you are creative, tech-savvy, and excited to produce conte",
+  "source_primary": "Himalayas",
+  "sources": [
+    {
+      "id": "himalayas",
+      "job_id": "https://himalayas.app/companies/the-leadership-thread/jobs/multimedia-production-specialist-remote-open-across-india",
+      "kind": "board",
+      "name": "Himalayas",
+      "posted_at": "2026-10-25T17:33:44Z",
+      "seen_at": "2026-10-27T10:26:45Z",
+      "url": "https://himalayas.app/companies/the-leadership-thread/jobs/multimedia-production-specialist-remote-open-across-india?utm_source=api"
+    }
+  ],
+  "specializations": [
+    "Technical storytelling"
+  ],
+  "status": "active",
+  "tier": 2,
+  "title": "Multimedia Production Specialist - Remote | Open Across India",
+  "tools": [
+    "After Effects",
+    "Premiere Pro",
+    "Illustrator",
+    "Photoshop"
+  ],
+  "updated_at": null,
+  "url": "https://himalayas.app/companies/the-leadership-thread/jobs/multimedia-production-specialist-remote-open-across-india?utm_source=api",
+  "why": [
+    "Tools you already use: After Effects, Premiere Pro, Illustrator, Photoshop",
+    "Specialisations in scope: Technical storytelling",
+    "Location lists India"
+  ],
+  "work_mode": "remote",
+  "years_min": 4
+}

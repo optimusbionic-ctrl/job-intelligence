@@ -1,0 +1,84 @@
+{
+  "apply_url": null,
+  "board_apply": "https://www.shine.com/jobs/test-engineer-wealth-operations-years-mumbai-manual-testing/aqm-technologies/19556737",
+  "category": "Fintech",
+  "comp_potential": "unknown",
+  "company": "AQM Technologies",
+  "company_slug": "aqm-technologies",
+  "concerns": [
+    "Pay not disclosed — ask for the range early"
+  ],
+  "contacts_count": 0,
+  "content_hash": "4d88f87a58f9",
+  "date_quality": "exact",
+  "deadline": null,
+  "employment": "full-time",
+  "first_seen": "2026-10-20T13:44:34Z",
+  "fit": 76,
+  "has_hiring_manager": false,
+  "has_named_contact": false,
+  "has_public_email": false,
+  "id": "b43e64ddedc9af",
+  "include_reason": "Manual / functional QA title",
+  "india": {
+    "cities": [
+      "Mumbai"
+    ],
+    "company": "yes",
+    "reason": "Location lists India",
+    "status": "confirmed",
+    "visa": false
+  },
+  "kind": "manual-qa",
+  "last_verified": "2026-10-20T13:44:34Z",
+  "location": "Mumbai City, India",
+  "logo": null,
+  "needs_review": false,
+  "official": false,
+  "posted_at": "2026-09-16T09:39:40Z",
+  "repost": false,
+  "requirements": [],
+  "responsibilities": [],
+  "salary": {
+    "state": "unavailable"
+  },
+  "scores": {
+    "ai": 58,
+    "comp": 60,
+    "company": 95,
+    "location": 100,
+    "seniority": 100,
+    "skill": 50
+  },
+  "seniority": "unspecified",
+  "snippet": "Experience: 2 to 6 Yrs\nSkills: Manual Testing, Wealth Management, Mutual Funds, PMS, Bonds, Insurance, Transactions, AIFs, Portfolio Reconciliation, NAV Validation\n(Summary from the Shine.com listing; open the posting for the full description.)",
+  "source_primary": "Shine.com",
+  "sources": [
+    {
+      "id": "shine",
+      "job_id": "19556737",
+      "kind": "board",
+      "name": "Shine.com",
+      "posted_at": "2026-09-16T09:39:40Z",
+      "seen_at": "2026-10-20T13:44:34Z",
+      "url": "https://www.shine.com/jobs/test-engineer-wealth-operations-years-mumbai-manual-testing/aqm-technologies/19556737"
+    }
+  ],
+  "specializations": [],
+  "status": "active",
+  "tier": 1,
+  "title": "Test Engineer  Wealth Operations | 26 Years | Mumbai | Manual Testing",
+  "tools": [],
+  "track": "software",
+  "updated_at": null,
+  "url": "https://www.shine.com/jobs/test-engineer-wealth-operations-years-mumbai-manual-testing/aqm-technologies/19556737",
+  "why": [
+    "Manual / functional QA — the core of your resume",
+    "Fintech company",
+    "Asks for 2–6 years — you have about 2.5",
+    "Location lists India"
+  ],
+  "work_mode": "onsite",
+  "years_max": 6,
+  "years_min": 2
+}

@@ -1,0 +1,70 @@
+{
+  "category": "Other",
+  "classification": "Inferred from job description",
+  "india_hiring": {
+    "board": null,
+    "changed_at": "2026-10-15T16:52:46Z",
+    "evidence": [
+      {
+        "detail": "Remote Jobs at Scale Army Careers — “Deel”",
+        "kind": "web",
+        "label": "Web shows it hires across countries",
+        "url": "https://www.remoterocketship.com/company/scale-army-careers/",
+        "weight": 2
+      },
+      {
+        "detail": "Scale Army Careers - Jobs — “Lists roles only in Canada, Spain, Brazil, Mexico and 13 more”",
+        "kind": "web",
+        "label": "Web suggests hiring is limited to named countries",
+        "url": "https://jobs.ashbyhq.com/scale%20Army%20Careers",
+        "weight": -2
+      }
+    ],
+    "first_checked_at": "2026-10-15T16:49:04Z",
+    "india_based": false,
+    "method": "Careers board, posting text, web search",
+    "sig": "2375a71071",
+    "summary": "No India-located roles found, but web shows it hires across countries.",
+    "verdict": "likely",
+    "web": {
+      "checked_at": "2026-10-15T16:52:46Z",
+      "query": "\"Scale Army Careers\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
+      "results": [
+        {
+          "description": "# Transform your business using _AI-native talent_\n## We only source from _nearby time-zones_\n### Engineering\nThe Scale Army has a team across the U.S. as well as in 14 other countries across LATAM, Africa and Eastern Europe",
+          "title": "careers.scalearmy.com",
+          "url": "https://careers.scalearmy.com/"
+        },
+        {
+          "description": "# Open Positions (80)\nLocationAll Locations Costa Rica (9)Algeria (1)Angola (1)Argentina (78)Bolivia (1)Brazil (8)Cameroon (1)Canada (1)Chile (9)Colombia (11)Democratic Republic of the Congo (1)Dominican Republic (8)Ecuador (9)Egypt (74)Ethiopia (75)French Guiana (1)Ghana (1)Guatemala (10)Guyana (1)Haiti (3)Honduras (11)Jamaica (8)Kenya (9)Lebanon (1)Libya (1)Madagascar (1)Mexico (8)Mexico City (3)Morocco (3)Mozambique (1)Nigeria (66)Panama (9)Peru (10)Remote (2)Serbia (2)South Africa (71)Spain (1)Sudan (1)Tanzania (1)Tunisia (1)Uganda (1)Uruguay (2)",
+          "title": "Scale Army Careers - Jobs",
+          "url": "https://jobs.ashbyhq.com/scale%20Army%20Careers"
+        },
+        {
+          "description": "Scale Army Careers | 180606 followers on LinkedIn. Remote hiring done right. Real jobs, vetted by real experts—for candidates who want to grow their careers ...",
+          "title": "Scale Army Careers - LinkedIn",
+          "url": "https://www.linkedin.com/company/scalearmycareers"
+        },
+        {
+          "description": "Scale Army Careers is a remote-first recruiting and talent placement service that matches experienced marketing, sales, and technical professionals outside the U. S.\n\n(primarily Latin America and Africa) with high-growth U. S.\n\ncompanies. They handle candidate screening (including application forms, video interviews, take-home assignments), contract and payment administration, and provide ongoing support and onboarding guidance while placements work directly with client companies.\n\nRoles are typically full-time remote positions paid in USD through payroll platforms like Deel.",
+          "title": "Remote Jobs at Scale Army Careers",
+          "url": "https://www.remoterocketship.com/company/scale-army-careers/"
+        },
+        {
+          "description": "# Remote Scale Army Careers jobs\nScale Army Careers\n\n0 jobs\n\nWe don't have active roles for **Scale Army Careers** right now.",
+          "title": "Remote Company Scalearmycareers Jobs - Work From Home - Jobgether",
+          "url": "https://jobgether.com/remote-jobs/company-scalearmycareers"
+        },
+        {
+          "description": "Find top remote jobs and work-from-home careers at Scale Army Careers. Utilize DailyRemote for an efficient remote job search experience.",
+          "title": "Scale Army Careers - Remote Work From Home Jobs & Careers",
+          "url": "https://dailyremote.com/remote-company/scale-army-careers"
+        }
+      ]
+    }
+  },
+  "inferred": true,
+  "name": "Scale Army Careers",
+  "slug": "scale-army-careers",
+  "tier": 3
+}

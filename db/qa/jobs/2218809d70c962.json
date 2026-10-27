@@ -1,0 +1,96 @@
+{
+  "apply_url": null,
+  "board_apply": "https://www.shine.com/jobs/qa-test-engineer-for-mobile-games/games2win/19532561",
+  "category": "Game studio",
+  "comp_potential": "unknown",
+  "company": "Games2win",
+  "company_slug": "games2win",
+  "concerns": [
+    "Pay not disclosed — ask for the range early"
+  ],
+  "contacts_count": 0,
+  "content_hash": "0ba0c6d3d7bc",
+  "date_quality": "exact",
+  "deadline": null,
+  "employment": "full-time",
+  "first_seen": "2026-10-19T13:24:59Z",
+  "fit": 90,
+  "has_hiring_manager": false,
+  "has_named_contact": false,
+  "has_public_email": false,
+  "id": "2218809d70c962",
+  "include_reason": "Game QA engineer / analyst",
+  "india": {
+    "cities": [
+      "Mumbai"
+    ],
+    "company": "yes",
+    "reason": "Location lists India",
+    "status": "confirmed",
+    "visa": false
+  },
+  "kind": "game-qa-engineer",
+  "last_verified": "2026-10-19T13:24:59Z",
+  "location": "Mumbai City, India",
+  "logo": null,
+  "needs_review": false,
+  "official": false,
+  "posted_at": "2026-09-05T01:13:45Z",
+  "repost": false,
+  "requirements": [],
+  "responsibilities": [],
+  "salary": {
+    "state": "unavailable"
+  },
+  "scores": {
+    "ai": 74,
+    "comp": 60,
+    "company": 96,
+    "location": 100,
+    "seniority": 94,
+    "skill": 96
+  },
+  "seniority": "unspecified",
+  "snippet": "Experience: 3 to 7 Yrs\nSkills: Android, IOS, QA Testing, Bug Reporting, Jira, Functionality Testing, Compatibility Testing, Mobile Game Testing, Test Plans, Google Spreadsheets\n(Summary from the Shine.com listing; open the posting for the full description.)",
+  "source_primary": "Shine.com",
+  "sources": [
+    {
+      "id": "shine",
+      "job_id": "19532561",
+      "kind": "board",
+      "name": "Shine.com",
+      "posted_at": "2026-09-05T01:13:45Z",
+      "seen_at": "2026-10-19T13:24:59Z",
+      "url": "https://www.shine.com/jobs/qa-test-engineer-for-mobile-games/games2win/19532561"
+    }
+  ],
+  "specializations": [
+    "Android",
+    "iOS"
+  ],
+  "status": "active",
+  "tier": 1,
+  "title": "QA Test Engineer for Mobile Games",
+  "tools": [
+    "Functional testing",
+    "Compatibility testing",
+    "Test cases & scenarios",
+    "Bug reporting",
+    "Jira",
+    "Google Sheets / Excel"
+  ],
+  "track": "game",
+  "updated_at": null,
+  "url": "https://www.shine.com/jobs/qa-test-engineer-for-mobile-games/games2win/19532561",
+  "why": [
+    "Game QA role at engineer/analyst level",
+    "Already on your resume: Functional testing, Compatibility testing, Test cases & scenarios, Bug reporting, Jira, Google Sheets / Excel",
+    "Platforms you test on: Android, iOS",
+    "Game studio company",
+    "Location lists India",
+    "Asks for 3+ years — you have about 2.5"
+  ],
+  "work_mode": "onsite",
+  "years_max": 7,
+  "years_min": 3
+}

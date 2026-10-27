@@ -1,0 +1,30 @@
+{
+  "category": "Recruiter (client not named)",
+  "classification": "Inferred from job description",
+  "india_hiring": {
+    "board": null,
+    "changed_at": "2026-10-24T18:44:21Z",
+    "evidence": [
+      {
+        "detail": "QA Officer — Navi Mumbai, Mumbai City, Bhiwandi, Panvel, Kalyan, Vasai, India",
+        "kind": "posting",
+        "label": "A current posting lists India as a location",
+        "url": "https://www.shine.com/jobs/qa-officer/shri-h-r-consultants/19912852",
+        "weight": 5
+      }
+    ],
+    "first_checked_at": "2026-10-24T18:44:21Z",
+    "india_based": false,
+    "method": "Careers board, posting text",
+    "sig": "88106ab482",
+    "summary": "A current posting lists India as a location.",
+    "verdict": "yes"
+  },
+  "inferred": true,
+  "name": "Shri H R Consultants",
+  "slug": "shri-h-r-consultants",
+  "tier": 3,
+  "tracks": [
+    "software"
+  ]
+}

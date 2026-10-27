@@ -1,0 +1,110 @@
+{
+ "apply_url": null,
+ "board_apply": "https://jobs.workable.com/view/7iUsyiWZz9C37YyXWK2npF/qa-engineer-in-bengaluru-at-proarch",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "ProArch",
+ "company_slug": "proarch",
+ "concerns": [
+  "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
+  "Also asks for: API testing, SQL / databases",
+  "Office outside Mumbai — relocation within India",
+  "Pay not disclosed — ask for the range early",
+  "Contract role"
+ ],
+ "contacts_count": 0,
+ "content_hash": "6dad9468add1",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "contract",
+ "first_seen": "2026-10-27T10:50:24Z",
+ "fit": 69,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "3bae38ca88acc4",
+ "include_reason": "Automation-heavy QA (SDET)",
+ "india": {
+  "cities": [
+   "Bengaluru"
+  ],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "automation",
+ "last_verified": "2026-10-27T10:50:24Z",
+ "location": "Bengaluru, Karnataka, India",
+ "logo": "https://workablehr.s3.amazonaws.com/uploads/account/logo/390768/logo",
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-10-26T04:40:18Z",
+ "repost": false,
+ "requirements": [
+  "Experience with healthcare applications, claims, eligibility, care management, provider/member portals, data exchange, or reporting platforms.",
+  "Exposure to cloud platforms, containerized environments, service virtualization, contract testing, or performance testing tools.",
+  "Familiarity with AI-assisted test design, synthetic test data generation, or ML model validation concepts."
+ ],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 64,
+  "comp": 60,
+  "company": 66,
+  "location": 60,
+  "seniority": 100,
+  "skill": 60
+ },
+ "seniority": "unspecified",
+ "snippet": "• Analyze requirements, user stories, acceptance criteria, integration points, and healthcare workflow impacts to create risk-based test plans.\n • Design, execute, and maintain functional, regression, integration, API, data validation, and exploratory test coverage for assigned features.\n • Build and maintain automated tests using approved frameworks and contribute to stable CI/CD quality gates.\n • Partner with produ",
+ "source_primary": "Workable job marketplace",
+ "sources": [
+  {
+   "id": "workable",
+   "job_id": "3316cdeb-0489-4f88-80bc-86cea3e758a9",
+   "kind": "board",
+   "name": "Workable job marketplace",
+   "posted_at": "2026-10-26T04:40:18Z",
+   "seen_at": "2026-10-27T10:50:24Z",
+   "url": "https://jobs.workable.com/view/7iUsyiWZz9C37YyXWK2npF/qa-engineer-in-bengaluru-at-proarch"
+  },
+  {
+   "id": "workable",
+   "job_id": "6d2223c1-c617-48cb-9d68-3acac575945d",
+   "kind": "board",
+   "name": "Workable job marketplace",
+   "posted_at": "2026-10-26T04:40:18Z",
+   "seen_at": "2026-10-27T10:50:24Z",
+   "url": "https://jobs.workable.com/view/etC7xteGatiWHmjCJzVHBk/qa-engineer-in-chennai-at-proarch"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 3,
+ "title": "QA Engineer",
+ "tools": [
+  "Regression testing",
+  "Stress / load testing",
+  "Exploratory testing",
+  "Test cases & scenarios",
+  "Bug reporting",
+  "API testing",
+  "SQL / databases",
+  "Test automation",
+  "Agile / Scrum"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://jobs.workable.com/view/7iUsyiWZz9C37YyXWK2npF/qa-engineer-in-bengaluru-at-proarch",
+ "why": [
+  "Already on your resume: Regression testing, Stress / load testing, Exploratory testing, Test cases & scenarios, Bug reporting",
+  "Asks for 2–4 years — you have about 2.5",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": 4,
+ "years_min": 2
+}

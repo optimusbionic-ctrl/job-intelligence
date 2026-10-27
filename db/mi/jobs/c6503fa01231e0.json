@@ -1,0 +1,78 @@
+{
+  "apply_url": "https://apply.workable.com/thebeautytechgroup/j/580EEB4B14/apply",
+  "board_apply": null,
+  "category": "Other",
+  "comp_potential": "unknown",
+  "company": "The Beauty Tech Group Trading Limited",
+  "company_slug": "the-beauty-tech-group-trading-limited",
+  "concerns": [
+    "Employer has not confirmed hiring from India",
+    "Compensation not disclosed"
+  ],
+  "contacts_count": 0,
+  "content_hash": "759fc752c5e4",
+  "date_quality": "approx",
+  "deadline": null,
+  "employment": "full-time",
+  "first_seen": "2026-10-15T15:39:48Z",
+  "fit": 46,
+  "has_hiring_manager": false,
+  "has_named_contact": false,
+  "has_public_email": false,
+  "id": "c6503fa01231e0",
+  "include_reason": "Motion design title",
+  "india": {
+    "cities": [],
+    "company": "unclear",
+    "reason": "Location not stated",
+    "status": "unconfirmed",
+    "visa": false
+  },
+  "kind": "motion",
+  "last_verified": "2026-10-16T03:28:23Z",
+  "location": "",
+  "logo": null,
+  "needs_review": false,
+  "official": true,
+  "posted_at": "2026-10-09T00:00:00Z",
+  "repost": false,
+  "requirements": [],
+  "responsibilities": [],
+  "salary": {
+    "state": "unavailable"
+  },
+  "scores": {
+    "ai": 30,
+    "comp": 48,
+    "company": 40,
+    "location": 38,
+    "seniority": 66,
+    "skill": 47
+  },
+  "seniority": "unspecified",
+  "snippet": "We're on the hunt for a Motion Designer who's as comfortable crafting beautiful animations as they are slicing up slick video edits.",
+  "source_primary": "Workable (via search index)",
+  "sources": [
+    {
+      "id": "workable",
+      "job_id": "https://apply.workable.com/thebeautytechgroup/j/580EEB4B14/apply",
+      "kind": "search",
+      "name": "Workable (via search index)",
+      "posted_at": "2026-10-09T00:00:00Z",
+      "seen_at": "2026-10-16T03:28:23Z",
+      "url": "https://apply.workable.com/thebeautytechgroup/j/580EEB4B14/apply"
+    }
+  ],
+  "specializations": [],
+  "status": "verified",
+  "tier": 3,
+  "title": "Motion Designer",
+  "tools": [],
+  "updated_at": null,
+  "url": "https://apply.workable.com/thebeautytechgroup/j/580EEB4B14/apply",
+  "why": [
+    "Core motion design role"
+  ],
+  "work_mode": "unspecified",
+  "years_min": null
+}

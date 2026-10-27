@@ -1,0 +1,63 @@
+[
+ {
+  "id": "ab-qa-tester-in-2y",
+  "label": "QA Tester — India, 2 years' experience",
+  "market": "India",
+  "currency": "INR",
+  "avg": null,
+  "low": 200000,
+  "high": 650000,
+  "n": 2300,
+  "basis": "AmbitionBox range for QA Testers with 2 years' experience (based on 2.3k salaries); overall QA Tester range ₹2–8.5 L from 7.3k salaries",
+  "source_name": "AmbitionBox",
+  "source_url": "https://www.ambitionbox.com/profile/qa-tester-salary",
+  "retrieved_at": "2026-10-19",
+  "track": null
+ },
+ {
+  "id": "ps-qa-engineer-mumbai",
+  "label": "Test / QA Engineer (software) — Mumbai",
+  "market": "Mumbai",
+  "currency": "INR",
+  "avg": 505399,
+  "low": 243000,
+  "high": 1000000,
+  "n": null,
+  "basis": "PayScale average base salary; low/high are the 10th and 90th percentiles",
+  "source_name": "PayScale",
+  "source_url": "https://www.payscale.com/research/IN/Job=Test_%2F_Quality_Assurance_(QA)_Engineer_(Computer_Software)/Salary/c054c9be/Mumbai",
+  "retrieved_at": "2026-10-19",
+  "track": null
+ },
+ {
+  "id": "ab-keywords-qa-tester",
+  "label": "QA Tester at Keywords Studios — India (0–3 yrs)",
+  "market": "India",
+  "currency": "INR",
+  "avg": null,
+  "low": 200000,
+  "high": 450000,
+  "n": 162,
+  "basis": "AmbitionBox range for 0–3 years' experience, 162 salaries",
+  "source_name": "AmbitionBox",
+  "company_slug": "keywords-studios",
+  "source_url": "https://www.ambitionbox.com/salaries/keywords-studios-salaries/qa-tester",
+  "retrieved_at": "2026-10-19",
+  "track": "game"
+ },
+ {
+  "id": "ab-ea-qa-tester",
+  "label": "QA Tester at Electronic Arts — India (0–5 yrs)",
+  "market": "India",
+  "currency": "INR",
+  "avg": null,
+  "low": 330000,
+  "high": 730000,
+  "n": 137,
+  "basis": "AmbitionBox range for 0–5 years' experience, 137 salaries",
+  "source_name": "AmbitionBox",
+  "source_url": "https://www.ambitionbox.com/salaries/ea-salaries/qa-tester",
+  "retrieved_at": "2026-10-19",
+  "track": "game"
+ }
+]

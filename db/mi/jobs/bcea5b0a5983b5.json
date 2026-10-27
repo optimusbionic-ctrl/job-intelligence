@@ -1,0 +1,119 @@
+{
+  "apply_url": "https://jobs.ashbyhq.com/sarvam/597119b9-ccb6-4b6e-be0e-39eb185093d0/application",
+  "board_apply": null,
+  "category": "AI",
+  "comp_potential": "unknown",
+  "company": "Sarvam AI",
+  "company_slug": "sarvam-ai",
+  "concerns": [
+    "Pay not disclosed — showing a low-confidence estimate",
+    "Also asks for: Blender, Three.js / WebGL"
+  ],
+  "contacts_count": 2,
+  "content_hash": "6e56eea4db54",
+  "date_quality": "exact",
+  "deadline": null,
+  "employment": "full-time",
+  "first_seen": "2026-10-15T15:27:11Z",
+  "fit": 72,
+  "has_hiring_manager": false,
+  "has_named_contact": false,
+  "has_public_email": true,
+  "id": "bcea5b0a5983b5",
+  "include_reason": "Adjacent title — motion responsibilities need review",
+  "india": {
+    "cities": [
+      "Bengaluru"
+    ],
+    "company": "yes",
+    "reason": "Location lists India",
+    "status": "confirmed",
+    "visa": false
+  },
+  "kind": "adjacent",
+  "last_verified": "2026-10-15T18:30:15Z",
+  "location": "Bengaluru (India)",
+  "logo": null,
+  "needs_review": true,
+  "official": true,
+  "posted_at": "2026-08-25T10:27:35Z",
+  "repost": false,
+  "requirements": [],
+  "responsibilities": [
+    "India built Aadhaar. India built UPI. India is now building its own frontier AI and at Sarvam, all of it is built, deployed and governed here. This presents a generational opportunity to craft a visual language that is as original and ambitious as the technology it represents.",
+    "Sarvam’s identity is built on this very conviction. Our monogram, a gateway drawn from mandala geometry and interlocking circles, serves as a living threshold between human and machine. With a palette that moves vibrantly from blue to orange, our brand system is designed to evolve and scale alongside our innovations. It is a powerful foundation, ready for what comes next.",
+    "What it needs now is someone to make it live across launch banners, web sections, product surfaces, films, decks, event walls, and a hundred places we haven’t invented yet. This is not a role about decorating an AI company. It’s about building the visual argument for what Indian design looks like at population scale.",
+    "Translate the system into everything it touches. Web sections, launch banners, social, product marketing, event and print collateral, so that someone who encounters one Sarvam surface immediately recognises the next.",
+    "Design to context, not to template. A model-launch banner, a developer docs header and an enterprise one-pager are three different arguments. You read the comms briefly and build the visual that actually carries it.",
+    "Push the brand into new threads. The master system is the root, not the ceiling. We want spin-off expressions from root that stay unmistakably Sarvam while earning their own character. You’ll experiment, propose, and defend.",
+    "Use AI as a first-class part of your craft. Generation, iteration, variation, retouch, cleanup. Not as a novelty you tried once, but as something already in your daily hands with the taste to know where it lifts the work and where it flattens it. Create Automated systems"
+  ],
+  "salary": {
+    "estimate": {
+      "confidence": "low",
+      "currency": "INR",
+      "evidence": [
+        "ab-senior-motion-designer-in",
+        "ab-senior-motion-graphic-designer-in",
+        "gd-senior-motion-designer-blr"
+      ],
+      "high": 920000,
+      "inr_high": 920000,
+      "inr_low": 800000,
+      "low": 800000,
+      "method": "India market averages for senior motion designers from 3 sources (AmbitionBox ×2, Glassdoor Bangalore): ₹8.0–9.2 LPA. These are averages across all employers and experience around 3 years; product companies like this one may pay more, but no company-specific pay data was found.",
+      "potential": "unknown"
+    },
+    "note": "Estimate — not employer-confirmed",
+    "state": "estimate",
+    "verified_at": "2026-10-15T18:30:15Z"
+  },
+  "scores": {
+    "ai": 58,
+    "comp": 48,
+    "company": 98,
+    "location": 86,
+    "seniority": 66,
+    "skill": 70
+  },
+  "seniority": "unspecified",
+  "snippet": "ABOUT SARVAM\n\nSarvam is building the bedrock of Sovereign AI for India. The company is developing India’s full-stack sovereign AI platform, building across research, models, infrastructure and applications with a singular focus on making AI genuinely work for India. Sarvam works with leading enterprises and public institutions and is backed by Lightspeed, Peak XV, and Khosla Ventures. Sarvam partners with India’s lea",
+  "source_primary": "Sarvam AI careers (Ashby)",
+  "sources": [
+    {
+      "id": "ashby",
+      "job_id": "ashby:sarvam:597119b9-ccb6-4b6e-be0e-39eb185093d0",
+      "kind": "ats",
+      "name": "Sarvam AI careers (Ashby)",
+      "posted_at": "2026-08-25T10:27:35Z",
+      "seen_at": "2026-10-15T18:30:15Z",
+      "url": "https://jobs.ashbyhq.com/sarvam/597119b9-ccb6-4b6e-be0e-39eb185093d0"
+    }
+  ],
+  "specializations": [
+    "Product films",
+    "3D motion",
+    "Creative engineering"
+  ],
+  "status": "verified",
+  "tier": 1,
+  "title": "Visual Designer",
+  "tools": [
+    "After Effects",
+    "Figma",
+    "Blender",
+    "Three.js / WebGL",
+    "Illustrator",
+    "Photoshop"
+  ],
+  "updated_at": null,
+  "url": "https://jobs.ashbyhq.com/sarvam/597119b9-ccb6-4b6e-be0e-39eb185093d0",
+  "why": [
+    "Tools you already use: After Effects, Figma, Illustrator, Photoshop",
+    "Specialisations in scope: Product films, 3D motion, Creative engineering",
+    "AI company (Tier 1 priority)",
+    "Location lists India"
+  ],
+  "work_mode": "onsite",
+  "years_min": null
+}

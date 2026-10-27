@@ -1,0 +1,31 @@
+{
+  "category": "Fintech",
+  "classification": "Inferred from job description",
+  "india_hiring": {
+    "board": null,
+    "changed_at": "2026-10-24T10:43:35Z",
+    "evidence": [
+      {
+        "detail": "Quality Assurance Specialist — India",
+        "kind": "posting",
+        "label": "A current posting lists India as a location",
+        "url": "https://himalayas.app/companies/porch-group/jobs/quality-assurance-specialist-6224480655?utm_source=api",
+        "weight": 5
+      }
+    ],
+    "first_checked_at": "2026-10-24T10:43:35Z",
+    "india_based": false,
+    "method": "Careers board, posting text",
+    "sig": "f7138e3f51",
+    "summary": "A current posting lists India as a location.",
+    "verdict": "yes"
+  },
+  "inferred": true,
+  "logo": "https://cdn-images.himalayas.app/dvgshnmfe5efo4zcqlm2zlc7grd5",
+  "name": "Porch Group",
+  "slug": "porch-group",
+  "tier": 1,
+  "tracks": [
+    "software"
+  ]
+}

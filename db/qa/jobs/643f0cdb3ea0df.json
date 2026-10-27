@@ -1,0 +1,83 @@
+{
+  "apply_url": null,
+  "board_apply": "https://www.shine.com/jobs/cfy-qa-engineer-mumbai/lodha/19553833",
+  "category": "Other",
+  "comp_potential": "unknown",
+  "company": "Lodha",
+  "company_slug": "lodha",
+  "concerns": [
+    "Pay not disclosed — ask for the range early"
+  ],
+  "contacts_count": 0,
+  "content_hash": "297fa175de4e",
+  "date_quality": "exact",
+  "deadline": null,
+  "employment": "full-time",
+  "first_seen": "2026-10-19T13:24:59Z",
+  "fit": 70,
+  "has_hiring_manager": false,
+  "has_named_contact": false,
+  "has_public_email": false,
+  "id": "643f0cdb3ea0df",
+  "include_reason": "QA / test engineer title",
+  "india": {
+    "cities": [
+      "Mumbai"
+    ],
+    "company": "yes",
+    "reason": "Location lists India",
+    "status": "confirmed",
+    "visa": false
+  },
+  "kind": "qa-engineer",
+  "last_verified": "2026-10-19T13:24:59Z",
+  "location": "Mumbai City, India",
+  "logo": null,
+  "needs_review": false,
+  "official": false,
+  "posted_at": "2026-09-16T08:41:33Z",
+  "repost": false,
+  "requirements": [],
+  "responsibilities": [],
+  "salary": {
+    "state": "unavailable"
+  },
+  "scores": {
+    "ai": 58,
+    "comp": 60,
+    "company": 66,
+    "location": 100,
+    "seniority": 100,
+    "skill": 43
+  },
+  "seniority": "unspecified",
+  "snippet": "Experience: 0 to 4 Yrs\nSkills: Design, Fire Protection Systems, Plumbing, Hydraulic Calculations, Compliance, Project Management, Team Management, Documentation, QA Engineer, Construction Installation\n(Summary from the Shine.com listing; open the posting for the full description.)",
+  "source_primary": "Shine.com",
+  "sources": [
+    {
+      "id": "shine",
+      "job_id": "19553833",
+      "kind": "board",
+      "name": "Shine.com",
+      "posted_at": "2026-09-16T08:41:33Z",
+      "seen_at": "2026-10-19T13:24:59Z",
+      "url": "https://www.shine.com/jobs/cfy-qa-engineer-mumbai/lodha/19553833"
+    }
+  ],
+  "specializations": [],
+  "status": "active",
+  "tier": 3,
+  "title": "CFY - QA Engineer (Mumbai)",
+  "tools": [],
+  "track": "software",
+  "updated_at": null,
+  "url": "https://www.shine.com/jobs/cfy-qa-engineer-mumbai/lodha/19553833",
+  "why": [
+    "QA / test engineer role",
+    "Asks for 0–4 years — you have about 2.5",
+    "Location lists India"
+  ],
+  "work_mode": "onsite",
+  "years_max": 4,
+  "years_min": 0
+}

@@ -1,0 +1,103 @@
+{
+ "apply_url": null,
+ "board_apply": "https://jobs.workable.com/view/dj1yNS6VgYj4VLtFBZCzPt/remote-ai-augmented-qa-engineer-in-india-at-pavago",
+ "category": "Product / SaaS",
+ "comp_potential": "unknown",
+ "company": "Pavago",
+ "company_slug": "pavago",
+ "concerns": [
+  "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
+  "Also asks for: Programming",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "5b9a8cacc6d0",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-10-19T13:24:59Z",
+ "fit": 76,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "8d57cefb1604c0",
+ "include_reason": "Automation-heavy QA (SDET)",
+ "india": {
+  "cities": [],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "automation",
+ "last_verified": "2026-10-27T10:50:24Z",
+ "location": "India (Remote)",
+ "logo": "https://workablehr.s3.amazonaws.com/uploads/account/logo/622549/logo",
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-09-15T19:45:56Z",
+ "repost": false,
+ "requirements": [
+  "Maintain reliable test execution as the product and test suite expand",
+  "AI-Assisted Exploratory Testing",
+  "Use AI-assisted browser automation to explore edge cases and uncover bugs",
+  "Work with Claude and LLM-based tools as part of daily testing workflows",
+  "Experiment with AI-driven testing approaches beyond scripted test cases",
+  "Identify issues that traditional automated regression tests may not catch",
+  "Continuously explore ways to improve QA efficiency through AI tooling"
+ ],
+ "responsibilities": [
+  "We are looking for an AI-Augmented QA Engineer to own and expand automated testing for an early-stage, fast-moving security platform.",
+  "You’ll work closely with frontend and backend engineers to build reliable test coverage, strengthen the existing Playwright test suite , and ensure critical product workflows remain stable as the platform evolves.",
+  "This is a hands-on engineering role where you’ll have significant ownership. You’ll receive clear goals around test coverage and reliability rather than step-by-step instructions, making it ideal for someone who enjoys working independently and improving systems proactively."
+ ],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 68,
+  "comp": 60,
+  "company": 95,
+  "location": 100,
+  "seniority": 84,
+  "skill": 58
+ },
+ "seniority": "unspecified",
+ "snippet": "AI-Augmented QA Engineer \n Position Type: Full-Time, Remote\n Working Hours: U.S. Business Hours\n\n About the Role\n We are looking for an AI-Augmented QA Engineer to own and expand automated testing for an early-stage, fast-moving security platform.\n You’ll work closely with frontend and backend engineers to build reliable test coverage, strengthen the existing Playwright test suite , and ensure critical product workfl",
+ "source_primary": "Workable job marketplace",
+ "sources": [
+  {
+   "id": "workable",
+   "job_id": "63b1667f-1f21-4557-8ade-1d2d1a67e0b5",
+   "kind": "board",
+   "name": "Workable job marketplace",
+   "posted_at": "2026-09-15T19:45:56Z",
+   "seen_at": "2026-10-27T10:50:24Z",
+   "url": "https://jobs.workable.com/view/dj1yNS6VgYj4VLtFBZCzPt/remote-ai-augmented-qa-engineer-in-india-at-pavago"
+  }
+ ],
+ "specializations": [
+  "Web apps"
+ ],
+ "status": "active",
+ "tier": 1,
+ "title": "AI-Augmented QA Engineer",
+ "tools": [
+  "Regression testing",
+  "Exploratory testing",
+  "Test cases & scenarios",
+  "Test automation",
+  "Programming"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://jobs.workable.com/view/dj1yNS6VgYj4VLtFBZCzPt/remote-ai-augmented-qa-engineer-in-india-at-pavago",
+ "why": [
+  "Already on your resume: Regression testing, Exploratory testing, Test cases & scenarios",
+  "Product / SaaS company",
+  "Location lists India"
+ ],
+ "work_mode": "remote",
+ "years_max": 5,
+ "years_min": null
+}

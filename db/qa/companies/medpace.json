@@ -1,0 +1,30 @@
+{
+  "category": "Other",
+  "classification": "Inferred from job description",
+  "india_hiring": {
+    "board": null,
+    "changed_at": "2026-10-20T13:44:34Z",
+    "evidence": [
+      {
+        "detail": "Software QA Test Engineer (1-2 year experience) — Mumbai City, India",
+        "kind": "posting",
+        "label": "A current posting lists India as a location",
+        "url": "https://www.shine.com/jobs/software-qa-test-engineer-1-2-year-experience/medpace/19558196",
+        "weight": 5
+      }
+    ],
+    "first_checked_at": "2026-10-20T13:44:34Z",
+    "india_based": false,
+    "method": "Careers board, posting text",
+    "sig": "7bee6fbb19",
+    "summary": "A current posting lists India as a location.",
+    "verdict": "yes"
+  },
+  "inferred": true,
+  "name": "Medpace",
+  "slug": "medpace",
+  "tier": 3,
+  "tracks": [
+    "software"
+  ]
+}

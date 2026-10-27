@@ -1,0 +1,89 @@
+{
+  "apply_url": null,
+  "board_apply": "https://www.shine.com/jobs/automation-software-tester/radhika-manpower-services/19503116",
+  "category": "Recruiter (client not named)",
+  "comp_potential": "unknown",
+  "company": "Radhika Manpower Services",
+  "company_slug": "radhika-manpower-services",
+  "concerns": [
+    "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
+    "Also asks for: SQL / databases, Programming",
+    "Pay not disclosed — ask for the range early"
+  ],
+  "contacts_count": 0,
+  "content_hash": "7e67b0f259a3",
+  "date_quality": "exact",
+  "deadline": null,
+  "employment": "full-time",
+  "first_seen": "2026-10-20T20:44:02Z",
+  "fit": 64,
+  "has_hiring_manager": false,
+  "has_named_contact": false,
+  "has_public_email": false,
+  "id": "3b30f4a6ae9337",
+  "include_reason": "Automation-heavy QA (SDET)",
+  "india": {
+    "cities": [
+      "Mumbai"
+    ],
+    "company": "yes",
+    "reason": "Location lists India",
+    "status": "confirmed",
+    "visa": false
+  },
+  "kind": "automation",
+  "last_verified": "2026-10-20T20:44:02Z",
+  "location": "Mumbai City, India",
+  "logo": null,
+  "needs_review": false,
+  "official": false,
+  "posted_at": "2026-08-27T05:54:25Z",
+  "repost": false,
+  "requirements": [
+    "(Summary from the Shine.com listing; open the posting for the full description.)"
+  ],
+  "responsibilities": [],
+  "salary": {
+    "state": "unavailable"
+  },
+  "scores": {
+    "ai": 58,
+    "comp": 60,
+    "company": 66,
+    "location": 100,
+    "seniority": 100,
+    "skill": 24
+  },
+  "seniority": "unspecified",
+  "snippet": "Experience: 2 to 6 Yrs\nSkills: Python, SQL, Java, SEO\n(Summary from the Shine.com listing; open the posting for the full description.)",
+  "source_primary": "Shine.com",
+  "sources": [
+    {
+      "id": "shine",
+      "job_id": "19503116",
+      "kind": "board",
+      "name": "Shine.com",
+      "posted_at": "2026-08-27T05:54:25Z",
+      "seen_at": "2026-10-20T20:44:02Z",
+      "url": "https://www.shine.com/jobs/automation-software-tester/radhika-manpower-services/19503116"
+    }
+  ],
+  "specializations": [],
+  "status": "active",
+  "tier": 3,
+  "title": "Automation Software Tester",
+  "tools": [
+    "SQL / databases",
+    "Programming"
+  ],
+  "track": "software",
+  "updated_at": null,
+  "url": "https://www.shine.com/jobs/automation-software-tester/radhika-manpower-services/19503116",
+  "why": [
+    "Asks for 2–6 years — you have about 2.5",
+    "Location lists India"
+  ],
+  "work_mode": "onsite",
+  "years_max": 6,
+  "years_min": 2
+}

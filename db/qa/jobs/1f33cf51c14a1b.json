@@ -1,0 +1,90 @@
+{
+  "apply_url": null,
+  "board_apply": "https://www.shine.com/jobs/qa-automation-engineer/ckpl-consulting-krew-private-limited/19740617",
+  "category": "Recruiter (client not named)",
+  "comp_potential": "unknown",
+  "company": "CKPL Consulting Krew Private Limited",
+  "company_slug": "ckpl-consulting-krew-private-limited",
+  "concerns": [
+    "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
+    "Also asks for: API testing, Programming",
+    "Pay not disclosed — ask for the range early"
+  ],
+  "contacts_count": 0,
+  "content_hash": "32b47555694a",
+  "date_quality": "exact",
+  "deadline": null,
+  "employment": "full-time",
+  "first_seen": "2026-10-19T13:24:59Z",
+  "fit": 63,
+  "has_hiring_manager": false,
+  "has_named_contact": false,
+  "has_public_email": false,
+  "id": "1f33cf51c14a1b",
+  "include_reason": "Automation-heavy QA (SDET)",
+  "india": {
+    "cities": [
+      "Mumbai"
+    ],
+    "company": "yes",
+    "reason": "Location lists India",
+    "status": "confirmed",
+    "visa": false
+  },
+  "kind": "automation",
+  "last_verified": "2026-10-19T13:24:59Z",
+  "location": "Navi Mumbai, India",
+  "logo": null,
+  "needs_review": false,
+  "official": false,
+  "posted_at": "2026-10-08T12:26:29Z",
+  "repost": false,
+  "requirements": [
+    "(Summary from the Shine.com listing; open the posting for the full description.)"
+  ],
+  "responsibilities": [],
+  "salary": {
+    "state": "unavailable"
+  },
+  "scores": {
+    "ai": 58,
+    "comp": 60,
+    "company": 66,
+    "location": 100,
+    "seniority": 94,
+    "skill": 24
+  },
+  "seniority": "unspecified",
+  "snippet": "Experience: 3 to 6 Yrs\nSkills: playwriting, java, selenium, api testing, qa automation\n(Summary from the Shine.com listing; open the posting for the full description.)",
+  "source_primary": "Shine.com",
+  "sources": [
+    {
+      "id": "shine",
+      "job_id": "19740617",
+      "kind": "board",
+      "name": "Shine.com",
+      "posted_at": "2026-10-08T12:26:29Z",
+      "seen_at": "2026-10-19T13:24:59Z",
+      "url": "https://www.shine.com/jobs/qa-automation-engineer/ckpl-consulting-krew-private-limited/19740617"
+    }
+  ],
+  "specializations": [],
+  "status": "active",
+  "tier": 3,
+  "title": "QA Automation Engineer",
+  "tools": [
+    "API testing",
+    "Test automation",
+    "Programming"
+  ],
+  "track": "software",
+  "updated_at": null,
+  "url": "https://www.shine.com/jobs/qa-automation-engineer/ckpl-consulting-krew-private-limited/19740617",
+  "why": [
+    "Asks for 3+ years — you have about 2.5",
+    "Location lists India"
+  ],
+  "work_mode": "onsite",
+  "years_max": 6,
+  "years_min": 3
+}

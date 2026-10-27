@@ -1,0 +1,55 @@
+{
+  "category": "Other",
+  "classification": "Inferred from job description",
+  "india_hiring": {
+    "board": null,
+    "changed_at": "2026-10-18T15:28:43Z",
+    "evidence": [],
+    "first_checked_at": "2026-10-18T15:28:43Z",
+    "india_based": false,
+    "method": "Careers board, posting text, web search",
+    "sig": "54391d7cdf",
+    "summary": "No public evidence yet about hiring from India.",
+    "verdict": "unclear",
+    "web": {
+      "checked_at": "2026-10-18T16:27:36Z",
+      "query": "\"Unknown (WhyNotRemote listing)\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
+      "results": [
+        {
+          "description": "",
+          "title": "Working Remotely Without an Employer of Record in India 2025",
+          "url": "https://ins-globalconsulting.com/?p=80019"
+        },
+        {
+          "description": "",
+          "title": "Wisemonk Team",
+          "url": "https://www.wisemonk.io/blogs/best-international-remote-job-board-for-indians"
+        },
+        {
+          "description": "",
+          "title": "www.whynotremote.com",
+          "url": "https://www.whynotremote.com/about"
+        },
+        {
+          "description": "",
+          "title": "INS Global",
+          "url": "https://ins-globalconsulting.com/ja/news-post/eor-inndo/"
+        },
+        {
+          "description": "",
+          "title": "Work Remotely for Global Companies Hiring in India",
+          "url": "https://wisemonk.io/for-candidates"
+        },
+        {
+          "description": "",
+          "title": "Build your career with global companies, without leaving India",
+          "url": "https://www.wisemonk.io/for-candidate"
+        }
+      ]
+    }
+  },
+  "inferred": true,
+  "name": "Unknown (WhyNotRemote listing)",
+  "slug": "unknown-whynotremote-listing",
+  "tier": 3
+}

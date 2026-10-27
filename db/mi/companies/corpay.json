@@ -1,0 +1,28 @@
+{
+  "category": "Fintech",
+  "classification": "Inferred from job description",
+  "india_hiring": {
+    "board": null,
+    "changed_at": "2026-10-18T22:27:20Z",
+    "evidence": [
+      {
+        "detail": "Employer Brand Designer & Multimedia Producer — India",
+        "kind": "posting",
+        "label": "A current posting lists India as a location",
+        "url": "https://himalayas.app/companies/corpay/jobs/employer-brand-designer-multimedia-producer?utm_source=api",
+        "weight": 5
+      }
+    ],
+    "first_checked_at": "2026-10-15T16:19:24Z",
+    "india_based": false,
+    "method": "Careers board, posting text",
+    "sig": "ef7f36df4a",
+    "summary": "A current posting lists India as a location.",
+    "verdict": "yes"
+  },
+  "inferred": true,
+  "logo": "https://cdn-images.himalayas.app/325dgqm3fti1gjo2gyzvrqduhvnc",
+  "name": "Corpay",
+  "slug": "corpay",
+  "tier": 1
+}

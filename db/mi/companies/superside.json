@@ -1,0 +1,127 @@
+{
+  "aliases": [
+    "Superside"
+  ],
+  "ats": {
+    "slug": "superside",
+    "type": "lever"
+  },
+  "careers": "https://jobs.lever.co/superside",
+  "category": "Agency / studio",
+  "classification": "Motion Intelligence registry (curated)",
+  "domain": "superside.com",
+  "facts_note": "HQ and maturity from public company information; funding not verified",
+  "hq": "Remote-first (global)",
+  "india_hiring": {
+    "board": {
+      "apac": 0,
+      "countries": [
+        "Colombia",
+        "Argentina"
+      ],
+      "india": 0,
+      "india_samples": [],
+      "open_samples": [],
+      "remote": 12,
+      "restricted_remote": 12,
+      "restricted_samples": [
+        {
+          "location": "Global",
+          "title": "Account Director",
+          "url": "https://jobs.lever.co/superside/164e09f2-41db-469a-ac65-c9036247a3a3"
+        },
+        {
+          "location": "Global",
+          "title": "Conceptual Art Director",
+          "url": "https://jobs.lever.co/superside/a6b28001-e4b7-4253-bb2e-bc0ce8e74f07"
+        },
+        {
+          "location": "LATAM",
+          "title": "Creative (Graphic Designer)",
+          "url": "https://jobs.lever.co/superside/f3d3064a-6df5-4a65-af08-132eeaf3688c"
+        },
+        {
+          "location": "LATAM",
+          "title": "Creative (Illustrator)",
+          "url": "https://jobs.lever.co/superside/126e95b0-a898-44f6-b5f1-4ff9c5ee1fc8"
+        }
+      ],
+      "slug": "superside",
+      "total": 12,
+      "type": "lever",
+      "url": "https://jobs.lever.co/superside",
+      "worldwide": 0
+    },
+    "changed_at": "2026-10-27T10:26:45Z",
+    "evidence": [
+      {
+        "detail": "None are located in India or open worldwide; 12 remote roles are limited to named countries",
+        "kind": "board",
+        "label": "All 12 open roles are in Colombia and Argentina",
+        "url": "https://jobs.lever.co/superside",
+        "weight": -3
+      },
+      {
+        "detail": "Creative (Motion Design) — Anywhere",
+        "kind": "posting",
+        "label": "A current posting is open worldwide",
+        "url": "https://jobs.lever.co/superside/b714cc57-df70-483e-be78-5cd898339e9a",
+        "weight": 3
+      },
+      {
+        "detail": "…tie animations, and more, all while collaborating with a world-class, globally distributed team of creatives.   This is a high-ownership role where you’ll contribute…",
+        "kind": "posting",
+        "label": "Posting describes hiring across countries",
+        "url": "https://jobs.lever.co/superside/b714cc57-df70-483e-be78-5cd898339e9a",
+        "weight": 3
+      }
+    ],
+    "first_checked_at": "2026-10-22T09:28:02Z",
+    "india_based": false,
+    "method": "Careers board, posting text, web search",
+    "sig": "425ad7170d",
+    "summary": "No India-located roles found, but a current posting is open worldwide.",
+    "verdict": "likely",
+    "web": {
+      "checked_at": "2026-10-22T10:28:53Z",
+      "query": "site:superside.com careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
+      "results": [
+        {
+          "description": "",
+          "title": "remote work",
+          "url": "https://careers.superside.com/remote-work"
+        },
+        {
+          "description": "",
+          "title": "Enterprise Account Executive",
+          "url": "https://builtin.com/job/enterprise-account-executive/6225262"
+        },
+        {
+          "description": "",
+          "title": "creative project manager full time remote en distrito capital ID 1109861",
+          "url": "https://ve.buscojobs.com/creative-project-manager-full-time-remote-en-distrito-capital-ID-1109861"
+        },
+        {
+          "description": "",
+          "title": "executive assistant at superside",
+          "url": "https://remotivated.com/jobs/executive-assistant-at-superside"
+        },
+        {
+          "description": "",
+          "title": "ABOUT SUPERSIDE",
+          "url": "https://www.getonbrd.com/jobs/design-ux/ux-ui-designers-and-directors-superside-remote"
+        },
+        {
+          "description": "",
+          "title": "Associate Resource Manager",
+          "url": "https://builtin.com/job/associate-resource-manager/6419797"
+        }
+      ]
+    }
+  },
+  "logo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2021/01/WRILS-210104060359-501693.jpg",
+  "maturity": "Growth-stage private",
+  "name": "Superside",
+  "slug": "superside",
+  "tier": 2
+}

@@ -1,0 +1,99 @@
+{
+ "apply_url": null,
+ "board_apply": "https://himalayas.app/companies/photon-interactive-uk-limited/jobs/qa-lead_offshore?utm_source=api",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "Photon Interactive UK Limited",
+ "company_slug": "photon-interactive-uk-limited",
+ "concerns": [
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "902d751311ed",
+ "date_quality": "exact",
+ "deadline": "2026-12-24T05:26:56Z",
+ "employment": "full-time",
+ "first_seen": "2026-10-27T10:50:24Z",
+ "fit": 75,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "512cce05c3b37c",
+ "include_reason": "QA / test engineer title",
+ "india": {
+  "cities": [],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "qa-engineer",
+ "last_verified": "2026-10-27T10:50:24Z",
+ "location": "India",
+ "logo": "https://cdn-images.himalayas.app/6uea03ugprm7j1fah48hp1jr6ny6",
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-10-25T05:26:57Z",
+ "repost": false,
+ "requirements": [
+  "Define and enforce QA standards, guidelines, and best practices.",
+  "Maintain documentation of test cases, test results, and defect reports.",
+  "Oversee the execution of test cases and ensure accurate reporting of defects.",
+  "Work closely with product managers, developers, and other stakeholders to understand requirements and provide feedback.",
+  "Identify and manage risks associated with the software development process.",
+  "Develop mitigation strategies for identified risks."
+ ],
+ "responsibilities": [
+  "Assign tasks and manage the workload of the QA engineers.",
+  "Conduct regular team meetings to discuss progress, issues, and improvements.",
+  "Develop and implement comprehensive test plans and strategies.",
+  "Ensure test coverage for all functional and non-functional requirements.",
+  "Define and enforce QA standards, guidelines, and best practices.",
+  "Maintain documentation of test cases, test results, and defect reports.",
+  "Oversee the execution of test cases and ensure accurate reporting of defects."
+ ],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 60,
+  "company": 66,
+  "location": 100,
+  "seniority": 84,
+  "skill": 72
+ },
+ "seniority": "unspecified",
+ "snippet": "A Quality Assurance (QA) Lead plays a critical role in the software development lifecycle by ensuring that the products meet the established standards of quality. Below is a typical job description (JD) for a QA Lead: \n\n Key Responsibilities: \n\n• Assign tasks and manage the workload of the QA engineers. \n\n• Conduct regular team meetings to discuss progress, issues, and improvements. \n\n• Develop and implement comprehe",
+ "source_primary": "Himalayas",
+ "sources": [
+  {
+   "id": "himalayas",
+   "job_id": "https://himalayas.app/companies/photon-interactive-uk-limited/jobs/qa-lead_offshore",
+   "kind": "board",
+   "name": "Himalayas",
+   "posted_at": "2026-10-25T05:26:57Z",
+   "seen_at": "2026-10-27T10:50:24Z",
+   "url": "https://himalayas.app/companies/photon-interactive-uk-limited/jobs/qa-lead_offshore?utm_source=api"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 3,
+ "title": "QA Lead_Offshore",
+ "tools": [
+  "Test cases & scenarios",
+  "Bug reporting"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://himalayas.app/companies/photon-interactive-uk-limited/jobs/qa-lead_offshore?utm_source=api",
+ "why": [
+  "QA / test engineer role",
+  "Already on your resume: Test cases & scenarios, Bug reporting",
+  "Location lists India"
+ ],
+ "work_mode": "remote",
+ "years_max": null,
+ "years_min": null
+}

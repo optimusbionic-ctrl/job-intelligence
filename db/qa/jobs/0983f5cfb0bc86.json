@@ -1,0 +1,82 @@
+{
+  "apply_url": null,
+  "board_apply": "https://hiremee.co.in/jobs-list/cravingcode-technologies-pvt-ltd/jr-quality-assurance-tester-70623",
+  "category": "Other",
+  "comp_potential": "unknown",
+  "company": "Cravingcode Technologies Pvt Ltd",
+  "company_slug": "cravingcode-technologies-pvt-ltd",
+  "concerns": [
+    "Employer has not confirmed hiring from India",
+    "Entry-level role — pay may be at the lower end",
+    "Pay not disclosed — ask for the range early",
+    "Full description not available from this source"
+  ],
+  "contacts_count": 0,
+  "content_hash": "b5d135556791",
+  "date_quality": "unknown",
+  "deadline": null,
+  "employment": "full-time",
+  "first_seen": "2026-10-19T15:45:44Z",
+  "fit": 70,
+  "has_hiring_manager": false,
+  "has_named_contact": false,
+  "has_public_email": false,
+  "id": "0983f5cfb0bc86",
+  "include_reason": "Manual / functional QA title",
+  "india": {
+    "cities": [],
+    "company": "unclear",
+    "reason": "Location not stated",
+    "status": "unconfirmed",
+    "visa": false
+  },
+  "kind": "manual-qa",
+  "last_verified": "2026-10-24T09:44:22Z",
+  "location": "",
+  "logo": null,
+  "needs_review": false,
+  "official": false,
+  "posted_at": null,
+  "repost": false,
+  "requirements": [],
+  "responsibilities": [],
+  "salary": {
+    "state": "unavailable"
+  },
+  "scores": {
+    "ai": 55,
+    "comp": 60,
+    "company": 66,
+    "location": 36,
+    "seniority": 86,
+    "skill": 86
+  },
+  "seniority": "junior",
+  "snippet": "",
+  "source_primary": "HireMee (via search index)",
+  "sources": [
+    {
+      "id": "web",
+      "job_id": "https://hiremee.co.in/jobs-list/cravingcode-technologies-pvt-ltd/jr-quality-assurance-tester-70623",
+      "kind": "search",
+      "name": "HireMee (via search index)",
+      "posted_at": null,
+      "seen_at": "2026-10-24T09:44:22Z",
+      "url": "https://hiremee.co.in/jobs-list/cravingcode-technologies-pvt-ltd/jr-quality-assurance-tester-70623"
+    }
+  ],
+  "specializations": [],
+  "status": "lead",
+  "tier": 3,
+  "title": "Jr Quality Assurance Tester",
+  "tools": [],
+  "track": "software",
+  "updated_at": null,
+  "url": "https://hiremee.co.in/jobs-list/cravingcode-technologies-pvt-ltd/jr-quality-assurance-tester-70623",
+  "why": [
+    "Manual / functional QA — the core of your resume"
+  ],
+  "work_mode": "unspecified",
+  "years_max": null,
+  "years_min": null
+}

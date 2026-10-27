@@ -1,0 +1,92 @@
+{
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/freelance-qa-tester-web-mobile-applications/synaxa-technologies/19917400",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "Synaxa Technologies",
+ "company_slug": "synaxa-technologies",
+ "concerns": [
+  "Also asks for: API testing",
+  "Office outside Mumbai — relocation within India",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "7b6b01141a7e",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-10-27T10:50:24Z",
+ "fit": 79,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "0c493ef4086ae0",
+ "include_reason": "Freelance / crowd-testing role",
+ "india": {
+  "cities": [],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "crowd",
+ "last_verified": "2026-10-27T10:50:24Z",
+ "location": "All India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-10-24T07:35:56Z",
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 74,
+  "comp": 60,
+  "company": 66,
+  "location": 80,
+  "seniority": 94,
+  "skill": 82
+ },
+ "seniority": "unspecified",
+ "snippet": "Experience: 3 to 7 Yrs\nSkills: software testing, mobile application testing, functional testing, regression testing, writing test cases, API testing, analytical skills, documenting bugs, Postman, attention to detail\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "19917400",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-10-24T07:35:56Z",
+   "seen_at": "2026-10-27T10:50:24Z",
+   "url": "https://www.shine.com/jobs/freelance-qa-tester-web-mobile-applications/synaxa-technologies/19917400"
+  }
+ ],
+ "specializations": [
+  "Mobile apps"
+ ],
+ "status": "active",
+ "tier": 3,
+ "title": "Freelance QA Tester (Web & Mobile Applications)",
+ "tools": [
+  "Functional testing",
+  "Regression testing",
+  "Test cases & scenarios",
+  "API testing"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/freelance-qa-tester-web-mobile-applications/synaxa-technologies/19917400",
+ "why": [
+  "Freelance / crowd testing — paid per test cycle, remote",
+  "Already on your resume: Functional testing, Regression testing, Test cases & scenarios",
+  "Platforms you test on: Mobile apps",
+  "Asks for 3+ years — you have about 2.5",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": 7,
+ "years_min": 3
+}

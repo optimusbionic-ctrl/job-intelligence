@@ -1,0 +1,120 @@
+{
+  "apply_url": null,
+  "board_apply": "https://himalayas.app/companies/photon/jobs/qa-engineer-offshore-chennai?utm_source=api",
+  "category": "Product / SaaS",
+  "comp_potential": "unknown",
+  "company": "Photon",
+  "company_slug": "photon",
+  "concerns": [
+    "Mentions test automation — be ready to discuss it or show a small script",
+    "Pay not disclosed — ask for the range early"
+  ],
+  "contacts_count": 0,
+  "content_hash": "bf36087abd22",
+  "date_quality": "exact",
+  "deadline": "2026-12-02T13:27:32Z",
+  "employment": "full-time",
+  "first_seen": "2026-10-19T13:24:59Z",
+  "fit": 85,
+  "has_hiring_manager": false,
+  "has_named_contact": false,
+  "has_public_email": false,
+  "id": "77620623c84823",
+  "include_reason": "QA / test engineer title",
+  "india": {
+    "cities": [],
+    "company": "yes",
+    "reason": "Location lists India",
+    "status": "confirmed",
+    "visa": false
+  },
+  "kind": "qa-engineer",
+  "last_verified": "2026-10-19T13:24:59Z",
+  "location": "India",
+  "logo": "https://cdn-images.himalayas.app/jcz22vzek6q5rcz4rn965fx3rcix",
+  "needs_review": false,
+  "official": false,
+  "posted_at": "2026-10-03T00:51:28Z",
+  "repost": false,
+  "requirements": [],
+  "responsibilities": [],
+  "salary": {
+    "state": "unavailable"
+  },
+  "scores": {
+    "ai": 74,
+    "comp": 60,
+    "company": 95,
+    "location": 100,
+    "seniority": 84,
+    "skill": 86
+  },
+  "seniority": "unspecified",
+  "snippet": "QA Automation\n\n• 3+ yrs. of experience in creating Test cases and testing both manual and automation. \n\n• Prior experience in analyzing project scope and preparing test execution plans for sprint releases. \n\n• Participate in Scrum meetings and make sure there is no blocker or dependency to start the regression testing.\n\n• Coordinate with various team to track the execution status, communicate to project leadership te",
+  "source_primary": "Himalayas",
+  "sources": [
+    {
+      "id": "himalayas",
+      "job_id": "https://himalayas.app/companies/photon/jobs/qa-engineer-offshore-chennai",
+      "kind": "board",
+      "name": "Himalayas",
+      "posted_at": "2026-10-03T13:27:33Z",
+      "seen_at": "2026-10-19T13:24:59Z",
+      "url": "https://himalayas.app/companies/photon/jobs/qa-engineer-offshore-chennai?utm_source=api"
+    },
+    {
+      "id": "himalayas",
+      "job_id": "https://himalayas.app/companies/photon/jobs/qa-engineer-offshore-medimpact",
+      "kind": "board",
+      "name": "Himalayas",
+      "posted_at": "2026-10-03T08:39:34Z",
+      "seen_at": "2026-10-19T13:24:59Z",
+      "url": "https://himalayas.app/companies/photon/jobs/qa-engineer-offshore-medimpact?utm_source=api"
+    },
+    {
+      "id": "himalayas",
+      "job_id": "https://himalayas.app/companies/photon/jobs/qa-engineer_offshore",
+      "kind": "board",
+      "name": "Himalayas",
+      "posted_at": "2026-10-03T01:15:44Z",
+      "seen_at": "2026-10-19T13:24:59Z",
+      "url": "https://himalayas.app/companies/photon/jobs/qa-engineer_offshore?utm_source=api"
+    },
+    {
+      "id": "himalayas",
+      "job_id": "https://himalayas.app/companies/photon/jobs/qa-engineer-offshore",
+      "kind": "board",
+      "name": "Himalayas",
+      "posted_at": "2026-10-03T00:51:28Z",
+      "seen_at": "2026-10-19T13:24:59Z",
+      "url": "https://himalayas.app/companies/photon/jobs/qa-engineer-offshore?utm_source=api"
+    }
+  ],
+  "specializations": [
+    "Android",
+    "iOS",
+    "Mobile apps"
+  ],
+  "status": "active",
+  "tier": 1,
+  "title": "QA Engineer| Offshore | Chennai",
+  "tools": [
+    "Regression testing",
+    "Test cases & scenarios",
+    "Test automation",
+    "Agile / Scrum"
+  ],
+  "track": "software",
+  "updated_at": null,
+  "url": "https://himalayas.app/companies/photon/jobs/qa-engineer-offshore-chennai?utm_source=api",
+  "why": [
+    "QA / test engineer role",
+    "Already on your resume: Regression testing, Test cases & scenarios",
+    "Platforms you test on: Android, iOS, Mobile apps",
+    "Product / SaaS company",
+    "Location lists India"
+  ],
+  "work_mode": "remote",
+  "years_max": null,
+  "years_min": null
+}

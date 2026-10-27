@@ -1,0 +1,77 @@
+{
+  "apply_url": null,
+  "board_apply": "https://designproject.io/jobs/lead-product-designer-motion-graphics-at-wells-fargo-and-company-lbxqks",
+  "category": "Other",
+  "comp_potential": "unknown",
+  "company": "Wells Fargo",
+  "company_slug": "wells-fargo",
+  "concerns": [
+    "Employer has not confirmed hiring from India",
+    "Compensation not disclosed",
+    "Full description not available from this source"
+  ],
+  "contacts_count": 0,
+  "content_hash": "fa513665d7f0",
+  "date_quality": "unknown",
+  "deadline": null,
+  "employment": "full-time",
+  "first_seen": "2026-10-18T18:27:42Z",
+  "fit": 50,
+  "has_hiring_manager": false,
+  "has_named_contact": false,
+  "has_public_email": false,
+  "id": "9027992a003890",
+  "include_reason": "Mixed graphic + motion title",
+  "india": {
+    "cities": [],
+    "company": "unclear",
+    "reason": "Location not stated",
+    "status": "unconfirmed",
+    "visa": false
+  },
+  "kind": "graphic-motion",
+  "last_verified": "2026-10-19T09:28:17Z",
+  "location": "",
+  "logo": null,
+  "needs_review": false,
+  "official": false,
+  "posted_at": null,
+  "repost": false,
+  "requirements": [],
+  "responsibilities": [],
+  "salary": {
+    "state": "unavailable"
+  },
+  "scores": {
+    "ai": 45,
+    "comp": 48,
+    "company": 40,
+    "location": 38,
+    "seniority": 96,
+    "skill": 42
+  },
+  "seniority": "lead",
+  "snippet": "",
+  "source_primary": "designproject.io (via search index)",
+  "sources": [
+    {
+      "id": "web",
+      "job_id": "https://designproject.io/jobs/lead-product-designer-motion-graphics-at-wells-fargo-and-company-lbxqks",
+      "kind": "search",
+      "name": "designproject.io (via search index)",
+      "posted_at": null,
+      "seen_at": "2026-10-19T09:28:17Z",
+      "url": "https://designproject.io/jobs/lead-product-designer-motion-graphics-at-wells-fargo-and-company-lbxqks"
+    }
+  ],
+  "specializations": [],
+  "status": "lead",
+  "tier": 3,
+  "title": "Lead Product Designer (Motion Graphics)",
+  "tools": [],
+  "updated_at": null,
+  "url": "https://designproject.io/jobs/lead-product-designer-motion-graphics-at-wells-fargo-and-company-lbxqks",
+  "why": [],
+  "work_mode": "unspecified",
+  "years_min": null
+}

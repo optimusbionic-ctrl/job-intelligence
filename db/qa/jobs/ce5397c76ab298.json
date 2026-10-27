@@ -1,0 +1,109 @@
+{
+  "apply_url": null,
+  "board_apply": "https://himalayas.app/companies/rxcloud/jobs/automation-tester?utm_source=api",
+  "category": "Other",
+  "comp_potential": "unknown",
+  "company": "RxCloud",
+  "company_slug": "rxcloud",
+  "concerns": [
+    "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
+    "Also asks for: API testing, Programming, ISTQB",
+    "Pay not disclosed — ask for the range early"
+  ],
+  "contacts_count": 0,
+  "content_hash": "ec9d9cf2275e",
+  "date_quality": "exact",
+  "deadline": "2026-11-29T21:07:36Z",
+  "employment": "full-time",
+  "first_seen": "2026-10-19T13:24:59Z",
+  "fit": 71,
+  "has_hiring_manager": false,
+  "has_named_contact": false,
+  "has_public_email": false,
+  "id": "ce5397c76ab298",
+  "include_reason": "Automation-heavy QA (SDET)",
+  "india": {
+    "cities": [],
+    "company": "yes",
+    "reason": "Location lists India",
+    "status": "confirmed",
+    "visa": false
+  },
+  "kind": "automation",
+  "last_verified": "2026-10-19T13:24:59Z",
+  "location": "India",
+  "logo": "https://cdn-images.himalayas.app/t9pv9meftigtdq55xcqsjwokpmzw",
+  "needs_review": false,
+  "official": false,
+  "posted_at": "2026-09-30T21:07:37Z",
+  "repost": false,
+  "requirements": [
+    "Proven experience as an Automation Tester or similar role.",
+    "Selenium with Python ,worked on libraries like Pytest, PAF.",
+    "Solid understanding of testing methodologies, SDLC, and STLC.",
+    "Familiarity with API testing and tools (e.g., Postman, RestAssured).",
+    "Proficient in version control systems (e.g., Git).",
+    "Knowledge of CI/CD processes and tools.",
+    "ISTQB or other relevant certifications are a plus."
+  ],
+  "responsibilities": [
+    "Develop and implement automated test scripts for web and mobile applications.",
+    "Collaborate with cross-functional teams to understand project requirements and deliver high-quality testing solutions.",
+    "Design, execute, and maintain automated test scenarios to ensure software quality.",
+    "Identify, report, and track software defects to resolution.",
+    "Perform regression testing to validate software releases.",
+    "Participate in test planning, estimation, and strategy discussions.",
+    "Collaborate with developers to integrate automated tests into the continuous integration (CI) pipeline."
+  ],
+  "salary": {
+    "state": "unavailable"
+  },
+  "scores": {
+    "ai": 74,
+    "comp": 60,
+    "company": 66,
+    "location": 100,
+    "seniority": 84,
+    "skill": 53
+  },
+  "seniority": "unspecified",
+  "snippet": "Job Title: Automation Tester\n Location : India(Remote)\n Experience : 5+yrs\n Responsibilities:\n\n• Develop and implement automated test scripts for web and mobile applications.\n\n• Collaborate with cross-functional teams to understand project requirements and deliver high-quality testing solutions.\n\n• Design, execute, and maintain automated test scenarios to ensure software quality.\n\n• Identify, report, and track softwa",
+  "source_primary": "Himalayas",
+  "sources": [
+    {
+      "id": "himalayas",
+      "job_id": "https://himalayas.app/companies/rxcloud/jobs/automation-tester",
+      "kind": "board",
+      "name": "Himalayas",
+      "posted_at": "2026-09-30T21:07:37Z",
+      "seen_at": "2026-10-19T13:24:59Z",
+      "url": "https://himalayas.app/companies/rxcloud/jobs/automation-tester?utm_source=api"
+    }
+  ],
+  "specializations": [
+    "Mobile apps"
+  ],
+  "status": "active",
+  "tier": 3,
+  "title": "Automation Tester",
+  "tools": [
+    "Regression testing",
+    "Test cases & scenarios",
+    "Bug reporting",
+    "API testing",
+    "Test automation",
+    "Programming",
+    "ISTQB"
+  ],
+  "track": "software",
+  "updated_at": null,
+  "url": "https://himalayas.app/companies/rxcloud/jobs/automation-tester?utm_source=api",
+  "why": [
+    "Already on your resume: Regression testing, Test cases & scenarios, Bug reporting",
+    "Platforms you test on: Mobile apps",
+    "Location lists India"
+  ],
+  "work_mode": "remote",
+  "years_max": null,
+  "years_min": null
+}

@@ -1,0 +1,55 @@
+{
+  "category": "Other",
+  "classification": "Inferred from job description",
+  "india_hiring": {
+    "board": null,
+    "changed_at": "2026-10-16T00:28:34Z",
+    "evidence": [],
+    "first_checked_at": "2026-10-16T00:28:34Z",
+    "india_based": false,
+    "method": "Careers board, posting text, web search",
+    "sig": "54391d7cdf",
+    "summary": "No public evidence yet about hiring from India.",
+    "verdict": "unclear",
+    "web": {
+      "checked_at": "2026-10-16T01:27:27Z",
+      "query": "\"Inovetix\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
+      "results": [
+        {
+          "description": "location_on Remote (anywhere). open_in_new Apply through Inovetix Ltd. View details. Closed. Inovetix Ltd. Virtual Assistant. Inovetix Ltd. You will accelerate ...",
+          "title": "Careers at Inovetix Ltd. - Torre.ai",
+          "url": "https://torre.ai/careers/InovetixLtd"
+        },
+        {
+          "description": "Remote Job! Inovetix Ltd. is hiring Asst. Manager/Manager, International Business Development (Software) Monthly Salary: BDT 60000to 70000+ ...",
+          "title": "Developing and presenting proposals customized for each client's specific ...",
+          "url": "https://www.facebook.com/CareerHiveDotCom/posts/remote-jobinovetix-ltd-is-hiring-asst-managermanager-international-business-deve/1484720353665282/"
+        },
+        {
+          "description": "Easy 1-Click Apply (INOVETIX) Front-End Engineer: React/TypeScript, Remote & Mentorship job in Austin, TX. View job description, responsibilities and ...",
+          "title": "Inovetix Front End Software Engineer Job in Austin, TX - ZipRecruiter",
+          "url": "https://www.ziprecruiter.com/c/inovetix/Job/Front-End-Engineer:-React-TypeScript,-Remote-&-Mentorship/-in-Austin,TX?jid=f16812b9f765dfed"
+        },
+        {
+          "description": "Inovetix is a technology solutions company specializing in AI agentic systems, custom software development, and startup technology support.",
+          "title": "Inovetix - LinkedIn",
+          "url": "https://www.linkedin.com/company/inovetix"
+        },
+        {
+          "description": "Job description. Inovetix is seeking a Product ... Jobs, services, and freelance in one place. Navigation. Search jobs ... Remote Jobs · Blog · Employer resources.",
+          "title": "Product Designer - End-to-End UX & Design System (Remote ...",
+          "url": "https://bebee.com/us/jobs/product-designer-end-to-end-ux-design-system-remote-inovetix-los-angeles--lifeworq-b56c3115-e464-46f8-a3da-c470889c5907"
+        },
+        {
+          "description": "Inovetix is an intelligent AI agent designed to automate tasks, answer questions, and support your workflow 24/7. It acts as a smart teammate that adapts to ...",
+          "title": "Inovetix",
+          "url": "https://inovetix.com/"
+        }
+      ]
+    }
+  },
+  "inferred": true,
+  "name": "Inovetix",
+  "slug": "inovetix",
+  "tier": 3
+}

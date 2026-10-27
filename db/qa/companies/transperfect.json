@@ -1,0 +1,38 @@
+{
+  "category": "Other",
+  "classification": "Inferred from job description",
+  "india_hiring": {
+    "board": null,
+    "changed_at": "2026-10-19T17:44:21Z",
+    "evidence": [
+      {
+        "detail": "Gaming Linguist QA Tester - Hindi Speaker — All India",
+        "kind": "posting",
+        "label": "A current posting lists India as a location",
+        "url": "https://www.shine.com/jobs/gaming-linguist-qa-tester-hindi-speaker/transperfect/19682174",
+        "weight": 5
+      },
+      {
+        "detail": "QA Automation Engineer — Worldwide",
+        "kind": "posting",
+        "label": "A current posting is open worldwide",
+        "url": "https://himalayas.app/companies/transperfect/jobs/qa-automation-engineer?utm_source=api",
+        "weight": 3
+      }
+    ],
+    "first_checked_at": "2026-10-19T13:24:59Z",
+    "india_based": false,
+    "method": "Careers board, posting text",
+    "sig": "2715dffa34",
+    "summary": "A current posting lists India as a location.",
+    "verdict": "yes"
+  },
+  "inferred": true,
+  "logo": "https://cdn-images.himalayas.app/ajo5i9rif4b5o85fv5k9mcd8pr0p",
+  "name": "TransPerfect",
+  "slug": "transperfect",
+  "tier": 3,
+  "tracks": [
+    "software"
+  ]
+}

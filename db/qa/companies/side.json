@@ -1,0 +1,32 @@
+{
+  "category": "Game studio",
+  "classification": "Inferred from job description",
+  "domain": "side.inc",
+  "india_hiring": {
+    "board": null,
+    "changed_at": "2026-10-19T13:24:59Z",
+    "evidence": [
+      {
+        "detail": "Quality Engineering (Contract/Freelance-1 month) — Bengaluru, Karnataka, India",
+        "kind": "posting",
+        "label": "A current posting lists India as a location",
+        "url": "https://jobs.workable.com/view/aZ4dPr8At8w2imyGaRw8eh/quality-engineering-(contract%2Ffreelance-1-month)-in-bengaluru-at-side",
+        "weight": 5
+      }
+    ],
+    "first_checked_at": "2026-10-19T13:24:59Z",
+    "india_based": false,
+    "method": "Careers board, posting text",
+    "sig": "e53b099c78",
+    "summary": "A current posting lists India as a location.",
+    "verdict": "yes"
+  },
+  "inferred": true,
+  "logo": "https://workablehr.s3.amazonaws.com/uploads/account/logo/302673/logo",
+  "name": "Side",
+  "slug": "side",
+  "tier": 1,
+  "tracks": [
+    "game"
+  ]
+}

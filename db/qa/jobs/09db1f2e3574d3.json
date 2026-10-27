@@ -1,0 +1,108 @@
+{
+ "apply_url": null,
+ "board_apply": "https://himalayas.app/companies/insightsoftware/jobs/software-development-engineer-in-test?utm_source=api",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "insightsoftware",
+ "company_slug": "insightsoftware",
+ "concerns": [
+  "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
+  "Also asks for: Programming",
+  "Asks for 4+ years — you have about 2.5",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "24d745f25523",
+ "date_quality": "exact",
+ "deadline": "2026-12-24T03:35:10Z",
+ "employment": "full-time",
+ "first_seen": "2026-10-27T10:50:24Z",
+ "fit": 69,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "09db1f2e3574d3",
+ "include_reason": "Automation-heavy QA (SDET)",
+ "india": {
+  "cities": [],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "automation",
+ "last_verified": "2026-10-27T10:50:24Z",
+ "location": "India",
+ "logo": "https://cdn-images.himalayas.app/n2uxlohlk0nknik80ym1e7bdckgk",
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-10-25T03:35:11Z",
+ "repost": false,
+ "requirements": [
+  "Build and maintain quality gates in CI pipelines (test stages, coverage, reporting, flaky-test detection).",
+  "Develop reusable test libraries, fixtures, and test data builders in C#.",
+  "Maintain a lean, targeted set of E2E and UI tests (Selenium, Ranorex) for critical user journeys across web and desktop.",
+  "Contribute to API and performance testing.",
+  "Participate in stand-ups, sprint planning, and retrospectives.",
+  "Strong proficiency in C# and .NET, with experience writing and refactoring production code, not only test code.",
+  "Deep experience with unit testing frameworks (xUnit, NUnit, or MSTest) and mocking libraries (Moq, NSubstitute, or similar)."
+ ],
+ "responsibilities": [
+  "Refactor production C# code to improve testability: introduce dependency injection, create seams, decouple components, and remove hard-coded dependencies.",
+  "Write characterization tests to safely bring legacy code under test before changing it.",
+  "Pair with developers on design and on unit, component, and integration test strategy, and help them write better tests themselves.",
+  "Use AI coding agents to write and refactor tests and production code. Own the agent rule files and tooling that govern how they write tests (e.g., AGENTS.md, MCP servers).",
+  "Define and evolve the team's test architecture, deciding what belongs at each level of the pyramid and actively shrinking reliance on E2E tests.",
+  "Review PRs, including agent-generated changes, for testability, test quality, and coverage, not just for whether tests exist.",
+  "Review requirements and acceptance criteria early to shape testable designs."
+ ],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 66,
+  "comp": 60,
+  "company": 66,
+  "location": 100,
+  "seniority": 72,
+  "skill": 58
+ },
+ "seniority": "unspecified",
+ "snippet": "About Us:\n insightsoftware is a global provider of reporting, analytics, and performance management solutions that unlock the potential of business data and transform the way finance and data teams operate. We empower leaders from over 32,000 organizations to make timely and intelligent decisions. Our comprehensive solutions span Financial Planning and Analysis (FP&A), Controllership, and Data and Analytics. We deliv",
+ "source_primary": "Himalayas",
+ "sources": [
+  {
+   "id": "himalayas",
+   "job_id": "https://himalayas.app/companies/insightsoftware/jobs/software-development-engineer-in-test",
+   "kind": "board",
+   "name": "Himalayas",
+   "posted_at": "2026-10-25T03:35:11Z",
+   "seen_at": "2026-10-27T10:50:24Z",
+   "url": "https://himalayas.app/companies/insightsoftware/jobs/software-development-engineer-in-test?utm_source=api"
+  }
+ ],
+ "specializations": [
+  "Windows / PC"
+ ],
+ "status": "active",
+ "tier": 3,
+ "title": "Software Development Engineer in Test",
+ "tools": [
+  "Stress / load testing",
+  "UI testing",
+  "Test automation",
+  "Programming",
+  "Agile / Scrum"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://himalayas.app/companies/insightsoftware/jobs/software-development-engineer-in-test?utm_source=api",
+ "why": [
+  "Already on your resume: Stress / load testing, UI testing",
+  "Platforms you test on: Windows / PC",
+  "Location lists India"
+ ],
+ "work_mode": "remote",
+ "years_max": null,
+ "years_min": 4
+}

@@ -1,0 +1,30 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-23T12:44:11Z",
+  "evidence": [
+   {
+    "detail": "Software Tester — Ahmednagar, Amravati, Akola, Dhubri, Bhopal, Bhagalpur, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/software-tester/workwaves/19799089",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-10-19T13:24:59Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "4076941f4d",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Workwaves",
+ "slug": "workwaves",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}

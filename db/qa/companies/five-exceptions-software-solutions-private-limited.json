@@ -1,0 +1,30 @@
+{
+  "category": "Other",
+  "classification": "Inferred from job description",
+  "india_hiring": {
+    "board": null,
+    "changed_at": "2026-10-21T09:45:21Z",
+    "evidence": [
+      {
+        "detail": "QA Automation Engineer — Bhopal, India",
+        "kind": "posting",
+        "label": "A current posting lists India as a location",
+        "url": "https://www.shine.com/jobs/qa-automation-engineer/five-exceptions-software-solutions-private-limited/19824551",
+        "weight": 5
+      }
+    ],
+    "first_checked_at": "2026-10-21T09:45:21Z",
+    "india_based": false,
+    "method": "Careers board, posting text",
+    "sig": "8b8b871a2e",
+    "summary": "A current posting lists India as a location.",
+    "verdict": "yes"
+  },
+  "inferred": true,
+  "name": "FIVE EXCEPTIONS SOFTWARE SOLUTIONS PRIVATE LIMITED",
+  "slug": "five-exceptions-software-solutions-private-limited",
+  "tier": 3,
+  "tracks": [
+    "software"
+  ]
+}

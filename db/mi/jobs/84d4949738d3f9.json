@@ -1,0 +1,99 @@
+{
+  "apply_url": null,
+  "board_apply": "https://www.linkedin.com/posts/angshumansett_hiring-kolkatajobs-performancemarketing-activity-7514922847710965760-Ub4S",
+  "category": "Other",
+  "comp_potential": "below",
+  "company": "Angshuman Sett's Company",
+  "company_slug": "angshuman-sett-s-company",
+  "concerns": [
+    "Pay not disclosed — showing a low-confidence estimate",
+    "Pay evidence suggests below ₹35 LPA"
+  ],
+  "contacts_count": 1,
+  "content_hash": "83dc12650288",
+  "date_quality": "exact",
+  "deadline": null,
+  "employment": "full-time",
+  "first_seen": "2026-10-16T21:30:21Z",
+  "fit": 50,
+  "has_hiring_manager": true,
+  "has_named_contact": true,
+  "has_public_email": false,
+  "id": "84d4949738d3f9",
+  "include_reason": "Motion design title",
+  "india": {
+    "cities": [],
+    "company": "yes",
+    "reason": "Location lists India",
+    "status": "confirmed",
+    "visa": false
+  },
+  "kind": "motion",
+  "last_verified": "2026-10-18T00:29:34Z",
+  "location": "Kolkata, India",
+  "logo": null,
+  "needs_review": false,
+  "official": false,
+  "posted_at": "2026-10-11T05:40:27Z",
+  "repost": false,
+  "requirements": [],
+  "responsibilities": [],
+  "salary": {
+    "estimate": {
+      "confidence": "low",
+      "currency": "INR",
+      "evidence": [
+        "ab-senior-motion-designer-in",
+        "ab-senior-motion-graphic-designer-in",
+        "gd-senior-motion-designer-blr"
+      ],
+      "high": 920000,
+      "inr_high": 920000,
+      "inr_low": 800000,
+      "low": 800000,
+      "method": "India market averages for senior motion designers from 3 sources (AmbitionBox ×2, Glassdoor Bangalore): ₹8.0–9.2 LPA. These are averages across all employers and experience around 3 years; no evidence that this employer pays above market.",
+      "potential": "below"
+    },
+    "note": "Estimate — not employer-confirmed",
+    "state": "estimate",
+    "verified_at": "2026-10-18T00:29:34Z"
+  },
+  "scores": {
+    "ai": 30,
+    "comp": 22,
+    "company": 40,
+    "location": 88,
+    "seniority": 66,
+    "skill": 57
+  },
+  "seniority": "unspecified",
+  "snippet": "... Motion Designer with strong visual storytelling and design skills. - Recruitment: Senior Talent Acquisition Lead and Junior HR Recruiter with candidate ...",
+  "source_primary": "LinkedIn post (public)",
+  "sources": [
+    {
+      "id": "linkedin_post",
+      "job_id": "https://www.linkedin.com/posts/angshumansett_hiring-kolkatajobs-performancemarketing-activity-7514922847710965760-Ub4S",
+      "kind": "social",
+      "name": "LinkedIn post (public)",
+      "posted_at": "2026-10-11T05:40:27Z",
+      "seen_at": "2026-10-18T00:29:34Z",
+      "url": "https://www.linkedin.com/posts/angshumansett_hiring-kolkatajobs-performancemarketing-activity-7514922847710965760-Ub4S"
+    }
+  ],
+  "specializations": [
+    "Technical storytelling"
+  ],
+  "status": "lead",
+  "tier": 3,
+  "title": "Motion Designer",
+  "tools": [],
+  "updated_at": null,
+  "url": "https://www.linkedin.com/posts/angshumansett_hiring-kolkatajobs-performancemarketing-activity-7514922847710965760-Ub4S",
+  "why": [
+    "Core motion design role",
+    "Specialisations in scope: Technical storytelling",
+    "Location lists India"
+  ],
+  "work_mode": "onsite",
+  "years_min": null
+}

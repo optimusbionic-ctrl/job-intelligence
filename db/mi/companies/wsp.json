@@ -1,0 +1,55 @@
+{
+  "category": "Other",
+  "classification": "Inferred from job description",
+  "india_hiring": {
+    "board": null,
+    "changed_at": "2026-10-18T21:28:08Z",
+    "evidence": [],
+    "first_checked_at": "2026-10-18T21:28:08Z",
+    "india_based": false,
+    "method": "Careers board, posting text, web search",
+    "sig": "54391d7cdf",
+    "summary": "No public evidence yet about hiring from India.",
+    "verdict": "unclear",
+    "web": {
+      "checked_at": "2026-10-18T22:27:20Z",
+      "query": "\"WSP\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
+      "results": [
+        {
+          "description": "",
+          "title": "WSP in India",
+          "url": "https://jobs.weekday.works/wkdyd0bjie"
+        },
+        {
+          "description": "",
+          "title": "WSP in India",
+          "url": "https://jobs.weekday.works/wkdy8oybd6"
+        },
+        {
+          "description": "",
+          "title": "WSP in India",
+          "url": "https://jobs.weekday.works/wkdy0tpn5o"
+        },
+        {
+          "description": "",
+          "title": "WSP in India",
+          "url": "https://jobs.weekday.works/wkdy757xyg"
+        },
+        {
+          "description": "",
+          "title": "WSP in India",
+          "url": "https://jobs.weekday.works/wkdy8098wj"
+        },
+        {
+          "description": "",
+          "title": "WSP in India",
+          "url": "https://jobs.weekday.works/wkdy4gwnw6"
+        }
+      ]
+    }
+  },
+  "inferred": true,
+  "name": "WSP",
+  "slug": "wsp",
+  "tier": 3
+}

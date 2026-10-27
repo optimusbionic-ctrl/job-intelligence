@@ -1,0 +1,88 @@
+{
+  "apply_url": null,
+  "board_apply": "https://www.shine.com/jobs/qa-tester-hospital-information-system-mumbai/vrinda-international/19634181",
+  "category": "Other",
+  "comp_potential": "unknown",
+  "company": "Vrinda International",
+  "company_slug": "vrinda-international",
+  "concerns": [
+    "Also asks for: SQL / databases",
+    "Asks for 4+ years — you have about 2.5",
+    "Pay not disclosed — ask for the range early"
+  ],
+  "contacts_count": 0,
+  "content_hash": "7c940190cb11",
+  "date_quality": "exact",
+  "deadline": null,
+  "employment": "full-time",
+  "first_seen": "2026-10-20T23:43:22Z",
+  "fit": 70,
+  "has_hiring_manager": false,
+  "has_named_contact": false,
+  "has_public_email": false,
+  "id": "63673ff0f1c589",
+  "include_reason": "Manual / functional QA title",
+  "india": {
+    "cities": [
+      "Mumbai"
+    ],
+    "company": "yes",
+    "reason": "Location lists India",
+    "status": "confirmed",
+    "visa": false
+  },
+  "kind": "manual-qa",
+  "last_verified": "2026-10-20T23:43:22Z",
+  "location": "Mumbai City, India",
+  "logo": null,
+  "needs_review": false,
+  "official": false,
+  "posted_at": "2026-09-29T09:29:11Z",
+  "repost": false,
+  "requirements": [],
+  "responsibilities": [],
+  "salary": {
+    "state": "unavailable"
+  },
+  "scores": {
+    "ai": 58,
+    "comp": 60,
+    "company": 66,
+    "location": 100,
+    "seniority": 72,
+    "skill": 64
+  },
+  "seniority": "unspecified",
+  "snippet": "Experience: 4 to 8 Yrs\nSkills: Patient Registration, LIS, Jira, ALM, Azure DevOps, Hospital Information System HIS Testing, OPDIPD  Billing Module Testing, RIS  Pharmacy Module Testing, SQL  Database Testing, API  Integration Testing\n(Summary from the Shine.com listing; open the posting for the full description.)",
+  "source_primary": "Shine.com",
+  "sources": [
+    {
+      "id": "shine",
+      "job_id": "19634181",
+      "kind": "board",
+      "name": "Shine.com",
+      "posted_at": "2026-09-29T09:29:11Z",
+      "seen_at": "2026-10-20T23:43:22Z",
+      "url": "https://www.shine.com/jobs/qa-tester-hospital-information-system-mumbai/vrinda-international/19634181"
+    }
+  ],
+  "specializations": [],
+  "status": "active",
+  "tier": 3,
+  "title": "QA Tester  Hospital Information System (Mumbai)",
+  "tools": [
+    "Jira",
+    "SQL / databases"
+  ],
+  "track": "software",
+  "updated_at": null,
+  "url": "https://www.shine.com/jobs/qa-tester-hospital-information-system-mumbai/vrinda-international/19634181",
+  "why": [
+    "Manual / functional QA — the core of your resume",
+    "Already on your resume: Jira",
+    "Location lists India"
+  ],
+  "work_mode": "onsite",
+  "years_max": 8,
+  "years_min": 4
+}

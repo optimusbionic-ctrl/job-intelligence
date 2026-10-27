@@ -1,0 +1,27 @@
+{
+  "category": "Other",
+  "classification": "Inferred from job description",
+  "india_hiring": {
+    "board": null,
+    "changed_at": "2026-10-17T06:29:34Z",
+    "evidence": [
+      {
+        "detail": "Motion Designer — Bengaluru, India",
+        "kind": "posting",
+        "label": "A current posting lists India as a location",
+        "url": "https://www.foundit.in/job/motion-designer-2-years-team-pumpkin-bengaluru-bangalore-36347394",
+        "weight": 5
+      }
+    ],
+    "first_checked_at": "2026-10-17T06:29:34Z",
+    "india_based": false,
+    "method": "Careers board, posting text",
+    "sig": "bf509bc951",
+    "summary": "A current posting lists India as a location.",
+    "verdict": "yes"
+  },
+  "inferred": true,
+  "name": "Team Pumpkin",
+  "slug": "team-pumpkin",
+  "tier": 3
+}

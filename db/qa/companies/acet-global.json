@@ -1,0 +1,58 @@
+{
+  "category": "Other",
+  "classification": "Inferred from job description",
+  "india_hiring": {
+    "board": null,
+    "changed_at": "2026-10-21T00:44:37Z",
+    "evidence": [],
+    "first_checked_at": "2026-10-21T00:44:37Z",
+    "india_based": false,
+    "method": "Careers board, posting text, web search",
+    "sig": "54391d7cdf",
+    "summary": "No public evidence yet about hiring from India.",
+    "verdict": "unclear",
+    "web": {
+      "checked_at": "2026-10-21T01:43:55Z",
+      "query": "\"ACET Global\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
+      "results": [
+        {
+          "description": "",
+          "title": "Work Remotely for Global Companies Hiring in India",
+          "url": "https://www.wisemonk.io/for-candidates"
+        },
+        {
+          "description": "",
+          "title": "Build your career with global companies, without leaving India",
+          "url": "https://www.wisemonk.io/for-candidate"
+        },
+        {
+          "description": "",
+          "title": "India leads the pack in global remote hiring for international workers in the Asia/Pacific Region",
+          "url": "https://cxotoday.com/media-coverage/india-leads-the-pack-in-global-remote-hiring-for-international-workers-in-the-asia-pacific-region/"
+        },
+        {
+          "description": "",
+          "title": "Remote für Globale Unternehmen Arbeiten, die in Indien Einstellen",
+          "url": "https://www.wisemonk.io/de/for-candidates"
+        },
+        {
+          "description": "",
+          "title": "Approved employer jobs in India",
+          "url": "https://jobs.accaglobal.com/jobs/approved-employer/india/global-business-services-and-outsourcing/permanent/qualified-accountant/"
+        },
+        {
+          "description": "",
+          "title": "www.g2.com",
+          "url": "https://www.g2.com/products/gloroots/discuss"
+        }
+      ]
+    }
+  },
+  "inferred": true,
+  "name": "ACET Global",
+  "slug": "acet-global",
+  "tier": 3,
+  "tracks": [
+    "software"
+  ]
+}
