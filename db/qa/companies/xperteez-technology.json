@@ -3,20 +3,20 @@
  "classification": "Inferred from job description",
  "india_hiring": {
   "board": null,
-  "changed_at": "2026-11-03T18:02:49Z",
+  "changed_at": "2026-11-03T18:21:21Z",
   "evidence": [
    {
-    "detail": "QA Engineer – 2D & Creative Applications | Remote - Contract — Worldwide",
+    "detail": "QA Engineer | Remote - Contract — Worldwide",
     "kind": "posting",
     "label": "A current posting is open worldwide",
-    "url": "https://himalayas.app/companies/xperteez-technology/jobs/qa-engineer-2d-creative-applications-remote-contract?utm_source=api",
+    "url": "https://himalayas.app/companies/xperteez-technology/jobs/qa-engineer-remote-contract?utm_source=api",
     "weight": 3
    }
   ],
   "first_checked_at": "2026-10-19T13:24:59Z",
   "india_based": false,
   "method": "Careers board, posting text, web search",
-  "sig": "968d6c767c",
+  "sig": "10ae638dc0",
   "summary": "No India-located roles found, but a current posting is open worldwide.",
   "verdict": "likely",
   "web": {
