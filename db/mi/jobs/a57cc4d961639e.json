@@ -1,118 +1,118 @@
 {
-  "apply_url": "https://jobs.ashbyhq.com/rilla/911f512f-cabc-4e4d-b238-906825d5e49d/application",
-  "board_apply": null,
-  "category": "AI",
-  "comp_potential": "verified35",
-  "company": "Rilla",
-  "company_slug": "rilla",
-  "concerns": [
-    "Rilla's other roles are limited to named countries; confirm India is eligible",
-    "Employer has not confirmed hiring from India",
-    "Listed pay is in USD; confirm it applies to India-based hires",
-    "Contract role"
-  ],
-  "contacts_count": 0,
-  "content_hash": "888e5991426c",
-  "date_quality": "exact",
-  "deadline": null,
-  "employment": "contract",
-  "first_seen": "2026-10-18T15:28:43Z",
-  "fit": 77,
-  "has_hiring_manager": false,
-  "has_named_contact": false,
-  "has_public_email": false,
-  "id": "a57cc4d961639e",
-  "include_reason": "Motion design title",
-  "india": {
-    "cities": [],
-    "company": "no",
-    "reason": "Location not stated · Rilla hires only in named countries",
-    "status": "unconfirmed",
-    "visa": false
+ "apply_url": "https://jobs.ashbyhq.com/rilla/911f512f-cabc-4e4d-b238-906825d5e49d/application",
+ "board_apply": null,
+ "category": "AI",
+ "comp_potential": "verified35",
+ "company": "Rilla",
+ "company_slug": "rilla",
+ "concerns": [
+  "Rilla's other roles are limited to named countries; confirm India is eligible",
+  "Employer has not confirmed hiring from India",
+  "Listed pay is in USD; confirm it applies to India-based hires",
+  "Contract role"
+ ],
+ "contacts_count": 0,
+ "content_hash": "888e5991426c",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "contract",
+ "first_seen": "2026-10-18T15:28:43Z",
+ "fit": 77,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "a57cc4d961639e",
+ "include_reason": "Motion design title",
+ "india": {
+  "cities": [],
+  "company": "no",
+  "reason": "Location not stated · Rilla hires only in named countries",
+  "status": "unconfirmed",
+  "visa": false
+ },
+ "kind": "motion",
+ "last_verified": "2026-10-18T18:27:42Z",
+ "location": "",
+ "logo": null,
+ "needs_review": false,
+ "official": true,
+ "posted_at": "2026-05-22T13:52:59Z",
+ "repost": false,
+ "requirements": [
+  "This role is contract, open to remote, with the ability for full-time conversion to be in-person in NYC. Compensation: $60-$100/hr."
+ ],
+ "responsibilities": [
+  "At Rilla, you’ll be at the forefront of transforming our product into an experience that feels as intuitive, playful, and rewarding as the best consumer games. You’ll design UI animations, build out our character universe, and bring it all to life with bold, innovative motion and art styles.",
+  "Your primary playground will be our mobile and desktop app. You will also have opportunities to extend Rilla’s motion language into our website, marketing creative, and other key brand moments.",
+  "This role is perfect for someone obsessed with game mechanics, passionate about creating joyful, immersive product experiences, and ready to thrive in a high-autonomy, high-expectation environment."
+ ],
+ "salary": {
+  "applies_india": "unconfirmed",
+  "basis": "base",
+  "currency": "USD",
+  "fx_at": "Sun, 18 Oct 2026 00:02:31 +0000",
+  "fx_rate": 95.0757,
+  "inr_max": 19015135,
+  "inr_min": 11409081,
+  "max": 200000,
+  "min": 120000,
+  "note": "Listed for a worldwide-remote role; confirm it applies to India-based hires",
+  "original_period": "hourly",
+  "period": "annual",
+  "source_name": "Rilla careers (Ashby)",
+  "source_url": "https://jobs.ashbyhq.com/rilla/911f512f-cabc-4e4d-b238-906825d5e49d",
+  "state": "verified",
+  "verified_at": "2026-10-18T18:27:42Z"
+ },
+ "scores": {
+  "ai": 86,
+  "comp": 100,
+  "company": 98,
+  "location": 38,
+  "seniority": 66,
+  "skill": 66
+ },
+ "seniority": "unspecified",
+ "snippet": "A FOUNDATIONAL COMPANY\n\nRilla is on a mission to index the offline world.\n\nToday, we’ve built the leading sales coaching software for organizations doing sales offline. We have over 1000 customers, including The Home Depot, KKR, Neighborly, and PulteGroup, using our product to enable AI sales coaching across their organization.\n\nWe are backed by Google Ventures, Bessemer Ventures, Crew Capital, and Broom Ventures, al",
+ "source_primary": "Rilla careers (Ashby)",
+ "sources": [
+  {
+   "id": "ashby",
+   "job_id": "ashby:rilla:911f512f-cabc-4e4d-b238-906825d5e49d",
+   "kind": "ats",
+   "name": "Rilla careers (Ashby)",
+   "posted_at": "2026-05-22T13:52:59Z",
+   "seen_at": "2026-10-18T18:27:42Z",
+   "url": "https://jobs.ashbyhq.com/rilla/911f512f-cabc-4e4d-b238-906825d5e49d"
   },
-  "kind": "motion",
-  "last_verified": "2026-10-18T18:27:42Z",
-  "location": "",
-  "logo": null,
-  "needs_review": false,
-  "official": true,
-  "posted_at": "2026-05-22T13:52:59Z",
-  "repost": false,
-  "requirements": [
-    "This role is contract, open to remote, with the ability for full-time conversion to be in-person in NYC. Compensation: $60-$100/hr."
-  ],
-  "responsibilities": [
-    "At Rilla, you’ll be at the forefront of transforming our product into an experience that feels as intuitive, playful, and rewarding as the best consumer games. You’ll design UI animations, build out our character universe, and bring it all to life with bold, innovative motion and art styles.",
-    "Your primary playground will be our mobile and desktop app. You will also have opportunities to extend Rilla’s motion language into our website, marketing creative, and other key brand moments.",
-    "This role is perfect for someone obsessed with game mechanics, passionate about creating joyful, immersive product experiences, and ready to thrive in a high-autonomy, high-expectation environment."
-  ],
-  "salary": {
-    "applies_india": "unconfirmed",
-    "basis": "base",
-    "currency": "USD",
-    "fx_at": "Sun, 18 Oct 2026 00:02:31 +0000",
-    "fx_rate": 95.0757,
-    "inr_max": 19015135,
-    "inr_min": 11409081,
-    "max": 200000,
-    "min": 120000,
-    "note": "Listed for a worldwide-remote role; confirm it applies to India-based hires",
-    "original_period": "hourly",
-    "period": "annual",
-    "source_name": "Rilla careers (Ashby)",
-    "source_url": "https://jobs.ashbyhq.com/rilla/911f512f-cabc-4e4d-b238-906825d5e49d",
-    "state": "verified",
-    "verified_at": "2026-10-18T18:27:42Z"
-  },
-  "scores": {
-    "ai": 86,
-    "comp": 100,
-    "company": 98,
-    "location": 38,
-    "seniority": 66,
-    "skill": 66
-  },
-  "seniority": "unspecified",
-  "snippet": "A FOUNDATIONAL COMPANY\n\nRilla is on a mission to index the offline world.\n\nToday, we’ve built the leading sales coaching software for organizations doing sales offline. We have over 1000 customers, including The Home Depot, KKR, Neighborly, and PulteGroup, using our product to enable AI sales coaching across their organization.\n\nWe are backed by Google Ventures, Bessemer Ventures, Crew Capital, and Broom Ventures, al",
-  "source_primary": "Rilla careers (Ashby)",
-  "sources": [
-    {
-      "id": "ashby",
-      "job_id": "ashby:rilla:911f512f-cabc-4e4d-b238-906825d5e49d",
-      "kind": "ats",
-      "name": "Rilla careers (Ashby)",
-      "posted_at": "2026-05-22T13:52:59Z",
-      "seen_at": "2026-10-18T18:27:42Z",
-      "url": "https://jobs.ashbyhq.com/rilla/911f512f-cabc-4e4d-b238-906825d5e49d"
-    },
-    {
-      "id": "web",
-      "job_id": "https://hotfix.jobs/jobs/rive-motion-designer-and-animator-contract-to-hire-at-rilla-ce30c13d-90e8-4bf4-b676-549be41c6a84",
-      "kind": "search",
-      "name": "Web search index",
-      "posted_at": null,
-      "seen_at": "2026-10-18T18:27:42Z",
-      "url": "https://hotfix.jobs/jobs/rive-motion-designer-and-animator-contract-to-hire-at-rilla-ce30c13d-90e8-4bf4-b676-549be41c6a84"
-    }
-  ],
-  "specializations": [
-    "Interaction systems"
-  ],
-  "status": "verified",
-  "tier": 1,
-  "title": "Rive Motion Designer and Animator (Contract to Hire)",
-  "tools": [
-    "Rive"
-  ],
-  "updated_at": null,
-  "url": "https://jobs.ashbyhq.com/rilla/911f512f-cabc-4e4d-b238-906825d5e49d",
-  "why": [
-    "Core motion design role",
-    "Tools you already use: Rive",
-    "Specialisations in scope: Interaction systems",
-    "AI company (Tier 1 priority)",
-    "Listed pay clears your ₹35 LPA target"
-  ],
-  "work_mode": "unspecified",
-  "years_min": null
+  {
+   "id": "web",
+   "job_id": "https://hotfix.jobs/jobs/rive-motion-designer-and-animator-contract-to-hire-at-rilla-ce30c13d-90e8-4bf4-b676-549be41c6a84",
+   "kind": "search",
+   "name": "Web search index",
+   "posted_at": null,
+   "seen_at": "2026-10-18T18:27:42Z",
+   "url": "https://hotfix.jobs/jobs/rive-motion-designer-and-animator-contract-to-hire-at-rilla-ce30c13d-90e8-4bf4-b676-549be41c6a84"
+  }
+ ],
+ "specializations": [
+  "Interaction systems"
+ ],
+ "status": "verified",
+ "tier": 1,
+ "title": "Rive Motion Designer and Animator (Contract to Hire)",
+ "tools": [
+  "Rive"
+ ],
+ "updated_at": null,
+ "url": "https://jobs.ashbyhq.com/rilla/911f512f-cabc-4e4d-b238-906825d5e49d",
+ "why": [
+  "Core motion design role",
+  "Tools you already use: Rive",
+  "Specialisations in scope: Interaction systems",
+  "AI company (Tier 1 priority)",
+  "Listed pay clears your ₹35 LPA target"
+ ],
+ "work_mode": "unspecified",
+ "years_min": null
 }

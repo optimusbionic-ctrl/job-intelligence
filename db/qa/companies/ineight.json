@@ -1,58 +1,58 @@
 {
-  "category": "Other",
-  "classification": "Inferred from job description",
-  "india_hiring": {
-    "board": null,
-    "changed_at": "2026-10-19T13:24:59Z",
-    "evidence": [],
-    "first_checked_at": "2026-10-19T13:24:59Z",
-    "india_based": false,
-    "method": "Careers board, posting text, web search",
-    "sig": "54391d7cdf",
-    "summary": "No public evidence yet about hiring from India.",
-    "verdict": "unclear",
-    "web": {
-      "checked_at": "2026-10-19T14:17:45Z",
-      "query": "\"InEight\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
-      "results": [
-        {
-          "description": "",
-          "title": "InEight Careers",
-          "url": "https://ineight.com/careers/"
-        },
-        {
-          "description": "",
-          "title": "Ineight bangalore - Systems Administrator bei InEight: Mitarbeiterbewertung",
-          "url": "https://www.glassdoor.de/Bewertungen/Bewertungen-InEight-E851102-RVW99528166.htm"
-        },
-        {
-          "description": "",
-          "title": "InEight Question FAQ200100 E851102",
-          "url": "https://www.glassdoor.ca/FAQ/InEight-Question-FAQ200100-E851102.htm"
-        },
-        {
-          "description": "",
-          "title": "InEight Question FAQ200100 E851102",
-          "url": "https://www.glassdoor.sg/FAQ/InEight-Question-FAQ200100-E851102.htm"
-        },
-        {
-          "description": "",
-          "title": "InEight Question FAQ200100 E851102",
-          "url": "https://www.glassdoor.ie/FAQ/InEight-Question-FAQ200100-E851102.htm"
-        },
-        {
-          "description": "",
-          "title": "InEight Question FAQ200100 E851102",
-          "url": "https://www.glassdoor.com.hk/FAQ/InEight-Question-FAQ200100-E851102.htm"
-        }
-      ]
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-19T13:24:59Z",
+  "evidence": [],
+  "first_checked_at": "2026-10-19T13:24:59Z",
+  "india_based": false,
+  "method": "Careers board, posting text, web search",
+  "sig": "54391d7cdf",
+  "summary": "No public evidence yet about hiring from India.",
+  "verdict": "unclear",
+  "web": {
+   "checked_at": "2026-10-19T14:17:45Z",
+   "query": "\"InEight\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
+   "results": [
+    {
+     "description": "",
+     "title": "InEight Careers",
+     "url": "https://ineight.com/careers/"
+    },
+    {
+     "description": "",
+     "title": "Ineight bangalore - Systems Administrator bei InEight: Mitarbeiterbewertung",
+     "url": "https://www.glassdoor.de/Bewertungen/Bewertungen-InEight-E851102-RVW99528166.htm"
+    },
+    {
+     "description": "",
+     "title": "InEight Question FAQ200100 E851102",
+     "url": "https://www.glassdoor.ca/FAQ/InEight-Question-FAQ200100-E851102.htm"
+    },
+    {
+     "description": "",
+     "title": "InEight Question FAQ200100 E851102",
+     "url": "https://www.glassdoor.sg/FAQ/InEight-Question-FAQ200100-E851102.htm"
+    },
+    {
+     "description": "",
+     "title": "InEight Question FAQ200100 E851102",
+     "url": "https://www.glassdoor.ie/FAQ/InEight-Question-FAQ200100-E851102.htm"
+    },
+    {
+     "description": "",
+     "title": "InEight Question FAQ200100 E851102",
+     "url": "https://www.glassdoor.com.hk/FAQ/InEight-Question-FAQ200100-E851102.htm"
     }
-  },
-  "inferred": true,
-  "name": "InEight",
-  "slug": "ineight",
-  "tier": 3,
-  "tracks": [
-    "software"
-  ]
+   ]
+  }
+ },
+ "inferred": true,
+ "name": "InEight",
+ "slug": "ineight",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
 }

@@ -1,0 +1,14 @@
+{
+ "slug": "glance",
+ "name": "Glance",
+ "min": 1001,
+ "max": 5000,
+ "employees": null,
+ "range": "1,001-5,000",
+ "basis": "company size",
+ "source_name": "Glassdoor",
+ "source_url": "https://www.glassdoor.com/Overview/Working-at-Glance-EI_IE4112157.11,17.htm",
+ "quote": "1001 to 5000 Employees Employees",
+ "checked_at": "2026-10-27T00:00:00Z",
+ "found_via": "web research (search index)"
+}

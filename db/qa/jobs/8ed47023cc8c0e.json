@@ -1,103 +1,103 @@
 {
-  "apply_url": null,
-  "board_apply": "https://www.shine.com/jobs/qa-automation-engineer/golden-hues-consultants-private-limited/19752053",
-  "category": "Recruiter (client not named)",
-  "comp_potential": "listed_good",
-  "company": "Golden Hues Consultants Private Limited",
-  "company_slug": "golden-hues-consultants-private-limited",
-  "concerns": [
-    "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
-    "Office outside Mumbai — relocation within India"
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/qa-automation-engineer/golden-hues-consultants-private-limited/19752053",
+ "category": "Recruiter (client not named)",
+ "comp_potential": "listed_good",
+ "company": "Golden Hues Consultants Private Limited",
+ "company_slug": "golden-hues-consultants-private-limited",
+ "concerns": [
+  "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
+  "Office outside Mumbai — relocation within India"
+ ],
+ "contacts_count": 0,
+ "content_hash": "448c0825a5af",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-10-23T14:44:10Z",
+ "fit": 62,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "8ed47023cc8c0e",
+ "include_reason": "Automation-heavy QA (SDET)",
+ "india": {
+  "cities": [
+   "Chennai"
   ],
-  "contacts_count": 0,
-  "content_hash": "448c0825a5af",
-  "date_quality": "exact",
-  "deadline": null,
-  "employment": "full-time",
-  "first_seen": "2026-10-23T14:44:10Z",
-  "fit": 62,
-  "has_hiring_manager": false,
-  "has_named_contact": false,
-  "has_public_email": false,
-  "id": "8ed47023cc8c0e",
-  "include_reason": "Automation-heavy QA (SDET)",
-  "india": {
-    "cities": [
-      "Chennai"
-    ],
-    "company": "yes",
-    "reason": "Location lists India",
-    "status": "confirmed",
-    "visa": false
-  },
-  "kind": "automation",
-  "last_verified": "2026-10-23T14:44:10Z",
-  "location": "Chennai, India",
-  "logo": null,
-  "needs_review": false,
-  "official": false,
-  "posted_at": "2026-10-09T12:35:22Z",
-  "repost": false,
-  "requirements": [
-    "(Summary from the Shine.com listing; open the posting for the full description.)"
-  ],
-  "responsibilities": [],
-  "salary": {
-    "applies_india": true,
-    "basis": "listed",
-    "currency": "INR",
-    "fx_at": "Fri, 23 Oct 2026 00:02:31 +0000",
-    "fx_rate": 1,
-    "inr_max": 700000,
-    "inr_min": 200000,
-    "max": 700000,
-    "min": 200000,
-    "note": "Listed in the posting",
-    "original_period": "annual",
-    "period": "annual",
-    "source_name": "Shine.com",
-    "source_url": "https://www.shine.com/jobs/qa-automation-engineer/golden-hues-consultants-private-limited/19752053",
-    "state": "verified",
-    "verified_at": "2026-10-23T14:44:10Z"
-  },
-  "scores": {
-    "ai": 58,
-    "comp": 100,
-    "company": 66,
-    "location": 60,
-    "seniority": 100,
-    "skill": 24
-  },
-  "seniority": "unspecified",
-  "snippet": "Experience: 2 to 6 Yrs\nSkills: qa automation testing, playwright\n(Summary from the Shine.com listing; open the posting for the full description.)",
-  "source_primary": "Shine.com",
-  "sources": [
-    {
-      "id": "shine",
-      "job_id": "19752053",
-      "kind": "board",
-      "name": "Shine.com",
-      "posted_at": "2026-10-09T12:35:22Z",
-      "seen_at": "2026-10-23T14:44:10Z",
-      "url": "https://www.shine.com/jobs/qa-automation-engineer/golden-hues-consultants-private-limited/19752053"
-    }
-  ],
-  "specializations": [],
-  "status": "active",
-  "tier": 3,
-  "title": "QA Automation Engineer",
-  "tools": [
-    "Test automation"
-  ],
-  "track": "software",
-  "updated_at": null,
-  "url": "https://www.shine.com/jobs/qa-automation-engineer/golden-hues-consultants-private-limited/19752053",
-  "why": [
-    "Asks for 2–6 years — you have about 2.5",
-    "Pay is listed in the posting",
-    "Location lists India"
-  ],
-  "work_mode": "onsite",
-  "years_max": 6,
-  "years_min": 2
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "automation",
+ "last_verified": "2026-10-23T14:44:10Z",
+ "location": "Chennai, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-10-09T12:35:22Z",
+ "repost": false,
+ "requirements": [
+  "(Summary from the Shine.com listing; open the posting for the full description.)"
+ ],
+ "responsibilities": [],
+ "salary": {
+  "applies_india": true,
+  "basis": "listed",
+  "currency": "INR",
+  "fx_at": "Fri, 23 Oct 2026 00:02:31 +0000",
+  "fx_rate": 1,
+  "inr_max": 700000,
+  "inr_min": 200000,
+  "max": 700000,
+  "min": 200000,
+  "note": "Listed in the posting",
+  "original_period": "annual",
+  "period": "annual",
+  "source_name": "Shine.com",
+  "source_url": "https://www.shine.com/jobs/qa-automation-engineer/golden-hues-consultants-private-limited/19752053",
+  "state": "verified",
+  "verified_at": "2026-10-23T14:44:10Z"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 100,
+  "company": 66,
+  "location": 60,
+  "seniority": 100,
+  "skill": 24
+ },
+ "seniority": "unspecified",
+ "snippet": "Experience: 2 to 6 Yrs\nSkills: qa automation testing, playwright\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "19752053",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-10-09T12:35:22Z",
+   "seen_at": "2026-10-23T14:44:10Z",
+   "url": "https://www.shine.com/jobs/qa-automation-engineer/golden-hues-consultants-private-limited/19752053"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 3,
+ "title": "QA Automation Engineer",
+ "tools": [
+  "Test automation"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/qa-automation-engineer/golden-hues-consultants-private-limited/19752053",
+ "why": [
+  "Asks for 2–6 years — you have about 2.5",
+  "Pay is listed in the posting",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": 6,
+ "years_min": 2
 }

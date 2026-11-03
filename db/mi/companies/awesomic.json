@@ -1,0 +1,55 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-30T03:27:13Z",
+  "evidence": [],
+  "first_checked_at": "2026-10-30T03:27:13Z",
+  "india_based": false,
+  "method": "Careers board, posting text, web search",
+  "sig": "54391d7cdf",
+  "summary": "No public evidence yet about hiring from India.",
+  "verdict": "unclear",
+  "web": {
+   "checked_at": "2026-10-30T04:26:37Z",
+   "query": "\"Awesomic\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
+   "results": [
+    {
+     "description": "",
+     "title": "WFH.teamOpen app",
+     "url": "https://wfh.team/companies/awesomic-com"
+    },
+    {
+     "description": "",
+     "title": "weworkremotely.com",
+     "url": "https://WeWorkRemotely.com/company/awesomic"
+    },
+    {
+     "description": "",
+     "title": "wellfound.com",
+     "url": "https://wellfound.com/company/awesomic/jobs"
+    },
+    {
+     "description": "",
+     "title": "Awesomic Logo",
+     "url": "https://builtincharlotte.com/job/awesomic-talent-hub/4452178"
+    },
+    {
+     "description": "",
+     "title": "Join Remote OK Log in",
+     "url": "https://remoteok.com/remote-jobs/remote-senior-ui-ux-designer-awesomic-859435"
+    },
+    {
+     "description": "",
+     "title": "account executive latin america remote",
+     "url": "https://www.remoterocketship.com/company/awesomic-2/jobs/account-executive-latin-america-remote/"
+    }
+   ]
+  }
+ },
+ "inferred": true,
+ "name": "Awesomic",
+ "slug": "awesomic",
+ "tier": 3
+}

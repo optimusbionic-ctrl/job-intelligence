@@ -1,0 +1,55 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-30T00:27:41Z",
+  "evidence": [],
+  "first_checked_at": "2026-10-30T00:27:41Z",
+  "india_based": false,
+  "method": "Careers board, posting text, web search",
+  "sig": "54391d7cdf",
+  "summary": "No public evidence yet about hiring from India.",
+  "verdict": "unclear",
+  "web": {
+   "checked_at": "2026-10-30T01:27:12Z",
+   "query": "\"Man Made Designs\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
+   "results": [
+    {
+     "description": "",
+     "title": "euremotejobs.com",
+     "url": "https://euremotejobs.com/?p=41794"
+    },
+    {
+     "description": "",
+     "title": "flexjobs.com",
+     "url": "https://flexjobs.com/HostedJob.aspx?id=2060952"
+    },
+    {
+     "description": "",
+     "title": "Work Remotely for Global Companies Hiring in India",
+     "url": "https://www.wisemonk.io/for-candidates"
+    },
+    {
+     "description": "",
+     "title": "Wisemonk Team",
+     "url": "https://www.wisemonk.io/blogs/australian-saas-remote-design-operations-india"
+    },
+    {
+     "description": "",
+     "title": "www.michaelpage.co.in",
+     "url": "https://www.michaelpage.co.in/jobs/design?page=4"
+    },
+    {
+     "description": "",
+     "title": "Build your career with global companies, without leaving India",
+     "url": "https://www.wisemonk.io/for-candidate"
+    }
+   ]
+  }
+ },
+ "inferred": true,
+ "name": "Man Made Designs",
+ "slug": "man-made-designs",
+ "tier": 3
+}

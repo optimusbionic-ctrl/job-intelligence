@@ -1,0 +1,30 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-29T11:44:56Z",
+  "evidence": [
+   {
+    "detail": "Automation Tester — Mumbai City, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/automation-tester/team-ace-hr-llp/19950666",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-10-29T11:44:56Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "cfa215bc7a",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Team Ace HR LLP",
+ "slug": "team-ace-hr-llp",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}

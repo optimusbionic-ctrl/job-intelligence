@@ -1,81 +1,81 @@
 {
-  "apply_url": null,
-  "board_apply": "https://www.linkedin.com/posts/samiasaleem_im-hiring-a-contract-motion-designer-to-activity-7513265356497440769-OBCe",
-  "category": "Cloud infrastructure",
-  "comp_potential": "unknown",
-  "company": "Render",
-  "company_slug": "render",
-  "concerns": [
-    "Render's other roles are limited to named countries; confirm India is eligible",
-    "Employer has not confirmed hiring from India",
-    "Compensation not disclosed",
-    "Contract role"
-  ],
-  "contacts_count": 2,
-  "content_hash": "e63c4aa6d41e",
-  "date_quality": "approx",
-  "deadline": null,
-  "employment": "contract",
-  "first_seen": "2026-10-15T15:27:11Z",
-  "fit": 56,
-  "has_hiring_manager": true,
-  "has_named_contact": true,
-  "has_public_email": false,
-  "id": "a8e7f45e325076",
-  "include_reason": "Brand motion title",
-  "india": {
-    "cities": [],
-    "company": "no",
-    "reason": "Location not stated · Render hires only in named countries",
-    "status": "unconfirmed",
-    "visa": false
-  },
-  "kind": "brand-motion",
-  "last_verified": "2026-10-15T16:19:24Z",
-  "location": "",
-  "logo": null,
-  "needs_review": false,
-  "official": false,
-  "posted_at": "2026-10-06T06:00:00Z",
-  "repost": false,
-  "requirements": [],
-  "responsibilities": [],
-  "salary": {
-    "state": "unavailable"
-  },
-  "scores": {
-    "ai": 30,
-    "comp": 48,
-    "company": 95,
-    "location": 38,
-    "seniority": 66,
-    "skill": 42
-  },
-  "seniority": "unspecified",
-  "snippet": "Contract motion designer to embed with Render's Brand team and partner with Marketing through the end of the year (~40 hrs/week).",
-  "source_primary": "LinkedIn post (public)",
-  "sources": [
-    {
-      "id": "linkedin_post",
-      "job_id": "https://www.linkedin.com/posts/samiasaleem_im-hiring-a-contract-motion-designer-to-activity-7513265356497440769-OBCe",
-      "kind": "social",
-      "name": "LinkedIn post (public)",
-      "posted_at": "2026-10-06T06:00:00Z",
-      "seen_at": "2026-10-15T16:19:24Z",
-      "url": "https://www.linkedin.com/posts/samiasaleem_im-hiring-a-contract-motion-designer-to-activity-7513265356497440769-OBCe"
-    }
-  ],
-  "specializations": [],
-  "status": "lead",
-  "tier": 1,
-  "title": "Motion Designer (Contract, Brand team)",
-  "tools": [],
-  "updated_at": null,
-  "url": "https://www.linkedin.com/posts/samiasaleem_im-hiring-a-contract-motion-designer-to-activity-7513265356497440769-OBCe",
-  "why": [
-    "Brand motion at a technology company",
-    "Cloud infrastructure company (Tier 1 priority)"
-  ],
-  "work_mode": "unspecified",
-  "years_min": null
+ "apply_url": null,
+ "board_apply": "https://www.linkedin.com/posts/samiasaleem_im-hiring-a-contract-motion-designer-to-activity-7513265356497440769-OBCe",
+ "category": "Cloud infrastructure",
+ "comp_potential": "unknown",
+ "company": "Render",
+ "company_slug": "render",
+ "concerns": [
+  "Render's other roles are limited to named countries; confirm India is eligible",
+  "Employer has not confirmed hiring from India",
+  "Compensation not disclosed",
+  "Contract role"
+ ],
+ "contacts_count": 2,
+ "content_hash": "e63c4aa6d41e",
+ "date_quality": "approx",
+ "deadline": null,
+ "employment": "contract",
+ "first_seen": "2026-10-15T15:27:11Z",
+ "fit": 56,
+ "has_hiring_manager": true,
+ "has_named_contact": true,
+ "has_public_email": false,
+ "id": "a8e7f45e325076",
+ "include_reason": "Brand motion title",
+ "india": {
+  "cities": [],
+  "company": "no",
+  "reason": "Location not stated · Render hires only in named countries",
+  "status": "unconfirmed",
+  "visa": false
+ },
+ "kind": "brand-motion",
+ "last_verified": "2026-10-15T16:19:24Z",
+ "location": "",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-10-06T06:00:00Z",
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 30,
+  "comp": 48,
+  "company": 95,
+  "location": 38,
+  "seniority": 66,
+  "skill": 42
+ },
+ "seniority": "unspecified",
+ "snippet": "Contract motion designer to embed with Render's Brand team and partner with Marketing through the end of the year (~40 hrs/week).",
+ "source_primary": "LinkedIn post (public)",
+ "sources": [
+  {
+   "id": "linkedin_post",
+   "job_id": "https://www.linkedin.com/posts/samiasaleem_im-hiring-a-contract-motion-designer-to-activity-7513265356497440769-OBCe",
+   "kind": "social",
+   "name": "LinkedIn post (public)",
+   "posted_at": "2026-10-06T06:00:00Z",
+   "seen_at": "2026-10-15T16:19:24Z",
+   "url": "https://www.linkedin.com/posts/samiasaleem_im-hiring-a-contract-motion-designer-to-activity-7513265356497440769-OBCe"
+  }
+ ],
+ "specializations": [],
+ "status": "lead",
+ "tier": 1,
+ "title": "Motion Designer (Contract, Brand team)",
+ "tools": [],
+ "updated_at": null,
+ "url": "https://www.linkedin.com/posts/samiasaleem_im-hiring-a-contract-motion-designer-to-activity-7513265356497440769-OBCe",
+ "why": [
+  "Brand motion at a technology company",
+  "Cloud infrastructure company (Tier 1 priority)"
+ ],
+ "work_mode": "unspecified",
+ "years_min": null
 }

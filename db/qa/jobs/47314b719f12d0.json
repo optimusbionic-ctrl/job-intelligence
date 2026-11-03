@@ -1,82 +1,82 @@
 {
-  "apply_url": null,
-  "board_apply": "https://jobs.weekday.works/ubisoft-junior-game-tester",
-  "category": "Other",
-  "comp_potential": "unknown",
-  "company": "Ubisoft",
-  "company_slug": "ubisoft",
-  "concerns": [
-    "Employer has not confirmed hiring from India",
-    "Entry-level role — pay may be at the lower end",
-    "Pay not disclosed — ask for the range early",
-    "Full description not available from this source"
-  ],
-  "contacts_count": 0,
-  "content_hash": "94228682d177",
-  "date_quality": "unknown",
-  "deadline": null,
-  "employment": "full-time",
-  "first_seen": "2026-10-19T15:45:44Z",
-  "fit": 70,
-  "has_hiring_manager": false,
-  "has_named_contact": false,
-  "has_public_email": false,
-  "id": "47314b719f12d0",
-  "include_reason": "Game tester title",
-  "india": {
-    "cities": [],
-    "company": "unclear",
-    "reason": "Location not stated",
-    "status": "unconfirmed",
-    "visa": false
-  },
-  "kind": "game-tester",
-  "last_verified": "2026-10-19T15:45:44Z",
-  "location": "",
-  "logo": null,
-  "needs_review": false,
-  "official": false,
-  "posted_at": null,
-  "repost": false,
-  "requirements": [],
-  "responsibilities": [],
-  "salary": {
-    "state": "unavailable"
-  },
-  "scores": {
-    "ai": 55,
-    "comp": 60,
-    "company": 66,
-    "location": 36,
-    "seniority": 86,
-    "skill": 86
-  },
-  "seniority": "junior",
-  "snippet": "",
-  "source_primary": "Weekday (via search index)",
-  "sources": [
-    {
-      "id": "web",
-      "job_id": "https://jobs.weekday.works/ubisoft-junior-game-tester",
-      "kind": "search",
-      "name": "Weekday (via search index)",
-      "posted_at": null,
-      "seen_at": "2026-10-19T15:45:44Z",
-      "url": "https://jobs.weekday.works/ubisoft-junior-game-tester"
-    }
-  ],
-  "specializations": [],
-  "status": "lead",
-  "tier": 3,
-  "title": "Junior Game Tester",
-  "tools": [],
-  "track": "game",
-  "updated_at": null,
-  "url": "https://jobs.weekday.works/ubisoft-junior-game-tester",
-  "why": [
-    "Game tester role — matches your game QA work at Webmobril and Golden Horde"
-  ],
-  "work_mode": "unspecified",
-  "years_max": null,
-  "years_min": null
+ "apply_url": null,
+ "board_apply": "https://jobs.weekday.works/ubisoft-junior-game-tester",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "Ubisoft",
+ "company_slug": "ubisoft",
+ "concerns": [
+  "Employer has not confirmed hiring from India",
+  "Entry-level role — pay may be at the lower end",
+  "Pay not disclosed — ask for the range early",
+  "Full description not available from this source"
+ ],
+ "contacts_count": 0,
+ "content_hash": "94228682d177",
+ "date_quality": "unknown",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-10-19T15:45:44Z",
+ "fit": 70,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "47314b719f12d0",
+ "include_reason": "Game tester title",
+ "india": {
+  "cities": [],
+  "company": "unclear",
+  "reason": "Location not stated",
+  "status": "unconfirmed",
+  "visa": false
+ },
+ "kind": "game-tester",
+ "last_verified": "2026-10-19T15:45:44Z",
+ "location": "",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": null,
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 55,
+  "comp": 60,
+  "company": 66,
+  "location": 36,
+  "seniority": 86,
+  "skill": 86
+ },
+ "seniority": "junior",
+ "snippet": "",
+ "source_primary": "Weekday (via search index)",
+ "sources": [
+  {
+   "id": "web",
+   "job_id": "https://jobs.weekday.works/ubisoft-junior-game-tester",
+   "kind": "search",
+   "name": "Weekday (via search index)",
+   "posted_at": null,
+   "seen_at": "2026-10-19T15:45:44Z",
+   "url": "https://jobs.weekday.works/ubisoft-junior-game-tester"
+  }
+ ],
+ "specializations": [],
+ "status": "lead",
+ "tier": 3,
+ "title": "Junior Game Tester",
+ "tools": [],
+ "track": "game",
+ "updated_at": null,
+ "url": "https://jobs.weekday.works/ubisoft-junior-game-tester",
+ "why": [
+  "Game tester role — matches your game QA work at Webmobril and Golden Horde"
+ ],
+ "work_mode": "unspecified",
+ "years_max": null,
+ "years_min": null
 }

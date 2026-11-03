@@ -1,0 +1,63 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-30T01:27:12Z",
+  "evidence": [
+   {
+    "detail": "india remote jobs in google yoay7bpg — “india remote jobs”",
+    "kind": "web",
+    "label": "Web mentions India hiring or an India office",
+    "url": "https://www.teamblind.com/post/india-remote-jobs-in-google-yoay7bpg",
+    "weight": 3
+   }
+  ],
+  "first_checked_at": "2026-10-30T00:27:41Z",
+  "india_based": false,
+  "method": "Careers board, posting text, web search",
+  "sig": "b17ebb78e3",
+  "summary": "No India-located roles found, but web mentions India hiring or an India office.",
+  "verdict": "likely",
+  "web": {
+   "checked_at": "2026-10-30T01:27:12Z",
+   "query": "\"Google\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
+   "results": [
+    {
+     "description": "",
+     "title": "google remote careers",
+     "url": "https://mwach-neo-rct.uw.edu/google-remote-careers"
+    },
+    {
+     "description": "",
+     "title": "Google Careers Work From Home",
+     "url": "https://aptraining.csc.com/google-careers-work-from-home"
+    },
+    {
+     "description": "",
+     "title": "Google Career: Your Gateway To Work-From-Home Jobs",
+     "url": "https://grandavehousing.calpoly.edu/news/google-career-your-gateway-to"
+    },
+    {
+     "description": "",
+     "title": "india remote jobs in google yoay7bpg",
+     "url": "https://www.teamblind.com/post/india-remote-jobs-in-google-yoay7bpg"
+    },
+    {
+     "description": "",
+     "title": "job-boards.greenhouse.io",
+     "url": "https://job-boards.greenhouse.io/cloudwerxinc/jobs/4748487007"
+    },
+    {
+     "description": "",
+     "title": "Updating Results",
+     "url": "https://nxtwave-join.prosple.com/graduate-employers/google-india/jobs-internships/past?start=48"
+    }
+   ]
+  }
+ },
+ "inferred": true,
+ "name": "Google",
+ "slug": "google",
+ "tier": 3
+}

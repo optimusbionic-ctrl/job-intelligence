@@ -1,106 +1,106 @@
 {
-  "apply_url": null,
-  "board_apply": "https://himalayas.app/companies/ngo-consulting-partners/jobs/junior-software-engineer-qa-automation?utm_source=api",
-  "category": "Product / SaaS",
-  "comp_potential": "unknown",
-  "company": "Ngo Consulting Partners",
-  "company_slug": "ngo-consulting-partners",
-  "concerns": [
-    "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
-    "Also asks for: API testing, Programming",
-    "Entry-level role — pay may be at the lower end",
-    "Pay not disclosed — ask for the range early",
-    "Contract role"
-  ],
-  "contacts_count": 0,
-  "content_hash": "3423fbb9f760",
-  "date_quality": "exact",
-  "deadline": "2026-11-19T11:05:24Z",
-  "employment": "contract",
-  "first_seen": "2026-10-19T13:24:59Z",
-  "fit": 73,
-  "has_hiring_manager": false,
-  "has_named_contact": false,
-  "has_public_email": false,
-  "id": "c61abfbf1e2705",
-  "include_reason": "Automation-heavy QA (SDET)",
-  "india": {
-    "cities": [],
-    "company": "likely",
-    "reason": "Worldwide remote",
-    "status": "likely",
-    "visa": false
-  },
-  "kind": "automation",
-  "last_verified": "2026-10-19T13:24:59Z",
-  "location": "Worldwide",
-  "logo": "https://cdn-images.himalayas.app/i26egz7p1vcrjbjv4yx7s4iwe49d",
-  "needs_review": false,
-  "official": false,
-  "posted_at": "2026-09-20T11:05:25Z",
-  "repost": false,
-  "requirements": [
-    "1–3 years of professional experience in QA automation, software testing, or software engineering.",
-    "Working knowledge of Python or similar scripting languages.",
-    "Familiarity with unit testing frameworks (e.g., PyTest, Unittest, Mocha/Jest).",
-    "Basic understanding of CI/CD tools (e.g., GitHub Actions, Jenkins, CircleCI).",
-    "Experience with Git and modern source control workflows.",
-    "Comfortable working with JSON schemas, API validation, and data-driven testing.",
-    "Comfortable leveraging AI tools to augment and optimize day-to-day tasks."
-  ],
-  "responsibilities": [
-    "Test software pipelines and AI model outputs for accuracy, consistency, and stability.",
-    "Develop and maintain automated validation scripts and regression test suites.",
-    "Maintain and curate test datasets to ensure broad coverage of normal, edge, and failure scenarios.",
-    "Assist in defining and documenting test plans, acceptance criteria, and QA results with product and engineering teams."
-  ],
-  "salary": {
-    "context_benchmark": "qa-dataset-remote",
-    "state": "unavailable"
-  },
-  "scores": {
-    "ai": 58,
-    "comp": 60,
-    "company": 95,
-    "location": 86,
-    "seniority": 100,
-    "skill": 47
-  },
-  "seniority": "junior",
-  "snippet": "Description\n This role is ideal for an early-career engineer excited to work on AI and data-driven products. You’ll help ensure the accuracy, consistency, and reliability of our systems while learning from senior engineers. As part of a small, collaborative team, you’ll test, validate, and automate workflows that make complex processes simple, repeatable, and reliable. \n Flexible: 20–35+ hours/week\n Core Responsibili",
-  "source_primary": "Himalayas",
-  "sources": [
-    {
-      "id": "himalayas",
-      "job_id": "https://himalayas.app/companies/ngo-consulting-partners/jobs/junior-software-engineer-qa-automation",
-      "kind": "board",
-      "name": "Himalayas",
-      "posted_at": "2026-09-20T11:05:25Z",
-      "seen_at": "2026-10-19T13:24:59Z",
-      "url": "https://himalayas.app/companies/ngo-consulting-partners/jobs/junior-software-engineer-qa-automation?utm_source=api"
-    }
-  ],
-  "specializations": [],
-  "status": "active",
-  "tier": 1,
-  "title": "Junior Software Engineer (QA & Automation)",
-  "tools": [
-    "Regression testing",
-    "Test cases & scenarios",
-    "API testing",
-    "Test automation",
-    "Programming"
-  ],
-  "track": "software",
-  "updated_at": null,
-  "url": "https://himalayas.app/companies/ngo-consulting-partners/jobs/junior-software-engineer-qa-automation?utm_source=api",
-  "why": [
-    "Already on your resume: Regression testing, Test cases & scenarios",
-    "Product / SaaS company",
-    "Asks for 1–3 years — you have about 2.5",
-    "Worldwide remote"
-  ],
-  "work_mode": "remote",
-  "years_max": 3,
-  "years_min": 1
+ "apply_url": null,
+ "board_apply": "https://himalayas.app/companies/ngo-consulting-partners/jobs/junior-software-engineer-qa-automation?utm_source=api",
+ "category": "Product / SaaS",
+ "comp_potential": "unknown",
+ "company": "Ngo Consulting Partners",
+ "company_slug": "ngo-consulting-partners",
+ "concerns": [
+  "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
+  "Also asks for: API testing, Programming",
+  "Entry-level role — pay may be at the lower end",
+  "Pay not disclosed — ask for the range early",
+  "Contract role"
+ ],
+ "contacts_count": 0,
+ "content_hash": "3423fbb9f760",
+ "date_quality": "exact",
+ "deadline": "2026-11-19T11:05:24Z",
+ "employment": "contract",
+ "first_seen": "2026-10-19T13:24:59Z",
+ "fit": 73,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "c61abfbf1e2705",
+ "include_reason": "Automation-heavy QA (SDET)",
+ "india": {
+  "cities": [],
+  "company": "likely",
+  "reason": "Worldwide remote",
+  "status": "likely",
+  "visa": false
+ },
+ "kind": "automation",
+ "last_verified": "2026-10-19T13:24:59Z",
+ "location": "Worldwide",
+ "logo": "https://cdn-images.himalayas.app/i26egz7p1vcrjbjv4yx7s4iwe49d",
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-09-20T11:05:25Z",
+ "repost": false,
+ "requirements": [
+  "1–3 years of professional experience in QA automation, software testing, or software engineering.",
+  "Working knowledge of Python or similar scripting languages.",
+  "Familiarity with unit testing frameworks (e.g., PyTest, Unittest, Mocha/Jest).",
+  "Basic understanding of CI/CD tools (e.g., GitHub Actions, Jenkins, CircleCI).",
+  "Experience with Git and modern source control workflows.",
+  "Comfortable working with JSON schemas, API validation, and data-driven testing.",
+  "Comfortable leveraging AI tools to augment and optimize day-to-day tasks."
+ ],
+ "responsibilities": [
+  "Test software pipelines and AI model outputs for accuracy, consistency, and stability.",
+  "Develop and maintain automated validation scripts and regression test suites.",
+  "Maintain and curate test datasets to ensure broad coverage of normal, edge, and failure scenarios.",
+  "Assist in defining and documenting test plans, acceptance criteria, and QA results with product and engineering teams."
+ ],
+ "salary": {
+  "context_benchmark": "qa-dataset-remote",
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 60,
+  "company": 95,
+  "location": 86,
+  "seniority": 100,
+  "skill": 47
+ },
+ "seniority": "junior",
+ "snippet": "Description\n This role is ideal for an early-career engineer excited to work on AI and data-driven products. You’ll help ensure the accuracy, consistency, and reliability of our systems while learning from senior engineers. As part of a small, collaborative team, you’ll test, validate, and automate workflows that make complex processes simple, repeatable, and reliable. \n Flexible: 20–35+ hours/week\n Core Responsibili",
+ "source_primary": "Himalayas",
+ "sources": [
+  {
+   "id": "himalayas",
+   "job_id": "https://himalayas.app/companies/ngo-consulting-partners/jobs/junior-software-engineer-qa-automation",
+   "kind": "board",
+   "name": "Himalayas",
+   "posted_at": "2026-09-20T11:05:25Z",
+   "seen_at": "2026-10-19T13:24:59Z",
+   "url": "https://himalayas.app/companies/ngo-consulting-partners/jobs/junior-software-engineer-qa-automation?utm_source=api"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 1,
+ "title": "Junior Software Engineer (QA & Automation)",
+ "tools": [
+  "Regression testing",
+  "Test cases & scenarios",
+  "API testing",
+  "Test automation",
+  "Programming"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://himalayas.app/companies/ngo-consulting-partners/jobs/junior-software-engineer-qa-automation?utm_source=api",
+ "why": [
+  "Already on your resume: Regression testing, Test cases & scenarios",
+  "Product / SaaS company",
+  "Asks for 1–3 years — you have about 2.5",
+  "Worldwide remote"
+ ],
+ "work_mode": "remote",
+ "years_max": 3,
+ "years_min": 1
 }

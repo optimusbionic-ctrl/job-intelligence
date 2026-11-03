@@ -1,94 +1,94 @@
 {
-  "apply_url": null,
-  "board_apply": "https://www.shine.com/jobs/manual-mobile-application-tester-web-application-testing/five-feed-learning-solutions-pvt-ltd/19533923",
-  "category": "Other",
-  "comp_potential": "unknown",
-  "company": "Five Feed Learning Solutions Pvt. Ltd.",
-  "company_slug": "five-feed-learning-solutions-pvt-ltd",
-  "concerns": [
-    "Also asks for: API testing",
-    "Pay not disclosed — ask for the range early"
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/manual-mobile-application-tester-web-application-testing/five-feed-learning-solutions-pvt-ltd/19533923",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "Five Feed Learning Solutions Pvt. Ltd.",
+ "company_slug": "five-feed-learning-solutions-pvt-ltd",
+ "concerns": [
+  "Also asks for: API testing",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "6d09feb66292",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-10-20T13:44:34Z",
+ "fit": 87,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "32b640bedcd48c",
+ "include_reason": "Mobile app QA",
+ "india": {
+  "cities": [
+   "Mumbai"
   ],
-  "contacts_count": 0,
-  "content_hash": "6d09feb66292",
-  "date_quality": "exact",
-  "deadline": null,
-  "employment": "full-time",
-  "first_seen": "2026-10-20T13:44:34Z",
-  "fit": 87,
-  "has_hiring_manager": false,
-  "has_named_contact": false,
-  "has_public_email": false,
-  "id": "32b640bedcd48c",
-  "include_reason": "Mobile app QA",
-  "india": {
-    "cities": [
-      "Mumbai"
-    ],
-    "company": "yes",
-    "reason": "Location lists India",
-    "status": "confirmed",
-    "visa": false
-  },
-  "kind": "mobile-qa",
-  "last_verified": "2026-10-20T13:44:34Z",
-  "location": "Mumbai City, India",
-  "logo": null,
-  "needs_review": false,
-  "official": false,
-  "posted_at": "2026-09-05T01:39:12Z",
-  "repost": false,
-  "requirements": [],
-  "responsibilities": [],
-  "salary": {
-    "state": "unavailable"
-  },
-  "scores": {
-    "ai": 78,
-    "comp": 60,
-    "company": 66,
-    "location": 100,
-    "seniority": 100,
-    "skill": 94
-  },
-  "seniority": "unspecified",
-  "snippet": "Experience: 1 to 5 Yrs\nSkills: Functional Testing, Load Testing, Mobile Application Testing, Web Testing, API Testing, emulators, Practical knowledge of testing APIs using tools like Postman, Swagger, Ability to validate requestresponse payloads, status codes, headers, Familiarity with basic API concepts such as GETPOSTPUTDELETE methods, Experience reporting APIlevel bugs clearly with steps, logs, Experience testing ",
-  "source_primary": "Shine.com",
-  "sources": [
-    {
-      "id": "shine",
-      "job_id": "19533923",
-      "kind": "board",
-      "name": "Shine.com",
-      "posted_at": "2026-09-05T01:39:12Z",
-      "seen_at": "2026-10-20T13:44:34Z",
-      "url": "https://www.shine.com/jobs/manual-mobile-application-tester-web-application-testing/five-feed-learning-solutions-pvt-ltd/19533923"
-    }
-  ],
-  "specializations": [
-    "Android",
-    "Mobile apps",
-    "Web apps"
-  ],
-  "status": "active",
-  "tier": 3,
-  "title": "Manual Mobile Application Tester, Web Application Testing",
-  "tools": [
-    "Functional testing",
-    "Stress / load testing",
-    "API testing"
-  ],
-  "track": "software",
-  "updated_at": null,
-  "url": "https://www.shine.com/jobs/manual-mobile-application-tester-web-application-testing/five-feed-learning-solutions-pvt-ltd/19533923",
-  "why": [
-    "Mobile app testing on Android and iOS, like your current work",
-    "Already on your resume: Functional testing, Stress / load testing",
-    "Platforms you test on: Android, Mobile apps",
-    "Asks for 1–5 years — you have about 2.5",
-    "Location lists India"
-  ],
-  "work_mode": "onsite",
-  "years_max": 5,
-  "years_min": 1
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "mobile-qa",
+ "last_verified": "2026-10-20T13:44:34Z",
+ "location": "Mumbai City, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-09-05T01:39:12Z",
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 78,
+  "comp": 60,
+  "company": 66,
+  "location": 100,
+  "seniority": 100,
+  "skill": 94
+ },
+ "seniority": "unspecified",
+ "snippet": "Experience: 1 to 5 Yrs\nSkills: Functional Testing, Load Testing, Mobile Application Testing, Web Testing, API Testing, emulators, Practical knowledge of testing APIs using tools like Postman, Swagger, Ability to validate requestresponse payloads, status codes, headers, Familiarity with basic API concepts such as GETPOSTPUTDELETE methods, Experience reporting APIlevel bugs clearly with steps, logs, Experience testing ",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "19533923",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-09-05T01:39:12Z",
+   "seen_at": "2026-10-20T13:44:34Z",
+   "url": "https://www.shine.com/jobs/manual-mobile-application-tester-web-application-testing/five-feed-learning-solutions-pvt-ltd/19533923"
+  }
+ ],
+ "specializations": [
+  "Android",
+  "Mobile apps",
+  "Web apps"
+ ],
+ "status": "active",
+ "tier": 3,
+ "title": "Manual Mobile Application Tester, Web Application Testing",
+ "tools": [
+  "Functional testing",
+  "Stress / load testing",
+  "API testing"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/manual-mobile-application-tester-web-application-testing/five-feed-learning-solutions-pvt-ltd/19533923",
+ "why": [
+  "Mobile app testing on Android and iOS, like your current work",
+  "Already on your resume: Functional testing, Stress / load testing",
+  "Platforms you test on: Android, Mobile apps",
+  "Asks for 1–5 years — you have about 2.5",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": 5,
+ "years_min": 1
 }

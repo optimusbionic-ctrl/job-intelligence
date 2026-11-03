@@ -1,30 +1,30 @@
 {
-  "category": "Fintech",
-  "classification": "Inferred from job description",
-  "india_hiring": {
-    "board": null,
-    "changed_at": "2026-10-24T14:43:58Z",
-    "evidence": [
-      {
-        "detail": "Software Tester - Functional Testing — Mumbai City, India",
-        "kind": "posting",
-        "label": "A current posting lists India as a location",
-        "url": "https://www.shine.com/jobs/software-tester-functional-testing/quest-business-solution/19533913",
-        "weight": 5
-      }
-    ],
-    "first_checked_at": "2026-10-24T14:43:58Z",
-    "india_based": false,
-    "method": "Careers board, posting text",
-    "sig": "02516dcb8d",
-    "summary": "A current posting lists India as a location.",
-    "verdict": "yes"
-  },
-  "inferred": true,
-  "name": "Quest Business Solution",
-  "slug": "quest-business-solution",
-  "tier": 1,
-  "tracks": [
-    "software"
-  ]
+ "category": "Fintech",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-24T14:43:58Z",
+  "evidence": [
+   {
+    "detail": "Software Tester - Functional Testing — Mumbai City, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/software-tester-functional-testing/quest-business-solution/19533913",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-10-24T14:43:58Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "02516dcb8d",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Quest Business Solution",
+ "slug": "quest-business-solution",
+ "tier": 1,
+ "tracks": [
+  "software"
+ ]
 }

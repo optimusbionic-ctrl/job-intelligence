@@ -1,92 +1,92 @@
 {
-  "apply_url": null,
-  "board_apply": "https://jobs.workable.com/view/oAgnLQb4SE6WVyDYcdky7Q/qa-automation-engineer-in-bengaluru-at-codework",
-  "category": "Other",
-  "comp_potential": "unknown",
-  "company": "Codework",
-  "company_slug": "codework",
-  "concerns": [
-    "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
-    "Also asks for: Programming",
-    "Office outside Mumbai — relocation within India",
-    "Pay not disclosed — ask for the range early"
+ "apply_url": null,
+ "board_apply": "https://jobs.workable.com/view/oAgnLQb4SE6WVyDYcdky7Q/qa-automation-engineer-in-bengaluru-at-codework",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "Codework",
+ "company_slug": "codework",
+ "concerns": [
+  "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
+  "Also asks for: Programming",
+  "Office outside Mumbai — relocation within India",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "28d6c76a4dc8",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-10-21T08:43:55Z",
+ "fit": 65,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "e0a8948dc72b66",
+ "include_reason": "Automation-heavy QA (SDET)",
+ "india": {
+  "cities": [
+   "Bengaluru"
   ],
-  "contacts_count": 0,
-  "content_hash": "28d6c76a4dc8",
-  "date_quality": "exact",
-  "deadline": null,
-  "employment": "full-time",
-  "first_seen": "2026-10-21T08:43:55Z",
-  "fit": 65,
-  "has_hiring_manager": false,
-  "has_named_contact": false,
-  "has_public_email": false,
-  "id": "e0a8948dc72b66",
-  "include_reason": "Automation-heavy QA (SDET)",
-  "india": {
-    "cities": [
-      "Bengaluru"
-    ],
-    "company": "yes",
-    "reason": "Location lists India",
-    "status": "confirmed",
-    "visa": false
-  },
-  "kind": "automation",
-  "last_verified": "2026-10-21T08:43:55Z",
-  "location": "Bengaluru, Karnataka, India",
-  "logo": null,
-  "needs_review": false,
-  "official": false,
-  "posted_at": "2026-10-21T08:23:40Z",
-  "repost": false,
-  "requirements": [],
-  "responsibilities": [],
-  "salary": {
-    "state": "unavailable"
-  },
-  "scores": {
-    "ai": 58,
-    "comp": 60,
-    "company": 66,
-    "location": 60,
-    "seniority": 84,
-    "skill": 58
-  },
-  "seniority": "unspecified",
-  "snippet": "Codework is seeking a detail-oriented and innovative QA Automation Engineer to join our dynamic team. In this role, you will be instrumental in ensuring the quality and reliability of our software products by designing, developing, and executing automated test scripts. You will collaborate closely with developers, product managers, and other stakeholders to identify test requirements and develop comprehensive testing",
-  "source_primary": "Workable job marketplace",
-  "sources": [
-    {
-      "id": "workable",
-      "job_id": "b6f1d06a-6ce7-4a05-8081-b5c98a7dc624",
-      "kind": "board",
-      "name": "Workable job marketplace",
-      "posted_at": "2026-10-21T08:23:40Z",
-      "seen_at": "2026-10-21T08:43:55Z",
-      "url": "https://jobs.workable.com/view/oAgnLQb4SE6WVyDYcdky7Q/qa-automation-engineer-in-bengaluru-at-codework"
-    }
-  ],
-  "specializations": [],
-  "status": "active",
-  "tier": 3,
-  "title": "QA Automation Engineer",
-  "tools": [
-    "Regression testing",
-    "Test cases & scenarios",
-    "Google Sheets / Excel",
-    "Test automation",
-    "Programming",
-    "Agile / Scrum"
-  ],
-  "track": "software",
-  "updated_at": null,
-  "url": "https://jobs.workable.com/view/oAgnLQb4SE6WVyDYcdky7Q/qa-automation-engineer-in-bengaluru-at-codework",
-  "why": [
-    "Already on your resume: Regression testing, Test cases & scenarios, Google Sheets / Excel",
-    "Location lists India"
-  ],
-  "work_mode": "onsite",
-  "years_max": null,
-  "years_min": null
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "automation",
+ "last_verified": "2026-10-21T08:43:55Z",
+ "location": "Bengaluru, Karnataka, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-10-21T08:23:40Z",
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 60,
+  "company": 66,
+  "location": 60,
+  "seniority": 84,
+  "skill": 58
+ },
+ "seniority": "unspecified",
+ "snippet": "Codework is seeking a detail-oriented and innovative QA Automation Engineer to join our dynamic team. In this role, you will be instrumental in ensuring the quality and reliability of our software products by designing, developing, and executing automated test scripts. You will collaborate closely with developers, product managers, and other stakeholders to identify test requirements and develop comprehensive testing",
+ "source_primary": "Workable job marketplace",
+ "sources": [
+  {
+   "id": "workable",
+   "job_id": "b6f1d06a-6ce7-4a05-8081-b5c98a7dc624",
+   "kind": "board",
+   "name": "Workable job marketplace",
+   "posted_at": "2026-10-21T08:23:40Z",
+   "seen_at": "2026-10-21T08:43:55Z",
+   "url": "https://jobs.workable.com/view/oAgnLQb4SE6WVyDYcdky7Q/qa-automation-engineer-in-bengaluru-at-codework"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 3,
+ "title": "QA Automation Engineer",
+ "tools": [
+  "Regression testing",
+  "Test cases & scenarios",
+  "Google Sheets / Excel",
+  "Test automation",
+  "Programming",
+  "Agile / Scrum"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://jobs.workable.com/view/oAgnLQb4SE6WVyDYcdky7Q/qa-automation-engineer-in-bengaluru-at-codework",
+ "why": [
+  "Already on your resume: Regression testing, Test cases & scenarios, Google Sheets / Excel",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": null,
+ "years_min": null
 }

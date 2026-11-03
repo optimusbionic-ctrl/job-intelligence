@@ -1,27 +1,27 @@
 {
-  "category": "Other",
-  "classification": "Inferred from job description",
-  "india_hiring": {
-    "board": null,
-    "changed_at": "2026-10-16T12:28:27Z",
-    "evidence": [
-      {
-        "detail": "Motion Graphic Designer — India",
-        "kind": "posting",
-        "label": "A current posting lists India as a location",
-        "url": "https://in.linkedin.com/jobs/view/motion-graphic-designer-at-aiimstorms-4477321912",
-        "weight": 5
-      }
-    ],
-    "first_checked_at": "2026-10-16T12:28:27Z",
-    "india_based": false,
-    "method": "Careers board, posting text",
-    "sig": "50acef3229",
-    "summary": "A current posting lists India as a location.",
-    "verdict": "yes"
-  },
-  "inferred": true,
-  "name": "Aiimstorms",
-  "slug": "aiimstorms",
-  "tier": 3
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-16T12:28:27Z",
+  "evidence": [
+   {
+    "detail": "Motion Graphic Designer — India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://in.linkedin.com/jobs/view/motion-graphic-designer-at-aiimstorms-4477321912",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-10-16T12:28:27Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "50acef3229",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Aiimstorms",
+ "slug": "aiimstorms",
+ "tier": 3
 }

@@ -1,0 +1,87 @@
+{
+ "apply_url": null,
+ "board_apply": "https://careers.roar.global/jobs/aca2a5dc-2bb9-49ca-b111-57df24577fb8",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "ROAR",
+ "company_slug": "roar",
+ "concerns": [
+  "Compensation not disclosed",
+  "Full description not available from this source"
+ ],
+ "contacts_count": 0,
+ "content_hash": "3b04d2419754",
+ "date_quality": "unknown",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-10-27T15:28:11Z",
+ "fit": 57,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "b8a0e09c9c47be",
+ "include_reason": "Mixed graphic + motion title",
+ "india": {
+  "cities": [],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "graphic-motion",
+ "last_verified": "2026-10-29T06:26:40Z",
+ "location": "India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": null,
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 45,
+  "comp": 48,
+  "company": 40,
+  "location": 100,
+  "seniority": 100,
+  "skill": 42
+ },
+ "seniority": "senior",
+ "snippet": "",
+ "source_primary": "ROAR careers (via search index)",
+ "sources": [
+  {
+   "id": "web",
+   "job_id": "https://careers.roar.global/jobs/aca2a5dc-2bb9-49ca-b111-57df24577fb8",
+   "kind": "search",
+   "name": "ROAR careers (via search index)",
+   "posted_at": null,
+   "seen_at": "2026-10-29T06:26:40Z",
+   "url": "https://careers.roar.global/jobs/aca2a5dc-2bb9-49ca-b111-57df24577fb8"
+  },
+  {
+   "id": "web",
+   "job_id": "https://careers.roar.global/jobs/2c605cdd-002e-4456-b40c-3ae92f9b50c6",
+   "kind": "search",
+   "name": "ROAR careers (via search index)",
+   "posted_at": null,
+   "seen_at": "2026-10-29T06:26:40Z",
+   "url": "https://careers.roar.global/jobs/2c605cdd-002e-4456-b40c-3ae92f9b50c6"
+  }
+ ],
+ "specializations": [],
+ "status": "lead",
+ "tier": 3,
+ "title": "Senior Motion Graphics Designer - India (Remote)",
+ "tools": [],
+ "updated_at": null,
+ "url": "https://careers.roar.global/jobs/aca2a5dc-2bb9-49ca-b111-57df24577fb8",
+ "why": [
+  "Location lists India"
+ ],
+ "work_mode": "remote",
+ "years_min": null
+}

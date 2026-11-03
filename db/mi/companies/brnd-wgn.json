@@ -1,56 +1,56 @@
 {
-  "category": "Agency / studio",
-  "classification": "Inferred from job description",
-  "india_hiring": {
-    "board": null,
-    "changed_at": "2026-10-15T16:19:24Z",
-    "evidence": [],
-    "first_checked_at": "2026-10-15T16:19:24Z",
-    "india_based": false,
-    "method": "Careers board, posting text, web search",
-    "sig": "54391d7cdf",
-    "summary": "No public evidence yet about hiring from India.",
-    "verdict": "unclear",
-    "web": {
-      "checked_at": "2026-10-15T16:52:46Z",
-      "query": "\"BRND WGN\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
-      "results": [
-        {
-          "description": "Find jobs at BRND WGN ... Remote Working. Work from anywhere. Health Insurance. Full health coverage ...",
-          "title": "Find a job and grow your career with BRND WGN.",
-          "url": "https://brndwgn.com/about/careers"
-        },
-        {
-          "description": "Open roles at BRND WGN Co Ltd · Brand Designer for Global Campaigns — Remote · BRND WGN Co Ltd is hiring: Graphic Designer in Round Lake.",
-          "title": "BRND WGN Co Ltd Jobs | Mediabistro",
-          "url": "https://www.mediabistro.com/companies/brnd-wgn-co-ltd"
-        },
-        {
-          "description": "Browse remote and work from home jobs at BRND WGN. BRND WGN is a creative agency that helps entrepreneurs and brands develop meaningful brand identities and ...",
-          "title": "BRND WGN Remote Jobs & Careers - RemoteJobs.org",
-          "url": "https://remotejobs.org/companies/brnd-wgn"
-        },
-        {
-          "description": "Find top remote jobs and work-from-home careers at BRND WGN. Utilize DailyRemote for an efficient remote job search experience.",
-          "title": "BRND WGN - Remote Work From Home Jobs & Careers",
-          "url": "https://dailyremote.com/remote-company/brnd-wgn"
-        },
-        {
-          "description": "BRND WGN is building a dedicated team that will work directly with nmbl, a New York–based creative agency ... BRND WGN is a leading brand-led creative agency headquartered in Malta, with offices spanning Ukraine, The Netherlands, France, and the United Kingdom. ... Mid-Level Graphic & Motion Designer ... Salary:€40K – €40K per year",
-          "title": "Senior Graphic Designer - BRND WGN - Himalayas",
-          "url": "https://himalayas.app/companies/brnd-wgn/jobs/senior-graphic-designer"
-        },
-        {
-          "description": "See who BRND WGN has hired for this role. No longer accepting applications ... • Remote Working Allowance. • ‍ Professional Development Training.",
-          "title": "Senior Graphic Designer - BRND WGN - LinkedIn Malta",
-          "url": "https://mt.linkedin.com/jobs/view/senior-graphic-designer-at-brnd-wgn-4399795272"
-        }
-      ]
+ "category": "Agency / studio",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-15T16:19:24Z",
+  "evidence": [],
+  "first_checked_at": "2026-10-15T16:19:24Z",
+  "india_based": false,
+  "method": "Careers board, posting text, web search",
+  "sig": "54391d7cdf",
+  "summary": "No public evidence yet about hiring from India.",
+  "verdict": "unclear",
+  "web": {
+   "checked_at": "2026-10-15T16:52:46Z",
+   "query": "\"BRND WGN\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
+   "results": [
+    {
+     "description": "Find jobs at BRND WGN ... Remote Working. Work from anywhere. Health Insurance. Full health coverage ...",
+     "title": "Find a job and grow your career with BRND WGN.",
+     "url": "https://brndwgn.com/about/careers"
+    },
+    {
+     "description": "Open roles at BRND WGN Co Ltd · Brand Designer for Global Campaigns — Remote · BRND WGN Co Ltd is hiring: Graphic Designer in Round Lake.",
+     "title": "BRND WGN Co Ltd Jobs | Mediabistro",
+     "url": "https://www.mediabistro.com/companies/brnd-wgn-co-ltd"
+    },
+    {
+     "description": "Browse remote and work from home jobs at BRND WGN. BRND WGN is a creative agency that helps entrepreneurs and brands develop meaningful brand identities and ...",
+     "title": "BRND WGN Remote Jobs & Careers - RemoteJobs.org",
+     "url": "https://remotejobs.org/companies/brnd-wgn"
+    },
+    {
+     "description": "Find top remote jobs and work-from-home careers at BRND WGN. Utilize DailyRemote for an efficient remote job search experience.",
+     "title": "BRND WGN - Remote Work From Home Jobs & Careers",
+     "url": "https://dailyremote.com/remote-company/brnd-wgn"
+    },
+    {
+     "description": "BRND WGN is building a dedicated team that will work directly with nmbl, a New York–based creative agency ... BRND WGN is a leading brand-led creative agency headquartered in Malta, with offices spanning Ukraine, The Netherlands, France, and the United Kingdom. ... Mid-Level Graphic & Motion Designer ... Salary:€40K – €40K per year",
+     "title": "Senior Graphic Designer - BRND WGN - Himalayas",
+     "url": "https://himalayas.app/companies/brnd-wgn/jobs/senior-graphic-designer"
+    },
+    {
+     "description": "See who BRND WGN has hired for this role. No longer accepting applications ... • Remote Working Allowance. • ‍ Professional Development Training.",
+     "title": "Senior Graphic Designer - BRND WGN - LinkedIn Malta",
+     "url": "https://mt.linkedin.com/jobs/view/senior-graphic-designer-at-brnd-wgn-4399795272"
     }
-  },
-  "inferred": true,
-  "logo": "https://cdn-images.himalayas.app/d8auks8lsb8jdykacq58ila2xcc3",
-  "name": "BRND WGN",
-  "slug": "brnd-wgn",
-  "tier": 2
+   ]
+  }
+ },
+ "inferred": true,
+ "logo": "https://cdn-images.himalayas.app/d8auks8lsb8jdykacq58ila2xcc3",
+ "name": "BRND WGN",
+ "slug": "brnd-wgn",
+ "tier": 2
 }

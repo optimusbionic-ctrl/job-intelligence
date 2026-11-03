@@ -1,0 +1,101 @@
+{
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/quality-analyst/sure-job-consultancy-and-enterprises/19804115",
+ "category": "Recruiter (client not named)",
+ "comp_potential": "listed",
+ "company": "SURE JOB CONSULTANCY AND ENTERPRISES",
+ "company_slug": "sure-job-consultancy-and-enterprises",
+ "concerns": [
+  "Office outside Mumbai — relocation within India"
+ ],
+ "contacts_count": 0,
+ "content_hash": "d03017dac96d",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-10-28T10:45:08Z",
+ "fit": 68,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "0800595f9a6f37",
+ "include_reason": "QA / test engineer title",
+ "india": {
+  "cities": [
+   "Pune"
+  ],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "qa-engineer",
+ "last_verified": "2026-10-28T10:45:08Z",
+ "location": "Pune, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-10-14T12:40:04Z",
+ "repost": false,
+ "requirements": [
+  "(Summary from the Shine.com listing; open the posting for the full description.)"
+ ],
+ "responsibilities": [],
+ "salary": {
+  "applies_india": true,
+  "basis": "listed",
+  "currency": "INR",
+  "fx_at": "Wed, 28 Oct 2026 00:02:31 +0000",
+  "fx_rate": 1,
+  "inr_max": 350000,
+  "inr_min": 250000,
+  "max": 350000,
+  "min": 250000,
+  "note": "Listed in the posting",
+  "original_period": "annual",
+  "period": "annual",
+  "source_name": "Shine.com",
+  "source_url": "https://www.shine.com/jobs/quality-analyst/sure-job-consultancy-and-enterprises/19804115",
+  "state": "verified",
+  "verified_at": "2026-10-28T10:45:08Z"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 78,
+  "company": 66,
+  "location": 78,
+  "seniority": 100,
+  "skill": 43
+ },
+ "seniority": "unspecified",
+ "snippet": "Experience: 2 to 6 Yrs\nSkills: quality\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "19804115",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-10-14T12:40:04Z",
+   "seen_at": "2026-10-28T10:45:08Z",
+   "url": "https://www.shine.com/jobs/quality-analyst/sure-job-consultancy-and-enterprises/19804115"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 3,
+ "title": "Quality Analyst",
+ "tools": [],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/quality-analyst/sure-job-consultancy-and-enterprises/19804115",
+ "why": [
+  "QA / test engineer role",
+  "Asks for 2–6 years — you have about 2.5",
+  "Pay is listed in the posting",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": 6,
+ "years_min": 2
+}

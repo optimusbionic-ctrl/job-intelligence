@@ -1,30 +1,30 @@
 {
-  "category": "Other",
-  "classification": "Inferred from job description",
-  "india_hiring": {
-    "board": null,
-    "changed_at": "2026-10-23T14:44:10Z",
-    "evidence": [
-      {
-        "detail": "Software Tester — Vasai, India",
-        "kind": "posting",
-        "label": "A current posting lists India as a location",
-        "url": "https://www.shine.com/jobs/software-tester/propjini-technologies-private-limited/19687258",
-        "weight": 5
-      }
-    ],
-    "first_checked_at": "2026-10-23T14:44:10Z",
-    "india_based": false,
-    "method": "Careers board, posting text",
-    "sig": "461b1cc10f",
-    "summary": "A current posting lists India as a location.",
-    "verdict": "yes"
-  },
-  "inferred": true,
-  "name": "Propjini Technologies Private Limited",
-  "slug": "propjini-technologies-private-limited",
-  "tier": 3,
-  "tracks": [
-    "software"
-  ]
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-23T14:44:10Z",
+  "evidence": [
+   {
+    "detail": "Software Tester — Vasai, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/software-tester/propjini-technologies-private-limited/19687258",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-10-23T14:44:10Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "461b1cc10f",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Propjini Technologies Private Limited",
+ "slug": "propjini-technologies-private-limited",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
 }

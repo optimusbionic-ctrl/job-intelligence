@@ -1,0 +1,30 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-28T10:45:08Z",
+  "evidence": [
+   {
+    "detail": "Qa Engineer At A Fintech Company Pune (India) — All India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/qa-engineer-at-a-fintech-company-pune-india/talentzo-delhi/19594244",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-10-28T10:45:08Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "acb2bffbac",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Talentzo Delhi",
+ "slug": "talentzo-delhi",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}

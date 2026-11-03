@@ -1,32 +1,32 @@
 {
-  "category": "Other",
-  "classification": "Inferred from job description",
-  "domain": "unisongroup.com",
-  "india_hiring": {
-    "board": null,
-    "changed_at": "2026-10-19T13:24:59Z",
-    "evidence": [
-      {
-        "detail": "Software Tester (Playwright) — Hyderabad, Telangana, India",
-        "kind": "posting",
-        "label": "A current posting lists India as a location",
-        "url": "https://jobs.workable.com/view/2wYJBh81pNaATNb3GwD16v/software-tester-(playwright)-in-hyderabad-at-unison-group",
-        "weight": 5
-      }
-    ],
-    "first_checked_at": "2026-10-19T13:24:59Z",
-    "india_based": false,
-    "method": "Careers board, posting text",
-    "sig": "c06b67dba9",
-    "summary": "A current posting lists India as a location.",
-    "verdict": "yes"
-  },
-  "inferred": true,
-  "logo": "https://workablehr.s3.amazonaws.com/uploads/account/logo/599747/logo",
-  "name": "Unison Group",
-  "slug": "unison-group",
-  "tier": 3,
-  "tracks": [
-    "software"
-  ]
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "domain": "unisongroup.com",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-19T13:24:59Z",
+  "evidence": [
+   {
+    "detail": "Software Tester (Playwright) — Hyderabad, Telangana, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://jobs.workable.com/view/2wYJBh81pNaATNb3GwD16v/software-tester-(playwright)-in-hyderabad-at-unison-group",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-10-19T13:24:59Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "c06b67dba9",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "logo": "https://workablehr.s3.amazonaws.com/uploads/account/logo/599747/logo",
+ "name": "Unison Group",
+ "slug": "unison-group",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
 }

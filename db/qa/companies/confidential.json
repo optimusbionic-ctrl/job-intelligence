@@ -1,30 +1,30 @@
 {
-  "category": "Recruiter (client not named)",
-  "classification": "Inferred from job description",
-  "india_hiring": {
-    "board": null,
-    "changed_at": "2026-10-23T14:44:10Z",
-    "evidence": [
-      {
-        "detail": "Testing Qa — Ahmedabad, India",
-        "kind": "posting",
-        "label": "A current posting lists India as a location",
-        "url": "https://www.shine.com/jobs/testing-qa/confidential/19886105",
-        "weight": 5
-      }
-    ],
-    "first_checked_at": "2026-10-23T14:44:10Z",
-    "india_based": false,
-    "method": "Careers board, posting text",
-    "sig": "04eb2d5214",
-    "summary": "A current posting lists India as a location.",
-    "verdict": "yes"
-  },
-  "inferred": true,
-  "name": "confidential",
-  "slug": "confidential",
-  "tier": 3,
-  "tracks": [
-    "software"
-  ]
+ "category": "Recruiter (client not named)",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-23T14:44:10Z",
+  "evidence": [
+   {
+    "detail": "Testing Qa — Ahmedabad, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/testing-qa/confidential/19886105",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-10-23T14:44:10Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "04eb2d5214",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "confidential",
+ "slug": "confidential",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
 }

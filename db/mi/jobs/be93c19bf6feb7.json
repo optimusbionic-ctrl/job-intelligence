@@ -1,0 +1,81 @@
+{
+ "apply_url": null,
+ "board_apply": "https://app.semesteria.com/jobs/motion-designer-bengaluru-indiefolio-15fe04ec-0620-46bf-8956-ba0b0c494c4b",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "Indiefolio",
+ "company_slug": "indiefolio",
+ "concerns": [
+  "Compensation not disclosed",
+  "Full description not available from this source"
+ ],
+ "contacts_count": 0,
+ "content_hash": "b9ed1d65062e",
+ "date_quality": "unknown",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-10-30T00:27:41Z",
+ "fit": 59,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "be93c19bf6feb7",
+ "include_reason": "Motion design title",
+ "india": {
+  "cities": [
+   "Bengaluru"
+  ],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "motion",
+ "last_verified": "2026-10-30T00:27:41Z",
+ "location": "Bengaluru",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": null,
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 45,
+  "comp": 48,
+  "company": 40,
+  "location": 86,
+  "seniority": 66,
+  "skill": 69
+ },
+ "seniority": "unspecified",
+ "snippet": "",
+ "source_primary": "Semesteria (via search index)",
+ "sources": [
+  {
+   "id": "web",
+   "job_id": "https://app.semesteria.com/jobs/motion-designer-bengaluru-indiefolio-15fe04ec-0620-46bf-8956-ba0b0c494c4b",
+   "kind": "search",
+   "name": "Semesteria (via search index)",
+   "posted_at": null,
+   "seen_at": "2026-10-30T00:27:41Z",
+   "url": "https://app.semesteria.com/jobs/motion-designer-bengaluru-indiefolio-15fe04ec-0620-46bf-8956-ba0b0c494c4b"
+  }
+ ],
+ "specializations": [],
+ "status": "lead",
+ "tier": 3,
+ "title": "Motion Designer",
+ "tools": [],
+ "updated_at": null,
+ "url": "https://app.semesteria.com/jobs/motion-designer-bengaluru-indiefolio-15fe04ec-0620-46bf-8956-ba0b0c494c4b",
+ "why": [
+  "Core motion design role",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_min": null
+}

@@ -1,30 +1,30 @@
 {
-  "category": "Fintech",
-  "classification": "Inferred from job description",
-  "india_hiring": {
-    "board": null,
-    "changed_at": "2026-10-24T02:43:25Z",
-    "evidence": [
-      {
-        "detail": "QA Automation Tester  Financial Markets — Mumbai City, India",
-        "kind": "posting",
-        "label": "A current posting lists India as a location",
-        "url": "https://www.shine.com/jobs/qa-automation-tester-financial-markets/scymes-services-pvt-limited/19909133",
-        "weight": 5
-      }
-    ],
-    "first_checked_at": "2026-10-24T02:43:25Z",
-    "india_based": false,
-    "method": "Careers board, posting text",
-    "sig": "317a39798f",
-    "summary": "A current posting lists India as a location.",
-    "verdict": "yes"
-  },
-  "inferred": true,
-  "name": "scymes services pvt limited",
-  "slug": "scymes-services-pvt-limited",
-  "tier": 1,
-  "tracks": [
-    "software"
-  ]
+ "category": "Fintech",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-24T02:43:25Z",
+  "evidence": [
+   {
+    "detail": "QA Automation Tester  Financial Markets — Mumbai City, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/qa-automation-tester-financial-markets/scymes-services-pvt-limited/19909133",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-10-24T02:43:25Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "317a39798f",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "scymes services pvt limited",
+ "slug": "scymes-services-pvt-limited",
+ "tier": 1,
+ "tracks": [
+  "software"
+ ]
 }

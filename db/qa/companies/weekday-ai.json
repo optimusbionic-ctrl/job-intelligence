@@ -1,32 +1,32 @@
 {
-  "category": "Product / SaaS",
-  "classification": "Inferred from job description",
-  "domain": "weekday.works",
-  "india_hiring": {
-    "board": null,
-    "changed_at": "2026-10-19T13:24:59Z",
-    "evidence": [
-      {
-        "detail": "QA Engineer - Manual testing — Bengaluru, Karnataka, India",
-        "kind": "posting",
-        "label": "A current posting lists India as a location",
-        "url": "https://jobs.workable.com/view/pri9GRwAZ7pP4KxS2Z42qR/qa-engineer---manual-testing-in-bengaluru-at-weekday-ai",
-        "weight": 5
-      }
-    ],
-    "first_checked_at": "2026-10-19T13:24:59Z",
-    "india_based": false,
-    "method": "Careers board, posting text",
-    "sig": "d07e052911",
-    "summary": "A current posting lists India as a location.",
-    "verdict": "yes"
-  },
-  "inferred": true,
-  "logo": "https://workablehr.s3.amazonaws.com/uploads/account/logo/691818/logo",
-  "name": "Weekday AI",
-  "slug": "weekday-ai",
-  "tier": 1,
-  "tracks": [
-    "software"
-  ]
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "domain": "weekday.works",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-28T12:59:25Z",
+  "evidence": [
+   {
+    "detail": "Manual QA Tester — India (Remote)",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://jobs.workable.com/view/jFPdokJARVoxo4LCFrhq9C/remote-manual-qa-tester-in-india-at-weekday-ai",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-10-19T13:24:59Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "a073a4494a",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "logo": "https://workablehr.s3.amazonaws.com/uploads/account/logo/691818/logo",
+ "name": "Weekday AI",
+ "slug": "weekday-ai",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
 }

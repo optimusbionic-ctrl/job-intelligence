@@ -1,55 +1,55 @@
 {
-  "category": "Other",
-  "classification": "Inferred from job description",
-  "india_hiring": {
-    "board": null,
-    "changed_at": "2026-10-18T18:27:42Z",
-    "evidence": [],
-    "first_checked_at": "2026-10-18T18:27:42Z",
-    "india_based": false,
-    "method": "Careers board, posting text, web search",
-    "sig": "54391d7cdf",
-    "summary": "No public evidence yet about hiring from India.",
-    "verdict": "unclear",
-    "web": {
-      "checked_at": "2026-10-18T19:27:59Z",
-      "query": "\"Polygon\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
-      "results": [
-        {
-          "description": "",
-          "title": "Polygon is hiring a",
-          "url": "https://web3.career/country-manager-growth-marketing-polygon/26567"
-        },
-        {
-          "description": "",
-          "title": "Discord Jobs at Polygon",
-          "url": "https://web3.career/web3-companies/polygon+discord?page=19"
-        },
-        {
-          "description": "",
-          "title": "Polygon is hiring a",
-          "url": "https://web3.career/program-manager-remote-polygon/20040"
-        },
-        {
-          "description": "",
-          "title": "Polygon is hiring a",
-          "url": "https://web3.career/program-manager-polygon/9143"
-        },
-        {
-          "description": "",
-          "title": "Polygon Jobs",
-          "url": "https://web3.career/web3-companies/polygon?page=18"
-        },
-        {
-          "description": "",
-          "title": "Discord Jobs at Polygon",
-          "url": "https://web3.career/web3-companies/polygon+discord?page=16"
-        }
-      ]
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-18T18:27:42Z",
+  "evidence": [],
+  "first_checked_at": "2026-10-18T18:27:42Z",
+  "india_based": false,
+  "method": "Careers board, posting text, web search",
+  "sig": "54391d7cdf",
+  "summary": "No public evidence yet about hiring from India.",
+  "verdict": "unclear",
+  "web": {
+   "checked_at": "2026-11-03T10:27:01Z",
+   "query": "\"Polygon\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
+   "results": [
+    {
+     "description": "",
+     "title": "Polygon is hiring a",
+     "url": "https://web3.career/country-manager-growth-marketing-polygon/26567"
+    },
+    {
+     "description": "",
+     "title": "Discord Jobs at Polygon",
+     "url": "https://web3.career/web3-companies/polygon+discord?page=19"
+    },
+    {
+     "description": "",
+     "title": "Polygon is hiring a",
+     "url": "https://web3.career/program-manager-remote-polygon/20040"
+    },
+    {
+     "description": "",
+     "title": "Polygon is hiring a",
+     "url": "https://web3.career/program-manager-polygon/9143"
+    },
+    {
+     "description": "",
+     "title": "Polygon Jobs",
+     "url": "https://web3.career/web3-companies/polygon?page=18"
+    },
+    {
+     "description": "",
+     "title": "Discord Jobs at Polygon",
+     "url": "https://web3.career/web3-companies/polygon+discord?page=16"
     }
-  },
-  "inferred": true,
-  "name": "Polygon",
-  "slug": "polygon",
-  "tier": 3
+   ]
+  }
+ },
+ "inferred": true,
+ "name": "Polygon",
+ "slug": "polygon",
+ "tier": 3
 }

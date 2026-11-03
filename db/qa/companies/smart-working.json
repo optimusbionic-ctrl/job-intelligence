@@ -1,30 +1,30 @@
 {
-  "category": "Product / SaaS",
-  "classification": "Inferred from job description",
-  "india_hiring": {
-    "board": null,
-    "changed_at": "2026-10-19T13:24:59Z",
-    "evidence": [
-      {
-        "detail": "QA Automation Engineer (Remote, Full-Time) [HR217] — India",
-        "kind": "posting",
-        "label": "A current posting lists India as a location",
-        "url": "https://himalayas.app/companies/smart-working/jobs/qa-automation-engineer-remote-full-time-hr217?utm_source=api",
-        "weight": 5
-      }
-    ],
-    "first_checked_at": "2026-10-19T13:24:59Z",
-    "india_based": false,
-    "method": "Careers board, posting text",
-    "sig": "42ebf3b90a",
-    "summary": "A current posting lists India as a location.",
-    "verdict": "yes"
-  },
-  "inferred": true,
-  "name": "Smart Working",
-  "slug": "smart-working",
-  "tier": 1,
-  "tracks": [
-    "software"
-  ]
+ "category": "Product / SaaS",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-19T13:24:59Z",
+  "evidence": [
+   {
+    "detail": "QA Automation Engineer (Remote, Full-Time) [HR217] — India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://himalayas.app/companies/smart-working/jobs/qa-automation-engineer-remote-full-time-hr217?utm_source=api",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-10-19T13:24:59Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "42ebf3b90a",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Smart Working",
+ "slug": "smart-working",
+ "tier": 1,
+ "tracks": [
+  "software"
+ ]
 }

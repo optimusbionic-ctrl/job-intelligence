@@ -1,89 +1,89 @@
 {
-  "apply_url": null,
-  "board_apply": "https://www.shine.com/jobs/qa-automation-python-playwright-noida/iris-software/19579026",
-  "category": "Other",
-  "comp_potential": "unknown",
-  "company": "IRIS SOFTWARE",
-  "company_slug": "iris-software",
-  "concerns": [
-    "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
-    "Also asks for: API testing, Programming",
-    "Office outside Mumbai — relocation within India",
-    "Pay not disclosed — ask for the range early"
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/qa-automation-python-playwright-noida/iris-software/19579026",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "IRIS SOFTWARE",
+ "company_slug": "iris-software",
+ "concerns": [
+  "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
+  "Also asks for: API testing, Programming",
+  "Office outside Mumbai — relocation within India",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "6eb970d64302",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-10-19T13:24:59Z",
+ "fit": 58,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "91607838e49d16",
+ "include_reason": "Automation-heavy QA (SDET)",
+ "india": {
+  "cities": [
+   "Delhi NCR"
   ],
-  "contacts_count": 0,
-  "content_hash": "6eb970d64302",
-  "date_quality": "exact",
-  "deadline": null,
-  "employment": "full-time",
-  "first_seen": "2026-10-19T13:24:59Z",
-  "fit": 58,
-  "has_hiring_manager": false,
-  "has_named_contact": false,
-  "has_public_email": false,
-  "id": "91607838e49d16",
-  "include_reason": "Automation-heavy QA (SDET)",
-  "india": {
-    "cities": [
-      "Delhi NCR"
-    ],
-    "company": "yes",
-    "reason": "Location lists India",
-    "status": "confirmed",
-    "visa": false
-  },
-  "kind": "automation",
-  "last_verified": "2026-10-19T13:24:59Z",
-  "location": "Noida, India",
-  "logo": null,
-  "needs_review": false,
-  "official": false,
-  "posted_at": "2026-09-23T03:45:53Z",
-  "repost": false,
-  "requirements": [],
-  "responsibilities": [],
-  "salary": {
-    "state": "unavailable"
-  },
-  "scores": {
-    "ai": 58,
-    "comp": 60,
-    "company": 66,
-    "location": 60,
-    "seniority": 100,
-    "skill": 24
-  },
-  "seniority": "unspecified",
-  "snippet": "Experience: 0 to 4 Yrs\nSkills: Python, Continuous Integration, Xpath, Cucumber, TestNG, Playwright, OOPS Concepts, Web Analytics Testing, REST Assured, API Automation\n(Summary from the Shine.com listing; open the posting for the full description.)",
-  "source_primary": "Shine.com",
-  "sources": [
-    {
-      "id": "shine",
-      "job_id": "19579026",
-      "kind": "board",
-      "name": "Shine.com",
-      "posted_at": "2026-09-23T03:45:53Z",
-      "seen_at": "2026-10-19T13:24:59Z",
-      "url": "https://www.shine.com/jobs/qa-automation-python-playwright-noida/iris-software/19579026"
-    }
-  ],
-  "specializations": [],
-  "status": "active",
-  "tier": 3,
-  "title": "QA Automation - Python + Playwright (Noida)",
-  "tools": [
-    "API testing",
-    "Test automation",
-    "Programming"
-  ],
-  "track": "software",
-  "updated_at": null,
-  "url": "https://www.shine.com/jobs/qa-automation-python-playwright-noida/iris-software/19579026",
-  "why": [
-    "Asks for 0–4 years — you have about 2.5",
-    "Location lists India"
-  ],
-  "work_mode": "onsite",
-  "years_max": 4,
-  "years_min": 0
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "automation",
+ "last_verified": "2026-10-19T13:24:59Z",
+ "location": "Noida, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-09-23T03:45:53Z",
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 60,
+  "company": 66,
+  "location": 60,
+  "seniority": 100,
+  "skill": 24
+ },
+ "seniority": "unspecified",
+ "snippet": "Experience: 0 to 4 Yrs\nSkills: Python, Continuous Integration, Xpath, Cucumber, TestNG, Playwright, OOPS Concepts, Web Analytics Testing, REST Assured, API Automation\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "19579026",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-09-23T03:45:53Z",
+   "seen_at": "2026-10-19T13:24:59Z",
+   "url": "https://www.shine.com/jobs/qa-automation-python-playwright-noida/iris-software/19579026"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 3,
+ "title": "QA Automation - Python + Playwright (Noida)",
+ "tools": [
+  "API testing",
+  "Test automation",
+  "Programming"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/qa-automation-python-playwright-noida/iris-software/19579026",
+ "why": [
+  "Asks for 0–4 years — you have about 2.5",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": 4,
+ "years_min": 0
 }

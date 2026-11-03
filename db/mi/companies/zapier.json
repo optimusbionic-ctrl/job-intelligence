@@ -1,145 +1,145 @@
 {
-  "aliases": [
-    "Zapier"
-  ],
-  "ats": {
-    "slug": "zapier",
-    "type": "ashby"
-  },
-  "careers": "https://jobs.ashbyhq.com/zapier",
-  "category": "SaaS",
-  "classification": "Motion Intelligence registry (curated)",
-  "domain": "zapier.com",
-  "facts_note": "HQ and maturity from public company information; funding not verified",
-  "hq": "Remote-first",
-  "india_hiring": {
-    "board": {
-      "apac": 1,
-      "countries": [
-        "United States"
-      ],
-      "india": 0,
-      "india_samples": [],
-      "open_samples": [
-        {
-          "location": "APAC",
-          "title": "Sales Assist Representative",
-          "url": "https://jobs.ashbyhq.com/zapier/6adee270-03bf-4b1b-915b-eba5fb56d1b6"
-        }
-      ],
-      "remote": 11,
-      "restricted_remote": 6,
-      "restricted_samples": [
-        {
-          "location": "NAMER",
-          "title": "Account Executive, Mid Market",
-          "url": "https://jobs.ashbyhq.com/zapier/d4576c10-a27e-47fa-a056-30c898b9e672"
-        },
-        {
-          "location": "NAMER",
-          "title": "Finance Manager, Marketing",
-          "url": "https://jobs.ashbyhq.com/zapier/cb1aec2c-05cd-4598-8117-bd1f7ed9a49f"
-        },
-        {
-          "location": "NAMER",
-          "title": "Growth Design Lead",
-          "url": "https://jobs.ashbyhq.com/zapier/b14ac81b-d94c-4a46-89a3-017f3d113517"
-        },
-        {
-          "location": "NAMER",
-          "title": "Legal Counsel",
-          "url": "https://jobs.ashbyhq.com/zapier/04838dc8-0efa-4fe5-b705-c99f6b3f17c6"
-        }
-      ],
-      "slug": "zapier",
-      "total": 11,
-      "type": "ashby",
-      "url": "https://jobs.ashbyhq.com/zapier",
-      "worldwide": 0
-    },
-    "changed_at": "2026-10-18T15:28:43Z",
-    "evidence": [
-      {
-        "detail": "Sales Assist Representative (APAC)",
-        "kind": "board",
-        "label": "1 open role is open worldwide or to APAC",
-        "url": "https://jobs.ashbyhq.com/zapier",
-        "weight": 3
-      },
-      {
-        "detail": "Sr. Motion Designer — Anywhere in the World",
-        "kind": "posting",
-        "label": "A current posting is open worldwide",
-        "url": "https://jobs.ashbyhq.com/zapier/c0582311-18cb-4415-9c86-79014f1b74f6",
-        "weight": 3
-      },
-      {
-        "detail": "50+ fully remote companies that let you work from anywhere - Zapier — “across 38 countries”",
-        "kind": "web",
-        "label": "Web shows it hires across countries",
-        "url": "https://zapier.com/blog/companies-hiring-remote-workers/",
-        "weight": 2
-      },
-      {
-        "detail": "Remote work - Zapier — “across 40 countries”",
-        "kind": "web",
-        "label": "Web shows it hires across countries",
-        "url": "https://zapier.com/blog/categories/remote-work/",
-        "weight": 2
-      },
-      {
-        "detail": "The ultimate guide to remote work - Zapier — “across 40 countries”",
-        "kind": "web",
-        "label": "Web shows it hires across countries",
-        "url": "https://zapier.com/blog/remote-work/",
-        "weight": 2
-      }
-    ],
-    "first_checked_at": "2026-10-16T06:28:21Z",
-    "india_based": false,
-    "method": "Careers board, posting text, web search",
-    "sig": "df26023d4f",
-    "summary": "No India-located roles found, but 1 open role is open worldwide or to APAC.",
-    "verdict": "likely",
-    "web": {
-      "checked_at": "2026-10-16T07:27:31Z",
-      "query": "site:zapier.com careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
-      "results": [
-        {
-          "description": "# 50+ fully remote companies that let you work from anywhere\nBy Rochi Zalani · May 19, 2026\n\nBut for some employees, once you go remote, you never go back. If you're nodding your head, consider these 50+ companies that are fully remote—and plan on staying that way.\n\n## 46. Zapier\nZapier has always been remote (here's why) and currently has about 800 employees across 38 countries. Learn more about the total rewards program at Zapier.\n\n**Note**: Due to regulatory risks, U.S. trade embargoes, financial sanctions, and security reasons, Zapier doesn't make full-time hires from these countries.",
-          "title": "50+ fully remote companies that let you work from anywhere - Zapier",
-          "url": "https://zapier.com/blog/companies-hiring-remote-workers/"
-        },
-        {
-          "description": "# Join us from anywhere\nAnd we’re hiring!\n\nBuilding the future of AI and Automation at Zapier\n\n## How we work\n### Remote work\nZapier has been remote-first since 2011, and we’ve built a distributed culture that balances autonomy, flexibility, and meaningful connection. We stay connected through async tools, Slack channels like #fun-cooking and #fun-music, local meetups, and annual summits.\n\n- Campaign Marketing\n  - Sr. Product Marketing Manager, Enterprise\n  - Sr. Motion Designer (https://jobs.ashbyhq.com/zapier/c0582311-18cb-4415-9c86-79014f1b74f6)",
-          "title": "Job openings at Zapier | Work from anywhere",
-          "url": "https://zapier.com/jobs"
-        },
-        {
-          "description": "# Remote work\nThe ultimate guide to remote work\n\nZapier is a 100% distributed company with over 750 teammates across 40 countries. Here are all our tips for how to make remote work a success.",
-          "title": "Remote work - Zapier",
-          "url": "https://zapier.com/blog/categories/remote-work/"
-        },
-        {
-          "description": "# How to Find and Get Hired for a Remote Job\nHere at Zapier, we're a 100% remote team and we get many applicants for our job openings.\n\nSo if you want to work remotely, you need a plan.",
-          "title": "How to find and get hired for a remote Job - Zapier",
-          "url": "https://zapier.com/blog/remote-job-hunting/"
-        },
-        {
-          "description": "They can also offer insight into the benefits and perks you should ask for—like flexible hours or remote work options. Plus, you can fill out granular ...",
-          "title": "AI job search tips: 9 AI tools to help you land your next job - Zapier",
-          "url": "https://zapier.com/blog/ai-job-search/"
-        },
-        {
-          "description": "# The ultimate guide to remote work\nZapier is a 100% distributed company with over 800 teammates across 40 countries.\n\n## Finding remote work\n- 25+ fully remote companies that let you work from anywhere",
-          "title": "The ultimate guide to remote work - Zapier",
-          "url": "https://zapier.com/blog/remote-work/"
-        }
-      ]
-    }
-  },
-  "maturity": "Late-stage private",
-  "name": "Zapier",
+ "aliases": [
+  "Zapier"
+ ],
+ "ats": {
   "slug": "zapier",
-  "tier": 1
+  "type": "ashby"
+ },
+ "careers": "https://jobs.ashbyhq.com/zapier",
+ "category": "SaaS",
+ "classification": "Motion Intelligence registry (curated)",
+ "domain": "zapier.com",
+ "facts_note": "HQ and maturity from public company information; funding not verified",
+ "hq": "Remote-first",
+ "india_hiring": {
+  "board": {
+   "apac": 1,
+   "countries": [
+    "United States"
+   ],
+   "india": 0,
+   "india_samples": [],
+   "open_samples": [
+    {
+     "location": "APAC",
+     "title": "Sales Assist Representative",
+     "url": "https://jobs.ashbyhq.com/zapier/6adee270-03bf-4b1b-915b-eba5fb56d1b6"
+    }
+   ],
+   "remote": 11,
+   "restricted_remote": 6,
+   "restricted_samples": [
+    {
+     "location": "NAMER",
+     "title": "Account Executive, Mid Market",
+     "url": "https://jobs.ashbyhq.com/zapier/d4576c10-a27e-47fa-a056-30c898b9e672"
+    },
+    {
+     "location": "NAMER",
+     "title": "Finance Manager, Marketing",
+     "url": "https://jobs.ashbyhq.com/zapier/cb1aec2c-05cd-4598-8117-bd1f7ed9a49f"
+    },
+    {
+     "location": "NAMER",
+     "title": "Growth Design Lead",
+     "url": "https://jobs.ashbyhq.com/zapier/b14ac81b-d94c-4a46-89a3-017f3d113517"
+    },
+    {
+     "location": "NAMER",
+     "title": "Legal Counsel",
+     "url": "https://jobs.ashbyhq.com/zapier/04838dc8-0efa-4fe5-b705-c99f6b3f17c6"
+    }
+   ],
+   "slug": "zapier",
+   "total": 11,
+   "type": "ashby",
+   "url": "https://jobs.ashbyhq.com/zapier",
+   "worldwide": 0
+  },
+  "changed_at": "2026-10-18T15:28:43Z",
+  "evidence": [
+   {
+    "detail": "Sales Assist Representative (APAC)",
+    "kind": "board",
+    "label": "1 open role is open worldwide or to APAC",
+    "url": "https://jobs.ashbyhq.com/zapier",
+    "weight": 3
+   },
+   {
+    "detail": "Sr. Motion Designer — Anywhere in the World",
+    "kind": "posting",
+    "label": "A current posting is open worldwide",
+    "url": "https://jobs.ashbyhq.com/zapier/c0582311-18cb-4415-9c86-79014f1b74f6",
+    "weight": 3
+   },
+   {
+    "detail": "50+ fully remote companies that let you work from anywhere - Zapier — “across 38 countries”",
+    "kind": "web",
+    "label": "Web shows it hires across countries",
+    "url": "https://zapier.com/blog/companies-hiring-remote-workers/",
+    "weight": 2
+   },
+   {
+    "detail": "Remote work - Zapier — “across 40 countries”",
+    "kind": "web",
+    "label": "Web shows it hires across countries",
+    "url": "https://zapier.com/blog/categories/remote-work/",
+    "weight": 2
+   },
+   {
+    "detail": "The ultimate guide to remote work - Zapier — “across 40 countries”",
+    "kind": "web",
+    "label": "Web shows it hires across countries",
+    "url": "https://zapier.com/blog/remote-work/",
+    "weight": 2
+   }
+  ],
+  "first_checked_at": "2026-10-16T06:28:21Z",
+  "india_based": false,
+  "method": "Careers board, posting text, web search",
+  "sig": "df26023d4f",
+  "summary": "No India-located roles found, but 1 open role is open worldwide or to APAC.",
+  "verdict": "likely",
+  "web": {
+   "checked_at": "2026-10-16T07:27:31Z",
+   "query": "site:zapier.com careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
+   "results": [
+    {
+     "description": "# 50+ fully remote companies that let you work from anywhere\nBy Rochi Zalani · May 19, 2026\n\nBut for some employees, once you go remote, you never go back. If you're nodding your head, consider these 50+ companies that are fully remote—and plan on staying that way.\n\n## 46. Zapier\nZapier has always been remote (here's why) and currently has about 800 employees across 38 countries. Learn more about the total rewards program at Zapier.\n\n**Note**: Due to regulatory risks, U.S. trade embargoes, financial sanctions, and security reasons, Zapier doesn't make full-time hires from these countries.",
+     "title": "50+ fully remote companies that let you work from anywhere - Zapier",
+     "url": "https://zapier.com/blog/companies-hiring-remote-workers/"
+    },
+    {
+     "description": "# Join us from anywhere\nAnd we’re hiring!\n\nBuilding the future of AI and Automation at Zapier\n\n## How we work\n### Remote work\nZapier has been remote-first since 2011, and we’ve built a distributed culture that balances autonomy, flexibility, and meaningful connection. We stay connected through async tools, Slack channels like #fun-cooking and #fun-music, local meetups, and annual summits.\n\n- Campaign Marketing\n  - Sr. Product Marketing Manager, Enterprise\n  - Sr. Motion Designer (https://jobs.ashbyhq.com/zapier/c0582311-18cb-4415-9c86-79014f1b74f6)",
+     "title": "Job openings at Zapier | Work from anywhere",
+     "url": "https://zapier.com/jobs"
+    },
+    {
+     "description": "# Remote work\nThe ultimate guide to remote work\n\nZapier is a 100% distributed company with over 750 teammates across 40 countries. Here are all our tips for how to make remote work a success.",
+     "title": "Remote work - Zapier",
+     "url": "https://zapier.com/blog/categories/remote-work/"
+    },
+    {
+     "description": "# How to Find and Get Hired for a Remote Job\nHere at Zapier, we're a 100% remote team and we get many applicants for our job openings.\n\nSo if you want to work remotely, you need a plan.",
+     "title": "How to find and get hired for a remote Job - Zapier",
+     "url": "https://zapier.com/blog/remote-job-hunting/"
+    },
+    {
+     "description": "They can also offer insight into the benefits and perks you should ask for—like flexible hours or remote work options. Plus, you can fill out granular ...",
+     "title": "AI job search tips: 9 AI tools to help you land your next job - Zapier",
+     "url": "https://zapier.com/blog/ai-job-search/"
+    },
+    {
+     "description": "# The ultimate guide to remote work\nZapier is a 100% distributed company with over 800 teammates across 40 countries.\n\n## Finding remote work\n- 25+ fully remote companies that let you work from anywhere",
+     "title": "The ultimate guide to remote work - Zapier",
+     "url": "https://zapier.com/blog/remote-work/"
+    }
+   ]
+  }
+ },
+ "maturity": "Late-stage private",
+ "name": "Zapier",
+ "slug": "zapier",
+ "tier": 1
 }

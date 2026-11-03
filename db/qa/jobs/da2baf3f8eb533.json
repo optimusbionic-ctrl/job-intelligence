@@ -1,87 +1,87 @@
 {
-  "apply_url": null,
-  "board_apply": "https://www.shine.com/jobs/quality-assurance-tester/skillfort-software-training-placements/19753034",
-  "category": "Recruiter (client not named)",
-  "comp_potential": "unknown",
-  "company": "SkillFort Software Training & Placements",
-  "company_slug": "skillfort-software-training-placements",
-  "concerns": [
-    "Entry-level role — pay may be at the lower end",
-    "Office outside Mumbai — relocation within India",
-    "Pay not disclosed — ask for the range early"
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/quality-assurance-tester/skillfort-software-training-placements/19753034",
+ "category": "Recruiter (client not named)",
+ "comp_potential": "unknown",
+ "company": "SkillFort Software Training & Placements",
+ "company_slug": "skillfort-software-training-placements",
+ "concerns": [
+  "Entry-level role — pay may be at the lower end",
+  "Office outside Mumbai — relocation within India",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "470d659c0e2f",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-10-20T17:43:38Z",
+ "fit": 62,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "da2baf3f8eb533",
+ "include_reason": "Manual / functional QA title",
+ "india": {
+  "cities": [
+   "Chennai"
   ],
-  "contacts_count": 0,
-  "content_hash": "470d659c0e2f",
-  "date_quality": "exact",
-  "deadline": null,
-  "employment": "full-time",
-  "first_seen": "2026-10-20T17:43:38Z",
-  "fit": 62,
-  "has_hiring_manager": false,
-  "has_named_contact": false,
-  "has_public_email": false,
-  "id": "da2baf3f8eb533",
-  "include_reason": "Manual / functional QA title",
-  "india": {
-    "cities": [
-      "Chennai"
-    ],
-    "company": "yes",
-    "reason": "Location lists India",
-    "status": "confirmed",
-    "visa": false
-  },
-  "kind": "manual-qa",
-  "last_verified": "2026-10-20T17:43:38Z",
-  "location": "Chennai, India",
-  "logo": null,
-  "needs_review": false,
-  "official": false,
-  "posted_at": "2026-10-09T13:12:47Z",
-  "repost": false,
-  "requirements": [
-    "(Summary from the Shine.com listing; open the posting for the full description.)"
-  ],
-  "responsibilities": [],
-  "salary": {
-    "state": "unavailable"
-  },
-  "scores": {
-    "ai": 58,
-    "comp": 60,
-    "company": 66,
-    "location": 60,
-    "seniority": 80,
-    "skill": 50
-  },
-  "seniority": "unspecified",
-  "snippet": "Experience: 0 Yrs\nSkills: qa testing, manual testing, automation testing, software testing\n(Summary from the Shine.com listing; open the posting for the full description.)",
-  "source_primary": "Shine.com",
-  "sources": [
-    {
-      "id": "shine",
-      "job_id": "19753034",
-      "kind": "board",
-      "name": "Shine.com",
-      "posted_at": "2026-10-09T13:12:47Z",
-      "seen_at": "2026-10-20T17:43:38Z",
-      "url": "https://www.shine.com/jobs/quality-assurance-tester/skillfort-software-training-placements/19753034"
-    }
-  ],
-  "specializations": [],
-  "status": "active",
-  "tier": 3,
-  "title": "Quality Assurance Tester",
-  "tools": [],
-  "track": "software",
-  "updated_at": null,
-  "url": "https://www.shine.com/jobs/quality-assurance-tester/skillfort-software-training-placements/19753034",
-  "why": [
-    "Manual / functional QA — the core of your resume",
-    "Asks for 0+ years — you have about 2.5",
-    "Location lists India"
-  ],
-  "work_mode": "onsite",
-  "years_max": null,
-  "years_min": 0
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "manual-qa",
+ "last_verified": "2026-10-20T17:43:38Z",
+ "location": "Chennai, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-10-09T13:12:47Z",
+ "repost": false,
+ "requirements": [
+  "(Summary from the Shine.com listing; open the posting for the full description.)"
+ ],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 60,
+  "company": 66,
+  "location": 60,
+  "seniority": 80,
+  "skill": 50
+ },
+ "seniority": "unspecified",
+ "snippet": "Experience: 0 Yrs\nSkills: qa testing, manual testing, automation testing, software testing\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "19753034",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-10-09T13:12:47Z",
+   "seen_at": "2026-10-20T17:43:38Z",
+   "url": "https://www.shine.com/jobs/quality-assurance-tester/skillfort-software-training-placements/19753034"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 3,
+ "title": "Quality Assurance Tester",
+ "tools": [],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/quality-assurance-tester/skillfort-software-training-placements/19753034",
+ "why": [
+  "Manual / functional QA — the core of your resume",
+  "Asks for 0+ years — you have about 2.5",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": null,
+ "years_min": 0
 }

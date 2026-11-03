@@ -1,99 +1,99 @@
 {
-  "apply_url": "https://jobs.ashbyhq.com/surfshark/b4a14271-ee69-4360-b048-76ba72a66e76/application",
-  "board_apply": null,
-  "category": "Cybersecurity",
-  "comp_potential": "possible",
-  "company": "Surfshark",
-  "company_slug": "surfshark",
-  "concerns": [
-    "Employer has not confirmed hiring from India",
-    "Pay not disclosed — showing a low-confidence estimate"
-  ],
-  "contacts_count": 1,
-  "content_hash": "28edb2ffadc1",
-  "date_quality": "exact",
-  "deadline": null,
-  "employment": "full-time",
-  "first_seen": "2026-10-15T15:27:11Z",
-  "fit": 68,
-  "has_hiring_manager": false,
-  "has_named_contact": false,
-  "has_public_email": false,
-  "id": "2619e15161ade2",
-  "include_reason": "Mixed graphic + motion title",
-  "india": {
-    "cities": [],
-    "reason": "Remote, region not stated",
-    "status": "unconfirmed",
-    "visa": false
+ "apply_url": "https://jobs.ashbyhq.com/surfshark/b4a14271-ee69-4360-b048-76ba72a66e76/application",
+ "board_apply": null,
+ "category": "Cybersecurity",
+ "comp_potential": "possible",
+ "company": "Surfshark",
+ "company_slug": "surfshark",
+ "concerns": [
+  "Employer has not confirmed hiring from India",
+  "Pay not disclosed — showing a low-confidence estimate"
+ ],
+ "contacts_count": 1,
+ "content_hash": "28edb2ffadc1",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-10-15T15:27:11Z",
+ "fit": 68,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "2619e15161ade2",
+ "include_reason": "Mixed graphic + motion title",
+ "india": {
+  "cities": [],
+  "reason": "Remote, region not stated",
+  "status": "unconfirmed",
+  "visa": false
+ },
+ "kind": "graphic-motion",
+ "last_verified": "2026-10-15T15:27:11Z",
+ "location": "Vilnius (Lithuania)",
+ "logo": null,
+ "needs_review": false,
+ "official": true,
+ "posted_at": "2026-10-09T07:18:19Z",
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "estimate": {
+   "confidence": "low",
+   "currency": "INR",
+   "evidence": [
+    "mi-dataset-remote"
+   ],
+   "high": 18574286,
+   "inr_high": 18574286,
+   "inr_low": 7987206,
+   "low": 7987206,
+   "method": "Interquartile range of disclosed pay on 16 remote motion-design postings in this dataset (any region, converted to INR today). Employer-specific pay is unknown, and employer-of-record or location-based pay policies often lower offers for India-based hires.",
+   "potential": "possible"
   },
-  "kind": "graphic-motion",
-  "last_verified": "2026-10-15T15:27:11Z",
-  "location": "Vilnius (Lithuania)",
-  "logo": null,
-  "needs_review": false,
-  "official": true,
-  "posted_at": "2026-10-09T07:18:19Z",
-  "repost": false,
-  "requirements": [],
-  "responsibilities": [],
-  "salary": {
-    "estimate": {
-      "confidence": "low",
-      "currency": "INR",
-      "evidence": [
-        "mi-dataset-remote"
-      ],
-      "high": 18574286,
-      "inr_high": 18574286,
-      "inr_low": 7987206,
-      "low": 7987206,
-      "method": "Interquartile range of disclosed pay on 16 remote motion-design postings in this dataset (any region, converted to INR today). Employer-specific pay is unknown, and employer-of-record or location-based pay policies often lower offers for India-based hires.",
-      "potential": "possible"
-    },
-    "note": "Estimate — not employer-confirmed",
-    "state": "estimate",
-    "verified_at": "2026-10-15T15:27:11Z"
-  },
-  "scores": {
-    "ai": 44,
-    "comp": 60,
-    "company": 95,
-    "location": 38,
-    "seniority": 100,
-    "skill": 57
-  },
-  "seniority": "senior",
-  "snippet": "We're designing, developing, and growing Incogni - a privacy-tech product that helps people protect their personal data online. With Incogni, anyone can automatically remove their personal information from data brokers and other third-party companies. Join our Marketing Design team and help shape the experience for a product that's making privacy simple for everyone.\n\n\n\n\nIF YOU WANT TO:\n\n - Design high-converting sta",
-  "source_primary": "Surfshark careers (Ashby)",
-  "sources": [
-    {
-      "id": "ashby",
-      "job_id": "ashby:surfshark:b4a14271-ee69-4360-b048-76ba72a66e76",
-      "kind": "ats",
-      "name": "Surfshark careers (Ashby)",
-      "posted_at": "2026-10-09T07:18:19Z",
-      "seen_at": "2026-10-15T15:27:11Z",
-      "url": "https://jobs.ashbyhq.com/surfshark/b4a14271-ee69-4360-b048-76ba72a66e76"
-    }
-  ],
-  "specializations": [
-    "AI-generated video",
-    "Technical storytelling"
-  ],
-  "status": "verified",
-  "tier": 1,
-  "title": "Senior graphic/motion designer (Incogni)",
-  "tools": [
-    "Figma"
-  ],
-  "updated_at": null,
-  "url": "https://jobs.ashbyhq.com/surfshark/b4a14271-ee69-4360-b048-76ba72a66e76",
-  "why": [
-    "Tools you already use: Figma",
-    "Specialisations in scope: AI-generated video, Technical storytelling",
-    "Cybersecurity company (Tier 1 priority)"
-  ],
-  "work_mode": "remote",
-  "years_min": null
+  "note": "Estimate — not employer-confirmed",
+  "state": "estimate",
+  "verified_at": "2026-10-15T15:27:11Z"
+ },
+ "scores": {
+  "ai": 44,
+  "comp": 60,
+  "company": 95,
+  "location": 38,
+  "seniority": 100,
+  "skill": 57
+ },
+ "seniority": "senior",
+ "snippet": "We're designing, developing, and growing Incogni - a privacy-tech product that helps people protect their personal data online. With Incogni, anyone can automatically remove their personal information from data brokers and other third-party companies. Join our Marketing Design team and help shape the experience for a product that's making privacy simple for everyone.\n\n\n\n\nIF YOU WANT TO:\n\n - Design high-converting sta",
+ "source_primary": "Surfshark careers (Ashby)",
+ "sources": [
+  {
+   "id": "ashby",
+   "job_id": "ashby:surfshark:b4a14271-ee69-4360-b048-76ba72a66e76",
+   "kind": "ats",
+   "name": "Surfshark careers (Ashby)",
+   "posted_at": "2026-10-09T07:18:19Z",
+   "seen_at": "2026-10-15T15:27:11Z",
+   "url": "https://jobs.ashbyhq.com/surfshark/b4a14271-ee69-4360-b048-76ba72a66e76"
+  }
+ ],
+ "specializations": [
+  "AI-generated video",
+  "Technical storytelling"
+ ],
+ "status": "verified",
+ "tier": 1,
+ "title": "Senior graphic/motion designer (Incogni)",
+ "tools": [
+  "Figma"
+ ],
+ "updated_at": null,
+ "url": "https://jobs.ashbyhq.com/surfshark/b4a14271-ee69-4360-b048-76ba72a66e76",
+ "why": [
+  "Tools you already use: Figma",
+  "Specialisations in scope: AI-generated video, Technical storytelling",
+  "Cybersecurity company (Tier 1 priority)"
+ ],
+ "work_mode": "remote",
+ "years_min": null
 }

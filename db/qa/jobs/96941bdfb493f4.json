@@ -1,86 +1,86 @@
 {
-  "apply_url": null,
-  "board_apply": "https://www.shine.com/jobs/testing-engineer/msc-transformers-pvt-ltd/19489323",
-  "category": "Other",
-  "comp_potential": "unknown",
-  "company": "MSC Transformers Pvt Ltd",
-  "company_slug": "msc-transformers-pvt-ltd",
-  "concerns": [
-    "Pay not disclosed — ask for the range early"
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/testing-engineer/msc-transformers-pvt-ltd/19489323",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "MSC Transformers Pvt Ltd",
+ "company_slug": "msc-transformers-pvt-ltd",
+ "concerns": [
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "2111c855fbbd",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-10-19T13:24:59Z",
+ "fit": 74,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "96941bdfb493f4",
+ "include_reason": "QA / test engineer title",
+ "india": {
+  "cities": [
+   "Mumbai"
   ],
-  "contacts_count": 0,
-  "content_hash": "2111c855fbbd",
-  "date_quality": "exact",
-  "deadline": null,
-  "employment": "full-time",
-  "first_seen": "2026-10-19T13:24:59Z",
-  "fit": 74,
-  "has_hiring_manager": false,
-  "has_named_contact": false,
-  "has_public_email": false,
-  "id": "96941bdfb493f4",
-  "include_reason": "QA / test engineer title",
-  "india": {
-    "cities": [
-      "Mumbai"
-    ],
-    "company": "yes",
-    "reason": "Location lists India",
-    "status": "confirmed",
-    "visa": false
-  },
-  "kind": "qa-engineer",
-  "last_verified": "2026-10-19T13:24:59Z",
-  "location": "Mumbai City, India",
-  "logo": null,
-  "needs_review": false,
-  "official": false,
-  "posted_at": "2026-08-24T18:14:17Z",
-  "repost": false,
-  "requirements": [],
-  "responsibilities": [],
-  "salary": {
-    "state": "unavailable"
-  },
-  "scores": {
-    "ai": 58,
-    "comp": 60,
-    "company": 66,
-    "location": 100,
-    "seniority": 100,
-    "skill": 57
-  },
-  "seniority": "unspecified",
-  "snippet": "Experience: 0 to 4 Yrs\nSkills: Power  Distribution Transformer Testing, ISIEC standards, Transformer Testing Equipment, IR Test, Winding Resistance Test, TTR Test, NoLoad Test, Load Loss Test, HV Test, Induced Voltage Test\n(Summary from the Shine.com listing; open the posting for the full description.)",
-  "source_primary": "Shine.com",
-  "sources": [
-    {
-      "id": "shine",
-      "job_id": "19489323",
-      "kind": "board",
-      "name": "Shine.com",
-      "posted_at": "2026-08-24T18:14:17Z",
-      "seen_at": "2026-10-19T13:24:59Z",
-      "url": "https://www.shine.com/jobs/testing-engineer/msc-transformers-pvt-ltd/19489323"
-    }
-  ],
-  "specializations": [],
-  "status": "active",
-  "tier": 3,
-  "title": "Testing Engineer",
-  "tools": [
-    "Stress / load testing"
-  ],
-  "track": "software",
-  "updated_at": null,
-  "url": "https://www.shine.com/jobs/testing-engineer/msc-transformers-pvt-ltd/19489323",
-  "why": [
-    "QA / test engineer role",
-    "Already on your resume: Stress / load testing",
-    "Asks for 0–4 years — you have about 2.5",
-    "Location lists India"
-  ],
-  "work_mode": "onsite",
-  "years_max": 4,
-  "years_min": 0
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "qa-engineer",
+ "last_verified": "2026-10-19T13:24:59Z",
+ "location": "Mumbai City, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-08-24T18:14:17Z",
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 60,
+  "company": 66,
+  "location": 100,
+  "seniority": 100,
+  "skill": 57
+ },
+ "seniority": "unspecified",
+ "snippet": "Experience: 0 to 4 Yrs\nSkills: Power  Distribution Transformer Testing, ISIEC standards, Transformer Testing Equipment, IR Test, Winding Resistance Test, TTR Test, NoLoad Test, Load Loss Test, HV Test, Induced Voltage Test\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "19489323",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-08-24T18:14:17Z",
+   "seen_at": "2026-10-19T13:24:59Z",
+   "url": "https://www.shine.com/jobs/testing-engineer/msc-transformers-pvt-ltd/19489323"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 3,
+ "title": "Testing Engineer",
+ "tools": [
+  "Stress / load testing"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/testing-engineer/msc-transformers-pvt-ltd/19489323",
+ "why": [
+  "QA / test engineer role",
+  "Already on your resume: Stress / load testing",
+  "Asks for 0–4 years — you have about 2.5",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": 4,
+ "years_min": 0
 }

@@ -1,0 +1,55 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-30T00:27:41Z",
+  "evidence": [],
+  "first_checked_at": "2026-10-30T00:27:41Z",
+  "india_based": false,
+  "method": "Careers board, posting text, web search",
+  "sig": "54391d7cdf",
+  "summary": "No public evidence yet about hiring from India.",
+  "verdict": "unclear",
+  "web": {
+   "checked_at": "2026-10-30T01:27:12Z",
+   "query": "\"Editing as a Service\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
+   "results": [
+    {
+     "description": "",
+     "title": "editor 1705823",
+     "url": "https://www.flexjobs.com/publicjobs/editor-1705823"
+    },
+    {
+     "description": "",
+     "title": "Hiring Video Editors in India: Rates, Platforms, and What to Expect",
+     "url": "https://vidpros.com/hire-video-editor-in-india/"
+    },
+    {
+     "description": "",
+     "title": "www.kdan.com",
+     "url": "https://www.kdan.com/blog/wp-json/wp/v2/posts/8738"
+    },
+    {
+     "description": "",
+     "title": "Location - Work from home (India)",
+     "url": "https://www.glassdoor.com/Job/india-editorial-jobs-SRCH_IL.0,5_IN115_KO6,15.htm"
+    },
+    {
+     "description": "",
+     "title": "editor home services 2123440",
+     "url": "https://www.flexjobs.com/publicjobs/editor-home-services-2123440"
+    },
+    {
+     "description": "",
+     "title": "www.talentd.in",
+     "url": "https://www.talentd.in/jobs/tags/editing"
+    }
+   ]
+  }
+ },
+ "inferred": true,
+ "name": "Editing as a Service",
+ "slug": "editing-as-a-service",
+ "tier": 3
+}

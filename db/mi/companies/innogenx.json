@@ -1,0 +1,27 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-30T00:27:41Z",
+  "evidence": [
+   {
+    "detail": "Motion Graphic Designer / Artist — Bangalore",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://jobs.weekday.works/motion-graphic-designer-artist-at-innogenx-bangalore-wkdy7ip2sj",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-10-30T00:27:41Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "8ec1bf26a0",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Innogenx",
+ "slug": "innogenx",
+ "tier": 3
+}

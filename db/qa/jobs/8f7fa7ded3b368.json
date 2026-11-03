@@ -1,90 +1,90 @@
 {
-  "apply_url": null,
-  "board_apply": "https://www.shine.com/jobs/junior-qa-tester-fresher-pune-only/agilewaters-consulting/19532549",
-  "category": "Recruiter (client not named)",
-  "comp_potential": "unknown",
-  "company": "Agilewaters Consulting",
-  "company_slug": "agilewaters-consulting",
-  "concerns": [
-    "Entry-level role — pay may be at the lower end",
-    "Office outside Mumbai — relocation within India",
-    "Pay not disclosed — ask for the range early"
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/junior-qa-tester-fresher-pune-only/agilewaters-consulting/19532549",
+ "category": "Recruiter (client not named)",
+ "comp_potential": "unknown",
+ "company": "Agilewaters Consulting",
+ "company_slug": "agilewaters-consulting",
+ "concerns": [
+  "Entry-level role — pay may be at the lower end",
+  "Office outside Mumbai — relocation within India",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "af62fbbfafc6",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-10-19T13:24:59Z",
+ "fit": 73,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "8f7fa7ded3b368",
+ "include_reason": "Manual / functional QA title",
+ "india": {
+  "cities": [
+   "Pune"
   ],
-  "contacts_count": 0,
-  "content_hash": "af62fbbfafc6",
-  "date_quality": "exact",
-  "deadline": null,
-  "employment": "full-time",
-  "first_seen": "2026-10-19T13:24:59Z",
-  "fit": 73,
-  "has_hiring_manager": false,
-  "has_named_contact": false,
-  "has_public_email": false,
-  "id": "8f7fa7ded3b368",
-  "include_reason": "Manual / functional QA title",
-  "india": {
-    "cities": [
-      "Pune"
-    ],
-    "company": "yes",
-    "reason": "Location lists India",
-    "status": "confirmed",
-    "visa": false
-  },
-  "kind": "manual-qa",
-  "last_verified": "2026-10-19T13:24:59Z",
-  "location": "Pune, India",
-  "logo": null,
-  "needs_review": false,
-  "official": false,
-  "posted_at": "2026-09-05T01:13:29Z",
-  "repost": false,
-  "requirements": [
-    "(Summary from the Shine.com listing; open the posting for the full description.)"
-  ],
-  "responsibilities": [],
-  "salary": {
-    "state": "unavailable"
-  },
-  "scores": {
-    "ai": 58,
-    "comp": 60,
-    "company": 66,
-    "location": 78,
-    "seniority": 100,
-    "skill": 64
-  },
-  "seniority": "junior",
-  "snippet": "Experience: 0 to 4 Yrs\nSkills: Manual Testing, Software Applications, Test Execution, Defect Documentation\n(Summary from the Shine.com listing; open the posting for the full description.)",
-  "source_primary": "Shine.com",
-  "sources": [
-    {
-      "id": "shine",
-      "job_id": "19532549",
-      "kind": "board",
-      "name": "Shine.com",
-      "posted_at": "2026-09-05T01:13:29Z",
-      "seen_at": "2026-10-19T13:24:59Z",
-      "url": "https://www.shine.com/jobs/junior-qa-tester-fresher-pune-only/agilewaters-consulting/19532549"
-    }
-  ],
-  "specializations": [],
-  "status": "active",
-  "tier": 3,
-  "title": "Junior Qa Tester - Fresher - Pune only",
-  "tools": [
-    "Bug reporting"
-  ],
-  "track": "software",
-  "updated_at": null,
-  "url": "https://www.shine.com/jobs/junior-qa-tester-fresher-pune-only/agilewaters-consulting/19532549",
-  "why": [
-    "Manual / functional QA — the core of your resume",
-    "Already on your resume: Bug reporting",
-    "Asks for 0–4 years — you have about 2.5",
-    "Location lists India"
-  ],
-  "work_mode": "onsite",
-  "years_max": 4,
-  "years_min": 0
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "manual-qa",
+ "last_verified": "2026-10-19T13:24:59Z",
+ "location": "Pune, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-09-05T01:13:29Z",
+ "repost": false,
+ "requirements": [
+  "(Summary from the Shine.com listing; open the posting for the full description.)"
+ ],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 60,
+  "company": 66,
+  "location": 78,
+  "seniority": 100,
+  "skill": 64
+ },
+ "seniority": "junior",
+ "snippet": "Experience: 0 to 4 Yrs\nSkills: Manual Testing, Software Applications, Test Execution, Defect Documentation\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "19532549",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-09-05T01:13:29Z",
+   "seen_at": "2026-10-19T13:24:59Z",
+   "url": "https://www.shine.com/jobs/junior-qa-tester-fresher-pune-only/agilewaters-consulting/19532549"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 3,
+ "title": "Junior Qa Tester - Fresher - Pune only",
+ "tools": [
+  "Bug reporting"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/junior-qa-tester-fresher-pune-only/agilewaters-consulting/19532549",
+ "why": [
+  "Manual / functional QA — the core of your resume",
+  "Already on your resume: Bug reporting",
+  "Asks for 0–4 years — you have about 2.5",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": 4,
+ "years_min": 0
 }

@@ -1,67 +1,67 @@
 {
-  "category": "Product / SaaS",
-  "classification": "Inferred from job description",
-  "india_hiring": {
-    "board": null,
-    "changed_at": "2026-10-19T13:24:59Z",
-    "evidence": [
-      {
-        "detail": "Remote UI/UX Reviewer & Quality Assurance (QA) — Worldwide",
-        "kind": "posting",
-        "label": "A current posting is open worldwide",
-        "url": "https://himalayas.app/companies/resilio-partners/jobs/remote-ui-ux-reviewer-quality-assurance-qa?utm_source=api",
-        "weight": 3
-      }
-    ],
-    "first_checked_at": "2026-10-19T13:24:59Z",
-    "india_based": false,
-    "method": "Careers board, posting text, web search",
-    "sig": "0f13489274",
-    "summary": "No India-located roles found, but a current posting is open worldwide.",
-    "verdict": "likely",
-    "web": {
-      "checked_at": "2026-10-19T14:22:01Z",
-      "query": "\"Resilio Partners\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
-      "results": [
-        {
-          "description": "",
-          "title": "Work Remotely for Global Companies Hiring in India",
-          "url": "https://www.wisemonk.io/for-candidates"
-        },
-        {
-          "description": "",
-          "title": "Build your career with global companies, without leaving India",
-          "url": "https://www.wisemonk.io/for-candidate"
-        },
-        {
-          "description": "",
-          "title": "employer of record",
-          "url": "https://remote.com/en-hk/country-explorer/india/employer-of-record"
-        },
-        {
-          "description": "",
-          "title": "www.g2.com",
-          "url": "https://www.g2.com/products/gloroots/discuss"
-        },
-        {
-          "description": "",
-          "title": "Grande nouvelleEos, Serviap et Hightekers EOR sont désormais Rivermate.En savoir plus",
-          "url": "https://rivermate.com/fr/blog/meilleurs-services-eor-en-inde"
-        },
-        {
-          "description": "",
-          "title": "dnb.co.in",
-          "url": "https://dnb.co.in/events/leapindiastartupsummit/images/2024/branded-content/case-study/Remunance.pdf"
-        }
-      ]
+ "category": "Product / SaaS",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-19T13:24:59Z",
+  "evidence": [
+   {
+    "detail": "Remote UI/UX Reviewer & Quality Assurance (QA) — Worldwide",
+    "kind": "posting",
+    "label": "A current posting is open worldwide",
+    "url": "https://himalayas.app/companies/resilio-partners/jobs/remote-ui-ux-reviewer-quality-assurance-qa?utm_source=api",
+    "weight": 3
+   }
+  ],
+  "first_checked_at": "2026-10-19T13:24:59Z",
+  "india_based": false,
+  "method": "Careers board, posting text, web search",
+  "sig": "0f13489274",
+  "summary": "No India-located roles found, but a current posting is open worldwide.",
+  "verdict": "likely",
+  "web": {
+   "checked_at": "2026-10-19T14:22:01Z",
+   "query": "\"Resilio Partners\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
+   "results": [
+    {
+     "description": "",
+     "title": "Work Remotely for Global Companies Hiring in India",
+     "url": "https://www.wisemonk.io/for-candidates"
+    },
+    {
+     "description": "",
+     "title": "Build your career with global companies, without leaving India",
+     "url": "https://www.wisemonk.io/for-candidate"
+    },
+    {
+     "description": "",
+     "title": "employer of record",
+     "url": "https://remote.com/en-hk/country-explorer/india/employer-of-record"
+    },
+    {
+     "description": "",
+     "title": "www.g2.com",
+     "url": "https://www.g2.com/products/gloroots/discuss"
+    },
+    {
+     "description": "",
+     "title": "Grande nouvelleEos, Serviap et Hightekers EOR sont désormais Rivermate.En savoir plus",
+     "url": "https://rivermate.com/fr/blog/meilleurs-services-eor-en-inde"
+    },
+    {
+     "description": "",
+     "title": "dnb.co.in",
+     "url": "https://dnb.co.in/events/leapindiastartupsummit/images/2024/branded-content/case-study/Remunance.pdf"
     }
-  },
-  "inferred": true,
-  "logo": "https://cdn-images.himalayas.app/qedntynfg4hzfhyh6kgy340975ql",
-  "name": "Resilio Partners",
-  "slug": "resilio-partners",
-  "tier": 1,
-  "tracks": [
-    "software"
-  ]
+   ]
+  }
+ },
+ "inferred": true,
+ "logo": "https://cdn-images.himalayas.app/qedntynfg4hzfhyh6kgy340975ql",
+ "name": "Resilio Partners",
+ "slug": "resilio-partners",
+ "tier": 1,
+ "tracks": [
+  "software"
+ ]
 }

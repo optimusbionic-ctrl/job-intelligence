@@ -5,11 +5,9 @@
  "comp_potential": "listed",
  "company": "Aviyana Ventures Pvt. Ltd.",
  "company_slug": "aviyana-ventures-pvt-ltd",
- "concerns": [
-  "Reposted / refreshed listing — original posting is older"
- ],
+ "concerns": [],
  "contacts_count": 0,
- "content_hash": "cc98f1a5cf01",
+ "content_hash": "7398d6f8b432",
  "date_quality": "exact",
  "deadline": null,
  "employment": "full-time",
@@ -30,21 +28,21 @@
   "visa": false
  },
  "kind": "qa-engineer",
- "last_verified": "2026-10-27T10:50:24Z",
+ "last_verified": "2026-10-28T16:44:03Z",
  "location": "Mumbai City, Dombivali, Kalyan, Bhiwandi, India",
  "logo": null,
  "needs_review": false,
  "official": false,
- "posted_at": "2026-10-12T15:38:31Z",
- "repost": true,
+ "posted_at": "2026-10-09T16:22:52Z",
+ "repost": false,
  "requirements": [],
  "responsibilities": [],
  "salary": {
   "applies_india": true,
   "basis": "listed",
   "currency": "INR",
-  "fx_at": "Tue, 27 Oct 2026 00:02:31 +0000",
-  "fx_rate": 1.0,
+  "fx_at": "Wed, 28 Oct 2026 00:02:31 +0000",
+  "fx_rate": 1,
   "inr_max": 400000,
   "inr_min": 300000,
   "max": 400000,
@@ -55,7 +53,7 @@
   "source_name": "Shine.com",
   "source_url": "https://www.shine.com/jobs/testing-engineer/aviyana-ventures-pvt-ltd/19785250",
   "state": "verified",
-  "verified_at": "2026-10-27T10:50:24Z"
+  "verified_at": "2026-10-28T16:44:03Z"
  },
  "scores": {
   "ai": 58,
@@ -75,8 +73,17 @@
    "kind": "board",
    "name": "Shine.com",
    "posted_at": "2026-10-12T15:38:31Z",
-   "seen_at": "2026-10-27T10:50:24Z",
+   "seen_at": "2026-10-28T16:44:03Z",
    "url": "https://www.shine.com/jobs/testing-engineer/aviyana-ventures-pvt-ltd/19785250"
+  },
+  {
+   "id": "shine",
+   "job_id": "19758058",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-10-09T16:22:52Z",
+   "seen_at": "2026-10-28T16:44:03Z",
+   "url": "https://www.shine.com/jobs/testing-engineer/aviyana-ventures-pvt-ltd/19758058"
   }
  ],
  "specializations": [],

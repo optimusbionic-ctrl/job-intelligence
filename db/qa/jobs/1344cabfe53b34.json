@@ -1,81 +1,81 @@
 {
-  "apply_url": null,
-  "board_apply": "https://career.io/job/quality-assurance-tester-king-entertainment-corp-e75c42cd02163d5b207375c861e230f0",
-  "category": "Other",
-  "comp_potential": "unknown",
-  "company": "King Entertainment Corp",
-  "company_slug": "king-entertainment-corp",
-  "concerns": [
-    "Employer has not confirmed hiring from India",
-    "Pay not disclosed — ask for the range early",
-    "Full description not available from this source"
-  ],
-  "contacts_count": 0,
-  "content_hash": "9b7b5d13854c",
-  "date_quality": "unknown",
-  "deadline": null,
-  "employment": "full-time",
-  "first_seen": "2026-10-19T15:45:44Z",
-  "fit": 69,
-  "has_hiring_manager": false,
-  "has_named_contact": false,
-  "has_public_email": false,
-  "id": "1344cabfe53b34",
-  "include_reason": "Manual / functional QA title",
-  "india": {
-    "cities": [],
-    "company": "unclear",
-    "reason": "Location not stated",
-    "status": "unconfirmed",
-    "visa": false
-  },
-  "kind": "manual-qa",
-  "last_verified": "2026-10-19T15:45:44Z",
-  "location": "",
-  "logo": null,
-  "needs_review": false,
-  "official": false,
-  "posted_at": null,
-  "repost": false,
-  "requirements": [],
-  "responsibilities": [],
-  "salary": {
-    "state": "unavailable"
-  },
-  "scores": {
-    "ai": 55,
-    "comp": 60,
-    "company": 66,
-    "location": 36,
-    "seniority": 84,
-    "skill": 86
-  },
-  "seniority": "unspecified",
-  "snippet": "",
-  "source_primary": "career.io (via search index)",
-  "sources": [
-    {
-      "id": "web",
-      "job_id": "https://career.io/job/quality-assurance-tester-king-entertainment-corp-e75c42cd02163d5b207375c861e230f0",
-      "kind": "search",
-      "name": "career.io (via search index)",
-      "posted_at": null,
-      "seen_at": "2026-10-19T15:45:44Z",
-      "url": "https://career.io/job/quality-assurance-tester-king-entertainment-corp-e75c42cd02163d5b207375c861e230f0"
-    }
-  ],
-  "specializations": [],
-  "status": "lead",
-  "tier": 3,
-  "title": "Quality Assurance Tester",
-  "tools": [],
-  "track": "software",
-  "updated_at": null,
-  "url": "https://career.io/job/quality-assurance-tester-king-entertainment-corp-e75c42cd02163d5b207375c861e230f0",
-  "why": [
-    "Manual / functional QA — the core of your resume"
-  ],
-  "work_mode": "unspecified",
-  "years_max": null,
-  "years_min": null
+ "apply_url": null,
+ "board_apply": "https://career.io/job/quality-assurance-tester-king-entertainment-corp-e75c42cd02163d5b207375c861e230f0",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "King Entertainment Corp",
+ "company_slug": "king-entertainment-corp",
+ "concerns": [
+  "Employer has not confirmed hiring from India",
+  "Pay not disclosed — ask for the range early",
+  "Full description not available from this source"
+ ],
+ "contacts_count": 0,
+ "content_hash": "9b7b5d13854c",
+ "date_quality": "unknown",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-10-19T15:45:44Z",
+ "fit": 69,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "1344cabfe53b34",
+ "include_reason": "Manual / functional QA title",
+ "india": {
+  "cities": [],
+  "company": "unclear",
+  "reason": "Location not stated",
+  "status": "unconfirmed",
+  "visa": false
+ },
+ "kind": "manual-qa",
+ "last_verified": "2026-10-19T15:45:44Z",
+ "location": "",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": null,
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 55,
+  "comp": 60,
+  "company": 66,
+  "location": 36,
+  "seniority": 84,
+  "skill": 86
+ },
+ "seniority": "unspecified",
+ "snippet": "",
+ "source_primary": "career.io (via search index)",
+ "sources": [
+  {
+   "id": "web",
+   "job_id": "https://career.io/job/quality-assurance-tester-king-entertainment-corp-e75c42cd02163d5b207375c861e230f0",
+   "kind": "search",
+   "name": "career.io (via search index)",
+   "posted_at": null,
+   "seen_at": "2026-10-19T15:45:44Z",
+   "url": "https://career.io/job/quality-assurance-tester-king-entertainment-corp-e75c42cd02163d5b207375c861e230f0"
+  }
+ ],
+ "specializations": [],
+ "status": "lead",
+ "tier": 3,
+ "title": "Quality Assurance Tester",
+ "tools": [],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://career.io/job/quality-assurance-tester-king-entertainment-corp-e75c42cd02163d5b207375c861e230f0",
+ "why": [
+  "Manual / functional QA — the core of your resume"
+ ],
+ "work_mode": "unspecified",
+ "years_max": null,
+ "years_min": null
 }

@@ -1,31 +1,31 @@
 {
-  "category": "Product / SaaS",
-  "classification": "Inferred from job description",
-  "india_hiring": {
-    "board": null,
-    "changed_at": "2026-10-19T13:24:59Z",
-    "evidence": [
-      {
-        "detail": "Junior Software Test (QA) Automation Engineer - AI Startup — India",
-        "kind": "posting",
-        "label": "A current posting lists India as a location",
-        "url": "https://himalayas.app/companies/indiekidz/jobs/junior-software-test-qa-automation-engineer-ai-startup?utm_source=api",
-        "weight": 5
-      }
-    ],
-    "first_checked_at": "2026-10-19T13:24:59Z",
-    "india_based": false,
-    "method": "Careers board, posting text",
-    "sig": "9a43a8ee93",
-    "summary": "A current posting lists India as a location.",
-    "verdict": "yes"
-  },
-  "inferred": true,
-  "logo": "https://cdn-images.himalayas.app/j5ld706ex39t0evojyi36wy0hejp",
-  "name": "IndieKidz",
-  "slug": "indiekidz",
-  "tier": 1,
-  "tracks": [
-    "software"
-  ]
+ "category": "Product / SaaS",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-19T13:24:59Z",
+  "evidence": [
+   {
+    "detail": "Junior Software Test (QA) Automation Engineer - AI Startup — India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://himalayas.app/companies/indiekidz/jobs/junior-software-test-qa-automation-engineer-ai-startup?utm_source=api",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-10-19T13:24:59Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "9a43a8ee93",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "logo": "https://cdn-images.himalayas.app/j5ld706ex39t0evojyi36wy0hejp",
+ "name": "IndieKidz",
+ "slug": "indiekidz",
+ "tier": 1,
+ "tracks": [
+  "software"
+ ]
 }

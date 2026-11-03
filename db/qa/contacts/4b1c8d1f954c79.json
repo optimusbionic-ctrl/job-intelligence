@@ -1,25 +1,25 @@
 {
-  "category": "channel",
-  "company": "Rockstar Games",
-  "company_slug": "rockstar-games",
-  "confidence": "high",
-  "email": null,
-  "evidence_label": "Employer applicant-tracking board",
-  "evidence_url": "https://job-boards.greenhouse.io/rockstargames",
-  "id": "4b1c8d1f954c79",
-  "job_ids": [
-    "27ffe025f5922d",
-    "7c7f68520e825d",
-    "93b315954a197c",
-    "99198c155d9d8d",
-    "ab8ac121c307eb"
-  ],
-  "linkedin": null,
-  "name": "Rockstar Games careers page",
-  "named": false,
-  "other_url": "https://job-boards.greenhouse.io/rockstargames",
-  "phone": null,
-  "relevance": "Official job board — authoritative for open roles",
-  "title": "Official application channel",
-  "verified_at": "2026-10-19T15:45:44Z"
+ "category": "channel",
+ "company": "Rockstar Games",
+ "company_slug": "rockstar-games",
+ "confidence": "high",
+ "email": null,
+ "evidence_label": "Employer applicant-tracking board",
+ "evidence_url": "https://job-boards.greenhouse.io/rockstargames",
+ "id": "4b1c8d1f954c79",
+ "job_ids": [
+  "27ffe025f5922d",
+  "7c7f68520e825d",
+  "93b315954a197c",
+  "99198c155d9d8d",
+  "ab8ac121c307eb"
+ ],
+ "linkedin": null,
+ "name": "Rockstar Games careers page",
+ "named": false,
+ "other_url": "https://job-boards.greenhouse.io/rockstargames",
+ "phone": null,
+ "relevance": "Official job board — authoritative for open roles",
+ "title": "Official application channel",
+ "verified_at": "2026-10-19T15:45:44Z"
 }

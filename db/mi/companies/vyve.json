@@ -1,42 +1,42 @@
 {
-  "aliases": [
-    "Vyve"
+ "aliases": [
+  "Vyve"
+ ],
+ "ats": null,
+ "careers": null,
+ "category": "Consumer tech",
+ "classification": "Motion Intelligence registry (curated)",
+ "domain": null,
+ "facts_note": "Basic facts only; not independently verified",
+ "hq": "Bengaluru, IN",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-15T16:19:24Z",
+  "evidence": [
+   {
+    "detail": "Product Launch Motion Designer — Bengaluru, Karnataka, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://in.linkedin.com/jobs/view/product-launch-motion-designer-at-vyve-4469718712",
+    "weight": 5
+   },
+   {
+    "detail": "Bengaluru, IN",
+    "kind": "registry",
+    "label": "Headquartered in India",
+    "url": null,
+    "weight": 5
+   }
   ],
-  "ats": null,
-  "careers": null,
-  "category": "Consumer tech",
-  "classification": "Motion Intelligence registry (curated)",
-  "domain": null,
-  "facts_note": "Basic facts only; not independently verified",
-  "hq": "Bengaluru, IN",
-  "india_hiring": {
-    "board": null,
-    "changed_at": "2026-10-15T16:19:24Z",
-    "evidence": [
-      {
-        "detail": "Product Launch Motion Designer — Bengaluru, Karnataka, India",
-        "kind": "posting",
-        "label": "A current posting lists India as a location",
-        "url": "https://in.linkedin.com/jobs/view/product-launch-motion-designer-at-vyve-4469718712",
-        "weight": 5
-      },
-      {
-        "detail": "Bengaluru, IN",
-        "kind": "registry",
-        "label": "Headquartered in India",
-        "url": null,
-        "weight": 5
-      }
-    ],
-    "first_checked_at": "2026-10-15T16:19:24Z",
-    "india_based": true,
-    "method": "Careers board, posting text",
-    "sig": "5182efb05c",
-    "summary": "Vyve is headquartered in India.",
-    "verdict": "yes"
-  },
-  "maturity": null,
-  "name": "Vyve",
-  "slug": "vyve",
-  "tier": 1
+  "first_checked_at": "2026-10-15T16:19:24Z",
+  "india_based": true,
+  "method": "Careers board, posting text",
+  "sig": "5182efb05c",
+  "summary": "Vyve is headquartered in India.",
+  "verdict": "yes"
+ },
+ "maturity": null,
+ "name": "Vyve",
+ "slug": "vyve",
+ "tier": 1
 }

@@ -1,55 +1,55 @@
 {
-  "category": "Other",
-  "classification": "Inferred from job description",
-  "india_hiring": {
-    "board": null,
-    "changed_at": "2026-10-19T06:30:02Z",
-    "evidence": [],
-    "first_checked_at": "2026-10-18T18:27:42Z",
-    "india_based": false,
-    "method": "Careers board, posting text, web search",
-    "sig": "54391d7cdf",
-    "summary": "No public evidence yet about hiring from India.",
-    "verdict": "unclear",
-    "web": {
-      "checked_at": "2026-10-18T19:27:59Z",
-      "query": "\"Acko\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
-      "results": [
-        {
-          "description": "",
-          "title": "Updating Results",
-          "url": "https://kalingauniversity.prosple.com/graduate-employers/acko/jobs-internships/data-entry-associate"
-        },
-        {
-          "description": "",
-          "title": "Updating Results",
-          "url": "https://kalingauniversity.prosple.com/graduate-employers/acko-general-insurance/jobs-internships/receptionist-front-desk"
-        },
-        {
-          "description": "",
-          "title": "Updating Results",
-          "url": "https://shinebrightx-careerportal.prosple.com/graduate-employers/acko-general-insurance/jobs-internships/digital-marketing-internship"
-        },
-        {
-          "description": "",
-          "title": "Updating Results",
-          "url": "https://kalingauniversity.prosple.com/graduate-employers/acko-general-insurance/jobs-internships/pre-inspection-associate"
-        },
-        {
-          "description": "",
-          "title": "Updating Results",
-          "url": "https://ibmr-careerportal.prosple.com/graduate-employers/acko-general-insurance/jobs-internships/receptionist-front-desk"
-        },
-        {
-          "description": "",
-          "title": "Updating Results",
-          "url": "https://kalingauniversity.prosple.com/graduate-employers/acko-general-insurance/jobs-internships/executive-assistant"
-        }
-      ]
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-19T06:30:02Z",
+  "evidence": [],
+  "first_checked_at": "2026-10-18T18:27:42Z",
+  "india_based": false,
+  "method": "Careers board, posting text, web search",
+  "sig": "54391d7cdf",
+  "summary": "No public evidence yet about hiring from India.",
+  "verdict": "unclear",
+  "web": {
+   "checked_at": "2026-10-18T19:27:59Z",
+   "query": "\"Acko\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
+   "results": [
+    {
+     "description": "",
+     "title": "Updating Results",
+     "url": "https://kalingauniversity.prosple.com/graduate-employers/acko/jobs-internships/data-entry-associate"
+    },
+    {
+     "description": "",
+     "title": "Updating Results",
+     "url": "https://kalingauniversity.prosple.com/graduate-employers/acko-general-insurance/jobs-internships/receptionist-front-desk"
+    },
+    {
+     "description": "",
+     "title": "Updating Results",
+     "url": "https://shinebrightx-careerportal.prosple.com/graduate-employers/acko-general-insurance/jobs-internships/digital-marketing-internship"
+    },
+    {
+     "description": "",
+     "title": "Updating Results",
+     "url": "https://kalingauniversity.prosple.com/graduate-employers/acko-general-insurance/jobs-internships/pre-inspection-associate"
+    },
+    {
+     "description": "",
+     "title": "Updating Results",
+     "url": "https://ibmr-careerportal.prosple.com/graduate-employers/acko-general-insurance/jobs-internships/receptionist-front-desk"
+    },
+    {
+     "description": "",
+     "title": "Updating Results",
+     "url": "https://kalingauniversity.prosple.com/graduate-employers/acko-general-insurance/jobs-internships/executive-assistant"
     }
-  },
-  "inferred": true,
-  "name": "Acko",
-  "slug": "acko",
-  "tier": 3
+   ]
+  }
+ },
+ "inferred": true,
+ "name": "Acko",
+ "slug": "acko",
+ "tier": 3
 }

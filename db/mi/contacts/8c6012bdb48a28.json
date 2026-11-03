@@ -1,21 +1,21 @@
 {
-  "category": "hiring_team",
-  "company": "PayGlocal",
-  "company_slug": "payglocal",
-  "confidence": "medium",
-  "email": null,
-  "evidence_label": "Public LinkedIn post announcing the opening",
-  "evidence_url": "https://www.linkedin.com/posts/deepankarraj_hiring-designjobs-productdesign-activity-7506749017897246720-kxkz",
-  "id": "8c6012bdb48a28",
-  "job_ids": [
-    "bfb609bdf9ebce"
-  ],
-  "linkedin": "https://in.linkedin.com/in/deepankarraj",
-  "name": "Deepankar Raj",
-  "named": true,
-  "other_url": null,
-  "phone": null,
-  "relevance": "Hiring manager (posted the opening)",
-  "title": "Head of Product Design, PayGlocal",
-  "verified_at": "2026-10-15T15:27:11Z"
+ "category": "hiring_team",
+ "company": "PayGlocal",
+ "company_slug": "payglocal",
+ "confidence": "medium",
+ "email": null,
+ "evidence_label": "Public LinkedIn post announcing the opening",
+ "evidence_url": "https://www.linkedin.com/posts/deepankarraj_hiring-designjobs-productdesign-activity-7506749017897246720-kxkz",
+ "id": "8c6012bdb48a28",
+ "job_ids": [
+  "bfb609bdf9ebce"
+ ],
+ "linkedin": "https://in.linkedin.com/in/deepankarraj",
+ "name": "Deepankar Raj",
+ "named": true,
+ "other_url": null,
+ "phone": null,
+ "relevance": "Hiring manager (posted the opening)",
+ "title": "Head of Product Design, PayGlocal",
+ "verified_at": "2026-10-15T15:27:11Z"
 }

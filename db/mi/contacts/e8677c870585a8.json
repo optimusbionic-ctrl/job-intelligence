@@ -1,21 +1,21 @@
 {
-  "category": "channel",
-  "company": "Pogo",
-  "company_slug": "pogo",
-  "confidence": "high",
-  "email": null,
-  "evidence_label": "Employer applicant-tracking board",
-  "evidence_url": "https://jobs.ashbyhq.com/joinpogo",
-  "id": "e8677c870585a8",
-  "job_ids": [
-    "3c8ff0c011665d"
-  ],
-  "linkedin": null,
-  "name": "Pogo careers page",
-  "named": false,
-  "other_url": "https://jobs.ashbyhq.com/joinpogo",
-  "phone": null,
-  "relevance": "Official job board — authoritative for open roles",
-  "title": "Official application channel",
-  "verified_at": "2026-10-15T15:39:48Z"
+ "category": "channel",
+ "company": "Pogo",
+ "company_slug": "pogo",
+ "confidence": "high",
+ "email": null,
+ "evidence_label": "Employer applicant-tracking board",
+ "evidence_url": "https://jobs.ashbyhq.com/joinpogo",
+ "id": "e8677c870585a8",
+ "job_ids": [
+  "3c8ff0c011665d"
+ ],
+ "linkedin": null,
+ "name": "Pogo careers page",
+ "named": false,
+ "other_url": "https://jobs.ashbyhq.com/joinpogo",
+ "phone": null,
+ "relevance": "Official job board — authoritative for open roles",
+ "title": "Official application channel",
+ "verified_at": "2026-10-15T15:39:48Z"
 }

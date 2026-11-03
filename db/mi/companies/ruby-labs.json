@@ -1,75 +1,75 @@
 {
-  "ats": {
-    "slug": "ruby-labs",
-    "type": "ashby"
-  },
-  "category": "Agency / studio",
-  "classification": "Inferred from job description",
-  "india_hiring": {
-    "board": {
-      "apac": 0,
-      "countries": [
-        "Ukraine",
-        "Serbia",
-        "Kazakhstan",
-        "Poland",
-        "Czechia",
-        "Cyprus",
-        "Estonia",
-        "Hungary"
-      ],
-      "india": 0,
-      "india_samples": [],
-      "open_samples": [],
-      "remote": 30,
-      "restricted_remote": 29,
-      "restricted_samples": [
-        {
-          "location": "Ukraine • Moldova • Albania • Kazakhstan • Montenegro • European Union • Serbia ",
-          "title": "2D Graphic and Motion Designer ",
-          "url": "https://jobs.ashbyhq.com/ruby-labs/c42453d0-67aa-4b22-b813-e2966b1cdb5f"
-        },
-        {
-          "location": "European Union",
-          "title": "Accounting Automation Engineer",
-          "url": "https://jobs.ashbyhq.com/ruby-labs/714d58e3-7444-4e51-bd98-1c0ddbd33c90"
-        },
-        {
-          "location": "Ukraine • Moldova • Latvia • Slovakia • Czech Republic • Slovenia • Romania • Tu",
-          "title": "Billing Data Analyst",
-          "url": "https://jobs.ashbyhq.com/ruby-labs/3d14cb8d-4ccc-447f-93cd-37870f6fc8ca"
-        },
-        {
-          "location": "Ukraine • North Macedonia • Turkey • European Union • Serbia • Georgia",
-          "title": "CRO Manager",
-          "url": "https://jobs.ashbyhq.com/ruby-labs/13ed7385-7e1a-465b-b497-3a67915ec4c8"
-        }
-      ],
-      "slug": "ruby-labs",
-      "total": 30,
-      "type": "ashby",
-      "url": "https://jobs.ashbyhq.com/ruby-labs",
-      "worldwide": 0
-    },
-    "changed_at": "2026-10-16T21:30:21Z",
-    "evidence": [
-      {
-        "detail": "None are located in India or open worldwide; 29 remote roles are limited to named countries",
-        "kind": "board",
-        "label": "All 30 open roles are in Ukraine, Serbia, Kazakhstan, Poland and 4 more",
-        "url": "https://jobs.ashbyhq.com/ruby-labs",
-        "weight": -3
-      }
-    ],
-    "first_checked_at": "2026-10-16T21:30:21Z",
-    "india_based": false,
-    "method": "Careers board, posting text",
-    "sig": "524b9ac349",
-    "summary": "All 30 open roles are in Ukraine, Serbia, Kazakhstan, Poland and 4 more. None are located in India or open worldwide; 29 remote roles are limited to named countries.",
-    "verdict": "no"
-  },
-  "inferred": true,
-  "name": "Ruby Labs",
+ "ats": {
   "slug": "ruby-labs",
-  "tier": 2
+  "type": "ashby"
+ },
+ "category": "Agency / studio",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": {
+   "apac": 0,
+   "countries": [
+    "Ukraine",
+    "Serbia",
+    "Kazakhstan",
+    "Poland",
+    "Czechia",
+    "Cyprus",
+    "Estonia",
+    "Hungary"
+   ],
+   "india": 0,
+   "india_samples": [],
+   "open_samples": [],
+   "remote": 30,
+   "restricted_remote": 29,
+   "restricted_samples": [
+    {
+     "location": "Ukraine • Moldova • Albania • Kazakhstan • Montenegro • European Union • Serbia ",
+     "title": "2D Graphic and Motion Designer ",
+     "url": "https://jobs.ashbyhq.com/ruby-labs/c42453d0-67aa-4b22-b813-e2966b1cdb5f"
+    },
+    {
+     "location": "European Union",
+     "title": "Accounting Automation Engineer",
+     "url": "https://jobs.ashbyhq.com/ruby-labs/714d58e3-7444-4e51-bd98-1c0ddbd33c90"
+    },
+    {
+     "location": "Ukraine • Moldova • Latvia • Slovakia • Czech Republic • Slovenia • Romania • Tu",
+     "title": "Billing Data Analyst",
+     "url": "https://jobs.ashbyhq.com/ruby-labs/3d14cb8d-4ccc-447f-93cd-37870f6fc8ca"
+    },
+    {
+     "location": "Ukraine • North Macedonia • Turkey • European Union • Serbia • Georgia",
+     "title": "CRO Manager",
+     "url": "https://jobs.ashbyhq.com/ruby-labs/13ed7385-7e1a-465b-b497-3a67915ec4c8"
+    }
+   ],
+   "slug": "ruby-labs",
+   "total": 30,
+   "type": "ashby",
+   "url": "https://jobs.ashbyhq.com/ruby-labs",
+   "worldwide": 0
+  },
+  "changed_at": "2026-10-16T21:30:21Z",
+  "evidence": [
+   {
+    "detail": "None are located in India or open worldwide; 29 remote roles are limited to named countries",
+    "kind": "board",
+    "label": "All 30 open roles are in Ukraine, Serbia, Kazakhstan, Poland and 4 more",
+    "url": "https://jobs.ashbyhq.com/ruby-labs",
+    "weight": -3
+   }
+  ],
+  "first_checked_at": "2026-10-16T21:30:21Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "524b9ac349",
+  "summary": "All 30 open roles are in Ukraine, Serbia, Kazakhstan, Poland and 4 more. None are located in India or open worldwide; 29 remote roles are limited to named countries.",
+  "verdict": "no"
+ },
+ "inferred": true,
+ "name": "Ruby Labs",
+ "slug": "ruby-labs",
+ "tier": 2
 }

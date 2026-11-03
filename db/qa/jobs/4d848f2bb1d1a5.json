@@ -1,0 +1,82 @@
+{
+ "apply_url": null,
+ "board_apply": "https://jobs.weekday.works/reliance-games%2Fzapak-game-tester",
+ "category": "Game studio",
+ "comp_potential": "unknown",
+ "company": "Reliance Games (Zapak)",
+ "company_slug": "reliance-games-zapak",
+ "concerns": [
+  "Employer has not confirmed hiring from India",
+  "Pay not disclosed — ask for the range early",
+  "Full description not available from this source"
+ ],
+ "contacts_count": 0,
+ "content_hash": "5cf99f816e32",
+ "date_quality": "unknown",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-10-28T03:44:48Z",
+ "fit": 74,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "4d848f2bb1d1a5",
+ "include_reason": "Game tester title",
+ "india": {
+  "cities": [],
+  "company": "unclear",
+  "reason": "Location not stated",
+  "status": "unconfirmed",
+  "visa": false
+ },
+ "kind": "game-tester",
+ "last_verified": "2026-10-28T03:44:48Z",
+ "location": "",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": null,
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 55,
+  "comp": 60,
+  "company": 96,
+  "location": 36,
+  "seniority": 84,
+  "skill": 86
+ },
+ "seniority": "unspecified",
+ "snippet": "",
+ "source_primary": "Weekday (via search index)",
+ "sources": [
+  {
+   "id": "web",
+   "job_id": "https://jobs.weekday.works/reliance-games%2Fzapak-game-tester",
+   "kind": "search",
+   "name": "Weekday (via search index)",
+   "posted_at": null,
+   "seen_at": "2026-10-28T03:44:48Z",
+   "url": "https://jobs.weekday.works/reliance-games%2Fzapak-game-tester"
+  }
+ ],
+ "specializations": [],
+ "status": "lead",
+ "tier": 1,
+ "title": "Game Tester",
+ "tools": [],
+ "track": "game",
+ "updated_at": null,
+ "url": "https://jobs.weekday.works/reliance-games%2Fzapak-game-tester",
+ "why": [
+  "Game tester role — matches your game QA work at Webmobril and Golden Horde",
+  "Game studio company"
+ ],
+ "work_mode": "unspecified",
+ "years_max": null,
+ "years_min": null
+}

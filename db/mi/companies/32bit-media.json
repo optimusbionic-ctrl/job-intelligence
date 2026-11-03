@@ -1,27 +1,27 @@
 {
-  "category": "Other",
-  "classification": "Inferred from job description",
-  "india_hiring": {
-    "board": null,
-    "changed_at": "2026-10-22T21:27:45Z",
-    "evidence": [
-      {
-        "detail": "Video Editor / Motion Graphic Designer — Rohini, Delhi",
-        "kind": "posting",
-        "label": "A current posting lists India as a location",
-        "url": "https://www.jobhai.com/video-editor-motion-graphic-designer-job-in-32bit-media-sector-5-rohini-delhi-0-to-2-years-1785136951-8053329-jid",
-        "weight": 5
-      }
-    ],
-    "first_checked_at": "2026-10-22T21:27:45Z",
-    "india_based": false,
-    "method": "Careers board, posting text",
-    "sig": "1930310992",
-    "summary": "A current posting lists India as a location.",
-    "verdict": "yes"
-  },
-  "inferred": true,
-  "name": "32bit Media",
-  "slug": "32bit-media",
-  "tier": 3
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-22T21:27:45Z",
+  "evidence": [
+   {
+    "detail": "Video Editor / Motion Graphic Designer — Rohini, Delhi",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.jobhai.com/video-editor-motion-graphic-designer-job-in-32bit-media-sector-5-rohini-delhi-0-to-2-years-1785136951-8053329-jid",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-10-22T21:27:45Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "1930310992",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "32bit Media",
+ "slug": "32bit-media",
+ "tier": 3
 }

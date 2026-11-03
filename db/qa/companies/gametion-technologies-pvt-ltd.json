@@ -1,30 +1,30 @@
 {
-  "category": "Other",
-  "classification": "Inferred from job description",
-  "india_hiring": {
-    "board": null,
-    "changed_at": "2026-10-21T05:44:50Z",
-    "evidence": [
-      {
-        "detail": "Quality Engineer - Manual Game Tester — Nagpur, India",
-        "kind": "posting",
-        "label": "A current posting lists India as a location",
-        "url": "https://www.shine.com/jobs/quality-engineer-manual-game-tester/gametion-technologies-pvt-ltd/19679452",
-        "weight": 5
-      }
-    ],
-    "first_checked_at": "2026-10-21T05:44:50Z",
-    "india_based": false,
-    "method": "Careers board, posting text",
-    "sig": "6f16275968",
-    "summary": "A current posting lists India as a location.",
-    "verdict": "yes"
-  },
-  "inferred": true,
-  "name": "Gametion Technologies Pvt. Ltd.",
-  "slug": "gametion-technologies-pvt-ltd",
-  "tier": 3,
-  "tracks": [
-    "game"
-  ]
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-21T05:44:50Z",
+  "evidence": [
+   {
+    "detail": "Quality Engineer - Manual Game Tester — Nagpur, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/quality-engineer-manual-game-tester/gametion-technologies-pvt-ltd/19679452",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-10-21T05:44:50Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "6f16275968",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Gametion Technologies Pvt. Ltd.",
+ "slug": "gametion-technologies-pvt-ltd",
+ "tier": 3,
+ "tracks": [
+  "game"
+ ]
 }

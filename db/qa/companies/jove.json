@@ -1,39 +1,39 @@
 {
-  "category": "Product / SaaS",
-  "classification": "Inferred from job description",
-  "domain": "jove.com",
-  "india_hiring": {
-    "board": null,
-    "changed_at": "2026-10-22T14:44:45Z",
-    "evidence": [
-      {
-        "detail": "QA Engineer — India (Remote)",
-        "kind": "posting",
-        "label": "A current posting lists India as a location",
-        "url": "https://jobs.workable.com/view/jjpBBEXHYi4i3pt5RyBV4G/remote-qa-engineer-in-india-at-jove",
-        "weight": 5
-      },
-      {
-        "detail": "…, with offices in the USA, UK, Australia, and India servicing clients in over 60 countries, we are seeking talented and ambitious individuals to join our compan…",
-        "kind": "posting",
-        "label": "Posting describes hiring across countries",
-        "url": "https://jobs.workable.com/view/jjpBBEXHYi4i3pt5RyBV4G/remote-qa-engineer-in-india-at-jove",
-        "weight": 3
-      }
-    ],
-    "first_checked_at": "2026-10-22T14:44:45Z",
-    "india_based": false,
-    "method": "Careers board, posting text",
-    "sig": "f46f739f59",
-    "summary": "A current posting lists India as a location.",
-    "verdict": "yes"
-  },
-  "inferred": true,
-  "logo": "https://workablehr.s3.amazonaws.com/uploads/account/logo/736049/logo",
-  "name": "JoVE",
-  "slug": "jove",
-  "tier": 1,
-  "tracks": [
-    "software"
-  ]
+ "category": "Product / SaaS",
+ "classification": "Inferred from job description",
+ "domain": "jove.com",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-22T14:44:45Z",
+  "evidence": [
+   {
+    "detail": "QA Engineer — India (Remote)",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://jobs.workable.com/view/jjpBBEXHYi4i3pt5RyBV4G/remote-qa-engineer-in-india-at-jove",
+    "weight": 5
+   },
+   {
+    "detail": "…, with offices in the USA, UK, Australia, and India servicing clients in over 60 countries, we are seeking talented and ambitious individuals to join our compan…",
+    "kind": "posting",
+    "label": "Posting describes hiring across countries",
+    "url": "https://jobs.workable.com/view/jjpBBEXHYi4i3pt5RyBV4G/remote-qa-engineer-in-india-at-jove",
+    "weight": 3
+   }
+  ],
+  "first_checked_at": "2026-10-22T14:44:45Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "f46f739f59",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "logo": "https://workablehr.s3.amazonaws.com/uploads/account/logo/736049/logo",
+ "name": "JoVE",
+ "slug": "jove",
+ "tier": 1,
+ "tracks": [
+  "software"
+ ]
 }

@@ -1,66 +1,66 @@
 {
-  "category": "Other",
-  "classification": "Inferred from job description",
-  "india_hiring": {
-    "board": null,
-    "changed_at": "2026-10-19T13:24:59Z",
-    "evidence": [
-      {
-        "detail": "QA and UAT Tester — Worldwide",
-        "kind": "posting",
-        "label": "A current posting is open worldwide",
-        "url": "https://himalayas.app/companies/affidea-bv/jobs/qa-and-uat-tester?utm_source=api",
-        "weight": 3
-      }
-    ],
-    "first_checked_at": "2026-10-19T13:24:59Z",
-    "india_based": false,
-    "method": "Careers board, posting text, web search",
-    "sig": "1e6bf80338",
-    "summary": "No India-located roles found, but a current posting is open worldwide.",
-    "verdict": "likely",
-    "web": {
-      "checked_at": "2026-10-19T15:45:44Z",
-      "query": "\"Affidea BV\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
-      "results": [
-        {
-          "description": "",
-          "title": "www.hirebase.org",
-          "url": "https://www.hirebase.org/company/affidea"
-        },
-        {
-          "description": "",
-          "title": "Affidea logo",
-          "url": "https://beta.hirebase.org/company/affidea"
-        },
-        {
-          "description": "",
-          "title": "back to jobs listing",
-          "url": "https://www.inou.ie/jobswatch/affidea-euromedic"
-        },
-        {
-          "description": "",
-          "title": "Compare Affidea vs Insight Imaging",
-          "url": "https://www.cbinsights.com/compare/affidea-vs-insight-imaging"
-        },
-        {
-          "description": "",
-          "title": "Compare Affidea vs Medicover",
-          "url": "https://www.cbinsights.com/compare/affidea-vs-medicover"
-        },
-        {
-          "description": "",
-          "title": "builtindublin.ie",
-          "url": "https://builtindublin.ie/company/affidea"
-        }
-      ]
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-19T13:24:59Z",
+  "evidence": [
+   {
+    "detail": "QA and UAT Tester — Worldwide",
+    "kind": "posting",
+    "label": "A current posting is open worldwide",
+    "url": "https://himalayas.app/companies/affidea-bv/jobs/qa-and-uat-tester?utm_source=api",
+    "weight": 3
+   }
+  ],
+  "first_checked_at": "2026-10-19T13:24:59Z",
+  "india_based": false,
+  "method": "Careers board, posting text, web search",
+  "sig": "1e6bf80338",
+  "summary": "No India-located roles found, but a current posting is open worldwide.",
+  "verdict": "likely",
+  "web": {
+   "checked_at": "2026-10-19T15:45:44Z",
+   "query": "\"Affidea BV\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
+   "results": [
+    {
+     "description": "",
+     "title": "www.hirebase.org",
+     "url": "https://www.hirebase.org/company/affidea"
+    },
+    {
+     "description": "",
+     "title": "Affidea logo",
+     "url": "https://beta.hirebase.org/company/affidea"
+    },
+    {
+     "description": "",
+     "title": "back to jobs listing",
+     "url": "https://www.inou.ie/jobswatch/affidea-euromedic"
+    },
+    {
+     "description": "",
+     "title": "Compare Affidea vs Insight Imaging",
+     "url": "https://www.cbinsights.com/compare/affidea-vs-insight-imaging"
+    },
+    {
+     "description": "",
+     "title": "Compare Affidea vs Medicover",
+     "url": "https://www.cbinsights.com/compare/affidea-vs-medicover"
+    },
+    {
+     "description": "",
+     "title": "builtindublin.ie",
+     "url": "https://builtindublin.ie/company/affidea"
     }
-  },
-  "inferred": true,
-  "name": "Affidea BV",
-  "slug": "affidea-bv",
-  "tier": 3,
-  "tracks": [
-    "software"
-  ]
+   ]
+  }
+ },
+ "inferred": true,
+ "name": "Affidea BV",
+ "slug": "affidea-bv",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
 }

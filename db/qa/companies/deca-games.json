@@ -1,66 +1,66 @@
 {
-  "category": "Game studio",
-  "classification": "Inferred from job description",
-  "india_hiring": {
-    "board": null,
-    "changed_at": "2026-10-19T18:45:42Z",
-    "evidence": [
-      {
-        "detail": "QA Tester (MFD) - Pune — Pune, India",
-        "kind": "posting",
-        "label": "A current posting lists India as a location",
-        "url": "https://joinsaarthi.com/jobs/deca-games/qa-tester-mfd-pune/128c7ed6-c2a0-4aea-896b-c18d6613ac26",
-        "weight": 5
-      }
-    ],
-    "first_checked_at": "2026-10-19T15:45:44Z",
-    "india_based": false,
-    "method": "Careers board, posting text, web search",
-    "sig": "b7c42ef9b5",
-    "summary": "A current posting lists India as a location.",
-    "verdict": "yes",
-    "web": {
-      "checked_at": "2026-10-19T16:45:07Z",
-      "query": "\"DECA Games\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
-      "results": [
-        {
-          "description": "",
-          "title": "Job Closed",
-          "url": "https://hitmarker.net/jobs/deca-games-lead-marketing-artist-779730"
-        },
-        {
-          "description": "",
-          "title": "Ad Monetization Manager",
-          "url": "https://builtin.com/job/ad-monetization-manager/4666627"
-        },
-        {
-          "description": "",
-          "title": "Community Manager (m/f/d)",
-          "url": "https://builtin.com/job/community-manager-mfd/3213735"
-        },
-        {
-          "description": "",
-          "title": "cbe57a7fa06d01 senior unity developer m f d",
-          "url": "https://deca-games.breezy.hr/p/cbe57a7fa06d01-senior-unity-developer-m-f-d"
-        },
-        {
-          "description": "",
-          "title": "DECA Games Logo",
-          "url": "https://www.builtincolorado.com/job/aso-lead-m-f-d/6210113"
-        },
-        {
-          "description": "",
-          "title": "Lead Community Manager (m/f/d)",
-          "url": "https://builtin.com/job/lead-community-manager-mfd/3577136"
-        }
-      ]
+ "category": "Game studio",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-19T18:45:42Z",
+  "evidence": [
+   {
+    "detail": "QA Tester (MFD) - Pune — Pune, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://joinsaarthi.com/jobs/deca-games/qa-tester-mfd-pune/128c7ed6-c2a0-4aea-896b-c18d6613ac26",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-10-19T15:45:44Z",
+  "india_based": false,
+  "method": "Careers board, posting text, web search",
+  "sig": "b7c42ef9b5",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes",
+  "web": {
+   "checked_at": "2026-10-19T16:45:07Z",
+   "query": "\"DECA Games\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
+   "results": [
+    {
+     "description": "",
+     "title": "Job Closed",
+     "url": "https://hitmarker.net/jobs/deca-games-lead-marketing-artist-779730"
+    },
+    {
+     "description": "",
+     "title": "Ad Monetization Manager",
+     "url": "https://builtin.com/job/ad-monetization-manager/4666627"
+    },
+    {
+     "description": "",
+     "title": "Community Manager (m/f/d)",
+     "url": "https://builtin.com/job/community-manager-mfd/3213735"
+    },
+    {
+     "description": "",
+     "title": "cbe57a7fa06d01 senior unity developer m f d",
+     "url": "https://deca-games.breezy.hr/p/cbe57a7fa06d01-senior-unity-developer-m-f-d"
+    },
+    {
+     "description": "",
+     "title": "DECA Games Logo",
+     "url": "https://www.builtincolorado.com/job/aso-lead-m-f-d/6210113"
+    },
+    {
+     "description": "",
+     "title": "Lead Community Manager (m/f/d)",
+     "url": "https://builtin.com/job/lead-community-manager-mfd/3577136"
     }
-  },
-  "inferred": true,
-  "name": "DECA Games",
-  "slug": "deca-games",
-  "tier": 1,
-  "tracks": [
-    "software"
-  ]
+   ]
+  }
+ },
+ "inferred": true,
+ "name": "DECA Games",
+ "slug": "deca-games",
+ "tier": 1,
+ "tracks": [
+  "software"
+ ]
 }

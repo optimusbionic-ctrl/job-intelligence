@@ -1,102 +1,84 @@
 {
-  "apply_url": null,
-  "board_apply": "https://startup.jobs/associate-qa-tester-game-functionality-rockstar-games-1669690",
-  "category": "Game studio",
-  "comp_potential": "unknown",
-  "company": "Rockstar Games",
-  "company_slug": "rockstar-games",
-  "concerns": [
-    "Employer has not confirmed hiring from India",
-    "Entry-level role — pay may be at the lower end",
-    "Pay not disclosed — ask for the range early",
-    "Full description not available from this source"
-  ],
-  "contacts_count": 1,
-  "content_hash": "9aa2d54e5651",
-  "date_quality": "unknown",
-  "deadline": null,
-  "employment": "full-time",
-  "first_seen": "2026-10-21T12:45:28Z",
-  "fit": 74,
-  "has_hiring_manager": false,
-  "has_named_contact": false,
-  "has_public_email": false,
-  "id": "99198c155d9d8d",
-  "include_reason": "Game tester title",
-  "india": {
-    "cities": [],
-    "company": "yes",
-    "reason": "Location not stated",
-    "status": "unconfirmed",
-    "visa": false
-  },
-  "kind": "game-tester",
-  "last_verified": "2026-10-21T18:45:15Z",
-  "location": "",
-  "logo": null,
-  "needs_review": false,
-  "official": false,
-  "posted_at": null,
-  "repost": false,
-  "requirements": [],
-  "responsibilities": [],
-  "salary": {
-    "state": "unavailable"
-  },
-  "scores": {
-    "ai": 55,
-    "comp": 60,
-    "company": 96,
-    "location": 36,
-    "seniority": 86,
-    "skill": 86
-  },
-  "seniority": "junior",
-  "snippet": "",
-  "source_primary": "startup.jobs (via search index)",
-  "sources": [
-    {
-      "id": "web",
-      "job_id": "https://startup.jobs/associate-qa-tester-game-functionality-rockstar-games-1669690",
-      "kind": "search",
-      "name": "startup.jobs (via search index)",
-      "posted_at": null,
-      "seen_at": "2026-10-21T18:45:15Z",
-      "url": "https://startup.jobs/associate-qa-tester-game-functionality-rockstar-games-1669690"
-    },
-    {
-      "id": "web",
-      "job_id": "https://startup.jobs/associate-qa-tester-game-functionality-rockstar-games-5308593",
-      "kind": "search",
-      "name": "startup.jobs (via search index)",
-      "posted_at": null,
-      "seen_at": "2026-10-21T18:45:15Z",
-      "url": "https://startup.jobs/associate-qa-tester-game-functionality-rockstar-games-5308593"
-    },
-    {
-      "id": "web",
-      "job_id": "https://startup.jobs/associate-qa-tester-game-functionality-rockstar-games-8618282",
-      "kind": "search",
-      "name": "startup.jobs (via search index)",
-      "posted_at": null,
-      "seen_at": "2026-10-21T18:45:15Z",
-      "url": "https://startup.jobs/associate-qa-tester-game-functionality-rockstar-games-8618282"
-    }
-  ],
-  "specializations": [],
-  "status": "lead",
-  "tier": 1,
-  "title": "Associate QA Tester - Game Functionality",
-  "tools": [],
-  "track": "game",
-  "updated_at": null,
-  "url": "https://startup.jobs/associate-qa-tester-game-functionality-rockstar-games-1669690",
-  "why": [
-    "Game tester role — matches your game QA work at Webmobril and Golden Horde",
-    "Game studio company",
-    "Rockstar Games already hires people in India"
-  ],
-  "work_mode": "unspecified",
-  "years_max": null,
-  "years_min": null
+ "apply_url": null,
+ "board_apply": "https://startup.jobs/associate-qa-tester-game-functionality-rockstar-games-1669690",
+ "category": "Game studio",
+ "comp_potential": "unknown",
+ "company": "Rockstar Games",
+ "company_slug": "rockstar-games",
+ "concerns": [
+  "Employer has not confirmed hiring from India",
+  "Entry-level role — pay may be at the lower end",
+  "Pay not disclosed — ask for the range early",
+  "Full description not available from this source"
+ ],
+ "contacts_count": 1,
+ "content_hash": "9aa2d54e5651",
+ "date_quality": "unknown",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-10-21T12:45:28Z",
+ "fit": 74,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "99198c155d9d8d",
+ "include_reason": "Game tester title",
+ "india": {
+  "cities": [],
+  "company": "yes",
+  "reason": "Location not stated",
+  "status": "unconfirmed",
+  "visa": false
+ },
+ "kind": "game-tester",
+ "last_verified": "2026-10-29T15:09:55Z",
+ "location": "",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": null,
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 55,
+  "comp": 60,
+  "company": 96,
+  "location": 36,
+  "seniority": 86,
+  "skill": 86
+ },
+ "seniority": "junior",
+ "snippet": "",
+ "source_primary": "startup.jobs (via search index)",
+ "sources": [
+  {
+   "id": "web",
+   "job_id": "https://startup.jobs/associate-qa-tester-game-functionality-rockstar-games-1669690",
+   "kind": "search",
+   "name": "startup.jobs (via search index)",
+   "posted_at": null,
+   "seen_at": "2026-10-29T15:09:55Z",
+   "url": "https://startup.jobs/associate-qa-tester-game-functionality-rockstar-games-1669690"
+  }
+ ],
+ "specializations": [],
+ "status": "lead",
+ "tier": 1,
+ "title": "Associate QA Tester - Game Functionality",
+ "tools": [],
+ "track": "game",
+ "updated_at": null,
+ "url": "https://startup.jobs/associate-qa-tester-game-functionality-rockstar-games-1669690",
+ "why": [
+  "Game tester role — matches your game QA work at Webmobril and Golden Horde",
+  "Game studio company",
+  "Rockstar Games already hires people in India"
+ ],
+ "work_mode": "unspecified",
+ "years_max": null,
+ "years_min": null
 }

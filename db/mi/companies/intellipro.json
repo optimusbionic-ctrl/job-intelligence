@@ -1,55 +1,55 @@
 {
-  "category": "AI",
-  "classification": "Inferred from job description",
-  "india_hiring": {
-    "board": null,
-    "changed_at": "2026-10-15T16:19:24Z",
-    "evidence": [],
-    "first_checked_at": "2026-10-15T16:19:24Z",
-    "india_based": false,
-    "method": "Careers board, posting text, web search",
-    "sig": "54391d7cdf",
-    "summary": "No public evidence yet about hiring from India.",
-    "verdict": "unclear",
-    "web": {
-      "checked_at": "2026-10-15T16:49:04Z",
-      "query": "\"IntelliPro\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
-      "results": [
-        {
-          "description": "",
-          "title": "Remote & Flexible Jobs",
-          "url": "https://flexjobs.com/remote-jobs/company/intellipro_group"
-        },
-        {
-          "description": "",
-          "title": "IntelliPro is Hiring 24c0ab2abaeb81398b94d790f8e839ca",
-          "url": "https://intelli-pro.notion.site/IntelliPro-is-Hiring-24c0ab2abaeb81398b94d790f8e839ca"
-        },
-        {
-          "description": "",
-          "title": "remote jobs at intellipro group inc",
-          "url": "https://rubyonremote.com/remote-jobs-at-intellipro-group-inc"
-        },
-        {
-          "description": "",
-          "title": "User Support Associate/ CSR",
-          "url": "https://builtin.com/job/user-support-associate-csr/3327047"
-        },
-        {
-          "description": "",
-          "title": "Human Resource Consultant",
-          "url": "https://builtin.com/job/human-resource-consultant/3362121"
-        },
-        {
-          "description": "",
-          "title": "Compare IntelliPro Group vs ScaleneWorks",
-          "url": "https://www.cbinsights.com/compare/intellipro-group-vs-scaleneworks"
-        }
-      ]
+ "category": "AI",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-15T16:19:24Z",
+  "evidence": [],
+  "first_checked_at": "2026-10-15T16:19:24Z",
+  "india_based": false,
+  "method": "Careers board, posting text, web search",
+  "sig": "54391d7cdf",
+  "summary": "No public evidence yet about hiring from India.",
+  "verdict": "unclear",
+  "web": {
+   "checked_at": "2026-10-29T17:27:14Z",
+   "query": "\"IntelliPro\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
+   "results": [
+    {
+     "description": "",
+     "title": "Remote & Flexible Jobs",
+     "url": "https://flexjobs.com/remote-jobs/company/intellipro_group"
+    },
+    {
+     "description": "",
+     "title": "IntelliPro is Hiring 24c0ab2abaeb81398b94d790f8e839ca",
+     "url": "https://intelli-pro.notion.site/IntelliPro-is-Hiring-24c0ab2abaeb81398b94d790f8e839ca"
+    },
+    {
+     "description": "",
+     "title": "remote jobs at intellipro group inc",
+     "url": "https://rubyonremote.com/remote-jobs-at-intellipro-group-inc"
+    },
+    {
+     "description": "",
+     "title": "User Support Associate/ CSR",
+     "url": "https://builtin.com/job/user-support-associate-csr/3327047"
+    },
+    {
+     "description": "",
+     "title": "Human Resource Consultant",
+     "url": "https://builtin.com/job/human-resource-consultant/3362121"
+    },
+    {
+     "description": "",
+     "title": "HR Specialist (Contract)",
+     "url": "https://builtin.com/job/hr-specialist-contract/6607175"
     }
-  },
-  "inferred": true,
-  "name": "IntelliPro",
-  "slug": "intellipro",
-  "tier": 1
+   ]
+  }
+ },
+ "inferred": true,
+ "name": "IntelliPro",
+ "slug": "intellipro",
+ "tier": 1
 }

@@ -1,142 +1,142 @@
 {
-  "apply_url": "https://jobs.ashbyhq.com/tekion/ce031689-e13f-46a7-a7c4-53b37aba32d1/application",
-  "board_apply": null,
-  "category": "Product / SaaS",
-  "comp_potential": "unknown",
-  "company": "Tekion",
-  "company_slug": "tekion",
-  "concerns": [
-    "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
-    "Also asks for: API testing, SQL / databases, Programming",
-    "Entry-level role — pay may be at the lower end",
-    "Office outside Mumbai — relocation within India",
-    "Pay not disclosed — ask for the range early",
-    "Reposted / refreshed listing — original posting is older"
+ "apply_url": "https://jobs.ashbyhq.com/tekion/ce031689-e13f-46a7-a7c4-53b37aba32d1/application",
+ "board_apply": null,
+ "category": "Product / SaaS",
+ "comp_potential": "unknown",
+ "company": "Tekion",
+ "company_slug": "tekion",
+ "concerns": [
+  "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
+  "Also asks for: API testing, SQL / databases, Programming",
+  "Entry-level role — pay may be at the lower end",
+  "Office outside Mumbai — relocation within India",
+  "Pay not disclosed — ask for the range early",
+  "Reposted / refreshed listing — original posting is older"
+ ],
+ "contacts_count": 1,
+ "content_hash": "17b0a2659830",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-10-19T13:24:59Z",
+ "fit": 69,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "9d4bfdb39a60ac",
+ "include_reason": "Automation-heavy QA (SDET)",
+ "india": {
+  "cities": [
+   "Bengaluru",
+   "Chennai"
   ],
-  "contacts_count": 1,
-  "content_hash": "17b0a2659830",
-  "date_quality": "exact",
-  "deadline": null,
-  "employment": "full-time",
-  "first_seen": "2026-10-19T13:24:59Z",
-  "fit": 69,
-  "has_hiring_manager": false,
-  "has_named_contact": false,
-  "has_public_email": false,
-  "id": "9d4bfdb39a60ac",
-  "include_reason": "Automation-heavy QA (SDET)",
-  "india": {
-    "cities": [
-      "Bengaluru",
-      "Chennai"
-    ],
-    "company": "yes",
-    "reason": "Location lists India",
-    "status": "confirmed",
-    "visa": false
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "automation",
+ "last_verified": "2026-10-19T13:24:59Z",
+ "location": "Bangalore HQ • Chennai Regional Office (India)",
+ "logo": null,
+ "needs_review": false,
+ "official": true,
+ "posted_at": "2026-06-29T05:20:38Z",
+ "repost": true,
+ "requirements": [
+  "Bachelor’s degree in computer science, Engineering, or a related field.",
+  "1.5years – 3 years of experience in Software Development in Test or QA Automation.",
+  "Solid programming skills in Java with a good understanding of Object-Oriented Programming principles.",
+  "Working experience with Playwright or Selenium WebDriver.",
+  "Hands-on experience in API testing using Rest Assured, Postman, or similar tools.",
+  "Familiarity with test frameworks such as TestNG, JUnit, or equivalent.",
+  "Basic understanding of software engineering principles, SDLC, STLC, and Agile methodologies."
+ ],
+ "responsibilities": [
+  "We are looking for an enthusiastic and detail-oriented Software Development Engineer in Test (SDET-I) to join our Engineering team. As an SDET-I, you will contribute to building and enhancing test automation across our cloud-native applications, working alongside experienced engineers to strengthen quality engineering practices and support continuous delivery.",
+  "You will collaborate with Software Engineers, Product Managers, and DevOps teams to ensure quality is embedded throughout the software development lifecycle. This role requires solid programming fundamentals, a keen interest in automation, and a willingness to learn and grow in a fast-paced engineering environment.",
+  "Develop and maintain automated test scripts for UI, API, and integration testing using established frameworks.",
+  "Write reliable automated test cases using Java and automation tools such as Playwright.",
+  "Build and execute API test suites using Rest Assured or equivalent frameworks.",
+  "Contribute to the integration of automated tests into CI/CD pipelines for continuous testing.",
+  "Collaborate with developers and senior SDETs to understand features, improve testability, and ensure product quality."
+ ],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 60,
+  "company": 95,
+  "location": 60,
+  "seniority": 94,
+  "skill": 49
+ },
+ "seniority": "junior",
+ "snippet": "ABOUT TEKION:\n\nPositively disrupting an industry that has not seen any innovation in over 50 years, Tekion has challenged the paradigm with the first and fastest cloud-native automotive platform that includes the revolutionary Automotive Retail Cloud (ARC) for retailers, Automotive Enterprise Cloud (AEC) for manufacturers and other large automotive enterprises and Automotive Partner Cloud (APC) for technology and ind",
+ "source_primary": "Tekion careers (Ashby)",
+ "sources": [
+  {
+   "id": "ashby",
+   "job_id": "ashby:tekion:ce031689-e13f-46a7-a7c4-53b37aba32d1",
+   "kind": "ats",
+   "name": "Tekion careers (Ashby)",
+   "posted_at": "2026-10-19T05:55:48Z",
+   "seen_at": "2026-10-19T13:24:59Z",
+   "url": "https://jobs.ashbyhq.com/tekion/ce031689-e13f-46a7-a7c4-53b37aba32d1"
   },
-  "kind": "automation",
-  "last_verified": "2026-10-19T13:24:59Z",
-  "location": "Bangalore HQ • Chennai Regional Office (India)",
-  "logo": null,
-  "needs_review": false,
-  "official": true,
-  "posted_at": "2026-06-29T05:20:38Z",
-  "repost": true,
-  "requirements": [
-    "Bachelor’s degree in computer science, Engineering, or a related field.",
-    "1.5years – 3 years of experience in Software Development in Test or QA Automation.",
-    "Solid programming skills in Java with a good understanding of Object-Oriented Programming principles.",
-    "Working experience with Playwright or Selenium WebDriver.",
-    "Hands-on experience in API testing using Rest Assured, Postman, or similar tools.",
-    "Familiarity with test frameworks such as TestNG, JUnit, or equivalent.",
-    "Basic understanding of software engineering principles, SDLC, STLC, and Agile methodologies."
-  ],
-  "responsibilities": [
-    "We are looking for an enthusiastic and detail-oriented Software Development Engineer in Test (SDET-I) to join our Engineering team. As an SDET-I, you will contribute to building and enhancing test automation across our cloud-native applications, working alongside experienced engineers to strengthen quality engineering practices and support continuous delivery.",
-    "You will collaborate with Software Engineers, Product Managers, and DevOps teams to ensure quality is embedded throughout the software development lifecycle. This role requires solid programming fundamentals, a keen interest in automation, and a willingness to learn and grow in a fast-paced engineering environment.",
-    "Develop and maintain automated test scripts for UI, API, and integration testing using established frameworks.",
-    "Write reliable automated test cases using Java and automation tools such as Playwright.",
-    "Build and execute API test suites using Rest Assured or equivalent frameworks.",
-    "Contribute to the integration of automated tests into CI/CD pipelines for continuous testing.",
-    "Collaborate with developers and senior SDETs to understand features, improve testability, and ensure product quality."
-  ],
-  "salary": {
-    "state": "unavailable"
+  {
+   "id": "ashby",
+   "job_id": "ashby:tekion:cd281758-f289-4859-ba2b-12286b59fa49",
+   "kind": "ats",
+   "name": "Tekion careers (Ashby)",
+   "posted_at": "2026-09-28T10:01:17Z",
+   "seen_at": "2026-10-19T13:24:59Z",
+   "url": "https://jobs.ashbyhq.com/tekion/cd281758-f289-4859-ba2b-12286b59fa49"
   },
-  "scores": {
-    "ai": 58,
-    "comp": 60,
-    "company": 95,
-    "location": 60,
-    "seniority": 94,
-    "skill": 49
+  {
+   "id": "ashby",
+   "job_id": "ashby:tekion:061fcb56-abb0-4d68-a760-69f3cecd9858",
+   "kind": "ats",
+   "name": "Tekion careers (Ashby)",
+   "posted_at": "2026-07-07T10:51:22Z",
+   "seen_at": "2026-10-19T13:24:59Z",
+   "url": "https://jobs.ashbyhq.com/tekion/061fcb56-abb0-4d68-a760-69f3cecd9858"
   },
-  "seniority": "junior",
-  "snippet": "ABOUT TEKION:\n\nPositively disrupting an industry that has not seen any innovation in over 50 years, Tekion has challenged the paradigm with the first and fastest cloud-native automotive platform that includes the revolutionary Automotive Retail Cloud (ARC) for retailers, Automotive Enterprise Cloud (AEC) for manufacturers and other large automotive enterprises and Automotive Partner Cloud (APC) for technology and ind",
-  "source_primary": "Tekion careers (Ashby)",
-  "sources": [
-    {
-      "id": "ashby",
-      "job_id": "ashby:tekion:ce031689-e13f-46a7-a7c4-53b37aba32d1",
-      "kind": "ats",
-      "name": "Tekion careers (Ashby)",
-      "posted_at": "2026-10-19T05:55:48Z",
-      "seen_at": "2026-10-19T13:24:59Z",
-      "url": "https://jobs.ashbyhq.com/tekion/ce031689-e13f-46a7-a7c4-53b37aba32d1"
-    },
-    {
-      "id": "ashby",
-      "job_id": "ashby:tekion:cd281758-f289-4859-ba2b-12286b59fa49",
-      "kind": "ats",
-      "name": "Tekion careers (Ashby)",
-      "posted_at": "2026-09-28T10:01:17Z",
-      "seen_at": "2026-10-19T13:24:59Z",
-      "url": "https://jobs.ashbyhq.com/tekion/cd281758-f289-4859-ba2b-12286b59fa49"
-    },
-    {
-      "id": "ashby",
-      "job_id": "ashby:tekion:061fcb56-abb0-4d68-a760-69f3cecd9858",
-      "kind": "ats",
-      "name": "Tekion careers (Ashby)",
-      "posted_at": "2026-07-07T10:51:22Z",
-      "seen_at": "2026-10-19T13:24:59Z",
-      "url": "https://jobs.ashbyhq.com/tekion/061fcb56-abb0-4d68-a760-69f3cecd9858"
-    },
-    {
-      "id": "ashby",
-      "job_id": "ashby:tekion:233197fd-4dcc-4092-ad83-9887a59448bb",
-      "kind": "ats",
-      "name": "Tekion careers (Ashby)",
-      "posted_at": "2026-06-29T05:20:38Z",
-      "seen_at": "2026-10-19T13:24:59Z",
-      "url": "https://jobs.ashbyhq.com/tekion/233197fd-4dcc-4092-ad83-9887a59448bb"
-    }
-  ],
-  "specializations": [],
-  "status": "verified",
-  "tier": 1,
-  "title": "Software Development Test Engineer I",
-  "tools": [
-    "Regression testing",
-    "Test cases & scenarios",
-    "Bug reporting",
-    "API testing",
-    "SQL / databases",
-    "Test automation",
-    "Programming",
-    "Agile / Scrum"
-  ],
-  "track": "software",
-  "updated_at": "2026-10-19T05:55:48Z",
-  "url": "https://jobs.ashbyhq.com/tekion/ce031689-e13f-46a7-a7c4-53b37aba32d1",
-  "why": [
-    "Already on your resume: Regression testing, Test cases & scenarios, Bug reporting",
-    "Product / SaaS company",
-    "Asks for 3+ years — you have about 2.5",
-    "Location lists India"
-  ],
-  "work_mode": "onsite",
-  "years_max": null,
-  "years_min": 3
+  {
+   "id": "ashby",
+   "job_id": "ashby:tekion:233197fd-4dcc-4092-ad83-9887a59448bb",
+   "kind": "ats",
+   "name": "Tekion careers (Ashby)",
+   "posted_at": "2026-06-29T05:20:38Z",
+   "seen_at": "2026-10-19T13:24:59Z",
+   "url": "https://jobs.ashbyhq.com/tekion/233197fd-4dcc-4092-ad83-9887a59448bb"
+  }
+ ],
+ "specializations": [],
+ "status": "verified",
+ "tier": 1,
+ "title": "Software Development Test Engineer I",
+ "tools": [
+  "Regression testing",
+  "Test cases & scenarios",
+  "Bug reporting",
+  "API testing",
+  "SQL / databases",
+  "Test automation",
+  "Programming",
+  "Agile / Scrum"
+ ],
+ "track": "software",
+ "updated_at": "2026-10-19T05:55:48Z",
+ "url": "https://jobs.ashbyhq.com/tekion/ce031689-e13f-46a7-a7c4-53b37aba32d1",
+ "why": [
+  "Already on your resume: Regression testing, Test cases & scenarios, Bug reporting",
+  "Product / SaaS company",
+  "Asks for 3+ years — you have about 2.5",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": null,
+ "years_min": 3
 }

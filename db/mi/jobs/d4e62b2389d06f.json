@@ -1,81 +1,81 @@
 {
-  "apply_url": "https://apply.workable.com/starling-bank/j/E989B54205",
-  "board_apply": null,
-  "category": "Other",
-  "comp_potential": "unknown",
-  "company": "Starling",
-  "company_slug": "starling",
-  "concerns": [
-    "Employer has not confirmed hiring from India",
-    "Compensation not disclosed"
-  ],
-  "contacts_count": 0,
-  "content_hash": "71a70d502b40",
-  "date_quality": "unknown",
-  "deadline": null,
-  "employment": "full-time",
-  "first_seen": "2026-10-15T15:39:48Z",
-  "fit": 49,
-  "has_hiring_manager": false,
-  "has_named_contact": false,
-  "has_public_email": false,
-  "id": "d4e62b2389d06f",
-  "include_reason": "Motion design title",
-  "india": {
-    "cities": [],
-    "company": "unclear",
-    "reason": "Location not stated",
-    "status": "unconfirmed",
-    "visa": false
-  },
-  "kind": "motion",
-  "last_verified": "2026-10-18T12:27:37Z",
-  "location": "",
-  "logo": null,
-  "needs_review": false,
-  "official": true,
-  "posted_at": null,
-  "repost": false,
-  "requirements": [],
-  "responsibilities": [],
-  "salary": {
-    "state": "unavailable"
-  },
-  "scores": {
-    "ai": 30,
-    "comp": 48,
-    "company": 40,
-    "location": 38,
-    "seniority": 66,
-    "skill": 57
-  },
-  "seniority": "unspecified",
-  "snippet": "As a Motion Designer, you'll help shape how Starling comes to life through motion. We've developed a distinctive motion language built around confidence, clarity and a playful human touch.",
-  "source_primary": "Workable (via search index)",
-  "sources": [
-    {
-      "id": "workable",
-      "job_id": "https://apply.workable.com/starling-bank/j/E989B54205",
-      "kind": "search",
-      "name": "Workable (via search index)",
-      "posted_at": null,
-      "seen_at": "2026-10-18T12:27:37Z",
-      "url": "https://apply.workable.com/starling-bank/j/E989B54205"
-    }
-  ],
-  "specializations": [
-    "Brand motion"
-  ],
-  "status": "verified",
-  "tier": 3,
-  "title": "Motion Designer",
-  "tools": [],
-  "updated_at": null,
-  "url": "https://apply.workable.com/starling-bank/j/E989B54205",
-  "why": [
-    "Core motion design role",
-    "Specialisations in scope: Brand motion"
-  ],
-  "work_mode": "unspecified",
-  "years_min": null
+ "apply_url": "https://apply.workable.com/starling-bank/j/E989B54205",
+ "board_apply": null,
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "Starling",
+ "company_slug": "starling",
+ "concerns": [
+  "Employer has not confirmed hiring from India",
+  "Compensation not disclosed"
+ ],
+ "contacts_count": 0,
+ "content_hash": "71a70d502b40",
+ "date_quality": "unknown",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-10-15T15:39:48Z",
+ "fit": 49,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "d4e62b2389d06f",
+ "include_reason": "Motion design title",
+ "india": {
+  "cities": [],
+  "company": "unclear",
+  "reason": "Location not stated",
+  "status": "unconfirmed",
+  "visa": false
+ },
+ "kind": "motion",
+ "last_verified": "2026-10-18T12:27:37Z",
+ "location": "",
+ "logo": null,
+ "needs_review": false,
+ "official": true,
+ "posted_at": null,
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 30,
+  "comp": 48,
+  "company": 40,
+  "location": 38,
+  "seniority": 66,
+  "skill": 57
+ },
+ "seniority": "unspecified",
+ "snippet": "As a Motion Designer, you'll help shape how Starling comes to life through motion. We've developed a distinctive motion language built around confidence, clarity and a playful human touch.",
+ "source_primary": "Workable (via search index)",
+ "sources": [
+  {
+   "id": "workable",
+   "job_id": "https://apply.workable.com/starling-bank/j/E989B54205",
+   "kind": "search",
+   "name": "Workable (via search index)",
+   "posted_at": null,
+   "seen_at": "2026-10-18T12:27:37Z",
+   "url": "https://apply.workable.com/starling-bank/j/E989B54205"
+  }
+ ],
+ "specializations": [
+  "Brand motion"
+ ],
+ "status": "verified",
+ "tier": 3,
+ "title": "Motion Designer",
+ "tools": [],
+ "updated_at": null,
+ "url": "https://apply.workable.com/starling-bank/j/E989B54205",
+ "why": [
+  "Core motion design role",
+  "Specialisations in scope: Brand motion"
+ ],
+ "work_mode": "unspecified",
+ "years_min": null
 }

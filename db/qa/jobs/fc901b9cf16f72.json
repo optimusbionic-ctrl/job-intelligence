@@ -1,0 +1,104 @@
+{
+ "apply_url": null,
+ "board_apply": "https://himalayas.app/companies/parexel/jobs/associate-software-quality-test-analyst?utm_source=api",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "Parexel",
+ "company_slug": "parexel",
+ "concerns": [
+  "Entry-level role — pay may be at the lower end",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "83282c5b4cd2",
+ "date_quality": "exact",
+ "deadline": "2026-12-27T11:56:58Z",
+ "employment": "full-time",
+ "first_seen": "2026-10-28T14:51:52Z",
+ "fit": 87,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "fc901b9cf16f72",
+ "include_reason": "Manual / functional QA title",
+ "india": {
+  "cities": [],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "manual-qa",
+ "last_verified": "2026-10-28T14:51:52Z",
+ "location": "India",
+ "logo": "https://cdn-images.himalayas.app/krhk0v8runv0f5o7o8qg4k96x99g",
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-10-28T11:57:00Z",
+ "repost": false,
+ "requirements": [
+  "Develop and execute test cases, test scripts, and user acceptance testing (UAT) scenarios",
+  "Create, review, and maintain validation and quality documentation.",
+  "Support change request assessment, testing, and implementation activities",
+  "Document test results, defects, and testing evidence",
+  "Assist with audit readiness by maintaining accurate and inspection-ready records",
+  "Collaborate with business, IT, Quality, and vendor teams on system enhancements and projects",
+  "Strengths in software testing and UAT, system validation, and quality documentation"
+ ],
+ "responsibilities": [
+  "You'll collaborate with business, IT, Quality, and vendor teams, follow industry-standard processes, and contribute to system enhancements and projects. Responsibilities include system validation support, test execution, quality documentation, change request support, and traceability, with opportunities to deepen your expertise and influence system quality and compliance outcomes.",
+  "Support system validation and qualification activities for software applications",
+  "Develop and execute test cases, test scripts, and user acceptance testing (UAT) scenarios",
+  "Create, review, and maintain validation and quality documentation.",
+  "Support change request assessment, testing, and implementation activities",
+  "Document test results, defects, and testing evidence",
+  "Ensure traceability between requirements, testing, and validation deliverables"
+ ],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 60,
+  "company": 66,
+  "location": 100,
+  "seniority": 100,
+  "skill": 100
+ },
+ "seniority": "junior",
+ "snippet": "When our values align, there's no limit to what we can achieve. \n\nAt Parexel , we all share the same goal - to improve the world's health. From clinical trials to regulatory, consulting, and market access, every clinical development solution we provide is underpinned by something special - a deep conviction in what we do.\n Each of us, no matter what we do at Parexel , contributes to the development of a therapy that ",
+ "source_primary": "Himalayas",
+ "sources": [
+  {
+   "id": "himalayas",
+   "job_id": "https://himalayas.app/companies/parexel/jobs/associate-software-quality-test-analyst",
+   "kind": "board",
+   "name": "Himalayas",
+   "posted_at": "2026-10-28T11:57:00Z",
+   "seen_at": "2026-10-28T14:51:52Z",
+   "url": "https://himalayas.app/companies/parexel/jobs/associate-software-quality-test-analyst?utm_source=api"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 3,
+ "title": "Associate Software Quality & Test Analyst",
+ "tools": [
+  "Test cases & scenarios",
+  "Bug reporting",
+  "Jira",
+  "Google Sheets / Excel"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://himalayas.app/companies/parexel/jobs/associate-software-quality-test-analyst?utm_source=api",
+ "why": [
+  "Manual / functional QA — the core of your resume",
+  "Already on your resume: Test cases & scenarios, Bug reporting, Jira, Google Sheets / Excel",
+  "Asks for 1–3 years — you have about 2.5",
+  "Location lists India"
+ ],
+ "work_mode": "remote",
+ "years_max": 3,
+ "years_min": 1
+}

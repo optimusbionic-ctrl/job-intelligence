@@ -1,21 +1,21 @@
 {
-  "category": "channel",
-  "company": "Paytm",
-  "company_slug": "paytm",
-  "confidence": "high",
-  "email": null,
-  "evidence_label": "Employer applicant-tracking board",
-  "evidence_url": "https://jobs.lever.co/paytm",
-  "id": "0a10d17f4ef9bc",
-  "job_ids": [
-    "c3388346d5e575"
-  ],
-  "linkedin": null,
-  "name": "Paytm careers page",
-  "named": false,
-  "other_url": "https://jobs.lever.co/paytm",
-  "phone": null,
-  "relevance": "Official job board — authoritative for open roles",
-  "title": "Official application channel",
-  "verified_at": "2026-10-19T15:45:44Z"
+ "category": "channel",
+ "company": "Paytm",
+ "company_slug": "paytm",
+ "confidence": "high",
+ "email": null,
+ "evidence_label": "Employer applicant-tracking board",
+ "evidence_url": "https://jobs.lever.co/paytm",
+ "id": "0a10d17f4ef9bc",
+ "job_ids": [
+  "c3388346d5e575"
+ ],
+ "linkedin": null,
+ "name": "Paytm careers page",
+ "named": false,
+ "other_url": "https://jobs.lever.co/paytm",
+ "phone": null,
+ "relevance": "Official job board — authoritative for open roles",
+ "title": "Official application channel",
+ "verified_at": "2026-10-19T15:45:44Z"
 }

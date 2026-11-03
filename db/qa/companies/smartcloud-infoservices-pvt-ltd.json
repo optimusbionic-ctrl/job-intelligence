@@ -1,0 +1,30 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-30T00:44:29Z",
+  "evidence": [
+   {
+    "detail": "QA Engineer (web based testing) — Pune, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://cutshort.io/job/QA-Engineer-web-based-testing-Pune-Smartcloud-Infoservices-Pvt-Ltd-2rw5z5lM",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-10-30T00:44:29Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "9a1080842c",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Smartcloud Infoservices Pvt Ltd",
+ "slug": "smartcloud-infoservices-pvt-ltd",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}

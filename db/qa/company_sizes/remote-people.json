@@ -1,0 +1,14 @@
+{
+ "slug": "remote-people",
+ "name": "Remote People",
+ "min": 201,
+ "max": 500,
+ "employees": null,
+ "range": "201-500",
+ "basis": "company size",
+ "source_name": "Indeed",
+ "source_url": "https://www.indeed.com/cmp/Remote-People",
+ "quote": "Remote People has 201 to 500 employees.",
+ "checked_at": "2026-10-27T00:00:00Z",
+ "found_via": "web research (search index)"
+}

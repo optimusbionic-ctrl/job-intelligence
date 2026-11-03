@@ -1,0 +1,58 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-30T00:44:29Z",
+  "evidence": [],
+  "first_checked_at": "2026-10-30T00:44:29Z",
+  "india_based": false,
+  "method": "Careers board, posting text, web search",
+  "sig": "54391d7cdf",
+  "summary": "No public evidence yet about hiring from India.",
+  "verdict": "unclear",
+  "web": {
+   "checked_at": "2026-10-30T01:43:44Z",
+   "query": "\"Gamecloud Technologies Private Limited\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
+   "results": [
+    {
+     "description": "",
+     "title": "www.gamecloud-ltd.com",
+     "url": "https://www.gamecloud-ltd.com/career.html"
+    },
+    {
+     "description": "",
+     "title": "www.gamecloud-ltd.com",
+     "url": "https://www.gamecloud-ltd.com/career/"
+    },
+    {
+     "description": "",
+     "title": "news.ycombinator.com",
+     "url": "https://news.ycombinator.com/threads?id=mxmc"
+    },
+    {
+     "description": "",
+     "title": "← Back to jobs",
+     "url": "https://joinsaarthi.com/jobs/gamecloud-technologies/hiring-graduates-for-the-position-of-game-testing-quality-assurance-engineer-pune/589e26f0-6c14-461f-b6eb-1749d9a1f5ed"
+    },
+    {
+     "description": "",
+     "title": "gamecloud technologies private limited",
+     "url": "https://leadstal.com/sb/gamecloud-technologies-private-limited"
+    },
+    {
+     "description": "",
+     "title": "game closure",
+     "url": "https://flexjobs.com/remote-jobs/company/game_closure"
+    }
+   ]
+  }
+ },
+ "inferred": true,
+ "name": "Gamecloud Technologies Private Limited",
+ "slug": "gamecloud-technologies-private-limited",
+ "tier": 3,
+ "tracks": [
+  "game"
+ ]
+}

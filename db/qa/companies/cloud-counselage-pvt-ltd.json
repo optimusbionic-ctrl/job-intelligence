@@ -1,38 +1,38 @@
 {
-  "category": "Fintech",
-  "classification": "Inferred from job description",
-  "india_hiring": {
-    "board": null,
-    "changed_at": "2026-10-19T13:24:59Z",
-    "evidence": [
-      {
-        "detail": "QA Engineer — India",
-        "kind": "posting",
-        "label": "A current posting lists India as a location",
-        "url": "https://himalayas.app/companies/cloud-counselage-pvt-ltd/jobs/qa-engineer?utm_source=api",
-        "weight": 5
-      },
-      {
-        "detail": "…DATES ON JOB OPENINGS, FEEL FREE TO JOIN OUR COMMUNITY @ (4L+ MEMBERS FROM 35+ COUNTRIES)﻿ ﻿  Looking for a QA Engineer with 0 to 1 year of experience and kno…",
-        "kind": "posting",
-        "label": "Posting describes hiring across countries",
-        "url": "https://himalayas.app/companies/cloud-counselage-pvt-ltd/jobs/qa-engineer?utm_source=api",
-        "weight": 3
-      }
-    ],
-    "first_checked_at": "2026-10-19T13:24:59Z",
-    "india_based": false,
-    "method": "Careers board, posting text",
-    "sig": "5f6e86b985",
-    "summary": "A current posting lists India as a location.",
-    "verdict": "yes"
-  },
-  "inferred": true,
-  "logo": "https://cdn-images.himalayas.app/1a19q8s3wo8izvts0yio8wna692r",
-  "name": "Cloud Counselage Pvt Ltd",
-  "slug": "cloud-counselage-pvt-ltd",
-  "tier": 1,
-  "tracks": [
-    "software"
-  ]
+ "category": "Fintech",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-19T13:24:59Z",
+  "evidence": [
+   {
+    "detail": "QA Engineer — India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://himalayas.app/companies/cloud-counselage-pvt-ltd/jobs/qa-engineer?utm_source=api",
+    "weight": 5
+   },
+   {
+    "detail": "…DATES ON JOB OPENINGS, FEEL FREE TO JOIN OUR COMMUNITY @ (4L+ MEMBERS FROM 35+ COUNTRIES)﻿ ﻿  Looking for a QA Engineer with 0 to 1 year of experience and kno…",
+    "kind": "posting",
+    "label": "Posting describes hiring across countries",
+    "url": "https://himalayas.app/companies/cloud-counselage-pvt-ltd/jobs/qa-engineer?utm_source=api",
+    "weight": 3
+   }
+  ],
+  "first_checked_at": "2026-10-19T13:24:59Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "5f6e86b985",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "logo": "https://cdn-images.himalayas.app/1a19q8s3wo8izvts0yio8wna692r",
+ "name": "Cloud Counselage Pvt Ltd",
+ "slug": "cloud-counselage-pvt-ltd",
+ "tier": 1,
+ "tracks": [
+  "software"
+ ]
 }

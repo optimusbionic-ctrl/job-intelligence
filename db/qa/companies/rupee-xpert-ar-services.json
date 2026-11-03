@@ -3,17 +3,17 @@
  "classification": "Inferred from job description",
  "india_hiring": {
   "board": null,
-  "changed_at": "2026-10-27T10:50:24Z",
+  "changed_at": "2026-10-27T10:43:30Z",
   "evidence": [
    {
-    "detail": "Software Tester — Mumbai City, Pune, Bangalore, Noida, Delhi, Bhuj, India",
+    "detail": "Software Tester — Mumbai City, Pune, Panaji, Ahmedabad, Bangalore, Noida, India",
     "kind": "posting",
     "label": "A current posting lists India as a location",
     "url": "https://www.shine.com/jobs/software-tester/rupee-xpert-ar-services/19941374",
     "weight": 5
    }
   ],
-  "first_checked_at": "2026-10-27T10:50:24Z",
+  "first_checked_at": "2026-10-27T10:43:30Z",
   "india_based": false,
   "method": "Careers board, posting text",
   "sig": "6617059896",

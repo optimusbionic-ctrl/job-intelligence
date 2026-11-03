@@ -1,19 +1,19 @@
 {
-  "aliases": [
-    "Hyperbound"
-  ],
-  "ats": {
-    "slug": "hyperbound",
-    "type": "ashby"
-  },
-  "careers": "https://jobs.ashbyhq.com/hyperbound",
-  "category": "AI",
-  "classification": "Motion Intelligence registry (curated)",
-  "domain": "hyperbound.ai",
-  "facts_note": "HQ and maturity from public company information; funding not verified",
-  "hq": "San Francisco, US",
-  "maturity": "Early-stage",
-  "name": "Hyperbound",
+ "aliases": [
+  "Hyperbound"
+ ],
+ "ats": {
   "slug": "hyperbound",
-  "tier": 1
+  "type": "ashby"
+ },
+ "careers": "https://jobs.ashbyhq.com/hyperbound",
+ "category": "AI",
+ "classification": "Motion Intelligence registry (curated)",
+ "domain": "hyperbound.ai",
+ "facts_note": "HQ and maturity from public company information; funding not verified",
+ "hq": "San Francisco, US",
+ "maturity": "Early-stage",
+ "name": "Hyperbound",
+ "slug": "hyperbound",
+ "tier": 1
 }

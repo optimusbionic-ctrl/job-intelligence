@@ -1,125 +1,125 @@
 {
-  "apply_url": null,
-  "board_apply": "https://jobs.workable.com/view/pri9GRwAZ7pP4KxS2Z42qR/qa-engineer---manual-testing-in-bengaluru-at-weekday-ai",
-  "category": "Product / SaaS",
-  "comp_potential": "listed_good",
-  "company": "Weekday AI",
-  "company_slug": "weekday-ai",
-  "concerns": [
-    "Also asks for: API testing",
-    "Office outside Mumbai — relocation within India"
+ "apply_url": null,
+ "board_apply": "https://jobs.workable.com/view/pri9GRwAZ7pP4KxS2Z42qR/qa-engineer---manual-testing-in-bengaluru-at-weekday-ai",
+ "category": "Product / SaaS",
+ "comp_potential": "listed_good",
+ "company": "Weekday AI",
+ "company_slug": "weekday-ai",
+ "concerns": [
+  "Also asks for: API testing",
+  "Office outside Mumbai — relocation within India"
+ ],
+ "contacts_count": 0,
+ "content_hash": "1d53a49904d4",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-10-19T13:24:59Z",
+ "fit": 90,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "20ad61759eb860",
+ "include_reason": "Manual / functional QA title",
+ "india": {
+  "cities": [
+   "Bengaluru"
   ],
-  "contacts_count": 0,
-  "content_hash": "1d53a49904d4",
-  "date_quality": "exact",
-  "deadline": null,
-  "employment": "full-time",
-  "first_seen": "2026-10-19T13:24:59Z",
-  "fit": 90,
-  "has_hiring_manager": false,
-  "has_named_contact": false,
-  "has_public_email": false,
-  "id": "20ad61759eb860",
-  "include_reason": "Manual / functional QA title",
-  "india": {
-    "cities": [
-      "Bengaluru"
-    ],
-    "company": "yes",
-    "reason": "Location lists India",
-    "status": "confirmed",
-    "visa": false
-  },
-  "kind": "manual-qa",
-  "last_verified": "2026-10-19T13:24:59Z",
-  "location": "Bengaluru, Karnataka, India",
-  "logo": "https://workablehr.s3.amazonaws.com/uploads/account/logo/691818/logo",
-  "needs_review": false,
-  "official": false,
-  "posted_at": "2026-09-25T10:38:26Z",
-  "repost": false,
-  "requirements": [
-    "Perform functional, regression, exploratory, and negative testing.",
-    "Identify and document bugs with clear reproduction steps and expected vs. actual behaviour.",
-    "Re-test fixes and run regression checks before release.",
-    "Sign off on environments that meet the quality bar."
-  ],
-  "responsibilities": [
-    "Test web applications, UI flows, workflows, and edge cases.",
-    "Create and execute test cases based on product requirements.",
-    "Perform functional, regression, exploratory, and negative testing.",
-    "Identify and document bugs with clear reproduction steps and expected vs. actual behaviour.",
-    "Re-test fixes and run regression checks before release.",
-    "Identify gaps in requirements and test coverage.",
-    "Sign off on environments that meet the quality bar."
-  ],
-  "salary": {
-    "applies_india": true,
-    "basis": "listed",
-    "currency": "INR",
-    "fx_at": "Mon, 19 Oct 2026 00:02:32 +0000",
-    "fx_rate": 1,
-    "inr_max": 1500000,
-    "inr_min": 700000,
-    "max": 1500000,
-    "min": 700000,
-    "note": "Listed in the posting",
-    "original_period": "annual",
-    "period": "annual",
-    "source_name": "Workable job marketplace",
-    "source_url": "https://jobs.workable.com/view/pri9GRwAZ7pP4KxS2Z42qR/qa-engineer---manual-testing-in-bengaluru-at-weekday-ai",
-    "state": "verified",
-    "verified_at": "2026-10-19T13:24:59Z"
-  },
-  "scores": {
-    "ai": 68,
-    "comp": 100,
-    "company": 95,
-    "location": 60,
-    "seniority": 100,
-    "skill": 99
-  },
-  "seniority": "unspecified",
-  "snippet": "This role is for one of Weekday’s clients\nSalary range: Rs 700000 - Rs 1500000 (ie INR 7 - 15 LPA) \n\nMin Experience: 2+ years\nLocation: Bengaluru\nJobType: full-time\n\n As a Manual QA Engineer , you will be responsible for validating RL environments before they are shipped to clients. You’ll work closely with developers and product teams to identify bugs, test workflows, validate task graders, and ensure environments m",
-  "source_primary": "Workable job marketplace",
-  "sources": [
-    {
-      "id": "workable",
-      "job_id": "bdca5a40-03d6-4108-98ec-3d84e4c88a6d",
-      "kind": "board",
-      "name": "Workable job marketplace",
-      "posted_at": "2026-09-25T10:38:26Z",
-      "seen_at": "2026-10-19T13:24:59Z",
-      "url": "https://jobs.workable.com/view/pri9GRwAZ7pP4KxS2Z42qR/qa-engineer---manual-testing-in-bengaluru-at-weekday-ai"
-    }
-  ],
-  "specializations": [
-    "Web apps"
-  ],
-  "status": "active",
-  "tier": 1,
-  "title": "QA Engineer - Manual testing",
-  "tools": [
-    "Regression testing",
-    "Exploratory testing",
-    "Test cases & scenarios",
-    "Bug reporting",
-    "Jira",
-    "Google Sheets / Excel",
-    "API testing"
-  ],
-  "track": "software",
-  "updated_at": null,
-  "url": "https://jobs.workable.com/view/pri9GRwAZ7pP4KxS2Z42qR/qa-engineer---manual-testing-in-bengaluru-at-weekday-ai",
-  "why": [
-    "Manual / functional QA — the core of your resume",
-    "Already on your resume: Regression testing, Exploratory testing, Test cases & scenarios, Bug reporting, Jira, Google Sheets / Excel",
-    "Product / SaaS company",
-    "Asks for 1–3 years — you have about 2.5",
-    "Location lists India",
-    "Pay is listed in the posting"
-  ],
-  "work_mode": "onsite",
-  "years_max": 3,
-  "years_min": 1
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "manual-qa",
+ "last_verified": "2026-10-19T13:24:59Z",
+ "location": "Bengaluru, Karnataka, India",
+ "logo": "https://workablehr.s3.amazonaws.com/uploads/account/logo/691818/logo",
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-09-25T10:38:26Z",
+ "repost": false,
+ "requirements": [
+  "Perform functional, regression, exploratory, and negative testing.",
+  "Identify and document bugs with clear reproduction steps and expected vs. actual behaviour.",
+  "Re-test fixes and run regression checks before release.",
+  "Sign off on environments that meet the quality bar."
+ ],
+ "responsibilities": [
+  "Test web applications, UI flows, workflows, and edge cases.",
+  "Create and execute test cases based on product requirements.",
+  "Perform functional, regression, exploratory, and negative testing.",
+  "Identify and document bugs with clear reproduction steps and expected vs. actual behaviour.",
+  "Re-test fixes and run regression checks before release.",
+  "Identify gaps in requirements and test coverage.",
+  "Sign off on environments that meet the quality bar."
+ ],
+ "salary": {
+  "applies_india": true,
+  "basis": "listed",
+  "currency": "INR",
+  "fx_at": "Mon, 19 Oct 2026 00:02:32 +0000",
+  "fx_rate": 1,
+  "inr_max": 1500000,
+  "inr_min": 700000,
+  "max": 1500000,
+  "min": 700000,
+  "note": "Listed in the posting",
+  "original_period": "annual",
+  "period": "annual",
+  "source_name": "Workable job marketplace",
+  "source_url": "https://jobs.workable.com/view/pri9GRwAZ7pP4KxS2Z42qR/qa-engineer---manual-testing-in-bengaluru-at-weekday-ai",
+  "state": "verified",
+  "verified_at": "2026-10-19T13:24:59Z"
+ },
+ "scores": {
+  "ai": 68,
+  "comp": 100,
+  "company": 95,
+  "location": 60,
+  "seniority": 100,
+  "skill": 99
+ },
+ "seniority": "unspecified",
+ "snippet": "This role is for one of Weekday’s clients\nSalary range: Rs 700000 - Rs 1500000 (ie INR 7 - 15 LPA) \n\nMin Experience: 2+ years\nLocation: Bengaluru\nJobType: full-time\n\n As a Manual QA Engineer , you will be responsible for validating RL environments before they are shipped to clients. You’ll work closely with developers and product teams to identify bugs, test workflows, validate task graders, and ensure environments m",
+ "source_primary": "Workable job marketplace",
+ "sources": [
+  {
+   "id": "workable",
+   "job_id": "bdca5a40-03d6-4108-98ec-3d84e4c88a6d",
+   "kind": "board",
+   "name": "Workable job marketplace",
+   "posted_at": "2026-09-25T10:38:26Z",
+   "seen_at": "2026-10-19T13:24:59Z",
+   "url": "https://jobs.workable.com/view/pri9GRwAZ7pP4KxS2Z42qR/qa-engineer---manual-testing-in-bengaluru-at-weekday-ai"
+  }
+ ],
+ "specializations": [
+  "Web apps"
+ ],
+ "status": "active",
+ "tier": 1,
+ "title": "QA Engineer - Manual testing",
+ "tools": [
+  "Regression testing",
+  "Exploratory testing",
+  "Test cases & scenarios",
+  "Bug reporting",
+  "Jira",
+  "Google Sheets / Excel",
+  "API testing"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://jobs.workable.com/view/pri9GRwAZ7pP4KxS2Z42qR/qa-engineer---manual-testing-in-bengaluru-at-weekday-ai",
+ "why": [
+  "Manual / functional QA — the core of your resume",
+  "Already on your resume: Regression testing, Exploratory testing, Test cases & scenarios, Bug reporting, Jira, Google Sheets / Excel",
+  "Product / SaaS company",
+  "Asks for 1–3 years — you have about 2.5",
+  "Location lists India",
+  "Pay is listed in the posting"
+ ],
+ "work_mode": "onsite",
+ "years_max": 3,
+ "years_min": 1
 }

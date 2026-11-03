@@ -1,55 +1,55 @@
 {
-  "category": "AI",
-  "classification": "Inferred from job description",
-  "india_hiring": {
-    "board": null,
-    "changed_at": "2026-10-15T16:19:24Z",
-    "evidence": [],
-    "first_checked_at": "2026-10-15T16:19:24Z",
-    "india_based": false,
-    "method": "Careers board, posting text, web search",
-    "sig": "54391d7cdf",
-    "summary": "No public evidence yet about hiring from India.",
-    "verdict": "unclear",
-    "web": {
-      "checked_at": "2026-10-15T16:49:04Z",
-      "query": "\"DesignMe\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
-      "results": [
-        {
-          "description": "",
-          "title": "startup.jobs",
-          "url": "https://startup.jobs/job-boards/designremotely"
-        },
-        {
-          "description": "",
-          "title": "Build your career with global companies, without leaving India",
-          "url": "https://www.wisemonk.io/for-candidate"
-        },
-        {
-          "description": "",
-          "title": "senior product designer c4464e58 dc7a 4e30 bec3 d422aabe3b59",
-          "url": "https://www.flexjobs.com/publicjobs/senior-product-designer-c4464e58-dc7a-4e30-bec3-d422aabe3b59"
-        },
-        {
-          "description": "",
-          "title": "Remote Designer Jobs in India",
-          "url": "https://jobgether.com/remote-jobs/india/designer/3"
-        },
-        {
-          "description": "",
-          "title": "Open positions",
-          "url": "https://deerdesigner.hrpartner.io/jobs"
-        },
-        {
-          "description": "",
-          "title": "Senior Manager, Product Design",
-          "url": "https://ixdf.org/jobs/senior-manager-product-design-remote-6sgdsw"
-        }
-      ]
+ "category": "AI",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-15T16:19:24Z",
+  "evidence": [],
+  "first_checked_at": "2026-10-15T16:19:24Z",
+  "india_based": false,
+  "method": "Careers board, posting text, web search",
+  "sig": "54391d7cdf",
+  "summary": "No public evidence yet about hiring from India.",
+  "verdict": "unclear",
+  "web": {
+   "checked_at": "2026-10-29T17:27:14Z",
+   "query": "\"DesignMe\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
+   "results": [
+    {
+     "description": "",
+     "title": "startup.jobs",
+     "url": "https://startup.jobs/job-boards/designremotely"
+    },
+    {
+     "description": "",
+     "title": "Build your career with global companies, without leaving India",
+     "url": "https://www.wisemonk.io/for-candidate"
+    },
+    {
+     "description": "",
+     "title": "senior product designer c4464e58 dc7a 4e30 bec3 d422aabe3b59",
+     "url": "https://www.flexjobs.com/publicjobs/senior-product-designer-c4464e58-dc7a-4e30-bec3-d422aabe3b59"
+    },
+    {
+     "description": "",
+     "title": "senior designer 49c21232 906b 4626 a404 28696b5045f0",
+     "url": "https://www.flexjobs.com/publicjobs/senior-designer-49c21232-906b-4626-a404-28696b5045f0"
+    },
+    {
+     "description": "",
+     "title": "Remote Designer Jobs in India",
+     "url": "https://jobgether.com/remote-jobs/india/designer/3"
+    },
+    {
+     "description": "",
+     "title": "Open positions",
+     "url": "https://deerdesigner.hrpartner.io/jobs"
     }
-  },
-  "inferred": true,
-  "name": "DesignMe",
-  "slug": "designme",
-  "tier": 1
+   ]
+  }
+ },
+ "inferred": true,
+ "name": "DesignMe",
+ "slug": "designme",
+ "tier": 1
 }

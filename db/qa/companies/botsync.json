@@ -1,32 +1,32 @@
 {
-  "category": "Other",
-  "classification": "Inferred from job description",
-  "domain": "botsync.co",
-  "india_hiring": {
-    "board": null,
-    "changed_at": "2026-10-19T13:24:59Z",
-    "evidence": [
-      {
-        "detail": "Robotics Software Engineer - II (QA) — Bengaluru, Karnataka, India",
-        "kind": "posting",
-        "label": "A current posting lists India as a location",
-        "url": "https://jobs.workable.com/view/q8ts9h6BYt5Y5DTHHGAPte/robotics-software-engineer---ii-(qa)-in-bengaluru-at-botsync",
-        "weight": 5
-      }
-    ],
-    "first_checked_at": "2026-10-19T13:24:59Z",
-    "india_based": false,
-    "method": "Careers board, posting text",
-    "sig": "117bb3610f",
-    "summary": "A current posting lists India as a location.",
-    "verdict": "yes"
-  },
-  "inferred": true,
-  "logo": "https://workablehr.s3.amazonaws.com/uploads/account/logo/733253/logo",
-  "name": "Botsync",
-  "slug": "botsync",
-  "tier": 3,
-  "tracks": [
-    "software"
-  ]
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "domain": "botsync.co",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-19T13:24:59Z",
+  "evidence": [
+   {
+    "detail": "Robotics Software Engineer - II (QA) — Bengaluru, Karnataka, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://jobs.workable.com/view/q8ts9h6BYt5Y5DTHHGAPte/robotics-software-engineer---ii-(qa)-in-bengaluru-at-botsync",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-10-19T13:24:59Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "117bb3610f",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "logo": "https://workablehr.s3.amazonaws.com/uploads/account/logo/733253/logo",
+ "name": "Botsync",
+ "slug": "botsync",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
 }

@@ -1,0 +1,79 @@
+{
+ "apply_url": null,
+ "board_apply": "https://www.ringg.ai/careers/visual-motion-designer.md",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "Ringg AI",
+ "company_slug": "ringg-ai",
+ "concerns": [
+  "Employer has not confirmed hiring from India",
+  "Compensation not disclosed",
+  "Full description not available from this source"
+ ],
+ "contacts_count": 0,
+ "content_hash": "9fb3b6a652b4",
+ "date_quality": "unknown",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-10-30T00:27:41Z",
+ "fit": 54,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "be3bccf3e6a893",
+ "include_reason": "Motion design title",
+ "india": {
+  "cities": [],
+  "company": "unclear",
+  "reason": "Location not stated",
+  "status": "unconfirmed",
+  "visa": false
+ },
+ "kind": "motion",
+ "last_verified": "2026-10-30T00:27:41Z",
+ "location": "",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": null,
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 45,
+  "comp": 48,
+  "company": 40,
+  "location": 38,
+  "seniority": 66,
+  "skill": 69
+ },
+ "seniority": "unspecified",
+ "snippet": "",
+ "source_primary": "Ringg AI careers (via search index)",
+ "sources": [
+  {
+   "id": "web",
+   "job_id": "https://www.ringg.ai/careers/visual-motion-designer.md",
+   "kind": "search",
+   "name": "Ringg AI careers (via search index)",
+   "posted_at": null,
+   "seen_at": "2026-10-30T00:27:41Z",
+   "url": "https://www.ringg.ai/careers/visual-motion-designer.md"
+  }
+ ],
+ "specializations": [],
+ "status": "lead",
+ "tier": 3,
+ "title": "Visual Motion Designer",
+ "tools": [],
+ "updated_at": null,
+ "url": "https://www.ringg.ai/careers/visual-motion-designer.md",
+ "why": [
+  "Core motion design role"
+ ],
+ "work_mode": "unspecified",
+ "years_min": null
+}

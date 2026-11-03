@@ -1,84 +1,84 @@
 {
-  "category": "Other",
-  "classification": "Inferred from job description",
-  "india_hiring": {
-    "board": null,
-    "changed_at": "2026-10-16T03:28:23Z",
-    "evidence": [
-      {
-        "detail": "Senior Video Animation Designer — India",
-        "kind": "posting",
-        "label": "A current posting lists India as a location",
-        "url": "https://in.linkedin.com/jobs/view/senior-video-animation-designer-at-infosys-4474201843",
-        "weight": 5
-      },
-      {
-        "detail": "Infosys Careers | Find Job Opportunities for Who You Really Are — “India](https://career”",
-        "kind": "web",
-        "label": "Web mentions India hiring or an India office",
-        "url": "https://www.infosys.com/careers/apply.html",
-        "weight": 3
-      },
-      {
-        "detail": "Infosys Careers - Experienced Professionals — “India](https://career”",
-        "kind": "web",
-        "label": "Web mentions India hiring or an India office",
-        "url": "https://www.infosys.com/careers/experienced-professionals.html",
-        "weight": 3
-      },
-      {
-        "detail": "Infosys Careers - Graduates — “India](https://career”",
-        "kind": "web",
-        "label": "Web mentions India hiring or an India office",
-        "url": "https://www.infosys.com/careers/graduates.html",
-        "weight": 3
-      }
-    ],
-    "first_checked_at": "2026-10-15T16:19:24Z",
-    "india_based": false,
-    "method": "Careers board, posting text, web search",
-    "sig": "796b1e8b17",
-    "summary": "A current posting lists India as a location.",
-    "verdict": "yes",
-    "web": {
-      "checked_at": "2026-10-15T16:52:46Z",
-      "query": "\"Infosys\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
-      "results": [
-        {
-          "description": "# Infosys recognized as a Top Employer in the United States of America\n## Locations\nBellevue, WA, Bentonville, AR, Bridgewater, NJ, Ashburn, VA, Charlotte, NC ...",
-          "title": "Infosys Careers Americas",
-          "url": "https://www.infosys.com/careers/americas.html"
-        },
-        {
-          "description": "LocationArgentinaArmeniaAustraliaBahamasBelgiumBrazilBulgariaCanadaChileChinaCroatiaCzech RepublicDenmarkFinlandFranceGermanyGuernseyHong KongHungaryIndiaIrelandItalyJapanJerseyLuxembourgMalaysiaMaltaMauritiusMexicoNetherlandsNew ZealandNorwayPeruPhilippinesPolandRomaniaRussiaSaudi ArabiaSingaporeSlovakiaSouth AfricaSouth KoreaSpainSwedenSwitzerlandTaiwanUAEUnited KingdomUSA",
-          "title": "Infosys Careers | Move forward. Take the world with you.",
-          "url": "https://www.infosys.com/careers.html"
-        },
-        {
-          "description": "# Explore Openings ... [India](https://career.infosys.com/joblist?countrycode=IN&companyhiringtype=IL)",
-          "title": "Infosys Careers | Find Job Opportunities for Who You Really Are",
-          "url": "https://www.infosys.com/careers/apply.html"
-        },
-        {
-          "description": "Certified Top Employer across 4 regions and 20 countries.\n\n# Experienced Professionals\n## Discover AI-Driven Career Paths ... [India](https://career.infosys.com/joblist?countrycode=IN&companyhiringtype=IL)",
-          "title": "Infosys Careers - Experienced Professionals",
-          "url": "https://www.infosys.com/careers/experienced-professionals.html"
-        },
-        {
-          "description": "Jobs at Infosys · Pega Developer · Senior Solutions Architect · Network Engineer (L4) · SAP Senior Project Manager · Public Sector Sales Manager- SLED · Manhattan ...",
-          "title": "Infosys: Jobs - LinkedIn",
-          "url": "https://www.linkedin.com/company/infosys/jobs"
-        },
-        {
-          "description": "# Graduates\n## Your AI-Powered Career Awaits ... [India](https://career.infosys.com/joblist?countrycode=IN&companyhiringtype=IL)",
-          "title": "Infosys Careers - Graduates",
-          "url": "https://www.infosys.com/careers/graduates.html"
-        }
-      ]
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-16T03:28:23Z",
+  "evidence": [
+   {
+    "detail": "Senior Video Animation Designer — India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://in.linkedin.com/jobs/view/senior-video-animation-designer-at-infosys-4474201843",
+    "weight": 5
+   },
+   {
+    "detail": "Infosys Careers | Find Job Opportunities for Who You Really Are — “India](https://career”",
+    "kind": "web",
+    "label": "Web mentions India hiring or an India office",
+    "url": "https://www.infosys.com/careers/apply.html",
+    "weight": 3
+   },
+   {
+    "detail": "Infosys Careers - Experienced Professionals — “India](https://career”",
+    "kind": "web",
+    "label": "Web mentions India hiring or an India office",
+    "url": "https://www.infosys.com/careers/experienced-professionals.html",
+    "weight": 3
+   },
+   {
+    "detail": "Infosys Careers - Graduates — “India](https://career”",
+    "kind": "web",
+    "label": "Web mentions India hiring or an India office",
+    "url": "https://www.infosys.com/careers/graduates.html",
+    "weight": 3
+   }
+  ],
+  "first_checked_at": "2026-10-15T16:19:24Z",
+  "india_based": false,
+  "method": "Careers board, posting text, web search",
+  "sig": "796b1e8b17",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes",
+  "web": {
+   "checked_at": "2026-10-15T16:52:46Z",
+   "query": "\"Infosys\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
+   "results": [
+    {
+     "description": "# Infosys recognized as a Top Employer in the United States of America\n## Locations\nBellevue, WA, Bentonville, AR, Bridgewater, NJ, Ashburn, VA, Charlotte, NC ...",
+     "title": "Infosys Careers Americas",
+     "url": "https://www.infosys.com/careers/americas.html"
+    },
+    {
+     "description": "LocationArgentinaArmeniaAustraliaBahamasBelgiumBrazilBulgariaCanadaChileChinaCroatiaCzech RepublicDenmarkFinlandFranceGermanyGuernseyHong KongHungaryIndiaIrelandItalyJapanJerseyLuxembourgMalaysiaMaltaMauritiusMexicoNetherlandsNew ZealandNorwayPeruPhilippinesPolandRomaniaRussiaSaudi ArabiaSingaporeSlovakiaSouth AfricaSouth KoreaSpainSwedenSwitzerlandTaiwanUAEUnited KingdomUSA",
+     "title": "Infosys Careers | Move forward. Take the world with you.",
+     "url": "https://www.infosys.com/careers.html"
+    },
+    {
+     "description": "# Explore Openings ... [India](https://career.infosys.com/joblist?countrycode=IN&companyhiringtype=IL)",
+     "title": "Infosys Careers | Find Job Opportunities for Who You Really Are",
+     "url": "https://www.infosys.com/careers/apply.html"
+    },
+    {
+     "description": "Certified Top Employer across 4 regions and 20 countries.\n\n# Experienced Professionals\n## Discover AI-Driven Career Paths ... [India](https://career.infosys.com/joblist?countrycode=IN&companyhiringtype=IL)",
+     "title": "Infosys Careers - Experienced Professionals",
+     "url": "https://www.infosys.com/careers/experienced-professionals.html"
+    },
+    {
+     "description": "Jobs at Infosys · Pega Developer · Senior Solutions Architect · Network Engineer (L4) · SAP Senior Project Manager · Public Sector Sales Manager- SLED · Manhattan ...",
+     "title": "Infosys: Jobs - LinkedIn",
+     "url": "https://www.linkedin.com/company/infosys/jobs"
+    },
+    {
+     "description": "# Graduates\n## Your AI-Powered Career Awaits ... [India](https://career.infosys.com/joblist?countrycode=IN&companyhiringtype=IL)",
+     "title": "Infosys Careers - Graduates",
+     "url": "https://www.infosys.com/careers/graduates.html"
     }
-  },
-  "inferred": true,
-  "name": "Infosys",
-  "slug": "infosys",
-  "tier": 3
+   ]
+  }
+ },
+ "inferred": true,
+ "name": "Infosys",
+ "slug": "infosys",
+ "tier": 3
 }

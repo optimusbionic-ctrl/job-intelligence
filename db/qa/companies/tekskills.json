@@ -1,30 +1,30 @@
 {
-  "category": "Other",
-  "classification": "Inferred from job description",
-  "india_hiring": {
-    "board": null,
-    "changed_at": "2026-10-24T18:44:21Z",
-    "evidence": [
-      {
-        "detail": "QA Automation Engineer (AI/Agentic Testing) (Noida) — Noida, India",
-        "kind": "posting",
-        "label": "A current posting lists India as a location",
-        "url": "https://www.shine.com/jobs/qa-automation-engineer-ai-agentic-testing-noida/tekskills/19885807",
-        "weight": 5
-      }
-    ],
-    "first_checked_at": "2026-10-23T14:44:10Z",
-    "india_based": false,
-    "method": "Careers board, posting text",
-    "sig": "3746a5e744",
-    "summary": "A current posting lists India as a location.",
-    "verdict": "yes"
-  },
-  "inferred": true,
-  "name": "Tekskills",
-  "slug": "tekskills",
-  "tier": 3,
-  "tracks": [
-    "software"
-  ]
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-24T18:44:21Z",
+  "evidence": [
+   {
+    "detail": "QA Automation Engineer (AI/Agentic Testing) (Noida) — Noida, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/qa-automation-engineer-ai-agentic-testing-noida/tekskills/19885807",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-10-23T14:44:10Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "3746a5e744",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Tekskills",
+ "slug": "tekskills",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
 }

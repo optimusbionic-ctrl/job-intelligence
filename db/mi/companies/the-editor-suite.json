@@ -1,55 +1,55 @@
 {
-  "category": "Other",
-  "classification": "Inferred from job description",
-  "india_hiring": {
-    "board": null,
-    "changed_at": "2026-10-18T21:28:08Z",
-    "evidence": [],
-    "first_checked_at": "2026-10-18T21:28:08Z",
-    "india_based": false,
-    "method": "Careers board, posting text, web search",
-    "sig": "54391d7cdf",
-    "summary": "No public evidence yet about hiring from India.",
-    "verdict": "unclear",
-    "web": {
-      "checked_at": "2026-10-18T22:27:20Z",
-      "query": "\"The Editor Suite\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
-      "results": [
-        {
-          "description": "",
-          "title": "editor 2153579",
-          "url": "https://www.flexjobs.com/publicjobs/editor-2153579"
-        },
-        {
-          "description": "",
-          "title": "editor 1705823",
-          "url": "https://www.flexjobs.com/publicjobs/editor-1705823"
-        },
-        {
-          "description": "",
-          "title": "editor 2111778",
-          "url": "https://www.flexjobs.com/publicjobs/editor-2111778"
-        },
-        {
-          "description": "",
-          "title": "editor 1705823",
-          "url": "https://www.flexjobs.com/publicjobs/editor-1705823?id=1705823"
-        },
-        {
-          "description": "",
-          "title": "editor ii 146893bf a7dd 4f92 a040 872d1353bfd8",
-          "url": "https://www.flexjobs.com/publicjobs/editor-ii-146893bf-a7dd-4f92-a040-872d1353bfd8"
-        },
-        {
-          "description": "",
-          "title": "editor 22c0ff5d 7425 4c42 8f66 1084c7f11017",
-          "url": "https://www.flexjobs.com/publicjobs/editor-22c0ff5d-7425-4c42-8f66-1084c7f11017"
-        }
-      ]
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-18T21:28:08Z",
+  "evidence": [],
+  "first_checked_at": "2026-10-18T21:28:08Z",
+  "india_based": false,
+  "method": "Careers board, posting text, web search",
+  "sig": "54391d7cdf",
+  "summary": "No public evidence yet about hiring from India.",
+  "verdict": "unclear",
+  "web": {
+   "checked_at": "2026-10-18T22:27:20Z",
+   "query": "\"The Editor Suite\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
+   "results": [
+    {
+     "description": "",
+     "title": "editor 2153579",
+     "url": "https://www.flexjobs.com/publicjobs/editor-2153579"
+    },
+    {
+     "description": "",
+     "title": "editor 1705823",
+     "url": "https://www.flexjobs.com/publicjobs/editor-1705823"
+    },
+    {
+     "description": "",
+     "title": "editor 2111778",
+     "url": "https://www.flexjobs.com/publicjobs/editor-2111778"
+    },
+    {
+     "description": "",
+     "title": "editor 1705823",
+     "url": "https://www.flexjobs.com/publicjobs/editor-1705823?id=1705823"
+    },
+    {
+     "description": "",
+     "title": "editor ii 146893bf a7dd 4f92 a040 872d1353bfd8",
+     "url": "https://www.flexjobs.com/publicjobs/editor-ii-146893bf-a7dd-4f92-a040-872d1353bfd8"
+    },
+    {
+     "description": "",
+     "title": "editor 22c0ff5d 7425 4c42 8f66 1084c7f11017",
+     "url": "https://www.flexjobs.com/publicjobs/editor-22c0ff5d-7425-4c42-8f66-1084c7f11017"
     }
-  },
-  "inferred": true,
-  "name": "The Editor Suite",
-  "slug": "the-editor-suite",
-  "tier": 3
+   ]
+  }
+ },
+ "inferred": true,
+ "name": "The Editor Suite",
+ "slug": "the-editor-suite",
+ "tier": 3
 }

@@ -1,9 +1,9 @@
 {
-  "checked_at": "2026-10-19T17:44:21Z",
-  "found": 0,
-  "kind": "salary_company",
-  "name": "Planit",
-  "query": "\"Planit\" (QA OR tester OR \"test engineer\") salary (site:ambitionbox.com OR site:glassdoor.co.in OR site:glassdoor.com OR site:payscale.com)",
-  "results": 8,
-  "slug": "planit"
+ "checked_at": "2026-10-19T17:44:21Z",
+ "found": 0,
+ "kind": "salary_company",
+ "name": "Planit",
+ "query": "\"Planit\" (QA OR tester OR \"test engineer\") salary (site:ambitionbox.com OR site:glassdoor.co.in OR site:glassdoor.com OR site:payscale.com)",
+ "results": 8,
+ "slug": "planit"
 }

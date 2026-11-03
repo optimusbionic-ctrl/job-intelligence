@@ -1,27 +1,27 @@
 {
-  "category": "Other",
-  "classification": "Inferred from job description",
-  "india_hiring": {
-    "board": null,
-    "changed_at": "2026-10-15T16:19:24Z",
-    "evidence": [
-      {
-        "detail": "Motion Graphic Designer — India",
-        "kind": "posting",
-        "label": "A current posting lists India as a location",
-        "url": "https://in.linkedin.com/jobs/view/motion-graphic-designer-at-kheewa-incorporation-4473438480",
-        "weight": 5
-      }
-    ],
-    "first_checked_at": "2026-10-15T16:19:24Z",
-    "india_based": false,
-    "method": "Careers board, posting text",
-    "sig": "e32b267a62",
-    "summary": "A current posting lists India as a location.",
-    "verdict": "yes"
-  },
-  "inferred": true,
-  "name": "Kheewa Incorporation",
-  "slug": "kheewa-incorporation",
-  "tier": 3
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-15T16:19:24Z",
+  "evidence": [
+   {
+    "detail": "Motion Graphic Designer — India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://in.linkedin.com/jobs/view/motion-graphic-designer-at-kheewa-incorporation-4473438480",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-10-15T16:19:24Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "e32b267a62",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Kheewa Incorporation",
+ "slug": "kheewa-incorporation",
+ "tier": 3
 }

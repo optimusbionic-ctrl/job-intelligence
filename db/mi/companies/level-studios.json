@@ -1,0 +1,55 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-30T00:27:41Z",
+  "evidence": [],
+  "first_checked_at": "2026-10-30T00:27:41Z",
+  "india_based": false,
+  "method": "Careers board, posting text, web search",
+  "sig": "54391d7cdf",
+  "summary": "No public evidence yet about hiring from India.",
+  "verdict": "unclear",
+  "web": {
+   "checked_at": "2026-10-30T02:26:52Z",
+   "query": "\"LEVEL Studios\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
+   "results": [
+    {
+     "description": "",
+     "title": "LEVEL Studios logo",
+     "url": "https://www.indeed.com/cmp/Level-Studios"
+    },
+    {
+     "description": "",
+     "title": "LEVEL Studios logo",
+     "url": "https://in.indeed.com/cmp/Level-Studios"
+    },
+    {
+     "description": "",
+     "title": "Level - Virtual Specialists logo",
+     "url": "https://ph.indeed.com/cmp/Level---Virtual-Specialists-1"
+    },
+    {
+     "description": "",
+     "title": "net developer at level wkdy73oc0c",
+     "url": "https://jobs.weekday.works/net-developer-at-level-wkdy73oc0c"
+    },
+    {
+     "description": "",
+     "title": "Build your career with global companies, without leaving India",
+     "url": "https://www.wisemonk.io/for-candidate"
+    },
+    {
+     "description": "",
+     "title": "LEVEL logo",
+     "url": "https://www.indeed.com/cmp/Level"
+    }
+   ]
+  }
+ },
+ "inferred": true,
+ "name": "LEVEL Studios",
+ "slug": "level-studios",
+ "tier": 3
+}

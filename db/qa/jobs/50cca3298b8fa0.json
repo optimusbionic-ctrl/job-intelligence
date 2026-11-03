@@ -1,88 +1,88 @@
 {
-  "apply_url": null,
-  "board_apply": "https://www.shine.com/jobs/hrms-qa-engineer/infovision-hr-consulting-services-pvt-ltd/19827620",
-  "category": "Recruiter (client not named)",
-  "comp_potential": "unknown",
-  "company": "Infovision HR Consulting Services Pvt Ltd",
-  "company_slug": "infovision-hr-consulting-services-pvt-ltd",
-  "concerns": [
-    "Also asks for: SQL / databases",
-    "Asks for 4+ years — you have about 2.5",
-    "Pay not disclosed — ask for the range early"
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/hrms-qa-engineer/infovision-hr-consulting-services-pvt-ltd/19827620",
+ "category": "Recruiter (client not named)",
+ "comp_potential": "unknown",
+ "company": "Infovision HR Consulting Services Pvt Ltd",
+ "company_slug": "infovision-hr-consulting-services-pvt-ltd",
+ "concerns": [
+  "Also asks for: SQL / databases",
+  "Asks for 4+ years — you have about 2.5",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "185a40f0e443",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-10-20T13:44:34Z",
+ "fit": 68,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "50cca3298b8fa0",
+ "include_reason": "QA / test engineer title",
+ "india": {
+  "cities": [
+   "Mumbai"
   ],
-  "contacts_count": 0,
-  "content_hash": "185a40f0e443",
-  "date_quality": "exact",
-  "deadline": null,
-  "employment": "full-time",
-  "first_seen": "2026-10-20T13:44:34Z",
-  "fit": 68,
-  "has_hiring_manager": false,
-  "has_named_contact": false,
-  "has_public_email": false,
-  "id": "50cca3298b8fa0",
-  "include_reason": "QA / test engineer title",
-  "india": {
-    "cities": [
-      "Mumbai"
-    ],
-    "company": "yes",
-    "reason": "Location lists India",
-    "status": "confirmed",
-    "visa": false
-  },
-  "kind": "qa-engineer",
-  "last_verified": "2026-10-21T01:43:55Z",
-  "location": "Navi Mumbai, Mumbai City, Thane, India",
-  "logo": null,
-  "needs_review": false,
-  "official": false,
-  "posted_at": "2026-10-16T12:52:23Z",
-  "repost": false,
-  "requirements": [],
-  "responsibilities": [],
-  "salary": {
-    "state": "unavailable"
-  },
-  "scores": {
-    "ai": 58,
-    "comp": 60,
-    "company": 66,
-    "location": 100,
-    "seniority": 72,
-    "skill": 57
-  },
-  "seniority": "unspecified",
-  "snippet": "Experience: 4 to 8 Yrs\nSkills: hrms, hcm, core hr, attendance, sql, qa engineer, software tester, functional tester, employee lifecycle, leave\n(Summary from the Shine.com listing; open the posting for the full description.)",
-  "source_primary": "Shine.com",
-  "sources": [
-    {
-      "id": "shine",
-      "job_id": "19827620",
-      "kind": "board",
-      "name": "Shine.com",
-      "posted_at": "2026-10-16T12:52:23Z",
-      "seen_at": "2026-10-21T01:43:55Z",
-      "url": "https://www.shine.com/jobs/hrms-qa-engineer/infovision-hr-consulting-services-pvt-ltd/19827620"
-    }
-  ],
-  "specializations": [],
-  "status": "active",
-  "tier": 3,
-  "title": "HRMS QA Engineer",
-  "tools": [
-    "Functional testing",
-    "SQL / databases"
-  ],
-  "track": "software",
-  "updated_at": null,
-  "url": "https://www.shine.com/jobs/hrms-qa-engineer/infovision-hr-consulting-services-pvt-ltd/19827620",
-  "why": [
-    "QA / test engineer role",
-    "Already on your resume: Functional testing",
-    "Location lists India"
-  ],
-  "work_mode": "onsite",
-  "years_max": 8,
-  "years_min": 4
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "qa-engineer",
+ "last_verified": "2026-10-21T01:43:55Z",
+ "location": "Navi Mumbai, Mumbai City, Thane, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-10-16T12:52:23Z",
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 60,
+  "company": 66,
+  "location": 100,
+  "seniority": 72,
+  "skill": 57
+ },
+ "seniority": "unspecified",
+ "snippet": "Experience: 4 to 8 Yrs\nSkills: hrms, hcm, core hr, attendance, sql, qa engineer, software tester, functional tester, employee lifecycle, leave\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "19827620",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-10-16T12:52:23Z",
+   "seen_at": "2026-10-21T01:43:55Z",
+   "url": "https://www.shine.com/jobs/hrms-qa-engineer/infovision-hr-consulting-services-pvt-ltd/19827620"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 3,
+ "title": "HRMS QA Engineer",
+ "tools": [
+  "Functional testing",
+  "SQL / databases"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/hrms-qa-engineer/infovision-hr-consulting-services-pvt-ltd/19827620",
+ "why": [
+  "QA / test engineer role",
+  "Already on your resume: Functional testing",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": 8,
+ "years_min": 4
 }

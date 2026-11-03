@@ -1,27 +1,27 @@
 {
-  "category": "Other",
-  "classification": "Inferred from job description",
-  "india_hiring": {
-    "board": null,
-    "changed_at": "2026-10-16T18:28:10Z",
-    "evidence": [
-      {
-        "detail": "Motion Graphic Designer — Patel Nagar, India",
-        "kind": "posting",
-        "label": "A current posting lists India as a location",
-        "url": "https://in.linkedin.com/jobs/view/motion-graphic-designer-at-instaserv-india-pvt-ltd-4479120275",
-        "weight": 5
-      }
-    ],
-    "first_checked_at": "2026-10-16T18:28:10Z",
-    "india_based": false,
-    "method": "Careers board, posting text",
-    "sig": "d8ae74ac77",
-    "summary": "A current posting lists India as a location.",
-    "verdict": "yes"
-  },
-  "inferred": true,
-  "name": "InstaServ India Pvt Ltd",
-  "slug": "instaserv-india-pvt-ltd",
-  "tier": 3
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-16T18:28:10Z",
+  "evidence": [
+   {
+    "detail": "Motion Graphic Designer — Patel Nagar, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://in.linkedin.com/jobs/view/motion-graphic-designer-at-instaserv-india-pvt-ltd-4479120275",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-10-16T18:28:10Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "d8ae74ac77",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "InstaServ India Pvt Ltd",
+ "slug": "instaserv-india-pvt-ltd",
+ "tier": 3
 }

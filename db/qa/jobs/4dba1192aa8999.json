@@ -1,0 +1,105 @@
+{
+ "apply_url": null,
+ "board_apply": "https://himalayas.app/companies/full-potential-solutions/jobs/sde-ii-qa-engineer?utm_source=api",
+ "category": "IT services",
+ "comp_potential": "unknown",
+ "company": "Full Potential Solutions",
+ "company_slug": "full-potential-solutions",
+ "concerns": [
+  "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
+  "Also asks for: Test management (TestRail/Zephyr), API testing, Programming",
+  "Pay not disclosed — ask for the range early",
+  "IT services company (client projects)"
+ ],
+ "contacts_count": 0,
+ "content_hash": "56904564d8b5",
+ "date_quality": "exact",
+ "deadline": "2026-12-28T11:26:15Z",
+ "employment": "full-time",
+ "first_seen": "2026-10-29T12:55:23Z",
+ "fit": 74,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "4dba1192aa8999",
+ "include_reason": "Automation-heavy QA (SDET)",
+ "india": {
+  "cities": [],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "automation",
+ "last_verified": "2026-10-29T12:55:23Z",
+ "location": "India",
+ "logo": "https://cdn-images.himalayas.app/nb0dcjrnvcqwp13dfvywolbhl0xn",
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-10-29T11:26:16Z",
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [
+  "Utilize ISTQB Foundation certification with SDLC, STLC, and testing concepts, such as regression",
+  "testing, performance testing, bug life cycle, boundary value analysis, positive vs. negative testing,",
+  "Strong conceptual knowledge of web and mobile automation encompassing WebDriver, Browser",
+  "Drivers, Supported Languages, Locators, Implicit and Explicit Waits, Page Object Model, Headless",
+  "Browsers, Selenium Grid, Appium Server, JSON wire protocol, Desired Capabilities, and Appium"
+ ],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 62,
+  "comp": 60,
+  "company": 76,
+  "location": 100,
+  "seniority": 92,
+  "skill": 58
+ },
+ "seniority": "mid",
+ "snippet": "About Us\n Full Potential Solutions (FPS) is a performance-based, analytically driven omnichannel solutions organization with operations in Waltham, MA, Chennai, India, Bogota, Colombia, and Manila, Philippines that puts culture and employees first. We are a rapidly growing global company, employing the best people, processes, and proprietary technology to deliver groundbreaking solutions for our clients and fulfillin",
+ "source_primary": "Himalayas",
+ "sources": [
+  {
+   "id": "himalayas",
+   "job_id": "https://himalayas.app/companies/full-potential-solutions/jobs/sde-ii-qa-engineer",
+   "kind": "board",
+   "name": "Himalayas",
+   "posted_at": "2026-10-29T11:26:16Z",
+   "seen_at": "2026-10-29T12:55:23Z",
+   "url": "https://himalayas.app/companies/full-potential-solutions/jobs/sde-ii-qa-engineer?utm_source=api"
+  }
+ ],
+ "specializations": [
+  "Web apps"
+ ],
+ "status": "active",
+ "tier": 2,
+ "title": "SDE- II QA Engineer",
+ "tools": [
+  "Regression testing",
+  "Stress / load testing",
+  "Test cases & scenarios",
+  "Bug reporting",
+  "Jira",
+  "Bugzilla",
+  "Google Sheets / Excel",
+  "Test management (TestRail/Zephyr)",
+  "API testing",
+  "Test automation",
+  "Programming",
+  "Agile / Scrum",
+  "ISTQB"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://himalayas.app/companies/full-potential-solutions/jobs/sde-ii-qa-engineer?utm_source=api",
+ "why": [
+  "Already on your resume: Regression testing, Stress / load testing, Test cases & scenarios, Bug reporting, Jira, Bugzilla",
+  "Location lists India"
+ ],
+ "work_mode": "remote",
+ "years_max": null,
+ "years_min": null
+}

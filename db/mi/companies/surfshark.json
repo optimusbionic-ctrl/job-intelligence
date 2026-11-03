@@ -1,19 +1,19 @@
 {
-  "aliases": [
-    "Surfshark"
-  ],
-  "ats": {
-    "slug": "surfshark",
-    "type": "ashby"
-  },
-  "careers": "https://jobs.ashbyhq.com/surfshark",
-  "category": "Cybersecurity",
-  "classification": "Motion Intelligence registry (curated)",
-  "domain": "surfshark.com",
-  "facts_note": "HQ and maturity from public company information; funding not verified",
-  "hq": "Vilnius, LT",
-  "maturity": "Late-stage private",
-  "name": "Surfshark",
+ "aliases": [
+  "Surfshark"
+ ],
+ "ats": {
   "slug": "surfshark",
-  "tier": 1
+  "type": "ashby"
+ },
+ "careers": "https://jobs.ashbyhq.com/surfshark",
+ "category": "Cybersecurity",
+ "classification": "Motion Intelligence registry (curated)",
+ "domain": "surfshark.com",
+ "facts_note": "HQ and maturity from public company information; funding not verified",
+ "hq": "Vilnius, LT",
+ "maturity": "Late-stage private",
+ "name": "Surfshark",
+ "slug": "surfshark",
+ "tier": 1
 }

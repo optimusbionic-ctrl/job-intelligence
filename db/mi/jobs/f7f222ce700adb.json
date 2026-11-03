@@ -1,104 +1,105 @@
 {
-  "apply_url": null,
-  "board_apply": "https://himalayas.app/companies/replika/jobs/motion-designer-growth?utm_source=api",
-  "category": "AI",
-  "comp_potential": "unknown",
-  "company": "Replika",
-  "company_slug": "replika",
-  "concerns": [
-    "Compensation not disclosed"
-  ],
-  "contacts_count": 0,
-  "content_hash": "f12e308bac47",
-  "date_quality": "exact",
-  "deadline": "2026-12-13T16:51:20Z",
-  "employment": "full-time",
-  "first_seen": "2026-10-15T15:27:11Z",
-  "fit": 75,
-  "has_hiring_manager": false,
-  "has_named_contact": false,
-  "has_public_email": false,
-  "id": "f7f222ce700adb",
-  "include_reason": "Motion design title",
-  "india": {
-    "cities": [],
-    "company": "likely",
-    "reason": "Worldwide remote",
-    "status": "likely",
-    "visa": false
-  },
-  "kind": "motion",
-  "last_verified": "2026-10-18T23:27:04Z",
-  "location": "Worldwide",
-  "logo": "https://cdn-images.himalayas.app/mwm6f4jvrm6vlav39huqprol9ibs",
-  "needs_review": false,
-  "official": false,
-  "posted_at": "2026-10-14T16:51:20Z",
-  "repost": false,
-  "requirements": [
-    "A strong motion design portfolio (a portfolio of ad creatives that performed in real paid campaigns is a plus).",
-    "Hands-on mastery of After Effects, Figma, and the rest of the Adobe Creative Suite — plus whatever visual editing tools get the job done.",
-    "Good taste and a strong eye for composition, colour, and easing — the details that make motion polished and pleasant to watch.",
-    "A feel for ad structure — hook, emotion, CTA — and the pacing and timing that hold attention in the first few seconds.",
-    "A knack for making stop-scrollers that still make Replika look and feel on brand.",
-    "You actively use AI models across your work — image, video, and sound — and know how to weave them into your workflow to get the best possible results out of generated media.",
-    "A real interest in the product and the people who use it."
-  ],
-  "responsibilities": [
-    "Replika is growing fast, and paid social is one of the biggest drivers of that growth. The ads people see on TikTok, Meta, and YouTube are often their first impression of Replika — and this role owns the motion behind them.",
-    "The goal is simple: creative that stops the scroll, gets people to try Replika , and looks and feels like Replika while doing it.",
-    "Concept and animate video ads and UGC creatives for paid social — from first idea to finished, ready-to-run ad — for Meta, TikTok, YouTube, and wherever attention moves next.",
-    "Bring your own concepts and hooks to the table — spot fresh angles, pitch them, and turn the best ones into ads worth testing.",
-    "Explore a range of creative styles — from polished motion to raw, native-feeling UGC — to find what breaks through.",
-    "Produce a steady stream of new creative and variations at the pace paid social demands, without dropping quality.",
-    "Work with producers and UAMs, and keep an eye on what’s working across the market, to turn briefs into winners — and winners into more winners."
-  ],
-  "salary": {
-    "context_benchmark": "mi-dataset-remote",
-    "note": "Not disclosed. Global remote pay context is available, but there is no evidence it applies to this employer or to India-based hires.",
-    "state": "unavailable"
-  },
-  "scores": {
-    "ai": 72,
-    "comp": 48,
-    "company": 98,
-    "location": 92,
-    "seniority": 66,
-    "skill": 74
-  },
-  "seniority": "unspecified",
-  "snippet": "About Replika \n\n Ten years ago, we built the world’s first AI companion — before LLMs, before ChatGPT, and before anyone knew what AI could be.\n What started as a way to patch a hole in our hearts became something unexpected: a catalyst. Millions of people told us Replika helped them reconnect with the world. They texted that old friend. They picked up that forgotten hobby. They took that walk around town. While toda",
-  "source_primary": "Himalayas",
-  "sources": [
-    {
-      "id": "himalayas",
-      "job_id": "https://himalayas.app/companies/replika/jobs/motion-designer-growth",
-      "kind": "board",
-      "name": "Himalayas",
-      "posted_at": "2026-10-14T16:51:20Z",
-      "seen_at": "2026-10-18T23:27:04Z",
-      "url": "https://himalayas.app/companies/replika/jobs/motion-designer-growth?utm_source=api"
-    }
-  ],
-  "specializations": [
-    "Interaction systems"
-  ],
-  "status": "active",
-  "tier": 1,
-  "title": "Motion Designer, Growth",
-  "tools": [
-    "After Effects",
-    "Figma"
-  ],
-  "updated_at": null,
-  "url": "https://himalayas.app/companies/replika/jobs/motion-designer-growth?utm_source=api",
-  "why": [
-    "Core motion design role",
-    "Tools you already use: After Effects, Figma",
-    "Specialisations in scope: Interaction systems",
-    "AI company (Tier 1 priority)",
-    "Worldwide remote"
-  ],
-  "work_mode": "remote",
-  "years_min": null
+ "apply_url": null,
+ "board_apply": "https://himalayas.app/companies/replika/jobs/motion-designer-growth?utm_source=api",
+ "category": "AI",
+ "comp_potential": "unknown",
+ "company": "Replika",
+ "company_slug": "replika",
+ "concerns": [
+  "Compensation not disclosed",
+  "Reposted / refreshed listing — original posting is older"
+ ],
+ "contacts_count": 0,
+ "content_hash": "e47f6f5d7bfa",
+ "date_quality": "exact",
+ "deadline": "2026-12-28T17:08:26Z",
+ "employment": "full-time",
+ "first_seen": "2026-10-15T15:27:11Z",
+ "fit": 75,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "f7f222ce700adb",
+ "include_reason": "Motion design title",
+ "india": {
+  "cities": [],
+  "company": "likely",
+  "reason": "Worldwide remote",
+  "status": "likely",
+  "visa": false
+ },
+ "kind": "motion",
+ "last_verified": "2026-10-29T19:26:56Z",
+ "location": "Worldwide",
+ "logo": "https://cdn-images.himalayas.app/mwm6f4jvrm6vlav39huqprol9ibs",
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-10-29T17:08:26Z",
+ "repost": true,
+ "requirements": [
+  "A strong motion design portfolio (a portfolio of ad creatives that performed in real paid campaigns is a plus).",
+  "Hands-on mastery of After Effects, Figma, and the rest of the Adobe Creative Suite — plus whatever visual editing tools get the job done.",
+  "Good taste and a strong eye for composition, colour, and easing — the details that make motion polished and pleasant to watch.",
+  "A feel for ad structure — hook, emotion, CTA — and the pacing and timing that hold attention in the first few seconds.",
+  "A knack for making stop-scrollers that still make Replika look and feel on brand.",
+  "You actively use AI models across your work — image, video, and sound — and know how to weave them into your workflow to get the best possible results out of generated media.",
+  "A real interest in the product and the people who use it."
+ ],
+ "responsibilities": [
+  "Replika is growing fast, and paid social is one of the biggest drivers of that growth. The ads people see on TikTok, Meta, and YouTube are often their first impression of Replika — and this role owns the motion behind them.",
+  "The goal is simple: creative that stops the scroll, gets people to try Replika , and looks and feels like Replika while doing it.",
+  "Concept and animate video ads and UGC creatives for paid social — from first idea to finished, ready-to-run ad — for Meta, TikTok, YouTube, and wherever attention moves next.",
+  "Bring your own concepts and hooks to the table — spot fresh angles, pitch them, and turn the best ones into ads worth testing.",
+  "Explore a range of creative styles — from polished motion to raw, native-feeling UGC — to find what breaks through.",
+  "Produce a steady stream of new creative and variations at the pace paid social demands, without dropping quality.",
+  "Work with producers and UAMs, and keep an eye on what’s working across the market, to turn briefs into winners — and winners into more winners."
+ ],
+ "salary": {
+  "context_benchmark": "mi-dataset-remote",
+  "note": "Not disclosed. Global remote pay context is available, but there is no evidence it applies to this employer or to India-based hires.",
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 72,
+  "comp": 48,
+  "company": 98,
+  "location": 92,
+  "seniority": 66,
+  "skill": 74
+ },
+ "seniority": "unspecified",
+ "snippet": "About Replika \n\n Ten years ago, we built the world’s first AI companion — before LLMs, before ChatGPT, and before anyone knew what AI could be.\n What started as a way to patch a hole in our hearts became something unexpected: a catalyst. Millions of people told us Replika helped them reconnect with the world. They texted that old friend. They picked up that forgotten hobby. They took that walk around town. While toda",
+ "source_primary": "Himalayas",
+ "sources": [
+  {
+   "id": "himalayas",
+   "job_id": "https://himalayas.app/companies/replika/jobs/motion-designer-growth",
+   "kind": "board",
+   "name": "Himalayas",
+   "posted_at": "2026-10-29T17:08:26Z",
+   "seen_at": "2026-10-29T19:26:56Z",
+   "url": "https://himalayas.app/companies/replika/jobs/motion-designer-growth?utm_source=api"
+  }
+ ],
+ "specializations": [
+  "Interaction systems"
+ ],
+ "status": "active",
+ "tier": 1,
+ "title": "Motion Designer, Growth",
+ "tools": [
+  "After Effects",
+  "Figma"
+ ],
+ "updated_at": null,
+ "url": "https://himalayas.app/companies/replika/jobs/motion-designer-growth?utm_source=api",
+ "why": [
+  "Core motion design role",
+  "Tools you already use: After Effects, Figma",
+  "Specialisations in scope: Interaction systems",
+  "AI company (Tier 1 priority)",
+  "Worldwide remote"
+ ],
+ "work_mode": "remote",
+ "years_min": null
 }

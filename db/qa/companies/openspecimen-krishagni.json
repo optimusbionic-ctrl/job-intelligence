@@ -3,7 +3,7 @@
  "classification": "Inferred from job description",
  "india_hiring": {
   "board": null,
-  "changed_at": "2026-10-27T10:50:24Z",
+  "changed_at": "2026-10-27T10:43:30Z",
   "evidence": [
    {
     "detail": "Quality analyst / Business analyst — India",
@@ -20,7 +20,7 @@
     "weight": 3
    }
   ],
-  "first_checked_at": "2026-10-27T10:50:24Z",
+  "first_checked_at": "2026-10-27T10:43:30Z",
   "india_based": false,
   "method": "Careers board, posting text",
   "sig": "aa84d87548",

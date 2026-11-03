@@ -1,67 +1,67 @@
 {
-  "category": "Other",
-  "classification": "Inferred from job description",
-  "india_hiring": {
-    "board": null,
-    "changed_at": "2026-10-22T21:44:47Z",
-    "evidence": [
-      {
-        "detail": "QA Engineer – 2D & Creative Applications — Worldwide",
-        "kind": "posting",
-        "label": "A current posting is open worldwide",
-        "url": "https://himalayas.app/companies/micro1/jobs/qa-engineer-2d-creative-applications?utm_source=api",
-        "weight": 3
-      }
-    ],
-    "first_checked_at": "2026-10-19T13:24:59Z",
-    "india_based": false,
-    "method": "Careers board, posting text, web search",
-    "sig": "d6c3dae2b5",
-    "summary": "No India-located roles found, but a current posting is open worldwide.",
-    "verdict": "likely",
-    "web": {
-      "checked_at": "2026-10-19T14:17:45Z",
-      "query": "\"micro1\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
-      "results": [
-        {
-          "description": "",
-          "title": "What is Micro1? The AI recruiting platform explained (2026)",
-          "url": "https://www.eesel.ai/blog/micro1"
-        },
-        {
-          "description": "",
-          "title": "🗓️ September - Remote Roles at Leading AI Company",
-          "url": "https://br.linkedin.com/in/lucasalmeida70"
-        },
-        {
-          "description": "",
-          "title": "www.ownyourcareer.in",
-          "url": "https://www.ownyourcareer.in/companies/micro1"
-        },
-        {
-          "description": "",
-          "title": "Curated remote opportunities",
-          "url": "https://remowork.life/remote-jobs-in/india?page=10"
-        },
-        {
-          "description": "",
-          "title": "Curated remote opportunities",
-          "url": "https://remowork.life/remote-jobs-in/india?page=4"
-        },
-        {
-          "description": "",
-          "title": "micro 1",
-          "url": "https://new.trabajito.com.bo/empresas/micro-1"
-        }
-      ]
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-22T21:44:47Z",
+  "evidence": [
+   {
+    "detail": "QA Engineer – 2D & Creative Applications — Worldwide",
+    "kind": "posting",
+    "label": "A current posting is open worldwide",
+    "url": "https://himalayas.app/companies/micro1/jobs/qa-engineer-2d-creative-applications?utm_source=api",
+    "weight": 3
+   }
+  ],
+  "first_checked_at": "2026-10-19T13:24:59Z",
+  "india_based": false,
+  "method": "Careers board, posting text, web search",
+  "sig": "d6c3dae2b5",
+  "summary": "No India-located roles found, but a current posting is open worldwide.",
+  "verdict": "likely",
+  "web": {
+   "checked_at": "2026-10-19T14:17:45Z",
+   "query": "\"micro1\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
+   "results": [
+    {
+     "description": "",
+     "title": "What is Micro1? The AI recruiting platform explained (2026)",
+     "url": "https://www.eesel.ai/blog/micro1"
+    },
+    {
+     "description": "",
+     "title": "🗓️ September - Remote Roles at Leading AI Company",
+     "url": "https://br.linkedin.com/in/lucasalmeida70"
+    },
+    {
+     "description": "",
+     "title": "www.ownyourcareer.in",
+     "url": "https://www.ownyourcareer.in/companies/micro1"
+    },
+    {
+     "description": "",
+     "title": "Curated remote opportunities",
+     "url": "https://remowork.life/remote-jobs-in/india?page=10"
+    },
+    {
+     "description": "",
+     "title": "Curated remote opportunities",
+     "url": "https://remowork.life/remote-jobs-in/india?page=4"
+    },
+    {
+     "description": "",
+     "title": "micro 1",
+     "url": "https://new.trabajito.com.bo/empresas/micro-1"
     }
-  },
-  "inferred": true,
-  "logo": "https://cdn-images.himalayas.app/91oa56akgt3qjqc1nh3uoruub40c",
-  "name": "micro1",
-  "slug": "micro1",
-  "tier": 3,
-  "tracks": [
-    "software"
-  ]
+   ]
+  }
+ },
+ "inferred": true,
+ "logo": "https://cdn-images.himalayas.app/91oa56akgt3qjqc1nh3uoruub40c",
+ "name": "micro1",
+ "slug": "micro1",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
 }

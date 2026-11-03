@@ -1,48 +1,55 @@
 {
-  "category": "Other",
-  "classification": "Inferred from job description",
-  "india_hiring": {
-    "board": null,
-    "changed_at": "2026-10-15T16:19:24Z",
-    "evidence": [
-      {
-        "detail": "The Beauty Tech Group Trading Limited - Workable Jobs — “Lists roles only in Netherlands”",
-        "kind": "web",
-        "label": "Web suggests hiring is limited to named countries",
-        "url": "https://apply.workable.com/thebeautytechgroup/?lng=en",
-        "weight": -1
-      }
-    ],
-    "first_checked_at": "2026-10-15T16:19:24Z",
-    "india_based": false,
-    "method": "Careers board, posting text, web search",
-    "sig": "dc41c43837",
-    "summary": "No public evidence yet about hiring from India.",
-    "verdict": "unclear",
-    "web": {
-      "checked_at": "2026-10-15T16:19:24Z",
-      "query": "\"The Beauty Tech Group Trading Limited\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
-      "results": [
-        {
-          "description": "Job Openings. Enschede, Overijssel, Netherlands",
-          "title": "The Beauty Tech Group Trading Limited - Workable Jobs",
-          "url": "https://apply.workable.com/thebeautytechgroup/?lng=en"
-        },
-        {
-          "description": "The beauty tech group jobs. Company Secretary. The Beauty Tech Group Trading Limited. Manchester ...",
-          "title": "The Beauty Tech Group Jobs (with Salaries) | Indeed United Kingdom",
-          "url": "https://uk.indeed.com/q-the-beauty-tech-group-jobs.html"
-        },
-        {
-          "description": "The Beauty Tech Group Trading Limited is hiring: Influencer Marketing Executive. Manchester, NH, USA · Remote",
-          "title": "The Beauty Tech Group Trading Limited is hiring: Influencer ...",
-          "url": "https://www.mediabistro.com/jobs/3540153041-the-beauty-tech-group-trading-limited-is-hiring-influencer-marketing-executive"
-        }
-      ]
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-29T16:34:04Z",
+  "evidence": [],
+  "first_checked_at": "2026-10-15T16:19:24Z",
+  "india_based": false,
+  "method": "Careers board, posting text, web search",
+  "sig": "54391d7cdf",
+  "summary": "No public evidence yet about hiring from India.",
+  "verdict": "unclear",
+  "web": {
+   "checked_at": "2026-10-29T16:34:04Z",
+   "query": "\"The Beauty Tech Group Trading Limited\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
+   "results": [
+    {
+     "description": "",
+     "title": "# The Beauty Tech Group Trading Limited Careers >",
+     "url": "https://apply.workable.com/thebeautytechgroup/llms.txt"
+    },
+    {
+     "description": "",
+     "title": "# The Beauty Tech Group Trading Limited",
+     "url": "https://jobs.workable.com/companies/gcx79n9qhFoqHYjRSkk4FP.md"
+    },
+    {
+     "description": "",
+     "title": "0 open roles",
+     "url": "https://www.netinfluencer.com/jobs/company/the-beauty-tech-group-trading-limited/"
+    },
+    {
+     "description": "",
+     "title": "8cf101b5 a433 4a94 a63c 423611a6be13",
+     "url": "https://app.swooped.co/job-postings/8cf101b5-a433-4a94-a63c-423611a6be13"
+    },
+    {
+     "description": "",
+     "title": "Let’s get started",
+     "url": "https://app.joinrise.co/jobs/currentbody-trading-executive-5nx0"
+    },
+    {
+     "description": "",
+     "title": "builtinlondon.uk",
+     "url": "https://builtinlondon.uk/company/beauty-tech-group/teams"
     }
-  },
-  "inferred": true,
-  "name": "The Beauty Tech Group Trading Limited",
-  "slug": "the-beauty-tech-group-trading-limited",
-  "tier": 3
+   ]
+  }
+ },
+ "inferred": true,
+ "name": "The Beauty Tech Group Trading Limited",
+ "slug": "the-beauty-tech-group-trading-limited",
+ "tier": 3
 }

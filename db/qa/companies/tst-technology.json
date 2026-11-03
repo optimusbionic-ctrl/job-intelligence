@@ -1,0 +1,30 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-28T10:45:08Z",
+  "evidence": [
+   {
+    "detail": "QA Tester (Manual + Automation) — Surat, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/qa-tester-manual-automation/tst-technology/19525777",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-10-28T10:45:08Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "e08922dde6",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "TST Technology",
+ "slug": "tst-technology",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}

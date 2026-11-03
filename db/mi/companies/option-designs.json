@@ -1,27 +1,27 @@
 {
-  "category": "Other",
-  "classification": "Inferred from job description",
-  "india_hiring": {
-    "board": null,
-    "changed_at": "2026-10-18T00:29:34Z",
-    "evidence": [
-      {
-        "detail": "Motion Graphic Designer — Gurgaon, Haryana, India",
-        "kind": "posting",
-        "label": "A current posting lists India as a location",
-        "url": "https://in.linkedin.com/jobs/view/motion-graphic-designer-at-option-designs-4477763656",
-        "weight": 5
-      }
-    ],
-    "first_checked_at": "2026-10-18T00:29:34Z",
-    "india_based": false,
-    "method": "Careers board, posting text",
-    "sig": "c336162496",
-    "summary": "A current posting lists India as a location.",
-    "verdict": "yes"
-  },
-  "inferred": true,
-  "name": "Option Designs",
-  "slug": "option-designs",
-  "tier": 3
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-18T00:29:34Z",
+  "evidence": [
+   {
+    "detail": "Motion Graphic Designer — Gurgaon, Haryana, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://in.linkedin.com/jobs/view/motion-graphic-designer-at-option-designs-4477763656",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-10-18T00:29:34Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "c336162496",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Option Designs",
+ "slug": "option-designs",
+ "tier": 3
 }

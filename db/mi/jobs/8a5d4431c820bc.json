@@ -1,0 +1,97 @@
+{
+ "apply_url": null,
+ "board_apply": "https://himalayas.app/companies/pitchday/jobs/senior-motion-designer?utm_source=api",
+ "category": "Agency / studio",
+ "comp_potential": "unknown",
+ "company": "Pitchday",
+ "company_slug": "pitchday",
+ "concerns": [
+  "Compensation not disclosed",
+  "Agency / studio (Tier 2)"
+ ],
+ "contacts_count": 0,
+ "content_hash": "6f7406301fc3",
+ "date_quality": "exact",
+ "deadline": "2027-01-01T19:33:02Z",
+ "employment": "full-time",
+ "first_seen": "2026-11-03T10:27:01Z",
+ "fit": 76,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "8a5d4431c820bc",
+ "include_reason": "Motion design title",
+ "india": {
+  "cities": [],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "motion",
+ "last_verified": "2026-11-03T10:27:01Z",
+ "location": "India, Indonesia, Philippines, Singapore, Vietnam",
+ "logo": "https://cdn-images.himalayas.app/foq0l300kaic8frst3j7s4kjm126",
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-11-02T19:33:05Z",
+ "repost": false,
+ "requirements": [
+  "Experience leading motion design projects and supporting or guiding creative teams.",
+  "Ability to adapt to diverse visual styles, formats, and project briefs.",
+  "Genuine curiosity for emerging technologies and AI-driven creative tools.",
+  "Comfort navigating ambiguity, turning loose ideas into clarity and action."
+ ],
+ "responsibilities": [
+  "Develop, pitch, and execute original, on-brief concepts, bringing storyboards to life through animation, video, typography, sound, and AI-driven content.",
+  "Deliver compelling, high-quality visual narratives across social media, product updates, original AI releases, new features, and artwork launches throughout Asian markets.",
+  "Continuously generate fresh ideas, ensuring content is engaging, relevant, and aligned with brand goals."
+ ],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 48,
+  "company": 62,
+  "location": 100,
+  "seniority": 100,
+  "skill": 84
+ },
+ "seniority": "senior",
+ "snippet": "About Us\n Pitchday is a marketing and creative agency founded in 2019 in Singapore with a clear vision: to be the go-to creative partner for some of the world’s most desirable brands. We thrive on tackling bold, challenging briefs and act as a seamless extension of our clients’ teams.\n Today, we collaborate with brands across every continent, including Google, YouTube, Android, LVMH, Chanel, and promising Silicon Val",
+ "source_primary": "Himalayas",
+ "sources": [
+  {
+   "id": "himalayas",
+   "job_id": "https://himalayas.app/companies/pitchday/jobs/senior-motion-designer",
+   "kind": "board",
+   "name": "Himalayas",
+   "posted_at": "2026-11-02T19:33:05Z",
+   "seen_at": "2026-11-03T10:27:01Z",
+   "url": "https://himalayas.app/companies/pitchday/jobs/senior-motion-designer?utm_source=api"
+  }
+ ],
+ "specializations": [
+  "3D motion",
+  "Interaction systems",
+  "Technical storytelling"
+ ],
+ "status": "active",
+ "tier": 2,
+ "title": "Senior Motion Designer",
+ "tools": [
+  "After Effects",
+  "Premiere Pro"
+ ],
+ "updated_at": null,
+ "url": "https://himalayas.app/companies/pitchday/jobs/senior-motion-designer?utm_source=api",
+ "why": [
+  "Core motion design role",
+  "Tools you already use: After Effects, Premiere Pro",
+  "Specialisations in scope: 3D motion, Interaction systems, Technical storytelling",
+  "Location lists India"
+ ],
+ "work_mode": "remote",
+ "years_min": 4
+}

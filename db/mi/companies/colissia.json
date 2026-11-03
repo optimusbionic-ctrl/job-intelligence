@@ -1,55 +1,55 @@
 {
-  "category": "Other",
-  "classification": "Inferred from job description",
-  "india_hiring": {
-    "board": null,
-    "changed_at": "2026-10-15T16:49:04Z",
-    "evidence": [],
-    "first_checked_at": "2026-10-15T16:49:04Z",
-    "india_based": false,
-    "method": "Careers board, posting text, web search",
-    "sig": "54391d7cdf",
-    "summary": "No public evidence yet about hiring from India.",
-    "verdict": "unclear",
-    "web": {
-      "checked_at": "2026-10-15T16:52:46Z",
-      "query": "\"Colissia\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
-      "results": [
-        {
-          "description": "7 days ago · Colissia Global Ltd. is looking for a talented, creative, and innovative Creative Designer to join our team and lead the visual content ...",
-          "title": "Creative Designer (Motion Graphics) - Colissia - LinkedIn",
-          "url": "https://www.linkedin.com/jobs/view/4475973786/"
-        },
-        {
-          "description": "Colissia Global Ltd. publishes the following vacancies ... Employment Status: ☑ Full Time ☐ Part Time ☐ Remote ☐ Internship.",
-          "title": "[PDF] Govt. Graphic Arts Institute Job Circular",
-          "url": "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-gai-polytech/2026/8/fea34254-7722-40d7-8dbc-1db1387c0b6c.pdf"
-        },
-        {
-          "description": "... জন্য Server Administrator- For Colissia Global Ltd.- Job ID : 1350967 Bdjobs.com আবেদন করুন ... Salesforce Admin – Bangladesh – Remote. GFGG IT ...",
-          "title": "Server Administrator- For Colissia Global Ltd.- Job ID : 1350967 এ",
-          "url": "https://bd.linkedin.com/jobs/view/server-administrator-for-colissia-global-ltd-job-id-1350967-at-bdjobs-com-4190194719"
-        },
-        {
-          "description": "Send your thoughts (anonymous or signed) to: ideas@colissia.com. ... remote workers, AI talent, and digital freelancers. Why? Because ...",
-          "title": "Why is Bangladesh still stuck in the \"Grey Market\" for Digital Vouchers?",
-          "url": "https://www.facebook.com/groups/D2CBD/posts/35624965377148124/"
-        },
-        {
-          "description": "... Remote. Deadline. 23 May, 2024. Professional Skills. Designing - NaN yr. About the job ... Job Fair. Similar ... Colissia Global Ltd. View AI %. Salary : 25000 ...",
-          "title": "Design Mind Freelance Job in Chattogram at DESIGN ... - atB Jobs",
-          "url": "https://www.atb-jobs.com/jobs/26926"
-        },
-        {
-          "description": "remote area of excellent farmland.2. Clifton Oxendine, Professor Emeritus of ... Coach, Colissia Locklear, Teresa Tyler, Joyce Harris, Chester. Tyler ...",
-          "title": "[PDF] The history of the Lumbee Conference",
-          "url": "https://lrchmc.org/391/Docs/history/the_history_of_the_lumbee_conference/Lumbee_conf_history.pdf"
-        }
-      ]
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-15T16:49:04Z",
+  "evidence": [],
+  "first_checked_at": "2026-10-15T16:49:04Z",
+  "india_based": false,
+  "method": "Careers board, posting text, web search",
+  "sig": "54391d7cdf",
+  "summary": "No public evidence yet about hiring from India.",
+  "verdict": "unclear",
+  "web": {
+   "checked_at": "2026-10-29T17:27:14Z",
+   "query": "\"Colissia\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
+   "results": [
+    {
+     "description": "",
+     "title": "Remote für Globale Unternehmen Arbeiten, die in Indien Einstellen",
+     "url": "https://www.wisemonk.io/de/for-candidates"
+    },
+    {
+     "description": "",
+     "title": "Work Remotely for Global Companies Hiring in India",
+     "url": "https://wisemonk.io/for-candidates"
+    },
+    {
+     "description": "",
+     "title": "Travaillez à distance pour des entreprises internationales qui recrutent en Inde",
+     "url": "https://www.wisemonk.io/fr/for-candidates"
+    },
+    {
+     "description": "",
+     "title": "Alejandra Rodríguez Villa",
+     "url": "https://co.linkedin.com/in/alejavilla"
+    },
+    {
+     "description": "",
+     "title": "Build your career with global companies, without leaving India",
+     "url": "https://www.wisemonk.io/for-candidate"
+    },
+    {
+     "description": "",
+     "title": "dnb.co.in",
+     "url": "https://dnb.co.in/events/leapindiastartupsummit/images/2024/branded-content/case-study/Remunance.pdf"
     }
-  },
-  "inferred": true,
-  "name": "Colissia",
-  "slug": "colissia",
-  "tier": 3
+   ]
+  }
+ },
+ "inferred": true,
+ "name": "Colissia",
+ "slug": "colissia",
+ "tier": 3
 }

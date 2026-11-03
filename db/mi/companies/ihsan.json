@@ -1,64 +1,56 @@
 {
-  "category": "Other",
-  "classification": "Inferred from job description",
-  "india_hiring": {
-    "board": null,
-    "changed_at": "2026-10-15T16:19:24Z",
-    "evidence": [
-      {
-        "detail": "Remote Product Designer — Mobile UX/UI & Motion at Ihsan in Anywhere — “in Anywhere”",
-        "kind": "web",
-        "label": "Web shows it hires across countries",
-        "url": "https://uiuxjobsboard.com/job/1633426-remote-anywhere-product-designer-mobile-ux-ui-motion",
-        "weight": 2
-      }
-    ],
-    "first_checked_at": "2026-10-15T16:19:24Z",
-    "india_based": false,
-    "method": "Careers board, posting text, web search",
-    "sig": "7233fd2523",
-    "summary": "No India-located roles found, but web shows it hires across countries.",
-    "verdict": "likely",
-    "web": {
-      "checked_at": "2026-10-15T16:19:24Z",
-      "query": "\"Ihsan\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
-      "results": [
-        {
-          "description": "... JOBS@IHSAN.SCHOOL. ... Is it a remote job? Like · Reply. 1 Reaction.",
-          "title": "We're Hiring! Join the Ihsan International Schools Family. Are ...",
-          "url": "https://www.linkedin.com/posts/ihsanschools_were-hiring-join-the-ihsan-international-activity-7472181710437351425-5ZvG"
-        },
-        {
-          "description": "Ihsan careers - Remote First Future Jobs - Top Women-Led Startups - Remote Jobs",
-          "title": "Ihsan Careers - Insights and Opportunities - Wellfound",
-          "url": "https://wellfound.com/company/ihsan-2"
-        },
-        {
-          "description": "Is the Founding Senior Messenger Engineer role at Ihsan remote? You can apply from anywhere unless the listing specifies a region.",
-          "title": "Founding Senior Messenger Engineer - Ihsan - Crypto Jobs List",
-          "url": "https://cryptojobslist.com/jobs/founding-cto-messenger-stablecoin-remote-at-ihsan"
-        },
-        {
-          "description": "Open positions at Ihsan - 100% Remote Web3 Jobs.",
-          "title": "Web3 Jobs at Ihsan - 100% Remote | Open Positions - Remote3",
-          "url": "https://www.remote3.co/company/ihsan"
-        },
-        {
-          "description": "Location: Remote",
-          "title": "Remote Product Designer — Mobile UX/UI & Motion at Ihsan in Anywhere",
-          "url": "https://uiuxjobsboard.com/job/1633426-remote-anywhere-product-designer-mobile-ux-ui-motion"
-        },
-        {
-          "description": "Ihsan is hiring. Apply to jobs like Founding Senior Messenger Engineer ...",
-          "title": "Ihsan Jobs (October 2026) - Startup Jobs",
-          "url": "https://startup.jobs/company/ihsan"
-        }
-      ]
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-29T16:34:04Z",
+  "evidence": [],
+  "first_checked_at": "2026-10-15T16:19:24Z",
+  "india_based": false,
+  "method": "Careers board, posting text, web search",
+  "sig": "54391d7cdf",
+  "summary": "No public evidence yet about hiring from India.",
+  "verdict": "unclear",
+  "web": {
+   "checked_at": "2026-10-29T16:34:04Z",
+   "query": "\"Ihsan\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
+   "results": [
+    {
+     "description": "",
+     "title": "Working Remotely Without an Employer of Record in India 2025",
+     "url": "https://ins-globalconsulting.com/?p=80019"
+    },
+    {
+     "description": "",
+     "title": "Work Remotely for Global Companies Hiring in India",
+     "url": "https://wisemonk.io/for-candidates"
+    },
+    {
+     "description": "",
+     "title": "employer of record",
+     "url": "https://remote.com/en-hk/country-explorer/india/employer-of-record"
+    },
+    {
+     "description": "",
+     "title": "INS Global",
+     "url": "https://ins-globalconsulting.com/ja/news-post/eor-inndo/"
+    },
+    {
+     "description": "",
+     "title": "Build your career with global companies, without leaving India",
+     "url": "https://www.wisemonk.io/for-candidate"
+    },
+    {
+     "description": "",
+     "title": "dnb.co.in",
+     "url": "https://dnb.co.in/events/leapindiastartupsummit/images/2024/branded-content/case-study/Remunance.pdf"
     }
-  },
-  "inferred": true,
-  "logo": "https://cdn.dribbble.com/userupload/49248315/file/b1de673f03318eed2596dfa2aff861ab.jpg?resize=24x24",
-  "name": "Ihsan",
-  "slug": "ihsan",
-  "tier": 3
+   ]
+  }
+ },
+ "inferred": true,
+ "logo": "https://cdn.dribbble.com/userupload/49248315/file/b1de673f03318eed2596dfa2aff861ab.jpg?resize=24x24",
+ "name": "Ihsan",
+ "slug": "ihsan",
+ "tier": 3
 }

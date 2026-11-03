@@ -1,187 +1,151 @@
 {
-  "avg": 10479596,
-  "basis": "Interquartile range of posting midpoints, converted to INR at today's rate",
-  "currency": "INR",
-  "high": 17862947,
-  "id": "mi-dataset-remote",
-  "label": "Disclosed pay on remote motion-design postings (any region, this dataset)",
-  "low": 7478621,
-  "market": "Remote (global)",
-  "n": 19,
-  "retrieved_at": "2026-10-27",
-  "samples": [
-    {
-      "company": "Rankings.io",
-      "currency": "USD",
-      "location": "Colombia",
-      "max": 42000,
-      "min": 30000,
-      "title": "Sr. Video Editor & Motion Designer – AI Workflows (Remote, LATAM)",
-      "url": "https://himalayas.app/companies/rankings-io/jobs/sr-video-editor-motion-designer-ai-workflows-remote-latam?utm_source=api"
-    },
-    {
-      "company": "TalentCross",
-      "currency": "USD",
-      "location": "United States",
-      "max": 48000,
-      "min": 36000,
-      "title": "Senior Brand & Motion Designer",
-      "url": "https://himalayas.app/companies/talentcross/jobs/senior-brand-motion-designer?utm_source=api"
-    },
-    {
-      "company": "BRND WGN",
-      "currency": "EUR",
-      "location": "Worldwide",
-      "max": 40000,
-      "min": 40000,
-      "title": "Mid-Level Graphic & Motion Designer",
-      "url": "https://himalayas.app/companies/brnd-wgn/jobs/mid-level-graphic-motion-designer-363864368?utm_source=api"
-    },
-    {
-      "company": "Wave HQ",
-      "currency": "CAD",
-      "location": "Canada",
-      "max": 90000,
-      "min": 80000,
-      "title": "Senior Multimedia Designer",
-      "url": "https://himalayas.app/companies/wave-hq/jobs/senior-multimedia-designer?utm_source=api"
-    },
-    {
-      "company": "H&R Block",
-      "currency": "USD",
-      "location": "United States",
-      "max": 94200,
-      "min": 62800,
-      "title": "Motion Graphics Designer",
-      "url": "https://himalayas.app/companies/h-r-block/jobs/motion-graphics-designer?utm_source=api"
-    },
-    {
-      "company": "Miaplaza",
-      "currency": "EUR",
-      "location": "Worldwide",
-      "max": 90000,
-      "min": 60000,
-      "title": "Senior Product Designer (Illustration & Motion, EdTech)",
-      "url": "https://himalayas.app/companies/miaplaza/jobs/senior-product-designer-illustration-motion-edtech?utm_source=api"
-    },
-    {
-      "company": "Affirm",
-      "currency": "CAD",
-      "location": "Canada",
-      "max": 151000,
-      "min": 101000,
-      "title": "Visual Designer II",
-      "url": "https://himalayas.app/companies/affirm/jobs/visual-designer-ii?utm_source=api"
-    },
-    {
-      "company": "Wolf Games",
-      "currency": "USD",
-      "location": "United States",
-      "max": 110000,
-      "min": 80000,
-      "title": "Senior Video Editor & AI Motion Designer",
-      "url": "https://himalayas.app/companies/wolf-games/jobs/senior-video-editor-ai-motion-designer?utm_source=api"
-    },
-    {
-      "company": "DualEntry",
-      "currency": "USD",
-      "location": "United States",
-      "max": 120000,
-      "min": 70000,
-      "title": "Senior Brand Designer",
-      "url": "https://himalayas.app/companies/dualentry/jobs/senior-brand-designer-2779777072?utm_source=api"
-    },
-    {
-      "company": "Circle.so",
-      "currency": "USD",
-      "location": "Anywhere (United States)",
-      "max": 120000,
-      "min": 100000,
-      "title": "Senior Brand Designer",
-      "url": "https://jobs.ashbyhq.com/circle/67a0c185-329e-4dca-8011-711082b2cb97"
-    },
-    {
-      "company": "Pogo",
-      "currency": "USD",
-      "location": "United States/Canada",
-      "max": 130000,
-      "min": 110000,
-      "title": "Motion Designer & Video Editor",
-      "url": "https://jobs.ashbyhq.com/joinpogo/b2230f23-b213-450a-9cab-03760fa42c1d"
-    },
-    {
-      "company": "Zapier",
-      "currency": "EUR",
-      "location": "EMEA",
-      "max": 139000,
-      "min": 92600,
-      "title": "Sr. Motion Designer",
-      "url": "https://jobs.ashbyhq.com/zapier/c0582311-18cb-4415-9c86-79014f1b74f6"
-    },
-    {
-      "company": "Huckleberry Labs",
-      "currency": "USD",
-      "location": "United States",
-      "max": 160000,
-      "min": 135000,
-      "title": "Senior Brand Designer",
-      "url": "https://himalayas.app/companies/huckleberry-labs/jobs/senior-brand-designer?utm_source=api"
-    },
-    {
-      "company": "We Are Rosie",
-      "currency": "USD",
-      "location": "United States",
-      "max": 190000,
-      "min": 160000,
-      "title": "Interactive Designer / Creative Developer (Web Animation & Data Viz)",
-      "url": "https://himalayas.app/companies/we-are-rosie/jobs/interactive-designer-creative-developer-web-animation-data-viz?utm_source=api"
-    },
-    {
-      "company": "Perplexity",
-      "currency": "USD",
-      "location": "San Francisco • New York City (United States)",
-      "max": 225000,
-      "min": 150000,
-      "title": "Brand Designer, Growth",
-      "url": "https://jobs.ashbyhq.com/perplexity/04d73be4-8a69-4e62-9b0d-e9b7968cf860"
-    },
-    {
-      "company": "Perplexity",
-      "currency": "USD",
-      "location": "New York City • Remote (United States) • San Francisco",
-      "max": 210000,
-      "min": 180000,
-      "title": "Motion Designer",
-      "url": "https://jobs.ashbyhq.com/perplexity/39d520eb-6b81-4b61-8b23-5efcdac4cad9"
-    },
-    {
-      "company": "Mercury",
-      "currency": "USD",
-      "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
-      "max": 236700,
-      "min": 189400,
-      "title": "Staff Motion Designer - 3D",
-      "url": "https://job-boards.greenhouse.io/mercury/jobs/6196208004"
-    },
-    {
-      "company": "Baseten",
-      "currency": "USD",
-      "location": "San Francisco • Remote • New York (United States)",
-      "max": 240000,
-      "min": 190000,
-      "title": "Motion Designer (Brand Team)",
-      "url": "https://jobs.ashbyhq.com/baseten/2ae59494-97a5-4344-ae34-ffa3fab364be"
-    },
-    {
-      "company": "ServiceNow",
-      "currency": "USD",
-      "location": "United States",
-      "max": 300800,
-      "min": 171900,
-      "title": "Sr. Staff Product & Visual Designer, Technology Workflows",
-      "url": "https://himalayas.app/companies/servicenow/jobs/sr-staff-product-visual-designer-technology-workflows?utm_source=api"
-    }
-  ],
-  "source_name": "Motion Intelligence dataset",
-  "source_url": null
+ "avg": 12306173,
+ "basis": "Interquartile range of posting midpoints, converted to INR at today's rate",
+ "currency": "INR",
+ "high": 18511062,
+ "id": "mi-dataset-remote",
+ "label": "Disclosed pay on remote motion-design postings (any region, this dataset)",
+ "low": 9616259,
+ "market": "Remote (global)",
+ "n": 15,
+ "retrieved_at": "2026-11-03",
+ "samples": [
+  {
+   "company": "Remote Talent LATAM",
+   "currency": "USD",
+   "location": "Argentina, Brazil, Chile, Colombia, Costa Rica, Dominican Republic, Ecuador, El Salvador, Guatemala, Honduras, Mexico, Nicaragua, Panama, Paraguay, Peru, Uruguay, Venezuela",
+   "max": 30000,
+   "min": 30000,
+   "title": "Social Media Motion Graphic Designer | Remote | LATAM Only | 88150",
+   "url": "https://himalayas.app/companies/remote-talent-latam/jobs/social-media-motion-graphic-designer-remote-latam-only-88150?utm_source=api"
+  },
+  {
+   "company": "Rankings.io",
+   "currency": "USD",
+   "location": "Anguilla, Antigua and Barbuda, Argentina, Aruba, Bahamas, Barbados, Belize, Bermuda, Bolivia, Bonaire, Sint Eustatius and Saba, Brazil, Cayman Islands, Chile, Colombia, Costa Rica, Cuba, Dominica, Dominican Republic, Ecuador, El Salvador, Falkland Islands (Malvinas), Grenada, Guatemala, Guyana, Haiti, Honduras, Jamaica, Mexico, Montserrat, Nicaragua, Panama, Paraguay, Peru, Puerto Rico, Saint Kitts and Nevis, Saint Lucia, Saint Vincent and the Grenadines, South Georgia and the South Sandwich Islands, Suriname, Trinidad and Tobago, Turks and Caicos Islands, Uruguay, Venezuela, Virgin Islands, British, Virgin Islands, U.S.",
+   "max": 42000,
+   "min": 30000,
+   "title": "Sr. Video Editor & Motion Designer – AI Workflows (Remote, LATAM)",
+   "url": "https://himalayas.app/companies/rankings-io/jobs/sr-video-editor-motion-designer-ai-workflows-remote-latam?utm_source=api"
+  },
+  {
+   "company": "Affirm",
+   "currency": "CAD",
+   "location": "Canada",
+   "max": 151000,
+   "min": 101000,
+   "title": "Visual Designer II",
+   "url": "https://himalayas.app/companies/affirm/jobs/visual-designer-ii?utm_source=api"
+  },
+  {
+   "company": "College Board",
+   "currency": "USD",
+   "location": "United States",
+   "max": 120000,
+   "min": 72000,
+   "title": "Senior Visual Designer",
+   "url": "https://himalayas.app/companies/college-board/jobs/senior-visual-designer?utm_source=api"
+  },
+  {
+   "company": "CNO Financial Group",
+   "currency": "USD",
+   "location": "United States",
+   "max": 121600,
+   "min": 81000,
+   "title": "Multimedia Content Producer - Carmel, IN or Chicago, IL",
+   "url": "https://himalayas.app/companies/cno-financial-group/jobs/multimedia-content-producer-carmel-in-or-chicago-il?utm_source=api"
+  },
+  {
+   "company": "Red Door Collaborative",
+   "currency": "USD",
+   "location": "United States",
+   "max": 120000,
+   "min": 105000,
+   "title": "Senior Lead Motion Designer",
+   "url": "https://himalayas.app/companies/red-door-collaborative/jobs/senior-lead-motion-designer?utm_source=api"
+  },
+  {
+   "company": "Pogo",
+   "currency": "USD",
+   "location": "United States/Canada",
+   "max": 130000,
+   "min": 110000,
+   "title": "Motion Designer & Video Editor",
+   "url": "https://jobs.ashbyhq.com/joinpogo/fa2395f4-cc1a-476d-93f4-e15bd305f5a2"
+  },
+  {
+   "company": "Zapier",
+   "currency": "EUR",
+   "location": "EMEA",
+   "max": 139000,
+   "min": 92600,
+   "title": "Sr. Motion Designer",
+   "url": "https://jobs.ashbyhq.com/zapier/c0582311-18cb-4415-9c86-79014f1b74f6"
+  },
+  {
+   "company": "Huckleberry Labs",
+   "currency": "USD",
+   "location": "United States",
+   "max": 160000,
+   "min": 135000,
+   "title": "Senior Brand Designer",
+   "url": "https://himalayas.app/companies/huckleberry-labs/jobs/senior-brand-designer?utm_source=api"
+  },
+  {
+   "company": "Perplexity",
+   "currency": "USD",
+   "location": "San Francisco • New York City (United States)",
+   "max": 225000,
+   "min": 150000,
+   "title": "Brand Designer, Growth",
+   "url": "https://jobs.ashbyhq.com/perplexity/04d73be4-8a69-4e62-9b0d-e9b7968cf860"
+  },
+  {
+   "company": "Perplexity",
+   "currency": "USD",
+   "location": "New York City • Remote (United States) • San Francisco",
+   "max": 210000,
+   "min": 180000,
+   "title": "Motion Designer",
+   "url": "https://jobs.ashbyhq.com/perplexity/39d520eb-6b81-4b61-8b23-5efcdac4cad9"
+  },
+  {
+   "company": "Mercury",
+   "currency": "USD",
+   "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+   "max": 236700,
+   "min": 189400,
+   "title": "Staff Motion Designer - 3D",
+   "url": "https://job-boards.greenhouse.io/mercury/jobs/6196208004"
+  },
+  {
+   "company": "OpenAI",
+   "currency": "USD",
+   "location": "San Francisco (United States)",
+   "max": 247000,
+   "min": 223000,
+   "title": "Motion Designer",
+   "url": "https://jobs.ashbyhq.com/openai/30b0a80b-8421-4847-a670-5bd09920c4ce"
+  },
+  {
+   "company": "ServiceNow",
+   "currency": "USD",
+   "location": "United States",
+   "max": 300800,
+   "min": 171900,
+   "title": "Sr. Staff Product & Visual Designer, Technology Workflows",
+   "url": "https://himalayas.app/companies/servicenow/jobs/sr-staff-product-visual-designer-technology-workflows?utm_source=api"
+  },
+  {
+   "company": "Pinterest",
+   "currency": "USD",
+   "location": "United States",
+   "max": 326870,
+   "min": 158765,
+   "title": "Staff Motion Designer, Design Innovation",
+   "url": "https://himalayas.app/companies/pinterestcareers/jobs/staff-motion-designer-design-innovation-4550058863?utm_source=api"
+  }
+ ],
+ "source_name": "Motion Intelligence dataset",
+ "source_url": null
 }

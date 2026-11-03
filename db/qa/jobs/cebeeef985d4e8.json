@@ -1,91 +1,91 @@
 {
-  "apply_url": null,
-  "board_apply": "https://www.shine.com/jobs/qa-tester-manual-web-applications-munirka/mobisec-technologies-private/19909209",
-  "category": "Other",
-  "comp_potential": "unknown",
-  "company": "Mobisec Technologies Private",
-  "company_slug": "mobisec-technologies-private",
-  "concerns": [
-    "Office outside Mumbai — relocation within India",
-    "Pay not disclosed — ask for the range early"
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/qa-tester-manual-web-applications-munirka/mobisec-technologies-private/19909209",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "Mobisec Technologies Private",
+ "company_slug": "mobisec-technologies-private",
+ "concerns": [
+  "Office outside Mumbai — relocation within India",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "6c5a52798360",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-10-24T05:44:13Z",
+ "fit": 79,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "cebeeef985d4e8",
+ "include_reason": "Manual / functional QA title",
+ "india": {
+  "cities": [
+   "Delhi NCR"
   ],
-  "contacts_count": 0,
-  "content_hash": "6c5a52798360",
-  "date_quality": "exact",
-  "deadline": null,
-  "employment": "full-time",
-  "first_seen": "2026-10-24T05:44:13Z",
-  "fit": 79,
-  "has_hiring_manager": false,
-  "has_named_contact": false,
-  "has_public_email": false,
-  "id": "cebeeef985d4e8",
-  "include_reason": "Manual / functional QA title",
-  "india": {
-    "cities": [
-      "Delhi NCR"
-    ],
-    "company": "yes",
-    "reason": "Location lists India",
-    "status": "confirmed",
-    "visa": false
-  },
-  "kind": "manual-qa",
-  "last_verified": "2026-10-24T05:44:13Z",
-  "location": "Delhi, India",
-  "logo": null,
-  "needs_review": false,
-  "official": false,
-  "posted_at": "2026-10-23T08:55:53Z",
-  "repost": false,
-  "requirements": [],
-  "responsibilities": [],
-  "salary": {
-    "state": "unavailable"
-  },
-  "scores": {
-    "ai": 62,
-    "comp": 60,
-    "company": 66,
-    "location": 60,
-    "seniority": 100,
-    "skill": 93
-  },
-  "seniority": "unspecified",
-  "snippet": "Experience: 2 to 6 Yrs\nSkills: SDLC, STLC, defect management, JIRA, Bugzilla, bug tracking tools, test mindset, documentation skills\n(Summary from the Shine.com listing; open the posting for the full description.)",
-  "source_primary": "Shine.com",
-  "sources": [
-    {
-      "id": "shine",
-      "job_id": "19909209",
-      "kind": "board",
-      "name": "Shine.com",
-      "posted_at": "2026-10-23T08:55:53Z",
-      "seen_at": "2026-10-24T05:44:13Z",
-      "url": "https://www.shine.com/jobs/qa-tester-manual-web-applications-munirka/mobisec-technologies-private/19909209"
-    }
-  ],
-  "specializations": [
-    "Web apps"
-  ],
-  "status": "active",
-  "tier": 3,
-  "title": "QA Tester (Manual - Web Applications) (Munirka)",
-  "tools": [
-    "Bug reporting",
-    "Jira",
-    "Bugzilla"
-  ],
-  "track": "software",
-  "updated_at": null,
-  "url": "https://www.shine.com/jobs/qa-tester-manual-web-applications-munirka/mobisec-technologies-private/19909209",
-  "why": [
-    "Manual / functional QA — the core of your resume",
-    "Already on your resume: Bug reporting, Jira, Bugzilla",
-    "Asks for 2–6 years — you have about 2.5",
-    "Location lists India"
-  ],
-  "work_mode": "onsite",
-  "years_max": 6,
-  "years_min": 2
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "manual-qa",
+ "last_verified": "2026-10-24T05:44:13Z",
+ "location": "Delhi, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-10-23T08:55:53Z",
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 62,
+  "comp": 60,
+  "company": 66,
+  "location": 60,
+  "seniority": 100,
+  "skill": 93
+ },
+ "seniority": "unspecified",
+ "snippet": "Experience: 2 to 6 Yrs\nSkills: SDLC, STLC, defect management, JIRA, Bugzilla, bug tracking tools, test mindset, documentation skills\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "19909209",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-10-23T08:55:53Z",
+   "seen_at": "2026-10-24T05:44:13Z",
+   "url": "https://www.shine.com/jobs/qa-tester-manual-web-applications-munirka/mobisec-technologies-private/19909209"
+  }
+ ],
+ "specializations": [
+  "Web apps"
+ ],
+ "status": "active",
+ "tier": 3,
+ "title": "QA Tester (Manual - Web Applications) (Munirka)",
+ "tools": [
+  "Bug reporting",
+  "Jira",
+  "Bugzilla"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/qa-tester-manual-web-applications-munirka/mobisec-technologies-private/19909209",
+ "why": [
+  "Manual / functional QA — the core of your resume",
+  "Already on your resume: Bug reporting, Jira, Bugzilla",
+  "Asks for 2–6 years — you have about 2.5",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": 6,
+ "years_min": 2
 }

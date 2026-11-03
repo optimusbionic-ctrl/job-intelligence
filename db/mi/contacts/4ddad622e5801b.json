@@ -1,23 +1,23 @@
 {
-  "category": "channel",
-  "company": "Zapier",
-  "company_slug": "zapier",
-  "confidence": "high",
-  "email": "jobs@zapier.com",
-  "evidence_label": "Job posting",
-  "evidence_quote": "…ons. If reasonable accommodations are needed to participate in the job application or interview process, please contact jobs@zapier.com.     APPLICATION DEADLINE:  The anticip…",
-  "evidence_url": "https://jobs.ashbyhq.com/zapier/c0582311-18cb-4415-9c86-79014f1b74f6",
-  "id": "4ddad622e5801b",
-  "job_ids": [
-    "b98a3a48fe5ad8"
-  ],
-  "linkedin": null,
-  "name": "jobs@zapier.com",
-  "named": false,
-  "other_url": null,
-  "phone": null,
-  "relevance": "The employer asks applicants to use this address",
-  "source": "posting",
-  "title": "Email published in the job posting",
-  "verified_at": "2026-10-16T06:28:21Z"
+ "category": "channel",
+ "company": "Zapier",
+ "company_slug": "zapier",
+ "confidence": "high",
+ "email": "jobs@zapier.com",
+ "evidence_label": "Job posting",
+ "evidence_quote": "…ons. If reasonable accommodations are needed to participate in the job application or interview process, please contact jobs@zapier.com.     APPLICATION DEADLINE:  The anticip…",
+ "evidence_url": "https://jobs.ashbyhq.com/zapier/c0582311-18cb-4415-9c86-79014f1b74f6",
+ "id": "4ddad622e5801b",
+ "job_ids": [
+  "b98a3a48fe5ad8"
+ ],
+ "linkedin": null,
+ "name": "jobs@zapier.com",
+ "named": false,
+ "other_url": null,
+ "phone": null,
+ "relevance": "The employer asks applicants to use this address",
+ "source": "posting",
+ "title": "Email published in the job posting",
+ "verified_at": "2026-10-16T06:28:21Z"
 }

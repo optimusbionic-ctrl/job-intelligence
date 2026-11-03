@@ -1,27 +1,27 @@
 {
-  "category": "Other",
-  "classification": "Inferred from job description",
-  "india_hiring": {
-    "board": null,
-    "changed_at": "2026-10-16T03:28:23Z",
-    "evidence": [
-      {
-        "detail": "Graphic & Motion Designer (US Shift) — Mumbai, India",
-        "kind": "posting",
-        "label": "A current posting lists India as a location",
-        "url": "https://wellfound.com/jobs/4849693-graphic-motion-designer-us-shift",
-        "weight": 5
-      }
-    ],
-    "first_checked_at": "2026-10-16T03:28:23Z",
-    "india_based": false,
-    "method": "Careers board, posting text",
-    "sig": "7ee4c24494",
-    "summary": "A current posting lists India as a location.",
-    "verdict": "yes"
-  },
-  "inferred": true,
-  "name": "Content Beta",
-  "slug": "content-beta",
-  "tier": 3
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-16T03:28:23Z",
+  "evidence": [
+   {
+    "detail": "Graphic & Motion Designer (US Shift) — Mumbai, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://wellfound.com/jobs/4849693-graphic-motion-designer-us-shift",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-10-16T03:28:23Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "7ee4c24494",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Content Beta",
+ "slug": "content-beta",
+ "tier": 3
 }

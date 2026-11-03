@@ -1,0 +1,9 @@
+{
+ "checked_at": "2026-10-29T14:02:12Z",
+ "found": 0,
+ "kind": "salary_company",
+ "name": "El Codamics",
+ "query": "\"El Codamics\" (QA OR tester OR \"test engineer\") salary (site:ambitionbox.com OR site:glassdoor.co.in OR site:glassdoor.com OR site:payscale.com)",
+ "results": 8,
+ "slug": "el-codamics"
+}

@@ -11,14 +11,14 @@
    "countries": [
     "United States",
     "India",
-    "Brazil",
     "Canada",
+    "Brazil",
+    "Germany",
     "Spain",
-    "United Kingdom",
-    "Switzerland",
-    "Germany"
+    "France",
+    "Switzerland"
    ],
-   "india": 384,
+   "india": 324,
    "india_samples": [
     {
      "location": "India",
@@ -27,23 +27,23 @@
     },
     {
      "location": "India",
-     "title": "2D Designer",
-     "url": "https://jobs.lever.co/jobgether/eb046e71-a0f2-4d01-9a5b-47ce4e66608a"
-    },
-    {
-     "location": "India",
      "title": "AI Automation Specialist",
      "url": "https://jobs.lever.co/jobgether/33de6a35-d7d8-4434-af0c-55963a4f2751"
     },
     {
      "location": "India",
-     "title": "AI Engineer-Cyber Security Transformation",
-     "url": "https://jobs.lever.co/jobgether/e0d1563c-a279-45cb-a294-8e2d18bf7d8c"
+     "title": "AI Conversation Recording Contributor",
+     "url": "https://jobs.lever.co/jobgether/4fb9a217-bb02-41f4-9d29-527871a01766"
+    },
+    {
+     "location": "India",
+     "title": "AI Engineer",
+     "url": "https://jobs.lever.co/jobgether/9c435da2-bc0d-42d4-b27a-52de1e89e06b"
     }
    ],
    "open_samples": [],
-   "remote": 4318,
-   "restricted_remote": 3934,
+   "remote": 3789,
+   "restricted_remote": 3465,
    "restricted_samples": [
     {
      "location": "US",
@@ -67,17 +67,17 @@
     }
    ],
    "slug": "jobgether",
-   "total": 4318,
+   "total": 3789,
    "type": "lever",
    "url": "https://jobs.lever.co/jobgether",
    "worldwide": 0
   },
-  "changed_at": "2026-10-27T10:50:24Z",
+  "changed_at": "2026-10-30T05:43:53Z",
   "evidence": [
    {
-    "detail": "(Senior) GTM-Engineer (India); 2D Designer (India); AI Automation Specialist (India)",
+    "detail": "(Senior) GTM-Engineer (India); AI Automation Specialist (India); AI Conversation Recording Contributor (India)",
     "kind": "board",
-    "label": "384 of 4318 open roles are located in India",
+    "label": "324 of 3789 open roles are located in India",
     "url": "https://jobs.lever.co/jobgether",
     "weight": 5
    },
@@ -92,8 +92,8 @@
   "first_checked_at": "2026-10-19T13:24:59Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "bf70b8c6bb",
-  "summary": "384 of 4318 open roles are located in India.",
+  "sig": "143647742b",
+  "summary": "324 of 3789 open roles are located in India.",
   "verdict": "yes"
  },
  "inferred": true,

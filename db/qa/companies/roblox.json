@@ -1,92 +1,92 @@
 {
-  "aliases": [
-    "Roblox"
-  ],
-  "ats": {
-    "slug": "roblox",
-    "type": "greenhouse"
-  },
-  "careers": "https://job-boards.greenhouse.io/roblox",
-  "category": "Game studio",
-  "classification": "QA Intelligence registry (curated)",
-  "domain": "roblox.com",
-  "facts_note": "Category from public company information; funding not verified",
-  "hq": "San Mateo, US",
-  "india_hiring": {
-    "board": {
-      "apac": 0,
-      "countries": [
-        "United States",
-        "India",
-        "Singapore",
-        "Brazil",
-        "Canada",
-        "Netherlands",
-        "South Korea",
-        "United Kingdom"
-      ],
-      "india": 9,
-      "india_samples": [
-        {
-          "location": "Gurugram, Haryana, India",
-          "title": "Communications Manager, India",
-          "url": "https://careers.roblox.com/jobs/8258066?gh_jid=8258066"
-        },
-        {
-          "location": "Gurugram, Haryana, India",
-          "title": "Data Analyst, Operations (IP & Legal Compliance)",
-          "url": "https://careers.roblox.com/jobs/7856888?gh_jid=7856888"
-        },
-        {
-          "location": "Gurugram, Haryana, India",
-          "title": "Lead, Support Operations Excellence",
-          "url": "https://careers.roblox.com/jobs/8070037?gh_jid=8070037"
-        },
-        {
-          "location": "Gurugram, Haryana, India",
-          "title": "Proactive Moderation Operations Specialist",
-          "url": "https://careers.roblox.com/jobs/8069989?gh_jid=8069989"
-        }
-      ],
-      "open_samples": [],
-      "remote": 8,
-      "restricted_remote": 0,
-      "restricted_samples": [],
-      "slug": "roblox",
-      "total": 262,
-      "type": "greenhouse",
-      "url": "https://boards.greenhouse.io/roblox",
-      "worldwide": 0
-    },
-    "changed_at": "2026-10-19T13:24:59Z",
-    "evidence": [
-      {
-        "detail": "Communications Manager, India (Gurugram, Haryana, India); Data Analyst, Operations (IP & Legal Compliance) (Gurugram, Haryana, India); Lead, Support Operations Excellence (Gurugram, Haryana, India)",
-        "kind": "board",
-        "label": "9 of 262 open roles are located in India",
-        "url": "https://boards.greenhouse.io/roblox",
-        "weight": 5
-      },
-      {
-        "detail": "Quality Analyst — Gurugram, Haryana, India",
-        "kind": "posting",
-        "label": "A current posting lists India as a location",
-        "url": "https://careers.roblox.com/jobs/8069987?gh_jid=8069987",
-        "weight": 5
-      }
-    ],
-    "first_checked_at": "2026-10-19T13:24:59Z",
-    "india_based": false,
-    "method": "Careers board, posting text",
-    "sig": "8df0c00d90",
-    "summary": "9 of 262 open roles are located in India.",
-    "verdict": "yes"
-  },
-  "name": "Roblox",
+ "aliases": [
+  "Roblox"
+ ],
+ "ats": {
   "slug": "roblox",
-  "tier": 1,
-  "tracks": [
-    "game",
-    "software"
-  ]
+  "type": "greenhouse"
+ },
+ "careers": "https://job-boards.greenhouse.io/roblox",
+ "category": "Game studio",
+ "classification": "QA Intelligence registry (curated)",
+ "domain": "roblox.com",
+ "facts_note": "Category from public company information; funding not verified",
+ "hq": "San Mateo, US",
+ "india_hiring": {
+  "board": {
+   "apac": 0,
+   "countries": [
+    "United States",
+    "India",
+    "Singapore",
+    "Brazil",
+    "Canada",
+    "Netherlands",
+    "South Korea",
+    "United Kingdom"
+   ],
+   "india": 9,
+   "india_samples": [
+    {
+     "location": "Gurugram, Haryana, India",
+     "title": "Communications Manager, India",
+     "url": "https://careers.roblox.com/jobs/8258066?gh_jid=8258066"
+    },
+    {
+     "location": "Gurugram, Haryana, India",
+     "title": "Data Analyst, Operations (IP & Legal Compliance)",
+     "url": "https://careers.roblox.com/jobs/7856888?gh_jid=7856888"
+    },
+    {
+     "location": "Gurugram, Haryana, India",
+     "title": "Lead, Support Operations Excellence",
+     "url": "https://careers.roblox.com/jobs/8070037?gh_jid=8070037"
+    },
+    {
+     "location": "Gurugram, Haryana, India",
+     "title": "Proactive Moderation Operations Specialist",
+     "url": "https://careers.roblox.com/jobs/8069989?gh_jid=8069989"
+    }
+   ],
+   "open_samples": [],
+   "remote": 8,
+   "restricted_remote": 0,
+   "restricted_samples": [],
+   "slug": "roblox",
+   "total": 262,
+   "type": "greenhouse",
+   "url": "https://boards.greenhouse.io/roblox",
+   "worldwide": 0
+  },
+  "changed_at": "2026-10-19T13:24:59Z",
+  "evidence": [
+   {
+    "detail": "Communications Manager, India (Gurugram, Haryana, India); Data Analyst, Operations (IP & Legal Compliance) (Gurugram, Haryana, India); Lead, Support Operations Excellence (Gurugram, Haryana, India)",
+    "kind": "board",
+    "label": "9 of 262 open roles are located in India",
+    "url": "https://boards.greenhouse.io/roblox",
+    "weight": 5
+   },
+   {
+    "detail": "Quality Analyst — Gurugram, Haryana, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://careers.roblox.com/jobs/8069987?gh_jid=8069987",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-10-19T13:24:59Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "8df0c00d90",
+  "summary": "9 of 262 open roles are located in India.",
+  "verdict": "yes"
+ },
+ "name": "Roblox",
+ "slug": "roblox",
+ "tier": 1,
+ "tracks": [
+  "game",
+  "software"
+ ]
 }

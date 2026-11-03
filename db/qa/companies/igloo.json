@@ -1,0 +1,32 @@
+{
+ "category": "Fintech",
+ "classification": "Inferred from job description",
+ "domain": "iglooinsure.com",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-30T04:43:58Z",
+  "evidence": [
+   {
+    "detail": "QA Engineer — Pune, Maharashtra, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://jobs.workable.com/view/rY7EibTFS7NpBerD5tqPuU/qa-engineer-in-pune-at-igloo",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-10-30T04:43:58Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "abc76ac118",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "logo": "https://workablehr.s3.amazonaws.com/uploads/account/logo/655279/logo",
+ "name": "Igloo",
+ "slug": "igloo",
+ "tier": 1,
+ "tracks": [
+  "software"
+ ]
+}

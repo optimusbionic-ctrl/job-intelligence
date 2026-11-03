@@ -1,30 +1,30 @@
 {
-  "category": "Other",
-  "classification": "Inferred from job description",
-  "india_hiring": {
-    "board": null,
-    "changed_at": "2026-10-24T18:44:21Z",
-    "evidence": [
-      {
-        "detail": "Walkin interview | Software Tester /Senior Software Tester | 3-04-2026 -Goregaon — Mumbai City, India",
-        "kind": "posting",
-        "label": "A current posting lists India as a location",
-        "url": "https://www.shine.com/jobs/walkin-interview-software-tester-senior-software-tester-3-goregaon/rentokil-initial/19532603",
-        "weight": 5
-      }
-    ],
-    "first_checked_at": "2026-10-19T13:24:59Z",
-    "india_based": false,
-    "method": "Careers board, posting text",
-    "sig": "5478cd4bbf",
-    "summary": "A current posting lists India as a location.",
-    "verdict": "yes"
-  },
-  "inferred": true,
-  "name": "Rentokil Initial",
-  "slug": "rentokil-initial",
-  "tier": 3,
-  "tracks": [
-    "software"
-  ]
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-24T18:44:21Z",
+  "evidence": [
+   {
+    "detail": "Walkin interview | Software Tester /Senior Software Tester | 3-04-2026 -Goregaon — Mumbai City, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/walkin-interview-software-tester-senior-software-tester-3-goregaon/rentokil-initial/19532603",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-10-19T13:24:59Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "5478cd4bbf",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Rentokil Initial",
+ "slug": "rentokil-initial",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
 }

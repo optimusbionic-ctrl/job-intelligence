@@ -1,48 +1,63 @@
 {
-  "aliases": [
-    "VOICE"
-  ],
-  "ats": null,
-  "careers": null,
-  "category": "Crypto / Web3",
-  "classification": "Motion Intelligence registry (curated)",
-  "domain": null,
-  "facts_note": "Basic facts only; not independently verified",
-  "hq": "London, UK",
-  "india_hiring": {
-    "board": null,
-    "changed_at": "2026-10-15T16:19:24Z",
-    "evidence": [],
-    "first_checked_at": "2026-10-15T16:19:24Z",
-    "india_based": false,
-    "method": "Careers board, posting text, web search",
-    "sig": "54391d7cdf",
-    "summary": "No public evidence yet about hiring from India.",
-    "verdict": "unclear",
-    "web": {
-      "checked_at": "2026-10-15T16:19:24Z",
-      "query": "\"VOICE\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
-      "results": [
-        {
-          "description": "Apply for remote Voice jobs. Work from home or remote places around the world ... Remote jobs India",
-          "title": "Remote Voice Jobs - Working Nomads",
-          "url": "https://www.workingnomads.com/remote-voice-jobs"
-        },
-        {
-          "description": "Access 3000+ voice over jobs from top global brands.",
-          "title": "Voice Over Jobs - Voice Acting, Voice Data, Voice AI | Voices",
-          "url": "https://www.voices.com/jobs"
-        },
-        {
-          "description": "Careers: Grow with IT Voice. Operations. Remote (nashville, Tennessee, US)",
-          "title": "Careers - IT Voice",
-          "url": "https://itvoice.com/careers/"
-        }
-      ]
+ "aliases": [
+  "VOICE"
+ ],
+ "ats": null,
+ "careers": null,
+ "category": "Crypto / Web3",
+ "classification": "Motion Intelligence registry (curated)",
+ "domain": null,
+ "facts_note": "Basic facts only; not independently verified",
+ "hq": "London, UK",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-15T16:19:24Z",
+  "evidence": [],
+  "first_checked_at": "2026-10-15T16:19:24Z",
+  "india_based": false,
+  "method": "Careers board, posting text, web search",
+  "sig": "54391d7cdf",
+  "summary": "No public evidence yet about hiring from India.",
+  "verdict": "unclear",
+  "web": {
+   "checked_at": "2026-10-29T16:34:04Z",
+   "query": "\"VOICE\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
+   "results": [
+    {
+     "description": "",
+     "title": "Voice Over Jobs From Home In India: Your Ultimate Guide",
+     "url": "https://grandavehousing.calpoly.edu/news/voice-over-jobs-from-home"
+    },
+    {
+     "description": "",
+     "title": "jobs in Remote",
+     "url": "https://in.indeed.com/l-remote-jobs.html"
+    },
+    {
+     "description": "",
+     "title": "Powered by Information Department Government of Sindh",
+     "url": "https://iwork4sindh.com/job/hindi-voice-over-artist"
+    },
+    {
+     "description": "",
+     "title": "voice contributor f5380a18 64f0 447d 8002 fc231269ec22",
+     "url": "https://www.flexjobs.com/publicjobs/voice-contributor-f5380a18-64f0-447d-8002-fc231269ec22"
+    },
+    {
+     "description": "",
+     "title": "Voice Data Contributor",
+     "url": "https://jobs.lever.co/getwingapp/21fd9ab7-66d5-45ee-8eb1-6f4cd8e52cd7"
+    },
+    {
+     "description": "",
+     "title": "AI Voice Trainer - Hinglish",
+     "url": "https://jobs.lever.co/getwingapp/641cab32-08a2-4052-a797-779840e40c2c/apply"
     }
-  },
-  "maturity": null,
-  "name": "VOICE",
-  "slug": "voice",
-  "tier": 1
+   ]
+  }
+ },
+ "maturity": null,
+ "name": "VOICE",
+ "slug": "voice",
+ "tier": 1
 }

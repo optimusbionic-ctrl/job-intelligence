@@ -1,103 +1,111 @@
 {
-  "aliases": [
-    "Atlys"
-  ],
-  "ats": {
-    "slug": "atlys",
-    "type": "ashby"
-  },
-  "careers": "https://jobs.ashbyhq.com/atlys",
-  "category": "Consumer tech",
-  "classification": "Motion Intelligence registry (curated)",
-  "domain": "atlys.com",
-  "facts_note": "HQ and maturity from public company information; funding not verified",
-  "hq": "San Francisco, US / New Delhi, IN",
-  "india_hiring": {
-    "board": {
-      "apac": 0,
-      "countries": [
-        "India",
-        "Austria"
-      ],
-      "india": 22,
-      "india_samples": [
-        {
-          "location": "Delhi HQ",
-          "title": "Art Director",
-          "url": "https://jobs.ashbyhq.com/atlys/8550b1a9-d6d7-4fe2-9d4e-833da394db57"
-        },
-        {
-          "location": "Delhi HQ",
-          "title": "Backend Engineer",
-          "url": "https://jobs.ashbyhq.com/atlys/a2158e46-0991-4235-aeec-758b1832c5fb"
-        },
-        {
-          "location": "Delhi HQ",
-          "title": "Content Creator",
-          "url": "https://jobs.ashbyhq.com/atlys/2dead6b6-9e11-4463-81e1-90ad2459dd29"
-        },
-        {
-          "location": "Delhi HQ",
-          "title": "Copywriter",
-          "url": "https://jobs.ashbyhq.com/atlys/ae211072-9be0-4881-99d3-63b4ed84bc64"
-        }
-      ],
-      "open_samples": [],
-      "remote": 1,
-      "restricted_remote": 1,
-      "restricted_samples": [
-        {
-          "location": "Vienna",
-          "title": "City Scout - Vienna",
-          "url": "https://jobs.ashbyhq.com/atlys/bcaa129b-5708-4feb-8bb9-a00f3861002b"
-        }
-      ],
-      "slug": "atlys",
-      "total": 23,
-      "type": "ashby",
-      "url": "https://jobs.ashbyhq.com/atlys",
-      "worldwide": 0
-    },
-    "changed_at": "2026-10-27T10:26:45Z",
-    "evidence": [
-      {
-        "detail": "Art Director (Delhi HQ); Backend Engineer (Delhi HQ); Content Creator (Delhi HQ)",
-        "kind": "board",
-        "label": "22 of 23 open roles are located in India",
-        "url": "https://jobs.ashbyhq.com/atlys",
-        "weight": 5
-      },
-      {
-        "detail": "Motion Designer — Delhi HQ (India)",
-        "kind": "posting",
-        "label": "A current posting lists India as a location",
-        "url": "https://jobs.ashbyhq.com/atlys/c9b3bf73-e663-46f8-a840-3a9f2e649fb2",
-        "weight": 5
-      },
-      {
-        "detail": "San Francisco, US / New Delhi, IN",
-        "kind": "registry",
-        "label": "Has an office in India",
-        "url": "https://jobs.ashbyhq.com/atlys",
-        "weight": 5
-      },
-      {
-        "detail": "…tainty from travel. To date, we’ve processed visas for 1M+ travellers across 127 countries. But we’re still early.      THE ROLE  We're looking for a Motion Des…",
-        "kind": "posting",
-        "label": "Posting describes hiring across countries",
-        "url": "https://jobs.ashbyhq.com/atlys/c9b3bf73-e663-46f8-a840-3a9f2e649fb2",
-        "weight": 3
-      }
-    ],
-    "first_checked_at": "2026-10-15T16:19:24Z",
-    "india_based": false,
-    "method": "Careers board, posting text",
-    "sig": "1090f80212",
-    "summary": "22 of 23 open roles are located in India.",
-    "verdict": "yes"
-  },
-  "maturity": "Growth-stage private",
-  "name": "Atlys",
+ "aliases": [
+  "Atlys"
+ ],
+ "ats": {
   "slug": "atlys",
-  "tier": 1
+  "type": "ashby"
+ },
+ "careers": "https://jobs.ashbyhq.com/atlys",
+ "category": "Consumer tech",
+ "classification": "Motion Intelligence registry (curated)",
+ "domain": "atlys.com",
+ "facts_note": "HQ and maturity from public company information; funding not verified",
+ "hq": "San Francisco, US / New Delhi, IN",
+ "india_hiring": {
+  "board": {
+   "apac": 0,
+   "countries": [
+    "India",
+    "Austria",
+    "UAE",
+    "United Arab Emirates",
+    "United States"
+   ],
+   "india": 26,
+   "india_samples": [
+    {
+     "location": "Delhi HQ",
+     "title": "Art Director",
+     "url": "https://jobs.ashbyhq.com/atlys/8550b1a9-d6d7-4fe2-9d4e-833da394db57"
+    },
+    {
+     "location": "Delhi HQ",
+     "title": "Backend Engineer",
+     "url": "https://jobs.ashbyhq.com/atlys/a2158e46-0991-4235-aeec-758b1832c5fb"
+    },
+    {
+     "location": "Delhi HQ",
+     "title": "Content Creator",
+     "url": "https://jobs.ashbyhq.com/atlys/2dead6b6-9e11-4463-81e1-90ad2459dd29"
+    },
+    {
+     "location": "Delhi HQ",
+     "title": "Copywriter",
+     "url": "https://jobs.ashbyhq.com/atlys/ae211072-9be0-4881-99d3-63b4ed84bc64"
+    }
+   ],
+   "open_samples": [],
+   "remote": 2,
+   "restricted_remote": 2,
+   "restricted_samples": [
+    {
+     "location": "USA",
+     "title": "City Scout - NY | SF | LA",
+     "url": "https://jobs.ashbyhq.com/atlys/021f462b-dcab-4bd9-a861-4157fb23d11f"
+    },
+    {
+     "location": "Vienna",
+     "title": "City Scout - Vienna",
+     "url": "https://jobs.ashbyhq.com/atlys/bcaa129b-5708-4feb-8bb9-a00f3861002b"
+    }
+   ],
+   "slug": "atlys",
+   "total": 29,
+   "type": "ashby",
+   "url": "https://jobs.ashbyhq.com/atlys",
+   "worldwide": 0
+  },
+  "changed_at": "2026-11-03T10:27:01Z",
+  "evidence": [
+   {
+    "detail": "Art Director (Delhi HQ); Backend Engineer (Delhi HQ); Content Creator (Delhi HQ)",
+    "kind": "board",
+    "label": "26 of 29 open roles are located in India",
+    "url": "https://jobs.ashbyhq.com/atlys",
+    "weight": 5
+   },
+   {
+    "detail": "Motion Designer — Delhi HQ (India)",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://jobs.ashbyhq.com/atlys/c9b3bf73-e663-46f8-a840-3a9f2e649fb2",
+    "weight": 5
+   },
+   {
+    "detail": "San Francisco, US / New Delhi, IN",
+    "kind": "registry",
+    "label": "Has an office in India",
+    "url": "https://jobs.ashbyhq.com/atlys",
+    "weight": 5
+   },
+   {
+    "detail": "…tainty from travel. To date, we’ve processed visas for 1M+ travellers across 127 countries. But we’re still early.      THE ROLE  We're looking for a Motion Des…",
+    "kind": "posting",
+    "label": "Posting describes hiring across countries",
+    "url": "https://jobs.ashbyhq.com/atlys/c9b3bf73-e663-46f8-a840-3a9f2e649fb2",
+    "weight": 3
+   }
+  ],
+  "first_checked_at": "2026-10-15T16:19:24Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "685e390f93",
+  "summary": "26 of 29 open roles are located in India.",
+  "verdict": "yes"
+ },
+ "maturity": "Growth-stage private",
+ "name": "Atlys",
+ "slug": "atlys",
+ "tier": 1
 }

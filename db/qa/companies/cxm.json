@@ -1,67 +1,67 @@
 {
-  "category": "Fintech",
-  "classification": "Inferred from job description",
-  "india_hiring": {
-    "board": null,
-    "changed_at": "2026-10-19T13:24:59Z",
-    "evidence": [
-      {
-        "detail": "Full Stack QA Developer — Worldwide",
-        "kind": "posting",
-        "label": "A current posting is open worldwide",
-        "url": "https://himalayas.app/companies/cxm/jobs/full-stack-qa-developer?utm_source=api",
-        "weight": 3
-      }
-    ],
-    "first_checked_at": "2026-10-19T13:24:59Z",
-    "india_based": false,
-    "method": "Careers board, posting text, web search",
-    "sig": "654f90d89f",
-    "summary": "No India-located roles found, but a current posting is open worldwide.",
-    "verdict": "likely",
-    "web": {
-      "checked_at": "2026-10-19T14:45:32Z",
-      "query": "\"CXM\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
-      "results": [
-        {
-          "description": "",
-          "title": "Work Remotely for Global Companies Hiring in India",
-          "url": "https://www.wisemonk.io/for-candidates"
-        },
-        {
-          "description": "",
-          "title": "Build your career with global companies, without leaving India",
-          "url": "https://www.wisemonk.io/for-candidate"
-        },
-        {
-          "description": "",
-          "title": "dnb.co.in",
-          "url": "https://dnb.co.in/events/leapindiastartupsummit/images/2024/branded-content/case-study/Remunance.pdf"
-        },
-        {
-          "description": "",
-          "title": "www.g2.com",
-          "url": "https://www.g2.com/products/cxc-global-cxc-global/competitors/alternatives"
-        },
-        {
-          "description": "",
-          "title": "Press ENTER to skip to main content Press ENTER to search jobs",
-          "url": "https://careers.results-cx.com/india"
-        },
-        {
-          "description": "",
-          "title": "builtin.com",
-          "url": "https://builtin.com/company/cxm/jobs"
-        }
-      ]
+ "category": "Fintech",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-19T13:24:59Z",
+  "evidence": [
+   {
+    "detail": "Full Stack QA Developer — Worldwide",
+    "kind": "posting",
+    "label": "A current posting is open worldwide",
+    "url": "https://himalayas.app/companies/cxm/jobs/full-stack-qa-developer?utm_source=api",
+    "weight": 3
+   }
+  ],
+  "first_checked_at": "2026-10-19T13:24:59Z",
+  "india_based": false,
+  "method": "Careers board, posting text, web search",
+  "sig": "654f90d89f",
+  "summary": "No India-located roles found, but a current posting is open worldwide.",
+  "verdict": "likely",
+  "web": {
+   "checked_at": "2026-10-19T14:45:32Z",
+   "query": "\"CXM\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
+   "results": [
+    {
+     "description": "",
+     "title": "Work Remotely for Global Companies Hiring in India",
+     "url": "https://www.wisemonk.io/for-candidates"
+    },
+    {
+     "description": "",
+     "title": "Build your career with global companies, without leaving India",
+     "url": "https://www.wisemonk.io/for-candidate"
+    },
+    {
+     "description": "",
+     "title": "dnb.co.in",
+     "url": "https://dnb.co.in/events/leapindiastartupsummit/images/2024/branded-content/case-study/Remunance.pdf"
+    },
+    {
+     "description": "",
+     "title": "www.g2.com",
+     "url": "https://www.g2.com/products/cxc-global-cxc-global/competitors/alternatives"
+    },
+    {
+     "description": "",
+     "title": "Press ENTER to skip to main content Press ENTER to search jobs",
+     "url": "https://careers.results-cx.com/india"
+    },
+    {
+     "description": "",
+     "title": "builtin.com",
+     "url": "https://builtin.com/company/cxm/jobs"
     }
-  },
-  "inferred": true,
-  "logo": "https://cdn-images.himalayas.app/ph311gs3k0qmv9jstinkbi2yemtu",
-  "name": "CXM",
-  "slug": "cxm",
-  "tier": 1,
-  "tracks": [
-    "software"
-  ]
+   ]
+  }
+ },
+ "inferred": true,
+ "logo": "https://cdn-images.himalayas.app/ph311gs3k0qmv9jstinkbi2yemtu",
+ "name": "CXM",
+ "slug": "cxm",
+ "tier": 1,
+ "tracks": [
+  "software"
+ ]
 }

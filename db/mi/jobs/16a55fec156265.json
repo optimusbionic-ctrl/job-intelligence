@@ -1,79 +1,79 @@
 {
-  "apply_url": null,
-  "board_apply": "https://www.linkedin.com/jobs/view/senior-visual-designer-ai-and-motion-at-intellipro-4477491770",
-  "category": "AI",
-  "comp_potential": "unknown",
-  "company": "IntelliPro",
-  "company_slug": "intellipro",
-  "concerns": [
-    "Employer has not confirmed hiring from India",
-    "Compensation not disclosed"
-  ],
-  "contacts_count": 0,
-  "content_hash": "c56817dc0ad9",
-  "date_quality": "approx",
-  "deadline": null,
-  "employment": "full-time",
-  "first_seen": "2026-10-15T15:39:48Z",
-  "fit": 64,
-  "has_hiring_manager": false,
-  "has_named_contact": false,
-  "has_public_email": false,
-  "id": "16a55fec156265",
-  "include_reason": "Motion design title",
-  "india": {
-    "cities": [],
-    "company": "unclear",
-    "reason": "Location not stated",
-    "status": "unconfirmed",
-    "visa": false
-  },
-  "kind": "motion",
-  "last_verified": "2026-10-15T18:30:15Z",
-  "location": "",
-  "logo": null,
-  "needs_review": false,
-  "official": false,
-  "posted_at": "2026-10-08T00:00:00Z",
-  "repost": false,
-  "requirements": [],
-  "responsibilities": [],
-  "salary": {
-    "state": "unavailable"
-  },
-  "scores": {
-    "ai": 44,
-    "comp": 48,
-    "company": 98,
-    "location": 38,
-    "seniority": 100,
-    "skill": 47
-  },
-  "seniority": "senior",
-  "snippet": "Senior Visual Designer (AI AND Motion) at IntelliPro",
-  "source_primary": "LinkedIn Jobs (via search index)",
-  "sources": [
-    {
-      "id": "linkedin",
-      "job_id": "https://www.linkedin.com/jobs/view/senior-visual-designer-ai-and-motion-at-intellipro-4477491770",
-      "kind": "search",
-      "name": "LinkedIn Jobs (via search index)",
-      "posted_at": "2026-10-08T00:00:00Z",
-      "seen_at": "2026-10-15T18:30:15Z",
-      "url": "https://www.linkedin.com/jobs/view/senior-visual-designer-ai-and-motion-at-intellipro-4477491770"
-    }
-  ],
-  "specializations": [],
-  "status": "lead",
-  "tier": 1,
-  "title": "Senior Visual Designer (AI AND Motion)",
-  "tools": [],
-  "updated_at": null,
-  "url": "https://www.linkedin.com/jobs/view/senior-visual-designer-ai-and-motion-at-intellipro-4477491770",
-  "why": [
-    "Core motion design role",
-    "AI company (Tier 1 priority)"
-  ],
-  "work_mode": "unspecified",
-  "years_min": null
+ "apply_url": null,
+ "board_apply": "https://www.linkedin.com/jobs/view/senior-visual-designer-ai-and-motion-at-intellipro-4477491770",
+ "category": "AI",
+ "comp_potential": "unknown",
+ "company": "IntelliPro",
+ "company_slug": "intellipro",
+ "concerns": [
+  "Employer has not confirmed hiring from India",
+  "Compensation not disclosed"
+ ],
+ "contacts_count": 0,
+ "content_hash": "c56817dc0ad9",
+ "date_quality": "approx",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-10-15T15:39:48Z",
+ "fit": 64,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "16a55fec156265",
+ "include_reason": "Motion design title",
+ "india": {
+  "cities": [],
+  "company": "unclear",
+  "reason": "Location not stated",
+  "status": "unconfirmed",
+  "visa": false
+ },
+ "kind": "motion",
+ "last_verified": "2026-10-15T18:30:15Z",
+ "location": "",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-10-08T00:00:00Z",
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 44,
+  "comp": 48,
+  "company": 98,
+  "location": 38,
+  "seniority": 100,
+  "skill": 47
+ },
+ "seniority": "senior",
+ "snippet": "Senior Visual Designer (AI AND Motion) at IntelliPro",
+ "source_primary": "LinkedIn Jobs (via search index)",
+ "sources": [
+  {
+   "id": "linkedin",
+   "job_id": "https://www.linkedin.com/jobs/view/senior-visual-designer-ai-and-motion-at-intellipro-4477491770",
+   "kind": "search",
+   "name": "LinkedIn Jobs (via search index)",
+   "posted_at": "2026-10-08T00:00:00Z",
+   "seen_at": "2026-10-15T18:30:15Z",
+   "url": "https://www.linkedin.com/jobs/view/senior-visual-designer-ai-and-motion-at-intellipro-4477491770"
+  }
+ ],
+ "specializations": [],
+ "status": "lead",
+ "tier": 1,
+ "title": "Senior Visual Designer (AI AND Motion)",
+ "tools": [],
+ "updated_at": null,
+ "url": "https://www.linkedin.com/jobs/view/senior-visual-designer-ai-and-motion-at-intellipro-4477491770",
+ "why": [
+  "Core motion design role",
+  "AI company (Tier 1 priority)"
+ ],
+ "work_mode": "unspecified",
+ "years_min": null
 }

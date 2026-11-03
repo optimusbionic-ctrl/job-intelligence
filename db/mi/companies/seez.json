@@ -1,71 +1,64 @@
 {
-  "category": "SaaS",
-  "classification": "Inferred from job description",
-  "india_hiring": {
-    "board": null,
-    "changed_at": "2026-10-18T22:27:20Z",
-    "evidence": [
-      {
-        "detail": "Motion Designer / Video Editor (Contract) — Worldwide",
-        "kind": "posting",
-        "label": "A current posting is open worldwide",
-        "url": "https://himalayas.app/companies/seez/jobs/motion-designer-video-editor-contract?utm_source=api",
-        "weight": 3
-      },
-      {
-        "detail": "Seez Remote Jobs & Careers | HireSkys — “jobs in India”",
-        "kind": "web",
-        "label": "Web mentions India hiring or an India office",
-        "url": "https://www.hireskys.com/companies/seez",
-        "weight": 3
-      }
-    ],
-    "first_checked_at": "2026-10-15T16:19:24Z",
-    "india_based": false,
-    "method": "Careers board, posting text, web search",
-    "sig": "3cbfe8d909",
-    "summary": "No India-located roles found, but a current posting is open worldwide.",
-    "verdict": "likely",
-    "web": {
-      "checked_at": "2026-10-15T16:55:58Z",
-      "query": "\"Seez\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
-      "results": [
-        {
-          "description": "Seez careers. Seez - any car, anywhere. Seez hasn't added any jobs",
-          "title": "Seez Careers - Insights and Opportunities - Wellfound",
-          "url": "https://wellfound.com/company/seez-app"
-        },
-        {
-          "description": "Seez is hiring remote and work from home jobs on We Work Remotely. HQ Dubai.",
-          "title": "Remote Job Opportunities at Seez",
-          "url": "https://weworkremotely.com/company/seez"
-        },
-        {
-          "description": "No active public remote jobs are listed for this company right now.",
-          "title": "Seez Remote Jobs, Careers, Tech Stack, and Company Profile",
-          "url": "https://wfh.team/companies/seez"
-        },
-        {
-          "description": "Product Manager. Job Location: Remote (work anywhere!)",
-          "title": "Product Manager @ Seez | Hub71 Job Board",
-          "url": "https://jobs.hub71.com/companies/seez-2-2a4358bc-889a-4bf9-9428-586638829f23/jobs/57801689-product-manager"
-        },
-        {
-          "description": "Find top remote jobs and work-from-home careers at Seez.",
-          "title": "Seez - Remote Work From Home Jobs & Careers - DailyRemote",
-          "url": "https://dailyremote.com/remote-company/seez"
-        },
-        {
-          "description": "We connect top talent with verified work-from-anywhere opportunities and freelance contracts. ... Remote jobs in India ...",
-          "title": "Seez Remote Jobs & Careers | HireSkys",
-          "url": "https://www.hireskys.com/companies/seez"
-        }
-      ]
+ "category": "SaaS",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-29T19:26:56Z",
+  "evidence": [
+   {
+    "detail": "Motion Designer / Video Editor (Contract) — Worldwide",
+    "kind": "posting",
+    "label": "A current posting is open worldwide",
+    "url": "https://himalayas.app/companies/seez/jobs/motion-designer-video-editor-contract?utm_source=api",
+    "weight": 3
+   }
+  ],
+  "first_checked_at": "2026-10-15T16:19:24Z",
+  "india_based": false,
+  "method": "Careers board, posting text, web search",
+  "sig": "ce7476c7ce",
+  "summary": "No India-located roles found, but a current posting is open worldwide.",
+  "verdict": "likely",
+  "web": {
+   "checked_at": "2026-10-29T19:26:56Z",
+   "query": "\"Seez\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
+   "results": [
+    {
+     "description": "",
+     "title": "# Seez Careers",
+     "url": "https://apply.workable.com/seezcareers/llms.txt"
+    },
+    {
+     "description": "",
+     "title": "Working Remotely Without an Employer of Record in India 2025",
+     "url": "https://ins-globalconsulting.com/?p=80019"
+    },
+    {
+     "description": "",
+     "title": "Work Remotely for Global Companies Hiring in India",
+     "url": "https://wisemonk.io/for-candidates"
+    },
+    {
+     "description": "",
+     "title": "Build your career with global companies, without leaving India",
+     "url": "https://www.wisemonk.io/for-candidate"
+    },
+    {
+     "description": "",
+     "title": "employer of record",
+     "url": "https://remote.com/country-explorer/india/employer-of-record"
+    },
+    {
+     "description": "",
+     "title": "INS Global",
+     "url": "https://ins-globalconsulting.com/ja/news-post/eor-inndo/"
     }
-  },
-  "inferred": true,
-  "logo": "https://cdn-images.himalayas.app/v6tfjnqbdmevkwweaa983cgm0ijg",
-  "name": "Seez",
-  "slug": "seez",
-  "tier": 1
+   ]
+  }
+ },
+ "inferred": true,
+ "logo": "https://cdn-images.himalayas.app/v6tfjnqbdmevkwweaa983cgm0ijg",
+ "name": "Seez",
+ "slug": "seez",
+ "tier": 1
 }

@@ -1,27 +1,27 @@
 {
-  "category": "Other",
-  "classification": "Inferred from job description",
-  "india_hiring": {
-    "board": null,
-    "changed_at": "2026-10-16T06:28:21Z",
-    "evidence": [
-      {
-        "detail": "Motion Graphic Designer — India",
-        "kind": "posting",
-        "label": "A current posting lists India as a location",
-        "url": "https://in.linkedin.com/jobs/view/motion-graphic-designer-at-adwintage-4479192989",
-        "weight": 5
-      }
-    ],
-    "first_checked_at": "2026-10-16T06:28:21Z",
-    "india_based": false,
-    "method": "Careers board, posting text",
-    "sig": "67f67481b7",
-    "summary": "A current posting lists India as a location.",
-    "verdict": "yes"
-  },
-  "inferred": true,
-  "name": "Adwintage",
-  "slug": "adwintage",
-  "tier": 3
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-16T06:28:21Z",
+  "evidence": [
+   {
+    "detail": "Motion Graphic Designer — India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://in.linkedin.com/jobs/view/motion-graphic-designer-at-adwintage-4479192989",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-10-16T06:28:21Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "67f67481b7",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Adwintage",
+ "slug": "adwintage",
+ "tier": 3
 }

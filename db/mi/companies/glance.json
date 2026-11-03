@@ -1,91 +1,91 @@
 {
-  "aliases": [
-    "Glance"
-  ],
-  "ats": {
-    "slug": "glance",
-    "type": "greenhouse"
-  },
-  "careers": "https://boards.greenhouse.io/glance",
-  "category": "Consumer tech",
-  "classification": "Motion Intelligence registry (curated)",
-  "domain": "glance.com",
-  "facts_note": "HQ and maturity from public company information; funding not verified",
-  "hq": "Bengaluru, IN",
-  "india_hiring": {
-    "board": {
-      "apac": 0,
-      "countries": [
-        "India",
-        "Japan",
-        "United States"
-      ],
-      "india": 20,
-      "india_samples": [
-        {
-          "location": "Bangalore",
-          "title": "Applied Scientist II - Recommendation",
-          "url": "https://job-boards.greenhouse.io/glance/jobs/7528898"
-        },
-        {
-          "location": "Bangalore",
-          "title": "Applied Scientist III - Recommendations",
-          "url": "https://job-boards.greenhouse.io/glance/jobs/8054915"
-        },
-        {
-          "location": "bangalore",
-          "title": "Consultant - AI Governance Specialist",
-          "url": "https://job-boards.greenhouse.io/glance/jobs/8203695"
-        },
-        {
-          "location": "Bangalore",
-          "title": "Lead - Taxation",
-          "url": "https://job-boards.greenhouse.io/glance/jobs/7903950"
-        }
-      ],
-      "open_samples": [],
-      "remote": 0,
-      "restricted_remote": 0,
-      "restricted_samples": [],
-      "slug": "glance",
-      "total": 33,
-      "type": "greenhouse",
-      "url": "https://boards.greenhouse.io/glance",
-      "worldwide": 0
-    },
-    "changed_at": "2026-10-27T10:26:45Z",
-    "evidence": [
-      {
-        "detail": "Applied Scientist II - Recommendation (Bangalore); Applied Scientist III - Recommendations (Bangalore); Consultant - AI Governance Specialist (bangalore)",
-        "kind": "board",
-        "label": "20 of 33 open roles are located in India",
-        "url": "https://boards.greenhouse.io/glance",
-        "weight": 5
-      },
-      {
-        "detail": "Sr. Motion Designer — Bangalore",
-        "kind": "posting",
-        "label": "A current posting lists India as a location",
-        "url": "https://job-boards.greenhouse.io/glance/jobs/8021653",
-        "weight": 5
-      },
-      {
-        "detail": "Bengaluru, IN",
-        "kind": "registry",
-        "label": "Headquartered in India",
-        "url": "https://boards.greenhouse.io/glance",
-        "weight": 5
-      }
-    ],
-    "first_checked_at": "2026-10-15T16:19:24Z",
-    "india_based": true,
-    "method": "Careers board, posting text",
-    "sig": "b2e7f48be2",
-    "summary": "Glance is headquartered in India.",
-    "verdict": "yes"
-  },
-  "maturity": "Late-stage private",
-  "name": "Glance",
+ "aliases": [
+  "Glance"
+ ],
+ "ats": {
   "slug": "glance",
-  "tier": 1
+  "type": "greenhouse"
+ },
+ "careers": "https://boards.greenhouse.io/glance",
+ "category": "Consumer tech",
+ "classification": "Motion Intelligence registry (curated)",
+ "domain": "glance.com",
+ "facts_note": "HQ and maturity from public company information; funding not verified",
+ "hq": "Bengaluru, IN",
+ "india_hiring": {
+  "board": {
+   "apac": 0,
+   "countries": [
+    "India",
+    "Japan",
+    "United States"
+   ],
+   "india": 21,
+   "india_samples": [
+    {
+     "location": "Bangalore",
+     "title": "Applied Scientist II - Recommendation",
+     "url": "https://job-boards.greenhouse.io/glance/jobs/7528898"
+    },
+    {
+     "location": "Bangalore",
+     "title": "Applied Scientist III - Recommendation Systems ",
+     "url": "https://job-boards.greenhouse.io/glance/jobs/7528890"
+    },
+    {
+     "location": "Bangalore",
+     "title": "Applied Scientist III - Recommendations",
+     "url": "https://job-boards.greenhouse.io/glance/jobs/8054915"
+    },
+    {
+     "location": "bangalore",
+     "title": "Consultant - AI Governance Specialist",
+     "url": "https://job-boards.greenhouse.io/glance/jobs/8203695"
+    }
+   ],
+   "open_samples": [],
+   "remote": 0,
+   "restricted_remote": 0,
+   "restricted_samples": [],
+   "slug": "glance",
+   "total": 34,
+   "type": "greenhouse",
+   "url": "https://boards.greenhouse.io/glance",
+   "worldwide": 0
+  },
+  "changed_at": "2026-10-27T15:28:11Z",
+  "evidence": [
+   {
+    "detail": "Applied Scientist II - Recommendation (Bangalore); Applied Scientist III - Recommendation Systems  (Bangalore); Applied Scientist III - Recommendations (Bangalore)",
+    "kind": "board",
+    "label": "21 of 34 open roles are located in India",
+    "url": "https://boards.greenhouse.io/glance",
+    "weight": 5
+   },
+   {
+    "detail": "Sr. Motion Designer — Bangalore",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://job-boards.greenhouse.io/glance/jobs/8021653",
+    "weight": 5
+   },
+   {
+    "detail": "Bengaluru, IN",
+    "kind": "registry",
+    "label": "Headquartered in India",
+    "url": "https://boards.greenhouse.io/glance",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-10-15T16:19:24Z",
+  "india_based": true,
+  "method": "Careers board, posting text",
+  "sig": "2fe2c4a45b",
+  "summary": "Glance is headquartered in India.",
+  "verdict": "yes"
+ },
+ "maturity": "Late-stage private",
+ "name": "Glance",
+ "slug": "glance",
+ "tier": 1
 }

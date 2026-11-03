@@ -1,30 +1,30 @@
 {
-  "category": "Other",
-  "classification": "Inferred from job description",
-  "india_hiring": {
-    "board": null,
-    "changed_at": "2026-10-20T13:44:34Z",
-    "evidence": [
-      {
-        "detail": "Manual Mobile Application Tester, Web Application Testing — Mumbai City, India",
-        "kind": "posting",
-        "label": "A current posting lists India as a location",
-        "url": "https://www.shine.com/jobs/manual-mobile-application-tester-web-application-testing/five-feed-learning-solutions-pvt-ltd/19533923",
-        "weight": 5
-      }
-    ],
-    "first_checked_at": "2026-10-20T13:44:34Z",
-    "india_based": false,
-    "method": "Careers board, posting text",
-    "sig": "0684d27e77",
-    "summary": "A current posting lists India as a location.",
-    "verdict": "yes"
-  },
-  "inferred": true,
-  "name": "Five Feed Learning Solutions Pvt. Ltd.",
-  "slug": "five-feed-learning-solutions-pvt-ltd",
-  "tier": 3,
-  "tracks": [
-    "software"
-  ]
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-20T13:44:34Z",
+  "evidence": [
+   {
+    "detail": "Manual Mobile Application Tester, Web Application Testing — Mumbai City, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/manual-mobile-application-tester-web-application-testing/five-feed-learning-solutions-pvt-ltd/19533923",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-10-20T13:44:34Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "0684d27e77",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Five Feed Learning Solutions Pvt. Ltd.",
+ "slug": "five-feed-learning-solutions-pvt-ltd",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
 }

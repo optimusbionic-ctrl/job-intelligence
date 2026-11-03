@@ -1,0 +1,67 @@
+{
+ "category": "IT services",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-29T12:55:23Z",
+  "evidence": [
+   {
+    "detail": "UAT Tester (10 months project) — Worldwide",
+    "kind": "posting",
+    "label": "A current posting is open worldwide",
+    "url": "https://himalayas.app/companies/techbiz-global/jobs/uat-tester-10-months-project-6970196857?utm_source=api",
+    "weight": 3
+   }
+  ],
+  "first_checked_at": "2026-10-29T12:55:23Z",
+  "india_based": false,
+  "method": "Careers board, posting text, web search",
+  "sig": "5ebd7918c2",
+  "summary": "No India-located roles found, but a current posting is open worldwide.",
+  "verdict": "likely",
+  "web": {
+   "checked_at": "2026-10-29T14:02:12Z",
+   "query": "\"TechBiz Global\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
+   "results": [
+    {
+     "description": "",
+     "title": "Logo of the Federal Ministry for Economic Affairs and Energy",
+     "url": "https://fintechfestival.german-pavilion.com/en/sites/exhibitors/129531"
+    },
+    {
+     "description": "",
+     "title": "EARLY BIRD EXTENDED",
+     "url": "https://www.fintechfestival.sg/exhibitors/techbizglobal"
+    },
+    {
+     "description": "",
+     "title": "WFH.teamOpen app",
+     "url": "https://wfh.team/companies/techbiz-global"
+    },
+    {
+     "description": "",
+     "title": "techbiz global",
+     "url": "https://www.playroll.com/partner-network/techbiz-global"
+    },
+    {
+     "description": "",
+     "title": "defunct.fintechfestival.sg",
+     "url": "https://defunct.fintechfestival.sg/sponsors/techbizglobal"
+    },
+    {
+     "description": "",
+     "title": "Logo of the Federal Ministry for Economic Affairs and Energy",
+     "url": "https://money.german-pavilion.com/en/sites/exhibitors/138111"
+    }
+   ]
+  }
+ },
+ "inferred": true,
+ "logo": "https://cdn-images.himalayas.app/fs8dnwotdo5pm0aebf6ufosgpmne",
+ "name": "TechBiz Global",
+ "slug": "techbiz-global",
+ "tier": 2,
+ "tracks": [
+  "software"
+ ]
+}

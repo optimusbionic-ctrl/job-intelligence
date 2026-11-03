@@ -1,94 +1,94 @@
 {
-  "ats": {
-    "slug": "kestra",
-    "type": "ashby"
-  },
-  "category": "Product / SaaS",
-  "classification": "Inferred from job description",
-  "india_hiring": {
-    "board": {
-      "apac": 0,
-      "countries": [
-        "France",
-        "United States",
-        "India"
-      ],
-      "india": 1,
-      "india_samples": [
-        {
-          "location": "Europe • India",
-          "title": "Senior Security Engineer",
-          "url": "https://jobs.ashbyhq.com/kestra/48a6eb68-1ff3-4947-89e5-324831c22859"
-        }
-      ],
-      "open_samples": [],
-      "remote": 5,
-      "restricted_remote": 4,
-      "restricted_samples": [
-        {
-          "location": "Europe",
-          "title": "People & Talent Lead",
-          "url": "https://jobs.ashbyhq.com/kestra/fb42cec8-9b6c-48a9-9b30-815e9113e68b"
-        },
-        {
-          "location": "United States",
-          "title": "Senior Business Development Representative",
-          "url": "https://jobs.ashbyhq.com/kestra/ee01c4ed-4c23-49a9-82fb-f9e3c549aabc"
-        },
-        {
-          "location": "United States",
-          "title": "Senior Demand Generation Manager",
-          "url": "https://jobs.ashbyhq.com/kestra/76ba6b75-a72d-4bf5-be0a-aeff45c4852e"
-        },
-        {
-          "location": "France",
-          "title": "Senior Field Engineer, France",
-          "url": "https://jobs.ashbyhq.com/kestra/08e76b6a-fa0b-430f-a56e-bb61e9dcdef6"
-        }
-      ],
-      "slug": "kestra",
-      "total": 5,
-      "type": "ashby",
-      "url": "https://jobs.ashbyhq.com/kestra",
-      "worldwide": 0
+ "ats": {
+  "slug": "kestra",
+  "type": "ashby"
+ },
+ "category": "Product / SaaS",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": {
+   "apac": 0,
+   "countries": [
+    "France",
+    "India",
+    "United States"
+   ],
+   "india": 1,
+   "india_samples": [
+    {
+     "location": "Europe • India",
+     "title": "Senior Security Engineer",
+     "url": "https://jobs.ashbyhq.com/kestra/48a6eb68-1ff3-4947-89e5-324831c22859"
+    }
+   ],
+   "open_samples": [],
+   "remote": 5,
+   "restricted_remote": 4,
+   "restricted_samples": [
+    {
+     "location": "Europe",
+     "title": "Lead Tech SRE",
+     "url": "https://jobs.ashbyhq.com/kestra/70662b46-8fdb-486c-96eb-33fe71c5514a"
     },
-    "changed_at": "2026-10-20T12:47:14Z",
-    "evidence": [
-      {
-        "detail": "Senior Security Engineer (Europe • India)",
-        "kind": "board",
-        "label": "1 of 5 open roles is located in India",
-        "url": "https://jobs.ashbyhq.com/kestra",
-        "weight": 5
-      },
-      {
-        "detail": "QA Engineer — France, India",
-        "kind": "posting",
-        "label": "A current posting lists India as a location",
-        "url": "https://himalayas.app/companies/kestra-technologies/jobs/qa-engineer-6503849793?utm_source=api",
-        "weight": 5
-      },
-      {
-        "detail": "…• Strong written communication in English. You'll collaborate with a globally distributed team and document issues clearly.  • Self directed and detail oriented. Yo…",
-        "kind": "posting",
-        "label": "Posting describes hiring across countries",
-        "url": "https://himalayas.app/companies/kestra-technologies/jobs/qa-engineer-6503849793?utm_source=api",
-        "weight": 3
-      }
-    ],
-    "first_checked_at": "2026-10-19T13:24:59Z",
-    "india_based": false,
-    "method": "Careers board, posting text",
-    "sig": "550310f18d",
-    "summary": "1 of 5 open roles is located in India.",
-    "verdict": "yes"
+    {
+     "location": "Europe",
+     "title": "People & Talent Lead",
+     "url": "https://jobs.ashbyhq.com/kestra/fb42cec8-9b6c-48a9-9b30-815e9113e68b"
+    },
+    {
+     "location": "United States",
+     "title": "Senior Demand Generation Manager",
+     "url": "https://jobs.ashbyhq.com/kestra/76ba6b75-a72d-4bf5-be0a-aeff45c4852e"
+    },
+    {
+     "location": "France",
+     "title": "Senior Field Engineer, France",
+     "url": "https://jobs.ashbyhq.com/kestra/08e76b6a-fa0b-430f-a56e-bb61e9dcdef6"
+    }
+   ],
+   "slug": "kestra",
+   "total": 5,
+   "type": "ashby",
+   "url": "https://jobs.ashbyhq.com/kestra",
+   "worldwide": 0
   },
-  "inferred": true,
-  "logo": "https://cdn-images.himalayas.app/n8fg86go8wmavj4soyaamc9zhwpl",
-  "name": "Kestra Technologies",
-  "slug": "kestra-technologies",
-  "tier": 1,
-  "tracks": [
-    "software"
-  ]
+  "changed_at": "2026-10-29T19:43:47Z",
+  "evidence": [
+   {
+    "detail": "Senior Security Engineer (Europe • India)",
+    "kind": "board",
+    "label": "1 of 5 open roles is located in India",
+    "url": "https://jobs.ashbyhq.com/kestra",
+    "weight": 5
+   },
+   {
+    "detail": "QA Engineer — France, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://himalayas.app/companies/kestra-technologies/jobs/qa-engineer-6503849793?utm_source=api",
+    "weight": 5
+   },
+   {
+    "detail": "…• Strong written communication in English. You'll collaborate with a globally distributed team and document issues clearly.  • Self directed and detail oriented. Yo…",
+    "kind": "posting",
+    "label": "Posting describes hiring across countries",
+    "url": "https://himalayas.app/companies/kestra-technologies/jobs/qa-engineer-6503849793?utm_source=api",
+    "weight": 3
+   }
+  ],
+  "first_checked_at": "2026-10-19T13:24:59Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "550310f18d",
+  "summary": "1 of 5 open roles is located in India.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "logo": "https://cdn-images.himalayas.app/n8fg86go8wmavj4soyaamc9zhwpl",
+ "name": "Kestra Technologies",
+ "slug": "kestra-technologies",
+ "tier": 1,
+ "tracks": [
+  "software"
+ ]
 }

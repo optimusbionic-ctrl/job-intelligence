@@ -3,7 +3,7 @@
  "classification": "Inferred from job description",
  "india_hiring": {
   "board": null,
-  "changed_at": "2026-10-27T10:50:24Z",
+  "changed_at": "2026-10-27T10:43:30Z",
   "evidence": [
    {
     "detail": "Quality Assurance Engineer — Worldwide",
@@ -13,12 +13,48 @@
     "weight": 3
    }
   ],
-  "first_checked_at": "2026-10-27T10:50:24Z",
+  "first_checked_at": "2026-10-27T10:43:30Z",
   "india_based": false,
-  "method": "Careers board, posting text",
+  "method": "Careers board, posting text, web search",
   "sig": "1532ef2388",
   "summary": "No India-located roles found, but a current posting is open worldwide.",
-  "verdict": "likely"
+  "verdict": "likely",
+  "web": {
+   "checked_at": "2026-10-27T15:56:13Z",
+   "query": "\"Zoftify — Travel Software Development\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
+   "results": [
+    {
+     "description": "",
+     "title": "RemoteJobs.org mascotRemoteJobs.org",
+     "url": "https://remotejobs.org/companies/zoftify-travel-software-development"
+    },
+    {
+     "description": "",
+     "title": "sales bdr netherlands remote",
+     "url": "https://www.remoterocketship.com/company/zoftify/jobs/sales-bdr-netherlands-remote/"
+    },
+    {
+     "description": "",
+     "title": "Zoftify Eesti",
+     "url": "https://app.dealroom.co/companies/zoftify_eesti"
+    },
+    {
+     "description": "",
+     "title": "📞 Приходите на HR-созвон 16 апреля",
+     "url": "https://zonerukz.duckdns.org/companies/zoftify-com"
+    },
+    {
+     "description": "",
+     "title": "Travel Portal Development",
+     "url": "https://llm.dataforseo.com/?p=31282"
+    },
+    {
+     "description": "",
+     "title": "tripify india software engineer lxbonrug31",
+     "url": "https://arc.dev/remote-jobs/j/tripify-india-software-engineer-lxbonrug31"
+    }
+   ]
+  }
  },
  "inferred": true,
  "logo": "https://cdn-images.himalayas.app/bbqjil72erqzt6oq7onvectbvjgo",

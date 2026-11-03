@@ -1,102 +1,102 @@
 {
-  "apply_url": null,
-  "board_apply": "https://himalayas.app/companies/netomi/jobs/software-development-engineer-in-test-i?utm_source=api",
-  "category": "Product / SaaS",
-  "comp_potential": "unknown",
-  "company": "Netomi",
-  "company_slug": "netomi",
-  "concerns": [
-    "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
-    "Also asks for: API testing, SQL / databases, Programming",
-    "Entry-level role — pay may be at the lower end",
-    "Pay not disclosed — ask for the range early"
-  ],
-  "contacts_count": 0,
-  "content_hash": "0f5224fd1538",
-  "date_quality": "exact",
-  "deadline": "2026-11-09T08:52:16Z",
-  "employment": "full-time",
-  "first_seen": "2026-10-19T13:24:59Z",
-  "fit": 76,
-  "has_hiring_manager": false,
-  "has_named_contact": false,
-  "has_public_email": false,
-  "id": "7570eae9ca5b4f",
-  "include_reason": "Automation-heavy QA (SDET)",
-  "india": {
-    "cities": [],
-    "company": "yes",
-    "reason": "Location lists India",
-    "status": "confirmed",
-    "visa": false
-  },
-  "kind": "automation",
-  "last_verified": "2026-10-19T13:24:59Z",
-  "location": "India",
-  "logo": "https://cdn-images.himalayas.app/sriwytl7l8sxt67b0yvt6kdb887x",
-  "needs_review": false,
-  "official": false,
-  "posted_at": "2026-09-10T08:52:17Z",
-  "repost": false,
-  "requirements": [
-    "2+ years of QA experience with a Bachelor’s in Computer Science or related field.",
-    "Expertise in manual and automation testing, including test planning and execution.",
-    "Hands-on experience with tools like Selenium, TestNG/JUnit, Rest Assured."
-  ],
-  "responsibilities": [
-    "Monitoring and improving quality assurance process ensuring any agreed-upon standards and procedures are followed",
-    "Providing a high level of data quality awareness across multiple teams",
-    "Evaluating and identifying where enhancements in accuracy of models are required",
-    "Detailed testing feedback preparation to help the team to improve AI models"
-  ],
-  "salary": {
-    "state": "unavailable"
-  },
-  "scores": {
-    "ai": 58,
-    "comp": 60,
-    "company": 95,
-    "location": 100,
-    "seniority": 100,
-    "skill": 49
-  },
-  "seniority": "junior",
-  "snippet": "About the Company:\n\n Netomi is the leading agentic AI platform for enterprise customer experience. We work with the largest global brands like Delta Airlines, MetLife, MGM, United, and others to enable agentic automation at scale across the entire customer journey. Our no-code platform delivers the fastest time to market, lowest total cost of ownership, and simple, scalable management of AI agents for any CX use case",
-  "source_primary": "Himalayas",
-  "sources": [
-    {
-      "id": "himalayas",
-      "job_id": "https://himalayas.app/companies/netomi/jobs/software-development-engineer-in-test-i",
-      "kind": "board",
-      "name": "Himalayas",
-      "posted_at": "2026-09-10T08:52:17Z",
-      "seen_at": "2026-10-19T13:24:59Z",
-      "url": "https://himalayas.app/companies/netomi/jobs/software-development-engineer-in-test-i?utm_source=api"
-    }
-  ],
-  "specializations": [],
-  "status": "active",
-  "tier": 1,
-  "title": "Software Development Engineer In Test - I",
-  "tools": [
-    "Functional testing",
-    "Test cases & scenarios",
-    "Google Sheets / Excel",
-    "API testing",
-    "SQL / databases",
-    "Test automation",
-    "Programming"
-  ],
-  "track": "software",
-  "updated_at": null,
-  "url": "https://himalayas.app/companies/netomi/jobs/software-development-engineer-in-test-i?utm_source=api",
-  "why": [
-    "Already on your resume: Functional testing, Test cases & scenarios, Google Sheets / Excel",
-    "Product / SaaS company",
-    "Asks for 2+ years — you have about 2.5",
-    "Location lists India"
-  ],
-  "work_mode": "remote",
-  "years_max": null,
-  "years_min": 2
+ "apply_url": null,
+ "board_apply": "https://himalayas.app/companies/netomi/jobs/software-development-engineer-in-test-i?utm_source=api",
+ "category": "Product / SaaS",
+ "comp_potential": "unknown",
+ "company": "Netomi",
+ "company_slug": "netomi",
+ "concerns": [
+  "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
+  "Also asks for: API testing, SQL / databases, Programming",
+  "Entry-level role — pay may be at the lower end",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "0f5224fd1538",
+ "date_quality": "exact",
+ "deadline": "2026-11-09T08:52:16Z",
+ "employment": "full-time",
+ "first_seen": "2026-10-19T13:24:59Z",
+ "fit": 76,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "7570eae9ca5b4f",
+ "include_reason": "Automation-heavy QA (SDET)",
+ "india": {
+  "cities": [],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "automation",
+ "last_verified": "2026-10-19T13:24:59Z",
+ "location": "India",
+ "logo": "https://cdn-images.himalayas.app/sriwytl7l8sxt67b0yvt6kdb887x",
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-09-10T08:52:17Z",
+ "repost": false,
+ "requirements": [
+  "2+ years of QA experience with a Bachelor’s in Computer Science or related field.",
+  "Expertise in manual and automation testing, including test planning and execution.",
+  "Hands-on experience with tools like Selenium, TestNG/JUnit, Rest Assured."
+ ],
+ "responsibilities": [
+  "Monitoring and improving quality assurance process ensuring any agreed-upon standards and procedures are followed",
+  "Providing a high level of data quality awareness across multiple teams",
+  "Evaluating and identifying where enhancements in accuracy of models are required",
+  "Detailed testing feedback preparation to help the team to improve AI models"
+ ],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 60,
+  "company": 95,
+  "location": 100,
+  "seniority": 100,
+  "skill": 49
+ },
+ "seniority": "junior",
+ "snippet": "About the Company:\n\n Netomi is the leading agentic AI platform for enterprise customer experience. We work with the largest global brands like Delta Airlines, MetLife, MGM, United, and others to enable agentic automation at scale across the entire customer journey. Our no-code platform delivers the fastest time to market, lowest total cost of ownership, and simple, scalable management of AI agents for any CX use case",
+ "source_primary": "Himalayas",
+ "sources": [
+  {
+   "id": "himalayas",
+   "job_id": "https://himalayas.app/companies/netomi/jobs/software-development-engineer-in-test-i",
+   "kind": "board",
+   "name": "Himalayas",
+   "posted_at": "2026-09-10T08:52:17Z",
+   "seen_at": "2026-10-19T13:24:59Z",
+   "url": "https://himalayas.app/companies/netomi/jobs/software-development-engineer-in-test-i?utm_source=api"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 1,
+ "title": "Software Development Engineer In Test - I",
+ "tools": [
+  "Functional testing",
+  "Test cases & scenarios",
+  "Google Sheets / Excel",
+  "API testing",
+  "SQL / databases",
+  "Test automation",
+  "Programming"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://himalayas.app/companies/netomi/jobs/software-development-engineer-in-test-i?utm_source=api",
+ "why": [
+  "Already on your resume: Functional testing, Test cases & scenarios, Google Sheets / Excel",
+  "Product / SaaS company",
+  "Asks for 2+ years — you have about 2.5",
+  "Location lists India"
+ ],
+ "work_mode": "remote",
+ "years_max": null,
+ "years_min": 2
 }

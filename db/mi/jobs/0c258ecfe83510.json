@@ -1,130 +1,130 @@
 {
-  "apply_url": "https://job-boards.greenhouse.io/glance/jobs/8021653",
-  "board_apply": null,
-  "category": "Consumer tech",
-  "comp_potential": "unknown",
-  "company": "Glance",
-  "company_slug": "glance",
-  "concerns": [
-    "Pay not disclosed — showing a low-confidence estimate",
-    "Also asks for: ProtoPie",
-    "Reposted / refreshed listing — original posting is older"
+ "apply_url": "https://job-boards.greenhouse.io/glance/jobs/8021653",
+ "board_apply": null,
+ "category": "Consumer tech",
+ "comp_potential": "unknown",
+ "company": "Glance",
+ "company_slug": "glance",
+ "concerns": [
+  "Pay not disclosed — showing a low-confidence estimate",
+  "Also asks for: ProtoPie",
+  "Reposted / refreshed listing — original posting is older"
+ ],
+ "contacts_count": 1,
+ "content_hash": "205c4a9a34bf",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-10-15T15:27:11Z",
+ "fit": 86,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "0c258ecfe83510",
+ "include_reason": "Motion design title",
+ "india": {
+  "cities": [
+   "Bengaluru"
   ],
-  "contacts_count": 1,
-  "content_hash": "205c4a9a34bf",
-  "date_quality": "exact",
-  "deadline": null,
-  "employment": "full-time",
-  "first_seen": "2026-10-15T15:27:11Z",
-  "fit": 86,
-  "has_hiring_manager": false,
-  "has_named_contact": false,
-  "has_public_email": false,
-  "id": "0c258ecfe83510",
-  "include_reason": "Motion design title",
-  "india": {
-    "cities": [
-      "Bengaluru"
-    ],
-    "company": "yes",
-    "reason": "Location lists India",
-    "status": "confirmed",
-    "visa": false
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "motion",
+ "last_verified": "2026-10-15T18:30:15Z",
+ "location": "Bangalore",
+ "logo": null,
+ "needs_review": false,
+ "official": true,
+ "posted_at": "2026-07-07T12:43:41Z",
+ "repost": true,
+ "requirements": [
+  "Motion Product Portfolio: A collection of work showcasing interactive prototyping, UI animation, kinetic system frameworks, or transition choreographies embedded within shipped software or applications.",
+  "Kinetic Physics & Timing: Deep structural mastery of easing curves, interpolation, velocity, spatial tracking, and visual storytelling inside confined mobile environments.",
+  "Advanced Tooling Expertise: High proficiency with After Effects, Figma, Principle, ProtoPie, or equivalent interactive prototyping ecosystems.",
+  "Technical Communication: Ability to communicate complex motion parameters, frame constraints, and behaviour definitions precisely to engineering partners.",
+  "Native familiarity with gesture tracking, system windows, and navigation transitions native to modern Android OS distributions.",
+  "Experience building and maintaining code-exportable animation pipelines (e.g., Lottie, custom vector drawables, or native engine transition values) to ensure pixel-perfect deployment.",
+  "A Bachelor’s, Master’s, or Post-Graduate degree in Animation, Media Arts, Interactive Design, Film/Video Design, or an equivalent technical creative field."
+ ],
+ "responsibilities": [
+  "What will you work on?",
+  "Architect the Kinetic Signature: Define, maintain, and elevate the unified motion language, choreographed transitions, and physics engines across Glance’s mobile surfaces. Your work will span everything from micro-interactions and tactile feedback loops to rich, immersive visual narratives.",
+  "Integrate Motion Early: Partner intimately with UX, Visual Design, Product, and Engineering from the initial ideation phase, ensuring that motion is treated as an architectural foundation of the user journey rather than a cosmetic addition at the end of a sprint.",
+  "Systematise Repeatable Behaviour: Create reusable, scalable motion principles, interpolation curves, timing guidelines, and asset packages that allow other product teams to scale consistent kinetic behaviour across features and use cases.",
+  "Bridge Concept to Code: Build high-fidelity interactive prototypes to test real feel and collaborate directly with front-end Android engineers to translate motion paths into production code without loss of visual fidelity.",
+  "Mentor and Inspire: Guide, structure, and educate junior designers within the studio on the principles of UI motion, framing motion as an instrument of clarity and brand expression.",
+  "Represent the Studio: Share your insights, workflow methodologies, and Glance’s motion innovation both internally to the larger InMobi organisation and externally within the broader global design community."
+ ],
+ "salary": {
+  "estimate": {
+   "confidence": "low",
+   "currency": "INR",
+   "evidence": [
+    "ab-senior-motion-designer-in",
+    "ab-senior-motion-graphic-designer-in",
+    "gd-senior-motion-designer-blr"
+   ],
+   "high": 920000,
+   "inr_high": 920000,
+   "inr_low": 800000,
+   "low": 800000,
+   "method": "India market averages for senior motion designers from 3 sources (AmbitionBox ×2, Glassdoor Bangalore): ₹8.0–9.2 LPA. These are averages across all employers and experience around 3 years; product companies like this one may pay more, but no company-specific pay data was found.",
+   "potential": "unknown"
   },
-  "kind": "motion",
-  "last_verified": "2026-10-15T18:30:15Z",
-  "location": "Bangalore",
-  "logo": null,
-  "needs_review": false,
-  "official": true,
-  "posted_at": "2026-07-07T12:43:41Z",
-  "repost": true,
-  "requirements": [
-    "Motion Product Portfolio: A collection of work showcasing interactive prototyping, UI animation, kinetic system frameworks, or transition choreographies embedded within shipped software or applications.",
-    "Kinetic Physics & Timing: Deep structural mastery of easing curves, interpolation, velocity, spatial tracking, and visual storytelling inside confined mobile environments.",
-    "Advanced Tooling Expertise: High proficiency with After Effects, Figma, Principle, ProtoPie, or equivalent interactive prototyping ecosystems.",
-    "Technical Communication: Ability to communicate complex motion parameters, frame constraints, and behaviour definitions precisely to engineering partners.",
-    "Native familiarity with gesture tracking, system windows, and navigation transitions native to modern Android OS distributions.",
-    "Experience building and maintaining code-exportable animation pipelines (e.g., Lottie, custom vector drawables, or native engine transition values) to ensure pixel-perfect deployment.",
-    "A Bachelor’s, Master’s, or Post-Graduate degree in Animation, Media Arts, Interactive Design, Film/Video Design, or an equivalent technical creative field."
-  ],
-  "responsibilities": [
-    "What will you work on?",
-    "Architect the Kinetic Signature: Define, maintain, and elevate the unified motion language, choreographed transitions, and physics engines across Glance’s mobile surfaces. Your work will span everything from micro-interactions and tactile feedback loops to rich, immersive visual narratives.",
-    "Integrate Motion Early: Partner intimately with UX, Visual Design, Product, and Engineering from the initial ideation phase, ensuring that motion is treated as an architectural foundation of the user journey rather than a cosmetic addition at the end of a sprint.",
-    "Systematise Repeatable Behaviour: Create reusable, scalable motion principles, interpolation curves, timing guidelines, and asset packages that allow other product teams to scale consistent kinetic behaviour across features and use cases.",
-    "Bridge Concept to Code: Build high-fidelity interactive prototypes to test real feel and collaborate directly with front-end Android engineers to translate motion paths into production code without loss of visual fidelity.",
-    "Mentor and Inspire: Guide, structure, and educate junior designers within the studio on the principles of UI motion, framing motion as an instrument of clarity and brand expression.",
-    "Represent the Studio: Share your insights, workflow methodologies, and Glance’s motion innovation both internally to the larger InMobi organisation and externally within the broader global design community."
-  ],
-  "salary": {
-    "estimate": {
-      "confidence": "low",
-      "currency": "INR",
-      "evidence": [
-        "ab-senior-motion-designer-in",
-        "ab-senior-motion-graphic-designer-in",
-        "gd-senior-motion-designer-blr"
-      ],
-      "high": 920000,
-      "inr_high": 920000,
-      "inr_low": 800000,
-      "low": 800000,
-      "method": "India market averages for senior motion designers from 3 sources (AmbitionBox ×2, Glassdoor Bangalore): ₹8.0–9.2 LPA. These are averages across all employers and experience around 3 years; product companies like this one may pay more, but no company-specific pay data was found.",
-      "potential": "unknown"
-    },
-    "note": "Estimate — not employer-confirmed",
-    "state": "estimate",
-    "verified_at": "2026-10-15T18:30:15Z"
-  },
-  "scores": {
-    "ai": 100,
-    "comp": 48,
-    "company": 95,
-    "location": 86,
-    "seniority": 100,
-    "skill": 86
-  },
-  "seniority": "senior",
-  "snippet": "Glance \n\n Glance is an intelligent shopping agent, redefining the commerce experience. Powered by proprietary agentic intelligence and generative AI, Glance delivers a hyper-personalized consumer experience across mobile and TV — shaping the new era of shopping. Glance is operated by Glance InMobi Pte. Ltd., a non-consolidated subsidiary of global technology leader InMobi, and is backed by Mithril Capital, Google and",
-  "source_primary": "Glance careers (Greenhouse)",
-  "sources": [
-    {
-      "id": "greenhouse",
-      "job_id": "gh:glance:8021653",
-      "kind": "ats",
-      "name": "Glance careers (Greenhouse)",
-      "posted_at": "2026-07-07T12:43:41Z",
-      "seen_at": "2026-10-15T18:30:15Z",
-      "url": "https://job-boards.greenhouse.io/glance/jobs/8021653"
-    }
-  ],
-  "specializations": [
-    "UI/UX animation",
-    "Micro-interactions",
-    "Brand motion",
-    "AI-generated video",
-    "Interaction systems",
-    "Technical storytelling"
-  ],
-  "status": "verified",
-  "tier": 1,
-  "title": "Sr. Motion Designer",
-  "tools": [
-    "After Effects",
-    "Lottie",
-    "Figma",
-    "ProtoPie"
-  ],
-  "updated_at": "2026-09-24T08:31:44Z",
-  "url": "https://job-boards.greenhouse.io/glance/jobs/8021653",
-  "why": [
-    "Core motion design role",
-    "Tools you already use: After Effects, Lottie, Figma",
-    "Specialisations in scope: UI/UX animation, Micro-interactions, Brand motion, AI-generated video",
-    "Consumer tech company (Tier 1 priority)",
-    "Location lists India"
-  ],
-  "work_mode": "onsite",
-  "years_min": null
+  "note": "Estimate — not employer-confirmed",
+  "state": "estimate",
+  "verified_at": "2026-10-15T18:30:15Z"
+ },
+ "scores": {
+  "ai": 100,
+  "comp": 48,
+  "company": 95,
+  "location": 86,
+  "seniority": 100,
+  "skill": 86
+ },
+ "seniority": "senior",
+ "snippet": "Glance \n\n Glance is an intelligent shopping agent, redefining the commerce experience. Powered by proprietary agentic intelligence and generative AI, Glance delivers a hyper-personalized consumer experience across mobile and TV — shaping the new era of shopping. Glance is operated by Glance InMobi Pte. Ltd., a non-consolidated subsidiary of global technology leader InMobi, and is backed by Mithril Capital, Google and",
+ "source_primary": "Glance careers (Greenhouse)",
+ "sources": [
+  {
+   "id": "greenhouse",
+   "job_id": "gh:glance:8021653",
+   "kind": "ats",
+   "name": "Glance careers (Greenhouse)",
+   "posted_at": "2026-07-07T12:43:41Z",
+   "seen_at": "2026-10-15T18:30:15Z",
+   "url": "https://job-boards.greenhouse.io/glance/jobs/8021653"
+  }
+ ],
+ "specializations": [
+  "UI/UX animation",
+  "Micro-interactions",
+  "Brand motion",
+  "AI-generated video",
+  "Interaction systems",
+  "Technical storytelling"
+ ],
+ "status": "verified",
+ "tier": 1,
+ "title": "Sr. Motion Designer",
+ "tools": [
+  "After Effects",
+  "Lottie",
+  "Figma",
+  "ProtoPie"
+ ],
+ "updated_at": "2026-09-24T08:31:44Z",
+ "url": "https://job-boards.greenhouse.io/glance/jobs/8021653",
+ "why": [
+  "Core motion design role",
+  "Tools you already use: After Effects, Lottie, Figma",
+  "Specialisations in scope: UI/UX animation, Micro-interactions, Brand motion, AI-generated video",
+  "Consumer tech company (Tier 1 priority)",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_min": null
 }

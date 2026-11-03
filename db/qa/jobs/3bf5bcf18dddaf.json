@@ -1,84 +1,84 @@
 {
-  "apply_url": null,
-  "board_apply": "https://www.shine.com/jobs/qa-engineer/izee-manpower-consultancy-pvt-ltd/19781753",
-  "category": "Recruiter (client not named)",
-  "comp_potential": "unknown",
-  "company": "IZEE MANPOWER CONSULTANCY PVT LTD",
-  "company_slug": "izee-manpower-consultancy-pvt-ltd",
-  "concerns": [
-    "Asks for 4+ years — you have about 2.5",
-    "Office outside Mumbai — relocation within India",
-    "Pay not disclosed — ask for the range early"
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/qa-engineer/izee-manpower-consultancy-pvt-ltd/19781753",
+ "category": "Recruiter (client not named)",
+ "comp_potential": "unknown",
+ "company": "IZEE MANPOWER CONSULTANCY PVT LTD",
+ "company_slug": "izee-manpower-consultancy-pvt-ltd",
+ "concerns": [
+  "Asks for 4+ years — you have about 2.5",
+  "Office outside Mumbai — relocation within India",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "b7be03d1f994",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-10-19T13:24:59Z",
+ "fit": 61,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "3bf5bcf18dddaf",
+ "include_reason": "QA / test engineer title",
+ "india": {
+  "cities": [
+   "Pune"
   ],
-  "contacts_count": 0,
-  "content_hash": "b7be03d1f994",
-  "date_quality": "exact",
-  "deadline": null,
-  "employment": "full-time",
-  "first_seen": "2026-10-19T13:24:59Z",
-  "fit": 61,
-  "has_hiring_manager": false,
-  "has_named_contact": false,
-  "has_public_email": false,
-  "id": "3bf5bcf18dddaf",
-  "include_reason": "QA / test engineer title",
-  "india": {
-    "cities": [
-      "Pune"
-    ],
-    "company": "yes",
-    "reason": "Location lists India",
-    "status": "confirmed",
-    "visa": false
-  },
-  "kind": "qa-engineer",
-  "last_verified": "2026-10-19T13:24:59Z",
-  "location": "Pune, India",
-  "logo": null,
-  "needs_review": false,
-  "official": false,
-  "posted_at": "2026-10-12T12:31:45Z",
-  "repost": false,
-  "requirements": [],
-  "responsibilities": [],
-  "salary": {
-    "state": "unavailable"
-  },
-  "scores": {
-    "ai": 58,
-    "comp": 60,
-    "company": 66,
-    "location": 78,
-    "seniority": 72,
-    "skill": 43
-  },
-  "seniority": "unspecified",
-  "snippet": "Experience: 4 Yrs\nSkills: sdet, salesforce, acbs, pega, api, automation, qa engineer, automation tester, ncin\n(Summary from the Shine.com listing; open the posting for the full description.)",
-  "source_primary": "Shine.com",
-  "sources": [
-    {
-      "id": "shine",
-      "job_id": "19781753",
-      "kind": "board",
-      "name": "Shine.com",
-      "posted_at": "2026-10-12T12:31:45Z",
-      "seen_at": "2026-10-19T13:24:59Z",
-      "url": "https://www.shine.com/jobs/qa-engineer/izee-manpower-consultancy-pvt-ltd/19781753"
-    }
-  ],
-  "specializations": [],
-  "status": "active",
-  "tier": 3,
-  "title": "QA Engineer",
-  "tools": [],
-  "track": "software",
-  "updated_at": null,
-  "url": "https://www.shine.com/jobs/qa-engineer/izee-manpower-consultancy-pvt-ltd/19781753",
-  "why": [
-    "QA / test engineer role",
-    "Location lists India"
-  ],
-  "work_mode": "onsite",
-  "years_max": null,
-  "years_min": 4
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "qa-engineer",
+ "last_verified": "2026-10-19T13:24:59Z",
+ "location": "Pune, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-10-12T12:31:45Z",
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 60,
+  "company": 66,
+  "location": 78,
+  "seniority": 72,
+  "skill": 43
+ },
+ "seniority": "unspecified",
+ "snippet": "Experience: 4 Yrs\nSkills: sdet, salesforce, acbs, pega, api, automation, qa engineer, automation tester, ncin\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "19781753",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-10-12T12:31:45Z",
+   "seen_at": "2026-10-19T13:24:59Z",
+   "url": "https://www.shine.com/jobs/qa-engineer/izee-manpower-consultancy-pvt-ltd/19781753"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 3,
+ "title": "QA Engineer",
+ "tools": [],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/qa-engineer/izee-manpower-consultancy-pvt-ltd/19781753",
+ "why": [
+  "QA / test engineer role",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": null,
+ "years_min": 4
 }

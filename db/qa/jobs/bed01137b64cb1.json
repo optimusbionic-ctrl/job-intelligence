@@ -1,102 +1,102 @@
 {
-  "apply_url": null,
-  "board_apply": "https://himalayas.app/companies/infracloud/jobs/performance-test-engineer?utm_source=api",
-  "category": "Fintech",
-  "comp_potential": "unknown",
-  "company": "InfraCloud",
-  "company_slug": "infracloud",
-  "concerns": [
-    "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
-    "Also asks for: SQL / databases, Programming",
-    "Asks for 4+ years — you have about 2.5",
-    "Pay not disclosed — ask for the range early"
-  ],
-  "contacts_count": 0,
-  "content_hash": "7ae53a3ceb40",
-  "date_quality": "exact",
-  "deadline": "2026-12-01T02:02:10Z",
-  "employment": "full-time",
-  "first_seen": "2026-10-19T13:24:59Z",
-  "fit": 73,
-  "has_hiring_manager": false,
-  "has_named_contact": false,
-  "has_public_email": false,
-  "id": "bed01137b64cb1",
-  "include_reason": "Automation-heavy QA (SDET)",
-  "india": {
-    "cities": [],
-    "company": "yes",
-    "reason": "Location lists India",
-    "status": "confirmed",
-    "visa": false
-  },
-  "kind": "automation",
-  "last_verified": "2026-10-19T13:24:59Z",
-  "location": "India",
-  "logo": "https://cdn-images.himalayas.app/t2iu2cg9abyy2jd6r9ey2sr8zc5b",
-  "needs_review": false,
-  "official": false,
-  "posted_at": "2026-10-02T02:02:11Z",
-  "repost": false,
-  "requirements": [
-    "4 to 5 years of experience in testing cloud-based web applications.",
-    "Be hands-on UNIX command line, utilities, and tools (Awk, Sed knowledge is plus) usage",
-    "Demonstrate good knowledge of scripting languages such as Python or Shell and SQL"
-  ],
-  "responsibilities": [
-    "Performing Feature and Performance Testing for software releases includes -feature understanding, perform and participate in requirement gathering",
-    "Customizing/creating a test environment, developing test plans, running automated and manual tests, analyzing test results, and reporting issues/bugs",
-    "Creating and applying new approaches, concepts to improve the Automation coverage, productivity, and efficiency of testing practices",
-    "Maintaining and enhancing our large-scale, distributed test environment",
-    "Be able to design testing tools, which includes developing scripts to enhance regression testing"
-  ],
-  "salary": {
-    "state": "unavailable"
-  },
-  "scores": {
-    "ai": 62,
-    "comp": 60,
-    "company": 95,
-    "location": 100,
-    "seniority": 72,
-    "skill": 58
-  },
-  "seniority": "unspecified",
-  "snippet": "Performance Test Engineer \nPune, Maharashtra, India | Full-time | Fully remote\n Responsibilities: \n\n• Performing Feature and Performance Testing for software releases includes -feature understanding, perform and participate in requirement gathering\n\n• Customizing/creating a test environment, developing test plans, running automated and manual tests, analyzing test results, and reporting issues/bugs\n\n• Creating and ap",
-  "source_primary": "Himalayas",
-  "sources": [
-    {
-      "id": "himalayas",
-      "job_id": "https://himalayas.app/companies/infracloud/jobs/performance-test-engineer",
-      "kind": "board",
-      "name": "Himalayas",
-      "posted_at": "2026-10-02T02:02:11Z",
-      "seen_at": "2026-10-19T13:24:59Z",
-      "url": "https://himalayas.app/companies/infracloud/jobs/performance-test-engineer?utm_source=api"
-    }
-  ],
-  "specializations": [
-    "Web apps"
-  ],
-  "status": "active",
-  "tier": 1,
-  "title": "Performance Test Engineer",
-  "tools": [
-    "Regression testing",
-    "Stress / load testing",
-    "Test cases & scenarios",
-    "SQL / databases",
-    "Programming"
-  ],
-  "track": "software",
-  "updated_at": null,
-  "url": "https://himalayas.app/companies/infracloud/jobs/performance-test-engineer?utm_source=api",
-  "why": [
-    "Already on your resume: Regression testing, Stress / load testing, Test cases & scenarios",
-    "Fintech company",
-    "Location lists India"
-  ],
-  "work_mode": "remote",
-  "years_max": 5,
-  "years_min": 4
+ "apply_url": null,
+ "board_apply": "https://himalayas.app/companies/infracloud/jobs/performance-test-engineer?utm_source=api",
+ "category": "Fintech",
+ "comp_potential": "unknown",
+ "company": "InfraCloud",
+ "company_slug": "infracloud",
+ "concerns": [
+  "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
+  "Also asks for: SQL / databases, Programming",
+  "Asks for 4+ years — you have about 2.5",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "7ae53a3ceb40",
+ "date_quality": "exact",
+ "deadline": "2026-12-01T02:02:10Z",
+ "employment": "full-time",
+ "first_seen": "2026-10-19T13:24:59Z",
+ "fit": 73,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "bed01137b64cb1",
+ "include_reason": "Automation-heavy QA (SDET)",
+ "india": {
+  "cities": [],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "automation",
+ "last_verified": "2026-10-19T13:24:59Z",
+ "location": "India",
+ "logo": "https://cdn-images.himalayas.app/t2iu2cg9abyy2jd6r9ey2sr8zc5b",
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-10-02T02:02:11Z",
+ "repost": false,
+ "requirements": [
+  "4 to 5 years of experience in testing cloud-based web applications.",
+  "Be hands-on UNIX command line, utilities, and tools (Awk, Sed knowledge is plus) usage",
+  "Demonstrate good knowledge of scripting languages such as Python or Shell and SQL"
+ ],
+ "responsibilities": [
+  "Performing Feature and Performance Testing for software releases includes -feature understanding, perform and participate in requirement gathering",
+  "Customizing/creating a test environment, developing test plans, running automated and manual tests, analyzing test results, and reporting issues/bugs",
+  "Creating and applying new approaches, concepts to improve the Automation coverage, productivity, and efficiency of testing practices",
+  "Maintaining and enhancing our large-scale, distributed test environment",
+  "Be able to design testing tools, which includes developing scripts to enhance regression testing"
+ ],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 62,
+  "comp": 60,
+  "company": 95,
+  "location": 100,
+  "seniority": 72,
+  "skill": 58
+ },
+ "seniority": "unspecified",
+ "snippet": "Performance Test Engineer \nPune, Maharashtra, India | Full-time | Fully remote\n Responsibilities: \n\n• Performing Feature and Performance Testing for software releases includes -feature understanding, perform and participate in requirement gathering\n\n• Customizing/creating a test environment, developing test plans, running automated and manual tests, analyzing test results, and reporting issues/bugs\n\n• Creating and ap",
+ "source_primary": "Himalayas",
+ "sources": [
+  {
+   "id": "himalayas",
+   "job_id": "https://himalayas.app/companies/infracloud/jobs/performance-test-engineer",
+   "kind": "board",
+   "name": "Himalayas",
+   "posted_at": "2026-10-02T02:02:11Z",
+   "seen_at": "2026-10-19T13:24:59Z",
+   "url": "https://himalayas.app/companies/infracloud/jobs/performance-test-engineer?utm_source=api"
+  }
+ ],
+ "specializations": [
+  "Web apps"
+ ],
+ "status": "active",
+ "tier": 1,
+ "title": "Performance Test Engineer",
+ "tools": [
+  "Regression testing",
+  "Stress / load testing",
+  "Test cases & scenarios",
+  "SQL / databases",
+  "Programming"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://himalayas.app/companies/infracloud/jobs/performance-test-engineer?utm_source=api",
+ "why": [
+  "Already on your resume: Regression testing, Stress / load testing, Test cases & scenarios",
+  "Fintech company",
+  "Location lists India"
+ ],
+ "work_mode": "remote",
+ "years_max": 5,
+ "years_min": 4
 }

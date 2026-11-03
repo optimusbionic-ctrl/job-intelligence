@@ -10,7 +10,7 @@
   "Office outside Mumbai — relocation within India"
  ],
  "contacts_count": 0,
- "content_hash": "e662f0f6e5aa",
+ "content_hash": "b493c0a55478",
  "date_quality": "exact",
  "deadline": null,
  "employment": "full-time",
@@ -23,8 +23,7 @@
  "include_reason": "Manual / functional QA title",
  "india": {
   "cities": [
-   "Pune",
-   "Hyderabad"
+   "Pune"
   ],
   "company": "yes",
   "reason": "Location lists India",
@@ -32,8 +31,8 @@
   "visa": false
  },
  "kind": "manual-qa",
- "last_verified": "2026-10-27T10:50:24Z",
- "location": "Pune, Belgaum, Gulbarga, Hyderabad, Hubli, Bidar, India",
+ "last_verified": "2026-10-29T08:43:46Z",
+ "location": "Pune, Bellary, Belgaum, Hubli, Bidar, Dharwad, India",
  "logo": null,
  "needs_review": false,
  "official": false,
@@ -47,8 +46,8 @@
   "applies_india": true,
   "basis": "listed",
   "currency": "INR",
-  "fx_at": "Tue, 27 Oct 2026 00:02:31 +0000",
-  "fx_rate": 1.0,
+  "fx_at": "Thu, 29 Oct 2026 00:02:31 +0000",
+  "fx_rate": 1,
   "inr_max": 1400000,
   "inr_min": 100000,
   "max": 1400000,
@@ -59,7 +58,7 @@
   "source_name": "Shine.com",
   "source_url": "https://www.shine.com/jobs/as-manual-functional-integration-tester/converse-placement-services-india-private-limited/19869271",
   "state": "verified",
-  "verified_at": "2026-10-27T10:50:24Z"
+  "verified_at": "2026-10-29T08:43:46Z"
  },
  "scores": {
   "ai": 58,
@@ -79,7 +78,7 @@
    "kind": "board",
    "name": "Shine.com",
    "posted_at": "2026-10-20T12:03:55Z",
-   "seen_at": "2026-10-27T10:50:24Z",
+   "seen_at": "2026-10-29T08:43:46Z",
    "url": "https://www.shine.com/jobs/as-manual-functional-integration-tester/converse-placement-services-india-private-limited/19869271"
   }
  ],

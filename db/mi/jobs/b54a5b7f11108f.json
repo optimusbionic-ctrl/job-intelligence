@@ -1,82 +1,81 @@
 {
-  "apply_url": null,
-  "board_apply": "https://dribbble.com/jobs/310967-Product-Designer-Mobile-UX-UI-Motion",
-  "category": "Other",
-  "comp_potential": "unknown",
-  "company": "Ihsan",
-  "company_slug": "ihsan",
-  "concerns": [
-    "Compensation not disclosed",
-    "Full description not available from this source"
-  ],
-  "contacts_count": 0,
-  "content_hash": "e49d6d8d9596",
-  "date_quality": "approx",
-  "deadline": null,
-  "employment": "full-time",
-  "first_seen": "2026-10-15T15:27:11Z",
-  "fit": 58,
-  "has_hiring_manager": false,
-  "has_named_contact": false,
-  "has_public_email": false,
-  "id": "b54a5b7f11108f",
-  "include_reason": "Motion design title",
-  "india": {
-    "basis": "company",
-    "cities": [],
-    "company": "likely",
-    "reason": "Region not stated; Ihsan hires across countries",
-    "status": "likely",
-    "visa": false
-  },
-  "kind": "motion",
-  "last_verified": "2026-10-15T18:30:15Z",
-  "location": "Remote",
-  "logo": "https://cdn.dribbble.com/userupload/49248315/file/b1de673f03318eed2596dfa2aff861ab.jpg?resize=24x24",
-  "needs_review": false,
-  "official": false,
-  "posted_at": "2026-10-07T11:26:59Z",
-  "repost": false,
-  "requirements": [],
-  "responsibilities": [],
-  "salary": {
-    "context_benchmark": "mi-dataset-remote",
-    "note": "Not disclosed. Global remote pay context is available, but there is no evidence it applies to this employer or to India-based hires.",
-    "state": "unavailable"
-  },
-  "scores": {
-    "ai": 45,
-    "comp": 48,
-    "company": 40,
-    "location": 78,
-    "seniority": 66,
-    "skill": 69
-  },
-  "seniority": "unspecified",
-  "snippet": "",
-  "source_primary": "Dribbble Jobs",
-  "sources": [
-    {
-      "id": "dribbble",
-      "job_id": "/jobs/310967-Product-Designer-Mobile-UX-UI-Motion",
-      "kind": "board",
-      "name": "Dribbble Jobs",
-      "posted_at": "2026-10-07T11:26:59Z",
-      "seen_at": "2026-10-15T18:30:15Z",
-      "url": "https://dribbble.com/jobs/310967-Product-Designer-Mobile-UX-UI-Motion"
-    }
-  ],
-  "specializations": [],
-  "status": "active",
-  "tier": 3,
-  "title": "Product Designer — Mobile UX/UI & Motion",
-  "tools": [],
-  "updated_at": null,
-  "url": "https://dribbble.com/jobs/310967-Product-Designer-Mobile-UX-UI-Motion",
-  "why": [
-    "Core motion design role",
-    "Region not stated; Ihsan hires across countries"
-  ],
-  "work_mode": "remote",
-  "years_min": null
+ "apply_url": null,
+ "board_apply": "https://dribbble.com/jobs/310967-Product-Designer-Mobile-UX-UI-Motion",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "Ihsan",
+ "company_slug": "ihsan",
+ "concerns": [
+  "Employer has not confirmed hiring from India",
+  "Compensation not disclosed",
+  "Full description not available from this source"
+ ],
+ "contacts_count": 0,
+ "content_hash": "758d2f1e5de7",
+ "date_quality": "approx",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-10-15T15:27:11Z",
+ "fit": 54,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "b54a5b7f11108f",
+ "include_reason": "Motion design title",
+ "india": {
+  "cities": [],
+  "company": "unclear",
+  "reason": "Remote, region not stated",
+  "status": "unconfirmed",
+  "visa": false
+ },
+ "kind": "motion",
+ "last_verified": "2026-10-29T16:34:04Z",
+ "location": "Remote",
+ "logo": "https://cdn.dribbble.com/userupload/49248315/file/b1de673f03318eed2596dfa2aff861ab.jpg?resize=24x24",
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-10-07T11:26:59Z",
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "context_benchmark": "mi-dataset-remote",
+  "note": "Not disclosed. Global remote pay context is available, but there is no evidence it applies to this employer or to India-based hires.",
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 45,
+  "comp": 48,
+  "company": 40,
+  "location": 38,
+  "seniority": 66,
+  "skill": 69
+ },
+ "seniority": "unspecified",
+ "snippet": "",
+ "source_primary": "Dribbble Jobs",
+ "sources": [
+  {
+   "id": "dribbble",
+   "job_id": "/jobs/310967-Product-Designer-Mobile-UX-UI-Motion",
+   "kind": "board",
+   "name": "Dribbble Jobs",
+   "posted_at": "2026-10-07T11:26:59Z",
+   "seen_at": "2026-10-29T16:34:04Z",
+   "url": "https://dribbble.com/jobs/310967-Product-Designer-Mobile-UX-UI-Motion"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 3,
+ "title": "Product Designer — Mobile UX/UI & Motion",
+ "tools": [],
+ "updated_at": null,
+ "url": "https://dribbble.com/jobs/310967-Product-Designer-Mobile-UX-UI-Motion",
+ "why": [
+  "Core motion design role"
+ ],
+ "work_mode": "remote",
+ "years_min": null
 }

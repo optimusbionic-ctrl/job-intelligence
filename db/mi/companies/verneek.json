@@ -1,70 +1,70 @@
 {
-  "category": "Other",
-  "classification": "Inferred from job description",
-  "india_hiring": {
-    "board": null,
-    "changed_at": "2026-10-17T13:26:56Z",
-    "evidence": [
-      {
-        "detail": "Motion Marketing Designer (Remote) — Remote from: Philippines, Asia, APAC",
-        "kind": "posting",
-        "label": "A current posting is open worldwide",
-        "url": "https://jobgether.com/offer/6ad27b8c49c73d7b998a235f-motion-marketing-designer-remote",
-        "weight": 3
-      },
-      {
-        "detail": "Verneek - Current Openings - Workable Jobs — “Lists roles only in United States”",
-        "kind": "web",
-        "label": "Web suggests hiring is limited to named countries",
-        "url": "https://apply.workable.com/verneek/",
-        "weight": -1
-      }
-    ],
-    "first_checked_at": "2026-10-17T12:28:32Z",
-    "india_based": false,
-    "method": "Careers board, posting text, web search",
-    "sig": "bc7464f869",
-    "summary": "No India-located roles found, but a current posting is open worldwide.",
-    "verdict": "likely",
-    "web": {
-      "checked_at": "2026-10-17T13:26:56Z",
-      "query": "\"Verneek\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
-      "results": [
-        {
-          "description": "Careers at Verneek. Join us in building the most helpful AI in the world ... Motion Marketing Designer (Remote). Posted 10 months ago. RemoteFront-endFull ...",
-          "title": "Verneek - Current Openings - Workable Jobs",
-          "url": "https://apply.workable.com/verneek/"
-        },
-        {
-          "description": "Today's top 10 Verneek jobs in Worldwide. Leverage your professional network, and get hired. New Verneek jobs added daily ... Motion Marketing Designer (Remote).",
-          "title": "Verneek Jobs in Worldwide (10 Open Roles) | LinkedIn",
-          "url": "https://www.linkedin.com/jobs/verneek-jobs-worldwide"
-        },
-        {
-          "description": "Browse 5 Verneek jobs in New York, NY. New jobs posted today. Apply ... Remote Anywhere In The World jobs in RemoteThe Veraden jobs in Edmond, OKAll ...",
-          "title": "Verneek jobs in New York, NY - Indeed",
-          "url": "https://www.indeed.com/q-verneek-l-new-york,-ny-jobs.html"
-        },
-        {
-          "description": "Is Verneek hiring? Yes, Verneek has 2 open remote job s . Does Verneek support remote work or working from home? Yes, Verneek is a remote-friendly company.",
-          "title": "Verneek Remote Jobs, Careers, Tech Stack, and ... - WFH.team",
-          "url": "https://wfh.team/companies/verneek"
-        },
-        {
-          "description": "Explore jobs and careers at Verneek. Verneek is currently hiring for a range ... Motion Marketing Designer (Remote). 11 Days AgoSaved. Remote. Philippines.",
-          "title": "Verneek Jobs + Careers | Built In",
-          "url": "https://builtin.com/company/verneek/jobs"
-        },
-        {
-          "description": "Find out if Verneek is the right fit for your future career! Explore jobs ... Remote Jobs, Locations, Startups, Startups Hiring, Industries, Tech Hubs. One ...",
-          "title": "Verneek Careers - Insights and Opportunities - Wellfound",
-          "url": "https://wellfound.com/company/verneek"
-        }
-      ]
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-17T13:26:56Z",
+  "evidence": [
+   {
+    "detail": "Motion Marketing Designer (Remote) — Remote from: Philippines, Asia, APAC",
+    "kind": "posting",
+    "label": "A current posting is open worldwide",
+    "url": "https://jobgether.com/offer/6ad27b8c49c73d7b998a235f-motion-marketing-designer-remote",
+    "weight": 3
+   },
+   {
+    "detail": "Verneek - Current Openings - Workable Jobs — “Lists roles only in United States”",
+    "kind": "web",
+    "label": "Web suggests hiring is limited to named countries",
+    "url": "https://apply.workable.com/verneek/",
+    "weight": -1
+   }
+  ],
+  "first_checked_at": "2026-10-17T12:28:32Z",
+  "india_based": false,
+  "method": "Careers board, posting text, web search",
+  "sig": "bc7464f869",
+  "summary": "No India-located roles found, but a current posting is open worldwide.",
+  "verdict": "likely",
+  "web": {
+   "checked_at": "2026-10-17T13:26:56Z",
+   "query": "\"Verneek\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
+   "results": [
+    {
+     "description": "Careers at Verneek. Join us in building the most helpful AI in the world ... Motion Marketing Designer (Remote). Posted 10 months ago. RemoteFront-endFull ...",
+     "title": "Verneek - Current Openings - Workable Jobs",
+     "url": "https://apply.workable.com/verneek/"
+    },
+    {
+     "description": "Today's top 10 Verneek jobs in Worldwide. Leverage your professional network, and get hired. New Verneek jobs added daily ... Motion Marketing Designer (Remote).",
+     "title": "Verneek Jobs in Worldwide (10 Open Roles) | LinkedIn",
+     "url": "https://www.linkedin.com/jobs/verneek-jobs-worldwide"
+    },
+    {
+     "description": "Browse 5 Verneek jobs in New York, NY. New jobs posted today. Apply ... Remote Anywhere In The World jobs in RemoteThe Veraden jobs in Edmond, OKAll ...",
+     "title": "Verneek jobs in New York, NY - Indeed",
+     "url": "https://www.indeed.com/q-verneek-l-new-york,-ny-jobs.html"
+    },
+    {
+     "description": "Is Verneek hiring? Yes, Verneek has 2 open remote job s . Does Verneek support remote work or working from home? Yes, Verneek is a remote-friendly company.",
+     "title": "Verneek Remote Jobs, Careers, Tech Stack, and ... - WFH.team",
+     "url": "https://wfh.team/companies/verneek"
+    },
+    {
+     "description": "Explore jobs and careers at Verneek. Verneek is currently hiring for a range ... Motion Marketing Designer (Remote). 11 Days AgoSaved. Remote. Philippines.",
+     "title": "Verneek Jobs + Careers | Built In",
+     "url": "https://builtin.com/company/verneek/jobs"
+    },
+    {
+     "description": "Find out if Verneek is the right fit for your future career! Explore jobs ... Remote Jobs, Locations, Startups, Startups Hiring, Industries, Tech Hubs. One ...",
+     "title": "Verneek Careers - Insights and Opportunities - Wellfound",
+     "url": "https://wellfound.com/company/verneek"
     }
-  },
-  "inferred": true,
-  "name": "Verneek",
-  "slug": "verneek",
-  "tier": 3
+   ]
+  }
+ },
+ "inferred": true,
+ "name": "Verneek",
+ "slug": "verneek",
+ "tier": 3
 }

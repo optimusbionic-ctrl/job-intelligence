@@ -1,124 +1,125 @@
 {
-  "aliases": [
-    "Circle.so"
-  ],
-  "ats": {
-    "slug": "circle",
-    "type": "ashby"
-  },
-  "careers": "https://jobs.ashbyhq.com/circle",
-  "category": "SaaS",
-  "classification": "Motion Intelligence registry (curated)",
-  "domain": "circle.so",
-  "facts_note": "HQ and maturity from public company information; funding not verified",
-  "hq": "Remote-first",
-  "india_hiring": {
-    "board": {
-      "apac": 1,
-      "countries": [
-        "United States"
-      ],
-      "india": 0,
-      "india_samples": [],
-      "open_samples": [
-        {
-          "location": "Anywhere • Europe, Middle East, Africa, Asia-Pacific (EMEA, APAC)",
-          "title": "Lead Engineer, AI Platform",
-          "url": "https://jobs.ashbyhq.com/circle/cb085d54-568c-46b3-829f-b18885c6cda2"
-        }
-      ],
-      "remote": 10,
-      "restricted_remote": 9,
-      "restricted_samples": [
-        {
-          "location": "Anywhere",
-          "title": "Creative Director",
-          "url": "https://jobs.ashbyhq.com/circle/3a63b143-e1df-4655-8a62-ec20a1e1f1eb"
-        },
-        {
-          "location": "United States",
-          "title": "Director of Strategic Partnerships",
-          "url": "https://jobs.ashbyhq.com/circle/569f2f24-03ca-4cdb-80d5-0e28ba331580"
-        },
-        {
-          "location": "Anywhere",
-          "title": "Growth Lead, Discover",
-          "url": "https://jobs.ashbyhq.com/circle/37d7acf2-3ce3-48cb-aa89-1120c72680f3"
-        },
-        {
-          "location": "Anywhere",
-          "title": "Senior Brand Designer",
-          "url": "https://jobs.ashbyhq.com/circle/67a0c185-329e-4dca-8011-711082b2cb97"
-        }
-      ],
-      "slug": "circle",
-      "total": 10,
-      "type": "ashby",
-      "url": "https://jobs.ashbyhq.com/circle",
-      "worldwide": 0
-    },
-    "changed_at": "2026-10-23T19:26:34Z",
-    "evidence": [
-      {
-        "detail": "Lead Engineer, AI Platform (Anywhere • Europe, Middle East, Africa, Asia-Pacific (EMEA, APAC))",
-        "kind": "board",
-        "label": "1 open role is open worldwide or to APAC",
-        "url": "https://jobs.ashbyhq.com/circle",
-        "weight": 3
-      },
-      {
-        "detail": "…We’re proud to be a fully remote company of around 270 (and growing!) team members from 30+ countries around the world. We seek exceptional individuals around the world, set them up to do…",
-        "kind": "posting",
-        "label": "Posting describes hiring across countries",
-        "url": "https://jobs.ashbyhq.com/circle/67a0c185-329e-4dca-8011-711082b2cb97",
-        "weight": 3
-      }
-    ],
-    "first_checked_at": "2026-10-15T16:19:24Z",
-    "india_based": false,
-    "method": "Careers board, posting text, web search",
-    "sig": "4338794190",
-    "summary": "No India-located roles found, but 1 open role is open worldwide or to APAC.",
-    "verdict": "likely",
-    "web": {
-      "checked_at": "2026-10-15T16:55:58Z",
-      "query": "site:circle.so careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
-      "results": [
-        {
-          "description": "Join the Circle team. Our mission is to help the world connect and transform. We've hosted offsites in Turkey, Portugal, Mexico, Thailand, Colombia, and Italy. By the world, for the world. [team photo: careers-team-india] Montenegro, United Kingdom, Portugal, Poland, Uruguay, Slovenia",
-          "title": "Join the Circle team",
-          "url": "https://circle.so/careers"
-        },
-        {
-          "description": "Social Media Lead. Anywhere. About Us: We're proud to be a fully remote company of around 270 (and growing!)",
-          "title": "Social Media Lead | Circle Careers",
-          "url": "https://circle.so/careers/ashby--923d908d-0afe-44ad-b835-9c009bfa1e1d"
-        },
-        {
-          "description": "Remote Job Board. Curated listings across tech, product, design, and more.",
-          "title": "WeWorkRemotely Community",
-          "url": "https://discover.circle.so/products/weworkremotely-community"
-        },
-        {
-          "description": "Lead Product Designer. Anywhere. About Us: We're proud to be a fully remote company of around 270 (and growing!)",
-          "title": "Lead Product Designer | Circle Careers",
-          "url": "https://circle.so/careers/ashby--130695ad-687e-4c49-976f-eb46f9b45ac9"
-        },
-        {
-          "description": "Senior Brand Designer. Anywhere. We're proud to be a fully remote company of around 270 (and growing!) team members from 30+ countries around the world.",
-          "title": "Senior Brand Designer | Circle Careers",
-          "url": "https://circle.so/careers/ashby--67a0c185-329e-4dca-8011-711082b2cb97"
-        },
-        {
-          "description": "Senior Quality Engineer. Anywhere. We're proud to be a fully remote company of around 270 (and growing!) team members from 30+ countries around the world.",
-          "title": "Senior Quality Engineer | Circle Careers",
-          "url": "https://circle.so/careers/ashby--c32d4c53-7580-4f4c-a286-743e99eaee53"
-        }
-      ]
+ "aliases": [
+  "Circle.so"
+ ],
+ "ats": {
+  "slug": "circle",
+  "type": "ashby"
+ },
+ "careers": "https://jobs.ashbyhq.com/circle",
+ "category": "SaaS",
+ "classification": "Motion Intelligence registry (curated)",
+ "domain": "circle.so",
+ "facts_note": "HQ and maturity from public company information; funding not verified",
+ "hq": "Remote-first",
+ "india_hiring": {
+  "board": {
+   "apac": 0,
+   "countries": [
+    "United States",
+    "India"
+   ],
+   "india": 1,
+   "india_samples": [
+    {
+     "location": "Asia-Pacific (APAC) • North America, South America (AMER)",
+     "title": "Lead Engineer, AI ",
+     "url": "https://jobs.ashbyhq.com/circle/19c93928-5816-4056-bac6-513fe64ef55f"
     }
+   ],
+   "open_samples": [],
+   "remote": 8,
+   "restricted_remote": 7,
+   "restricted_samples": [
+    {
+     "location": "Anywhere",
+     "title": "Creative Director",
+     "url": "https://jobs.ashbyhq.com/circle/3a63b143-e1df-4655-8a62-ec20a1e1f1eb"
+    },
+    {
+     "location": "United States",
+     "title": "Director of Strategic Partnerships",
+     "url": "https://jobs.ashbyhq.com/circle/569f2f24-03ca-4cdb-80d5-0e28ba331580"
+    },
+    {
+     "location": "Anywhere",
+     "title": "Growth Lead, Marketplace",
+     "url": "https://jobs.ashbyhq.com/circle/b65d87cb-70bf-4716-992c-53c3c7540311"
+    },
+    {
+     "location": "United States",
+     "title": "Social Media Lead ",
+     "url": "https://jobs.ashbyhq.com/circle/923d908d-0afe-44ad-b835-9c009bfa1e1d"
+    }
+   ],
+   "slug": "circle",
+   "total": 8,
+   "type": "ashby",
+   "url": "https://jobs.ashbyhq.com/circle",
+   "worldwide": 0
   },
-  "maturity": "Growth-stage private",
-  "name": "Circle.so",
-  "slug": "circleso",
-  "tier": 1
+  "changed_at": "2026-11-03T10:27:01Z",
+  "evidence": [
+   {
+    "detail": "Lead Engineer, AI  (Asia-Pacific (APAC) • North America, South America (AMER))",
+    "kind": "board",
+    "label": "1 of 8 open roles is located in India",
+    "url": "https://jobs.ashbyhq.com/circle",
+    "weight": 5
+   },
+   {
+    "detail": "…We’re proud to be a fully remote company of around 270 (and growing!) team members from 30+ countries around the world. We seek exceptional individuals around the world, set them up to do…",
+    "kind": "posting",
+    "label": "Posting describes hiring across countries",
+    "url": "https://jobs.ashbyhq.com/circle/67a0c185-329e-4dca-8011-711082b2cb97",
+    "weight": 3
+   }
+  ],
+  "first_checked_at": "2026-10-15T16:19:24Z",
+  "india_based": false,
+  "method": "Careers board, posting text, web search",
+  "sig": "9643d4937e",
+  "summary": "1 of 8 open roles is located in India.",
+  "verdict": "yes",
+  "web": {
+   "checked_at": "2026-10-29T18:27:37Z",
+   "query": "site:circle.so careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
+   "results": [
+    {
+     "description": "",
+     "title": "Back to jobs",
+     "url": "https://job-boards.greenhouse.io/circleso/jobs/5168258008"
+    },
+    {
+     "description": "",
+     "title": "Circle (circle.so) Logo",
+     "url": "https://www.builtinaustin.com/job/payroll-benefits-coordinator/8893114"
+    },
+    {
+     "description": "",
+     "title": "Circle (circle.so) Logo",
+     "url": "https://builtinhyderabad.in/job/senior-full-stack-software-engineer-discover/10635347"
+    },
+    {
+     "description": "",
+     "title": "Circle (circle.so) Logo",
+     "url": "https://builtinbristol.uk/job/payroll-benefits-coordinator/8893114"
+    },
+    {
+     "description": "",
+     "title": "circle customer support specialist apac 6abe8b5ed451bdc891f3c369",
+     "url": "https://flexa.careers/jobs/circle-customer-support-specialist-apac-6abe8b5ed451bdc891f3c369"
+    },
+    {
+     "description": "",
+     "title": "Back to jobs",
+     "url": "https://job-boards.greenhouse.io/circleso/jobs/5180812008"
+    }
+   ]
+  }
+ },
+ "maturity": "Growth-stage private",
+ "name": "Circle.so",
+ "slug": "circleso",
+ "tier": 1
 }

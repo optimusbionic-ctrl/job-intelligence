@@ -1,0 +1,55 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-30T00:27:41Z",
+  "evidence": [],
+  "first_checked_at": "2026-10-30T00:27:41Z",
+  "india_based": false,
+  "method": "Careers board, posting text, web search",
+  "sig": "54391d7cdf",
+  "summary": "No public evidence yet about hiring from India.",
+  "verdict": "unclear",
+  "web": {
+   "checked_at": "2026-10-30T02:26:52Z",
+   "query": "\"Lottie Lab\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
+   "results": [
+    {
+     "description": "",
+     "title": "Careers b4f40799d8294be9ab1c910b881cf6ca",
+     "url": "https://lottielab.notion.site/Careers-b4f40799d8294be9ab1c910b881cf6ca"
+    },
+    {
+     "description": "",
+     "title": "Freelance Senior Product Designer, Lottie",
+     "url": "https://app.welcometothejungle.com/jobs/SoInocBW/company"
+    },
+    {
+     "description": "",
+     "title": "app.welcometothejungle.com",
+     "url": "https://app.welcometothejungle.com/companies/LottieLab"
+    },
+    {
+     "description": "",
+     "title": "www.talentd.in",
+     "url": "https://www.talentd.in/jobs/tags/lottie"
+    },
+    {
+     "description": "",
+     "title": "lottielab 2",
+     "url": "https://jobs.pointnine.com/companies/lottielab-2"
+    },
+    {
+     "description": "",
+     "title": "www.cbinsights.com",
+     "url": "https://www.cbinsights.com/company/lottie-lab/people"
+    }
+   ]
+  }
+ },
+ "inferred": true,
+ "name": "Lottie Lab",
+ "slug": "lottie-lab",
+ "tier": 3
+}

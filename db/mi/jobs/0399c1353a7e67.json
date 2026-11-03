@@ -1,124 +1,123 @@
 {
-  "apply_url": null,
-  "board_apply": "https://himalayas.app/companies/brnd-wgn/jobs/mid-level-graphic-motion-designer-363864368?utm_source=api",
-  "category": "Agency / studio",
-  "comp_potential": "verified35",
-  "company": "BRND WGN",
-  "company_slug": "brnd-wgn",
-  "concerns": [
-    "Employer has not confirmed hiring from India",
-    "Listed pay is in EUR; confirm it applies to India-based hires",
-    "Agency / studio (Tier 2)",
-    "Reposted / refreshed listing — original posting is older"
-  ],
-  "contacts_count": 0,
-  "content_hash": "8341e6f3b709",
-  "date_quality": "exact",
-  "deadline": "2026-12-24T08:42:32Z",
-  "employment": "full-time",
-  "first_seen": "2026-10-15T15:27:11Z",
-  "fit": 69,
-  "has_hiring_manager": false,
-  "has_named_contact": false,
-  "has_public_email": false,
-  "id": "0399c1353a7e67",
-  "include_reason": "Mixed graphic + motion title",
-  "india": {
-    "cities": [],
-    "company": "unclear",
-    "reason": "Description mentions US-based",
-    "status": "unconfirmed",
-    "visa": false
-  },
-  "kind": "graphic-motion",
-  "last_verified": "2026-10-27T10:26:45Z",
-  "location": "Worldwide",
-  "logo": "https://cdn-images.himalayas.app/d8auks8lsb8jdykacq58ila2xcc3",
-  "needs_review": false,
-  "official": false,
-  "posted_at": "2026-10-25T08:42:32Z",
-  "repost": true,
-  "requirements": [
-    "4–6 years of experience in graphic design, digital design, or brand identity work.",
-    "Advanced proficiency in Adobe Creative Suite and Figma (motion or prototyping tools are a plus).",
-    "Strong command of typography, layout, hierarchy, and design systems.",
-    "Experience designing for social media and paid digital campaigns.",
-    "Confident using AI tools as part of your creative workflow while maintaining a high standard of creative craft.",
-    "Ability to think conceptually and translate strategy into compelling visual ideas.",
-    "Experience working across multiple brands and projects in a fast-paced environment."
-  ],
-  "responsibilities": [
-    "Design high-quality creative primarily for digital, social, and paid media, with occasional print applications.",
-    "Develop and apply brand systems consistently across multiple touchpoints.",
-    "Produce motion graphics and animated content for digital channels.",
-    "Use AI-powered creative tools to improve ideation, workflows, and production efficiency.",
-    "Collaborate closely with creative directors, strategists, copywriters, and account teams.",
-    "Work effectively in a highly collaborative, small-team environment.",
-    "Prepare production-ready artwork with exceptional attention to detail."
-  ],
-  "salary": {
-    "applies_india": "unconfirmed",
-    "basis": "listed",
-    "currency": "EUR",
-    "fx_at": "Tue, 27 Oct 2026 00:02:31 +0000",
-    "fx_rate": 106.5727,
-    "inr_max": 4262907,
-    "inr_min": 4262907,
-    "max": 40000,
-    "min": 40000,
-    "note": "Listed for a worldwide-remote role; confirm it applies to India-based hires",
-    "original_period": "annual",
-    "period": "annual",
-    "source_name": "Himalayas",
-    "source_url": "https://himalayas.app/companies/brnd-wgn/jobs/mid-level-graphic-motion-designer-363864368?utm_source=api",
-    "state": "verified",
-    "verified_at": "2026-10-27T10:26:45Z"
-  },
-  "scores": {
-    "ai": 86,
-    "comp": 82,
-    "company": 62,
-    "location": 38,
-    "seniority": 62,
-    "skill": 74
-  },
-  "seniority": "mid",
-  "snippet": "BRND WGN \n —\n We're a team fuelled by strategic thinking and creativity, dedicated to helping entrepreneurs craft meaningful brands that positively impact our world. We aid these brands in developing robust strategies, impactful designs, successful campaigns, engaging content, web development, and exceptional UX/UI. We also create bold brand experiences that make their names stand out.\n Our approach is defined by cur",
-  "source_primary": "Himalayas",
-  "sources": [
-    {
-      "id": "himalayas",
-      "job_id": "https://himalayas.app/companies/brnd-wgn/jobs/mid-level-graphic-motion-designer-363864368",
-      "kind": "board",
-      "name": "Himalayas",
-      "posted_at": "2026-10-25T08:42:32Z",
-      "seen_at": "2026-10-27T10:26:45Z",
-      "url": "https://himalayas.app/companies/brnd-wgn/jobs/mid-level-graphic-motion-designer-363864368?utm_source=api"
-    }
-  ],
-  "specializations": [
-    "Brand motion",
-    "AI-generated video",
-    "Creative engineering",
-    "Interaction systems"
-  ],
-  "status": "active",
-  "tier": 2,
-  "title": "Mid-Level Graphic & Motion Designer",
-  "tools": [
-    "After Effects",
-    "Figma",
-    "Premiere Pro",
-    "Illustrator",
-    "Photoshop"
-  ],
-  "updated_at": null,
-  "url": "https://himalayas.app/companies/brnd-wgn/jobs/mid-level-graphic-motion-designer-363864368?utm_source=api",
-  "why": [
-    "Tools you already use: After Effects, Figma, Premiere Pro, Illustrator, Photoshop",
-    "Specialisations in scope: Brand motion, AI-generated video, Creative engineering, Interaction systems",
-    "Listed pay clears your ₹35 LPA target"
-  ],
-  "work_mode": "remote",
-  "years_min": 4
+ "apply_url": null,
+ "board_apply": "https://himalayas.app/companies/brnd-wgn/jobs/mid-level-graphic-motion-designer-363864368?utm_source=api",
+ "category": "Agency / studio",
+ "comp_potential": "verified35",
+ "company": "BRND WGN",
+ "company_slug": "brnd-wgn",
+ "concerns": [
+  "Employer has not confirmed hiring from India",
+  "Listed pay is in EUR; confirm it applies to India-based hires",
+  "Agency / studio (Tier 2)"
+ ],
+ "contacts_count": 0,
+ "content_hash": "8341e6f3b709",
+ "date_quality": "exact",
+ "deadline": "2026-12-24T08:42:32Z",
+ "employment": "full-time",
+ "first_seen": "2026-10-15T15:27:11Z",
+ "fit": 69,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "0399c1353a7e67",
+ "include_reason": "Mixed graphic + motion title",
+ "india": {
+  "cities": [],
+  "company": "unclear",
+  "reason": "Description mentions US-based",
+  "status": "unconfirmed",
+  "visa": false
+ },
+ "kind": "graphic-motion",
+ "last_verified": "2026-10-29T10:27:02Z",
+ "location": "Worldwide",
+ "logo": "https://cdn-images.himalayas.app/d8auks8lsb8jdykacq58ila2xcc3",
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-10-25T08:42:32Z",
+ "repost": false,
+ "requirements": [
+  "4–6 years of experience in graphic design, digital design, or brand identity work.",
+  "Advanced proficiency in Adobe Creative Suite and Figma (motion or prototyping tools are a plus).",
+  "Strong command of typography, layout, hierarchy, and design systems.",
+  "Experience designing for social media and paid digital campaigns.",
+  "Confident using AI tools as part of your creative workflow while maintaining a high standard of creative craft.",
+  "Ability to think conceptually and translate strategy into compelling visual ideas.",
+  "Experience working across multiple brands and projects in a fast-paced environment."
+ ],
+ "responsibilities": [
+  "Design high-quality creative primarily for digital, social, and paid media, with occasional print applications.",
+  "Develop and apply brand systems consistently across multiple touchpoints.",
+  "Produce motion graphics and animated content for digital channels.",
+  "Use AI-powered creative tools to improve ideation, workflows, and production efficiency.",
+  "Collaborate closely with creative directors, strategists, copywriters, and account teams.",
+  "Work effectively in a highly collaborative, small-team environment.",
+  "Prepare production-ready artwork with exceptional attention to detail."
+ ],
+ "salary": {
+  "applies_india": "unconfirmed",
+  "basis": "listed",
+  "currency": "EUR",
+  "fx_at": "Thu, 29 Oct 2026 00:02:31 +0000",
+  "fx_rate": 106.2133,
+  "inr_max": 4248531,
+  "inr_min": 4248531,
+  "max": 40000,
+  "min": 40000,
+  "note": "Listed for a worldwide-remote role; confirm it applies to India-based hires",
+  "original_period": "annual",
+  "period": "annual",
+  "source_name": "Himalayas",
+  "source_url": "https://himalayas.app/companies/brnd-wgn/jobs/mid-level-graphic-motion-designer-363864368?utm_source=api",
+  "state": "verified",
+  "verified_at": "2026-10-29T10:27:02Z"
+ },
+ "scores": {
+  "ai": 86,
+  "comp": 82,
+  "company": 62,
+  "location": 38,
+  "seniority": 62,
+  "skill": 74
+ },
+ "seniority": "mid",
+ "snippet": "BRND WGN \n —\n We're a team fuelled by strategic thinking and creativity, dedicated to helping entrepreneurs craft meaningful brands that positively impact our world. We aid these brands in developing robust strategies, impactful designs, successful campaigns, engaging content, web development, and exceptional UX/UI. We also create bold brand experiences that make their names stand out.\n Our approach is defined by cur",
+ "source_primary": "Himalayas",
+ "sources": [
+  {
+   "id": "himalayas",
+   "job_id": "https://himalayas.app/companies/brnd-wgn/jobs/mid-level-graphic-motion-designer-363864368",
+   "kind": "board",
+   "name": "Himalayas",
+   "posted_at": "2026-10-25T08:42:32Z",
+   "seen_at": "2026-10-29T10:27:02Z",
+   "url": "https://himalayas.app/companies/brnd-wgn/jobs/mid-level-graphic-motion-designer-363864368?utm_source=api"
+  }
+ ],
+ "specializations": [
+  "Brand motion",
+  "AI-generated video",
+  "Creative engineering",
+  "Interaction systems"
+ ],
+ "status": "active",
+ "tier": 2,
+ "title": "Mid-Level Graphic & Motion Designer",
+ "tools": [
+  "After Effects",
+  "Figma",
+  "Premiere Pro",
+  "Illustrator",
+  "Photoshop"
+ ],
+ "updated_at": null,
+ "url": "https://himalayas.app/companies/brnd-wgn/jobs/mid-level-graphic-motion-designer-363864368?utm_source=api",
+ "why": [
+  "Tools you already use: After Effects, Figma, Premiere Pro, Illustrator, Photoshop",
+  "Specialisations in scope: Brand motion, AI-generated video, Creative engineering, Interaction systems",
+  "Listed pay clears your ₹35 LPA target"
+ ],
+ "work_mode": "remote",
+ "years_min": 4
 }

@@ -1,112 +1,112 @@
 {
-  "apply_url": null,
-  "board_apply": "https://himalayas.app/companies/withmotion/jobs/qa-tester?utm_source=api",
-  "category": "Product / SaaS",
-  "comp_potential": "unknown",
-  "company": "Motion",
-  "company_slug": "motion",
-  "concerns": [
-    "Mentions test automation — be ready to discuss it or show a small script",
-    "Also asks for: API testing, SQL / databases",
-    "Pay not disclosed — ask for the range early"
-  ],
-  "contacts_count": 0,
-  "content_hash": "e8ea9437d0f9",
-  "date_quality": "exact",
-  "deadline": "2026-11-04T13:47:21Z",
-  "employment": "full-time",
-  "first_seen": "2026-10-19T13:24:59Z",
-  "fit": 90,
-  "has_hiring_manager": false,
-  "has_named_contact": false,
-  "has_public_email": false,
-  "id": "0dea9616bcd699",
-  "include_reason": "Manual / functional QA title",
-  "india": {
-    "cities": [],
-    "company": "yes",
-    "reason": "Location lists India",
-    "status": "confirmed",
-    "visa": false
-  },
-  "kind": "manual-qa",
-  "last_verified": "2026-10-19T13:24:59Z",
-  "location": "India",
-  "logo": null,
-  "needs_review": false,
-  "official": false,
-  "posted_at": "2026-09-05T13:47:22Z",
-  "repost": false,
-  "requirements": [
-    "2+ years of hands-on manual QA experience on web and mobile products",
-    "Strong experience writing structured test cases and running regression cycles",
-    "Hands-on mobile testing experience across both iOS and Android",
-    "Comfortable with browser dev tools: reading console errors, inspecting network requests, checking API responses",
-    "Basic SQL; able to run a query against PostgreSQL to confirm what the system actually recorded",
-    "Experience with a bug tracker (Jira, Linear, or similar) and writing reports developers can act on without a follow-up conversation",
-    "Excellent attention to detail, and the patience to reproduce intermittent bugs and narrow down what triggers them"
-  ],
-  "responsibilities": [
-    "Write and maintain test cases and regression checklists covering the web app, mobile app, and admin tools",
-    "Execute regression passes ahead of every release and own sign-off before builds ship"
-  ],
-  "salary": {
-    "state": "unavailable"
-  },
-  "scores": {
-    "ai": 84,
-    "comp": 60,
-    "company": 95,
-    "location": 100,
-    "seniority": 100,
-    "skill": 88
-  },
-  "seniority": "unspecified",
-  "snippet": "About Motion \n\n Motion is a North American transportation solutions company helping fleets save money, move smarter, and operate more efficiently. We partner with carriers of all sizes to provide access to discounted fuel programs, flexible financial services, and powerful digital tools that simplify fleet operations.\n\n Our mission is to remove the friction that trucking companies face every day—whether that’s managi",
-  "source_primary": "Himalayas",
-  "sources": [
-    {
-      "id": "himalayas",
-      "job_id": "https://himalayas.app/companies/withmotion/jobs/qa-tester",
-      "kind": "board",
-      "name": "Himalayas",
-      "posted_at": "2026-09-05T13:47:22Z",
-      "seen_at": "2026-10-19T13:24:59Z",
-      "url": "https://himalayas.app/companies/withmotion/jobs/qa-tester?utm_source=api"
-    }
-  ],
-  "specializations": [
-    "Android",
-    "iOS",
-    "Mobile apps",
-    "Web apps"
-  ],
-  "status": "active",
-  "tier": 1,
-  "title": "QA Tester",
-  "tools": [
-    "Regression testing",
-    "Exploratory testing",
-    "Test cases & scenarios",
-    "Bug reporting",
-    "Jira",
-    "Google Sheets / Excel",
-    "API testing",
-    "SQL / databases",
-    "Test automation"
-  ],
-  "track": "software",
-  "updated_at": null,
-  "url": "https://himalayas.app/companies/withmotion/jobs/qa-tester?utm_source=api",
-  "why": [
-    "Manual / functional QA — the core of your resume",
-    "Already on your resume: Regression testing, Exploratory testing, Test cases & scenarios, Bug reporting, Jira, Google Sheets / Excel",
-    "Platforms you test on: Android, iOS, Mobile apps",
-    "Product / SaaS company",
-    "Location lists India",
-    "Asks for 2+ years — you have about 2.5"
-  ],
-  "work_mode": "remote",
-  "years_max": null,
-  "years_min": 2
+ "apply_url": null,
+ "board_apply": "https://himalayas.app/companies/withmotion/jobs/qa-tester?utm_source=api",
+ "category": "Product / SaaS",
+ "comp_potential": "unknown",
+ "company": "Motion",
+ "company_slug": "motion",
+ "concerns": [
+  "Mentions test automation — be ready to discuss it or show a small script",
+  "Also asks for: API testing, SQL / databases",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "e8ea9437d0f9",
+ "date_quality": "exact",
+ "deadline": "2026-11-04T13:47:21Z",
+ "employment": "full-time",
+ "first_seen": "2026-10-19T13:24:59Z",
+ "fit": 90,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "0dea9616bcd699",
+ "include_reason": "Manual / functional QA title",
+ "india": {
+  "cities": [],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "manual-qa",
+ "last_verified": "2026-10-19T13:24:59Z",
+ "location": "India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-09-05T13:47:22Z",
+ "repost": false,
+ "requirements": [
+  "2+ years of hands-on manual QA experience on web and mobile products",
+  "Strong experience writing structured test cases and running regression cycles",
+  "Hands-on mobile testing experience across both iOS and Android",
+  "Comfortable with browser dev tools: reading console errors, inspecting network requests, checking API responses",
+  "Basic SQL; able to run a query against PostgreSQL to confirm what the system actually recorded",
+  "Experience with a bug tracker (Jira, Linear, or similar) and writing reports developers can act on without a follow-up conversation",
+  "Excellent attention to detail, and the patience to reproduce intermittent bugs and narrow down what triggers them"
+ ],
+ "responsibilities": [
+  "Write and maintain test cases and regression checklists covering the web app, mobile app, and admin tools",
+  "Execute regression passes ahead of every release and own sign-off before builds ship"
+ ],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 84,
+  "comp": 60,
+  "company": 95,
+  "location": 100,
+  "seniority": 100,
+  "skill": 88
+ },
+ "seniority": "unspecified",
+ "snippet": "About Motion \n\n Motion is a North American transportation solutions company helping fleets save money, move smarter, and operate more efficiently. We partner with carriers of all sizes to provide access to discounted fuel programs, flexible financial services, and powerful digital tools that simplify fleet operations.\n\n Our mission is to remove the friction that trucking companies face every day—whether that’s managi",
+ "source_primary": "Himalayas",
+ "sources": [
+  {
+   "id": "himalayas",
+   "job_id": "https://himalayas.app/companies/withmotion/jobs/qa-tester",
+   "kind": "board",
+   "name": "Himalayas",
+   "posted_at": "2026-09-05T13:47:22Z",
+   "seen_at": "2026-10-19T13:24:59Z",
+   "url": "https://himalayas.app/companies/withmotion/jobs/qa-tester?utm_source=api"
+  }
+ ],
+ "specializations": [
+  "Android",
+  "iOS",
+  "Mobile apps",
+  "Web apps"
+ ],
+ "status": "active",
+ "tier": 1,
+ "title": "QA Tester",
+ "tools": [
+  "Regression testing",
+  "Exploratory testing",
+  "Test cases & scenarios",
+  "Bug reporting",
+  "Jira",
+  "Google Sheets / Excel",
+  "API testing",
+  "SQL / databases",
+  "Test automation"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://himalayas.app/companies/withmotion/jobs/qa-tester?utm_source=api",
+ "why": [
+  "Manual / functional QA — the core of your resume",
+  "Already on your resume: Regression testing, Exploratory testing, Test cases & scenarios, Bug reporting, Jira, Google Sheets / Excel",
+  "Platforms you test on: Android, iOS, Mobile apps",
+  "Product / SaaS company",
+  "Location lists India",
+  "Asks for 2+ years — you have about 2.5"
+ ],
+ "work_mode": "remote",
+ "years_max": null,
+ "years_min": 2
 }

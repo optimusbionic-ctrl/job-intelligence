@@ -1,30 +1,30 @@
 {
-  "category": "Other",
-  "classification": "Inferred from job description",
-  "india_hiring": {
-    "board": null,
-    "changed_at": "2026-10-19T16:45:07Z",
-    "evidence": [
-      {
-        "detail": "Test Engineer — Navi Mumbai, India",
-        "kind": "posting",
-        "label": "A current posting lists India as a location",
-        "url": "https://www.shine.com/jobs/test-engineer/qualitykiosk-technologies/19533929",
-        "weight": 5
-      }
-    ],
-    "first_checked_at": "2026-10-19T16:45:07Z",
-    "india_based": false,
-    "method": "Careers board, posting text",
-    "sig": "cd2c878e60",
-    "summary": "A current posting lists India as a location.",
-    "verdict": "yes"
-  },
-  "inferred": true,
-  "name": "QualityKiosk Technologies",
-  "slug": "qualitykiosk-technologies",
-  "tier": 3,
-  "tracks": [
-    "software"
-  ]
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-19T16:45:07Z",
+  "evidence": [
+   {
+    "detail": "Test Engineer — Navi Mumbai, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/test-engineer/qualitykiosk-technologies/19533929",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-10-19T16:45:07Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "cd2c878e60",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "QualityKiosk Technologies",
+ "slug": "qualitykiosk-technologies",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
 }

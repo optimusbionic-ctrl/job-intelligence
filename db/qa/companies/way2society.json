@@ -1,30 +1,30 @@
 {
-  "category": "Other",
-  "classification": "Inferred from job description",
-  "india_hiring": {
-    "board": null,
-    "changed_at": "2026-10-24T18:44:21Z",
-    "evidence": [
-      {
-        "detail": "Software Testing (Manual & Automation) — Mumbai City, India",
-        "kind": "posting",
-        "label": "A current posting lists India as a location",
-        "url": "https://www.shine.com/jobs/software-testing-manual-automation/way2society/19593545",
-        "weight": 5
-      }
-    ],
-    "first_checked_at": "2026-10-24T18:44:21Z",
-    "india_based": false,
-    "method": "Careers board, posting text",
-    "sig": "c87645c2c0",
-    "summary": "A current posting lists India as a location.",
-    "verdict": "yes"
-  },
-  "inferred": true,
-  "name": "way2society",
-  "slug": "way2society",
-  "tier": 3,
-  "tracks": [
-    "software"
-  ]
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-24T18:44:21Z",
+  "evidence": [
+   {
+    "detail": "Software Testing (Manual & Automation) — Mumbai City, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/software-testing-manual-automation/way2society/19593545",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-10-24T18:44:21Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "c87645c2c0",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "way2society",
+ "slug": "way2society",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
 }

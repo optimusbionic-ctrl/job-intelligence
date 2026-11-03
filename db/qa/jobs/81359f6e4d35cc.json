@@ -1,0 +1,117 @@
+{
+ "apply_url": null,
+ "board_apply": "https://jobs.workable.com/view/jFPdokJARVoxo4LCFrhq9C/remote-manual-qa-tester-in-india-at-weekday-ai",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "Weekday AI",
+ "company_slug": "weekday-ai",
+ "concerns": [
+  "Mentions test automation — be ready to discuss it or show a small script",
+  "Also asks for: API testing, Programming",
+  "Asks for 4+ years — you have about 2.5",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "fb5eda386c59",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-10-28T07:44:09Z",
+ "fit": 79,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "81359f6e4d35cc",
+ "include_reason": "Manual / functional QA title",
+ "india": {
+  "cities": [],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "manual-qa",
+ "last_verified": "2026-10-28T07:44:09Z",
+ "location": "India (Remote)",
+ "logo": "https://workablehr.s3.amazonaws.com/uploads/account/logo/691818/logo",
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-10-28T07:44:09Z",
+ "repost": false,
+ "requirements": [
+  "Strong experience in Manual Testing of web and mobile applications.",
+  "Hands-on expertise in Functional Testing and Regression Testing .",
+  "Good understanding of integration testing, end-to-end testing, smoke testing, and sanity testing.",
+  "Experience with test case creation, test execution, defect reporting, and test documentation.",
+  "Familiarity with Jira for defect tracking and test management.",
+  "Basic knowledge of API testing using Postman.",
+  "Experience working in an Agile/Scrum development environment."
+ ],
+ "responsibilities": [
+  "Perform manual testing of web and mobile applications to ensure functionality, usability, and reliability.",
+  "Design, develop, and execute test cases, test scenarios, and test plans based on business and technical requirements.",
+  "Conduct functional, regression, integration, smoke, sanity, and end-to-end testing.",
+  "Identify, document, track, and retest defects using Jira, ensuring timely resolution and proper validation.",
+  "Perform basic API testing using Postman to validate endpoints, responses, and data accuracy.",
+  "Collaborate with developers, product managers, and other stakeholders to understand requirements and clarify expected application behavior.",
+  "Participate in requirement reviews, sprint planning, daily stand-ups, and retrospectives within an Agile/Scrum environment."
+ ],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 74,
+  "comp": 60,
+  "company": 66,
+  "location": 100,
+  "seniority": 72,
+  "skill": 89
+ },
+ "seniority": "unspecified",
+ "snippet": "This role is for one of Weekday’s clients \n\nMin Experience: 4+ years\nLocation: Remote (India), India\nJobType: full-time\n\n We are looking for a detail-oriented Manual QA Tester with 4+ years of experience in testing web and mobile applications. The ideal candidate should have strong knowledge of manual testing methodologies, test case design, defect tracking, and quality assurance processes. You will be responsible fo",
+ "source_primary": "Workable job marketplace",
+ "sources": [
+  {
+   "id": "workable",
+   "job_id": "9753996a-d098-44f0-9887-dac6a8e0bbc4",
+   "kind": "board",
+   "name": "Workable job marketplace",
+   "posted_at": "2026-10-28T07:44:09Z",
+   "seen_at": "2026-10-28T07:44:09Z",
+   "url": "https://jobs.workable.com/view/jFPdokJARVoxo4LCFrhq9C/remote-manual-qa-tester-in-india-at-weekday-ai"
+  }
+ ],
+ "specializations": [
+  "Mobile apps"
+ ],
+ "status": "active",
+ "tier": 3,
+ "title": "Manual QA Tester",
+ "tools": [
+  "Functional testing",
+  "Regression testing",
+  "Smoke testing",
+  "Sanity testing",
+  "Usability testing",
+  "Test cases & scenarios",
+  "Bug reporting",
+  "Jira",
+  "Google Sheets / Excel",
+  "API testing",
+  "Test automation",
+  "Programming",
+  "Agile / Scrum"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://jobs.workable.com/view/jFPdokJARVoxo4LCFrhq9C/remote-manual-qa-tester-in-india-at-weekday-ai",
+ "why": [
+  "Manual / functional QA — the core of your resume",
+  "Already on your resume: Functional testing, Regression testing, Smoke testing, Sanity testing, Usability testing, Test cases & scenarios",
+  "Platforms you test on: Mobile apps",
+  "Location lists India"
+ ],
+ "work_mode": "remote",
+ "years_max": null,
+ "years_min": 4
+}

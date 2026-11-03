@@ -1,106 +1,106 @@
 {
-  "ats": {
-    "slug": "pragmatike",
-    "type": "ashby"
-  },
-  "category": "Other",
-  "classification": "Inferred from job description",
-  "india_hiring": {
-    "board": {
-      "apac": 2,
-      "countries": [
-        "United States",
-        "Italy",
-        "Portugal",
-        "Spain",
-        "Poland",
-        "Romania",
-        "Turkey",
-        "Armenia"
-      ],
-      "india": 1,
-      "india_samples": [
-        {
-          "location": "India • Sri Lanka • Vietnam • Indonesia • Thailand",
-          "title": "ICC - Security Operations Analyst - Cyber Defense | IST Timezone",
-          "url": "https://jobs.ashbyhq.com/pragmatike/52d1af0c-6b0b-456f-b277-46cca879cb1d"
-        }
-      ],
-      "open_samples": [
-        {
-          "location": "APAC / China / Hong Kong • China HK",
-          "title": "AI Infrastructure Hardware Engineer",
-          "url": "https://jobs.ashbyhq.com/pragmatike/e33ac146-4a12-453f-a882-1a77e1348cf8"
-        },
-        {
-          "location": "APAC / China / Hong Kong",
-          "title": "Server Engineer (Hybrid Hong Kong) ",
-          "url": "https://jobs.ashbyhq.com/pragmatike/a667e612-e0d0-4cd9-b024-917b606f8de5"
-        }
-      ],
-      "remote": 54,
-      "restricted_remote": 53,
-      "restricted_samples": [
-        {
-          "location": "Ukraine • Czech Republic • Bulgaria • Latvia • Spain  • Hungary • Albania • Lith",
-          "title": "AI Infrastructure Engineer (GPU) - Remote EMEA",
-          "url": "https://jobs.ashbyhq.com/pragmatike/ee36336a-f7ff-49ab-b79b-f4d29b819006"
-        },
-        {
-          "location": "Ukraine • Czech Republic • Slovenia • Bulgaria • Germany • Latvia • Spain  • Hun",
-          "title": "Chief Marketing Officer (EMEA Remote) - FR speakers",
-          "url": "https://jobs.ashbyhq.com/pragmatike/8737a1e0-dddc-4f2d-b19d-85a560555317"
-        },
-        {
-          "location": "South Korea • South Korea / Busan • South Korea / Pangyo • South Korea / Seoul •",
-          "title": "Embedded Systems & Cloud Engineer",
-          "url": "https://jobs.ashbyhq.com/pragmatike/945b9373-60bd-4200-9c4b-aeb7735c8852"
-        },
-        {
-          "location": "United Kingdom • Spain  • Albania • Ukraine • Serbia • Poland • Portugal • Italy",
-          "title": "Engineering Manager (3 months mission)",
-          "url": "https://jobs.ashbyhq.com/pragmatike/4b4e31cb-30bd-49f5-8312-107a94dc2c14"
-        }
-      ],
-      "slug": "pragmatike",
-      "total": 73,
-      "type": "ashby",
-      "url": "https://jobs.ashbyhq.com/pragmatike",
-      "worldwide": 0
-    },
-    "changed_at": "2026-10-22T12:28:52Z",
-    "evidence": [
-      {
-        "detail": "ICC - Security Operations Analyst - Cyber Defense | IST Timezone (India • Sri Lanka • Vietnam • Indonesia • Thailand)",
-        "kind": "board",
-        "label": "1 of 73 open roles is located in India",
-        "url": "https://jobs.ashbyhq.com/pragmatike",
-        "weight": 5
-      },
-      {
-        "detail": "AI Infrastructure Hardware Engineer (APAC / China / Hong Kong • China HK); Server Engineer (Hybrid Hong Kong)  (APAC / China / Hong Kong)",
-        "kind": "board",
-        "label": "2 open roles are open worldwide or to APAC",
-        "url": "https://jobs.ashbyhq.com/pragmatike",
-        "weight": 3
-      },
-      {
-        "detail": "Motion Designer — Worldwide",
-        "kind": "posting",
-        "label": "A current posting is open worldwide",
-        "url": "https://remoteOK.com/remote-jobs/remote-motion-designer-pragmatike-1134793",
-        "weight": 3
-      }
-    ],
-    "first_checked_at": "2026-10-15T16:19:24Z",
-    "india_based": false,
-    "method": "Careers board, posting text",
-    "sig": "083232a37f",
-    "summary": "1 of 73 open roles is located in India.",
-    "verdict": "yes"
-  },
-  "inferred": true,
-  "name": "Pragmatike",
+ "ats": {
   "slug": "pragmatike",
-  "tier": 3
+  "type": "ashby"
+ },
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": {
+   "apac": 2,
+   "countries": [
+    "United States",
+    "Poland",
+    "Romania",
+    "Turkey",
+    "Armenia",
+    "Italy",
+    "Serbia",
+    "Portugal"
+   ],
+   "india": 1,
+   "india_samples": [
+    {
+     "location": "India • Sri Lanka • Vietnam • Indonesia • Thailand",
+     "title": "ICC - Security Operations Analyst - Cyber Defense | IST Timezone",
+     "url": "https://jobs.ashbyhq.com/pragmatike/52d1af0c-6b0b-456f-b277-46cca879cb1d"
+    }
+   ],
+   "open_samples": [
+    {
+     "location": "APAC / China / Hong Kong • China HK",
+     "title": "AI Infrastructure Hardware Engineer",
+     "url": "https://jobs.ashbyhq.com/pragmatike/e33ac146-4a12-453f-a882-1a77e1348cf8"
+    },
+    {
+     "location": "APAC / China / Hong Kong",
+     "title": "Server Engineer (Hybrid Hong Kong) ",
+     "url": "https://jobs.ashbyhq.com/pragmatike/a667e612-e0d0-4cd9-b024-917b606f8de5"
+    }
+   ],
+   "remote": 59,
+   "restricted_remote": 58,
+   "restricted_samples": [
+    {
+     "location": "Ukraine • Czech Republic • Bulgaria • Latvia • Spain  • Hungary • Albania • Lith",
+     "title": "AI Infrastructure Engineer (GPU) - Remote EMEA",
+     "url": "https://jobs.ashbyhq.com/pragmatike/ee36336a-f7ff-49ab-b79b-f4d29b819006"
+    },
+    {
+     "location": "Ukraine • Czech Republic • Bulgaria • Latvia • Hungary • Lithuania • Bosnia & He",
+     "title": "ASO Specialist (Remote EMEA)",
+     "url": "https://jobs.ashbyhq.com/pragmatike/b5896793-8b68-4b91-ab14-e898f85ae86d"
+    },
+    {
+     "location": "Ukraine • Czech Republic • Slovenia • Bulgaria • Germany • Latvia • Spain  • Hun",
+     "title": "Chief Marketing Officer (EMEA Remote) - FR speakers",
+     "url": "https://jobs.ashbyhq.com/pragmatike/8737a1e0-dddc-4f2d-b19d-85a560555317"
+    },
+    {
+     "location": "Ukraine • Czech Republic • Bulgaria • Latvia • Hungary • Lithuania • Bosnia & He",
+     "title": "Content Writer (Remote EMEA)",
+     "url": "https://jobs.ashbyhq.com/pragmatike/f441a578-3d9f-44a0-bfba-b100e5d8e8cf"
+    }
+   ],
+   "slug": "pragmatike",
+   "total": 77,
+   "type": "ashby",
+   "url": "https://jobs.ashbyhq.com/pragmatike",
+   "worldwide": 0
+  },
+  "changed_at": "2026-11-03T10:27:01Z",
+  "evidence": [
+   {
+    "detail": "ICC - Security Operations Analyst - Cyber Defense | IST Timezone (India • Sri Lanka • Vietnam • Indonesia • Thailand)",
+    "kind": "board",
+    "label": "1 of 77 open roles is located in India",
+    "url": "https://jobs.ashbyhq.com/pragmatike",
+    "weight": 5
+   },
+   {
+    "detail": "AI Infrastructure Hardware Engineer (APAC / China / Hong Kong • China HK); Server Engineer (Hybrid Hong Kong)  (APAC / China / Hong Kong)",
+    "kind": "board",
+    "label": "2 open roles are open worldwide or to APAC",
+    "url": "https://jobs.ashbyhq.com/pragmatike",
+    "weight": 3
+   },
+   {
+    "detail": "Motion Designer — Worldwide",
+    "kind": "posting",
+    "label": "A current posting is open worldwide",
+    "url": "https://remoteOK.com/remote-jobs/remote-motion-designer-pragmatike-1134793",
+    "weight": 3
+   }
+  ],
+  "first_checked_at": "2026-10-15T16:19:24Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "2b95d271f3",
+  "summary": "1 of 77 open roles is located in India.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Pragmatike",
+ "slug": "pragmatike",
+ "tier": 3
 }

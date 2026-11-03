@@ -1,21 +1,21 @@
 {
-  "category": "hiring_team",
-  "company": "Prince K.'s company",
-  "company_slug": "prince-k-s-company",
-  "confidence": "medium",
-  "email": null,
-  "evidence_label": "Public LinkedIn post announcing the opening",
-  "evidence_url": "https://www.linkedin.com/posts/kprince838_were-hiring-a-motion-designer-this-is-an-activity-7516772836997230592-hFfN",
-  "id": "96e814d4d487e4",
-  "job_ids": [
-    "f4ea104bd511a1"
-  ],
-  "linkedin": "https://www.linkedin.com/in/kprince838",
-  "name": "Prince K.",
-  "named": true,
-  "other_url": null,
-  "phone": null,
-  "relevance": "Hiring manager (posted the opening)",
-  "title": "",
-  "verified_at": "2026-10-16T15:28:48Z"
+ "category": "hiring_team",
+ "company": "Prince K.'s company",
+ "company_slug": "prince-k-s-company",
+ "confidence": "medium",
+ "email": null,
+ "evidence_label": "Public LinkedIn post announcing the opening",
+ "evidence_url": "https://www.linkedin.com/posts/kprince838_were-hiring-a-motion-designer-this-is-an-activity-7516772836997230592-hFfN",
+ "id": "96e814d4d487e4",
+ "job_ids": [
+  "f4ea104bd511a1"
+ ],
+ "linkedin": "https://www.linkedin.com/in/kprince838",
+ "name": "Prince K.",
+ "named": true,
+ "other_url": null,
+ "phone": null,
+ "relevance": "Hiring manager (posted the opening)",
+ "title": "",
+ "verified_at": "2026-10-16T15:28:48Z"
 }

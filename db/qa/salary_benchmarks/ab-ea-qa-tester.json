@@ -1,15 +1,15 @@
 {
-  "avg": null,
-  "basis": "AmbitionBox range for 0–5 years' experience, 137 salaries",
-  "currency": "INR",
-  "high": 730000,
-  "id": "ab-ea-qa-tester",
-  "label": "QA Tester at Electronic Arts — India (0–5 yrs)",
-  "low": 330000,
-  "market": "India",
-  "n": 137,
-  "retrieved_at": "2026-10-19",
-  "source_name": "AmbitionBox",
-  "source_url": "https://www.ambitionbox.com/salaries/ea-salaries/qa-tester",
-  "track": "game"
+ "avg": null,
+ "basis": "AmbitionBox range for 0–5 years' experience, 137 salaries",
+ "currency": "INR",
+ "high": 730000,
+ "id": "ab-ea-qa-tester",
+ "label": "QA Tester at Electronic Arts — India (0–5 yrs)",
+ "low": 330000,
+ "market": "India",
+ "n": 137,
+ "retrieved_at": "2026-10-19",
+ "source_name": "AmbitionBox",
+ "source_url": "https://www.ambitionbox.com/salaries/ea-salaries/qa-tester",
+ "track": "game"
 }

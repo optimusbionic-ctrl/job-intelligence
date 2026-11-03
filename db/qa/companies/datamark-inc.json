@@ -1,32 +1,32 @@
 {
-  "category": "Other",
-  "classification": "Inferred from job description",
-  "domain": "datamark.net",
-  "india_hiring": {
-    "board": null,
-    "changed_at": "2026-10-19T13:24:59Z",
-    "evidence": [
-      {
-        "detail": "Quality Assurance Specialist - Interpretation Services — Chennai, Tamil Nadu, India",
-        "kind": "posting",
-        "label": "A current posting lists India as a location",
-        "url": "https://jobs.workable.com/view/xuYsaFKm7fgAS5DvSr71Sz/quality-assurance-specialist---interpretation-services-in-chennai-at-datamark%2C-inc.",
-        "weight": 5
-      }
-    ],
-    "first_checked_at": "2026-10-19T13:24:59Z",
-    "india_based": false,
-    "method": "Careers board, posting text",
-    "sig": "6364f56792",
-    "summary": "A current posting lists India as a location.",
-    "verdict": "yes"
-  },
-  "inferred": true,
-  "logo": "https://workablehr.s3.amazonaws.com/uploads/account/logo/631425/logo",
-  "name": "Datamark, Inc.",
-  "slug": "datamark-inc",
-  "tier": 3,
-  "tracks": [
-    "software"
-  ]
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "domain": "datamark.net",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-19T13:24:59Z",
+  "evidence": [
+   {
+    "detail": "Quality Assurance Specialist - Interpretation Services — Chennai, Tamil Nadu, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://jobs.workable.com/view/xuYsaFKm7fgAS5DvSr71Sz/quality-assurance-specialist---interpretation-services-in-chennai-at-datamark%2C-inc.",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-10-19T13:24:59Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "6364f56792",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "logo": "https://workablehr.s3.amazonaws.com/uploads/account/logo/631425/logo",
+ "name": "Datamark, Inc.",
+ "slug": "datamark-inc",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
 }

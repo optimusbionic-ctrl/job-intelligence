@@ -1,0 +1,30 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-28T10:45:08Z",
+  "evidence": [
+   {
+    "detail": "Opening For Quality Assurance Engineer — Mumbai City, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/opening-for-quality-assurance-engineer/edelweiss-financial-services/19553855",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-10-28T10:45:08Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "8b8463ce10",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Edelweiss Financial Services",
+ "slug": "edelweiss-financial-services",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}

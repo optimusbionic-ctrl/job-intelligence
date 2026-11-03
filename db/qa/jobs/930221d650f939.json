@@ -1,0 +1,92 @@
+{
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/manual-tester/zecruiters-jobconnect-private-limited/19945643",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "Zecruiters Jobconnect Private Limited",
+ "company_slug": "zecruiters-jobconnect-private-limited",
+ "concerns": [
+  "Also asks for: API testing, SQL / databases",
+  "Entry-level role — pay may be at the lower end",
+  "Office outside Mumbai — relocation within India",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "44be99cedcde",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-10-28T10:45:08Z",
+ "fit": 73,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "930221d650f939",
+ "include_reason": "Manual / functional QA title",
+ "india": {
+  "cities": [
+   "Pune"
+  ],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "manual-qa",
+ "last_verified": "2026-10-28T10:45:08Z",
+ "location": "Pune, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-10-27T18:25:16Z",
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 60,
+  "company": 66,
+  "location": 78,
+  "seniority": 80,
+  "skill": 79
+ },
+ "seniority": "unspecified",
+ "snippet": "Experience: 0 Yrs\nSkills: manual testing, functional testing, api testing, sql, regression testing, integration testing, postman\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "19945643",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-10-27T18:25:16Z",
+   "seen_at": "2026-10-28T10:45:08Z",
+   "url": "https://www.shine.com/jobs/manual-tester/zecruiters-jobconnect-private-limited/19945643"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 3,
+ "title": "Manual Tester",
+ "tools": [
+  "Functional testing",
+  "Regression testing",
+  "API testing",
+  "SQL / databases"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/manual-tester/zecruiters-jobconnect-private-limited/19945643",
+ "why": [
+  "Manual / functional QA — the core of your resume",
+  "Already on your resume: Functional testing, Regression testing",
+  "Asks for 0+ years — you have about 2.5",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": null,
+ "years_min": 0
+}

@@ -1,55 +1,55 @@
 {
-  "category": "Other",
-  "classification": "Inferred from job description",
-  "india_hiring": {
-    "board": null,
-    "changed_at": "2026-10-15T16:19:24Z",
-    "evidence": [],
-    "first_checked_at": "2026-10-15T16:19:24Z",
-    "india_based": false,
-    "method": "Careers board, posting text, web search",
-    "sig": "54391d7cdf",
-    "summary": "No public evidence yet about hiring from India.",
-    "verdict": "unclear",
-    "web": {
-      "checked_at": "2026-10-15T16:49:04Z",
-      "query": "\"DotYeti Design LLC\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
-      "results": [
-        {
-          "description": "",
-          "title": "For companies",
-          "url": "https://arc.dev/remote-jobs/j/dotyeti-multimedia-designer-pplhscbpjk"
-        },
-        {
-          "description": "",
-          "title": "RemoteJobs.org mascotRemoteJobs.org",
-          "url": "https://remotejobs.org/remote-jobs/indesign-specialist-dotyeti-design"
-        },
-        {
-          "description": "",
-          "title": "For companies",
-          "url": "https://arc.dev/company/dotyeti-design"
-        },
-        {
-          "description": "",
-          "title": "ph.indeed.com",
-          "url": "https://ph.indeed.com/cmp/Dotyeti-Design/jobs"
-        },
-        {
-          "description": "",
-          "title": "5644968 where are you based",
-          "url": "https://intercom.help/dotyeti/en/articles/5644968-where-are-you-based"
-        },
-        {
-          "description": "",
-          "title": "dotyeti.com",
-          "url": "https://www.dotyeti.com/careers/"
-        }
-      ]
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-15T16:19:24Z",
+  "evidence": [],
+  "first_checked_at": "2026-10-15T16:19:24Z",
+  "india_based": false,
+  "method": "Careers board, posting text, web search",
+  "sig": "54391d7cdf",
+  "summary": "No public evidence yet about hiring from India.",
+  "verdict": "unclear",
+  "web": {
+   "checked_at": "2026-10-29T18:27:37Z",
+   "query": "\"DotYeti Design LLC\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
+   "results": [
+    {
+     "description": "",
+     "title": "RemoteJobs.org mascotRemoteJobs.org",
+     "url": "https://remotejobs.org/remote-jobs/indesign-specialist-dotyeti-design"
+    },
+    {
+     "description": "",
+     "title": "RemoteJobs.org mascotRemoteJobs.org",
+     "url": "https://remotejobs.org/remote-jobs/senior-multimedia-designer-dotyeti-design"
+    },
+    {
+     "description": "",
+     "title": "DotYeti Design",
+     "url": "https://www.woodyjobs.com/brand-design/183819-graphic-designer-dotyeti-design"
+    },
+    {
+     "description": "",
+     "title": "RemoteJobs.org mascotRemoteJobs.org",
+     "url": "https://remotejobs.org/remote-jobs/senior-web-designer-dotyeti-design"
+    },
+    {
+     "description": "",
+     "title": "RemoteJobs.org mascotRemoteJobs.org",
+     "url": "https://remotejobs.org/companies/dotyeti-design"
+    },
+    {
+     "description": "",
+     "title": "ph.indeed.com",
+     "url": "https://ph.indeed.com/cmp/Dotyeti-Design/jobs"
     }
-  },
-  "inferred": true,
-  "name": "DotYeti Design LLC",
-  "slug": "dotyeti-design-llc",
-  "tier": 3
+   ]
+  }
+ },
+ "inferred": true,
+ "name": "DotYeti Design LLC",
+ "slug": "dotyeti-design-llc",
+ "tier": 3
 }

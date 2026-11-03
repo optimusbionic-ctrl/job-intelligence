@@ -1,0 +1,91 @@
+{
+ "apply_url": null,
+ "board_apply": "https://app.semesteria.com/jobs/quality-assurance-tester-remote-binated-d23f425f-5ad5-47f3-bf96-f861728b8bdb",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "Binated",
+ "company_slug": "binated",
+ "concerns": [
+  "Employer has not confirmed hiring from India",
+  "Pay not disclosed — ask for the range early",
+  "Full description not available from this source"
+ ],
+ "contacts_count": 0,
+ "content_hash": "089b5b727e37",
+ "date_quality": "unknown",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-10-30T00:44:29Z",
+ "fit": 69,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "902b72ca88ff5e",
+ "include_reason": "Manual / functional QA title",
+ "india": {
+  "cities": [],
+  "company": "unclear",
+  "reason": "Remote, region not stated",
+  "status": "unconfirmed",
+  "visa": false
+ },
+ "kind": "manual-qa",
+ "last_verified": "2026-10-30T00:44:29Z",
+ "location": "Remote",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": null,
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "context_benchmark": "qa-dataset-remote",
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 55,
+  "comp": 60,
+  "company": 66,
+  "location": 36,
+  "seniority": 84,
+  "skill": 86
+ },
+ "seniority": "unspecified",
+ "snippet": "",
+ "source_primary": "Web (via search index)",
+ "sources": [
+  {
+   "id": "web",
+   "job_id": "https://app.semesteria.com/jobs/quality-assurance-tester-remote-binated-d23f425f-5ad5-47f3-bf96-f861728b8bdb",
+   "kind": "search",
+   "name": "Web (via search index)",
+   "posted_at": null,
+   "seen_at": "2026-10-30T00:44:29Z",
+   "url": "https://app.semesteria.com/jobs/quality-assurance-tester-remote-binated-d23f425f-5ad5-47f3-bf96-f861728b8bdb"
+  },
+  {
+   "id": "web",
+   "job_id": "https://app.semesteria.com/jobs/software-quality-assurance-tester-remote-binated-e8e28427-9834-4fc3-a8e5-6b76f0b8d9bf",
+   "kind": "search",
+   "name": "Web (via search index)",
+   "posted_at": null,
+   "seen_at": "2026-10-30T00:44:29Z",
+   "url": "https://app.semesteria.com/jobs/software-quality-assurance-tester-remote-binated-e8e28427-9834-4fc3-a8e5-6b76f0b8d9bf"
+  }
+ ],
+ "specializations": [],
+ "status": "lead",
+ "tier": 3,
+ "title": "Quality Assurance Tester (Remote)",
+ "tools": [],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://app.semesteria.com/jobs/quality-assurance-tester-remote-binated-d23f425f-5ad5-47f3-bf96-f861728b8bdb",
+ "why": [
+  "Manual / functional QA — the core of your resume"
+ ],
+ "work_mode": "remote",
+ "years_max": null,
+ "years_min": null
+}

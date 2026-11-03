@@ -1,28 +1,28 @@
 {
-  "category": "Agency / studio",
-  "classification": "Inferred from job description",
-  "india_hiring": {
-    "board": null,
-    "changed_at": "2026-10-18T22:27:20Z",
-    "evidence": [
-      {
-        "detail": "Graphic Designer/Motion Graphic Designer — India",
-        "kind": "posting",
-        "label": "A current posting lists India as a location",
-        "url": "https://himalayas.app/companies/glen-group/jobs/graphic-designer-motion-graphic-designer?utm_source=api",
-        "weight": 5
-      }
-    ],
-    "first_checked_at": "2026-10-15T16:19:24Z",
-    "india_based": false,
-    "method": "Careers board, posting text",
-    "sig": "8695951836",
-    "summary": "A current posting lists India as a location.",
-    "verdict": "yes"
-  },
-  "inferred": true,
-  "logo": "https://cdn-images.himalayas.app/9n0zcmnt1wu2iey6vr3lr8gjgrx2",
-  "name": "GLEN GROUP",
-  "slug": "glen-group",
-  "tier": 2
+ "category": "Agency / studio",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-18T22:27:20Z",
+  "evidence": [
+   {
+    "detail": "Graphic Designer/Motion Graphic Designer — India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://himalayas.app/companies/glen-group/jobs/graphic-designer-motion-graphic-designer?utm_source=api",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-10-15T16:19:24Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "8695951836",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "logo": "https://cdn-images.himalayas.app/9n0zcmnt1wu2iey6vr3lr8gjgrx2",
+ "name": "GLEN GROUP",
+ "slug": "glen-group",
+ "tier": 2
 }

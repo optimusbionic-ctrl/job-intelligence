@@ -1,31 +1,31 @@
 {
-  "category": "Product / SaaS",
-  "classification": "Inferred from job description",
-  "india_hiring": {
-    "board": null,
-    "changed_at": "2026-10-19T13:24:59Z",
-    "evidence": [
-      {
-        "detail": "Remote Appian Tester (Freelancer) — India",
-        "kind": "posting",
-        "label": "A current posting lists India as a location",
-        "url": "https://himalayas.app/companies/pradeepit-consulting-services-pvt-ltd/jobs/remote-appian-tester-freelancer?utm_source=api",
-        "weight": 5
-      }
-    ],
-    "first_checked_at": "2026-10-19T13:24:59Z",
-    "india_based": false,
-    "method": "Careers board, posting text",
-    "sig": "9de699cf0c",
-    "summary": "A current posting lists India as a location.",
-    "verdict": "yes"
-  },
-  "inferred": true,
-  "logo": "https://cdn-images.himalayas.app/6fab62ojb6wkuftxpvkflmbcqakl",
-  "name": "PradeepIT Consulting Services Pvt Ltd",
-  "slug": "pradeepit-consulting-services-pvt-ltd",
-  "tier": 1,
-  "tracks": [
-    "software"
-  ]
+ "category": "Product / SaaS",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-19T13:24:59Z",
+  "evidence": [
+   {
+    "detail": "Remote Appian Tester (Freelancer) — India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://himalayas.app/companies/pradeepit-consulting-services-pvt-ltd/jobs/remote-appian-tester-freelancer?utm_source=api",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-10-19T13:24:59Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "9de699cf0c",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "logo": "https://cdn-images.himalayas.app/6fab62ojb6wkuftxpvkflmbcqakl",
+ "name": "PradeepIT Consulting Services Pvt Ltd",
+ "slug": "pradeepit-consulting-services-pvt-ltd",
+ "tier": 1,
+ "tracks": [
+  "software"
+ ]
 }

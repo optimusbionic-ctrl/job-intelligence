@@ -1,27 +1,27 @@
 {
-  "category": "Other",
-  "classification": "Inferred from job description",
-  "india_hiring": {
-    "board": null,
-    "changed_at": "2026-10-18T15:28:43Z",
-    "evidence": [
-      {
-        "detail": "2D Motion Designer — India",
-        "kind": "posting",
-        "label": "A current posting lists India as a location",
-        "url": "https://in.linkedin.com/jobs/view/2d-motion-designer-at-hmx-media-4477079605",
-        "weight": 5
-      }
-    ],
-    "first_checked_at": "2026-10-18T15:28:43Z",
-    "india_based": false,
-    "method": "Careers board, posting text",
-    "sig": "4cf5b2b25d",
-    "summary": "A current posting lists India as a location.",
-    "verdict": "yes"
-  },
-  "inferred": true,
-  "name": "HMX Media",
-  "slug": "hmx-media",
-  "tier": 3
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-18T15:28:43Z",
+  "evidence": [
+   {
+    "detail": "2D Motion Designer — India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://in.linkedin.com/jobs/view/2d-motion-designer-at-hmx-media-4477079605",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-10-18T15:28:43Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "4cf5b2b25d",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "HMX Media",
+ "slug": "hmx-media",
+ "tier": 3
 }

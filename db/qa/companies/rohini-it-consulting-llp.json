@@ -1,0 +1,30 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-29T03:44:17Z",
+  "evidence": [
+   {
+    "detail": "Manual Tester - Mobile Banking / Internet Banking — Mumbai, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://cutshort.io/job/Manual-Tester-Mobile-Banking-Internet-Banking-Mumbai-Rohini-IT-Consulting-LLP-xkN0Xe58",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-10-29T03:44:17Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "0f43ebb18c",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Rohini IT Consulting LLP",
+ "slug": "rohini-it-consulting-llp",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}

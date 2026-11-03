@@ -1,77 +1,77 @@
 {
-  "apply_url": "https://jobs.ashbyhq.com/joinpogo/28bc603b-96d4-4c26-82bd-4c307af2bdf5",
-  "board_apply": null,
-  "category": "Consumer tech",
-  "comp_potential": "unknown",
-  "company": "Pogo Technologies, Inc.",
-  "company_slug": "pogo",
-  "concerns": [
-    "Employer has not confirmed hiring from India",
-    "Compensation not disclosed"
-  ],
-  "contacts_count": 1,
-  "content_hash": "ecd78a143a9d",
-  "date_quality": "unknown",
-  "deadline": null,
-  "employment": "full-time",
-  "first_seen": "2026-10-15T15:39:48Z",
-  "fit": 54,
-  "has_hiring_manager": false,
-  "has_named_contact": false,
-  "has_public_email": false,
-  "id": "3c8ff0c011665d",
-  "include_reason": "Motion title with video scope",
-  "india": {
-    "cities": [],
-    "reason": "Location not stated",
-    "status": "unconfirmed",
-    "visa": false
-  },
-  "kind": "video-motion",
-  "last_verified": "2026-10-15T15:39:48Z",
-  "location": "",
-  "logo": null,
-  "needs_review": false,
-  "official": true,
-  "posted_at": null,
-  "repost": false,
-  "requirements": [],
-  "responsibilities": [],
-  "salary": {
-    "state": "unavailable"
-  },
-  "scores": {
-    "ai": 30,
-    "comp": 48,
-    "company": 95,
-    "location": 38,
-    "seniority": 66,
-    "skill": 36
-  },
-  "seniority": "unspecified",
-  "snippet": "As our first in-house Motion Designer & Video Editor, you'll help define Pogo's motion and video style and establish how we bring our products and brand to life.",
-  "source_primary": "Ashby (via search index)",
-  "sources": [
-    {
-      "id": "ashby",
-      "job_id": "https://jobs.ashbyhq.com/joinpogo/28bc603b-96d4-4c26-82bd-4c307af2bdf5",
-      "kind": "search",
-      "name": "Ashby (via search index)",
-      "posted_at": null,
-      "seen_at": "2026-10-15T15:39:48Z",
-      "url": "https://jobs.ashbyhq.com/joinpogo/28bc603b-96d4-4c26-82bd-4c307af2bdf5"
-    }
-  ],
-  "specializations": [],
-  "status": "verified",
-  "tier": 1,
-  "title": "Motion Designer & Video Editor",
-  "tools": [],
-  "updated_at": null,
-  "url": "https://jobs.ashbyhq.com/joinpogo/28bc603b-96d4-4c26-82bd-4c307af2bdf5",
-  "why": [
-    "Consumer tech company (Tier 1 priority)"
-  ],
-  "work_mode": "unspecified",
-  "years_min": null
+ "apply_url": "https://jobs.ashbyhq.com/joinpogo/28bc603b-96d4-4c26-82bd-4c307af2bdf5",
+ "board_apply": null,
+ "category": "Consumer tech",
+ "comp_potential": "unknown",
+ "company": "Pogo Technologies, Inc.",
+ "company_slug": "pogo",
+ "concerns": [
+  "Employer has not confirmed hiring from India",
+  "Compensation not disclosed"
+ ],
+ "contacts_count": 1,
+ "content_hash": "ecd78a143a9d",
+ "date_quality": "unknown",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-10-15T15:39:48Z",
+ "fit": 54,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "3c8ff0c011665d",
+ "include_reason": "Motion title with video scope",
+ "india": {
+  "cities": [],
+  "reason": "Location not stated",
+  "status": "unconfirmed",
+  "visa": false
+ },
+ "kind": "video-motion",
+ "last_verified": "2026-10-15T15:39:48Z",
+ "location": "",
+ "logo": null,
+ "needs_review": false,
+ "official": true,
+ "posted_at": null,
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 30,
+  "comp": 48,
+  "company": 95,
+  "location": 38,
+  "seniority": 66,
+  "skill": 36
+ },
+ "seniority": "unspecified",
+ "snippet": "As our first in-house Motion Designer & Video Editor, you'll help define Pogo's motion and video style and establish how we bring our products and brand to life.",
+ "source_primary": "Ashby (via search index)",
+ "sources": [
+  {
+   "id": "ashby",
+   "job_id": "https://jobs.ashbyhq.com/joinpogo/28bc603b-96d4-4c26-82bd-4c307af2bdf5",
+   "kind": "search",
+   "name": "Ashby (via search index)",
+   "posted_at": null,
+   "seen_at": "2026-10-15T15:39:48Z",
+   "url": "https://jobs.ashbyhq.com/joinpogo/28bc603b-96d4-4c26-82bd-4c307af2bdf5"
+  }
+ ],
+ "specializations": [],
+ "status": "verified",
+ "tier": 1,
+ "title": "Motion Designer & Video Editor",
+ "tools": [],
+ "updated_at": null,
+ "url": "https://jobs.ashbyhq.com/joinpogo/28bc603b-96d4-4c26-82bd-4c307af2bdf5",
+ "why": [
+  "Consumer tech company (Tier 1 priority)"
+ ],
+ "work_mode": "unspecified",
+ "years_min": null
 }

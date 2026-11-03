@@ -1,0 +1,92 @@
+{
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/qa-engineer-jaipur-hybrid-3-yoe/perimattic/19795014",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "Perimattic",
+ "company_slug": "perimattic",
+ "concerns": [
+  "Also asks for: API testing",
+  "Office outside Mumbai — relocation within India",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "bdaef8a76b21",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-10-28T10:45:08Z",
+ "fit": 80,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "c4334e57f121d9",
+ "include_reason": "QA / test engineer title",
+ "india": {
+  "cities": [],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "qa-engineer",
+ "last_verified": "2026-10-28T10:45:08Z",
+ "location": "All India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-10-13T18:38:16Z",
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 62,
+  "comp": 60,
+  "company": 66,
+  "location": 80,
+  "seniority": 94,
+  "skill": 89
+ },
+ "seniority": "unspecified",
+ "snippet": "Experience: 3 to 7 Yrs\nSkills: QA, test cases, test scenarios, functional testing, regression testing, integration testing, UI testing, API testing, web applications, test plans\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "19795014",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-10-13T18:38:16Z",
+   "seen_at": "2026-10-28T10:45:08Z",
+   "url": "https://www.shine.com/jobs/qa-engineer-jaipur-hybrid-3-yoe/perimattic/19795014"
+  }
+ ],
+ "specializations": [
+  "Web apps"
+ ],
+ "status": "active",
+ "tier": 3,
+ "title": "QA Engineer ( Jaipur | Hybrid | 3+ YOE )",
+ "tools": [
+  "Functional testing",
+  "Regression testing",
+  "UI testing",
+  "Test cases & scenarios",
+  "API testing"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/qa-engineer-jaipur-hybrid-3-yoe/perimattic/19795014",
+ "why": [
+  "QA / test engineer role",
+  "Already on your resume: Functional testing, Regression testing, UI testing, Test cases & scenarios",
+  "Asks for 3+ years — you have about 2.5",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": 7,
+ "years_min": 3
+}

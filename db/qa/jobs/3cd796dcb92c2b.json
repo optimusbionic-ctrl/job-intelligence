@@ -1,0 +1,83 @@
+{
+ "apply_url": null,
+ "board_apply": "https://app.semesteria.com/jobs/quality-assurance-engineer-mumbai-innova-esi-3e6276c8-9ec4-4dd0-8888-4cbc42457eb7",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "Innova ESI",
+ "company_slug": "innova-esi",
+ "concerns": [
+  "Pay not disclosed — ask for the range early",
+  "Full description not available from this source"
+ ],
+ "contacts_count": 0,
+ "content_hash": "8d9b0ee77835",
+ "date_quality": "unknown",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-10-30T00:44:29Z",
+ "fit": 75,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "3cd796dcb92c2b",
+ "include_reason": "QA / test engineer title",
+ "india": {
+  "cities": [
+   "Mumbai"
+  ],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "qa-engineer",
+ "last_verified": "2026-10-30T00:44:29Z",
+ "location": "Mumbai, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": null,
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 55,
+  "comp": 60,
+  "company": 66,
+  "location": 100,
+  "seniority": 84,
+  "skill": 74
+ },
+ "seniority": "unspecified",
+ "snippet": "",
+ "source_primary": "Web (via search index)",
+ "sources": [
+  {
+   "id": "web",
+   "job_id": "https://app.semesteria.com/jobs/quality-assurance-engineer-mumbai-innova-esi-3e6276c8-9ec4-4dd0-8888-4cbc42457eb7",
+   "kind": "search",
+   "name": "Web (via search index)",
+   "posted_at": null,
+   "seen_at": "2026-10-30T00:44:29Z",
+   "url": "https://app.semesteria.com/jobs/quality-assurance-engineer-mumbai-innova-esi-3e6276c8-9ec4-4dd0-8888-4cbc42457eb7"
+  }
+ ],
+ "specializations": [],
+ "status": "lead",
+ "tier": 3,
+ "title": "Quality Assurance Engineer",
+ "tools": [],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://app.semesteria.com/jobs/quality-assurance-engineer-mumbai-innova-esi-3e6276c8-9ec4-4dd0-8888-4cbc42457eb7",
+ "why": [
+  "QA / test engineer role",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": null,
+ "years_min": null
+}

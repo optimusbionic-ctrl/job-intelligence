@@ -1,109 +1,109 @@
 {
-  "apply_url": null,
-  "board_apply": "https://himalayas.app/companies/digitalfish-inc/jobs/sr-motion-designer?utm_source=api",
-  "category": "SaaS",
-  "comp_potential": "possible",
-  "company": "DigitalFish, Inc",
-  "company_slug": "digitalfish-inc",
-  "concerns": [
-    "Pay not disclosed — showing a low-confidence estimate"
-  ],
-  "contacts_count": 0,
-  "content_hash": "a51653153672",
-  "date_quality": "exact",
-  "deadline": "2026-11-10T01:55:18Z",
-  "employment": "full-time",
-  "first_seen": "2026-10-15T15:27:11Z",
-  "fit": 73,
-  "has_hiring_manager": false,
-  "has_named_contact": false,
-  "has_public_email": false,
-  "id": "1b9184afae6c17",
-  "include_reason": "Motion design title",
-  "india": {
-    "cities": [],
-    "company": "likely",
-    "reason": "Worldwide remote",
-    "status": "likely",
-    "visa": false
+ "apply_url": null,
+ "board_apply": "https://himalayas.app/companies/digitalfish-inc/jobs/sr-motion-designer?utm_source=api",
+ "category": "SaaS",
+ "comp_potential": "possible",
+ "company": "DigitalFish, Inc",
+ "company_slug": "digitalfish-inc",
+ "concerns": [
+  "Pay not disclosed — showing a low-confidence estimate"
+ ],
+ "contacts_count": 0,
+ "content_hash": "a51653153672",
+ "date_quality": "exact",
+ "deadline": "2026-11-10T01:55:18Z",
+ "employment": "full-time",
+ "first_seen": "2026-10-15T15:27:11Z",
+ "fit": 73,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "1b9184afae6c17",
+ "include_reason": "Motion design title",
+ "india": {
+  "cities": [],
+  "company": "likely",
+  "reason": "Worldwide remote",
+  "status": "likely",
+  "visa": false
+ },
+ "kind": "motion",
+ "last_verified": "2026-10-18T23:27:04Z",
+ "location": "Worldwide",
+ "logo": "https://cdn-images.himalayas.app/yf4vhah035v7l06b1yxwaydv54ji",
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-10-12T19:30:13Z",
+ "repost": false,
+ "requirements": [
+  "Creativity, verbal and written communication skills and problem solving ability are required.",
+  "Strong leadership and mentoring skills necessary to provide support and constructive performance feedback.",
+  "Strong ability to utilize various forms of media, including print, electronic and film.",
+  "Strong ability to visualize in 2D and 3D and understand aesthetic aspects of design.",
+  "Previous experience using the computer to create layouts and generate new images.",
+  "Experience with Adobe publishing and graphics software a plus."
+ ],
+ "responsibilities": [
+  "Instruct and lead other designers in the planning, analyzing and creation of visual solutions to communication problems.",
+  "Approve and review overall layout and production design of publications or web interfaces as they relate to graphic design, and suggest improvements as needed.",
+  "Review prepared sketches or layouts of other designers to present to client.",
+  "Review and approve charts and graphs created by other designers from data given."
+ ],
+ "salary": {
+  "estimate": {
+   "confidence": "low",
+   "currency": "INR",
+   "evidence": [
+    "mi-dataset-remote"
+   ],
+   "high": 18539757,
+   "inr_high": 18539757,
+   "inr_low": 5712414,
+   "low": 5712414,
+   "method": "Interquartile range of disclosed pay on 16 remote motion-design postings in this dataset (any region, converted to INR today). Employer-specific pay is unknown, and employer-of-record or location-based pay policies often lower offers for India-based hires.",
+   "potential": "possible"
   },
-  "kind": "motion",
-  "last_verified": "2026-10-18T23:27:04Z",
-  "location": "Worldwide",
-  "logo": "https://cdn-images.himalayas.app/yf4vhah035v7l06b1yxwaydv54ji",
-  "needs_review": false,
-  "official": false,
-  "posted_at": "2026-10-12T19:30:13Z",
-  "repost": false,
-  "requirements": [
-    "Creativity, verbal and written communication skills and problem solving ability are required.",
-    "Strong leadership and mentoring skills necessary to provide support and constructive performance feedback.",
-    "Strong ability to utilize various forms of media, including print, electronic and film.",
-    "Strong ability to visualize in 2D and 3D and understand aesthetic aspects of design.",
-    "Previous experience using the computer to create layouts and generate new images.",
-    "Experience with Adobe publishing and graphics software a plus."
-  ],
-  "responsibilities": [
-    "Instruct and lead other designers in the planning, analyzing and creation of visual solutions to communication problems.",
-    "Approve and review overall layout and production design of publications or web interfaces as they relate to graphic design, and suggest improvements as needed.",
-    "Review prepared sketches or layouts of other designers to present to client.",
-    "Review and approve charts and graphs created by other designers from data given."
-  ],
-  "salary": {
-    "estimate": {
-      "confidence": "low",
-      "currency": "INR",
-      "evidence": [
-        "mi-dataset-remote"
-      ],
-      "high": 18539757,
-      "inr_high": 18539757,
-      "inr_low": 5712414,
-      "low": 5712414,
-      "method": "Interquartile range of disclosed pay on 16 remote motion-design postings in this dataset (any region, converted to INR today). Employer-specific pay is unknown, and employer-of-record or location-based pay policies often lower offers for India-based hires.",
-      "potential": "possible"
-    },
-    "note": "Estimate — not employer-confirmed",
-    "state": "estimate",
-    "verified_at": "2026-10-18T23:27:04Z"
-  },
-  "scores": {
-    "ai": 30,
-    "comp": 60,
-    "company": 98,
-    "location": 92,
-    "seniority": 100,
-    "skill": 57
-  },
-  "seniority": "senior",
-  "snippet": "Summary:\n The main function of a graphic designer is to create designs, concepts and sample layouts based on design principles and concepts. A typical graphic designer needs to have a high level of creativity and able to communicate their ideas to both internal and external clients. The ability to be flexible to client demands, work well under pressure and multi-task are required skills.\n Job Responsibilities:\n\n• Ins",
-  "source_primary": "Himalayas",
-  "sources": [
-    {
-      "id": "himalayas",
-      "job_id": "https://himalayas.app/companies/digitalfish-inc/jobs/sr-motion-designer",
-      "kind": "board",
-      "name": "Himalayas",
-      "posted_at": "2026-10-12T19:30:13Z",
-      "seen_at": "2026-10-18T23:27:04Z",
-      "url": "https://himalayas.app/companies/digitalfish-inc/jobs/sr-motion-designer?utm_source=api"
-    }
-  ],
-  "specializations": [
-    "3D motion"
-  ],
-  "status": "active",
-  "tier": 1,
-  "title": "Sr. Motion Designer",
-  "tools": [],
-  "updated_at": null,
-  "url": "https://himalayas.app/companies/digitalfish-inc/jobs/sr-motion-designer?utm_source=api",
-  "why": [
-    "Core motion design role",
-    "Specialisations in scope: 3D motion",
-    "SaaS company (Tier 1 priority)",
-    "Worldwide remote"
-  ],
-  "work_mode": "remote",
-  "years_min": null
+  "note": "Estimate — not employer-confirmed",
+  "state": "estimate",
+  "verified_at": "2026-10-18T23:27:04Z"
+ },
+ "scores": {
+  "ai": 30,
+  "comp": 60,
+  "company": 98,
+  "location": 92,
+  "seniority": 100,
+  "skill": 57
+ },
+ "seniority": "senior",
+ "snippet": "Summary:\n The main function of a graphic designer is to create designs, concepts and sample layouts based on design principles and concepts. A typical graphic designer needs to have a high level of creativity and able to communicate their ideas to both internal and external clients. The ability to be flexible to client demands, work well under pressure and multi-task are required skills.\n Job Responsibilities:\n\n• Ins",
+ "source_primary": "Himalayas",
+ "sources": [
+  {
+   "id": "himalayas",
+   "job_id": "https://himalayas.app/companies/digitalfish-inc/jobs/sr-motion-designer",
+   "kind": "board",
+   "name": "Himalayas",
+   "posted_at": "2026-10-12T19:30:13Z",
+   "seen_at": "2026-10-18T23:27:04Z",
+   "url": "https://himalayas.app/companies/digitalfish-inc/jobs/sr-motion-designer?utm_source=api"
+  }
+ ],
+ "specializations": [
+  "3D motion"
+ ],
+ "status": "active",
+ "tier": 1,
+ "title": "Sr. Motion Designer",
+ "tools": [],
+ "updated_at": null,
+ "url": "https://himalayas.app/companies/digitalfish-inc/jobs/sr-motion-designer?utm_source=api",
+ "why": [
+  "Core motion design role",
+  "Specialisations in scope: 3D motion",
+  "SaaS company (Tier 1 priority)",
+  "Worldwide remote"
+ ],
+ "work_mode": "remote",
+ "years_min": null
 }

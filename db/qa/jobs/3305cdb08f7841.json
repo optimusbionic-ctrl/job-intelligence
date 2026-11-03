@@ -1,89 +1,89 @@
 {
-  "apply_url": null,
-  "board_apply": "https://www.shine.com/jobs/mulesoft-qa-engineer/intellics-global-services-private-limited/19723991",
-  "category": "Other",
-  "comp_potential": "unknown",
-  "company": "INTELLICS GLOBAL SERVICES PRIVATE LIMITED",
-  "company_slug": "intellics-global-services-private-limited",
-  "concerns": [
-    "Entry-level role — pay may be at the lower end",
-    "Office outside Mumbai — relocation within India",
-    "Pay not disclosed — ask for the range early"
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/mulesoft-qa-engineer/intellics-global-services-private-limited/19723991",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "INTELLICS GLOBAL SERVICES PRIVATE LIMITED",
+ "company_slug": "intellics-global-services-private-limited",
+ "concerns": [
+  "Entry-level role — pay may be at the lower end",
+  "Office outside Mumbai — relocation within India",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "6cf2b5b3eeed",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-10-20T17:43:38Z",
+ "fit": 62,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "3305cdb08f7841",
+ "include_reason": "QA / test engineer title",
+ "india": {
+  "cities": [
+   "Pune",
+   "Bengaluru",
+   "Chennai"
   ],
-  "contacts_count": 0,
-  "content_hash": "6cf2b5b3eeed",
-  "date_quality": "exact",
-  "deadline": null,
-  "employment": "full-time",
-  "first_seen": "2026-10-20T17:43:38Z",
-  "fit": 62,
-  "has_hiring_manager": false,
-  "has_named_contact": false,
-  "has_public_email": false,
-  "id": "3305cdb08f7841",
-  "include_reason": "QA / test engineer title",
-  "india": {
-    "cities": [
-      "Pune",
-      "Bengaluru",
-      "Chennai"
-    ],
-    "company": "yes",
-    "reason": "Location lists India",
-    "status": "confirmed",
-    "visa": false
-  },
-  "kind": "qa-engineer",
-  "last_verified": "2026-10-20T17:43:38Z",
-  "location": "Pune, Bangalore, Coimbatore, Chennai, India",
-  "logo": "https://staticrect.shine.com/r/m/images/job_logo/ebf3eba550f642d1b6841e0392a7e27d.webp",
-  "needs_review": false,
-  "official": false,
-  "posted_at": "2026-10-06T20:39:22Z",
-  "repost": false,
-  "requirements": [
-    "(Summary from the Shine.com listing; open the posting for the full description.)"
-  ],
-  "responsibilities": [],
-  "salary": {
-    "state": "unavailable"
-  },
-  "scores": {
-    "ai": 58,
-    "comp": 60,
-    "company": 66,
-    "location": 78,
-    "seniority": 80,
-    "skill": 43
-  },
-  "seniority": "unspecified",
-  "snippet": "Experience: 0 Yrs\nSkills: mulesoft, qa\n(Summary from the Shine.com listing; open the posting for the full description.)",
-  "source_primary": "Shine.com",
-  "sources": [
-    {
-      "id": "shine",
-      "job_id": "19723991",
-      "kind": "board",
-      "name": "Shine.com",
-      "posted_at": "2026-10-06T20:39:22Z",
-      "seen_at": "2026-10-20T17:43:38Z",
-      "url": "https://www.shine.com/jobs/mulesoft-qa-engineer/intellics-global-services-private-limited/19723991"
-    }
-  ],
-  "specializations": [],
-  "status": "active",
-  "tier": 3,
-  "title": "Mulesoft QA Engineer",
-  "tools": [],
-  "track": "software",
-  "updated_at": null,
-  "url": "https://www.shine.com/jobs/mulesoft-qa-engineer/intellics-global-services-private-limited/19723991",
-  "why": [
-    "QA / test engineer role",
-    "Asks for 0+ years — you have about 2.5",
-    "Location lists India"
-  ],
-  "work_mode": "onsite",
-  "years_max": null,
-  "years_min": 0
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "qa-engineer",
+ "last_verified": "2026-10-20T17:43:38Z",
+ "location": "Pune, Bangalore, Coimbatore, Chennai, India",
+ "logo": "https://staticrect.shine.com/r/m/images/job_logo/ebf3eba550f642d1b6841e0392a7e27d.webp",
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-10-06T20:39:22Z",
+ "repost": false,
+ "requirements": [
+  "(Summary from the Shine.com listing; open the posting for the full description.)"
+ ],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 60,
+  "company": 66,
+  "location": 78,
+  "seniority": 80,
+  "skill": 43
+ },
+ "seniority": "unspecified",
+ "snippet": "Experience: 0 Yrs\nSkills: mulesoft, qa\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "19723991",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-10-06T20:39:22Z",
+   "seen_at": "2026-10-20T17:43:38Z",
+   "url": "https://www.shine.com/jobs/mulesoft-qa-engineer/intellics-global-services-private-limited/19723991"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 3,
+ "title": "Mulesoft QA Engineer",
+ "tools": [],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/mulesoft-qa-engineer/intellics-global-services-private-limited/19723991",
+ "why": [
+  "QA / test engineer role",
+  "Asks for 0+ years — you have about 2.5",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": null,
+ "years_min": 0
 }

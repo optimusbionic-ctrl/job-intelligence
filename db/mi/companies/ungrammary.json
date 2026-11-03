@@ -1,0 +1,55 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-30T00:27:41Z",
+  "evidence": [],
+  "first_checked_at": "2026-10-30T00:27:41Z",
+  "india_based": false,
+  "method": "Careers board, posting text, web search",
+  "sig": "54391d7cdf",
+  "summary": "No public evidence yet about hiring from India.",
+  "verdict": "unclear",
+  "web": {
+   "checked_at": "2026-10-30T01:27:12Z",
+   "query": "\"Ungrammary\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
+   "results": [
+    {
+     "description": "",
+     "title": "Working Remotely Without an Employer of Record in India 2025",
+     "url": "https://ins-globalconsulting.com/?p=80019"
+    },
+    {
+     "description": "",
+     "title": "Work Remotely for Global Companies Hiring in India",
+     "url": "https://wisemonk.io/for-candidates"
+    },
+    {
+     "description": "",
+     "title": "Build your career with global companies, without leaving India",
+     "url": "https://www.wisemonk.io/for-candidate"
+    },
+    {
+     "description": "",
+     "title": "Wisemonk Team",
+     "url": "https://www.wisemonk.io/blogs/best-international-remote-job-board-for-indians"
+    },
+    {
+     "description": "",
+     "title": "asanify.com",
+     "url": "https://asanify.com/human-resources/employer-of-record/india"
+    },
+    {
+     "description": "",
+     "title": "jobgether.com",
+     "url": "https://jobgether.com/remote-jobs/india/2"
+    }
+   ]
+  }
+ },
+ "inferred": true,
+ "name": "Ungrammary",
+ "slug": "ungrammary",
+ "tier": 3
+}

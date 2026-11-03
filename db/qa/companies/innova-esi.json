@@ -1,0 +1,30 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-30T00:44:29Z",
+  "evidence": [
+   {
+    "detail": "Quality Assurance Engineer — Mumbai, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://app.semesteria.com/jobs/quality-assurance-engineer-mumbai-innova-esi-3e6276c8-9ec4-4dd0-8888-4cbc42457eb7",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-10-30T00:44:29Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "c6e33a7929",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Innova ESI",
+ "slug": "innova-esi",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}

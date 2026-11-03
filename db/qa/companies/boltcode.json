@@ -1,0 +1,58 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-30T00:44:29Z",
+  "evidence": [],
+  "first_checked_at": "2026-10-30T00:44:29Z",
+  "india_based": false,
+  "method": "Careers board, posting text, web search",
+  "sig": "54391d7cdf",
+  "summary": "No public evidence yet about hiring from India.",
+  "verdict": "unclear",
+  "web": {
+   "checked_at": "2026-10-30T01:43:44Z",
+   "query": "\"Boltcode\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
+   "results": [
+    {
+     "description": "",
+     "title": "Remote für Globale Unternehmen Arbeiten, die in Indien Einstellen",
+     "url": "https://www.wisemonk.io/de/for-candidates"
+    },
+    {
+     "description": "",
+     "title": "Work Remotely for Global Companies Hiring in India",
+     "url": "https://www.wisemonk.io/for-candidates"
+    },
+    {
+     "description": "",
+     "title": "Remote & Flexible Jobs",
+     "url": "https://www.flexjobs.com/remote-jobs/company/bolt_technology_o"
+    },
+    {
+     "description": "",
+     "title": "Create a Job Alert",
+     "url": "https://job-boards.greenhouse.io/bolt42?error=true"
+    },
+    {
+     "description": "",
+     "title": "Build your career with global companies, without leaving India",
+     "url": "https://www.wisemonk.io/for-candidate"
+    },
+    {
+     "description": "",
+     "title": "Create a Job Alert",
+     "url": "https://job-boards.greenhouse.io/bolt42/jobs/5238363004"
+    }
+   ]
+  }
+ },
+ "inferred": true,
+ "name": "Boltcode",
+ "slug": "boltcode",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}

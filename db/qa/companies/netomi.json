@@ -1,102 +1,102 @@
 {
-  "ats": {
-    "slug": "netomi",
-    "type": "lever"
-  },
-  "category": "Product / SaaS",
-  "classification": "Inferred from job description",
-  "india_hiring": {
-    "board": {
-      "apac": 0,
-      "countries": [
-        "India",
-        "United States",
-        "Canada"
-      ],
-      "india": 9,
-      "india_samples": [
-        {
-          "location": "Remote - India",
-          "title": "Agentic Engineer Level II/III",
-          "url": "https://jobs.lever.co/netomi/0e6b7355-330a-4d10-b8d5-c235bd555622"
-        },
-        {
-          "location": "Gurugram",
-          "title": "Agentic Product Manager",
-          "url": "https://jobs.lever.co/netomi/a8cc0d22-25b4-48f4-a6b1-0d1fd37bcc84"
-        },
-        {
-          "location": "Remote - India",
-          "title": "Data Engineer I",
-          "url": "https://jobs.lever.co/netomi/02b45afd-5a49-41b2-a244-b0ca76306692"
-        },
-        {
-          "location": "Remote - India",
-          "title": "Data Engineer II",
-          "url": "https://jobs.lever.co/netomi/929d62de-1e00-4b54-ba38-3378cc440fb2"
-        }
-      ],
-      "open_samples": [],
-      "remote": 20,
-      "restricted_remote": 11,
-      "restricted_samples": [
-        {
-          "location": "San Mateo, CA",
-          "title": "Channel Co-Sell Director",
-          "url": "https://jobs.lever.co/netomi/e86a274e-a6eb-4965-acb3-a8e949722c93"
-        },
-        {
-          "location": "San Mateo, CA",
-          "title": "Human Resources Business Partner",
-          "url": "https://jobs.lever.co/netomi/d5a264d6-b0b9-4e6f-9437-b21283fc9913"
-        },
-        {
-          "location": "Remote",
-          "title": "IT Operations Manager",
-          "url": "https://jobs.lever.co/netomi/fb91209f-e440-4a6a-9b23-2f4fde1568f1"
-        },
-        {
-          "location": "San Mateo, CA",
-          "title": "Partner Enablement Manager",
-          "url": "https://jobs.lever.co/netomi/92530f98-83fa-4623-a0c6-633650b91514"
-        }
-      ],
-      "slug": "netomi",
-      "total": 20,
-      "type": "lever",
-      "url": "https://jobs.lever.co/netomi",
-      "worldwide": 0
-    },
-    "changed_at": "2026-10-22T07:44:56Z",
-    "evidence": [
-      {
-        "detail": "Agentic Engineer Level II/III (Remote - India); Agentic Product Manager (Gurugram); Data Engineer I (Remote - India)",
-        "kind": "board",
-        "label": "9 of 20 open roles are located in India",
-        "url": "https://jobs.lever.co/netomi",
-        "weight": 5
-      },
-      {
-        "detail": "Software Development Engineer In Test - I — India",
-        "kind": "posting",
-        "label": "A current posting lists India as a location",
-        "url": "https://himalayas.app/companies/netomi/jobs/software-development-engineer-in-test-i?utm_source=api",
-        "weight": 5
-      }
-    ],
-    "first_checked_at": "2026-10-19T13:24:59Z",
-    "india_based": false,
-    "method": "Careers board, posting text",
-    "sig": "b0be775d74",
-    "summary": "9 of 20 open roles are located in India.",
-    "verdict": "yes"
-  },
-  "inferred": true,
-  "logo": "https://cdn-images.himalayas.app/sriwytl7l8sxt67b0yvt6kdb887x",
-  "name": "Netomi",
+ "ats": {
   "slug": "netomi",
-  "tier": 1,
-  "tracks": [
-    "software"
-  ]
+  "type": "lever"
+ },
+ "category": "Product / SaaS",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": {
+   "apac": 0,
+   "countries": [
+    "India",
+    "United States",
+    "Canada"
+   ],
+   "india": 9,
+   "india_samples": [
+    {
+     "location": "Remote - India",
+     "title": "Agentic Engineer Level II/III",
+     "url": "https://jobs.lever.co/netomi/0e6b7355-330a-4d10-b8d5-c235bd555622"
+    },
+    {
+     "location": "Gurugram",
+     "title": "Agentic Product Manager",
+     "url": "https://jobs.lever.co/netomi/a8cc0d22-25b4-48f4-a6b1-0d1fd37bcc84"
+    },
+    {
+     "location": "Remote - India",
+     "title": "Data Engineer I",
+     "url": "https://jobs.lever.co/netomi/02b45afd-5a49-41b2-a244-b0ca76306692"
+    },
+    {
+     "location": "Remote - India",
+     "title": "Data Engineer II",
+     "url": "https://jobs.lever.co/netomi/929d62de-1e00-4b54-ba38-3378cc440fb2"
+    }
+   ],
+   "open_samples": [],
+   "remote": 19,
+   "restricted_remote": 10,
+   "restricted_samples": [
+    {
+     "location": "San Mateo, CA",
+     "title": "Channel Co-Sell Director",
+     "url": "https://jobs.lever.co/netomi/e86a274e-a6eb-4965-acb3-a8e949722c93"
+    },
+    {
+     "location": "San Mateo, CA",
+     "title": "Human Resources Business Partner",
+     "url": "https://jobs.lever.co/netomi/d5a264d6-b0b9-4e6f-9437-b21283fc9913"
+    },
+    {
+     "location": "Remote",
+     "title": "IT Operations Manager",
+     "url": "https://jobs.lever.co/netomi/fb91209f-e440-4a6a-9b23-2f4fde1568f1"
+    },
+    {
+     "location": "San Mateo, CA",
+     "title": "Partner Enablement Manager",
+     "url": "https://jobs.lever.co/netomi/92530f98-83fa-4623-a0c6-633650b91514"
+    }
+   ],
+   "slug": "netomi",
+   "total": 19,
+   "type": "lever",
+   "url": "https://jobs.lever.co/netomi",
+   "worldwide": 0
+  },
+  "changed_at": "2026-10-28T14:51:52Z",
+  "evidence": [
+   {
+    "detail": "Agentic Engineer Level II/III (Remote - India); Agentic Product Manager (Gurugram); Data Engineer I (Remote - India)",
+    "kind": "board",
+    "label": "9 of 19 open roles are located in India",
+    "url": "https://jobs.lever.co/netomi",
+    "weight": 5
+   },
+   {
+    "detail": "Software Development Engineer In Test - I — India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://himalayas.app/companies/netomi/jobs/software-development-engineer-in-test-i?utm_source=api",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-10-19T13:24:59Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "e29beb3f07",
+  "summary": "9 of 19 open roles are located in India.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "logo": "https://cdn-images.himalayas.app/sriwytl7l8sxt67b0yvt6kdb887x",
+ "name": "Netomi",
+ "slug": "netomi",
+ "tier": 1,
+ "tracks": [
+  "software"
+ ]
 }

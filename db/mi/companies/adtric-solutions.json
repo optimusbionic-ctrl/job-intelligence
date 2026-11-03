@@ -1,0 +1,27 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-30T00:27:41Z",
+  "evidence": [
+   {
+    "detail": "Motion Graphic Designer — Noida",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://app.semesteria.com/jobs/motion-graphic-designer-noida-adtric-solutions-2cd9dee3-546f-4202-8fd6-5d4aa7c5ed66",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-10-30T00:27:41Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "b924d148e4",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Adtric Solutions",
+ "slug": "adtric-solutions",
+ "tier": 3
+}

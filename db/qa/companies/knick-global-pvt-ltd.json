@@ -1,30 +1,30 @@
 {
-  "category": "Other",
-  "classification": "Inferred from job description",
-  "india_hiring": {
-    "board": null,
-    "changed_at": "2026-10-23T04:43:53Z",
-    "evidence": [
-      {
-        "detail": "QA Tester  Game Testing — All India",
-        "kind": "posting",
-        "label": "A current posting lists India as a location",
-        "url": "https://www.shine.com/jobs/qa-tester-game-testing/knick-global-pvt-ltd/19886936",
-        "weight": 5
-      }
-    ],
-    "first_checked_at": "2026-10-23T04:43:53Z",
-    "india_based": false,
-    "method": "Careers board, posting text",
-    "sig": "bab5ae40b5",
-    "summary": "A current posting lists India as a location.",
-    "verdict": "yes"
-  },
-  "inferred": true,
-  "name": "Knick Global Pvt Ltd",
-  "slug": "knick-global-pvt-ltd",
-  "tier": 3,
-  "tracks": [
-    "game"
-  ]
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-23T04:43:53Z",
+  "evidence": [
+   {
+    "detail": "QA Tester  Game Testing — All India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/qa-tester-game-testing/knick-global-pvt-ltd/19886936",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-10-23T04:43:53Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "bab5ae40b5",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Knick Global Pvt Ltd",
+ "slug": "knick-global-pvt-ltd",
+ "tier": 3,
+ "tracks": [
+  "game"
+ ]
 }

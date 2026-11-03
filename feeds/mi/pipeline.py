@@ -1440,6 +1440,7 @@ def apply_estimates(docs, descs, comp_lookup, benchmarks, fx, comparables=()):
             lo, hi = (b2["low"], b2["high"]) if b2 else (b["avg"] * 0.8, b["avg"] * 1.2)
             est = dict(currency="USD", low=lo, high=hi, inr_low=round(to_inr(lo, "USD", fx)), inr_high=round(to_inr(hi, "USD", fx)), confidence="low",
                        evidence=["som-senior-us-2026", "gd-senior-motion-designer-us"], method="US market benchmarks for senior motion designers (School of Motion 2026 guide, Glassdoor). Applies only if you relocate; cost of living differs.")
+        est = None  # no pay estimates: pay shows only when the posting lists it or a salary site publishes it for this employer
         if est:
             d["salary"] = dict(state="estimate", estimate=est, note="Estimate — not employer-confirmed", verified_at=iso(NOW))
             c = comp_lookup.get(d["company_slug"], {})
@@ -1706,6 +1707,79 @@ SAL_PATTERNS = [
 SAL_RANGE2 = re.compile(r"(?i)average salary of an? (?P<role>[^.]{3,60}?) at (?P<co>[^.]{2,40}?)(?: in (?P<loc>[^.]{2,30}?))? typically ranges from (?P<lo>[₹$]\s?[\d,.]+)\s*(?P<lu>lakhs?|L|k|K)? to (?P<hi>[₹$]\s?[\d,.]+)\s*(?P<hu>lakhs?|L|k|K)?")
 SAL_RANGE = re.compile(r"(?i)(?P<role>(?:senior |lead |sr\.? )?(?:motion(?: graphics?)?|product|ui/ux|ux|visual|graphic|brand|creative|3d)? ?designer|animator|art director|creative director) salar(?:y|ies)[^₹]{0,80}?₹\s?(?P<lo>[\d.]+)\s*L/yr\s*-\s*₹\s?(?P<hi>[\d.]+)\s*L/yr")
 
+_CO_STRIP = re.compile(r"(?i)\b(pvt|private|ltd|limited|llc|inc|corp|corporation|gmbh|plc|co|dot|technologies|technology|solutions|software|services|india|labs?|studios?|games?|group|the|salaries|salary|overview|reviews|working|at)\b")
+def _co_key(s):
+    s = re.sub(r"\([^)]*\)", " ", urllib.parse.unquote(str(s or "")).lower()).replace("&", " ").replace("-", " ")
+    return re.sub(r"[^a-z0-9]", "", re.sub(r"\band\b", " ", _CO_STRIP.sub(" ", s)))
+
+def sal_url_company_ok(url, name):
+    """A company salary figure counts only when the salary page itself is this employer's: the employer name is the
+    company segment of an AmbitionBox / Glassdoor / Indeed / Levels.fyi / 6figr / PayScale salary URL."""
+    key = _co_key(name)
+    if len(key) < 2: return False
+    u = urllib.parse.urlparse(url); host = (u.hostname or "").lower(); path = urllib.parse.unquote(u.path)
+    seg = None
+    if "ambitionbox" in host:
+        m = re.match(r"/(?:salaries/([^/]+?)-salaries|overview/([^/]+?)-overview)(?:/|$)", path); seg = m and (m.group(1) or m.group(2))
+    elif "glassdoor" in host:
+        m = re.match(r"/(?:Salary/([^/]+?)-Salaries-E(?:I_IE)?\d+|pay-and-benefits/([^/]+?)-E\d+)", path)
+        if m:
+            words = (m.group(1) or m.group(2)).split("-")
+            for i in range(1, len(words) + 1):
+                if _co_key("-".join(words[:i])) == key: return True
+            return False
+    elif "indeed" in host:
+        m = re.match(r"/cmp/([^/]+)/salaries", path); seg = m and m.group(1)
+    elif "levels.fyi" in host:
+        m = re.match(r"/companies/([^/]+)/salaries", path); seg = m and m.group(1)
+    elif "6figr" in host:
+        m = re.match(r"/(?:in/)?salary/([^/]+)", path); seg = m and m.group(1)
+    elif "payscale" in host:
+        m = re.search(r"Employer=([^/]+)/Salary", path); seg = m and m.group(1)
+    elif "naukri" in host:
+        m = re.match(r"/([^/]+?)-(?:salaries|overview-\d+)", path); seg = m and m.group(1)
+    return bool(seg) and _co_key(seg) == key
+
+SIZE_RX = [
+    (re.compile(r"(?i)company size\s*[:\-]?\s*([\d,]+)\s*(?:-|–|to)\s*([\d,]+)\s*employees"), "range"),
+    (re.compile(r"(?i)company size\s*[:\-]?\s*([\d,]+)\+\s*employees"), "plus"),
+    (re.compile(r"(?i)\b([\d,]{1,7})\s*(?:-|–|to)\s*([\d,]{1,7})\s*employees\b"), "range"),
+    (re.compile(r"(?i)\b(10,?001)\+\s*employees\b"), "plus"),
+    (re.compile(r"(?i)number of employees\s*[:\-]?\s*([\d,]{2,9})"), "count"),
+]
+SIZE_SITES = {"linkedin.com/company": "LinkedIn", "ambitionbox.com": "AmbitionBox", "glassdoor": "Glassdoor", "crunchbase.com": "Crunchbase",
+              "tracxn.com": "Tracxn", "wikipedia.org": "Wikipedia", "wellfound.com": "Wellfound", "builtin": "Built In", "zoominfo.com": "ZoomInfo"}
+def parse_size_hits(results, name, li_url=None):
+    """Employee range from a LinkedIn company page (preferred) or another company profile, with the quoted text as evidence.
+    LinkedIn pages count only when they are the employer's own page (the known company_links page, or a slug that spells the name)."""
+    key = _co_key(name); best = None
+    li_slug = (LI_COMPANY.match(li_url or "") or [None, None])[1] if li_url else None
+    for h in results or []:
+        url = h.get("url") or ""
+        if not safe_http(url): continue
+        site = next((v for k, v in SIZE_SITES.items() if k in url), None)
+        if not site: continue
+        text = f"{h.get('title', '')}. {h.get('description', '')}"
+        if site == "LinkedIn":
+            m = LI_COMPANY.match(url); slug = m and urllib.parse.unquote(m.group(1)).lower().strip("/")
+            if not slug or (li_slug and slug != li_slug.lower()) or (not li_slug and _co_key(slug) not in {key} | {key + x for x in ("tech", "hq", "ai", "app", "io", "official", "global", "in", "co", "group", "hub")}): continue
+        elif not re.search(r"(?i)\b" + re.escape(name) + r"\b", text) or key not in _co_key(urllib.parse.urlparse(url).path + " " + h.get("title", "")):
+            continue
+        for rx, kind in SIZE_RX:
+            m = rx.search(text)
+            if not m: continue
+            nums = [int(x.replace(",", "")) for x in m.groups() if x]
+            if kind == "range" and (len(nums) != 2 or nums[0] >= nums[1] or nums[0] < 1): continue
+            rec = dict(min=nums[0], max=nums[1] if kind == "range" else None, employees=nums[0] if kind == "count" else None,
+                       range=(f"{nums[0]:,}-{nums[1]:,}" if kind == "range" else f"{nums[0]:,}+" if kind == "plus" else None),
+                       basis="company size" if kind != "count" else "reported headcount", source_name=site, source_url=url,
+                       quote=text[max(0, m.start() - 60): m.end() + 40].replace("\n", " ").strip()[:220])
+            if kind == "count": rec["min"] = nums[0]
+            score = 3 if site == "LinkedIn" else 1
+            if not best or score > best[0]: best = (score, rec)
+            break
+    return best[1] if best else None
+
 def parse_salary_hits(results, company_name=None, market_hint=None):
     """Turn search-result snippets from salary sites into benchmark records, keeping the quoted sentence as evidence."""
     out = []
@@ -1717,6 +1791,8 @@ def parse_salary_hits(results, company_name=None, market_hint=None):
         if not site: continue
         title = h.get("title") or ""; text = f"{title}. {h.get('description') or ''}"
         if company_name and not re.search(r"(?i)\b" + re.escape(company_name) + r"\b", text): continue
+        if company_name and not sal_url_company_ok(url, company_name): continue
+        if re.search(r"(?i)\bEst\.|estimated (?:pay|salary|total|base)|AmbitionBox Estimate|\bestimate\b", text): continue  # site-made estimates are not reported pay
         found = []
         for rx in SAL_PATTERNS:
             for m in rx.finditer(text):
@@ -1823,9 +1899,9 @@ def careers_emails(results, name, domain):
     return uniq[:3]
 
 def _period(kind):
-    return NOW.strftime("%Y%m") if kind in ("salary_company", "salary_market", "careers_email", "linkedin_company") else NOW.strftime("%G%V")
+    return NOW.strftime("%Y%m") if kind in ("salary_company", "salary_market", "careers_email", "linkedin_company", "company_size") else NOW.strftime("%G%V")
 
-def web_queue(existing, companies_reg, limit=4):
+def web_queue(existing, companies_reg, limit=6):
     """The searches worth running this hour, most useful first. Each is recorded in web_checks so it is not repeated within its refresh period."""
     done = set((existing.get("web_checks") or {}).keys())
     comps = existing.get("companies", {}); jobs = existing.get("jobs", {}); links = existing.get("company_links", {})
@@ -1855,13 +1931,23 @@ def web_queue(existing, companies_reg, limit=4):
         name = c.get("name") or (open_by[slug][0].get("company") if open_by.get(slug) else slug)
         add("linkedin_company", slug, name, f'site:linkedin.com/company "{name}"')
         if sum(1 for o in out if o["kind"] == "linkedin_company") >= 1: break
-    # 3) what each top employer pays designers
-    for slug in ranked[:20]:
+    # 3) what each employer pays for this kind of role (only employers with no figure yet)
+    sized = existing.get("company_sizes", {}) or {}
+    have_pay = {b.get("company_slug") for b in (existing.get("salary_benchmarks", {}) or {}).values() if isinstance(b, dict)}
+    for slug in ranked[:40]:
         c = comps.get(slug) or reg.get(slug) or {}
-        if (c.get("tier") or 3) > 2: continue
+        if slug in have_pay: continue
         name = c.get("name") or slug
         add("salary_company", slug, name, f'"{name}" designer salary (site:glassdoor.co.in OR site:glassdoor.com OR site:ambitionbox.com OR site:levels.fyi)')
         if sum(1 for o in out if o["kind"] == "salary_company") >= 1: break
+    # 3b) company size (employee range) from its LinkedIn page or another published profile
+    for slug in ranked[:60]:
+        if not slug or slug in sized: continue
+        c = comps.get(slug) or reg.get(slug) or {}
+        name = c.get("name") or (open_by[slug][0].get("company") if open_by.get(slug) else slug)
+        li = (links.get(slug) or {}).get("linkedin")
+        add("company_size", slug, name, (f'site:linkedin.com/company {name} company size employees' if li else f'{name} company size employees'), dict(linkedin=li) if li else None)
+        if sum(1 for o in out if o["kind"] == "company_size") >= 2: break
     # 4) careers or HR email published on the employer's own pages
     for slug in ranked[:20]:
         c = comps.get(slug) or reg.get(slug) or {}
@@ -1877,7 +1963,7 @@ def web_queue(existing, companies_reg, limit=4):
 
 def apply_web(web, existing, comps, docs):
     """Turn this run's search results into documents: company LinkedIn pages, salary benchmarks, published careers emails and a check log."""
-    links, checks, salaries, emails = {}, {}, [], []
+    links, checks, salaries, emails, sizes = {}, {}, [], [], {}
     for key, w in (web or {}).items():
         if not isinstance(w, dict): continue
         kind = w.get("kind") or ("india" if key.startswith("india") else "")
@@ -1903,10 +1989,15 @@ def apply_web(web, existing, comps, docs):
                                    evidence_url=c["url"], evidence_label=c["page"] or "Company page", evidence_quote=c["quote"], verified_at=iso(NOW),
                                    confidence="medium", job_ids=[], named=False, source="web"))
                 n_found += 1
+        elif kind == "company_size" and slug:
+            li = w.get("linkedin") or ((existing.get("company_links") or {}).get(slug) or {}).get("linkedin") or (links.get(slug) or {}).get("linkedin")
+            got = parse_size_hits(res, name, li)
+            if got:
+                sizes[slug] = dict(slug=slug, name=name, **got, found_via=w.get("query"), checked_at=iso(NOW)); n_found = 1
         elif kind == "india":
             n_found = len(res)
         checks[key] = dict(kind=kind, slug=slug, name=name, query=w.get("query"), results=len(res), found=n_found, checked_at=iso(NOW))
-    return links, checks, salaries, emails
+    return links, checks, salaries, emails, sizes
 
 
 def load_dir(d):
@@ -1985,17 +2076,17 @@ def main():
     checks, upgraded = apply_india_checks(docs, comps, descs_all, existing, web, companies)
     n_est = estimate_linkedin_job_dates(docs)
     finish_india(docs, checks)
-    links, wchecks, web_salaries, web_emails = apply_web(webx, existing, comps, docs)
+    links, wchecks, web_salaries, web_emails, web_sizes = apply_web(webx, existing, comps, docs)
     contacts += [c for c in posting_contacts(docs, descs_all) + web_emails if c["id"] not in {x["id"] for x in contacts}]
     bms = list(bms) + web_salaries
     for d in docs:
         cs = [c for c in contacts if d["id"] in c["job_ids"] or c["company_slug"] == d["company_slug"]]
         d["contacts_count"] = len(cs); d["has_public_email"] = any(c.get("email") for c in cs)
         d["has_named_contact"] = any(c["named"] for c in cs); d["has_hiring_manager"] = any(c["category"] == "hiring_team" for c in cs)
-    for sub, items in (("company_links", links), ("web_checks", wchecks)):
+    for sub, items in (("company_links", links), ("web_checks", wchecks), ("company_sizes", web_sizes)):
         os.makedirs(os.path.join(a.out, sub), exist_ok=True)
         for k, v in items.items(): json.dump(v, open(os.path.join(a.out, sub, k + ".json"), "w"), ensure_ascii=False)
-    log("enrichment:", len(links), "LinkedIn pages,", len(web_salaries), "salary figures,", len(web_emails), "careers emails;", n_est, "LinkedIn dates estimated")
+    log("enrichment:", len(links), "LinkedIn pages,", len(web_sizes), "company sizes,", len(web_salaries), "salary figures,", len(web_emails), "careers emails;", n_est, "LinkedIn dates estimated")
     iv = {}
     for r in checks.values(): iv[r["verdict"]] = iv.get(r["verdict"], 0) + 1
     log("india checks", iv, "roles clarified:", upgraded)

@@ -1,88 +1,88 @@
 {
-  "apply_url": null,
-  "board_apply": "https://www.shine.com/jobs/software-tester/shinecom/19915167",
-  "category": "Other",
-  "comp_potential": "unknown",
-  "company": "Shine.com",
-  "company_slug": "shine-com",
-  "concerns": [
-    "Mentions test automation — be ready to discuss it or show a small script",
-    "Pay not disclosed — ask for the range early"
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/software-tester/shinecom/19915167",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "Shine.com",
+ "company_slug": "shine-com",
+ "concerns": [
+  "Mentions test automation — be ready to discuss it or show a small script",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "e2d392733fd9",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-10-24T02:43:25Z",
+ "fit": 74,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "b04f649a2b92d8",
+ "include_reason": "Manual / functional QA title",
+ "india": {
+  "cities": [
+   "Mumbai"
   ],
-  "contacts_count": 0,
-  "content_hash": "e2d392733fd9",
-  "date_quality": "exact",
-  "deadline": null,
-  "employment": "full-time",
-  "first_seen": "2026-10-24T02:43:25Z",
-  "fit": 74,
-  "has_hiring_manager": false,
-  "has_named_contact": false,
-  "has_public_email": false,
-  "id": "b04f649a2b92d8",
-  "include_reason": "Manual / functional QA title",
-  "india": {
-    "cities": [
-      "Mumbai"
-    ],
-    "company": "yes",
-    "reason": "Location lists India",
-    "status": "confirmed",
-    "visa": false
-  },
-  "kind": "manual-qa",
-  "last_verified": "2026-10-24T02:43:25Z",
-  "location": "Mumbai City, India",
-  "logo": null,
-  "needs_review": false,
-  "official": false,
-  "posted_at": "2026-10-23T21:14:15Z",
-  "repost": false,
-  "requirements": [],
-  "responsibilities": [],
-  "salary": {
-    "state": "unavailable"
-  },
-  "scores": {
-    "ai": 58,
-    "comp": 60,
-    "company": 66,
-    "location": 100,
-    "seniority": 100,
-    "skill": 59
-  },
-  "seniority": "unspecified",
-  "snippet": "Experience: 2 to 6 Yrs\nSkills: automation testing, selenium, test plan, test cases, stlc, playwright, software tester\n(Summary from the Shine.com listing; open the posting for the full description.)",
-  "source_primary": "Shine.com",
-  "sources": [
-    {
-      "id": "shine",
-      "job_id": "19915167",
-      "kind": "board",
-      "name": "Shine.com",
-      "posted_at": "2026-10-23T21:14:15Z",
-      "seen_at": "2026-10-24T02:43:25Z",
-      "url": "https://www.shine.com/jobs/software-tester/shinecom/19915167"
-    }
-  ],
-  "specializations": [],
-  "status": "active",
-  "tier": 3,
-  "title": "Software Tester",
-  "tools": [
-    "Test cases & scenarios",
-    "Test automation"
-  ],
-  "track": "software",
-  "updated_at": null,
-  "url": "https://www.shine.com/jobs/software-tester/shinecom/19915167",
-  "why": [
-    "Manual / functional QA — the core of your resume",
-    "Already on your resume: Test cases & scenarios",
-    "Asks for 2–6 years — you have about 2.5",
-    "Location lists India"
-  ],
-  "work_mode": "onsite",
-  "years_max": 6,
-  "years_min": 2
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "manual-qa",
+ "last_verified": "2026-10-24T02:43:25Z",
+ "location": "Mumbai City, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-10-23T21:14:15Z",
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 60,
+  "company": 66,
+  "location": 100,
+  "seniority": 100,
+  "skill": 59
+ },
+ "seniority": "unspecified",
+ "snippet": "Experience: 2 to 6 Yrs\nSkills: automation testing, selenium, test plan, test cases, stlc, playwright, software tester\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "19915167",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-10-23T21:14:15Z",
+   "seen_at": "2026-10-24T02:43:25Z",
+   "url": "https://www.shine.com/jobs/software-tester/shinecom/19915167"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 3,
+ "title": "Software Tester",
+ "tools": [
+  "Test cases & scenarios",
+  "Test automation"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/software-tester/shinecom/19915167",
+ "why": [
+  "Manual / functional QA — the core of your resume",
+  "Already on your resume: Test cases & scenarios",
+  "Asks for 2–6 years — you have about 2.5",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": 6,
+ "years_min": 2
 }

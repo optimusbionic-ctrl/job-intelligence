@@ -1,30 +1,30 @@
 {
-  "category": "Fintech",
-  "classification": "Inferred from job description",
-  "india_hiring": {
-    "board": null,
-    "changed_at": "2026-10-24T07:43:51Z",
-    "evidence": [
-      {
-        "detail": "Manual Tester-Life Insurance — Mumbai City, India",
-        "kind": "posting",
-        "label": "A current posting lists India as a location",
-        "url": "https://www.shine.com/jobs/manual-tester-life-insurance/galentic-technologies-private-limited/19902863",
-        "weight": 5
-      }
-    ],
-    "first_checked_at": "2026-10-24T07:43:51Z",
-    "india_based": false,
-    "method": "Careers board, posting text",
-    "sig": "51ad100299",
-    "summary": "A current posting lists India as a location.",
-    "verdict": "yes"
-  },
-  "inferred": true,
-  "name": "Galentic Technologies Private Limited",
-  "slug": "galentic-technologies-private-limited",
-  "tier": 1,
-  "tracks": [
-    "software"
-  ]
+ "category": "Fintech",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-24T07:43:51Z",
+  "evidence": [
+   {
+    "detail": "Manual Tester-Life Insurance — Mumbai City, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/manual-tester-life-insurance/galentic-technologies-private-limited/19902863",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-10-24T07:43:51Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "51ad100299",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Galentic Technologies Private Limited",
+ "slug": "galentic-technologies-private-limited",
+ "tier": 1,
+ "tracks": [
+  "software"
+ ]
 }

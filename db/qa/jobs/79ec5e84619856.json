@@ -1,0 +1,109 @@
+{
+ "apply_url": null,
+ "board_apply": "https://jobs.workable.com/view/rY7EibTFS7NpBerD5tqPuU/qa-engineer-in-pune-at-igloo",
+ "category": "Fintech",
+ "comp_potential": "unknown",
+ "company": "Igloo",
+ "company_slug": "igloo",
+ "concerns": [
+  "Also asks for: API testing, Programming, Device logs (ADB/Charles)",
+  "Office outside Mumbai — relocation within India",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "74c2de635854",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-10-30T04:43:58Z",
+ "fit": 84,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "79ec5e84619856",
+ "include_reason": "QA / test engineer title",
+ "india": {
+  "cities": [
+   "Pune"
+  ],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "qa-engineer",
+ "last_verified": "2026-10-30T04:43:58Z",
+ "location": "Pune, Maharashtra, India",
+ "logo": "https://workablehr.s3.amazonaws.com/uploads/account/logo/655279/logo",
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-10-30T04:02:12Z",
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [
+  "We are seeking a QA Engineer in Pune to act as the final gatekeeper for our platform’s reliability. Working at the intersection of Product and Engineering, you will drive quality through end-to-end testing, automation, and AI-enhanced workflows. You’ll be responsible for ensuring that every release is seamless, scalable, and meets our rigorous standards for high availability..",
+  "Creating and maintaining test plans/test suites.",
+  "Collaborate with product managers and backend engineers to ensure the software development tasks can be completed within the aggressive timeline.",
+  "Cooperate with other software engineers to analyze bugs in the Production and Test environment.",
+  "Familiar with agile project quality assurance systems.",
+  "Bachelor’s degree or above in computer-related majors.",
+  "Total of 2-4 years of experience in software testing"
+ ],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 78,
+  "comp": 60,
+  "company": 95,
+  "location": 78,
+  "seniority": 100,
+  "skill": 81
+ },
+ "seniority": "unspecified",
+ "snippet": "About Igloo \n\n Igloo (formerly Axinan) is the first full-stack insurtech firm to emerge from Singapore. With offices across Singapore, Indonesia, Thailand, the Philippines, Vietnam, Malaysia, China and India, Igloo is fueled by a mission of making insurance accessible and affordable for all. Igloo’s innovation solutions empower companies to eliminate operational risk, drive new revenue streams and optimise and enhanc",
+ "source_primary": "Workable job marketplace",
+ "sources": [
+  {
+   "id": "workable",
+   "job_id": "d24a38df-c071-45fd-b05e-05e0c5cfcfd8",
+   "kind": "board",
+   "name": "Workable job marketplace",
+   "posted_at": "2026-10-30T04:02:12Z",
+   "seen_at": "2026-10-30T04:43:58Z",
+   "url": "https://jobs.workable.com/view/rY7EibTFS7NpBerD5tqPuU/qa-engineer-in-pune-at-igloo"
+  }
+ ],
+ "specializations": [
+  "Mobile apps",
+  "Web apps"
+ ],
+ "status": "active",
+ "tier": 1,
+ "title": "QA Engineer",
+ "tools": [
+  "Functional testing",
+  "Regression testing",
+  "Test cases & scenarios",
+  "Bug reporting",
+  "Jira",
+  "API testing",
+  "Programming",
+  "Agile / Scrum",
+  "Device logs (ADB/Charles)"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://jobs.workable.com/view/rY7EibTFS7NpBerD5tqPuU/qa-engineer-in-pune-at-igloo",
+ "why": [
+  "QA / test engineer role",
+  "Already on your resume: Functional testing, Regression testing, Test cases & scenarios, Bug reporting, Jira",
+  "Platforms you test on: Mobile apps",
+  "Fintech company",
+  "Location lists India",
+  "Asks for 2–4 years — you have about 2.5"
+ ],
+ "work_mode": "onsite",
+ "years_max": 4,
+ "years_min": 2
+}

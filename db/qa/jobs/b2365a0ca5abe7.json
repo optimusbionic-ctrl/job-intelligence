@@ -1,92 +1,92 @@
 {
-  "apply_url": null,
-  "board_apply": "https://www.shine.com/jobs/qa-automation-testing-saas-product/the-glove/19840117",
-  "category": "Product / SaaS",
-  "comp_potential": "unknown",
-  "company": "The Glove",
-  "company_slug": "the-glove",
-  "concerns": [
-    "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
-    "Also asks for: API testing, SQL / databases",
-    "Office outside Mumbai — relocation within India",
-    "Pay not disclosed — ask for the range early"
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/qa-automation-testing-saas-product/the-glove/19840117",
+ "category": "Product / SaaS",
+ "comp_potential": "unknown",
+ "company": "The Glove",
+ "company_slug": "the-glove",
+ "concerns": [
+  "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
+  "Also asks for: API testing, SQL / databases",
+  "Office outside Mumbai — relocation within India",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "60f9bcffeae5",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-10-19T13:24:59Z",
+ "fit": 66,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "b2365a0ca5abe7",
+ "include_reason": "Automation-heavy QA (SDET)",
+ "india": {
+  "cities": [
+   "Delhi NCR"
   ],
-  "contacts_count": 0,
-  "content_hash": "60f9bcffeae5",
-  "date_quality": "exact",
-  "deadline": null,
-  "employment": "full-time",
-  "first_seen": "2026-10-19T13:24:59Z",
-  "fit": 66,
-  "has_hiring_manager": false,
-  "has_named_contact": false,
-  "has_public_email": false,
-  "id": "b2365a0ca5abe7",
-  "include_reason": "Automation-heavy QA (SDET)",
-  "india": {
-    "cities": [
-      "Delhi NCR"
-    ],
-    "company": "yes",
-    "reason": "Location lists India",
-    "status": "confirmed",
-    "visa": false
-  },
-  "kind": "automation",
-  "last_verified": "2026-10-19T13:24:59Z",
-  "location": "Delhi, India",
-  "logo": null,
-  "needs_review": false,
-  "official": false,
-  "posted_at": "2026-10-17T10:52:09Z",
-  "repost": false,
-  "requirements": [],
-  "responsibilities": [],
-  "salary": {
-    "state": "unavailable"
-  },
-  "scores": {
-    "ai": 64,
-    "comp": 60,
-    "company": 95,
-    "location": 60,
-    "seniority": 94,
-    "skill": 38
-  },
-  "seniority": "unspecified",
-  "snippet": "Experience: 3 to 7 Yrs\nSkills: SDLC, exploratory testing, SQL, test automation, QAtesting, software Saas Products, software testing methodologies, API testing tools, Postman, Playwright\n(Summary from the Shine.com listing; open the posting for the full description.)",
-  "source_primary": "Shine.com",
-  "sources": [
-    {
-      "id": "shine",
-      "job_id": "19840117",
-      "kind": "board",
-      "name": "Shine.com",
-      "posted_at": "2026-10-17T10:52:09Z",
-      "seen_at": "2026-10-19T13:24:59Z",
-      "url": "https://www.shine.com/jobs/qa-automation-testing-saas-product/the-glove/19840117"
-    }
-  ],
-  "specializations": [],
-  "status": "active",
-  "tier": 1,
-  "title": "QA - Automation Testing (Saas Product)",
-  "tools": [
-    "Exploratory testing",
-    "API testing",
-    "SQL / databases",
-    "Test automation"
-  ],
-  "track": "software",
-  "updated_at": null,
-  "url": "https://www.shine.com/jobs/qa-automation-testing-saas-product/the-glove/19840117",
-  "why": [
-    "Already on your resume: Exploratory testing",
-    "Product / SaaS company",
-    "Asks for 3+ years — you have about 2.5",
-    "Location lists India"
-  ],
-  "work_mode": "onsite",
-  "years_max": 7,
-  "years_min": 3
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "automation",
+ "last_verified": "2026-10-19T13:24:59Z",
+ "location": "Delhi, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-10-17T10:52:09Z",
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 64,
+  "comp": 60,
+  "company": 95,
+  "location": 60,
+  "seniority": 94,
+  "skill": 38
+ },
+ "seniority": "unspecified",
+ "snippet": "Experience: 3 to 7 Yrs\nSkills: SDLC, exploratory testing, SQL, test automation, QAtesting, software Saas Products, software testing methodologies, API testing tools, Postman, Playwright\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "19840117",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-10-17T10:52:09Z",
+   "seen_at": "2026-10-19T13:24:59Z",
+   "url": "https://www.shine.com/jobs/qa-automation-testing-saas-product/the-glove/19840117"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 1,
+ "title": "QA - Automation Testing (Saas Product)",
+ "tools": [
+  "Exploratory testing",
+  "API testing",
+  "SQL / databases",
+  "Test automation"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/qa-automation-testing-saas-product/the-glove/19840117",
+ "why": [
+  "Already on your resume: Exploratory testing",
+  "Product / SaaS company",
+  "Asks for 3+ years — you have about 2.5",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": 7,
+ "years_min": 3
 }

@@ -1,0 +1,58 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-30T00:44:29Z",
+  "evidence": [],
+  "first_checked_at": "2026-10-30T00:44:29Z",
+  "india_based": false,
+  "method": "Careers board, posting text, web search",
+  "sig": "54391d7cdf",
+  "summary": "No public evidence yet about hiring from India.",
+  "verdict": "unclear",
+  "web": {
+   "checked_at": "2026-10-30T01:43:44Z",
+   "query": "\"Vervali Systems\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
+   "results": [
+    {
+     "description": "",
+     "title": "Remote Computer System Validation Jobs",
+     "url": "https://jobgether.com/remote-jobs/computer-system-validation/2"
+    },
+    {
+     "description": "",
+     "title": "Remote Enterprise Search Jobs",
+     "url": "https://jobgether.com/remote-jobs/enterprise-search/2"
+    },
+    {
+     "description": "",
+     "title": "Remote Computer System Validation Jobs",
+     "url": "https://jobgether.com/remote-jobs/computer-system-validation"
+    },
+    {
+     "description": "",
+     "title": "Vervali Systems",
+     "url": "https://www.designrush.com/agency/profile/vervali-systems"
+    },
+    {
+     "description": "",
+     "title": "wellfound.com",
+     "url": "https://wellfound.com/startups/location/maharashtra?page=20"
+    },
+    {
+     "description": "",
+     "title": "100 Remote roles at Veeva Systems",
+     "url": "https://blacktechpipeline.substack.com/p/100-remote-roles-at-veeva-systems"
+    }
+   ]
+  }
+ },
+ "inferred": true,
+ "name": "Vervali Systems",
+ "slug": "vervali-systems",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}

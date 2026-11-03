@@ -1,0 +1,30 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-28T10:45:08Z",
+  "evidence": [
+   {
+    "detail": "QA For Mobile, Web and Api Mental as well as automation tester — Ahmedabad, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/qa-for-mobile-web-and-api-mental-as-well-as-automation-tester/olbuz/19522503",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-10-28T10:45:08Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "db1348de56",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "olbuz",
+ "slug": "olbuz",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-28T13:46:20Z",
+  "evidence": [
+   {
+    "detail": "QA Testing — Mumbai City, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/qa-testing/tekskills-inc/19920506",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-10-28T13:46:20Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "c80e87b2b7",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Tekskills Inc.",
+ "slug": "tekskills-inc",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}

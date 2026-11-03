@@ -1,89 +1,89 @@
 {
-  "apply_url": null,
-  "board_apply": "https://www.shine.com/jobs/software-tester-capital-markets/aqm-technologies/19864301",
-  "category": "Other",
-  "comp_potential": "unknown",
-  "company": "AQM Technologies",
-  "company_slug": "aqm-technologies",
-  "concerns": [
-    "Pay not disclosed — ask for the range early"
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/software-tester-capital-markets/aqm-technologies/19864301",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "AQM Technologies",
+ "company_slug": "aqm-technologies",
+ "concerns": [
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "2aa1ace42209",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-10-21T08:43:55Z",
+ "fit": 87,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "e78208c25f4107",
+ "include_reason": "Manual / functional QA title",
+ "india": {
+  "cities": [
+   "Mumbai"
   ],
-  "contacts_count": 0,
-  "content_hash": "2aa1ace42209",
-  "date_quality": "exact",
-  "deadline": null,
-  "employment": "full-time",
-  "first_seen": "2026-10-21T08:43:55Z",
-  "fit": 87,
-  "has_hiring_manager": false,
-  "has_named_contact": false,
-  "has_public_email": false,
-  "id": "e78208c25f4107",
-  "include_reason": "Manual / functional QA title",
-  "india": {
-    "cities": [
-      "Mumbai"
-    ],
-    "company": "yes",
-    "reason": "Location lists India",
-    "status": "confirmed",
-    "visa": false
-  },
-  "kind": "manual-qa",
-  "last_verified": "2026-10-21T08:43:55Z",
-  "location": "Mumbai City, India",
-  "logo": null,
-  "needs_review": false,
-  "official": false,
-  "posted_at": "2026-10-20T07:07:08Z",
-  "repost": false,
-  "requirements": [],
-  "responsibilities": [],
-  "salary": {
-    "state": "unavailable"
-  },
-  "scores": {
-    "ai": 58,
-    "comp": 60,
-    "company": 66,
-    "location": 100,
-    "seniority": 100,
-    "skill": 100
-  },
-  "seniority": "unspecified",
-  "snippet": "Experience: 2 to 6 Yrs\nSkills: manual testing, functional testing, defect management, test case preparation, test execution, defect reporting, regression testing, Software Testing Life Cycle STLC, SQLdatabase validation, endtoend testing\n(Summary from the Shine.com listing; open the posting for the full description.)",
-  "source_primary": "Shine.com",
-  "sources": [
-    {
-      "id": "shine",
-      "job_id": "19864301",
-      "kind": "board",
-      "name": "Shine.com",
-      "posted_at": "2026-10-20T07:07:08Z",
-      "seen_at": "2026-10-21T08:43:55Z",
-      "url": "https://www.shine.com/jobs/software-tester-capital-markets/aqm-technologies/19864301"
-    }
-  ],
-  "specializations": [],
-  "status": "active",
-  "tier": 3,
-  "title": "Software Tester  Capital Markets",
-  "tools": [
-    "Functional testing",
-    "Regression testing",
-    "Test cases & scenarios",
-    "Bug reporting"
-  ],
-  "track": "software",
-  "updated_at": null,
-  "url": "https://www.shine.com/jobs/software-tester-capital-markets/aqm-technologies/19864301",
-  "why": [
-    "Manual / functional QA — the core of your resume",
-    "Already on your resume: Functional testing, Regression testing, Test cases & scenarios, Bug reporting",
-    "Asks for 2–6 years — you have about 2.5",
-    "Location lists India"
-  ],
-  "work_mode": "onsite",
-  "years_max": 6,
-  "years_min": 2
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "manual-qa",
+ "last_verified": "2026-10-21T08:43:55Z",
+ "location": "Mumbai City, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-10-20T07:07:08Z",
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 60,
+  "company": 66,
+  "location": 100,
+  "seniority": 100,
+  "skill": 100
+ },
+ "seniority": "unspecified",
+ "snippet": "Experience: 2 to 6 Yrs\nSkills: manual testing, functional testing, defect management, test case preparation, test execution, defect reporting, regression testing, Software Testing Life Cycle STLC, SQLdatabase validation, endtoend testing\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "19864301",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-10-20T07:07:08Z",
+   "seen_at": "2026-10-21T08:43:55Z",
+   "url": "https://www.shine.com/jobs/software-tester-capital-markets/aqm-technologies/19864301"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 3,
+ "title": "Software Tester  Capital Markets",
+ "tools": [
+  "Functional testing",
+  "Regression testing",
+  "Test cases & scenarios",
+  "Bug reporting"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/software-tester-capital-markets/aqm-technologies/19864301",
+ "why": [
+  "Manual / functional QA — the core of your resume",
+  "Already on your resume: Functional testing, Regression testing, Test cases & scenarios, Bug reporting",
+  "Asks for 2–6 years — you have about 2.5",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": 6,
+ "years_min": 2
 }

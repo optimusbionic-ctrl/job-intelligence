@@ -1,100 +1,100 @@
 {
-  "apply_url": null,
-  "board_apply": "https://jobs.workable.com/view/oLqmGinLmQbkSPY1ZYRZBH/software-development-engineer-in-test-in-bengaluru-at-weekday-ai",
-  "category": "Other",
-  "comp_potential": "unknown",
-  "company": "Weekday AI",
-  "company_slug": "weekday-ai",
-  "concerns": [
-    "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
-    "Also asks for: API testing, Programming",
-    "Office outside Mumbai — relocation within India",
-    "Pay not disclosed — ask for the range early"
+ "apply_url": null,
+ "board_apply": "https://jobs.workable.com/view/oLqmGinLmQbkSPY1ZYRZBH/software-development-engineer-in-test-in-bengaluru-at-weekday-ai",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "Weekday AI",
+ "company_slug": "weekday-ai",
+ "concerns": [
+  "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
+  "Also asks for: API testing, Programming",
+  "Office outside Mumbai — relocation within India",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "94b94c2454ea",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-10-22T14:44:45Z",
+ "fit": 67,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "9ccf4465afb61b",
+ "include_reason": "Automation-heavy QA (SDET)",
+ "india": {
+  "cities": [
+   "Bengaluru"
   ],
-  "contacts_count": 0,
-  "content_hash": "94b94c2454ea",
-  "date_quality": "exact",
-  "deadline": null,
-  "employment": "full-time",
-  "first_seen": "2026-10-22T14:44:45Z",
-  "fit": 67,
-  "has_hiring_manager": false,
-  "has_named_contact": false,
-  "has_public_email": false,
-  "id": "9ccf4465afb61b",
-  "include_reason": "Automation-heavy QA (SDET)",
-  "india": {
-    "cities": [
-      "Bengaluru"
-    ],
-    "company": "yes",
-    "reason": "Location lists India",
-    "status": "confirmed",
-    "visa": false
-  },
-  "kind": "automation",
-  "last_verified": "2026-10-22T14:44:45Z",
-  "location": "Bengaluru, Karnataka, India",
-  "logo": "https://workablehr.s3.amazonaws.com/uploads/account/logo/691818/logo",
-  "needs_review": false,
-  "official": false,
-  "posted_at": "2026-10-22T14:24:48Z",
-  "repost": false,
-  "requirements": [
-    "Ability to work collaboratively in an Agile environment.",
-    "Passion for continuous learning and staying updated on testing technologies."
-  ],
-  "responsibilities": [],
-  "salary": {
-    "state": "unavailable"
-  },
-  "scores": {
-    "ai": 62,
-    "comp": 60,
-    "company": 66,
-    "location": 60,
-    "seniority": 94,
-    "skill": 57
-  },
-  "seniority": "unspecified",
-  "snippet": "𝗧𝗵𝗶𝘀 𝗿𝗼𝗹𝗲 𝗶𝘀 𝗳𝗼𝗿 𝗼𝗻𝗲 𝗼𝗳 𝘁𝗵𝗲 𝗪𝗲𝗲𝗸𝗱𝗮𝘆'𝘀 𝗰𝗹𝗶𝗲𝗻𝘁𝘀\n 𝗦𝗮𝗹𝗮𝗿𝘆 𝗿𝗮𝗻𝗴𝗲: 𝗥𝘀 𝟭𝟱𝟬𝟬𝟬𝟬𝟬 - 𝗥𝘀 𝟮𝟱𝟬𝟬𝟬𝟬𝟬 (𝗶𝗲 𝗜𝗡𝗥 𝟭𝟱-𝟮𝟱 𝗟𝗣𝗔)\n Experience: 3+ yrs\n Location: Bangalore\n\n As a Software Development Engineer in Test, you will design, develop, and maintain automated test frameworks and scripts to ensure high-quality software delivery, focusing on JavaScript and TypeScript stack. You will lead the creation of robust API and load test suites usi",
-  "source_primary": "Workable job marketplace",
-  "sources": [
-    {
-      "id": "workable",
-      "job_id": "b85cc96c-be6d-4820-bbb7-4859f69b0de3",
-      "kind": "board",
-      "name": "Workable job marketplace",
-      "posted_at": "2026-10-22T14:24:48Z",
-      "seen_at": "2026-10-22T14:44:45Z",
-      "url": "https://jobs.workable.com/view/oLqmGinLmQbkSPY1ZYRZBH/software-development-engineer-in-test-in-bengaluru-at-weekday-ai"
-    }
-  ],
-  "specializations": [
-    "Web apps"
-  ],
-  "status": "active",
-  "tier": 3,
-  "title": "Software Development Engineer in Test",
-  "tools": [
-    "Stress / load testing",
-    "Test cases & scenarios",
-    "Bug reporting",
-    "Google Sheets / Excel",
-    "API testing",
-    "Test automation",
-    "Programming",
-    "Agile / Scrum"
-  ],
-  "track": "software",
-  "updated_at": null,
-  "url": "https://jobs.workable.com/view/oLqmGinLmQbkSPY1ZYRZBH/software-development-engineer-in-test-in-bengaluru-at-weekday-ai",
-  "why": [
-    "Already on your resume: Stress / load testing, Test cases & scenarios, Bug reporting, Google Sheets / Excel",
-    "Asks for 3+ years — you have about 2.5",
-    "Location lists India"
-  ],
-  "work_mode": "onsite",
-  "years_max": null,
-  "years_min": 3
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "automation",
+ "last_verified": "2026-10-22T14:44:45Z",
+ "location": "Bengaluru, Karnataka, India",
+ "logo": "https://workablehr.s3.amazonaws.com/uploads/account/logo/691818/logo",
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-10-22T14:24:48Z",
+ "repost": false,
+ "requirements": [
+  "Ability to work collaboratively in an Agile environment.",
+  "Passion for continuous learning and staying updated on testing technologies."
+ ],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 62,
+  "comp": 60,
+  "company": 66,
+  "location": 60,
+  "seniority": 94,
+  "skill": 57
+ },
+ "seniority": "unspecified",
+ "snippet": "𝗧𝗵𝗶𝘀 𝗿𝗼𝗹𝗲 𝗶𝘀 𝗳𝗼𝗿 𝗼𝗻𝗲 𝗼𝗳 𝘁𝗵𝗲 𝗪𝗲𝗲𝗸𝗱𝗮𝘆'𝘀 𝗰𝗹𝗶𝗲𝗻𝘁𝘀\n 𝗦𝗮𝗹𝗮𝗿𝘆 𝗿𝗮𝗻𝗴𝗲: 𝗥𝘀 𝟭𝟱𝟬𝟬𝟬𝟬𝟬 - 𝗥𝘀 𝟮𝟱𝟬𝟬𝟬𝟬𝟬 (𝗶𝗲 𝗜𝗡𝗥 𝟭𝟱-𝟮𝟱 𝗟𝗣𝗔)\n Experience: 3+ yrs\n Location: Bangalore\n\n As a Software Development Engineer in Test, you will design, develop, and maintain automated test frameworks and scripts to ensure high-quality software delivery, focusing on JavaScript and TypeScript stack. You will lead the creation of robust API and load test suites usi",
+ "source_primary": "Workable job marketplace",
+ "sources": [
+  {
+   "id": "workable",
+   "job_id": "b85cc96c-be6d-4820-bbb7-4859f69b0de3",
+   "kind": "board",
+   "name": "Workable job marketplace",
+   "posted_at": "2026-10-22T14:24:48Z",
+   "seen_at": "2026-10-22T14:44:45Z",
+   "url": "https://jobs.workable.com/view/oLqmGinLmQbkSPY1ZYRZBH/software-development-engineer-in-test-in-bengaluru-at-weekday-ai"
+  }
+ ],
+ "specializations": [
+  "Web apps"
+ ],
+ "status": "active",
+ "tier": 3,
+ "title": "Software Development Engineer in Test",
+ "tools": [
+  "Stress / load testing",
+  "Test cases & scenarios",
+  "Bug reporting",
+  "Google Sheets / Excel",
+  "API testing",
+  "Test automation",
+  "Programming",
+  "Agile / Scrum"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://jobs.workable.com/view/oLqmGinLmQbkSPY1ZYRZBH/software-development-engineer-in-test-in-bengaluru-at-weekday-ai",
+ "why": [
+  "Already on your resume: Stress / load testing, Test cases & scenarios, Bug reporting, Google Sheets / Excel",
+  "Asks for 3+ years — you have about 2.5",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": null,
+ "years_min": 3
 }

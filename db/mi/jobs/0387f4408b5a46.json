@@ -1,0 +1,80 @@
+{
+ "apply_url": null,
+ "board_apply": "https://app.semesteria.com/jobs/motion-graphic-designer-new-delhi-anj-creations-pvt-ltd-87f63769-75ed-4842-9c22-54e89f59ab45",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "ANJ Creations Pvt Ltd",
+ "company_slug": "anj-creations-pvt-ltd",
+ "concerns": [
+  "Compensation not disclosed",
+  "Full description not available from this source"
+ ],
+ "contacts_count": 0,
+ "content_hash": "d1eb371c197d",
+ "date_quality": "unknown",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-10-30T00:27:41Z",
+ "fit": 49,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "0387f4408b5a46",
+ "include_reason": "Mixed graphic + motion title",
+ "india": {
+  "cities": [
+   "Delhi NCR"
+  ],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "graphic-motion",
+ "last_verified": "2026-10-30T00:27:41Z",
+ "location": "New Delhi",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": null,
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 45,
+  "comp": 48,
+  "company": 40,
+  "location": 64,
+  "seniority": 66,
+  "skill": 42
+ },
+ "seniority": "unspecified",
+ "snippet": "",
+ "source_primary": "Semesteria (via search index)",
+ "sources": [
+  {
+   "id": "web",
+   "job_id": "https://app.semesteria.com/jobs/motion-graphic-designer-new-delhi-anj-creations-pvt-ltd-87f63769-75ed-4842-9c22-54e89f59ab45",
+   "kind": "search",
+   "name": "Semesteria (via search index)",
+   "posted_at": null,
+   "seen_at": "2026-10-30T00:27:41Z",
+   "url": "https://app.semesteria.com/jobs/motion-graphic-designer-new-delhi-anj-creations-pvt-ltd-87f63769-75ed-4842-9c22-54e89f59ab45"
+  }
+ ],
+ "specializations": [],
+ "status": "lead",
+ "tier": 3,
+ "title": "Motion Graphic Designer",
+ "tools": [],
+ "updated_at": null,
+ "url": "https://app.semesteria.com/jobs/motion-graphic-designer-new-delhi-anj-creations-pvt-ltd-87f63769-75ed-4842-9c22-54e89f59ab45",
+ "why": [
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_min": null
+}

@@ -1,102 +1,102 @@
 {
-  "apply_url": null,
-  "board_apply": "https://jobs.workable.com/view/vGfzrUUGjoCg72B7zcpXn7/hybrid-automation-test-engineer---data-analytics-and-reporting-in-chennai-at-stradit",
-  "category": "Other",
-  "comp_potential": "unknown",
-  "company": "StradIT",
-  "company_slug": "stradit",
-  "concerns": [
-    "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
-    "Also asks for: SQL / databases, Programming",
-    "Office outside Mumbai — relocation within India",
-    "Pay not disclosed — ask for the range early"
+ "apply_url": null,
+ "board_apply": "https://jobs.workable.com/view/vGfzrUUGjoCg72B7zcpXn7/hybrid-automation-test-engineer---data-analytics-and-reporting-in-chennai-at-stradit",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "StradIT",
+ "company_slug": "stradit",
+ "concerns": [
+  "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
+  "Also asks for: SQL / databases, Programming",
+  "Office outside Mumbai — relocation within India",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "6d575868e363",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-10-19T13:24:59Z",
+ "fit": 63,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "f482a87d999bdc",
+ "include_reason": "Automation-heavy QA (SDET)",
+ "india": {
+  "cities": [
+   "Chennai"
   ],
-  "contacts_count": 0,
-  "content_hash": "6d575868e363",
-  "date_quality": "exact",
-  "deadline": null,
-  "employment": "full-time",
-  "first_seen": "2026-10-19T13:24:59Z",
-  "fit": 63,
-  "has_hiring_manager": false,
-  "has_named_contact": false,
-  "has_public_email": false,
-  "id": "f482a87d999bdc",
-  "include_reason": "Automation-heavy QA (SDET)",
-  "india": {
-    "cities": [
-      "Chennai"
-    ],
-    "company": "yes",
-    "reason": "Location lists India",
-    "status": "confirmed",
-    "visa": false
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "automation",
+ "last_verified": "2026-10-19T13:24:59Z",
+ "location": "Chennai, Tamil Nadu, India",
+ "logo": "https://workablehr.s3.amazonaws.com/uploads/account/logo/734377/logo",
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-09-03T06:39:31Z",
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 66,
+  "comp": 60,
+  "company": 66,
+  "location": 66,
+  "seniority": 84,
+  "skill": 47
+ },
+ "seniority": "unspecified",
+ "snippet": "• Experience with Test Engineering methodologies and Test Automation Frameworks and experience in Selenium with Java. \n\n• Experience in API (Application Programming Interface) platforms like APIGEE. \n\n• Hands on experience in software development/Test using Design Patterns, Java, typescript, Java EE, Spring Boot, Angular 15+ , ReactJS , JMS, REST API, PL/SQL , Tomcat on OCP. \n\n• Familiar developing and running applic",
+ "source_primary": "Workable job marketplace",
+ "sources": [
+  {
+   "id": "workable",
+   "job_id": "f077c150-3f01-421e-8b36-93cf7419386c",
+   "kind": "board",
+   "name": "Workable job marketplace",
+   "posted_at": "2026-09-03T06:39:32Z",
+   "seen_at": "2026-10-19T13:24:59Z",
+   "url": "https://jobs.workable.com/view/vGfzrUUGjoCg72B7zcpXn7/hybrid-automation-test-engineer---data-analytics-and-reporting-in-chennai-at-stradit"
   },
-  "kind": "automation",
-  "last_verified": "2026-10-19T13:24:59Z",
-  "location": "Chennai, Tamil Nadu, India",
-  "logo": "https://workablehr.s3.amazonaws.com/uploads/account/logo/734377/logo",
-  "needs_review": false,
-  "official": false,
-  "posted_at": "2026-09-03T06:39:31Z",
-  "repost": false,
-  "requirements": [],
-  "responsibilities": [],
-  "salary": {
-    "state": "unavailable"
-  },
-  "scores": {
-    "ai": 66,
-    "comp": 60,
-    "company": 66,
-    "location": 66,
-    "seniority": 84,
-    "skill": 47
-  },
-  "seniority": "unspecified",
-  "snippet": "• Experience with Test Engineering methodologies and Test Automation Frameworks and experience in Selenium with Java. \n\n• Experience in API (Application Programming Interface) platforms like APIGEE. \n\n• Hands on experience in software development/Test using Design Patterns, Java, typescript, Java EE, Spring Boot, Angular 15+ , ReactJS , JMS, REST API, PL/SQL , Tomcat on OCP. \n\n• Familiar developing and running applic",
-  "source_primary": "Workable job marketplace",
-  "sources": [
-    {
-      "id": "workable",
-      "job_id": "f077c150-3f01-421e-8b36-93cf7419386c",
-      "kind": "board",
-      "name": "Workable job marketplace",
-      "posted_at": "2026-09-03T06:39:32Z",
-      "seen_at": "2026-10-19T13:24:59Z",
-      "url": "https://jobs.workable.com/view/vGfzrUUGjoCg72B7zcpXn7/hybrid-automation-test-engineer---data-analytics-and-reporting-in-chennai-at-stradit"
-    },
-    {
-      "id": "workable",
-      "job_id": "400d2256-efcc-4868-aa28-e7f56dd8e3cd",
-      "kind": "board",
-      "name": "Workable job marketplace",
-      "posted_at": "2026-09-03T06:39:31Z",
-      "seen_at": "2026-10-19T13:24:59Z",
-      "url": "https://jobs.workable.com/view/8UJYRkxsok4ucpUUEmWJDk/hybrid-automation-test-engineer---data-analytics-and-reporting-in-hyderabad-at-stradit"
-    }
-  ],
-  "specializations": [
-    "Windows / PC"
-  ],
-  "status": "active",
-  "tier": 3,
-  "title": "Automation Test Engineer - Data Analytics and Reporting",
-  "tools": [
-    "Jira",
-    "SQL / databases",
-    "Test automation",
-    "Programming"
-  ],
-  "track": "software",
-  "updated_at": null,
-  "url": "https://jobs.workable.com/view/vGfzrUUGjoCg72B7zcpXn7/hybrid-automation-test-engineer---data-analytics-and-reporting-in-chennai-at-stradit",
-  "why": [
-    "Already on your resume: Jira",
-    "Platforms you test on: Windows / PC",
-    "Location lists India"
-  ],
-  "work_mode": "hybrid",
-  "years_max": null,
-  "years_min": null
+  {
+   "id": "workable",
+   "job_id": "400d2256-efcc-4868-aa28-e7f56dd8e3cd",
+   "kind": "board",
+   "name": "Workable job marketplace",
+   "posted_at": "2026-09-03T06:39:31Z",
+   "seen_at": "2026-10-19T13:24:59Z",
+   "url": "https://jobs.workable.com/view/8UJYRkxsok4ucpUUEmWJDk/hybrid-automation-test-engineer---data-analytics-and-reporting-in-hyderabad-at-stradit"
+  }
+ ],
+ "specializations": [
+  "Windows / PC"
+ ],
+ "status": "active",
+ "tier": 3,
+ "title": "Automation Test Engineer - Data Analytics and Reporting",
+ "tools": [
+  "Jira",
+  "SQL / databases",
+  "Test automation",
+  "Programming"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://jobs.workable.com/view/vGfzrUUGjoCg72B7zcpXn7/hybrid-automation-test-engineer---data-analytics-and-reporting-in-chennai-at-stradit",
+ "why": [
+  "Already on your resume: Jira",
+  "Platforms you test on: Windows / PC",
+  "Location lists India"
+ ],
+ "work_mode": "hybrid",
+ "years_max": null,
+ "years_min": null
 }

@@ -1,0 +1,32 @@
+{
+ "category": "Product / SaaS",
+ "classification": "Inferred from job description",
+ "domain": "origin.tech",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-29T12:55:23Z",
+  "evidence": [
+   {
+    "detail": "Product Quality Tester — Bengaluru, Karnataka, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://jobs.workable.com/view/dAcpYctArreJi1zMnoaoTE/product-quality-tester-in-bengaluru-at-origin",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-10-29T12:55:23Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "00632711ca",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "logo": "https://workablehr.s3.amazonaws.com/uploads/account/logo/703865/logo",
+ "name": "Origin",
+ "slug": "origin",
+ "tier": 1,
+ "tracks": [
+  "software"
+ ]
+}

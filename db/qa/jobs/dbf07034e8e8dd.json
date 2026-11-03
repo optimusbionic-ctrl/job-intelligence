@@ -1,0 +1,84 @@
+{
+ "apply_url": null,
+ "board_apply": "https://cutshort.io/job/QA-Engineer-web-based-testing-Pune-Smartcloud-Infoservices-Pvt-Ltd-2rw5z5lM",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "Smartcloud Infoservices Pvt Ltd",
+ "company_slug": "smartcloud-infoservices-pvt-ltd",
+ "concerns": [
+  "Office outside Mumbai — relocation within India",
+  "Pay not disclosed — ask for the range early",
+  "Full description not available from this source"
+ ],
+ "contacts_count": 0,
+ "content_hash": "5d31bcd27c2e",
+ "date_quality": "unknown",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-10-30T00:44:29Z",
+ "fit": 72,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "dbf07034e8e8dd",
+ "include_reason": "QA / test engineer title",
+ "india": {
+  "cities": [
+   "Pune"
+  ],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "qa-engineer",
+ "last_verified": "2026-10-30T00:44:29Z",
+ "location": "Pune, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": null,
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 55,
+  "comp": 60,
+  "company": 66,
+  "location": 78,
+  "seniority": 84,
+  "skill": 74
+ },
+ "seniority": "unspecified",
+ "snippet": "",
+ "source_primary": "Web (via search index)",
+ "sources": [
+  {
+   "id": "web",
+   "job_id": "https://cutshort.io/job/QA-Engineer-web-based-testing-Pune-Smartcloud-Infoservices-Pvt-Ltd-2rw5z5lM",
+   "kind": "search",
+   "name": "Web (via search index)",
+   "posted_at": null,
+   "seen_at": "2026-10-30T00:44:29Z",
+   "url": "https://cutshort.io/job/QA-Engineer-web-based-testing-Pune-Smartcloud-Infoservices-Pvt-Ltd-2rw5z5lM"
+  }
+ ],
+ "specializations": [],
+ "status": "lead",
+ "tier": 3,
+ "title": "QA Engineer (web based testing)",
+ "tools": [],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://cutshort.io/job/QA-Engineer-web-based-testing-Pune-Smartcloud-Infoservices-Pvt-Ltd-2rw5z5lM",
+ "why": [
+  "QA / test engineer role",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": null,
+ "years_min": null
+}

@@ -1,87 +1,87 @@
 {
-  "apply_url": null,
-  "board_apply": "https://www.shine.com/jobs/software-tester-functional-testing/quest-business-solution/19533913",
-  "category": "Fintech",
-  "comp_potential": "unknown",
-  "company": "Quest Business Solution",
-  "company_slug": "quest-business-solution",
-  "concerns": [
-    "Pay not disclosed — ask for the range early"
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/software-tester-functional-testing/quest-business-solution/19533913",
+ "category": "Fintech",
+ "comp_potential": "unknown",
+ "company": "Quest Business Solution",
+ "company_slug": "quest-business-solution",
+ "concerns": [
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "a6ec1d8dfb7c",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-10-24T14:43:58Z",
+ "fit": 82,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "b9417a9b1e9997",
+ "include_reason": "Manual / functional QA title",
+ "india": {
+  "cities": [
+   "Mumbai"
   ],
-  "contacts_count": 0,
-  "content_hash": "a6ec1d8dfb7c",
-  "date_quality": "exact",
-  "deadline": null,
-  "employment": "full-time",
-  "first_seen": "2026-10-24T14:43:58Z",
-  "fit": 82,
-  "has_hiring_manager": false,
-  "has_named_contact": false,
-  "has_public_email": false,
-  "id": "b9417a9b1e9997",
-  "include_reason": "Manual / functional QA title",
-  "india": {
-    "cities": [
-      "Mumbai"
-    ],
-    "company": "yes",
-    "reason": "Location lists India",
-    "status": "confirmed",
-    "visa": false
-  },
-  "kind": "manual-qa",
-  "last_verified": "2026-10-24T14:43:58Z",
-  "location": "Mumbai City, India",
-  "logo": null,
-  "needs_review": false,
-  "official": false,
-  "posted_at": "2026-09-05T01:39:02Z",
-  "repost": false,
-  "requirements": [],
-  "responsibilities": [],
-  "salary": {
-    "state": "unavailable"
-  },
-  "scores": {
-    "ai": 58,
-    "comp": 60,
-    "company": 95,
-    "location": 100,
-    "seniority": 84,
-    "skill": 79
-  },
-  "seniority": "unspecified",
-  "snippet": "Experience: 24 to >25 Yrs\nSkills: Functional Testing, Financial Services, Wealth Management, Client Onboarding, Financial Reporting, Regression Testing, SDLC, STLC, KYC Processes, Investment Lifecycle\n(Summary from the Shine.com listing; open the posting for the full description.)",
-  "source_primary": "Shine.com",
-  "sources": [
-    {
-      "id": "shine",
-      "job_id": "19533913",
-      "kind": "board",
-      "name": "Shine.com",
-      "posted_at": "2026-09-05T01:39:02Z",
-      "seen_at": "2026-10-24T14:43:58Z",
-      "url": "https://www.shine.com/jobs/software-tester-functional-testing/quest-business-solution/19533913"
-    }
-  ],
-  "specializations": [],
-  "status": "active",
-  "tier": 1,
-  "title": "Software Tester - Functional Testing",
-  "tools": [
-    "Functional testing",
-    "Regression testing"
-  ],
-  "track": "software",
-  "updated_at": null,
-  "url": "https://www.shine.com/jobs/software-tester-functional-testing/quest-business-solution/19533913",
-  "why": [
-    "Manual / functional QA — the core of your resume",
-    "Already on your resume: Functional testing, Regression testing",
-    "Fintech company",
-    "Location lists India"
-  ],
-  "work_mode": "onsite",
-  "years_max": null,
-  "years_min": null
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "manual-qa",
+ "last_verified": "2026-10-24T14:43:58Z",
+ "location": "Mumbai City, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-09-05T01:39:02Z",
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 60,
+  "company": 95,
+  "location": 100,
+  "seniority": 84,
+  "skill": 79
+ },
+ "seniority": "unspecified",
+ "snippet": "Experience: 24 to >25 Yrs\nSkills: Functional Testing, Financial Services, Wealth Management, Client Onboarding, Financial Reporting, Regression Testing, SDLC, STLC, KYC Processes, Investment Lifecycle\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "19533913",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-09-05T01:39:02Z",
+   "seen_at": "2026-10-24T14:43:58Z",
+   "url": "https://www.shine.com/jobs/software-tester-functional-testing/quest-business-solution/19533913"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 1,
+ "title": "Software Tester - Functional Testing",
+ "tools": [
+  "Functional testing",
+  "Regression testing"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/software-tester-functional-testing/quest-business-solution/19533913",
+ "why": [
+  "Manual / functional QA — the core of your resume",
+  "Already on your resume: Functional testing, Regression testing",
+  "Fintech company",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": null,
+ "years_min": null
 }

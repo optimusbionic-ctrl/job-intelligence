@@ -1,0 +1,30 @@
+{
+ "category": "Recruiter (client not named)",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-28T10:45:08Z",
+  "evidence": [
+   {
+    "detail": "Quality Analyst — Pune, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/quality-analyst/sure-job-consultancy-and-enterprises/19804115",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-10-28T10:45:08Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "7e78865397",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "SURE JOB CONSULTANCY AND ENTERPRISES",
+ "slug": "sure-job-consultancy-and-enterprises",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}

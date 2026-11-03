@@ -1,90 +1,90 @@
 {
-  "apply_url": null,
-  "board_apply": "https://www.shine.com/jobs/game-tester/indium/19679276",
-  "category": "Game studio",
-  "comp_potential": "unknown",
-  "company": "Indium",
-  "company_slug": "indium",
-  "concerns": [
-    "Also asks for: Test management (TestRail/Zephyr), API testing, Device logs (ADB/Charles)",
-    "Office outside Mumbai — relocation within India",
-    "Pay not disclosed — ask for the range early"
-  ],
-  "contacts_count": 0,
-  "content_hash": "c0021bebbf1b",
-  "date_quality": "exact",
-  "deadline": null,
-  "employment": "full-time",
-  "first_seen": "2026-10-19T13:24:59Z",
-  "fit": 77,
-  "has_hiring_manager": false,
-  "has_named_contact": false,
-  "has_public_email": false,
-  "id": "fab2c2b1a3ba64",
-  "include_reason": "Game tester title",
-  "india": {
-    "cities": [],
-    "company": "yes",
-    "reason": "Location lists India",
-    "status": "confirmed",
-    "visa": false
-  },
-  "kind": "game-tester",
-  "last_verified": "2026-10-19T13:24:59Z",
-  "location": "All India",
-  "logo": null,
-  "needs_review": false,
-  "official": false,
-  "posted_at": "2026-10-02T06:52:33Z",
-  "repost": false,
-  "requirements": [],
-  "responsibilities": [],
-  "salary": {
-    "state": "unavailable"
-  },
-  "scores": {
-    "ai": 58,
-    "comp": 60,
-    "company": 96,
-    "location": 80,
-    "seniority": 100,
-    "skill": 64
-  },
-  "seniority": "unspecified",
-  "snippet": "Experience: 1 to 5 Yrs\nSkills: API testing, JIRA, TestRail, communication, gaming, Mobile Game Testing, Charles Proxy, problemsolving\n(Summary from the Shine.com listing; open the posting for the full description.)",
-  "source_primary": "Shine.com",
-  "sources": [
-    {
-      "id": "shine",
-      "job_id": "19679276",
-      "kind": "board",
-      "name": "Shine.com",
-      "posted_at": "2026-10-02T06:52:33Z",
-      "seen_at": "2026-10-19T13:24:59Z",
-      "url": "https://www.shine.com/jobs/game-tester/indium/19679276"
-    }
-  ],
-  "specializations": [],
-  "status": "active",
-  "tier": 1,
-  "title": "Game Tester",
-  "tools": [
-    "Jira",
-    "Test management (TestRail/Zephyr)",
-    "API testing",
-    "Device logs (ADB/Charles)"
-  ],
-  "track": "game",
-  "updated_at": null,
-  "url": "https://www.shine.com/jobs/game-tester/indium/19679276",
-  "why": [
-    "Game tester role — matches your game QA work at Webmobril and Golden Horde",
-    "Already on your resume: Jira",
-    "Game studio company",
-    "Asks for 1–5 years — you have about 2.5",
-    "Location lists India"
-  ],
-  "work_mode": "onsite",
-  "years_max": 5,
-  "years_min": 1
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/game-tester/indium/19679276",
+ "category": "Game studio",
+ "comp_potential": "unknown",
+ "company": "Indium",
+ "company_slug": "indium",
+ "concerns": [
+  "Also asks for: Test management (TestRail/Zephyr), API testing, Device logs (ADB/Charles)",
+  "Office outside Mumbai — relocation within India",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "c0021bebbf1b",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-10-19T13:24:59Z",
+ "fit": 77,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "fab2c2b1a3ba64",
+ "include_reason": "Game tester title",
+ "india": {
+  "cities": [],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "game-tester",
+ "last_verified": "2026-10-19T13:24:59Z",
+ "location": "All India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-10-02T06:52:33Z",
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 60,
+  "company": 96,
+  "location": 80,
+  "seniority": 100,
+  "skill": 64
+ },
+ "seniority": "unspecified",
+ "snippet": "Experience: 1 to 5 Yrs\nSkills: API testing, JIRA, TestRail, communication, gaming, Mobile Game Testing, Charles Proxy, problemsolving\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "19679276",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-10-02T06:52:33Z",
+   "seen_at": "2026-10-19T13:24:59Z",
+   "url": "https://www.shine.com/jobs/game-tester/indium/19679276"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 1,
+ "title": "Game Tester",
+ "tools": [
+  "Jira",
+  "Test management (TestRail/Zephyr)",
+  "API testing",
+  "Device logs (ADB/Charles)"
+ ],
+ "track": "game",
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/game-tester/indium/19679276",
+ "why": [
+  "Game tester role — matches your game QA work at Webmobril and Golden Horde",
+  "Already on your resume: Jira",
+  "Game studio company",
+  "Asks for 1–5 years — you have about 2.5",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": 5,
+ "years_min": 1
 }

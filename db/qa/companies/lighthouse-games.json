@@ -1,23 +1,23 @@
 {
-  "category": "Game studio",
-  "classification": "Inferred from job description",
-  "domain": "lighthousegames.com",
-  "india_hiring": {
-    "board": null,
-    "changed_at": "2026-10-19T13:24:59Z",
-    "evidence": [],
-    "first_checked_at": "2026-10-19T13:24:59Z",
-    "india_based": false,
-    "method": "Careers board, posting text",
-    "sig": "54391d7cdf",
-    "summary": "No public evidence yet about hiring from India.",
-    "verdict": "unclear"
-  },
-  "inferred": true,
-  "name": "Lighthouse Games",
-  "slug": "lighthouse-games",
-  "tier": 1,
-  "tracks": [
-    "game"
-  ]
+ "category": "Game studio",
+ "classification": "Inferred from job description",
+ "domain": "lighthousegames.com",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-19T13:24:59Z",
+  "evidence": [],
+  "first_checked_at": "2026-10-19T13:24:59Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "54391d7cdf",
+  "summary": "No public evidence yet about hiring from India.",
+  "verdict": "unclear"
+ },
+ "inferred": true,
+ "name": "Lighthouse Games",
+ "slug": "lighthouse-games",
+ "tier": 1,
+ "tracks": [
+  "game"
+ ]
 }

@@ -1,83 +1,83 @@
 {
-  "apply_url": null,
-  "board_apply": "https://hitmarker.net/jobs/rockstar-games-online-services-qa-tester-1588774",
-  "category": "Game studio",
-  "comp_potential": "unknown",
-  "company": "Rockstar Games",
-  "company_slug": "rockstar-games",
-  "concerns": [
-    "Employer has not confirmed hiring from India",
-    "Pay not disclosed — ask for the range early",
-    "Full description not available from this source"
-  ],
-  "contacts_count": 1,
-  "content_hash": "883749f92997",
-  "date_quality": "unknown",
-  "deadline": null,
-  "employment": "full-time",
-  "first_seen": "2026-10-21T15:45:01Z",
-  "fit": 74,
-  "has_hiring_manager": false,
-  "has_named_contact": false,
-  "has_public_email": false,
-  "id": "7c7f68520e825d",
-  "include_reason": "Manual / functional QA title",
-  "india": {
-    "cities": [],
-    "company": "yes",
-    "reason": "Location not stated",
-    "status": "unconfirmed",
-    "visa": false
-  },
-  "kind": "manual-qa",
-  "last_verified": "2026-10-21T15:45:01Z",
-  "location": "",
-  "logo": null,
-  "needs_review": false,
-  "official": false,
-  "posted_at": null,
-  "repost": false,
-  "requirements": [],
-  "responsibilities": [],
-  "salary": {
-    "state": "unavailable"
-  },
-  "scores": {
-    "ai": 55,
-    "comp": 60,
-    "company": 95,
-    "location": 36,
-    "seniority": 84,
-    "skill": 86
-  },
-  "seniority": "unspecified",
-  "snippet": "",
-  "source_primary": "Hitmarker (via search index)",
-  "sources": [
-    {
-      "id": "web",
-      "job_id": "https://hitmarker.net/jobs/rockstar-games-online-services-qa-tester-1588774",
-      "kind": "search",
-      "name": "Hitmarker (via search index)",
-      "posted_at": null,
-      "seen_at": "2026-10-21T15:45:01Z",
-      "url": "https://hitmarker.net/jobs/rockstar-games-online-services-qa-tester-1588774"
-    }
-  ],
-  "specializations": [],
-  "status": "lead",
-  "tier": 1,
-  "title": "QA Tester (Online Services)",
-  "tools": [],
-  "track": "software",
-  "updated_at": null,
-  "url": "https://hitmarker.net/jobs/rockstar-games-online-services-qa-tester-1588774",
-  "why": [
-    "Manual / functional QA — the core of your resume",
-    "Game studio company",
-    "Rockstar Games already hires people in India"
-  ],
-  "work_mode": "unspecified",
-  "years_max": null,
-  "years_min": null
+ "apply_url": null,
+ "board_apply": "https://hitmarker.net/jobs/rockstar-games-online-services-qa-tester-1588774",
+ "category": "Game studio",
+ "comp_potential": "unknown",
+ "company": "Rockstar Games",
+ "company_slug": "rockstar-games",
+ "concerns": [
+  "Employer has not confirmed hiring from India",
+  "Pay not disclosed — ask for the range early",
+  "Full description not available from this source"
+ ],
+ "contacts_count": 1,
+ "content_hash": "883749f92997",
+ "date_quality": "unknown",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-10-21T15:45:01Z",
+ "fit": 74,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "7c7f68520e825d",
+ "include_reason": "Manual / functional QA title",
+ "india": {
+  "cities": [],
+  "company": "yes",
+  "reason": "Location not stated",
+  "status": "unconfirmed",
+  "visa": false
+ },
+ "kind": "manual-qa",
+ "last_verified": "2026-10-21T15:45:01Z",
+ "location": "",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": null,
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 55,
+  "comp": 60,
+  "company": 95,
+  "location": 36,
+  "seniority": 84,
+  "skill": 86
+ },
+ "seniority": "unspecified",
+ "snippet": "",
+ "source_primary": "Hitmarker (via search index)",
+ "sources": [
+  {
+   "id": "web",
+   "job_id": "https://hitmarker.net/jobs/rockstar-games-online-services-qa-tester-1588774",
+   "kind": "search",
+   "name": "Hitmarker (via search index)",
+   "posted_at": null,
+   "seen_at": "2026-10-21T15:45:01Z",
+   "url": "https://hitmarker.net/jobs/rockstar-games-online-services-qa-tester-1588774"
+  }
+ ],
+ "specializations": [],
+ "status": "lead",
+ "tier": 1,
+ "title": "QA Tester (Online Services)",
+ "tools": [],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://hitmarker.net/jobs/rockstar-games-online-services-qa-tester-1588774",
+ "why": [
+  "Manual / functional QA — the core of your resume",
+  "Game studio company",
+  "Rockstar Games already hires people in India"
+ ],
+ "work_mode": "unspecified",
+ "years_max": null,
+ "years_min": null
 }

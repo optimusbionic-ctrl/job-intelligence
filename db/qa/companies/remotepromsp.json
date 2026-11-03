@@ -1,30 +1,30 @@
 {
-  "category": "Other",
-  "classification": "Inferred from job description",
-  "india_hiring": {
-    "board": null,
-    "changed_at": "2026-10-21T22:43:56Z",
-    "evidence": [
-      {
-        "detail": "Game Tester  Entry Level (Work From Home, No E... — All India",
-        "kind": "posting",
-        "label": "A current posting lists India as a location",
-        "url": "https://www.shine.com/jobs/game-tester-entry-level-work-from-home-no-e/remotepromsp/19484736",
-        "weight": 5
-      }
-    ],
-    "first_checked_at": "2026-10-19T13:24:59Z",
-    "india_based": false,
-    "method": "Careers board, posting text",
-    "sig": "7b20fe7883",
-    "summary": "A current posting lists India as a location.",
-    "verdict": "yes"
-  },
-  "inferred": true,
-  "name": "remotepromsp",
-  "slug": "remotepromsp",
-  "tier": 3,
-  "tracks": [
-    "software"
-  ]
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-21T22:43:56Z",
+  "evidence": [
+   {
+    "detail": "Game Tester  Entry Level (Work From Home, No E... — All India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/game-tester-entry-level-work-from-home-no-e/remotepromsp/19484736",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-10-19T13:24:59Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "7b20fe7883",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "remotepromsp",
+ "slug": "remotepromsp",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
 }

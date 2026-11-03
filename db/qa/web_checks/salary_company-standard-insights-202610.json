@@ -1,0 +1,9 @@
+{
+ "checked_at": "2026-10-28T23:43:32Z",
+ "found": 0,
+ "kind": "salary_company",
+ "name": "Standard Insights",
+ "query": "\"Standard Insights\" (QA OR tester OR \"test engineer\") salary (site:ambitionbox.com OR site:glassdoor.co.in OR site:glassdoor.com OR site:payscale.com)",
+ "results": 8,
+ "slug": "standard-insights"
+}

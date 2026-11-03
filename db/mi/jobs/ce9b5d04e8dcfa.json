@@ -1,81 +1,81 @@
 {
-  "apply_url": null,
-  "board_apply": "https://dribbble.com/jobs/310208-Snr-Product-Designer-Illustration-Motion",
-  "category": "Other",
-  "comp_potential": "unknown",
-  "company": "Miaplaza",
-  "company_slug": "miaplaza",
-  "concerns": [
-    "Employer has not confirmed hiring from India",
-    "Compensation not disclosed",
-    "Full description not available from this source"
-  ],
-  "contacts_count": 0,
-  "content_hash": "22a98715b193",
-  "date_quality": "approx",
-  "deadline": null,
-  "employment": "full-time",
-  "first_seen": "2026-10-19T22:26:26Z",
-  "fit": 54,
-  "has_hiring_manager": false,
-  "has_named_contact": false,
-  "has_public_email": false,
-  "id": "ce9b5d04e8dcfa",
-  "include_reason": "Motion design title",
-  "india": {
-    "cities": [],
-    "company": "unclear",
-    "reason": "Remote, region not stated",
-    "status": "unconfirmed",
-    "visa": false
-  },
-  "kind": "motion",
-  "last_verified": "2026-10-19T22:26:26Z",
-  "location": "Remote",
-  "logo": "https://cdn.dribbble.com/userupload/49026873/file/044beebce21266dd633ced2bd0d00935.png?resize=24x24",
-  "needs_review": false,
-  "official": false,
-  "posted_at": "2026-09-15T14:00:14Z",
-  "repost": false,
-  "requirements": [],
-  "responsibilities": [],
-  "salary": {
-    "context_benchmark": "mi-dataset-remote",
-    "note": "Not disclosed. Global remote pay context is available, but there is no evidence it applies to this employer or to India-based hires.",
-    "state": "unavailable"
-  },
-  "scores": {
-    "ai": 45,
-    "comp": 48,
-    "company": 40,
-    "location": 38,
-    "seniority": 66,
-    "skill": 69
-  },
-  "seniority": "unspecified",
-  "snippet": "",
-  "source_primary": "Dribbble Jobs",
-  "sources": [
-    {
-      "id": "dribbble",
-      "job_id": "/jobs/310208-Snr-Product-Designer-Illustration-Motion",
-      "kind": "board",
-      "name": "Dribbble Jobs",
-      "posted_at": "2026-09-15T14:00:14Z",
-      "seen_at": "2026-10-19T22:26:26Z",
-      "url": "https://dribbble.com/jobs/310208-Snr-Product-Designer-Illustration-Motion"
-    }
-  ],
-  "specializations": [],
-  "status": "active",
-  "tier": 3,
-  "title": "Snr Product Designer Illustration/Motion",
-  "tools": [],
-  "updated_at": null,
-  "url": "https://dribbble.com/jobs/310208-Snr-Product-Designer-Illustration-Motion",
-  "why": [
-    "Core motion design role"
-  ],
-  "work_mode": "remote",
-  "years_min": null
+ "apply_url": null,
+ "board_apply": "https://dribbble.com/jobs/310208-Snr-Product-Designer-Illustration-Motion",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "Miaplaza",
+ "company_slug": "miaplaza",
+ "concerns": [
+  "Employer has not confirmed hiring from India",
+  "Compensation not disclosed",
+  "Full description not available from this source"
+ ],
+ "contacts_count": 0,
+ "content_hash": "22a98715b193",
+ "date_quality": "approx",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-10-19T22:26:26Z",
+ "fit": 54,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "ce9b5d04e8dcfa",
+ "include_reason": "Motion design title",
+ "india": {
+  "cities": [],
+  "company": "unclear",
+  "reason": "Remote, region not stated",
+  "status": "unconfirmed",
+  "visa": false
+ },
+ "kind": "motion",
+ "last_verified": "2026-10-19T22:26:26Z",
+ "location": "Remote",
+ "logo": "https://cdn.dribbble.com/userupload/49026873/file/044beebce21266dd633ced2bd0d00935.png?resize=24x24",
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-09-15T14:00:14Z",
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "context_benchmark": "mi-dataset-remote",
+  "note": "Not disclosed. Global remote pay context is available, but there is no evidence it applies to this employer or to India-based hires.",
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 45,
+  "comp": 48,
+  "company": 40,
+  "location": 38,
+  "seniority": 66,
+  "skill": 69
+ },
+ "seniority": "unspecified",
+ "snippet": "",
+ "source_primary": "Dribbble Jobs",
+ "sources": [
+  {
+   "id": "dribbble",
+   "job_id": "/jobs/310208-Snr-Product-Designer-Illustration-Motion",
+   "kind": "board",
+   "name": "Dribbble Jobs",
+   "posted_at": "2026-09-15T14:00:14Z",
+   "seen_at": "2026-10-19T22:26:26Z",
+   "url": "https://dribbble.com/jobs/310208-Snr-Product-Designer-Illustration-Motion"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 3,
+ "title": "Snr Product Designer Illustration/Motion",
+ "tools": [],
+ "updated_at": null,
+ "url": "https://dribbble.com/jobs/310208-Snr-Product-Designer-Illustration-Motion",
+ "why": [
+  "Core motion design role"
+ ],
+ "work_mode": "remote",
+ "years_min": null
 }

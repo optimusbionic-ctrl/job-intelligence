@@ -1,0 +1,27 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-30T00:27:41Z",
+  "evidence": [
+   {
+    "detail": "Motion Graphic Designer — Mumbai",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://app.semesteria.com/jobs/motion-graphic-designer-mumbai-tata-consultancy-services-3e90b36a-9059-45fc-aa09-517427b532ca",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-10-30T00:27:41Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "3df670d25a",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Tata Consultancy Services",
+ "slug": "tata-consultancy-services",
+ "tier": 3
+}

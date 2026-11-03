@@ -10,6 +10,21 @@ A GitHub Action runs every hour, even when no Claude subscription or credits are
 
 Everything runs on GitHub's free plan. Public repositories get unlimited Actions minutes and free Pages hosting.
 
+## Extra free sources (optional keys)
+
+Every run also reads `scripts/extra_sources.py`:
+
+| Source | Key | What it adds |
+|---|---|---|
+| `inbox/<app>/` | none | LinkedIn, Naukri, Indeed and other search-index finds that Claude's monitor saves here when it runs |
+| The Muse | none | design roles worldwide (Motion Intelligence) |
+| Adzuna | free: `ADZUNA_APP_ID`, `ADZUNA_APP_KEY` from developer.adzuna.com | India-wide listings plus remote roles in the UK and US (Adzuna's predicted salaries are ignored) |
+| Jooble | free: `JOOBLE_KEY` from jooble.org/api/about | aggregated listings from many Indian and global boards |
+| Tavily | free: `TAVILY_API_KEY` from app.tavily.com (1,000 searches/month) | LinkedIn / Naukri / ATS search-index leads without Claude, 3 times a day |
+
+Add keys under **Settings → Secrets and variables → Actions → New repository secret**. Sources without a key are skipped.
+New finds are also written to `export/<app>_leads.json`, which Claude's monitor imports when it runs, so both versions stay in step.
+
 ## One-time setup (about 5 minutes)
 
 1. Create a new **public** repository on GitHub, for example `job-intelligence`. Leave it empty.
@@ -44,7 +59,7 @@ The two versions keep separate databases. The Claude apps and their scheduled mo
 - Only public job postings, company names and public careers contacts are stored in `db/`. No resumes, tracker entries, notes, phone numbers or personal email addresses are in this repo.
 - Your tracker and notes in the free copy are saved in the browser you use (localStorage). They don't sync between devices.
 - Sources are read only through their official public APIs, with rate limits and robots.txt respected. LinkedIn, Naukri, Indeed and foundit pages are never fetched.
-- Salaries are shown only when the posting lists them. Everything else is labelled as an estimate.
+- Pay is shown only when the posting lists it or a salary site reports it for that exact employer (with the link). Everything else says Undisclosed; nothing is estimated.
 
 ## Files
 

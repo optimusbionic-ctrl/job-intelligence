@@ -1,55 +1,55 @@
 {
-  "category": "Other",
-  "classification": "Inferred from job description",
-  "india_hiring": {
-    "board": null,
-    "changed_at": "2026-10-22T12:28:52Z",
-    "evidence": [],
-    "first_checked_at": "2026-10-22T12:28:52Z",
-    "india_based": false,
-    "method": "Careers board, posting text, web search",
-    "sig": "54391d7cdf",
-    "summary": "No public evidence yet about hiring from India.",
-    "verdict": "unclear",
-    "web": {
-      "checked_at": "2026-10-22T13:27:49Z",
-      "query": "\"Tigi HR\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
-      "results": [
-        {
-          "description": "",
-          "title": "indian startup tigi hr introduces high tech remote recruitment outsourcing for international companies",
-          "url": "https://business.sherbrookerecord.com/sherbrookerecord/news/read/41318133/indian_startup_tigi_hr_introduces_high_tech_remote_recruitment_outsourcing_for_international_companies"
-        },
-        {
-          "description": "",
-          "title": "Back to Directory",
-          "url": "https://bitscale.ai/directory/tigi-hr"
-        },
-        {
-          "description": "",
-          "title": "tigi hr solution pvt ltd",
-          "url": "https://yourstory.com/companies/tigi-hr-solution-pvt-ltd"
-        },
-        {
-          "description": "",
-          "title": "TIGI HR Solution Pvt. Ltd.®",
-          "url": "https://www.thedroptimes.com/organization/31450/tigi-hr-solution-pvt-ltdar"
-        },
-        {
-          "description": "",
-          "title": "Sign InWrite a reviewGet Listed",
-          "url": "https://www.goodfirms.co/company/tigi-hr-solution-pvt-ltd"
-        },
-        {
-          "description": "",
-          "title": "tigi hr solution pvt ltd",
-          "url": "https://outsorcy.com/companies/tigi-hr-solution-pvt-ltd-"
-        }
-      ]
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-22T12:28:52Z",
+  "evidence": [],
+  "first_checked_at": "2026-10-22T12:28:52Z",
+  "india_based": false,
+  "method": "Careers board, posting text, web search",
+  "sig": "54391d7cdf",
+  "summary": "No public evidence yet about hiring from India.",
+  "verdict": "unclear",
+  "web": {
+   "checked_at": "2026-10-22T13:27:49Z",
+   "query": "\"Tigi HR\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
+   "results": [
+    {
+     "description": "",
+     "title": "indian startup tigi hr introduces high tech remote recruitment outsourcing for international companies",
+     "url": "https://business.sherbrookerecord.com/sherbrookerecord/news/read/41318133/indian_startup_tigi_hr_introduces_high_tech_remote_recruitment_outsourcing_for_international_companies"
+    },
+    {
+     "description": "",
+     "title": "Back to Directory",
+     "url": "https://bitscale.ai/directory/tigi-hr"
+    },
+    {
+     "description": "",
+     "title": "tigi hr solution pvt ltd",
+     "url": "https://yourstory.com/companies/tigi-hr-solution-pvt-ltd"
+    },
+    {
+     "description": "",
+     "title": "TIGI HR Solution Pvt. Ltd.®",
+     "url": "https://www.thedroptimes.com/organization/31450/tigi-hr-solution-pvt-ltdar"
+    },
+    {
+     "description": "",
+     "title": "Sign InWrite a reviewGet Listed",
+     "url": "https://www.goodfirms.co/company/tigi-hr-solution-pvt-ltd"
+    },
+    {
+     "description": "",
+     "title": "tigi hr solution pvt ltd",
+     "url": "https://outsorcy.com/companies/tigi-hr-solution-pvt-ltd-"
     }
-  },
-  "inferred": true,
-  "name": "Tigi HR",
-  "slug": "tigi-hr",
-  "tier": 3
+   ]
+  }
+ },
+ "inferred": true,
+ "name": "Tigi HR",
+ "slug": "tigi-hr",
+ "tier": 3
 }

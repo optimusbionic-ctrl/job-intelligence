@@ -1,9 +1,9 @@
 {
-  "checked_at": "2026-10-19T22:43:59Z",
-  "found": 0,
-  "kind": "salary_market",
-  "name": "Global",
-  "query": "\"QA tester\" remote salary (site:glassdoor.com OR site:payscale.com OR site:builtin.com)",
-  "results": 8,
-  "slug": "m4"
+ "checked_at": "2026-10-19T22:43:59Z",
+ "found": 0,
+ "kind": "salary_market",
+ "name": "Global",
+ "query": "\"QA tester\" remote salary (site:glassdoor.com OR site:payscale.com OR site:builtin.com)",
+ "results": 8,
+ "slug": "m4"
 }

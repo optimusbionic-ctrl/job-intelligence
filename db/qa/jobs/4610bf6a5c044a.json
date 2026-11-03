@@ -1,85 +1,85 @@
 {
-  "apply_url": null,
-  "board_apply": "https://www.shine.com/jobs/test-engineer/qualitykiosk-technologies/19533929",
-  "category": "Other",
-  "comp_potential": "unknown",
-  "company": "QualityKiosk Technologies",
-  "company_slug": "qualitykiosk-technologies",
-  "concerns": [
-    "Pay not disclosed — ask for the range early"
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/test-engineer/qualitykiosk-technologies/19533929",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "QualityKiosk Technologies",
+ "company_slug": "qualitykiosk-technologies",
+ "concerns": [
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "fb8eb9483337",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-10-19T16:45:07Z",
+ "fit": 70,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "4610bf6a5c044a",
+ "include_reason": "QA / test engineer title",
+ "india": {
+  "cities": [
+   "Mumbai"
   ],
-  "contacts_count": 0,
-  "content_hash": "fb8eb9483337",
-  "date_quality": "exact",
-  "deadline": null,
-  "employment": "full-time",
-  "first_seen": "2026-10-19T16:45:07Z",
-  "fit": 70,
-  "has_hiring_manager": false,
-  "has_named_contact": false,
-  "has_public_email": false,
-  "id": "4610bf6a5c044a",
-  "include_reason": "QA / test engineer title",
-  "india": {
-    "cities": [
-      "Mumbai"
-    ],
-    "company": "yes",
-    "reason": "Location lists India",
-    "status": "confirmed",
-    "visa": false
-  },
-  "kind": "qa-engineer",
-  "last_verified": "2026-10-19T16:45:07Z",
-  "location": "Navi Mumbai, India",
-  "logo": null,
-  "needs_review": false,
-  "official": false,
-  "posted_at": "2026-09-05T01:39:17Z",
-  "repost": false,
-  "requirements": [
-    "(Summary from the Shine.com listing; open the posting for the full description.)"
-  ],
-  "responsibilities": [],
-  "salary": {
-    "state": "unavailable"
-  },
-  "scores": {
-    "ai": 58,
-    "comp": 60,
-    "company": 66,
-    "location": 100,
-    "seniority": 100,
-    "skill": 43
-  },
-  "seniority": "unspecified",
-  "snippet": "Experience: 1 to 5 Yrs\nSkills: AUTOMATION TESTING\n(Summary from the Shine.com listing; open the posting for the full description.)",
-  "source_primary": "Shine.com",
-  "sources": [
-    {
-      "id": "shine",
-      "job_id": "19533929",
-      "kind": "board",
-      "name": "Shine.com",
-      "posted_at": "2026-09-05T01:39:17Z",
-      "seen_at": "2026-10-19T16:45:07Z",
-      "url": "https://www.shine.com/jobs/test-engineer/qualitykiosk-technologies/19533929"
-    }
-  ],
-  "specializations": [],
-  "status": "active",
-  "tier": 3,
-  "title": "Test Engineer",
-  "tools": [],
-  "track": "software",
-  "updated_at": null,
-  "url": "https://www.shine.com/jobs/test-engineer/qualitykiosk-technologies/19533929",
-  "why": [
-    "QA / test engineer role",
-    "Asks for 1–5 years — you have about 2.5",
-    "Location lists India"
-  ],
-  "work_mode": "onsite",
-  "years_max": 5,
-  "years_min": 1
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "qa-engineer",
+ "last_verified": "2026-10-19T16:45:07Z",
+ "location": "Navi Mumbai, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-09-05T01:39:17Z",
+ "repost": false,
+ "requirements": [
+  "(Summary from the Shine.com listing; open the posting for the full description.)"
+ ],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 60,
+  "company": 66,
+  "location": 100,
+  "seniority": 100,
+  "skill": 43
+ },
+ "seniority": "unspecified",
+ "snippet": "Experience: 1 to 5 Yrs\nSkills: AUTOMATION TESTING\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "19533929",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-09-05T01:39:17Z",
+   "seen_at": "2026-10-19T16:45:07Z",
+   "url": "https://www.shine.com/jobs/test-engineer/qualitykiosk-technologies/19533929"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 3,
+ "title": "Test Engineer",
+ "tools": [],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/test-engineer/qualitykiosk-technologies/19533929",
+ "why": [
+  "QA / test engineer role",
+  "Asks for 1–5 years — you have about 2.5",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": 5,
+ "years_min": 1
 }

@@ -1,58 +1,58 @@
 {
-  "category": "Other",
-  "classification": "Inferred from job description",
-  "india_hiring": {
-    "board": null,
-    "changed_at": "2026-10-19T15:45:44Z",
-    "evidence": [],
-    "first_checked_at": "2026-10-19T15:45:44Z",
-    "india_based": false,
-    "method": "Careers board, posting text, web search",
-    "sig": "54391d7cdf",
-    "summary": "No public evidence yet about hiring from India.",
-    "verdict": "unclear",
-    "web": {
-      "checked_at": "2026-10-19T16:45:07Z",
-      "query": "\"King Entertainment Corp\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
-      "results": [
-        {
-          "description": "",
-          "title": "Are you tired of working for non-nobility? Desperate for a job with royal rewards?",
-          "url": "https://www.pocketgamer.biz/news/51039/hiring-blitz-saga-king-looking-to-add-close-to-100-employees-globally/"
-        },
-        {
-          "description": "",
-          "title": "uk.indeed.com",
-          "url": "https://uk.indeed.com/cmp/King"
-        },
-        {
-          "description": "",
-          "title": "Working Remotely Without an Employer of Record in India 2025",
-          "url": "https://ins-globalconsulting.com/?p=80019"
-        },
-        {
-          "description": "",
-          "title": "Work Remotely for Global Companies Hiring in India",
-          "url": "https://wisemonk.io/for-candidates"
-        },
-        {
-          "description": "",
-          "title": "Build your career with global companies, without leaving India",
-          "url": "https://www.wisemonk.io/for-candidate"
-        },
-        {
-          "description": "",
-          "title": "INS Global",
-          "url": "https://ins-globalconsulting.com/ja/news-post/eor-inndo/"
-        }
-      ]
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-19T15:45:44Z",
+  "evidence": [],
+  "first_checked_at": "2026-10-19T15:45:44Z",
+  "india_based": false,
+  "method": "Careers board, posting text, web search",
+  "sig": "54391d7cdf",
+  "summary": "No public evidence yet about hiring from India.",
+  "verdict": "unclear",
+  "web": {
+   "checked_at": "2026-10-19T16:45:07Z",
+   "query": "\"King Entertainment Corp\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
+   "results": [
+    {
+     "description": "",
+     "title": "Are you tired of working for non-nobility? Desperate for a job with royal rewards?",
+     "url": "https://www.pocketgamer.biz/news/51039/hiring-blitz-saga-king-looking-to-add-close-to-100-employees-globally/"
+    },
+    {
+     "description": "",
+     "title": "uk.indeed.com",
+     "url": "https://uk.indeed.com/cmp/King"
+    },
+    {
+     "description": "",
+     "title": "Working Remotely Without an Employer of Record in India 2025",
+     "url": "https://ins-globalconsulting.com/?p=80019"
+    },
+    {
+     "description": "",
+     "title": "Work Remotely for Global Companies Hiring in India",
+     "url": "https://wisemonk.io/for-candidates"
+    },
+    {
+     "description": "",
+     "title": "Build your career with global companies, without leaving India",
+     "url": "https://www.wisemonk.io/for-candidate"
+    },
+    {
+     "description": "",
+     "title": "INS Global",
+     "url": "https://ins-globalconsulting.com/ja/news-post/eor-inndo/"
     }
-  },
-  "inferred": true,
-  "name": "King Entertainment Corp",
-  "slug": "king-entertainment-corp",
-  "tier": 3,
-  "tracks": [
-    "software"
-  ]
+   ]
+  }
+ },
+ "inferred": true,
+ "name": "King Entertainment Corp",
+ "slug": "king-entertainment-corp",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
 }

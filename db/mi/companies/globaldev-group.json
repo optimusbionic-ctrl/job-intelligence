@@ -1,48 +1,48 @@
 {
-  "category": "Other",
-  "classification": "Inferred from job description",
-  "india_hiring": {
-    "board": null,
-    "changed_at": "2026-10-15T16:19:24Z",
-    "evidence": [
-      {
-        "detail": "Globaldev Group - Current Openings - Workable Jobs — “Lists roles only in Poland, Ukraine and Armenia”",
-        "kind": "web",
-        "label": "Web suggests hiring is limited to named countries",
-        "url": "https://apply.workable.com/globaldevgroup/",
-        "weight": -2
-      }
-    ],
-    "first_checked_at": "2026-10-15T16:19:24Z",
-    "india_based": false,
-    "method": "Careers board, posting text, web search",
-    "sig": "38f055eb38",
-    "summary": "Web suggests hiring is limited to named countries: “Globaldev Group - Current Openings - Workable Jobs — “Lists roles only in Poland, Ukraine ”",
-    "verdict": "no",
-    "web": {
-      "checked_at": "2026-10-15T16:19:24Z",
-      "query": "\"Globaldev Group\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
-      "results": [
-        {
-          "description": "Careers at Globaldev Group. Job Openings: Remote Dream Team Armenia. Remote Dream Team Ukraine Poland. Remote Budget Thuis Full time Ukraine. Remote Dream Team Poland. Remote Dream Team Full time Poland. Remote Dream Team Full time Poland. Remote Dream Team Full time Poland. Remote Dream Team Poland Ukraine. Remote Dream Team Full time Ukraine Armenia Poland",
-          "title": "Globaldev Group - Current Openings - Workable Jobs",
-          "url": "https://apply.workable.com/globaldevgroup/"
-        },
-        {
-          "description": "Globaldev Group | Building remote teams and providing software development solutions for tech businesses",
-          "title": "Globaldev Group - LinkedIn",
-          "url": "https://de.linkedin.com/company/globaldev-tech"
-        },
-        {
-          "description": "Globaldev Group has 24 open roles on its Workable job board. Hiring is almost entirely remote (100% of listings). Teams hiring: Dream Team, Axonlab.",
-          "title": "Globaldev Group Careers — 24 Open Jobs (2026) | JinxApply",
-          "url": "https://jinxapply.com/companies/globaldev-group"
-        }
-      ]
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-15T16:19:24Z",
+  "evidence": [
+   {
+    "detail": "Globaldev Group - Current Openings - Workable Jobs — “Lists roles only in Poland, Ukraine and Armenia”",
+    "kind": "web",
+    "label": "Web suggests hiring is limited to named countries",
+    "url": "https://apply.workable.com/globaldevgroup/",
+    "weight": -2
+   }
+  ],
+  "first_checked_at": "2026-10-15T16:19:24Z",
+  "india_based": false,
+  "method": "Careers board, posting text, web search",
+  "sig": "38f055eb38",
+  "summary": "Web suggests hiring is limited to named countries: “Globaldev Group - Current Openings - Workable Jobs — “Lists roles only in Poland, Ukraine ”",
+  "verdict": "no",
+  "web": {
+   "checked_at": "2026-10-15T16:19:24Z",
+   "query": "\"Globaldev Group\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
+   "results": [
+    {
+     "description": "Careers at Globaldev Group. Job Openings: Remote Dream Team Armenia. Remote Dream Team Ukraine Poland. Remote Budget Thuis Full time Ukraine. Remote Dream Team Poland. Remote Dream Team Full time Poland. Remote Dream Team Full time Poland. Remote Dream Team Full time Poland. Remote Dream Team Poland Ukraine. Remote Dream Team Full time Ukraine Armenia Poland",
+     "title": "Globaldev Group - Current Openings - Workable Jobs",
+     "url": "https://apply.workable.com/globaldevgroup/"
+    },
+    {
+     "description": "Globaldev Group | Building remote teams and providing software development solutions for tech businesses",
+     "title": "Globaldev Group - LinkedIn",
+     "url": "https://de.linkedin.com/company/globaldev-tech"
+    },
+    {
+     "description": "Globaldev Group has 24 open roles on its Workable job board. Hiring is almost entirely remote (100% of listings). Teams hiring: Dream Team, Axonlab.",
+     "title": "Globaldev Group Careers — 24 Open Jobs (2026) | JinxApply",
+     "url": "https://jinxapply.com/companies/globaldev-group"
     }
-  },
-  "inferred": true,
-  "name": "Globaldev Group",
-  "slug": "globaldev-group",
-  "tier": 3
+   ]
+  }
+ },
+ "inferred": true,
+ "name": "Globaldev Group",
+ "slug": "globaldev-group",
+ "tier": 3
 }

@@ -1,0 +1,9 @@
+{
+ "checked_at": "2026-10-28T15:45:42Z",
+ "found": 0,
+ "kind": "salary_company",
+ "name": "Parexel",
+ "query": "\"Parexel\" (QA OR tester OR \"test engineer\") salary (site:ambitionbox.com OR site:glassdoor.co.in OR site:glassdoor.com OR site:payscale.com)",
+ "results": 8,
+ "slug": "parexel"
+}

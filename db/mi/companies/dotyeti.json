@@ -1,63 +1,63 @@
 {
-  "category": "Other",
-  "classification": "Inferred from job description",
-  "india_hiring": {
-    "board": null,
-    "changed_at": "2026-10-17T22:28:03Z",
-    "evidence": [
-      {
-        "detail": "Remote DotYeti Jobs - Work From Home - Jobgether — “jobs · India”",
-        "kind": "web",
-        "label": "Web mentions India hiring or an India office",
-        "url": "https://jobgether.com/remote-jobs/company-dotyeti",
-        "weight": 3
-      }
-    ],
-    "first_checked_at": "2026-10-17T21:28:06Z",
-    "india_based": false,
-    "method": "Careers board, posting text, web search",
-    "sig": "4d1b776c6c",
-    "summary": "No India-located roles found, but web mentions India hiring or an India office.",
-    "verdict": "likely",
-    "web": {
-      "checked_at": "2026-10-17T22:28:03Z",
-      "query": "\"DotYeti\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
-      "results": [
-        {
-          "description": "country\n\nCountry of calendar booking\n\n# Create With Us. Grow With Us.\n## Open Positions\n[**Account Manager**\\\n\\\n(Remote)](https://dotyeti-design.careers-page.com/)\n\n[**Graphic Designer**\\\n\\\n(Remote)](https://dotyeti-design.careers-page.com/)\n\n[**Illustrator**\\\n\\\n(Remote)](https://dotyeti-design.careers-page.com/)\n\n[**Art Director**\\\n\\\n(Remote)](https://dotyeti-design.careers-page.com/)\n\n[**Web Designer**\\\n\\\n(Remote)](https://dotyeti-design.careers-page.com/)\n\n[**Motion Designer**\\\n\\\n(Remote)](https://dotyeti-design.careers-page.com/)\n\n### Unleash Creative Possibilities for Your Brand\n[Work](https://dotyeti.com/work)",
-          "title": "Careers at DotYeti | Join a Global Creative Team",
-          "url": "https://dotyeti.com/careers"
-        },
-        {
-          "description": "Does DotYeti Design offer remote work? Yes. DotYeti Design is fully remote. In their words: “Fully Remote Work: Enjoy the flexibility of a remote work ...",
-          "title": "DotYeti Design Careers & Jobs - Company Profile | WoodyJobs.com",
-          "url": "https://www.woodyjobs.com/company/dotyeti-design"
-        },
-        {
-          "description": "Remote roles and application process. DotYeti Design roles are commonly associated with Graphic Design, Creative Services, Branding, Subscription Services, ...",
-          "title": "DotYeti Design Remote Jobs, Careers, Tech Stack, and Company Profile",
-          "url": "https://wfh.team/companies/dotyeti-design"
-        },
-        {
-          "description": "Remote DotYeti jobs. Trending Searches. Explore more remote jobs: Product ... Top Countries for Remote Jobs. United States. 51902 jobs · India. 18914 jobs ...",
-          "title": "Remote DotYeti Jobs - Work From Home - Jobgether",
-          "url": "https://jobgether.com/remote-jobs/company-dotyeti"
-        },
-        {
-          "description": "Apply for the Remote Project-Based Multimedia Designer Job at DotYeti Design in Manila job at DotYeti Design in Manila, UT. View job details ...",
-          "title": "Remote Project-Based Multimedia Designer Job at DotYeti Design in ...",
-          "url": "https://www.mediabistro.com/jobs/3541173359-remote-project-based-multimedia-designer-job-at-dotyeti-design-in-manila"
-        },
-        {
-          "description": "Careers at DotYeti Design. Share. trending_up Invest in Torre. login Sign in ... location_on Remote (specific timezone) GMT-05:00 to GMT-04:00. open_in_new ...",
-          "title": "Careers at DotYeti Design - Torre.ai",
-          "url": "https://torre.ai/careers/DotYetiDesign"
-        }
-      ]
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-17T22:28:03Z",
+  "evidence": [
+   {
+    "detail": "Remote DotYeti Jobs - Work From Home - Jobgether — “jobs · India”",
+    "kind": "web",
+    "label": "Web mentions India hiring or an India office",
+    "url": "https://jobgether.com/remote-jobs/company-dotyeti",
+    "weight": 3
+   }
+  ],
+  "first_checked_at": "2026-10-17T21:28:06Z",
+  "india_based": false,
+  "method": "Careers board, posting text, web search",
+  "sig": "4d1b776c6c",
+  "summary": "No India-located roles found, but web mentions India hiring or an India office.",
+  "verdict": "likely",
+  "web": {
+   "checked_at": "2026-10-17T22:28:03Z",
+   "query": "\"DotYeti\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
+   "results": [
+    {
+     "description": "country\n\nCountry of calendar booking\n\n# Create With Us. Grow With Us.\n## Open Positions\n[**Account Manager**\\\n\\\n(Remote)](https://dotyeti-design.careers-page.com/)\n\n[**Graphic Designer**\\\n\\\n(Remote)](https://dotyeti-design.careers-page.com/)\n\n[**Illustrator**\\\n\\\n(Remote)](https://dotyeti-design.careers-page.com/)\n\n[**Art Director**\\\n\\\n(Remote)](https://dotyeti-design.careers-page.com/)\n\n[**Web Designer**\\\n\\\n(Remote)](https://dotyeti-design.careers-page.com/)\n\n[**Motion Designer**\\\n\\\n(Remote)](https://dotyeti-design.careers-page.com/)\n\n### Unleash Creative Possibilities for Your Brand\n[Work](https://dotyeti.com/work)",
+     "title": "Careers at DotYeti | Join a Global Creative Team",
+     "url": "https://dotyeti.com/careers"
+    },
+    {
+     "description": "Does DotYeti Design offer remote work? Yes. DotYeti Design is fully remote. In their words: “Fully Remote Work: Enjoy the flexibility of a remote work ...",
+     "title": "DotYeti Design Careers & Jobs - Company Profile | WoodyJobs.com",
+     "url": "https://www.woodyjobs.com/company/dotyeti-design"
+    },
+    {
+     "description": "Remote roles and application process. DotYeti Design roles are commonly associated with Graphic Design, Creative Services, Branding, Subscription Services, ...",
+     "title": "DotYeti Design Remote Jobs, Careers, Tech Stack, and Company Profile",
+     "url": "https://wfh.team/companies/dotyeti-design"
+    },
+    {
+     "description": "Remote DotYeti jobs. Trending Searches. Explore more remote jobs: Product ... Top Countries for Remote Jobs. United States. 51902 jobs · India. 18914 jobs ...",
+     "title": "Remote DotYeti Jobs - Work From Home - Jobgether",
+     "url": "https://jobgether.com/remote-jobs/company-dotyeti"
+    },
+    {
+     "description": "Apply for the Remote Project-Based Multimedia Designer Job at DotYeti Design in Manila job at DotYeti Design in Manila, UT. View job details ...",
+     "title": "Remote Project-Based Multimedia Designer Job at DotYeti Design in ...",
+     "url": "https://www.mediabistro.com/jobs/3541173359-remote-project-based-multimedia-designer-job-at-dotyeti-design-in-manila"
+    },
+    {
+     "description": "Careers at DotYeti Design. Share. trending_up Invest in Torre. login Sign in ... location_on Remote (specific timezone) GMT-05:00 to GMT-04:00. open_in_new ...",
+     "title": "Careers at DotYeti Design - Torre.ai",
+     "url": "https://torre.ai/careers/DotYetiDesign"
     }
-  },
-  "inferred": true,
-  "name": "DotYeti",
-  "slug": "dotyeti",
-  "tier": 3
+   ]
+  }
+ },
+ "inferred": true,
+ "name": "DotYeti",
+ "slug": "dotyeti",
+ "tier": 3
 }

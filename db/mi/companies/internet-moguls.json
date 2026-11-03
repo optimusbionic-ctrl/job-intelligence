@@ -1,0 +1,55 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-30T00:27:41Z",
+  "evidence": [],
+  "first_checked_at": "2026-10-30T00:27:41Z",
+  "india_based": false,
+  "method": "Careers board, posting text, web search",
+  "sig": "54391d7cdf",
+  "summary": "No public evidence yet about hiring from India.",
+  "verdict": "unclear",
+  "web": {
+   "checked_at": "2026-10-30T01:27:12Z",
+   "query": "\"Internet Moguls\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
+   "results": [
+    {
+     "description": "",
+     "title": "Work Remotely for Global Companies Hiring in India",
+     "url": "https://wisemonk.io/for-candidates"
+    },
+    {
+     "description": "",
+     "title": "Wisemonk Team",
+     "url": "https://www.wisemonk.io/blogs/best-international-remote-job-board-for-indians"
+    },
+    {
+     "description": "",
+     "title": "Build your career with global companies, without leaving India",
+     "url": "https://www.wisemonk.io/for-candidate"
+    },
+    {
+     "description": "",
+     "title": "builtin.com",
+     "url": "https://builtin.com/company/mogul"
+    },
+    {
+     "description": "",
+     "title": "wellfound.com",
+     "url": "https://wellfound.com/company/wisemonk"
+    },
+    {
+     "description": "",
+     "title": "dnb.co.in",
+     "url": "https://dnb.co.in/events/leapindiastartupsummit/images/2024/branded-content/case-study/Remunance.pdf"
+    }
+   ]
+  }
+ },
+ "inferred": true,
+ "name": "Internet Moguls",
+ "slug": "internet-moguls",
+ "tier": 3
+}

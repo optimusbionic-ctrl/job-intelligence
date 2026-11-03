@@ -1,55 +1,55 @@
 {
-  "category": "Other",
-  "classification": "Inferred from job description",
-  "india_hiring": {
-    "board": null,
-    "changed_at": "2026-10-19T00:28:42Z",
-    "evidence": [],
-    "first_checked_at": "2026-10-19T00:28:42Z",
-    "india_based": false,
-    "method": "Careers board, posting text, web search",
-    "sig": "54391d7cdf",
-    "summary": "No public evidence yet about hiring from India.",
-    "verdict": "unclear",
-    "web": {
-      "checked_at": "2026-10-19T01:27:31Z",
-      "query": "\"Workable\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
-      "results": [
-        {
-          "description": "",
-          "title": "Work Remotely for Global Companies Hiring in India",
-          "url": "https://wisemonk.io/for-candidates"
-        },
-        {
-          "description": "",
-          "title": "Build your career with global companies, without leaving India",
-          "url": "https://www.wisemonk.io/for-candidate"
-        },
-        {
-          "description": "",
-          "title": "Wisemonk Team",
-          "url": "https://www.wisemonk.io/blogs/best-international-remote-job-board-for-indians"
-        },
-        {
-          "description": "",
-          "title": "Working Remotely Without an Employer of Record in India 2025",
-          "url": "https://ins-globalconsulting.com/?p=80019"
-        },
-        {
-          "description": "",
-          "title": "jobgether.com",
-          "url": "https://jobgether.com/remote-jobs/india/business-analyst/2"
-        },
-        {
-          "description": "",
-          "title": "in demand work from anywhere jobs companies are hiring for now",
-          "url": "https://www.cnbc.com/2023/04/27/in-demand-work-from-anywhere-jobs-companies-are-hiring-for-now.html"
-        }
-      ]
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-19T00:28:42Z",
+  "evidence": [],
+  "first_checked_at": "2026-10-19T00:28:42Z",
+  "india_based": false,
+  "method": "Careers board, posting text, web search",
+  "sig": "54391d7cdf",
+  "summary": "No public evidence yet about hiring from India.",
+  "verdict": "unclear",
+  "web": {
+   "checked_at": "2026-11-03T10:27:01Z",
+   "query": "\"Workable\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
+   "results": [
+    {
+     "description": "",
+     "title": "Work Remotely for Global Companies Hiring in India",
+     "url": "https://wisemonk.io/for-candidates"
+    },
+    {
+     "description": "",
+     "title": "Build your career with global companies, without leaving India",
+     "url": "https://www.wisemonk.io/for-candidate"
+    },
+    {
+     "description": "",
+     "title": "Wisemonk Team",
+     "url": "https://www.wisemonk.io/blogs/best-international-remote-job-board-for-indians"
+    },
+    {
+     "description": "",
+     "title": "Working Remotely Without an Employer of Record in India 2025",
+     "url": "https://ins-globalconsulting.com/?p=80019"
+    },
+    {
+     "description": "",
+     "title": "Remote Job Eligibility: What ‘US Only’ and ‘Worldwide’ Mean",
+     "url": "https://truejobs.co.in/guides/understanding-remote-job-eligibility"
+    },
+    {
+     "description": "",
+     "title": "jobgether.com",
+     "url": "https://jobgether.com/remote-jobs/india/business-analyst/2"
     }
-  },
-  "inferred": true,
-  "name": "Workable",
-  "slug": "workable",
-  "tier": 3
+   ]
+  }
+ },
+ "inferred": true,
+ "name": "Workable",
+ "slug": "workable",
+ "tier": 3
 }

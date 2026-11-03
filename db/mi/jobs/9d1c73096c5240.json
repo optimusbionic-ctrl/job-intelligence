@@ -1,118 +1,119 @@
 {
-  "apply_url": null,
-  "board_apply": "https://himalayas.app/companies/vitalis-outsourcing-llc/jobs/multimedia-artist?utm_source=api",
-  "category": "AI",
-  "comp_potential": "below",
-  "company": "Vitalis Outsourcing LLC",
-  "company_slug": "vitalis-outsourcing-llc",
-  "concerns": [
-    "Listed pay is in USD; confirm it applies to India-based hires",
-    "Pay evidence suggests below ₹35 LPA"
-  ],
-  "contacts_count": 0,
-  "content_hash": "6e518ee0dcec",
-  "date_quality": "exact",
-  "deadline": "2026-12-26T02:04:56Z",
-  "employment": "full-time",
-  "first_seen": "2026-10-27T10:26:45Z",
-  "fit": 72,
-  "has_hiring_manager": false,
-  "has_named_contact": false,
-  "has_public_email": false,
-  "id": "9d1c73096c5240",
-  "include_reason": "Adjacent title — motion responsibilities need review",
-  "india": {
-    "cities": [],
-    "company": "likely",
-    "reason": "Worldwide remote",
-    "status": "likely",
-    "visa": false
-  },
-  "kind": "adjacent",
-  "last_verified": "2026-10-27T10:26:45Z",
-  "location": "Worldwide",
-  "logo": "https://cdn-images.himalayas.app/u8eueuxhp9091isf845h2pfy47ft",
-  "needs_review": true,
-  "official": false,
-  "posted_at": "2026-10-27T02:04:57Z",
-  "repost": false,
-  "requirements": [
-    "3+ years of professional experience in video editing, multimedia design, graphic design, or a related creative role.",
-    "Experience editing short-form and long-form video content.",
-    "Strong understanding of video pacing, transitions, audio, color correction, typography, and visual storytelling.",
-    "Ability to take raw footage and turn it into compelling, polished content."
-  ],
-  "responsibilities": [
-    "Create, edit, and produce high-quality video content for social media, marketing campaigns, advertisements, presentations, and other digital channels.",
-    "Edit and enhance video footage using Adobe Premiere Pro .",
-    "Create graphics, social media assets, thumbnails, presentations, and other visual materials using Canva .",
-    "Transform raw footage, concepts, scripts, and creative briefs into polished and engaging content.",
-    "Apply strong visual storytelling, pacing, transitions, typography, composition, and sound design principles.",
-    "Repurpose existing content into multiple formats and platform-specific assets.",
-    "Collaborate with marketing, creative, and other internal teams to develop content aligned with brand guidelines and campaign objectives."
-  ],
-  "salary": {
-    "applies_india": "unconfirmed",
-    "basis": "listed",
-    "currency": "USD",
-    "fx_at": "Tue, 27 Oct 2026 00:02:31 +0000",
-    "fx_rate": 95.2691,
-    "inr_max": 1143229,
-    "inr_min": 1143229,
-    "max": 12000,
-    "min": 12000,
-    "note": "Listed for a worldwide-remote role; confirm it applies to India-based hires",
-    "original_period": "hourly",
-    "period": "annual",
-    "source_name": "Himalayas",
-    "source_url": "https://himalayas.app/companies/vitalis-outsourcing-llc/jobs/multimedia-artist?utm_source=api",
-    "state": "verified",
-    "verified_at": "2026-10-27T10:26:45Z"
-  },
-  "scores": {
-    "ai": 72,
-    "comp": 22,
-    "company": 98,
-    "location": 92,
-    "seniority": 62,
-    "skill": 78
-  },
-  "seniority": "mid",
-  "snippet": "Job Overview\n We are looking for a highly creative and detail-oriented Multimedia Video & Graphic Designer to join our team. This role will be responsible for producing engaging, high-quality video and graphic content across digital platforms.\n The ideal candidate has strong hands-on experience with Adobe Premiere Pro and Canva , a sharp eye for visual storytelling, and a passion for experimenting with new creative t",
-  "source_primary": "Himalayas",
-  "sources": [
-    {
-      "id": "himalayas",
-      "job_id": "https://himalayas.app/companies/vitalis-outsourcing-llc/jobs/multimedia-artist",
-      "kind": "board",
-      "name": "Himalayas",
-      "posted_at": "2026-10-27T02:04:57Z",
-      "seen_at": "2026-10-27T10:26:45Z",
-      "url": "https://himalayas.app/companies/vitalis-outsourcing-llc/jobs/multimedia-artist?utm_source=api"
-    }
-  ],
-  "specializations": [
-    "UI/UX animation",
-    "AI-generated video",
-    "Creative engineering",
-    "Technical storytelling"
-  ],
-  "status": "active",
-  "tier": 1,
-  "title": "Multimedia Artist",
-  "tools": [
-    "After Effects",
-    "Premiere Pro",
-    "Photoshop"
-  ],
-  "updated_at": null,
-  "url": "https://himalayas.app/companies/vitalis-outsourcing-llc/jobs/multimedia-artist?utm_source=api",
-  "why": [
-    "Tools you already use: After Effects, Premiere Pro, Photoshop",
-    "Specialisations in scope: UI/UX animation, AI-generated video, Creative engineering, Technical storytelling",
-    "AI company (Tier 1 priority)",
-    "Worldwide remote"
-  ],
-  "work_mode": "remote",
-  "years_min": 3
+ "apply_url": null,
+ "board_apply": "https://himalayas.app/companies/vitalis-outsourcing-llc/jobs/multimedia-artist?utm_source=api",
+ "category": "AI",
+ "comp_potential": "below",
+ "company": "Vitalis Outsourcing LLC",
+ "company_slug": "vitalis-outsourcing-llc",
+ "concerns": [
+  "Listed pay is in USD; confirm it applies to India-based hires",
+  "Pay evidence suggests below ₹35 LPA",
+  "Reposted / refreshed listing — original posting is older"
+ ],
+ "contacts_count": 0,
+ "content_hash": "16ead1ae3b2b",
+ "date_quality": "exact",
+ "deadline": "2026-12-26T02:04:56Z",
+ "employment": "full-time",
+ "first_seen": "2026-10-27T10:26:45Z",
+ "fit": 72,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "9d1c73096c5240",
+ "include_reason": "Adjacent title — motion responsibilities need review",
+ "india": {
+  "cities": [],
+  "company": "likely",
+  "reason": "Worldwide remote",
+  "status": "likely",
+  "visa": false
+ },
+ "kind": "adjacent",
+ "last_verified": "2026-10-29T11:31:58Z",
+ "location": "Worldwide",
+ "logo": "https://cdn-images.himalayas.app/u8eueuxhp9091isf845h2pfy47ft",
+ "needs_review": true,
+ "official": false,
+ "posted_at": "2026-10-29T09:17:02Z",
+ "repost": true,
+ "requirements": [
+  "3+ years of professional experience in video editing, multimedia design, graphic design, or a related creative role.",
+  "Experience editing short-form and long-form video content.",
+  "Strong understanding of video pacing, transitions, audio, color correction, typography, and visual storytelling.",
+  "Ability to take raw footage and turn it into compelling, polished content."
+ ],
+ "responsibilities": [
+  "Create, edit, and produce high-quality video content for social media, marketing campaigns, advertisements, presentations, and other digital channels.",
+  "Edit and enhance video footage using Adobe Premiere Pro .",
+  "Create graphics, social media assets, thumbnails, presentations, and other visual materials using Canva .",
+  "Transform raw footage, concepts, scripts, and creative briefs into polished and engaging content.",
+  "Apply strong visual storytelling, pacing, transitions, typography, composition, and sound design principles.",
+  "Repurpose existing content into multiple formats and platform-specific assets.",
+  "Collaborate with marketing, creative, and other internal teams to develop content aligned with brand guidelines and campaign objectives."
+ ],
+ "salary": {
+  "applies_india": "unconfirmed",
+  "basis": "listed",
+  "currency": "USD",
+  "fx_at": "Thu, 29 Oct 2026 00:02:31 +0000",
+  "fx_rate": 95.2961,
+  "inr_max": 1143554,
+  "inr_min": 1143554,
+  "max": 12000,
+  "min": 12000,
+  "note": "Listed for a worldwide-remote role; confirm it applies to India-based hires",
+  "original_period": "hourly",
+  "period": "annual",
+  "source_name": "Himalayas",
+  "source_url": "https://himalayas.app/companies/vitalis-outsourcing-llc/jobs/multimedia-artist?utm_source=api",
+  "state": "verified",
+  "verified_at": "2026-10-29T11:31:58Z"
+ },
+ "scores": {
+  "ai": 72,
+  "comp": 22,
+  "company": 98,
+  "location": 92,
+  "seniority": 62,
+  "skill": 78
+ },
+ "seniority": "mid",
+ "snippet": "Job Overview\n We are looking for a highly creative and detail-oriented Multimedia Video & Graphic Designer to join our team. This role will be responsible for producing engaging, high-quality video and graphic content across digital platforms.\n The ideal candidate has strong hands-on experience with Adobe Premiere Pro and Canva , a sharp eye for visual storytelling, and a passion for experimenting with new creative t",
+ "source_primary": "Himalayas",
+ "sources": [
+  {
+   "id": "himalayas",
+   "job_id": "https://himalayas.app/companies/vitalis-outsourcing-llc/jobs/multimedia-artist",
+   "kind": "board",
+   "name": "Himalayas",
+   "posted_at": "2026-10-29T09:17:02Z",
+   "seen_at": "2026-10-29T11:31:58Z",
+   "url": "https://himalayas.app/companies/vitalis-outsourcing-llc/jobs/multimedia-artist?utm_source=api"
+  }
+ ],
+ "specializations": [
+  "UI/UX animation",
+  "AI-generated video",
+  "Creative engineering",
+  "Technical storytelling"
+ ],
+ "status": "active",
+ "tier": 1,
+ "title": "Multimedia Artist",
+ "tools": [
+  "After Effects",
+  "Premiere Pro",
+  "Photoshop"
+ ],
+ "updated_at": null,
+ "url": "https://himalayas.app/companies/vitalis-outsourcing-llc/jobs/multimedia-artist?utm_source=api",
+ "why": [
+  "Tools you already use: After Effects, Premiere Pro, Photoshop",
+  "Specialisations in scope: UI/UX animation, AI-generated video, Creative engineering, Technical storytelling",
+  "AI company (Tier 1 priority)",
+  "Worldwide remote"
+ ],
+ "work_mode": "remote",
+ "years_min": 3
 }

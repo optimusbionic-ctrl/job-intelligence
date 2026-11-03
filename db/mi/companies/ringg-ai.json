@@ -1,0 +1,55 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-30T00:27:41Z",
+  "evidence": [],
+  "first_checked_at": "2026-10-30T00:27:41Z",
+  "india_based": false,
+  "method": "Careers board, posting text, web search",
+  "sig": "54391d7cdf",
+  "summary": "No public evidence yet about hiring from India.",
+  "verdict": "unclear",
+  "web": {
+   "checked_at": "2026-10-30T01:27:12Z",
+   "query": "\"Ringg AI\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
+   "results": [
+    {
+     "description": "",
+     "title": "Индийский стартап Ringg привлек $10 млн на развитие голосового ИИ",
+     "url": "https://rutab.net/b/hardware/2026/08/26/indiyskiy-startap-ringg-privlek-10-mln-na-razvitie-golosovogo-ii.html"
+    },
+    {
+     "description": "",
+     "title": "www.ringg.ai",
+     "url": "https://www.ringg.ai/about"
+    },
+    {
+     "description": "",
+     "title": "ringg ai",
+     "url": "https://dealroom.co/companies/ringg-ai/"
+    },
+    {
+     "description": "",
+     "title": "About Ringg AI",
+     "url": "https://www.tooljunction.io/ai-tools/ringg-ai"
+    },
+    {
+     "description": "",
+     "title": "Voice AI startup Ringg AI raises $10M in Series A led by Peak XV Partners",
+     "url": "https://yourstory.com/2026/08/voice-ai-startup-ringg-ai-raises-10m-series-a-peak-xv-partners"
+    },
+    {
+     "description": "",
+     "title": "Remote Company Ringcentral Jobs",
+     "url": "https://jobgether.com/remote-jobs/company-ringcentral"
+    }
+   ]
+  }
+ },
+ "inferred": true,
+ "name": "Ringg AI",
+ "slug": "ringg-ai",
+ "tier": 3
+}

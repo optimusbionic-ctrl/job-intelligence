@@ -1,0 +1,104 @@
+{
+ "apply_url": null,
+ "board_apply": "https://jobs.workable.com/view/dAcpYctArreJi1zMnoaoTE/product-quality-tester-in-bengaluru-at-origin",
+ "category": "Product / SaaS",
+ "comp_potential": "unknown",
+ "company": "Origin",
+ "company_slug": "origin",
+ "concerns": [
+  "Entry-level role — pay may be at the lower end",
+  "Office outside Mumbai — relocation within India",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "187ffb990759",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-10-29T12:55:23Z",
+ "fit": 79,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "87b3ff12626679",
+ "include_reason": "Manual / functional QA title",
+ "india": {
+  "cities": [
+   "Bengaluru"
+  ],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "manual-qa",
+ "last_verified": "2026-10-29T12:55:23Z",
+ "location": "Bengaluru, Karnataka, India",
+ "logo": "https://workablehr.s3.amazonaws.com/uploads/account/logo/703865/logo",
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-10-29T12:38:27Z",
+ "repost": false,
+ "requirements": [
+  "Judging finished work for coverage, quality and human rework.",
+  "Reading and following test procedures and QA rules accurately.",
+  "Writing clear, timely logs and test reports.",
+  "Excel and Microsoft Office (Word, PowerPoint).",
+  "Using AI tools like Claude, with good prompts, to draft reports and summarize results.",
+  "A sharp eye for detail and patience with repeated tests.",
+  "Helps the QA team and follows procedures exactly, asking when something is unclear."
+ ],
+ "responsibilities": [
+  "Pre-run check: Before each QA run, confirm the walls and drywall are installed correctly and the test area is safe and ready.",
+  "Operate the construction robot: Operate the robot end to end, following QA guidance.",
+  "QA test runs: Run QA tests across the full robot workflow, following each procedure step by step.",
+  "Record: Note observations and measurements for every test case."
+ ],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 60,
+  "company": 95,
+  "location": 60,
+  "seniority": 80,
+  "skill": 93
+ },
+ "seniority": "unspecified",
+ "snippet": "About Origin\n Origin (previously 10xConstruction) is building general-purpose autonomous robots for US construction to tackle rising costs, safety risks and labour shortages. Our modular, multi-trade platform combines purpose-built hardware with real-time site intelligence to navigate complex environments and execute tasks with precision. Trained in high-fidelity simulation and already deployed on live sites, our rob",
+ "source_primary": "Workable job marketplace",
+ "sources": [
+  {
+   "id": "workable",
+   "job_id": "65f3fc5b-6633-4ae3-b02e-51b2ef6f2b74",
+   "kind": "board",
+   "name": "Workable job marketplace",
+   "posted_at": "2026-10-29T12:38:27Z",
+   "seen_at": "2026-10-29T12:55:23Z",
+   "url": "https://jobs.workable.com/view/dAcpYctArreJi1zMnoaoTE/product-quality-tester-in-bengaluru-at-origin"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 1,
+ "title": "Product Quality Tester",
+ "tools": [
+  "Test cases & scenarios",
+  "Bug reporting",
+  "Google Sheets / Excel"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://jobs.workable.com/view/dAcpYctArreJi1zMnoaoTE/product-quality-tester-in-bengaluru-at-origin",
+ "why": [
+  "Manual / functional QA — the core of your resume",
+  "Already on your resume: Test cases & scenarios, Bug reporting, Google Sheets / Excel",
+  "Product / SaaS company",
+  "Asks for 0+ years — you have about 2.5",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": 2,
+ "years_min": 0
+}

@@ -1,67 +1,67 @@
 {
-  "category": "Product / SaaS",
-  "classification": "Inferred from job description",
-  "india_hiring": {
-    "board": null,
-    "changed_at": "2026-10-22T04:45:32Z",
-    "evidence": [
-      {
-        "detail": "QA analyst — Worldwide",
-        "kind": "posting",
-        "label": "A current posting is open worldwide",
-        "url": "https://himalayas.app/companies/creative-clicks-b-v/jobs/qa-analyst?utm_source=api",
-        "weight": 3
-      }
-    ],
-    "first_checked_at": "2026-10-22T04:45:32Z",
-    "india_based": false,
-    "method": "Careers board, posting text, web search",
-    "sig": "b5c8ac6dbb",
-    "summary": "No India-located roles found, but a current posting is open worldwide.",
-    "verdict": "likely",
-    "web": {
-      "checked_at": "2026-10-22T05:45:06Z",
-      "query": "\"Creative Clicks B.V.\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
-      "results": [
-        {
-          "description": "",
-          "title": "builtin.com",
-          "url": "https://builtin.com/company/creative-clicks-b-v/jobs"
-        },
-        {
-          "description": "",
-          "title": "freelance creative strategist german native creative clicks bv 8298428",
-          "url": "https://startup.jobs/freelance-creative-strategist-german-native-creative-clicks-bv-8298428"
-        },
-        {
-          "description": "",
-          "title": "creative clicks b v",
-          "url": "https://builtintoronto.com/company/creative-clicks-b-v"
-        },
-        {
-          "description": "",
-          "title": "builtin.com",
-          "url": "https://builtin.com/company/creative-clicks-b-v/teams"
-        },
-        {
-          "description": "",
-          "title": "creative strategist",
-          "url": "https://creativeclicks.recruitee.com/o/creative-strategist"
-        },
-        {
-          "description": "",
-          "title": "open application",
-          "url": "https://creativeclicks.recruitee.com/o/open-application"
-        }
-      ]
+ "category": "Product / SaaS",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-22T04:45:32Z",
+  "evidence": [
+   {
+    "detail": "QA analyst — Worldwide",
+    "kind": "posting",
+    "label": "A current posting is open worldwide",
+    "url": "https://himalayas.app/companies/creative-clicks-b-v/jobs/qa-analyst?utm_source=api",
+    "weight": 3
+   }
+  ],
+  "first_checked_at": "2026-10-22T04:45:32Z",
+  "india_based": false,
+  "method": "Careers board, posting text, web search",
+  "sig": "b5c8ac6dbb",
+  "summary": "No India-located roles found, but a current posting is open worldwide.",
+  "verdict": "likely",
+  "web": {
+   "checked_at": "2026-10-22T05:45:06Z",
+   "query": "\"Creative Clicks B.V.\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
+   "results": [
+    {
+     "description": "",
+     "title": "builtin.com",
+     "url": "https://builtin.com/company/creative-clicks-b-v/jobs"
+    },
+    {
+     "description": "",
+     "title": "freelance creative strategist german native creative clicks bv 8298428",
+     "url": "https://startup.jobs/freelance-creative-strategist-german-native-creative-clicks-bv-8298428"
+    },
+    {
+     "description": "",
+     "title": "creative clicks b v",
+     "url": "https://builtintoronto.com/company/creative-clicks-b-v"
+    },
+    {
+     "description": "",
+     "title": "builtin.com",
+     "url": "https://builtin.com/company/creative-clicks-b-v/teams"
+    },
+    {
+     "description": "",
+     "title": "creative strategist",
+     "url": "https://creativeclicks.recruitee.com/o/creative-strategist"
+    },
+    {
+     "description": "",
+     "title": "open application",
+     "url": "https://creativeclicks.recruitee.com/o/open-application"
     }
-  },
-  "inferred": true,
-  "logo": "https://cdn-images.himalayas.app/96zp9ig6218ryz2hoem3z8ir26gz",
-  "name": "Creative Clicks B.V.",
-  "slug": "creative-clicks-b-v",
-  "tier": 1,
-  "tracks": [
-    "software"
-  ]
+   ]
+  }
+ },
+ "inferred": true,
+ "logo": "https://cdn-images.himalayas.app/96zp9ig6218ryz2hoem3z8ir26gz",
+ "name": "Creative Clicks B.V.",
+ "slug": "creative-clicks-b-v",
+ "tier": 1,
+ "tracks": [
+  "software"
+ ]
 }

@@ -1,84 +1,84 @@
 {
-  "apply_url": null,
-  "board_apply": "https://wellfound.com/jobs/4762782-3d-motion-designer",
-  "category": "Crypto / Web3",
-  "comp_potential": "unknown",
-  "company": "VOICE",
-  "company_slug": "voice",
-  "concerns": [
-    "Employer has not confirmed hiring from India",
-    "Compensation not disclosed"
-  ],
-  "contacts_count": 0,
-  "content_hash": "7c70a526ff95",
-  "date_quality": "unknown",
-  "deadline": null,
-  "employment": "full-time",
-  "first_seen": "2026-10-15T15:27:11Z",
-  "fit": 60,
-  "has_hiring_manager": false,
-  "has_named_contact": false,
-  "has_public_email": false,
-  "id": "8084dd383ce4f1",
-  "include_reason": "Motion design title",
-  "india": {
-    "cities": [],
-    "company": "unclear",
-    "reason": "Remote, region not stated",
-    "status": "unconfirmed",
-    "visa": false
-  },
-  "kind": "motion",
-  "last_verified": "2026-10-15T16:19:24Z",
-  "location": "Remote · Everywhere",
-  "logo": null,
-  "needs_review": false,
-  "official": false,
-  "posted_at": null,
-  "repost": false,
-  "requirements": [],
-  "responsibilities": [],
-  "salary": {
-    "context_benchmark": "mi-dataset-remote",
-    "note": "Not disclosed. Global remote pay context is available, but there is no evidence it applies to this employer or to India-based hires.",
-    "state": "unavailable"
-  },
-  "scores": {
-    "ai": 30,
-    "comp": 48,
-    "company": 95,
-    "location": 38,
-    "seniority": 66,
-    "skill": 57
-  },
-  "seniority": "unspecified",
-  "snippet": "Remote only, everywhere. Web3 / social media company.",
-  "source_primary": "Wellfound (via search index)",
-  "sources": [
-    {
-      "id": "wellfound",
-      "job_id": "https://wellfound.com/jobs/4762782-3d-motion-designer",
-      "kind": "search",
-      "name": "Wellfound (via search index)",
-      "posted_at": null,
-      "seen_at": "2026-10-15T16:19:24Z",
-      "url": "https://wellfound.com/jobs/4762782-3d-motion-designer"
-    }
-  ],
-  "specializations": [
-    "3D motion"
-  ],
-  "status": "lead",
-  "tier": 1,
-  "title": "3D Motion Designer",
-  "tools": [],
-  "updated_at": null,
-  "url": "https://wellfound.com/jobs/4762782-3d-motion-designer",
-  "why": [
-    "Core motion design role",
-    "Specialisations in scope: 3D motion",
-    "Crypto / Web3 company (Tier 1 priority)"
-  ],
-  "work_mode": "remote",
-  "years_min": null
+ "apply_url": null,
+ "board_apply": "https://wellfound.com/jobs/4762782-3d-motion-designer",
+ "category": "Crypto / Web3",
+ "comp_potential": "unknown",
+ "company": "VOICE",
+ "company_slug": "voice",
+ "concerns": [
+  "Employer has not confirmed hiring from India",
+  "Compensation not disclosed"
+ ],
+ "contacts_count": 0,
+ "content_hash": "7c70a526ff95",
+ "date_quality": "unknown",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-10-15T15:27:11Z",
+ "fit": 60,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "8084dd383ce4f1",
+ "include_reason": "Motion design title",
+ "india": {
+  "cities": [],
+  "company": "unclear",
+  "reason": "Remote, region not stated",
+  "status": "unconfirmed",
+  "visa": false
+ },
+ "kind": "motion",
+ "last_verified": "2026-10-15T16:19:24Z",
+ "location": "Remote · Everywhere",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": null,
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "context_benchmark": "mi-dataset-remote",
+  "note": "Not disclosed. Global remote pay context is available, but there is no evidence it applies to this employer or to India-based hires.",
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 30,
+  "comp": 48,
+  "company": 95,
+  "location": 38,
+  "seniority": 66,
+  "skill": 57
+ },
+ "seniority": "unspecified",
+ "snippet": "Remote only, everywhere. Web3 / social media company.",
+ "source_primary": "Wellfound (via search index)",
+ "sources": [
+  {
+   "id": "wellfound",
+   "job_id": "https://wellfound.com/jobs/4762782-3d-motion-designer",
+   "kind": "search",
+   "name": "Wellfound (via search index)",
+   "posted_at": null,
+   "seen_at": "2026-10-15T16:19:24Z",
+   "url": "https://wellfound.com/jobs/4762782-3d-motion-designer"
+  }
+ ],
+ "specializations": [
+  "3D motion"
+ ],
+ "status": "lead",
+ "tier": 1,
+ "title": "3D Motion Designer",
+ "tools": [],
+ "updated_at": null,
+ "url": "https://wellfound.com/jobs/4762782-3d-motion-designer",
+ "why": [
+  "Core motion design role",
+  "Specialisations in scope: 3D motion",
+  "Crypto / Web3 company (Tier 1 priority)"
+ ],
+ "work_mode": "remote",
+ "years_min": null
 }

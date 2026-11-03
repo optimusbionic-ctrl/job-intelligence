@@ -18,7 +18,7 @@
     "Canada",
     "France"
    ],
-   "india": 46,
+   "india": 43,
    "india_samples": [
     {
      "location": "India",
@@ -63,8 +63,8 @@
      "url": "https://jobs.lever.co/weloglobal/63cff927-d6ac-4769-b594-00686ede8e40"
     }
    ],
-   "remote": 366,
-   "restricted_remote": 310,
+   "remote": 368,
+   "restricted_remote": 314,
    "restricted_samples": [
     {
      "location": "Brazil",
@@ -88,17 +88,17 @@
     }
    ],
    "slug": "weloglobal",
-   "total": 468,
+   "total": 466,
    "type": "lever",
    "url": "https://jobs.lever.co/weloglobal",
    "worldwide": 12
   },
-  "changed_at": "2026-10-27T10:50:24Z",
+  "changed_at": "2026-10-30T01:43:44Z",
   "evidence": [
    {
     "detail": "AI Trainers Network - Assamese (India); AI Trainers Network - Bengali (India • Remote, Worldwide • Remote - Europe); AI Trainers Network - English (India) (India)",
     "kind": "board",
-    "label": "46 of 468 open roles are located in India",
+    "label": "43 of 466 open roles are located in India",
     "url": "https://jobs.lever.co/weloglobal",
     "weight": 5
    },
@@ -127,8 +127,8 @@
   "first_checked_at": "2026-10-19T13:24:59Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "8f630994ca",
-  "summary": "46 of 468 open roles are located in India.",
+  "sig": "ab27f04798",
+  "summary": "43 of 466 open roles are located in India.",
   "verdict": "yes"
  },
  "inferred": true,

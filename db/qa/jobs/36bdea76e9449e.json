@@ -1,108 +1,109 @@
 {
-  "apply_url": null,
-  "board_apply": "https://himalayas.app/companies/tether-operations-limited/jobs/automation-qa-engineer-qvac-100-remote?utm_source=api",
-  "category": "Fintech",
-  "comp_potential": "unknown",
-  "company": "Tether Operations Limited",
-  "company_slug": "tether-operations-limited",
-  "concerns": [
-    "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
-    "Also asks for: Programming",
-    "Pay not disclosed — ask for the range early"
-  ],
-  "contacts_count": 0,
-  "content_hash": "812c01a2cdb6",
-  "date_quality": "exact",
-  "deadline": "2026-12-14T17:59:38Z",
-  "employment": "full-time",
-  "first_seen": "2026-10-19T13:24:59Z",
-  "fit": 80,
-  "has_hiring_manager": false,
-  "has_named_contact": false,
-  "has_public_email": false,
-  "id": "36bdea76e9449e",
-  "include_reason": "Automation-heavy QA (SDET)",
-  "india": {
-    "cities": [],
-    "company": "likely",
-    "reason": "Worldwide remote",
-    "status": "likely",
-    "visa": false
-  },
-  "kind": "automation",
-  "last_verified": "2026-10-19T13:24:59Z",
-  "location": "Worldwide",
-  "logo": "https://cdn-images.himalayas.app/zel05qtfpctrwz9bbjs7cx799p6j",
-  "needs_review": false,
-  "official": false,
-  "posted_at": "2026-10-15T17:59:40Z",
-  "repost": false,
-  "requirements": [
-    "4+ years in QA automation, plus hands-on manual and exploratory testing experience.",
-    "Experience running tests in CI/CD pipelines (for example, GitHub Actions).",
-    "Hands-on experience with Playwright for desktop or web, and WebdriverIO + Appium for mobile.",
-    "Experience testing Electron and/or React Native apps, including on real iOS and Android devices.",
-    "Experience using AI tools in QA and critically reviewing their output. Testing AI-powered applications is a plus."
-  ],
-  "responsibilities": [
-    "Build and maintain desktop and mobile test automation for critical user flows.",
-    "Integrate tests into CI/CD pipelines and keep them fast and reliable.",
-    "Investigate failures, fix flaky tests, and manage test data and environments"
-  ],
-  "salary": {
-    "context_benchmark": "qa-dataset-remote",
-    "state": "unavailable"
-  },
-  "scores": {
-    "ai": 92,
-    "comp": 60,
-    "company": 95,
-    "location": 86,
-    "seniority": 84,
-    "skill": 70
-  },
-  "seniority": "unspecified",
-  "snippet": "Join Tether and Shape the Future of Digital Finance \n At Tether, we’re not just building products, we’re pioneering a global financial revolution. Our cutting-edge solutions empower businesses—from exchanges and wallets to payment processors and ATMs—to seamlessly integrate reserve-backed tokens across blockchains. By harnessing the power of blockchain technology, Tether enables you to store, send, and receive digita",
-  "source_primary": "Himalayas",
-  "sources": [
-    {
-      "id": "himalayas",
-      "job_id": "https://himalayas.app/companies/tether-operations-limited/jobs/automation-qa-engineer-qvac-100-remote",
-      "kind": "board",
-      "name": "Himalayas",
-      "posted_at": "2026-10-15T17:59:40Z",
-      "seen_at": "2026-10-19T13:24:59Z",
-      "url": "https://himalayas.app/companies/tether-operations-limited/jobs/automation-qa-engineer-qvac-100-remote?utm_source=api"
-    }
-  ],
-  "specializations": [
-    "Android",
-    "iOS",
-    "Windows / PC",
-    "Mobile apps",
-    "Web apps"
-  ],
-  "status": "active",
-  "tier": 1,
-  "title": "Automation QA Engineer (QVAC) (100% remote)",
-  "tools": [
-    "Regression testing",
-    "Exploratory testing",
-    "Bug reporting",
-    "Google Sheets / Excel",
-    "Test automation",
-    "Programming"
-  ],
-  "track": "software",
-  "updated_at": null,
-  "url": "https://himalayas.app/companies/tether-operations-limited/jobs/automation-qa-engineer-qvac-100-remote?utm_source=api",
-  "why": [
-    "Already on your resume: Regression testing, Exploratory testing, Bug reporting, Google Sheets / Excel",
-    "Platforms you test on: Android, iOS, Windows / PC, Mobile apps",
-    "Fintech company",
-    "Worldwide remote"
-  ],
-  "work_mode": "remote",
-  "years_max": null,
-  "years_min": null
+ "apply_url": null,
+ "board_apply": "https://himalayas.app/companies/tether-operations-limited/jobs/automation-qa-engineer-qvac-100-remote?utm_source=api",
+ "category": "Fintech",
+ "comp_potential": "unknown",
+ "company": "Tether Operations Limited",
+ "company_slug": "tether-operations-limited",
+ "concerns": [
+  "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
+  "Also asks for: Programming",
+  "Pay not disclosed — ask for the range early",
+  "Reposted / refreshed listing — original posting is older"
+ ],
+ "contacts_count": 0,
+ "content_hash": "3c44e2a404bd",
+ "date_quality": "exact",
+ "deadline": "2026-12-14T17:59:38Z",
+ "employment": "full-time",
+ "first_seen": "2026-10-19T13:24:59Z",
+ "fit": 80,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "36bdea76e9449e",
+ "include_reason": "Automation-heavy QA (SDET)",
+ "india": {
+  "cities": [],
+  "company": "likely",
+  "reason": "Worldwide remote",
+  "status": "likely",
+  "visa": false
+ },
+ "kind": "automation",
+ "last_verified": "2026-10-29T10:44:14Z",
+ "location": "Worldwide",
+ "logo": "https://cdn-images.himalayas.app/zel05qtfpctrwz9bbjs7cx799p6j",
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-10-29T09:16:41Z",
+ "repost": true,
+ "requirements": [
+  "4+ years in QA automation, plus hands-on manual and exploratory testing experience.",
+  "Experience running tests in CI/CD pipelines (for example, GitHub Actions).",
+  "Hands-on experience with Playwright for desktop or web, and WebdriverIO + Appium for mobile.",
+  "Experience testing Electron and/or React Native apps, including on real iOS and Android devices.",
+  "Experience using AI tools in QA and critically reviewing their output. Testing AI-powered applications is a plus."
+ ],
+ "responsibilities": [
+  "Build and maintain desktop and mobile test automation for critical user flows.",
+  "Integrate tests into CI/CD pipelines and keep them fast and reliable.",
+  "Investigate failures, fix flaky tests, and manage test data and environments"
+ ],
+ "salary": {
+  "context_benchmark": "qa-dataset-remote",
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 92,
+  "comp": 60,
+  "company": 95,
+  "location": 86,
+  "seniority": 84,
+  "skill": 70
+ },
+ "seniority": "unspecified",
+ "snippet": "Join Tether and Shape the Future of Digital Finance \n At Tether, we’re not just building products, we’re pioneering a global financial revolution. Our cutting-edge solutions empower businesses—from exchanges and wallets to payment processors and ATMs—to seamlessly integrate reserve-backed tokens across blockchains. By harnessing the power of blockchain technology, Tether enables you to store, send, and receive digita",
+ "source_primary": "Himalayas",
+ "sources": [
+  {
+   "id": "himalayas",
+   "job_id": "https://himalayas.app/companies/tether-operations-limited/jobs/automation-qa-engineer-qvac-100-remote",
+   "kind": "board",
+   "name": "Himalayas",
+   "posted_at": "2026-10-29T09:16:41Z",
+   "seen_at": "2026-10-29T10:44:14Z",
+   "url": "https://himalayas.app/companies/tether-operations-limited/jobs/automation-qa-engineer-qvac-100-remote?utm_source=api"
+  }
+ ],
+ "specializations": [
+  "Android",
+  "iOS",
+  "Windows / PC",
+  "Mobile apps",
+  "Web apps"
+ ],
+ "status": "active",
+ "tier": 1,
+ "title": "Automation QA Engineer (QVAC) (100% remote)",
+ "tools": [
+  "Regression testing",
+  "Exploratory testing",
+  "Bug reporting",
+  "Google Sheets / Excel",
+  "Test automation",
+  "Programming"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://himalayas.app/companies/tether-operations-limited/jobs/automation-qa-engineer-qvac-100-remote?utm_source=api",
+ "why": [
+  "Already on your resume: Regression testing, Exploratory testing, Bug reporting, Google Sheets / Excel",
+  "Platforms you test on: Android, iOS, Windows / PC, Mobile apps",
+  "Fintech company",
+  "Worldwide remote"
+ ],
+ "work_mode": "remote",
+ "years_max": null,
+ "years_min": null
 }

@@ -1,82 +1,91 @@
 {
-  "apply_url": null,
-  "board_apply": "https://ea.gr8people.com/jobs/168902",
-  "category": "Other",
-  "comp_potential": "unknown",
-  "company": "Electronic Arts",
-  "company_slug": "electronic-arts",
-  "concerns": [
-    "Employer has not confirmed hiring from India",
-    "Entry-level role — pay may be at the lower end",
-    "Pay not disclosed — ask for the range early",
-    "Full description not available from this source"
-  ],
-  "contacts_count": 0,
-  "content_hash": "9c529b205bba",
-  "date_quality": "unknown",
-  "deadline": null,
-  "employment": "full-time",
-  "first_seen": "2026-10-19T15:45:44Z",
-  "fit": 70,
-  "has_hiring_manager": false,
-  "has_named_contact": false,
-  "has_public_email": false,
-  "id": "64a6bf99449611",
-  "include_reason": "Manual / functional QA title",
-  "india": {
-    "cities": [],
-    "company": "unclear",
-    "reason": "Location not stated",
-    "status": "unconfirmed",
-    "visa": false
+ "apply_url": null,
+ "board_apply": "https://ea.gr8people.com/jobs/170505",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "Electronic Arts",
+ "company_slug": "electronic-arts",
+ "concerns": [
+  "Employer has not confirmed hiring from India",
+  "Entry-level role — pay may be at the lower end",
+  "Pay not disclosed — ask for the range early",
+  "Full description not available from this source"
+ ],
+ "contacts_count": 0,
+ "content_hash": "0cc0f7c57d8c",
+ "date_quality": "unknown",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-10-19T15:45:44Z",
+ "fit": 70,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "64a6bf99449611",
+ "include_reason": "Manual / functional QA title",
+ "india": {
+  "cities": [],
+  "company": "unclear",
+  "reason": "Location not stated",
+  "status": "unconfirmed",
+  "visa": false
+ },
+ "kind": "manual-qa",
+ "last_verified": "2026-10-30T03:44:22Z",
+ "location": "",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": null,
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 55,
+  "comp": 60,
+  "company": 66,
+  "location": 36,
+  "seniority": 86,
+  "skill": 86
+ },
+ "seniority": "junior",
+ "snippet": "",
+ "source_primary": "EA careers (via search index)",
+ "sources": [
+  {
+   "id": "web",
+   "job_id": "https://ea.gr8people.com/jobs/170505",
+   "kind": "search",
+   "name": "EA careers (via search index)",
+   "posted_at": null,
+   "seen_at": "2026-10-30T03:44:22Z",
+   "url": "https://ea.gr8people.com/jobs/170505"
   },
-  "kind": "manual-qa",
-  "last_verified": "2026-10-23T18:44:18Z",
-  "location": "",
-  "logo": null,
-  "needs_review": false,
-  "official": false,
-  "posted_at": null,
-  "repost": false,
-  "requirements": [],
-  "responsibilities": [],
-  "salary": {
-    "state": "unavailable"
-  },
-  "scores": {
-    "ai": 55,
-    "comp": 60,
-    "company": 66,
-    "location": 36,
-    "seniority": 86,
-    "skill": 86
-  },
-  "seniority": "junior",
-  "snippet": "",
-  "source_primary": "EA careers (via search index)",
-  "sources": [
-    {
-      "id": "web",
-      "job_id": "https://ea.gr8people.com/jobs/168902",
-      "kind": "search",
-      "name": "EA careers (via search index)",
-      "posted_at": null,
-      "seen_at": "2026-10-23T18:44:18Z",
-      "url": "https://ea.gr8people.com/jobs/168902"
-    }
-  ],
-  "specializations": [],
-  "status": "lead",
-  "tier": 3,
-  "title": "Associate QA Tester",
-  "tools": [],
-  "track": "software",
-  "updated_at": null,
-  "url": "https://ea.gr8people.com/jobs/168902",
-  "why": [
-    "Manual / functional QA — the core of your resume"
-  ],
-  "work_mode": "unspecified",
-  "years_max": null,
-  "years_min": null
+  {
+   "id": "web",
+   "job_id": "https://ea.gr8people.com/jobs/168902",
+   "kind": "search",
+   "name": "EA careers (via search index)",
+   "posted_at": null,
+   "seen_at": "2026-10-30T03:44:22Z",
+   "url": "https://ea.gr8people.com/jobs/168902"
+  }
+ ],
+ "specializations": [],
+ "status": "lead",
+ "tier": 3,
+ "title": "Associate QA Tester",
+ "tools": [],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://ea.gr8people.com/jobs/170505",
+ "why": [
+  "Manual / functional QA — the core of your resume"
+ ],
+ "work_mode": "unspecified",
+ "years_max": null,
+ "years_min": null
 }

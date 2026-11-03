@@ -1,41 +1,41 @@
 {
-  "category": "Agency / studio",
-  "classification": "Inferred from job description",
-  "india_hiring": {
-    "board": null,
-    "changed_at": "2026-10-27T10:26:45Z",
-    "evidence": [
-      {
-        "detail": "Freelance Graphic / Motion Designer — India",
-        "kind": "posting",
-        "label": "A current posting lists India as a location",
-        "url": "https://himalayas.app/companies/benrey/jobs/freelance-graphic-motion-designer-5222562264?utm_source=api",
-        "weight": 5
-      },
-      {
-        "detail": "Motion Designer — Worldwide",
-        "kind": "posting",
-        "label": "A current posting is open worldwide",
-        "url": "https://himalayas.app/companies/benrey/jobs/motion-designer-1817884003?utm_source=api",
-        "weight": 3
-      },
-      {
-        "detail": "…ort  • Real career opportunities and professional growth  • The great team across the world   Originally posted on Himalayas…",
-        "kind": "posting",
-        "label": "Posting describes hiring across countries",
-        "url": "https://himalayas.app/companies/benrey/jobs/motion-designer-1817884003?utm_source=api",
-        "weight": 3
-      }
-    ],
-    "first_checked_at": "2026-10-15T16:19:24Z",
-    "india_based": false,
-    "method": "Careers board, posting text",
-    "sig": "c6c1bb4e39",
-    "summary": "A current posting lists India as a location.",
-    "verdict": "yes"
-  },
-  "inferred": true,
-  "name": "Benrey",
-  "slug": "benrey",
-  "tier": 2
+ "category": "Agency / studio",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-27T10:26:45Z",
+  "evidence": [
+   {
+    "detail": "Freelance Graphic / Motion Designer — India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://himalayas.app/companies/benrey/jobs/freelance-graphic-motion-designer-5222562264?utm_source=api",
+    "weight": 5
+   },
+   {
+    "detail": "Motion Designer — Worldwide",
+    "kind": "posting",
+    "label": "A current posting is open worldwide",
+    "url": "https://himalayas.app/companies/benrey/jobs/motion-designer-1817884003?utm_source=api",
+    "weight": 3
+   },
+   {
+    "detail": "…ort  • Real career opportunities and professional growth  • The great team across the world   Originally posted on Himalayas…",
+    "kind": "posting",
+    "label": "Posting describes hiring across countries",
+    "url": "https://himalayas.app/companies/benrey/jobs/motion-designer-1817884003?utm_source=api",
+    "weight": 3
+   }
+  ],
+  "first_checked_at": "2026-10-15T16:19:24Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "c6c1bb4e39",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Benrey",
+ "slug": "benrey",
+ "tier": 2
 }

@@ -1,106 +1,106 @@
 {
-  "apply_url": null,
-  "board_apply": "https://himalayas.app/companies/photon/jobs/qa-automation-offshore?utm_source=api",
-  "category": "Product / SaaS",
-  "comp_potential": "unknown",
-  "company": "Photon",
-  "company_slug": "photon",
-  "concerns": [
-    "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
-    "Also asks for: Programming",
-    "Pay not disclosed — ask for the range early"
-  ],
-  "contacts_count": 0,
-  "content_hash": "d5879f99320c",
-  "date_quality": "exact",
-  "deadline": "2026-12-02T04:50:42Z",
-  "employment": "full-time",
-  "first_seen": "2026-10-19T13:24:59Z",
-  "fit": 77,
-  "has_hiring_manager": false,
-  "has_named_contact": false,
-  "has_public_email": false,
-  "id": "f6a6e9fd33ebaa",
-  "include_reason": "Automation-heavy QA (SDET)",
-  "india": {
-    "cities": [],
-    "company": "yes",
-    "reason": "Location lists India",
-    "status": "confirmed",
-    "visa": false
-  },
-  "kind": "automation",
-  "last_verified": "2026-10-19T13:24:59Z",
-  "location": "India",
-  "logo": "https://cdn-images.himalayas.app/jcz22vzek6q5rcz4rn965fx3rcix",
-  "needs_review": false,
-  "official": false,
-  "posted_at": "2026-10-03T04:50:43Z",
-  "repost": false,
-  "requirements": [
-    "Strong hands-on experience with UI automation for browser-based applications.",
-    "Expertise with Puppeteer (primary tool), and familiarity with Selenium/Playwright/Cypress.",
-    "Ability to automate manual regression tests without access to backend code.",
-    "Strong understanding of black-box and grey-box testing methodologies.",
-    "Experience working with large enterprise applications."
-  ],
-  "responsibilities": [
-    "Automate existing manual test cases (~150, expected to increase) for the eFront web application.",
-    "Build and maintain automation scripts using Puppeteer (preferred) or equivalent UI automation tools.",
-    "Execute automated test suites during upgrades/releases and analyse failures.",
-    "Review, update, and optimize regression scenarios provided by business and platform delivery teams.",
-    "Ensure automation resilience during vendor-driven UI changes.",
-    "Perform cross-browser automation for Edge and Chrome.",
-    "Document automation coverage, results, and defects."
-  ],
-  "salary": {
-    "state": "unavailable"
-  },
-  "scores": {
-    "ai": 68,
-    "comp": 60,
-    "company": 95,
-    "location": 100,
-    "seniority": 84,
-    "skill": 62
-  },
-  "seniority": "unspecified",
-  "snippet": "Key Responsibilities\n\n• Automate existing manual test cases (~150, expected to increase) for the eFront web application. \n\n• Build and maintain automation scripts using Puppeteer (preferred) or equivalent UI automation tools. \n\n• Execute automated test suites during upgrades/releases and analyse failures. \n\n• Review, update, and optimize regression scenarios provided by business and platform delivery teams. \n\n• Ensur",
-  "source_primary": "Himalayas",
-  "sources": [
-    {
-      "id": "himalayas",
-      "job_id": "https://himalayas.app/companies/photon/jobs/qa-automation-offshore",
-      "kind": "board",
-      "name": "Himalayas",
-      "posted_at": "2026-10-03T04:50:43Z",
-      "seen_at": "2026-10-19T13:24:59Z",
-      "url": "https://himalayas.app/companies/photon/jobs/qa-automation-offshore?utm_source=api"
-    }
-  ],
-  "specializations": [
-    "Web apps"
-  ],
-  "status": "active",
-  "tier": 1,
-  "title": "QA Automation  | Offshore",
-  "tools": [
-    "Regression testing",
-    "Compatibility testing",
-    "Test cases & scenarios",
-    "Bug reporting",
-    "Test automation",
-    "Programming"
-  ],
-  "track": "software",
-  "updated_at": null,
-  "url": "https://himalayas.app/companies/photon/jobs/qa-automation-offshore?utm_source=api",
-  "why": [
-    "Already on your resume: Regression testing, Compatibility testing, Test cases & scenarios, Bug reporting",
-    "Product / SaaS company",
-    "Location lists India"
-  ],
-  "work_mode": "remote",
-  "years_max": null,
-  "years_min": null
+ "apply_url": null,
+ "board_apply": "https://himalayas.app/companies/photon/jobs/qa-automation-offshore?utm_source=api",
+ "category": "Product / SaaS",
+ "comp_potential": "unknown",
+ "company": "Photon",
+ "company_slug": "photon",
+ "concerns": [
+  "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
+  "Also asks for: Programming",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "d5879f99320c",
+ "date_quality": "exact",
+ "deadline": "2026-12-02T04:50:42Z",
+ "employment": "full-time",
+ "first_seen": "2026-10-19T13:24:59Z",
+ "fit": 77,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "f6a6e9fd33ebaa",
+ "include_reason": "Automation-heavy QA (SDET)",
+ "india": {
+  "cities": [],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "automation",
+ "last_verified": "2026-10-19T13:24:59Z",
+ "location": "India",
+ "logo": "https://cdn-images.himalayas.app/jcz22vzek6q5rcz4rn965fx3rcix",
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-10-03T04:50:43Z",
+ "repost": false,
+ "requirements": [
+  "Strong hands-on experience with UI automation for browser-based applications.",
+  "Expertise with Puppeteer (primary tool), and familiarity with Selenium/Playwright/Cypress.",
+  "Ability to automate manual regression tests without access to backend code.",
+  "Strong understanding of black-box and grey-box testing methodologies.",
+  "Experience working with large enterprise applications."
+ ],
+ "responsibilities": [
+  "Automate existing manual test cases (~150, expected to increase) for the eFront web application.",
+  "Build and maintain automation scripts using Puppeteer (preferred) or equivalent UI automation tools.",
+  "Execute automated test suites during upgrades/releases and analyse failures.",
+  "Review, update, and optimize regression scenarios provided by business and platform delivery teams.",
+  "Ensure automation resilience during vendor-driven UI changes.",
+  "Perform cross-browser automation for Edge and Chrome.",
+  "Document automation coverage, results, and defects."
+ ],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 68,
+  "comp": 60,
+  "company": 95,
+  "location": 100,
+  "seniority": 84,
+  "skill": 62
+ },
+ "seniority": "unspecified",
+ "snippet": "Key Responsibilities\n\n• Automate existing manual test cases (~150, expected to increase) for the eFront web application. \n\n• Build and maintain automation scripts using Puppeteer (preferred) or equivalent UI automation tools. \n\n• Execute automated test suites during upgrades/releases and analyse failures. \n\n• Review, update, and optimize regression scenarios provided by business and platform delivery teams. \n\n• Ensur",
+ "source_primary": "Himalayas",
+ "sources": [
+  {
+   "id": "himalayas",
+   "job_id": "https://himalayas.app/companies/photon/jobs/qa-automation-offshore",
+   "kind": "board",
+   "name": "Himalayas",
+   "posted_at": "2026-10-03T04:50:43Z",
+   "seen_at": "2026-10-19T13:24:59Z",
+   "url": "https://himalayas.app/companies/photon/jobs/qa-automation-offshore?utm_source=api"
+  }
+ ],
+ "specializations": [
+  "Web apps"
+ ],
+ "status": "active",
+ "tier": 1,
+ "title": "QA Automation  | Offshore",
+ "tools": [
+  "Regression testing",
+  "Compatibility testing",
+  "Test cases & scenarios",
+  "Bug reporting",
+  "Test automation",
+  "Programming"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://himalayas.app/companies/photon/jobs/qa-automation-offshore?utm_source=api",
+ "why": [
+  "Already on your resume: Regression testing, Compatibility testing, Test cases & scenarios, Bug reporting",
+  "Product / SaaS company",
+  "Location lists India"
+ ],
+ "work_mode": "remote",
+ "years_max": null,
+ "years_min": null
 }

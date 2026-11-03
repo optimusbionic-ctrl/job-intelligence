@@ -1,83 +1,83 @@
 {
-  "apply_url": null,
-  "board_apply": "https://cutshort.io/job/QA-Test-Engineer-Paytm-yQRCcSin",
-  "category": "Fintech",
-  "comp_potential": "unknown",
-  "company": "Paytm",
-  "company_slug": "paytm",
-  "concerns": [
-    "Pay not disclosed — ask for the range early",
-    "Full description not available from this source"
-  ],
-  "contacts_count": 1,
-  "content_hash": "928d3b354920",
-  "date_quality": "unknown",
-  "deadline": null,
-  "employment": "full-time",
-  "first_seen": "2026-10-19T15:45:44Z",
-  "fit": 77,
-  "has_hiring_manager": false,
-  "has_named_contact": false,
-  "has_public_email": false,
-  "id": "c3388346d5e575",
-  "include_reason": "QA / test engineer title",
-  "india": {
-    "basis": "company",
-    "cities": [],
-    "company": "yes",
-    "reason": "Location not stated; Paytm is based in India",
-    "status": "likely",
-    "visa": false
-  },
-  "kind": "qa-engineer",
-  "last_verified": "2026-10-19T15:45:44Z",
-  "location": "",
-  "logo": null,
-  "needs_review": false,
-  "official": false,
-  "posted_at": null,
-  "repost": false,
-  "requirements": [],
-  "responsibilities": [],
-  "salary": {
-    "state": "unavailable"
-  },
-  "scores": {
-    "ai": 55,
-    "comp": 60,
-    "company": 95,
-    "location": 82,
-    "seniority": 84,
-    "skill": 74
-  },
-  "seniority": "unspecified",
-  "snippet": "",
-  "source_primary": "Cutshort (via search index)",
-  "sources": [
-    {
-      "id": "web",
-      "job_id": "https://cutshort.io/job/QA-Test-Engineer-Paytm-yQRCcSin",
-      "kind": "search",
-      "name": "Cutshort (via search index)",
-      "posted_at": null,
-      "seen_at": "2026-10-19T15:45:44Z",
-      "url": "https://cutshort.io/job/QA-Test-Engineer-Paytm-yQRCcSin"
-    }
-  ],
-  "specializations": [],
-  "status": "lead",
-  "tier": 1,
-  "title": "QA Test Engineer",
-  "tools": [],
-  "track": "software",
-  "updated_at": null,
-  "url": "https://cutshort.io/job/QA-Test-Engineer-Paytm-yQRCcSin",
-  "why": [
-    "QA / test engineer role",
-    "Fintech company",
-    "Location not stated; Paytm is based in India"
-  ],
-  "work_mode": "unspecified",
-  "years_max": null,
-  "years_min": null
+ "apply_url": null,
+ "board_apply": "https://cutshort.io/job/QA-Test-Engineer-Paytm-yQRCcSin",
+ "category": "Fintech",
+ "comp_potential": "unknown",
+ "company": "Paytm",
+ "company_slug": "paytm",
+ "concerns": [
+  "Pay not disclosed — ask for the range early",
+  "Full description not available from this source"
+ ],
+ "contacts_count": 1,
+ "content_hash": "928d3b354920",
+ "date_quality": "unknown",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-10-19T15:45:44Z",
+ "fit": 77,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "c3388346d5e575",
+ "include_reason": "QA / test engineer title",
+ "india": {
+  "basis": "company",
+  "cities": [],
+  "company": "yes",
+  "reason": "Location not stated; Paytm is based in India",
+  "status": "likely",
+  "visa": false
+ },
+ "kind": "qa-engineer",
+ "last_verified": "2026-10-19T15:45:44Z",
+ "location": "",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": null,
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 55,
+  "comp": 60,
+  "company": 95,
+  "location": 82,
+  "seniority": 84,
+  "skill": 74
+ },
+ "seniority": "unspecified",
+ "snippet": "",
+ "source_primary": "Cutshort (via search index)",
+ "sources": [
+  {
+   "id": "web",
+   "job_id": "https://cutshort.io/job/QA-Test-Engineer-Paytm-yQRCcSin",
+   "kind": "search",
+   "name": "Cutshort (via search index)",
+   "posted_at": null,
+   "seen_at": "2026-10-19T15:45:44Z",
+   "url": "https://cutshort.io/job/QA-Test-Engineer-Paytm-yQRCcSin"
+  }
+ ],
+ "specializations": [],
+ "status": "lead",
+ "tier": 1,
+ "title": "QA Test Engineer",
+ "tools": [],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://cutshort.io/job/QA-Test-Engineer-Paytm-yQRCcSin",
+ "why": [
+  "QA / test engineer role",
+  "Fintech company",
+  "Location not stated; Paytm is based in India"
+ ],
+ "work_mode": "unspecified",
+ "years_max": null,
+ "years_min": null
 }

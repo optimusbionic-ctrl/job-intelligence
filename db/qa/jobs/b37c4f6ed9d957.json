@@ -1,98 +1,98 @@
 {
-  "apply_url": null,
-  "board_apply": "https://jobs.workable.com/view/ue3fmJxivVq7yBMa3k2hno/test-engineer-(iso-8583)-in-thane-at-euronet-worldwide%2C-inc.",
-  "category": "Fintech",
-  "comp_potential": "unknown",
-  "company": "Euronet Worldwide, Inc.",
-  "company_slug": "euronet-worldwide-inc",
-  "concerns": [
-    "Also asks for: SQL / databases",
-    "Pay not disclosed — ask for the range early"
+ "apply_url": null,
+ "board_apply": "https://jobs.workable.com/view/ue3fmJxivVq7yBMa3k2hno/test-engineer-(iso-8583)-in-thane-at-euronet-worldwide%2C-inc.",
+ "category": "Fintech",
+ "comp_potential": "unknown",
+ "company": "Euronet Worldwide, Inc.",
+ "company_slug": "euronet-worldwide-inc",
+ "concerns": [
+  "Also asks for: SQL / databases",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "be903a81a522",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-10-19T13:24:59Z",
+ "fit": 81,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "b37c4f6ed9d957",
+ "include_reason": "QA / test engineer title",
+ "india": {
+  "cities": [
+   "Mumbai"
   ],
-  "contacts_count": 0,
-  "content_hash": "be903a81a522",
-  "date_quality": "exact",
-  "deadline": null,
-  "employment": "full-time",
-  "first_seen": "2026-10-19T13:24:59Z",
-  "fit": 81,
-  "has_hiring_manager": false,
-  "has_named_contact": false,
-  "has_public_email": false,
-  "id": "b37c4f6ed9d957",
-  "include_reason": "QA / test engineer title",
-  "india": {
-    "cities": [
-      "Mumbai"
-    ],
-    "company": "yes",
-    "reason": "Location lists India",
-    "status": "confirmed",
-    "visa": false
-  },
-  "kind": "qa-engineer",
-  "last_verified": "2026-10-19T13:24:59Z",
-  "location": "Thane, Maharashtra, India",
-  "logo": "https://workablehr.s3.amazonaws.com/uploads/account/logo/539399/logo",
-  "needs_review": false,
-  "official": false,
-  "posted_at": "2026-07-21T11:25:51Z",
-  "repost": false,
-  "requirements": [],
-  "responsibilities": [
-    "3 + years of experience in Switch Manual Testing.",
-    "Banking Domain knowledge.",
-    "Knowledge in Switch testing and ISO 8583.",
-    "Experience in Test Reporting & Closure.",
-    "Experience in Defect Reporting, Tracking and Closure.",
-    "Test case review and traceability.",
-    "Experience in Prepaid/Wallet, Single/Multi Currency Card testing."
-  ],
-  "salary": {
-    "state": "unavailable"
-  },
-  "scores": {
-    "ai": 58,
-    "comp": 60,
-    "company": 95,
-    "location": 100,
-    "seniority": 94,
-    "skill": 72
-  },
-  "seniority": "unspecified",
-  "snippet": "Position :- Test Engineer/Senior Test Engineer \n Experience :- 3 yrs – 8 yrs \n Roles & Responsibilities: \n • 3 + years of experience in Switch Manual Testing.\n • Banking Domain knowledge.\n • Knowledge in Switch testing and ISO 8583.\n • Knowledge of SQL.\n • Experience in Test Reporting & Closure.\n • Experience in Defect Reporting, Tracking and Closure.\n • Test case review and traceability.\n • Experience in Prepaid/Wal",
-  "source_primary": "Workable job marketplace",
-  "sources": [
-    {
-      "id": "workable",
-      "job_id": "e491efc4-2b6e-4990-b528-9c2d8c507070",
-      "kind": "board",
-      "name": "Workable job marketplace",
-      "posted_at": "2026-07-21T11:25:51Z",
-      "seen_at": "2026-10-19T13:24:59Z",
-      "url": "https://jobs.workable.com/view/ue3fmJxivVq7yBMa3k2hno/test-engineer-(iso-8583)-in-thane-at-euronet-worldwide%2C-inc."
-    }
-  ],
-  "specializations": [],
-  "status": "active",
-  "tier": 1,
-  "title": "Test Engineer (ISO 8583)",
-  "tools": [
-    "Test cases & scenarios",
-    "Bug reporting",
-    "SQL / databases"
-  ],
-  "track": "software",
-  "updated_at": null,
-  "url": "https://jobs.workable.com/view/ue3fmJxivVq7yBMa3k2hno/test-engineer-(iso-8583)-in-thane-at-euronet-worldwide%2C-inc.",
-  "why": [
-    "QA / test engineer role",
-    "Already on your resume: Test cases & scenarios, Bug reporting",
-    "Fintech company",
-    "Asks for 3+ years — you have about 2.5",
-    "Location lists India"
-  ],
-  "work_mode": "onsite",
-  "years_max": null,
-  "years_min": 3
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "qa-engineer",
+ "last_verified": "2026-10-19T13:24:59Z",
+ "location": "Thane, Maharashtra, India",
+ "logo": "https://workablehr.s3.amazonaws.com/uploads/account/logo/539399/logo",
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-07-21T11:25:51Z",
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [
+  "3 + years of experience in Switch Manual Testing.",
+  "Banking Domain knowledge.",
+  "Knowledge in Switch testing and ISO 8583.",
+  "Experience in Test Reporting & Closure.",
+  "Experience in Defect Reporting, Tracking and Closure.",
+  "Test case review and traceability.",
+  "Experience in Prepaid/Wallet, Single/Multi Currency Card testing."
+ ],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 60,
+  "company": 95,
+  "location": 100,
+  "seniority": 94,
+  "skill": 72
+ },
+ "seniority": "unspecified",
+ "snippet": "Position :- Test Engineer/Senior Test Engineer \n Experience :- 3 yrs – 8 yrs \n Roles & Responsibilities: \n • 3 + years of experience in Switch Manual Testing.\n • Banking Domain knowledge.\n • Knowledge in Switch testing and ISO 8583.\n • Knowledge of SQL.\n • Experience in Test Reporting & Closure.\n • Experience in Defect Reporting, Tracking and Closure.\n • Test case review and traceability.\n • Experience in Prepaid/Wal",
+ "source_primary": "Workable job marketplace",
+ "sources": [
+  {
+   "id": "workable",
+   "job_id": "e491efc4-2b6e-4990-b528-9c2d8c507070",
+   "kind": "board",
+   "name": "Workable job marketplace",
+   "posted_at": "2026-07-21T11:25:51Z",
+   "seen_at": "2026-10-19T13:24:59Z",
+   "url": "https://jobs.workable.com/view/ue3fmJxivVq7yBMa3k2hno/test-engineer-(iso-8583)-in-thane-at-euronet-worldwide%2C-inc."
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 1,
+ "title": "Test Engineer (ISO 8583)",
+ "tools": [
+  "Test cases & scenarios",
+  "Bug reporting",
+  "SQL / databases"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://jobs.workable.com/view/ue3fmJxivVq7yBMa3k2hno/test-engineer-(iso-8583)-in-thane-at-euronet-worldwide%2C-inc.",
+ "why": [
+  "QA / test engineer role",
+  "Already on your resume: Test cases & scenarios, Bug reporting",
+  "Fintech company",
+  "Asks for 3+ years — you have about 2.5",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": null,
+ "years_min": 3
 }

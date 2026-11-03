@@ -1,0 +1,30 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-30T00:44:29Z",
+  "evidence": [
+   {
+    "detail": "QA Engineer — Pune, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://cutshort.io/job/QA-Engineer-Pune-11Sight-com-BPXSNfdi",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-10-30T00:44:29Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "4072869cd7",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "11Sight",
+ "slug": "11sight",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}

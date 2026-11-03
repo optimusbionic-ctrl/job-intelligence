@@ -1,67 +1,67 @@
 {
-  "category": "Product / SaaS",
-  "classification": "Inferred from job description",
-  "india_hiring": {
-    "board": null,
-    "changed_at": "2026-10-19T13:24:59Z",
-    "evidence": [
-      {
-        "detail": "Junior Software Engineer (QA & Automation) — Worldwide",
-        "kind": "posting",
-        "label": "A current posting is open worldwide",
-        "url": "https://himalayas.app/companies/ngo-consulting-partners/jobs/junior-software-engineer-qa-automation?utm_source=api",
-        "weight": 3
-      }
-    ],
-    "first_checked_at": "2026-10-19T13:24:59Z",
-    "india_based": false,
-    "method": "Careers board, posting text, web search",
-    "sig": "9195157a02",
-    "summary": "No India-located roles found, but a current posting is open worldwide.",
-    "verdict": "likely",
-    "web": {
-      "checked_at": "2026-10-19T14:22:01Z",
-      "query": "\"Ngo Consulting Partners\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
-      "results": [
-        {
-          "description": "",
-          "title": "Global Employment Services for NGOs",
-          "url": "https://topsourceworldwide.com/industry/ngos/"
-        },
-        {
-          "description": "",
-          "title": "International Recruitment",
-          "url": "https://www.ngorecruitment.com/asia-pacific-international-recruitment"
-        },
-        {
-          "description": "",
-          "title": "Where we recruit",
-          "url": "https://www.ngorecruitment.com/where-we-recruit"
-        },
-        {
-          "description": "",
-          "title": "NGO Brochure Asia Pac 12",
-          "url": "https://ngorecruitment.com/wp-content/uploads/2022/06/NGO-Brochure-Asia-Pac-12.pdf"
-        },
-        {
-          "description": "",
-          "title": "Organisation : NGO Recruitment",
-          "url": "https://probonoaustralia.com.au/?p=1465905"
-        },
-        {
-          "description": "",
-          "title": "NGO Consultancy",
-          "url": "https://humentum.org/ngo-consultancy"
-        }
-      ]
+ "category": "Product / SaaS",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-19T13:24:59Z",
+  "evidence": [
+   {
+    "detail": "Junior Software Engineer (QA & Automation) — Worldwide",
+    "kind": "posting",
+    "label": "A current posting is open worldwide",
+    "url": "https://himalayas.app/companies/ngo-consulting-partners/jobs/junior-software-engineer-qa-automation?utm_source=api",
+    "weight": 3
+   }
+  ],
+  "first_checked_at": "2026-10-19T13:24:59Z",
+  "india_based": false,
+  "method": "Careers board, posting text, web search",
+  "sig": "9195157a02",
+  "summary": "No India-located roles found, but a current posting is open worldwide.",
+  "verdict": "likely",
+  "web": {
+   "checked_at": "2026-10-19T14:22:01Z",
+   "query": "\"Ngo Consulting Partners\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
+   "results": [
+    {
+     "description": "",
+     "title": "Global Employment Services for NGOs",
+     "url": "https://topsourceworldwide.com/industry/ngos/"
+    },
+    {
+     "description": "",
+     "title": "International Recruitment",
+     "url": "https://www.ngorecruitment.com/asia-pacific-international-recruitment"
+    },
+    {
+     "description": "",
+     "title": "Where we recruit",
+     "url": "https://www.ngorecruitment.com/where-we-recruit"
+    },
+    {
+     "description": "",
+     "title": "NGO Brochure Asia Pac 12",
+     "url": "https://ngorecruitment.com/wp-content/uploads/2022/06/NGO-Brochure-Asia-Pac-12.pdf"
+    },
+    {
+     "description": "",
+     "title": "Organisation : NGO Recruitment",
+     "url": "https://probonoaustralia.com.au/?p=1465905"
+    },
+    {
+     "description": "",
+     "title": "NGO Consultancy",
+     "url": "https://humentum.org/ngo-consultancy"
     }
-  },
-  "inferred": true,
-  "logo": "https://cdn-images.himalayas.app/i26egz7p1vcrjbjv4yx7s4iwe49d",
-  "name": "Ngo Consulting Partners",
-  "slug": "ngo-consulting-partners",
-  "tier": 1,
-  "tracks": [
-    "software"
-  ]
+   ]
+  }
+ },
+ "inferred": true,
+ "logo": "https://cdn-images.himalayas.app/i26egz7p1vcrjbjv4yx7s4iwe49d",
+ "name": "Ngo Consulting Partners",
+ "slug": "ngo-consulting-partners",
+ "tier": 1,
+ "tracks": [
+  "software"
+ ]
 }

@@ -1,9 +1,9 @@
 {
-  "checked_at": "2026-10-19T18:45:42Z",
-  "found": 0,
-  "kind": "salary_company",
-  "name": "99Games",
-  "query": "\"99Games\" (QA OR tester OR \"test engineer\") salary (site:ambitionbox.com OR site:glassdoor.co.in OR site:glassdoor.com OR site:payscale.com)",
-  "results": 8,
-  "slug": "99games"
+ "checked_at": "2026-10-19T18:45:42Z",
+ "found": 0,
+ "kind": "salary_company",
+ "name": "99Games",
+ "query": "\"99Games\" (QA OR tester OR \"test engineer\") salary (site:ambitionbox.com OR site:glassdoor.co.in OR site:glassdoor.com OR site:payscale.com)",
+ "results": 8,
+ "slug": "99games"
 }

@@ -1,21 +1,21 @@
 {
-  "category": "hiring_team",
-  "company": "Sandy Micone's company",
-  "company_slug": "sandy-micone-s-company",
-  "confidence": "medium",
-  "email": null,
-  "evidence_label": "Public LinkedIn post announcing the opening",
-  "evidence_url": "https://www.linkedin.com/posts/sandymicone_looking-for-freelance-visual-andor-motion-activity-7515992974086795264-9JtF",
-  "id": "c7be8f4372e953",
-  "job_ids": [
-    "4fde59914d0789"
-  ],
-  "linkedin": "https://www.linkedin.com/in/sandymicone",
-  "name": "Sandy Micone",
-  "named": true,
-  "other_url": null,
-  "phone": null,
-  "relevance": "Hiring manager (posted the opening)",
-  "title": "",
-  "verified_at": "2026-10-16T21:30:21Z"
+ "category": "hiring_team",
+ "company": "Sandy Micone's company",
+ "company_slug": "sandy-micone-s-company",
+ "confidence": "medium",
+ "email": null,
+ "evidence_label": "Public LinkedIn post announcing the opening",
+ "evidence_url": "https://www.linkedin.com/posts/sandymicone_looking-for-freelance-visual-andor-motion-activity-7515992974086795264-9JtF",
+ "id": "c7be8f4372e953",
+ "job_ids": [
+  "4fde59914d0789"
+ ],
+ "linkedin": "https://www.linkedin.com/in/sandymicone",
+ "name": "Sandy Micone",
+ "named": true,
+ "other_url": null,
+ "phone": null,
+ "relevance": "Hiring manager (posted the opening)",
+ "title": "",
+ "verified_at": "2026-10-16T21:30:21Z"
 }

@@ -1,95 +1,95 @@
 {
-  "apply_url": null,
-  "board_apply": "https://www.shine.com/jobs/senior-software-tester-senior-qa-engineer/peracto-infotech-pvt-ltd/19532632",
-  "category": "Other",
-  "comp_potential": "unknown",
-  "company": "Peracto Infotech Pvt Ltd",
-  "company_slug": "peracto-infotech-pvt-ltd",
-  "concerns": [
-    "Also asks for: API testing, SQL / databases",
-    "Asks for 4+ years — you have about 2.5",
-    "Office outside Mumbai — relocation within India",
-    "Pay not disclosed — ask for the range early"
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/senior-software-tester-senior-qa-engineer/peracto-infotech-pvt-ltd/19532632",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "Peracto Infotech Pvt Ltd",
+ "company_slug": "peracto-infotech-pvt-ltd",
+ "concerns": [
+  "Also asks for: API testing, SQL / databases",
+  "Asks for 4+ years — you have about 2.5",
+  "Office outside Mumbai — relocation within India",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "5d91a25d7ffa",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-10-19T13:24:59Z",
+ "fit": 75,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "da74ee344c28fd",
+ "include_reason": "Manual / functional QA title",
+ "india": {
+  "cities": [
+   "Pune"
   ],
-  "contacts_count": 0,
-  "content_hash": "5d91a25d7ffa",
-  "date_quality": "exact",
-  "deadline": null,
-  "employment": "full-time",
-  "first_seen": "2026-10-19T13:24:59Z",
-  "fit": 75,
-  "has_hiring_manager": false,
-  "has_named_contact": false,
-  "has_public_email": false,
-  "id": "da74ee344c28fd",
-  "include_reason": "Manual / functional QA title",
-  "india": {
-    "cities": [
-      "Pune"
-    ],
-    "company": "yes",
-    "reason": "Location lists India",
-    "status": "confirmed",
-    "visa": false
-  },
-  "kind": "manual-qa",
-  "last_verified": "2026-10-19T13:24:59Z",
-  "location": "Pune, India",
-  "logo": null,
-  "needs_review": false,
-  "official": false,
-  "posted_at": "2026-09-05T01:14:42Z",
-  "repost": false,
-  "requirements": [],
-  "responsibilities": [],
-  "salary": {
-    "state": "unavailable"
-  },
-  "scores": {
-    "ai": 62,
-    "comp": 60,
-    "company": 66,
-    "location": 78,
-    "seniority": 72,
-    "skill": 88
-  },
-  "seniority": "unspecified",
-  "snippet": "Experience: 4 to 8 Yrs\nSkills: Web Application Testing, MongoDB, MEAN Stack, Functional Testing, Integration Testing, Regression Testing, Smoke Testing, Sanity Testing, REST API Testing, EndtoEnd Testing\n(Summary from the Shine.com listing; open the posting for the full description.)",
-  "source_primary": "Shine.com",
-  "sources": [
-    {
-      "id": "shine",
-      "job_id": "19532632",
-      "kind": "board",
-      "name": "Shine.com",
-      "posted_at": "2026-09-05T01:14:42Z",
-      "seen_at": "2026-10-19T13:24:59Z",
-      "url": "https://www.shine.com/jobs/senior-software-tester-senior-qa-engineer/peracto-infotech-pvt-ltd/19532632"
-    }
-  ],
-  "specializations": [
-    "Web apps"
-  ],
-  "status": "active",
-  "tier": 3,
-  "title": "Senior Software Tester / Senior QA Engineer",
-  "tools": [
-    "Functional testing",
-    "Regression testing",
-    "Smoke testing",
-    "Sanity testing",
-    "API testing",
-    "SQL / databases"
-  ],
-  "track": "software",
-  "updated_at": null,
-  "url": "https://www.shine.com/jobs/senior-software-tester-senior-qa-engineer/peracto-infotech-pvt-ltd/19532632",
-  "why": [
-    "Manual / functional QA — the core of your resume",
-    "Already on your resume: Functional testing, Regression testing, Smoke testing, Sanity testing",
-    "Location lists India"
-  ],
-  "work_mode": "onsite",
-  "years_max": 8,
-  "years_min": 4
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "manual-qa",
+ "last_verified": "2026-10-19T13:24:59Z",
+ "location": "Pune, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-09-05T01:14:42Z",
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 62,
+  "comp": 60,
+  "company": 66,
+  "location": 78,
+  "seniority": 72,
+  "skill": 88
+ },
+ "seniority": "unspecified",
+ "snippet": "Experience: 4 to 8 Yrs\nSkills: Web Application Testing, MongoDB, MEAN Stack, Functional Testing, Integration Testing, Regression Testing, Smoke Testing, Sanity Testing, REST API Testing, EndtoEnd Testing\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "19532632",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-09-05T01:14:42Z",
+   "seen_at": "2026-10-19T13:24:59Z",
+   "url": "https://www.shine.com/jobs/senior-software-tester-senior-qa-engineer/peracto-infotech-pvt-ltd/19532632"
+  }
+ ],
+ "specializations": [
+  "Web apps"
+ ],
+ "status": "active",
+ "tier": 3,
+ "title": "Senior Software Tester / Senior QA Engineer",
+ "tools": [
+  "Functional testing",
+  "Regression testing",
+  "Smoke testing",
+  "Sanity testing",
+  "API testing",
+  "SQL / databases"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/senior-software-tester-senior-qa-engineer/peracto-infotech-pvt-ltd/19532632",
+ "why": [
+  "Manual / functional QA — the core of your resume",
+  "Already on your resume: Functional testing, Regression testing, Smoke testing, Sanity testing",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": 8,
+ "years_min": 4
 }

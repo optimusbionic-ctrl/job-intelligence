@@ -1,0 +1,87 @@
+{
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/qa-tester-priyanka-mumbai/talentola/19635192",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "TalentOla",
+ "company_slug": "talentola",
+ "concerns": [
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "9415027a1a21",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-10-28T13:46:20Z",
+ "fit": 80,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "24269492c07a2c",
+ "include_reason": "Manual / functional QA title",
+ "india": {
+  "cities": [
+   "Mumbai"
+  ],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "manual-qa",
+ "last_verified": "2026-10-28T13:46:20Z",
+ "location": "Mumbai City, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-09-29T09:47:51Z",
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 60,
+  "company": 66,
+  "location": 100,
+  "seniority": 100,
+  "skill": 79
+ },
+ "seniority": "unspecified",
+ "snippet": "Experience: 0 to 4 Yrs\nSkills: test cases, test scripts, performance testing, security testing, programming languages, HTML, QA methodologies, testing techniques, test plans, software QA tools\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "19635192",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-09-29T09:47:51Z",
+   "seen_at": "2026-10-28T13:46:20Z",
+   "url": "https://www.shine.com/jobs/qa-tester-priyanka-mumbai/talentola/19635192"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 3,
+ "title": "QA Tester_Priyanka (Mumbai)",
+ "tools": [
+  "Stress / load testing",
+  "Test cases & scenarios"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/qa-tester-priyanka-mumbai/talentola/19635192",
+ "why": [
+  "Manual / functional QA — the core of your resume",
+  "Already on your resume: Stress / load testing, Test cases & scenarios",
+  "Asks for 0–4 years — you have about 2.5",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": 4,
+ "years_min": 0
+}

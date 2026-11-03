@@ -1,61 +1,56 @@
 {
-  "category": "Agency / studio",
-  "classification": "Inferred from job description",
-  "india_hiring": {
-    "board": null,
-    "changed_at": "2026-10-15T16:19:24Z",
-    "evidence": [
-      {
-        "detail": "Open Positions at GTO Wizard — “team members all over the world”",
-        "kind": "web",
-        "label": "Web shows it hires across countries",
-        "url": "https://gtowizard.com/careers",
-        "weight": 2
-      },
-      {
-        "detail": "GTO Wizard Job Portal — “Lists roles only in Czechia”",
-        "kind": "web",
-        "label": "Web suggests hiring is limited to named countries",
-        "url": "https://gtowizard.recruitee.com/",
-        "weight": -1
-      }
-    ],
-    "first_checked_at": "2026-10-15T16:19:24Z",
-    "india_based": false,
-    "method": "Careers board, posting text, web search",
-    "sig": "e56a6774e0",
-    "summary": "No India-located roles found, but web shows it hires across countries.",
-    "verdict": "likely",
-    "web": {
-      "checked_at": "2026-10-15T16:19:24Z",
-      "query": "\"GTO Wizard\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
-      "results": [
-        {
-          "description": "Revolutionizing the Poker Landscape. Fostering a Culture of Independence, Collaboration, and Accountability. At GTO Wizard, we are a fully remote company with team members all over the world.",
-          "title": "Open Positions at GTO Wizard",
-          "url": "https://gtowizard.com/careers"
-        },
-        {
-          "description": "5 remote jobs at GTO Wizard. Apply now. Find more great remote companies like this on Remote Rocketship. Filter by salary and hiring location.",
-          "title": "Remote Jobs at GTO Wizard",
-          "url": "https://www.remoterocketship.com/company/gtowizard/"
-        },
-        {
-          "description": "Filters: Prague. Graphic Designer — Remote. Senior Game Artist | 2D & Motion — Remote.",
-          "title": "GTO Wizard Job Portal",
-          "url": "https://gtowizard.recruitee.com/"
-        },
-        {
-          "description": "2 Remote Job Openings at GTO Wizard. GTO Wizard is hiring for remote Growth Marketing Specialist (CRM & PPC).",
-          "title": "GTO Wizard - Remote Work From Home Jobs & Careers",
-          "url": "https://dailyremote.com/remote-company/gto-wizard"
-        }
-      ]
+ "category": "Agency / studio",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-29T16:34:04Z",
+  "evidence": [],
+  "first_checked_at": "2026-10-15T16:19:24Z",
+  "india_based": false,
+  "method": "Careers board, posting text, web search",
+  "sig": "54391d7cdf",
+  "summary": "No public evidence yet about hiring from India.",
+  "verdict": "unclear",
+  "web": {
+   "checked_at": "2026-10-29T16:34:04Z",
+   "query": "\"GTO Wizard\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
+   "results": [
+    {
+     "description": "",
+     "title": "WFH.teamOpen app",
+     "url": "https://wfh.team/companies/gto-wizard"
+    },
+    {
+     "description": "",
+     "title": "RemoteJobs.org mascotRemoteJobs.org",
+     "url": "https://remotejobs.org/companies/gto-wizard"
+    },
+    {
+     "description": "",
+     "title": "RemoteJobs.org mascotRemoteJobs.org",
+     "url": "https://remotejobs.org/companies?page=88"
+    },
+    {
+     "description": "",
+     "title": "Work Remotely for Global Companies Hiring in India",
+     "url": "https://wisemonk.io/for-candidates"
+    },
+    {
+     "description": "",
+     "title": "GTO Wizard Content Creator Jobs",
+     "url": "https://contentcreators.com/career/companies/gto-wizard"
+    },
+    {
+     "description": "",
+     "title": "Build your career with global companies, without leaving India",
+     "url": "https://www.wisemonk.io/for-candidate"
     }
-  },
-  "inferred": true,
-  "logo": "https://cdn-images.himalayas.app/t02ee7ab4ifgq0wbakpj5l6g5cvs",
-  "name": "GTO Wizard",
-  "slug": "gto-wizard",
-  "tier": 2
+   ]
+  }
+ },
+ "inferred": true,
+ "logo": "https://cdn-images.himalayas.app/t02ee7ab4ifgq0wbakpj5l6g5cvs",
+ "name": "GTO Wizard",
+ "slug": "gto-wizard",
+ "tier": 2
 }

@@ -1,30 +1,30 @@
 {
-  "category": "Other",
-  "classification": "Inferred from job description",
-  "india_hiring": {
-    "board": null,
-    "changed_at": "2026-10-24T05:44:13Z",
-    "evidence": [
-      {
-        "detail": "QA Tester (Manual - Web Applications) (Munirka) — Delhi, India",
-        "kind": "posting",
-        "label": "A current posting lists India as a location",
-        "url": "https://www.shine.com/jobs/qa-tester-manual-web-applications-munirka/mobisec-technologies-private/19909209",
-        "weight": 5
-      }
-    ],
-    "first_checked_at": "2026-10-24T05:44:13Z",
-    "india_based": false,
-    "method": "Careers board, posting text",
-    "sig": "650563a8b1",
-    "summary": "A current posting lists India as a location.",
-    "verdict": "yes"
-  },
-  "inferred": true,
-  "name": "Mobisec Technologies Private",
-  "slug": "mobisec-technologies-private",
-  "tier": 3,
-  "tracks": [
-    "software"
-  ]
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-24T05:44:13Z",
+  "evidence": [
+   {
+    "detail": "QA Tester (Manual - Web Applications) (Munirka) — Delhi, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/qa-tester-manual-web-applications-munirka/mobisec-technologies-private/19909209",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-10-24T05:44:13Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "650563a8b1",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Mobisec Technologies Private",
+ "slug": "mobisec-technologies-private",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
 }

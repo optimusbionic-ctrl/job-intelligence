@@ -1,90 +1,90 @@
 {
-  "apply_url": null,
-  "board_apply": "https://www.shine.com/jobs/qa-tester/mahatta-multimedia/19579214",
-  "category": "Other",
-  "comp_potential": "unknown",
-  "company": "Mahatta Multimedia",
-  "company_slug": "mahatta-multimedia",
-  "concerns": [
-    "Also asks for: API testing, SQL / databases",
-    "Office outside Mumbai — relocation within India",
-    "Pay not disclosed — ask for the range early"
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/qa-tester/mahatta-multimedia/19579214",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "Mahatta Multimedia",
+ "company_slug": "mahatta-multimedia",
+ "concerns": [
+  "Also asks for: API testing, SQL / databases",
+  "Office outside Mumbai — relocation within India",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "084019e8a65a",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-10-20T03:44:58Z",
+ "fit": 70,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "8b0973172ef5be",
+ "include_reason": "Manual / functional QA title",
+ "india": {
+  "cities": [
+   "Delhi NCR"
   ],
-  "contacts_count": 0,
-  "content_hash": "084019e8a65a",
-  "date_quality": "exact",
-  "deadline": null,
-  "employment": "full-time",
-  "first_seen": "2026-10-20T03:44:58Z",
-  "fit": 70,
-  "has_hiring_manager": false,
-  "has_named_contact": false,
-  "has_public_email": false,
-  "id": "8b0973172ef5be",
-  "include_reason": "Manual / functional QA title",
-  "india": {
-    "cities": [
-      "Delhi NCR"
-    ],
-    "company": "yes",
-    "reason": "Location lists India",
-    "status": "confirmed",
-    "visa": false
-  },
-  "kind": "manual-qa",
-  "last_verified": "2026-10-20T03:44:58Z",
-  "location": "Delhi, India",
-  "logo": null,
-  "needs_review": false,
-  "official": false,
-  "posted_at": "2026-09-23T03:49:32Z",
-  "repost": false,
-  "requirements": [],
-  "responsibilities": [],
-  "salary": {
-    "state": "unavailable"
-  },
-  "scores": {
-    "ai": 58,
-    "comp": 60,
-    "company": 66,
-    "location": 60,
-    "seniority": 100,
-    "skill": 64
-  },
-  "seniority": "unspecified",
-  "snippet": "Experience: 1 to 5 Yrs\nSkills: Manual Testing, STLC, SDLC, API Testing, SQL, MySQL, Jira, Web Testing, Postman, Responsive Testing\n(Summary from the Shine.com listing; open the posting for the full description.)",
-  "source_primary": "Shine.com",
-  "sources": [
-    {
-      "id": "shine",
-      "job_id": "19579214",
-      "kind": "board",
-      "name": "Shine.com",
-      "posted_at": "2026-09-23T03:49:32Z",
-      "seen_at": "2026-10-20T03:44:58Z",
-      "url": "https://www.shine.com/jobs/qa-tester/mahatta-multimedia/19579214"
-    }
-  ],
-  "specializations": [],
-  "status": "active",
-  "tier": 3,
-  "title": "QA Tester",
-  "tools": [
-    "Jira",
-    "API testing",
-    "SQL / databases"
-  ],
-  "track": "software",
-  "updated_at": null,
-  "url": "https://www.shine.com/jobs/qa-tester/mahatta-multimedia/19579214",
-  "why": [
-    "Manual / functional QA — the core of your resume",
-    "Already on your resume: Jira",
-    "Asks for 1–5 years — you have about 2.5",
-    "Location lists India"
-  ],
-  "work_mode": "onsite",
-  "years_max": 5,
-  "years_min": 1
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "manual-qa",
+ "last_verified": "2026-10-20T03:44:58Z",
+ "location": "Delhi, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-09-23T03:49:32Z",
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 60,
+  "company": 66,
+  "location": 60,
+  "seniority": 100,
+  "skill": 64
+ },
+ "seniority": "unspecified",
+ "snippet": "Experience: 1 to 5 Yrs\nSkills: Manual Testing, STLC, SDLC, API Testing, SQL, MySQL, Jira, Web Testing, Postman, Responsive Testing\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "19579214",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-09-23T03:49:32Z",
+   "seen_at": "2026-10-20T03:44:58Z",
+   "url": "https://www.shine.com/jobs/qa-tester/mahatta-multimedia/19579214"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 3,
+ "title": "QA Tester",
+ "tools": [
+  "Jira",
+  "API testing",
+  "SQL / databases"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/qa-tester/mahatta-multimedia/19579214",
+ "why": [
+  "Manual / functional QA — the core of your resume",
+  "Already on your resume: Jira",
+  "Asks for 1–5 years — you have about 2.5",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": 5,
+ "years_min": 1
 }

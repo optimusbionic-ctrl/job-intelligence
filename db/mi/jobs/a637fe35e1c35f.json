@@ -1,92 +1,92 @@
 {
-  "apply_url": null,
-  "board_apply": "https://www.designme.agency/careers/motion-designer",
-  "category": "AI",
-  "comp_potential": "unknown",
-  "company": "DesignMe",
-  "company_slug": "designme",
-  "concerns": [
-    "Employer has not confirmed hiring from India",
-    "Compensation not disclosed",
-    "Also asks for: Blender"
-  ],
-  "contacts_count": 0,
-  "content_hash": "4fb1076b5c16",
-  "date_quality": "approx",
-  "deadline": null,
-  "employment": "full-time",
-  "first_seen": "2026-10-15T15:39:48Z",
-  "fit": 72,
-  "has_hiring_manager": false,
-  "has_named_contact": false,
-  "has_public_email": false,
-  "id": "a637fe35e1c35f",
-  "include_reason": "Motion design title",
-  "india": {
-    "cities": [],
-    "company": "unclear",
-    "reason": "Remote, region not stated",
-    "status": "unconfirmed",
-    "visa": false
-  },
-  "kind": "motion",
-  "last_verified": "2026-10-15T16:55:58Z",
-  "location": "Remote, hybrid or Gdańsk",
-  "logo": null,
-  "needs_review": false,
-  "official": false,
-  "posted_at": "2026-10-12T00:00:00Z",
-  "repost": false,
-  "requirements": [],
-  "responsibilities": [],
-  "salary": {
-    "context_benchmark": "mi-dataset-remote",
-    "note": "Not disclosed. Global remote pay context is available, but there is no evidence it applies to this employer or to India-based hires.",
-    "state": "unavailable"
-  },
-  "scores": {
-    "ai": 58,
-    "comp": 48,
-    "company": 98,
-    "location": 38,
-    "seniority": 66,
-    "skill": 86
-  },
-  "seniority": "unspecified",
-  "snippet": "Join DesignMe as a 3D and motion designer: After Effects, Blender, Spline and Rive for SaaS, AI and tech brands. Remote, hybrid or Gdańsk, part-time possible.",
-  "source_primary": "DesignMe careers (via search index)",
-  "sources": [
-    {
-      "id": "web",
-      "job_id": "https://www.designme.agency/careers/motion-designer",
-      "kind": "search",
-      "name": "DesignMe careers (via search index)",
-      "posted_at": "2026-10-12T00:00:00Z",
-      "seen_at": "2026-10-15T16:55:58Z",
-      "url": "https://www.designme.agency/careers/motion-designer"
-    }
-  ],
-  "specializations": [
-    "3D motion",
-    "Interaction systems"
-  ],
-  "status": "lead",
-  "tier": 1,
-  "title": "Motion designer",
-  "tools": [
-    "After Effects",
-    "Rive",
-    "Spline",
-    "Blender"
-  ],
-  "updated_at": null,
-  "url": "https://www.designme.agency/careers/motion-designer",
-  "why": [
-    "Core motion design role",
-    "Tools you already use: After Effects, Rive, Spline",
-    "Specialisations in scope: 3D motion, Interaction systems",
-    "AI company (Tier 1 priority)"
-  ],
-  "work_mode": "remote",
-  "years_min": null
+ "apply_url": null,
+ "board_apply": "https://www.designme.agency/careers/motion-designer",
+ "category": "AI",
+ "comp_potential": "unknown",
+ "company": "DesignMe",
+ "company_slug": "designme",
+ "concerns": [
+  "Employer has not confirmed hiring from India",
+  "Compensation not disclosed",
+  "Also asks for: Blender"
+ ],
+ "contacts_count": 0,
+ "content_hash": "4fb1076b5c16",
+ "date_quality": "approx",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-10-15T15:39:48Z",
+ "fit": 72,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "a637fe35e1c35f",
+ "include_reason": "Motion design title",
+ "india": {
+  "cities": [],
+  "company": "unclear",
+  "reason": "Remote, region not stated",
+  "status": "unconfirmed",
+  "visa": false
+ },
+ "kind": "motion",
+ "last_verified": "2026-10-15T16:55:58Z",
+ "location": "Remote, hybrid or Gdańsk",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-10-12T00:00:00Z",
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "context_benchmark": "mi-dataset-remote",
+  "note": "Not disclosed. Global remote pay context is available, but there is no evidence it applies to this employer or to India-based hires.",
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 48,
+  "company": 98,
+  "location": 38,
+  "seniority": 66,
+  "skill": 86
+ },
+ "seniority": "unspecified",
+ "snippet": "Join DesignMe as a 3D and motion designer: After Effects, Blender, Spline and Rive for SaaS, AI and tech brands. Remote, hybrid or Gdańsk, part-time possible.",
+ "source_primary": "DesignMe careers (via search index)",
+ "sources": [
+  {
+   "id": "web",
+   "job_id": "https://www.designme.agency/careers/motion-designer",
+   "kind": "search",
+   "name": "DesignMe careers (via search index)",
+   "posted_at": "2026-10-12T00:00:00Z",
+   "seen_at": "2026-10-15T16:55:58Z",
+   "url": "https://www.designme.agency/careers/motion-designer"
+  }
+ ],
+ "specializations": [
+  "3D motion",
+  "Interaction systems"
+ ],
+ "status": "lead",
+ "tier": 1,
+ "title": "Motion designer",
+ "tools": [
+  "After Effects",
+  "Rive",
+  "Spline",
+  "Blender"
+ ],
+ "updated_at": null,
+ "url": "https://www.designme.agency/careers/motion-designer",
+ "why": [
+  "Core motion design role",
+  "Tools you already use: After Effects, Rive, Spline",
+  "Specialisations in scope: 3D motion, Interaction systems",
+  "AI company (Tier 1 priority)"
+ ],
+ "work_mode": "remote",
+ "years_min": null
 }

@@ -699,6 +699,123 @@ table.jobs.dense td{padding-block:8px}
 @media (max-width:900px){.guide-m{display:inline-grid!important}}
 @media (max-width:560px){.gbody{grid-template-columns:minmax(0,1fr)}.gbody .gic{width:38px;height:38px}}
 @media (prefers-reduced-motion:reduce){.guide-btn::before,.guide-btn::after{animation:none}}
+/* ---------- hiring trends (new) ---------- */
+.trends-btn{position:relative;isolation:isolate;display:flex;align-items:center;gap:10px;width:100%;padding:11px 12px;border:0;border-radius:10px;background:transparent;color:var(--fg);font:inherit;font-size:13.5px;font-weight:650;letter-spacing:-.005em;text-align:left;cursor:pointer;overflow:hidden;text-decoration:none}
+.trends-btn:hover{text-decoration:none}
+.trends-btn::before{content:"";position:absolute;inset:0;z-index:-2;border-radius:inherit;padding:1.5px;background:conic-gradient(from var(--ga),var(--accent-2),#9C7CFF,#F2A33A,#4DD4C0,var(--accent-2));-webkit-mask:linear-gradient(#000 0 0) content-box,linear-gradient(#000 0 0);-webkit-mask-composite:xor;mask-composite:exclude;animation:gspin 4.5s linear infinite}
+.trends-btn::after{content:"";position:absolute;inset:1.5px;z-index:-1;border-radius:9px;background:linear-gradient(110deg,var(--raised) 30%,color-mix(in srgb,var(--accent-2) 26%,var(--raised)) 50%,var(--raised) 70%);background-size:250% 100%;animation:gshine 3.2s var(--ease-std) infinite}
+.trends-btn .gi{display:grid;place-items:center;width:26px;height:26px;border-radius:8px;background:var(--accent-grad);color:#fff;flex:none;box-shadow:0 4px 14px -4px var(--accent)}
+.trends-btn small{display:block;font-size:11px;font-weight:450;color:var(--mute);margin-top:1px}
+.trends-btn .gnew{margin-left:auto;font-family:var(--f-mono);font-size:9.5px;letter-spacing:.08em;text-transform:uppercase;padding:2px 6px;border-radius:999px;background:var(--accent-2);color:#fff}
+.trends-btn[aria-current="page"]::after{background:color-mix(in srgb,var(--accent-2) 20%,var(--raised))}
+.trends-btn:focus-visible{outline:2px solid var(--accent-2);outline-offset:2px}
+.guide-btn::before,.guide-btn::after{content:none!important;display:none!important}
+.guide-btn{display:flex;align-items:center;gap:8px;width:100%;margin:0;padding:6px 10px;border:0;border-radius:8px;background:transparent;color:var(--mute);font:inherit;font-size:12px;font-weight:500;text-align:left;cursor:pointer}
+.guide-btn:hover{background:var(--hover);color:var(--fg-2)}
+.guide-btn .gi{display:grid;place-items:center;width:16px;height:16px;color:var(--faint);flex:none;background:none;box-shadow:none;border-radius:0}
+.guide-btn small{display:none}
+.guide-btn .gnew{margin-left:auto;font-family:var(--f-mono);font-size:9px;letter-spacing:.08em;text-transform:uppercase;color:var(--faint)}
+.guide-btn:focus-visible{outline:2px solid var(--accent-2);outline-offset:2px}
+.trends-top{display:none}
+.nav a.hl{box-shadow:inset 0 0 0 1px var(--accent-line);background:linear-gradient(90deg,var(--accent-tint),transparent 90%);color:var(--fg)}
+.nav .nnew{margin-left:auto;font-family:var(--f-mono);font-size:9.5px;letter-spacing:.08em;text-transform:uppercase;padding:2px 6px;border-radius:999px;background:var(--accent-2);color:#fff}
+.nav a[aria-current="page"] .nnew{margin-right:14px}
+.newfeat{position:relative;isolation:isolate;display:grid;grid-template-columns:auto minmax(0,1fr) auto;gap:16px;align-items:center;padding:16px 18px;border-radius:var(--r-lg);overflow:hidden}
+.newfeat::before{content:"";position:absolute;inset:0;z-index:-2;border-radius:inherit;padding:1.5px;background:conic-gradient(from var(--ga),var(--accent-2),#9C7CFF,#F2A33A,#4DD4C0,var(--accent-2));-webkit-mask:linear-gradient(#000 0 0) content-box,linear-gradient(#000 0 0);-webkit-mask-composite:xor;mask-composite:exclude;animation:gspin 6s linear infinite}
+.newfeat::after{content:"";position:absolute;inset:1.5px;z-index:-1;border-radius:13px;background:linear-gradient(120deg,color-mix(in srgb,var(--accent-2) 14%,var(--surface)),var(--surface) 60%)}
+.newfeat .nf-ic{display:grid;place-items:center;width:40px;height:40px;border-radius:11px;background:var(--accent-grad);color:#fff;box-shadow:0 6px 18px -6px var(--accent)}
+.newfeat b{display:block;font-family:var(--f-display);font-size:16px;font-weight:650;letter-spacing:-.015em;line-height:1.3}
+.newfeat p{font-size:13px;color:var(--fg-2);margin-top:3px}
+.newfeat .eyebrow{color:var(--accent-text)}
+.tr-kpis{grid-template-columns:repeat(4,minmax(0,1fr))}
+.tr-kpis .kpi{cursor:default}
+.tr-kpis .kpi .v{font-size:30px}
+.tr-kpis .kpi .v.sm{font-size:22px;line-height:1.15;letter-spacing:-.025em}
+.tr-months{display:grid;grid-template-columns:repeat(12,minmax(0,1fr));gap:6px;align-items:stretch}
+.tm{display:flex;flex-direction:column;align-items:center;gap:4px;min-width:0}
+.tm .tv{font-family:var(--f-mono);font-size:11px;color:var(--fg-2);height:16px;white-space:nowrap}
+.tm .tcol{width:100%;max-width:40px;height:72px;display:flex;flex-direction:column;justify-content:flex-end}
+.tm .tcol.dn{justify-content:flex-start;border-top:1px solid var(--line-3)}
+.tm .tcol i{display:block;width:100%;border-radius:4px 4px 1px 1px;min-height:2px}
+.tm .tcol.dn i{border-radius:1px 1px 4px 4px}
+.tm.hi .tcol i{background:var(--good)} .tm.mid .tcol i{background:color-mix(in srgb,var(--fg-2) 45%,transparent)} .tm.lo .tcol i{background:var(--warn)}
+.tm .tl{font-family:var(--f-mono);font-size:11px;color:var(--fg);font-weight:500}
+.tm .tt{font-size:10px;font-weight:600;letter-spacing:.02em;text-transform:uppercase;font-family:var(--f-mono)}
+.tm.hi .tt{color:var(--good)} .tm.lo .tt{color:var(--warn)} .tm.mid .tt{color:var(--faint)}
+.tm.now .tl{color:var(--accent-text)}
+.tr-legend{display:flex;flex-wrap:wrap;gap:6px 16px;font-size:12px;color:var(--mute);align-items:center}
+.tr-legend i{display:inline-block;width:10px;height:10px;border-radius:3px;margin-right:6px;vertical-align:-1px}
+.tr-legend .ln{width:16px;height:3px;border-radius:2px;vertical-align:3px}
+.tr-tbl{width:100%;border-collapse:collapse;font-size:12px;font-variant-numeric:tabular-nums}
+.tr-tbl th,.tr-tbl td{padding:6px 6px;text-align:right;border-bottom:1px solid var(--line);white-space:nowrap}
+.tr-tbl th:first-child,.tr-tbl td:first-child{text-align:left;color:var(--mute);font-weight:500}
+.tr-tbl thead th{font-family:var(--f-mono);font-size:10px;letter-spacing:.06em;text-transform:uppercase;color:var(--mute);font-weight:400}
+.tr-tbl td.est{color:var(--mute);font-style:italic}
+.tr-factors{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px}
+.tr-f{display:flex;flex-direction:column;gap:6px;padding:14px 16px;border:1px solid var(--line);border-radius:var(--r-md);background:var(--raised)}
+.tr-f .fh{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+.tr-f b{font-size:13.5px;font-weight:600}
+.tr-f p{font-size:12.5px;color:var(--fg-2);line-height:1.5}
+.tr-f .when{font-family:var(--f-mono);font-size:10.5px;letter-spacing:.06em;text-transform:uppercase;color:var(--mute)}
+.trc-wrap{overflow-x:auto;-webkit-overflow-scrolling:touch}
+.trc{display:block;width:100%;height:auto;min-width:560px}
+.trc text{font-family:var(--f-mono);font-size:11px;fill:var(--mute)}
+.trc .lab{fill:var(--fg);font-weight:500}
+.tr-bars{display:grid;gap:10px;height:190px;align-items:end}
+.tr-bars .b{display:flex;flex-direction:column;align-items:center;gap:6px;height:100%;justify-content:flex-end;min-width:0}
+.tr-bars .b i{display:block;width:100%;max-width:46px;min-height:2px;border-radius:5px 5px 1px 1px;background:var(--bad)}
+.tr-bars .b i.part{background:repeating-linear-gradient(135deg,var(--bad) 0 5px,color-mix(in srgb,var(--bad) 45%,transparent) 5px 10px)}
+.tr-bars .b i.soft{background:color-mix(in srgb,var(--bad) 55%,var(--raised))}
+.tr-bars .b em{font-style:normal;font-family:var(--f-mono);font-size:11px;color:var(--fg);white-space:nowrap}
+.tr-bars .b span{font-family:var(--f-mono);font-size:10.5px;color:var(--mute);white-space:nowrap}
+.tr-verdict{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px}
+.tr-v{display:flex;flex-direction:column;gap:8px;padding:16px;border-radius:var(--r-md);border:1px solid var(--line);background:var(--raised)}
+.tr-v .vt{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+.tr-v .big{font-family:var(--f-display);font-size:26px;font-weight:600;letter-spacing:-.03em;line-height:1.05;font-variant-numeric:tabular-nums}
+.tr-v p{font-size:12.5px;color:var(--fg-2);line-height:1.5}
+.tr-stats{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}
+.tr-s{display:grid;grid-template-columns:86px minmax(0,1fr);gap:12px;align-items:start;padding:12px 14px;border:1px solid var(--line);border-radius:var(--r-md);background:var(--surface)}
+.tr-s .n{font-family:var(--f-display);font-size:22px;font-weight:600;letter-spacing:-.03em;line-height:1.05;font-variant-numeric:tabular-nums}
+.tr-s .n.up{color:var(--good)} .tr-s .n.dn{color:var(--bad)} .tr-s .n.neu{color:var(--fg)}
+.tr-s b{font-weight:600;font-size:13px;line-height:1.35;display:block}
+.tr-s span{font-size:12px;color:var(--mute);line-height:1.45;display:block;margin-top:2px}
+.tr-s a{font-size:11.5px}
+.tr-do{margin:0;padding-left:18px;display:flex;flex-direction:column;gap:7px;font-size:13px;color:var(--fg-2)}
+.tr-do b{color:var(--fg)}
+.tr-src{margin:0;padding-left:18px;display:flex;flex-direction:column;gap:4px;font-size:12px;color:var(--mute)}
+.tr-src a{overflow-wrap:anywhere}
+.tr-note{font-size:12px;color:var(--mute);line-height:1.5}
+@media (max-width:1080px){.tr-factors,.tr-verdict{grid-template-columns:minmax(0,1fr)}.tr-stats{grid-template-columns:minmax(0,1fr)}}
+@media (max-width:900px){.trends-top{display:inline-flex}.tr-kpis{grid-template-columns:repeat(2,minmax(0,1fr))}.tr-kpis .kpi:nth-child(2n){border-right:0}}
+@media (max-width:640px){.trends-top{padding:0 10px}.trends-top span{display:none}.tr-months{gap:3px}.tm .tt{display:none}.tm .tv{font-size:9.5px}.tm .tl{font-size:10px}.newfeat{grid-template-columns:minmax(0,1fr)}.newfeat .nf-ic{display:none}.tr-s{grid-template-columns:72px minmax(0,1fr)}}
+@media (prefers-reduced-motion:reduce){.trends-btn::before,.trends-btn::after,.newfeat::before{animation:none}}
+
+/* star / remove / sizes / reported pay */
+.mk{all:unset;cursor:pointer;width:28px;height:28px;display:inline-grid;place-items:center;border-radius:8px;color:var(--faint);transition:color .15s,background .15s,transform .2s}
+.mk:hover{color:var(--fg);background:var(--hover)}
+.mk:focus-visible{outline:2px solid var(--accent-line);outline-offset:1px}
+.mk.star svg{fill:none;stroke:currentColor;stroke-width:1.3}
+.mk.star[aria-pressed="true"]{color:#F2B33D}
+.mk.star[aria-pressed="true"] svg{fill:#F2B33D;stroke:#F2B33D}
+.mk.star.pop{animation:mkpop .45s cubic-bezier(.2,1.6,.4,1)}
+@keyframes mkpop{0%{transform:scale(.6)}60%{transform:scale(1.25)}100%{transform:scale(1)}}
+@media (prefers-reduced-motion:reduce){.mk.star.pop{animation:none}}
+.mk.hide:hover{color:#E2665B}
+.c-mk{display:flex;align-items:center;gap:0}
+tr.starred > td:first-child{box-shadow:inset 3px 0 0 #F2B33D}
+.jcard.starred{border-color:rgba(242,179,61,.55);box-shadow:0 0 0 1px rgba(242,179,61,.25) inset}
+.lrow .stg{color:#F2B33D;display:inline-flex;margin-right:4px;vertical-align:-2px}
+.lrow .stg svg{fill:#F2B33D}
+.mseg button{display:inline-flex;align-items:center;gap:5px}
+.mseg button svg{fill:none;stroke:currentColor;stroke-width:1.3}
+.mseg button[aria-pressed="true"] svg{fill:#F2B33D;stroke:#F2B33D}
+.mseg b{font-weight:600;color:var(--mute)}
+.szt{display:inline-block;margin-left:6px;padding:0 6px;border-radius:999px;border:1px solid var(--line-2);font-size:10.5px;line-height:16px;color:var(--fg-2);vertical-align:1px}
+.pay.rep b{color:var(--fg)}
+.pay.rep small{color:var(--accent-text)}
+.dr-actions .btn.starred{color:#F2B33D;border-color:rgba(242,179,61,.5)}
+.dr-actions .btn.starred svg{fill:#F2B33D;stroke:#F2B33D}
+.dr-actions .btn svg.st{fill:none;stroke:currentColor;stroke-width:1.3}
 </style>
 <svg width="0" height="0" style="position:absolute" aria-hidden="true">
   <defs>
@@ -734,7 +851,8 @@ table.jobs.dense td{padding-block:8px}
     <symbol id="i-search" viewBox="0 0 16 16"><circle cx="7" cy="7" r="4.3" fill="none" stroke="currentColor" stroke-width="1.4"/><path d="m10.3 10.3 3.2 3.2" stroke="currentColor" stroke-width="1.4" stroke-linecap="round"/></symbol>
     <symbol id="i-arrow" viewBox="0 0 16 16"><path d="M3 8h10m0 0L9 4m4 4-4 4" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></symbol>
     <symbol id="i-mail" viewBox="0 0 16 16"><rect x="2" y="3.5" width="12" height="9" rx="1.5" fill="none" stroke="currentColor" stroke-width="1.3"/><path d="m2.6 4.6 5.4 4 5.4-4" fill="none" stroke="currentColor" stroke-width="1.3" stroke-linejoin="round"/></symbol>
-    <symbol id="i-phone" viewBox="0 0 16 16"><path d="M5.6 2.5H4.2a1.2 1.2 0 0 0-1.2 1.3c.5 5.1 4.1 8.7 9.2 9.2a1.2 1.2 0 0 0 1.3-1.2v-1.4a1 1 0 0 0-.8-1l-1.8-.4a1 1 0 0 0-.9.3l-.7.7a7.6 7.6 0 0 1-3.2-3.2l.7-.7a1 1 0 0 0 .3-.9l-.4-1.8a1 1 0 0 0-1-.8z" fill="none" stroke="currentColor" stroke-width="1.3" stroke-linejoin="round"/></symbol>
+    <symbol id="i-star" viewBox="0 0 16 16"><path d="M8 1.6l1.95 4.02 4.43.6-3.22 3.1.78 4.4L8 11.62 4.06 13.72l.78-4.4-3.22-3.1 4.43-.6z" stroke-linejoin="round"/></symbol><symbol id="i-hide" viewBox="0 0 16 16"><path d="M2 8s2.2-4 6-4 6 4 6 4-2.2 4-6 4-6-4-6-4z" fill="none" stroke="currentColor" stroke-width="1.3"/><circle cx="8" cy="8" r="1.7" fill="none" stroke="currentColor" stroke-width="1.3"/><path d="M2.5 13.5l11-11" stroke="currentColor" stroke-width="1.3" stroke-linecap="round"/></symbol><symbol id="i-phone" viewBox="0 0 16 16"><path d="M5.6 2.5H4.2a1.2 1.2 0 0 0-1.2 1.3c.5 5.1 4.1 8.7 9.2 9.2a1.2 1.2 0 0 0 1.3-1.2v-1.4a1 1 0 0 0-.8-1l-1.8-.4a1 1 0 0 0-.9.3l-.7.7a7.6 7.6 0 0 1-3.2-3.2l.7-.7a1 1 0 0 0 .3-.9l-.4-1.8a1 1 0 0 0-1-.8z" fill="none" stroke="currentColor" stroke-width="1.3" stroke-linejoin="round"/></symbol>
+    <symbol id="i-trend" viewBox="0 0 16 16"><path d="M2 12.5 6 8.5l2.6 2.6L14 5.6M10.4 5.6H14v3.6" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></symbol>
   </defs>
 </svg>
 
@@ -742,9 +860,10 @@ table.jobs.dense td{padding-block:8px}
   <aside class="rail" aria-label="Primary">
     <div class="brand"><svg width="30" height="30" viewBox="0 0 30 30" aria-hidden="true"><rect width="30" height="30" rx="8" fill="var(--raised)" stroke="var(--line-2)"/><path d="M8.5 15.6l4.2 4.2 8.8-9.6" fill="none" stroke="var(--fg)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M23 18.6 25.9 21.5 23 24.4 20.1 21.5z" fill="var(--accent)"/><path d="M7 5.6 9.4 8 7 10.4 4.6 8z" fill="var(--game)"/></svg><div><b>QA Intelligence</b><small>Game QA · Software QA</small></div></div>
     <div class="secnav" id="secNav"></div>
+    <a class="trends-btn" href="#trends" id="trendsBtn"><span class="gi"><svg width="15" height="15" aria-hidden="true"><use href="#i-trend"/></svg></span><span>Hiring trends<small>Best months · layoffs · AI impact</small></span><span class="gnew">New</span></a>
     <nav class="nav" id="nav"></nav>
-    <button type="button" class="guide-btn" data-act="guide" id="guideBtn"><span class="gi"><svg width="14" height="14" aria-hidden="true"><use href="#i-spark"/></svg></span><span>Quick guide<small>How to use this tool</small></span></button>
     <div class="rail-foot">
+      <button type="button" class="guide-btn" data-act="guide" id="guideBtn"><span class="gi"><svg width="13" height="13" aria-hidden="true"><use href="#i-spark"/></svg></span><span>Quick guide</span></button>
       <div class="monitor-mini" id="monitorMini"><div class="row"><span class="pulse off"></span><b>Monitor</b></div><span class="muted">Connecting…</span></div>
       <div class="theme-toggle" role="group" aria-label="Theme">
         <button type="button" data-act="theme" data-v="system" aria-pressed="false">Auto</button>
@@ -759,6 +878,7 @@ table.jobs.dense td{padding-block:8px}
       <div class="topbar-in">
         <a class="mobile-brand" href="#overview" aria-label="QA Intelligence home"><svg width="30" height="30" viewBox="0 0 30 30" aria-hidden="true"><rect width="30" height="30" rx="8" fill="var(--raised)" stroke="var(--line-2)"/><path d="M8.5 15.6l4.2 4.2 8.8-9.6" fill="none" stroke="var(--fg)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M23 18.6 25.9 21.5 23 24.4 20.1 21.5z" fill="var(--accent)"/><path d="M7 5.6 9.4 8 7 10.4 4.6 8z" fill="var(--game)"/></svg></a>
         <div class="top-actions">
+          <a class="btn sm primary trends-top" href="#trends" aria-label="Hiring trends"><svg width="14" height="14" aria-hidden="true"><use href="#i-trend"/></svg><span>Trends</span></a>
           <button type="button" class="btn ghost icon guide-m" data-act="guide" aria-label="Quick guide"><svg width="17" height="17" aria-hidden="true"><use href="#i-spark"/></svg></button>
           <span class="livechip" id="liveChip" role="status"></span>
           <button type="button" class="btn ghost icon bell" aria-label="Notifications" aria-haspopup="dialog" aria-expanded="false" aria-controls="notifRoot" id="bellBtn" data-act="notif-toggle"><svg width="17" height="17" aria-hidden="true"><use href="#i-bell"/></svg></button>
@@ -906,7 +1026,7 @@ const DEFAULT_ALERTS = { minFit: 80, over90: true, allNew: true, tracks: ['game'
 const MAX_DAYS = 45;
 const DEFAULT_FILTERS = () => ({
   days: 30, status: ['verified', 'active', 'lead'], india: ['confirmed', 'likely'], cohire: [], mode: [], cities: [], tiers: [], cats: [],
-  seniority: [], employment: [], comp: [], compState: [], payListed: false, specs: [], recruit: [], minFit: 0, kw: [], expand: [],
+  seniority: [], employment: [], comp: [], compState: [], csize: [], payListed: false, specs: [], recruit: [], minFit: 0, kw: [], expand: [],
 });
 
 /* ================================================================
@@ -917,7 +1037,7 @@ const S = {
   status: 'connecting', // connecting | ready | nodb
   jobs: new Map(), jobsRaw: null, companies: new Map(), contacts: new Map(), benchmarks: new Map(), alerts: [], logs: [], meta: {},
   loaded: { jobs: false },
-  ws: { profile: null, profiles: { game: null, software: null }, settings: null, apps: new Map(), searches: new Map(), watch: new Map(), saved: new Map(), analyses: new Map(), outreach: new Map(), finds: new Map(), people: new Map() },
+  ws: { profile: null, profiles: { game: null, software: null }, settings: null, apps: new Map(), searches: new Map(), watch: new Map(), saved: new Map(), analyses: new Map(), outreach: new Map(), finds: new Map(), people: new Map(), marks: new Map() }, marksView: 'all', sizes: new Map(),
   view: 'overview', track: 'all', profTrack: 'game', filters: DEFAULT_FILTERS(), nl: null, sort: 'best', layout: 'table', density: 'comfortable', page: 1,
   compare: new Set(), drawer: null, modal: null, filtersOpen: false,
   peopleTab: 'all', peopleQ: '', companyQ: '', aiBusy: false, monitor: { trig: null, err: null, loading: false },
@@ -991,20 +1111,20 @@ function skillScore(j) {
   if (!sig.length && !j.snippet) s = .86 * base;
   return Math.round(Math.max(0, Math.min(100, s)));
 }
-function subScores(j) { return { ...(j.scores || {}), skill: skillScore(j) }; }
+function subScores(j) { const sc = { ...(j.scores || {}), skill: skillScore(j) }; sc.comp = compFromPay(j, sc.comp ?? 60); return sc; }
 function fitOf(j, w = weights()) {
   const sc = subScores(j); let tot = 0, sum = 0;
   for (const k of Object.keys(DEFAULT_WEIGHTS)) { const wk = +w[k] || 0; tot += wk; sum += (sc[k] ?? 50) * wk; }
   return tot ? Math.round(sum / tot) : 0;
 }
-function payRange(j, includeEst = true) {
+function payRange(j, includeReported = true) {
   const s = j.salary || {};
   if (s.state === 'verified' && s.inr_max) return [s.inr_min || s.inr_max, s.inr_max, 'verified'];
-  if (includeEst && s.state === 'estimate' && s.estimate?.inr_high) return [s.estimate.inr_low, s.estimate.inr_high, 'estimate'];
-  return [null, null, s.state || 'unavailable'];
+  if (includeReported) { const r = reportedFor(j); if (r) return [r.inr_min, r.inr_max, 'reported']; }
+  return [null, null, 'unavailable'];
 }
 const isOpen = j => !['closed', 'stale', 'excluded'].includes(j.status);
-const potentialRank = p => ({ listed_global: 0, listed_good: 1, listed: 2, estimate: 3, unknown: 4 }[p] ?? 4);
+const potentialRank = p => ({ listed_global: 0, listed_good: 1, listed: 2, reported: 3, unknown: 4 }[p] ?? 4);
 const app = id => S.ws.apps.get(id);
 const isSaved = id => !!S.ws.apps.get(id);
 const companyOf = j => S.companies.get(j.company_slug) || { name: j.company, slug: j.company_slug, tier: j.tier, category: j.category };
@@ -1050,6 +1170,7 @@ function queryTerms() {
 /* ---------- filtering ---------- */
 function senGroupKey(s) { return SEN_GROUP[s] || 'Not stated'; }
 function matchFilters(j, f = S.filters, skip = null) {
+  if (skip !== 'marks') { const mv = S.view === 'explorer' && f === S.filters ? S.marksView : 'all'; if (mv === 'removed') { if (!isHidden(j.id)) return false; } else { if (isHidden(j.id)) return false; if (mv === 'starred' && !isStar(j.id)) return false; } }
   if (skip !== 'track' && !inTrack(j)) return false;
   const fit = fitOf(j);
   if (skip !== 'days') { const lim = Math.min(+f.days || MAX_DAYS, MAX_DAYS); const d = daysSince(jobAgeRef(j)); if (d == null || d > lim) return false; }
@@ -1066,10 +1187,11 @@ function matchFilters(j, f = S.filters, skip = null) {
   if (skip !== 'cats' && f.cats.length && !f.cats.includes(j.category)) return false;
   if (skip !== 'seniority' && f.seniority.length && !f.seniority.includes(senGroupKey(j.seniority))) return false;
   if (skip !== 'employment' && f.employment.length && !f.employment.includes(j.employment)) return false;
-  if (skip !== 'compState' && f.compState.length && !f.compState.includes(j.salary?.state || 'unavailable')) return false;
+  if (skip !== 'compState' && f.compState.length && !f.compState.includes(payState(j))) return false;
+  if (skip !== 'csize' && f.csize?.length && !f.csize.includes(sizeBand(j.company_slug) || 'unknown')) return false;
   if (skip !== 'payListed' && f.payListed && j.salary?.state !== 'verified') return false;
   if (skip !== 'comp' && f.comp.length) {
-    const [lo, hi] = payRange(j, !f.compState.length || f.compState.includes('estimate'));
+    const [lo, hi] = payRange(j, !f.compState.length || f.compState.includes('reported'));
     if (lo == null) return false;
     if (!f.comp.some(b => { const [a, z] = BANDS[b]; return hi >= a && lo < z; })) return false;
   }
@@ -1103,7 +1225,7 @@ function results() {
     best: (a, b) => hasQ ? ((.55 * fitv(b) / 100 + .45 * (rel.get(b.id) || 0) / maxRel) - (.55 * fitv(a) / 100 + .45 * (rel.get(a.id) || 0) / maxRel)) : byNum(fitv(a), fitv(b)),
     newest: (a, b) => (ts(jobAgeRef(b)) || 0) - (ts(jobAgeRef(a)) || 0),
     pay: (a, b) => ((b.salary?.state === 'verified' ? b.salary.inr_max : -1) || -1) - ((a.salary?.state === 'verified' ? a.salary.inr_max : -1) || -1) || byNum(fitv(a), fitv(b)),
-    potential: (a, b) => potentialRank(a.comp_potential) - potentialRank(b.comp_potential) || (subScores(b).comp - subScores(a).comp) || byNum(fitv(a), fitv(b)),
+    potential: (a, b) => potentialRank(potKey(a)) - potentialRank(potKey(b)) || (subScores(b).comp - subScores(a).comp) || byNum(fitv(a), fitv(b)),
     company: (a, b) => (subScores(b).company - subScores(a).company) || byNum(fitv(a), fitv(b)),
     remote: (a, b) => (subScores(b).location - subScores(a).location) || byNum(fitv(a), fitv(b)),
     verified: (a, b) => (STATUS_META[a.status]?.rank ?? 9) - (STATUS_META[b.status]?.rank ?? 9) || (ts(b.last_verified) || 0) - (ts(a.last_verified) || 0),
@@ -1142,6 +1264,7 @@ function subscribeShared(db) {
   }, err('jobs'));
   db.collection('companies').onSnapshot(snap => { S.companies = new Map(snap.docs.map(d => [d.id, d.data()])); overlay(); buildIndex(); scheduleRender(); }, err('companies'));
   db.collection('india_checks').onSnapshot(snap => { S.checks = new Map(snap.docs.map(d => [d.id, d.data()])); overlay(); scheduleRender(); }, err('india_checks'));
+  db.collection('company_sizes').onSnapshot(snap => { S.sizes = new Map(snap.docs.map(d => [d.id, d.data()])); scheduleRender(); if (S.drawer) renderDrawer(false); }, err('company_sizes'));
   db.collection('company_links').onSnapshot(snap => { S.links = new Map(snap.docs.map(d => [d.id, d.data()])); scheduleRender(); if (S.drawer) renderDrawer(false); }, err('company_links'));
   db.collection('contacts').onSnapshot(snap => { S.contacts = new Map(snap.docs.map(d => [d.id, d.data()])); scheduleRender(); }, err('contacts'));
   db.collection('salary_benchmarks').onSnapshot(snap => { S.benchmarks = new Map(snap.docs.map(d => [d.id, d.data()])); scheduleRender(); }, err('benchmarks'));
@@ -1184,7 +1307,7 @@ function subscribePrivate(db, uid) {
   for (const t of ['game', 'software']) wsRef('profile_' + t).onSnapshot(s => { S.ws.profiles = { ...S.ws.profiles, [t]: s.exists ? s.data() : null }; scheduleRender(); }, err);
   wsRef('settings').onSnapshot(s => { S.ws.settings = s.exists ? s.data() : null; if (S.ws.settings?.theme && !lsGet('theme', null)) applyTheme(S.ws.settings.theme); scheduleRender(); }, err);
   const mapSub = (name, key) => wsCol(name).onSnapshot(s => { S.ws[key] = new Map(s.docs.map(d => [d.id, d.data()])); scheduleRender(); }, err);
-  mapSub('applications', 'apps'); mapSub('searches', 'searches'); mapSub('watchlist', 'watch'); mapSub('saved_contacts', 'saved'); mapSub('analyses', 'analyses'); mapSub('outreach', 'outreach'); mapSub('finds', 'finds'); mapSub('people', 'people');
+  mapSub('applications', 'apps'); mapSub('marks', 'marks'); mapSub('searches', 'searches'); mapSub('watchlist', 'watch'); mapSub('saved_contacts', 'saved'); mapSub('analyses', 'analyses'); mapSub('outreach', 'outreach'); mapSub('finds', 'finds'); mapSub('people', 'people');
 }
 function requireWs() {
   if (!S.caps.db || !S.uid) { toast('Sign in to Claude and open this page there to save your workspace'); return false; }
@@ -1242,7 +1365,7 @@ async function patchApp(id, patch, msg) {
    Routing & render plumbing
    ================================================================ */
 const VIEWS = [
-  ['overview', 'Overview', 'i-home', 'Discover'], ['explorer', 'Roles', 'i-jobs', 'Discover'], ['companies', 'Companies', 'i-co', 'Discover'],
+  ['overview', 'Overview', 'i-home', 'Discover'], ['trends', 'Hiring trends', 'i-trend', 'Discover'], ['explorer', 'Roles', 'i-jobs', 'Discover'], ['companies', 'Companies', 'i-co', 'Discover'],
   ['people', 'People', 'i-people', 'Discover'], ['tracker', 'Tracker', 'i-track', 'Pipeline'], ['monitor', 'Monitor & alerts', 'i-radar', 'Pipeline'], ['profile', 'Resumes & matching', 'i-user', 'You'],
 ];
 function route() { const h = (location.hash || '').slice(1); S.view = VIEWS.some(v => v[0] === h) ? h : 'overview'; }
@@ -1264,7 +1387,8 @@ function renderNav() {
   renderSections();
   const counts = { explorer: S.loaded.jobs ? [...S.jobs.values()].filter(j => matchFilters(j, DEFAULT_FILTERS())).length : '', tracker: S.ws.apps.size || '', people: [...S.contacts.values()].filter(c => c.named).length || '', companies: S.companies.size || '' };
   const u = unread(); let g = '';
-  $('#nav').innerHTML = VIEWS.map(([id, label, icon, grp]) => { const h = grp !== g ? `<div class="grp">${grp}</div>` : ''; g = grp; return h + `<a href="#${id}" ${S.view === id ? 'aria-current="page"' : ''}>${ico(icon, 16)}<span>${label}</span>${id === 'monitor' && u ? `<span class="dot">${u > 99 ? '99+' : u}</span>` : counts[id] ? `<span class="count">${counts[id]}</span>` : ''}</a>`; }).join('');
+  $('#nav').innerHTML = VIEWS.map(([id, label, icon, grp]) => { const h = grp !== g ? `<div class="grp">${grp}</div>` : ''; g = grp; return h + `<a href="#${id}" ${S.view === id ? 'aria-current="page"' : ''} ${id === 'trends' ? 'class="hl"' : ''}>${ico(icon, 16)}<span>${label}</span>${id === 'trends' && !lsGet('trendsSeen', false) ? '<span class="nnew">New</span>' : id === 'monitor' && u ? `<span class="dot">${u > 99 ? '99+' : u}</span>` : counts[id] ? `<span class="count">${counts[id]}</span>` : ''}</a>`; }).join('');
+  { const tb = $('#trendsBtn'); if (tb) { if (S.view === 'trends') tb.setAttribute('aria-current', 'page'); else tb.removeAttribute('aria-current'); if (lsGet('trendsSeen', false)) tb.querySelector('.gnew')?.remove(); } }
   const mob = [['overview', 'Home', 'i-home'], ['explorer', 'Roles', 'i-jobs'], ['companies', 'Companies', 'i-co'], ['tracker', 'Tracker', 'i-track'], ['monitor', 'Monitor', 'i-radar']];
   $('#bottomNav').innerHTML = mob.map(([id, label, icon]) => `<a href="#${id}" ${S.view === id || (id === 'monitor' && S.view === 'profile') || (id === 'companies' && S.view === 'people') ? 'aria-current="page"' : ''}>${ico(icon, 18)}<span>${label}</span></a>`).join('');
   const bell = $('#bellBtn');
@@ -1276,11 +1400,12 @@ function renderNav() {
   renderNotif();
 }
 function render() {
+  if (S.view === 'trends') lsSet('trendsSeen', true);
   renderNav(); renderMonitorMini();
   const v = $('#view');
   if (S.status === 'nodb') { v.innerHTML = viewNoDb(); return; }
   if (!S.loaded.jobs) { v.innerHTML = viewLoading(); return; }
-  const fn = { overview: viewOverview, explorer: viewExplorer, companies: viewCompanies, people: viewPeople, tracker: viewTracker, monitor: viewMonitor, profile: viewProfile }[S.view];
+  const fn = { overview: viewOverview, trends: viewTrends, explorer: viewExplorer, companies: viewCompanies, people: viewPeople, tracker: viewTracker, monitor: viewMonitor, profile: viewProfile }[S.view];
   const keepFocus = document.activeElement?.id; const sel = document.activeElement?.selectionStart;
   v.innerHTML = sectionSwitch('strip') + fn();
   if (keepFocus && keepFocus !== 'cmdInput') { const el = document.getElementById(keepFocus); if (el) { el.focus(); try { if (sel != null) el.setSelectionRange(sel, sel); } catch { } } }
@@ -1299,21 +1424,83 @@ function fitRing(v, lg = false) {
 }
 const statusPill = j => { const m = STATUS_META[j.status] || STATUS_META.active; const lbl = j.status === 'active' ? `Live on ${esc(String(j.source_primary).split(' (')[0])}` : m.label; return `<span class="pill ${m.cls}">${ico(m.icon, 11)}${lbl}</span>`; };
 const indiaPill = j => { const m = INDIA_META[j.india?.status]; return m ? `<span class="pill ${m.cls}" title="${esc(j.india?.reason || m.long)}">${m.label}</span>` : ''; };
+/* ---------- pay evidence: listed in the posting, or reported on a salary site for this employer (linked); never estimated ---------- */
+const ROLE_FAMS = [['qa', /\b(qa|q\.a\.|quality|test(?:er|ing)?|sdet|tester)\b/i]];
+const famOf = t => { for (const [k, rx] of ROLE_FAMS) if (rx.test(String(t || ''))) return k; return null; };
+const NAME_KEY = s => String(s || '').toLowerCase().replace(/\b(pvt|private|ltd|limited|llc|inc|corp|corporation|gmbh|plc|co|technologies|technology|solutions|software|services|india|labs?|studios?|games?|group|the)\b/g, '').replace(/[^a-z0-9]/g, '');
+function reportedFor(j) {
+  const s = j.salary || {};
+  if (s.state === 'reported' && safeUrl(s.source_url)) return s;
+  const fam = famOf(j.title);
+  const bs = [...S.benchmarks.values()].filter(b => b.company_slug === j.company_slug && safeUrl(b.source_url) && b.rejected !== true && !/\bEst\.|estimate/i.test(String(b.basis || '') + ' ' + String(b.quote || '')) && (b.avg != null || b.high != null || b.low != null) && famOf(b.role || b.label));
+  if (!bs.length) return null;
+  const pick = bs.find(b => famOf(b.role || b.label) === fam) || (ROLE_FAMS.length === 1 ? bs[0] : null);
+  if (!pick) return null;
+  const k = pick.period === 'month' ? 12 : 1;
+  const lo = toInr((pick.low ?? pick.avg) * k, pick.currency), hi = toInr((pick.high ?? pick.avg) * k, pick.currency);
+  if (lo == null || hi == null) return null;
+  return { state: 'reported', inr_min: Math.min(lo, hi), inr_max: Math.max(lo, hi), avg: pick.avg != null && pick.low == null, currency: pick.currency, source_url: pick.source_url, source_name: pick.source_name, label: pick.label, role: pick.role, period: pick.period || 'year', retrieved_at: pick.retrieved_at, quote: pick.quote || pick.basis, raw: pick };
+}
+const payState = j => j.salary?.state === 'verified' && j.salary.inr_max ? 'verified' : reportedFor(j) ? 'reported' : 'unavailable';
+function paySourceUrl(j) { return j.salary?.state === 'verified' ? (j.salary.source_url || j.url || '') : reportedFor(j)?.source_url || ''; }
 function payCell(j) {
   const s = j.salary || {};
-  if (s.state === 'verified') {
+  if (s.state === 'verified' && s.inr_max) {
     const note = s.applies_india === true ? 'Listed in posting' : s.applies_india === 'unconfirmed' ? `Listed in ${esc(s.currency)} · confirm for India` : 'Listed for another country';
     const short = s.applies_india === true ? 'Listed in posting' : s.applies_india === 'unconfirmed' ? `${esc(s.currency)} · confirm for India` : 'Another country’s range';
     return `<div class="pay"><b>${lpa(s.inr_min)}–${lpa(s.inr_max)}</b><small title="${note}">${short}</small></div>`;
   }
-  if (s.state === 'estimate' && s.estimate) {
-    const e = s.estimate; const ev = (e.evidence || [])[0] || '';
-    const lbl = ev.startsWith('mi-dataset') ? 'Global remote benchmark' : ev.startsWith('ab-') || ev.startsWith('ps-') ? 'India market average' : 'Benchmark';
-    const short = lbl === 'Global remote benchmark' ? 'Est. · global remote' : lbl === 'India market average' ? 'Est. · India market' : 'Estimate';
-    return `<div class="pay est"><b>~${lpa(e.inr_low)}–${lpa(e.inr_high)}</b><small title="${lbl} · pay not disclosed by the employer">${short}</small></div>`;
-  }
-  return `<div class="pay est"><b>Not disclosed</b><small>${s.context_benchmark ? 'Global pay context only' : 'No evidence yet'}</small></div>`;
+  const r = reportedFor(j);
+  if (r) return `<div class="pay rep"><b>${r.avg ? `${lpa(r.inr_max)} avg` : `${lpa(r.inr_min)}–${lpa(r.inr_max)}`}</b><small title="Reported on ${esc(r.source_name)} for ${esc(r.label || r.role || '')}. Not in the posting.">Reported · ${esc(r.source_name)}</small></div>`;
+  return `<div class="pay est"><b>Undisclosed</b><small title="Not in the posting, and no public salary figure for this employer and role was found">No public figure</small></div>`;
 }
+/* ---------- company size (LinkedIn or another published profile, linked) ---------- */
+const SIZE_BANDS = [['Startup', 50, '1–50'], ['Small', 200, '51–200'], ['Mid-size', 1000, '201–1,000'], ['Large', 10000, '1,001–10,000'], ['Enterprise', Infinity, '10,001+']];
+function sizeOf(slug) {
+  const d = S.sizes.get(slug); if (!d || !safeUrl(d.source_url)) return null;
+  const n = d.min ?? d.employees; if (n == null) return null;
+  const members = d.basis === 'LinkedIn members';
+  if (members && n <= 200) return null;   // a member count only sets a floor; too low to place the company in a band
+  const band = SIZE_BANDS.find(([, mx]) => n <= mx)[0];
+  return { ...d, band, rangeLabel: d.range ? String(d.range).replace(/-/g, '–') : d.employees != null ? `${Number(d.employees).toLocaleString('en-IN')}${members ? '+' : ''}` : '' };
+}
+const sizeBand = slug => sizeOf(slug)?.band || null;
+function sizeTag(slug) { const z = sizeOf(slug); return z ? `<span class="szt" title="${esc(z.rangeLabel)} employees · ${esc(z.source_name)}">${esc(z.band)}</span>` : ''; }
+function sizeHtml(slug) {
+  const z = sizeOf(slug);
+  if (!z) return '<span class="muted">Not published anywhere we checked</span>';
+  return `<span class="pill plain">${esc(z.band)}</span> <b class="num">${esc(z.rangeLabel)}</b> employees${z.basis === 'LinkedIn members' ? ' <span class="muted">(LinkedIn members)</span>' : ''} · <a href="${esc(z.source_url)}" target="_blank" rel="noopener">${esc(z.source_name)}</a>${z.quote ? `<div class="q small">“${esc(String(z.quote).slice(0, 180))}”</div>` : ''}`;
+}
+/* ---------- star and remove (private to you) ---------- */
+const STAR_SVG = '<svg width="15" height="15" viewBox="0 0 16 16" aria-hidden="true"><use href="#i-star"/></svg>';
+const mark = id => S.ws.marks.get(id) || null;
+const isStar = id => !!mark(id)?.star;
+const isHidden = id => !!mark(id)?.hidden;
+const starBtn = j => `<button class="mk star ${S.lastStar === j.id ? 'pop' : ''}" data-act="star" data-id="${esc(j.id)}" aria-pressed="${isStar(j.id)}" aria-label="${isStar(j.id) ? 'Remove star' : 'Star as favourite'}" title="${isStar(j.id) ? 'Starred · click to unstar' : 'Star as favourite'}">${STAR_SVG}</button>`;
+const hideBtn = j => `<button class="mk hide" data-act="${isHidden(j.id) ? 'unhide' : 'hide'}" data-id="${esc(j.id)}" aria-label="${isHidden(j.id) ? 'Restore to list' : 'Remove from list'}" title="${isHidden(j.id) ? 'Restore to the list' : 'Remove from the list (undo anytime under Removed)'}">${ico(isHidden(j.id) ? 'i-refresh' : 'i-hide', 14)}</button>`;
+async function setMark(id, patch, msg) {
+  if (!requireWs()) return;
+  const j = S.jobs.get(id); const cur = mark(id) || {};
+  const next = { ...cur, ...patch, job_id: id, title: j?.title || cur.title || '', company: j?.company || cur.company || '', updated_at: new Date().toISOString() };
+  const empty = !next.star && !next.hidden;
+  if (empty) S.ws.marks.delete(id); else S.ws.marks.set(id, next);
+  if (patch.star && !reduceMotion()) { S.lastStar = id; setTimeout(() => { if (S.lastStar === id) { S.lastStar = null; } }, 500); }
+  scheduleRender(); if (S.drawer && S.drawer.id === id) renderDrawer(false);
+  try { const ref = wsCol('marks').doc(id); if (empty) await ref.delete(); else await ref.set(next); if (msg) toast(msg, 6000); }
+  catch { toast('Could not save. Try again in a moment'); }
+}
+function marksSeg() {
+  const all = [...S.ws.marks.values()].filter(m => S.jobs.has(m.job_id) && (typeof inTrack !== 'function' || inTrack(S.jobs.get(m.job_id))));
+  const ns = all.filter(m => m.star && !m.hidden).length, nh = all.filter(m => m.hidden).length;
+  return `<div class="seg mseg" role="group" aria-label="Show"><button data-act="marks-view" data-v="all" aria-pressed="${S.marksView === 'all'}">All</button><button data-act="marks-view" data-v="starred" aria-pressed="${S.marksView === 'starred'}">${STAR_SVG}<span>Starred</span> <b class="num">${ns}</b></button><button data-act="marks-view" data-v="removed" aria-pressed="${S.marksView === 'removed'}"><span>Removed</span> <b class="num">${nh}</b></button></div>`;
+}
+function compFromPay(j, base) {
+  const st = payState(j);
+  if (st === 'verified') return base;
+  if (st === 'reported') { const [, hi] = payRange(j); return hi == null ? 60 : hi >= 7e5 ? 84 : hi >= 5e5 ? 76 : hi >= 3.5e5 ? 68 : 56; }
+  return 60;
+}
+const potKey = j => payState(j) === 'verified' ? (j.comp_potential || 'listed') : payState(j) === 'reported' ? 'reported' : 'unknown';
 function ageCell(j) {
   if (j.posted_at) return `<div class="age">${j.date_quality === 'estimated' ? '≈ ' : ''}${ago(j.posted_at, '')}${j.date_quality === 'approx' ? '<span class="muted">~</span>' : ''}<small title="${j.date_quality === 'estimated' ? esc(j.date_note || 'Estimated from the LinkedIn job ID') : j.date_quality === 'exact-id' ? 'Exact, read from the LinkedIn post ID' : j.date_quality === 'approx' ? 'Approximate, from the search listing' : 'Date published by the source'}">${j.repost ? 'reposted' : j.date_quality === 'estimated' ? 'estimated' : 'posted'}</small></div>`;
   return `<div class="age">${ago(j.first_seen, '')}<small title="The source does not publish a date; this is when the monitor first found it">first seen</small></div>`;
@@ -1324,7 +1511,7 @@ function whereCell(j) {
   return `<div class="where">${wm}<small title="${esc(j.location || '')}">${esc(loc || '—')}</small></div>`;
 }
 const kfBtn = j => `<button class="kf ${S.lastPop === j.id ? 'pop' : ''}" data-act="save" data-id="${esc(j.id)}" aria-pressed="${isSaved(j.id)}" aria-label="${isSaved(j.id) ? 'Remove from saved' : 'Save to tracker'}" title="${isSaved(j.id) ? `In tracker · ${STAGE_LABEL[app(j.id)?.stage] || 'Saved'}` : 'Save (set a keyframe)'}"><svg width="16" height="16" viewBox="0 0 16 16"><use href="#i-kf"/></svg></button>`;
-function companyLine(j) { const c = companyOf(j); return `${esc(c.category || j.category)} · ${c.tier === 1 ? 'Tier 1' : c.tier === 2 ? 'Tier 2' : 'Other'}`; }
+function companyLine(j) { const c = companyOf(j); const z = sizeOf(j.company_slug); return `${esc(c.category || j.category)} · ${c.tier === 1 ? 'Tier 1' : c.tier === 2 ? 'Tier 2' : 'Other'}${z ? ` · ${esc(z.band)}` : ''}`; }
 
 /* ================================================================
    Views
@@ -1384,6 +1571,7 @@ function viewOverview() {
   ${head(`${new Date().toLocaleDateString('en-IN', { weekday: 'long', day: 'numeric', month: 'long' })} · ${TRACK_LABEL[S.track]} · ${all.length} roles tracked`, `Good ${greet()}, <em class="ser">${first}</em>.`,
     `${open.length} open ${lensP} fit your lens: entry-to-mid testing work from the last 30 days, with Mumbai first, then remote and the rest of India.${hidden ? ` ${hidden} more are hidden because the employer has not shown it hires from India.` : ''}`,
     `<a class="btn" href="#profile">${ico('i-user')} Resumes & matching</a><a class="btn primary" href="#explorer">${ico('i-jobs')} Explore roles</a>`, 'hero')}
+  ${trendsBanner()}
   ${S.track === 'all' ? sectionCards() : ''}
   <div class="kpis">
     ${kpi('New this week', wk.length, 'Posted in the last 7 days', ['go-filter', 'days7'])}
@@ -1460,7 +1648,7 @@ function groupCount(rows, key) { const m = new Map(); for (const r of rows) { co
 function hbars(pairs, kind) { const mx = Math.max(1, ...pairs.map(p => p[1])); return pairs.slice(0, 8).map(([k, n]) => `<div class="hbar" ${kind ? `data-act="hbar" data-kind="${kind}" data-v="${esc(k)}" role="button" tabindex="0"` : ''}><span class="lb" title="${esc(k)}">${esc(k)}</span><span class="tr"><i style="width:${(n / mx * 100).toFixed(0)}%"></i></span><span class="n">${n}</span></div>`).join(''); }
 function emptyBox(t, p) { return `<div class="empty"><h3>${esc(t)}</h3><p>${esc(p)}</p></div>`; }
 function listRow(j, f = fitOf(j), compact = false) {
-  return `<div class="lrow" data-act="open" data-id="${esc(j.id)}" role="button" tabindex="0">${monogram(j.company)}<div class="role"><b>${esc(j.title)}</b><small><span>${esc(j.company)}</span><span>·</span><span>${{ remote: 'Remote', hybrid: 'Hybrid', onsite: 'On-site', unspecified: 'Not stated' }[j.work_mode]}</span><span>·</span><span>${postedLabel(j)}</span>${S.track === 'all' ? trackTag(j.track) : ''}${indiaPill(j)}</small></div>${compact ? '' : `<div class="hide-sm">${payCell(j)}</div>`}${fitRing(f)}</div>`;
+  return `<div class="lrow" data-act="open" data-id="${esc(j.id)}" role="button" tabindex="0">${monogram(j.company)}<div class="role"><b>${isStar(j.id) ? `<span class=\"stg\" title=\"Starred\">${STAR_SVG}</span>` : ''}${esc(j.title)}</b><small><span>${esc(j.company)}</span><span>·</span><span>${{ remote: 'Remote', hybrid: 'Hybrid', onsite: 'On-site', unspecified: 'Not stated' }[j.work_mode]}</span><span>·</span><span>${postedLabel(j)}</span>${S.track === 'all' ? trackTag(j.track) : ''}${indiaPill(j)}</small></div>${compact ? '' : `<div class="hide-sm">${payCell(j)}</div>`}${fitRing(f)}</div>`;
 }
 function alertRow(a) {
   const j = S.jobs.get(a.job_id); const un = isUnread(a);
@@ -1508,7 +1696,7 @@ function viewExplorer() {
     <div class="fbar">${filterBar()}</div>
     <div class="chips">${activeChips()}</div>
     <div class="results-bar">
-      <div class="left"><h2 class="num">${rows.length} role${rows.length === 1 ? '' : 's'}</h2>${hiddenUnconf ? `<button class="btn sm ghost" data-act="show-unconf">+${hiddenUnconf} where India eligibility is unconfirmed</button>` : ''}</div>
+      <div class="left">${marksSeg()}<h2 class="num">${rows.length} ${S.marksView === 'removed' ? 'removed ' : S.marksView === 'starred' ? 'starred ' : ''}role${rows.length === 1 ? '' : 's'}</h2>${hiddenUnconf ? `<button class="btn sm ghost" data-act="show-unconf">+${hiddenUnconf} where India eligibility is unconfirmed</button>` : ''}</div>
       <div class="dr-actions">
         <label class="sr" for="sortSel">Sort</label><select id="sortSel" class="select" style="width:auto;height:32px;padding-block:0;border-radius:999px" data-change="sort">${SORTS.map(([k, l]) => `<option value="${k}" ${S.sort === k ? 'selected' : ''}>${l}</option>`).join('')}</select>
         <div class="seg hide-sm" role="group" aria-label="Layout"><button data-act="layout" data-v="table" aria-pressed="${S.layout === 'table'}">Table</button><button data-act="layout" data-v="cards" aria-pressed="${S.layout === 'cards'}">Cards</button></div>
@@ -1534,7 +1722,8 @@ function filterOpts(key) {
     tiers: [['1', 'Tier 1 · product, game studio, fintech'], ['2', 'Tier 2 · QA & IT services'], ['3', 'Other employers & recruiters']],
     cats: cats.map(c => [c, c]),
     comp: Object.keys(BANDS).map(b => [b, BAND_LABEL[b]]),
-    compState: [['verified', 'Listed in posting'], ['estimate', 'Benchmark estimate'], ['unavailable', 'No evidence']],
+    compState: [['verified', 'Listed in the posting'], ['reported', 'Reported on a salary site (linked)'], ['unavailable', 'Undisclosed']],
+    csize: [['Startup', 'Startup · 1–50'], ['Small', 'Small · 51–200'], ['Mid-size', 'Mid-size · 201–1,000'], ['Large', 'Large · 1,001–10,000'], ['Enterprise', 'Enterprise · 10,001+'], ['unknown', 'Size not published']],
     seniority: [...new Set(Object.values(SEN_GROUP))].map(s => [s, s]),
     employment: [['full-time', 'Full-time'], ['contract', 'Contract'], ['freelance', 'Freelance'], ['part-time', 'Part-time']],
     specs: SPECS.map(s => [s, s]),
@@ -1543,7 +1732,7 @@ function filterOpts(key) {
 }
 function checkList(key) {
   const f = S.filters;
-  return filterOpts(key).map(([v, l]) => `<label class="check"><input type="checkbox" data-filter="${key}" value="${esc(v)}" ${f[key].includes(v) ? 'checked' : ''}><span>${esc(l)}</span><span class="c">${countWith(key, v)}</span></label>`).join('');
+  return filterOpts(key).map(([v, l]) => `<label class="check"><input type="checkbox" data-filter="${key}" value="${esc(v)}" ${(f[key] || []).includes(v) ? 'checked' : ''}><span>${esc(l)}</span><span class="c">${countWith(key, v)}</span></label>`).join('');
 }
 function filterBar() {
   const f = S.filters; const d = DEFAULT_FILTERS();
@@ -1561,17 +1750,17 @@ function filterBar() {
     return checkList(k) + hint;
   };
   const pills = FPILLS.map(([k, l]) => `<div class="fpw"><button class="fpill ${on(k) ? 'on' : ''}" data-act="pop" data-v="${k}" aria-expanded="${S.pop === k}" aria-haspopup="true">${l}: <b>${esc(summary(k))}</b><svg class="chev" width="11" height="11" aria-hidden="true"><use href="#i-chev"/></svg></button>${S.pop === k ? `<div class="pop" role="dialog" aria-label="${l}"><div class="ph"><span>${l}</span>${k !== 'days' && k !== 'minFit' ? `<button class="btn sm ghost" data-act="pop-clear" data-v="${k}" style="height:22px;padding:0 6px">Clear</button>` : ''}</div>${body(k)}</div>` : ''}</div>`).join('');
-  const extra = ['status', 'cats', 'cohire', 'comp', 'compState', 'employment', 'specs', 'recruit'].reduce((n, k) => n + (on(k) ? 1 : 0), 0) + (f.payListed ? 1 : 0);
+  const extra = ['csize', 'status', 'cats', 'cohire', 'comp', 'compState', 'employment', 'specs', 'recruit'].reduce((n, k) => n + (on(k) ? 1 : 0), 0) + (f.payListed ? 1 : 0);
   return pills + `<button class="fpill ${extra ? 'on' : ''}" data-act="filters-open">${ico('i-filter', 13)} All filters${extra ? ` <b>${extra}</b>` : ''}</button>${JSON.stringify(f) !== JSON.stringify(d) ? `<button class="btn sm ghost" data-act="reset-filters">Reset</button>` : ''}`;
 }
 function tableView(rows, fitCache) {
-  return `<div class="tbl-wrap"><table class="jobs ${S.density === 'dense' ? 'dense' : ''}"><thead><tr><th class="c-act" style="width:50px"><span class="sr">Save</span></th><th>Role</th><th style="width:168px">Open to India</th><th style="width:128px">Arrangement</th><th style="width:156px">Pay</th><th class="c-fit" style="width:70px">Fit</th><th style="width:88px">Age</th><th style="width:150px">Verification</th><th class="c-act" style="width:50px"><span class="sr">Compare</span></th></tr></thead><tbody>
-  ${rows.map(j => `<tr data-act="open" data-id="${esc(j.id)}" class="${S.drawer?.id === j.id ? 'sel' : ''} ${isOpen(j) ? '' : 'closed'}" tabindex="0">
-    <td class="c-act">${kfBtn(j)}</td>
+  return `<div class="tbl-wrap"><table class="jobs ${S.density === 'dense' ? 'dense' : ''}"><thead><tr><th class="c-act" style="width:84px"><span class="sr">Star and save</span></th><th>Role</th><th style="width:168px">Open to India</th><th style="width:128px">Arrangement</th><th style="width:156px">Pay</th><th class="c-fit" style="width:70px">Fit</th><th style="width:88px">Age</th><th style="width:150px">Verification</th><th class="c-act" style="width:84px"><span class="sr">Compare and remove</span></th></tr></thead><tbody>
+  ${rows.map(j => `<tr data-act="open" data-id="${esc(j.id)}" class="${S.drawer?.id === j.id ? 'sel' : ''} ${isOpen(j) ? '' : 'closed'} ${isStar(j.id) ? 'starred' : ''}" tabindex="0">
+    <td class="c-act"><div class="c-mk">${starBtn(j)}${kfBtn(j)}</div></td>
     <td><div class="rc">${monogram(j.company)}<div class="role"><b>${esc(j.title)}</b><div class="co-l" title="${esc(j.company)} · ${esc(companyOf(j).category || j.category || '')}"><span style="color:var(--fg-2);font-weight:550">${esc(j.company)}</span> · ${companyLine(j)}</div><small>${KIND_LABEL[j.kind] ? `<span class="tag kt">${S.track === 'all' ? `<i class="sd ${j.track}" title="${TRACK_LABEL[j.track] || ''}"></i>` : ''}${KIND_LABEL[j.kind]}</span>` : ''}${j.employment !== 'full-time' ? `<span class="tag">${esc(j.employment)}</span>` : ''}${(j.specializations || []).slice(0, S.track === 'all' ? 0 : 1).map(s => `<span class="tag">${esc(s)}</span>`).join('')}</small></div></div></td>
     <td>${eligCell(j)}</td><td>${whereCell(j)}</td><td>${payCell(j)}</td><td class="c-fit">${fitRing(fitCache.get(j.id))}</td><td>${ageCell(j)}</td>
     <td>${verifCell(j)}</td>
-    <td class="c-act"><button class="btn sm ghost icon" data-act="compare" data-id="${esc(j.id)}" aria-pressed="${S.compare.has(j.id)}" title="${S.compare.has(j.id) ? 'Remove from compare' : 'Add to compare'}" style="${S.compare.has(j.id) ? 'color:var(--accent-text);background:var(--accent-tint)' : ''}">${ico('i-compare')}</button></td>
+    <td class="c-act" style="white-space:nowrap"><button class="btn sm ghost icon" data-act="compare" data-id="${esc(j.id)}" aria-pressed="${S.compare.has(j.id)}" title="${S.compare.has(j.id) ? 'Remove from compare' : 'Add to compare'}" style="${S.compare.has(j.id) ? 'color:var(--accent-text);background:var(--accent-tint)' : ''}">${ico('i-compare')}</button>${hideBtn(j)}</td>
   </tr>`).join('')}</tbody></table></div>`;
 }
 function verifCell(j) {
@@ -1596,11 +1785,11 @@ function eligCell(j) {
   return `<div class="elig">${m ? `<span><span class="pill ${m.cls}" title="${esc(j.india?.reason || m.long)}">${m.label}</span></span>` : ''}${v ? `<span class="co" title="${esc(companyCheck(j.company_slug).summary || '')}"><i class="vglyph ${v}"></i>${VERDICT_META[v]?.short}</span>` : ''}</div>`;
 }
 function cardsView(rows, fitCache) {
-  return `<div class="cards">${rows.map(j => `<article class="jcard ${isOpen(j) ? '' : 'closed'}" data-act="open" data-id="${esc(j.id)}" tabindex="0">
+  return `<div class="cards">${rows.map(j => `<article class="jcard ${isOpen(j) ? '' : 'closed'} ${isStar(j.id) ? 'starred' : ''}" data-act="open" data-id="${esc(j.id)}" tabindex="0">
     <div class="top">${monogram(j.company)}<div class="role"><b>${esc(j.title)}</b><small><span>${esc(j.company)}</span><span>· ${companyLine(j)}</span></small></div>${fitRing(fitCache.get(j.id))}</div>
     <div class="meta">${S.track === 'all' ? trackTag(j.track) : ''}${indiaPill(j)}${j.india?.company && j.india.status !== 'confirmed' ? verdictBadge(j.india.company, true) : ''}<span class="pill plain">${{ remote: 'Remote', hybrid: 'Hybrid', onsite: 'On-site', unspecified: 'Not stated' }[j.work_mode]}</span>${statusPill(j)}${j.employment !== 'full-time' ? `<span class="pill outline">${esc(j.employment)}</span>` : ''}</div>
     ${S.density === 'dense' ? '' : `<p class="sn">${esc(j.snippet || (j.why || [])[0] || '')}</p>`}
-    <div class="foot">${payCell(j)}${ageCell(j)}<div style="display:flex;gap:2px">${kfBtn(j)}<button class="btn sm ghost icon" data-act="compare" data-id="${esc(j.id)}" aria-pressed="${S.compare.has(j.id)}" title="Compare">${ico('i-compare')}</button></div></div>
+    <div class="foot">${payCell(j)}${ageCell(j)}<div style="display:flex;gap:2px">${starBtn(j)}${kfBtn(j)}<button class="btn sm ghost icon" data-act="compare" data-id="${esc(j.id)}" aria-pressed="${S.compare.has(j.id)}" title="Compare">${ico('i-compare')}</button>${hideBtn(j)}</div></div>
   </article>`).join('')}</div>`;
 }
 function filtersPanel() {
@@ -1616,6 +1805,7 @@ function filtersPanel() {
   ${group('status', 'Listing verification', true)}
   ${group('cities', 'City (India)')}
   ${group('cats', 'Company type')}
+  ${group('csize', 'Company size', true)}
   ${group('compState', 'Pay evidence')}
   ${group('comp', 'Listed pay band')}
   ${group('seniority', 'Seniority')}
@@ -1626,11 +1816,11 @@ function filtersPanel() {
 function activeChips() {
   const f = S.filters, d = DEFAULT_FILTERS(), out = [];
   const lab = { india: INDIA_META, status: STATUS_META };
-  const name = (k, v) => k === 'india' ? INDIA_META[v]?.label : k === 'status' ? STATUS_META[v]?.label : k === 'comp' ? BAND_LABEL[v] : k === 'tiers' ? ({ 1: 'Tier 1', 2: 'Tier 2', 3: 'Other tier' }[v]) : k === 'compState' ? ({ verified: 'Listed pay', estimate: 'Estimated pay', unavailable: 'No pay evidence' }[v]) : k === 'recruit' ? ({ named: 'Named contact', manager: 'Hiring manager', email: 'Public email', multi: '2+ contacts', official: 'Official apply link' }[v]) : k === 'mode' ? ({ remote: 'Remote', hybrid: 'Hybrid', onsite: 'On-site', unspecified: 'Arrangement not stated' }[v]) : k === 'cohire' ? 'Employer: ' + (VERDICT_META[v]?.label || v).toLowerCase() : v;
+  const name = (k, v) => k === 'india' ? INDIA_META[v]?.label : k === 'status' ? STATUS_META[v]?.label : k === 'comp' ? BAND_LABEL[v] : k === 'tiers' ? ({ 1: 'Tier 1', 2: 'Tier 2', 3: 'Other tier' }[v]) : k === 'compState' ? ({ verified: 'Listed pay', reported: 'Reported pay', unavailable: 'Undisclosed pay' }[v]) : k === 'csize' ? (v === 'unknown' ? 'Size not published' : v) : k === 'recruit' ? ({ named: 'Named contact', manager: 'Hiring manager', email: 'Public email', multi: '2+ contacts', official: 'Official apply link' }[v]) : k === 'mode' ? ({ remote: 'Remote', hybrid: 'Hybrid', onsite: 'On-site', unspecified: 'Arrangement not stated' }[v]) : k === 'cohire' ? 'Employer: ' + (VERDICT_META[v]?.label || v).toLowerCase() : v;
   out.push(`<span class="chip"><span>Posted</span><b>${`≤ ${Math.min(f.days, MAX_DAYS) === 1 ? '24h' : Math.min(f.days, MAX_DAYS) + 'd'}`}</b>${f.days !== 30 ? `<button data-act="chip-x" data-k="days" aria-label="Reset freshness">${ico('i-x', 10)}</button>` : ''}</span>`);
-  for (const k of ['india', 'cohire', 'status', 'mode', 'cities', 'tiers', 'cats', 'comp', 'compState', 'seniority', 'employment', 'specs', 'recruit']) {
+  for (const k of ['india', 'cohire', 'status', 'mode', 'cities', 'tiers', 'cats', 'csize', 'comp', 'compState', 'seniority', 'employment', 'specs', 'recruit']) {
+    if (!(f[k] || []).length) continue;
     const same = JSON.stringify([...f[k]].sort()) === JSON.stringify([...d[k]].sort());
-    if (!f[k].length) continue;
     if (same && (k === 'india' || k === 'status')) { out.push(`<span class="chip"><span>${k === 'india' ? 'This role' : 'Listings'}</span><b>${f[k].map(v => name(k, v)).join(' + ')}</b></span>`); continue; }
     for (const v of f[k]) out.push(`<span class="chip ${S.nl?.keys?.includes(k) ? 'ai' : ''}"><b>${esc(name(k, v))}</b><button data-act="chip-x" data-k="${k}" data-v="${esc(v)}" aria-label="Remove ${esc(name(k, v))}">${ico('i-x', 10)}</button></span>`);
   }
@@ -1662,10 +1852,10 @@ function viewCompanies() {
   </div>
   ${innerWidth < 760 ? `<section class="panel"><div class="panel-b"><div class="list-rows">${list.length ? list.map(({ c, jobs, chk }) => `<div class="lrow" data-act="open-company" data-id="${esc(c.slug)}" role="button" tabindex="0" style="grid-template-columns:auto minmax(0,1fr)">${monogram(c.name)}<div class="role"><b>${esc(c.name)}</b><small><span>${jobs.length} open role${jobs.length === 1 ? '' : 's'} · ${c.tier === 1 ? 'Tier 1' : c.tier === 2 ? 'Tier 2' : 'Other'}</span></small><span style="margin-top:4px">${verdictBadge(chk.verdict, true)}</span><span style="font-size:12px;color:var(--mute);margin-top:2px">${esc(chk.summary || VERDICT_META[chk.verdict].long)}</span></div></div>`).join('') : emptyBox('No companies here', 'Try another tab or clear the search.')}</div></div></section>` : `<div class="tbl-wrap"><table class="jobs" style="min-width:980px"><thead><tr><th style="width:30%">Company</th><th style="width:170px">Hires from India</th><th>Evidence</th><th style="width:96px">Open roles</th><th style="width:72px">Best fit</th><th style="width:140px">Pay evidence</th></tr></thead><tbody>
   ${list.length ? list.map(({ c, jobs, chk }) => { const best = jobs.length ? Math.max(...jobs.map(j => fitOf(j))) : null; const pay = jobs.find(j => j.salary?.state === 'verified');
-    return `<tr data-act="open-company" data-id="${esc(c.slug)}" tabindex="0"><td><div class="co">${monogram(c.name)}<div class="nm"><b>${esc(c.name)}</b><span>${c.tier === 1 ? 'Tier 1' : c.tier === 2 ? 'Tier 2' : 'Other'} · ${esc(c.category || '—')}${c.hq ? ` · ${esc(c.hq)}` : ''}</span></div></div></td>
+    return `<tr data-act="open-company" data-id="${esc(c.slug)}" tabindex="0"><td><div class="co">${monogram(c.name)}<div class="nm"><b>${esc(c.name)}</b><span>${c.tier === 1 ? 'Tier 1' : c.tier === 2 ? 'Tier 2' : 'Other'}${sizeOf(c.slug) ? ` · ${esc(sizeOf(c.slug).band)} (${esc(sizeOf(c.slug).rangeLabel)})` : ''} · ${esc(c.category || '—')}${c.hq ? ` · ${esc(c.hq)}` : ''}</span></div></div></td>
     <td>${verdictBadge(chk.verdict)}${chk.source === 'app' ? '<div class="muted" style="font-size:11px;margin-top:4px">from your web check</div>' : ''}</td>
     <td style="max-width:380px"><span style="font-size:12.5px;color:var(--fg-2);display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden">${esc(chk.summary || VERDICT_META[chk.verdict].long)}</span>${chk.board ? `<div class="boardline" style="margin-top:4px"><span>${esc(chk.board.type)} board</span><span><b>${chk.board.total}</b> roles</span><span><b>${chk.board.india}</b> in India</span></div>` : ''}</td>
-    <td class="num">${jobs.length}</td><td>${best != null ? fitRing(best) : '—'}</td><td>${pay ? `<span class="pill good">Listed ${lpa(pay.salary.inr_max)}</span>` : jobs.some(j => j.salary?.state === 'estimate') ? '<span class="pill plain">Benchmark only</span>' : '<span class="muted">None</span>'}</td></tr>`; }).join('') : `<tr><td colspan="6">${emptyBox('No companies here', 'Try another tab or clear the search.')}</td></tr>`}
+    <td class="num">${jobs.length}</td><td>${best != null ? fitRing(best) : '—'}</td><td>${pay ? `<span class="pill good">Listed ${lpa(pay.salary.inr_max)}</span>` : jobs.some(j => payState(j) === 'reported') ? `<span class="pill plain" title="Reported on a salary site for this employer">Reported ${lpa(Math.max(...jobs.map(j => payRange(j)[1] || 0)))}</span>` : '<span class="muted">Undisclosed</span>'}</td></tr>`; }).join('') : `<tr><td colspan="6">${emptyBox('No companies here', 'Try another tab or clear the search.')}</td></tr>`}
   </tbody></table></div>`}`;
 }
 /* ---------- People ---------- */
@@ -1840,7 +2030,7 @@ function renderDrawer(first) {
       <div class="dr-bar"><div class="dr-meta">${statusPill(j)}${m ? `<span class="pill ${m.cls}" title="${esc(j.india?.reason || '')}">${m.label}</span>` : ''}${chk.verdict !== 'none' && j.india?.status !== 'confirmed' ? verdictBadge(chk.verdict, true) : ''}<span class="dm-age">${postedLabel(j)}</span></div>
         <div class="dr-actions">${applyHref ? `<a class="btn primary" href="${esc(applyHref)}" target="_blank" rel="noopener">${ico('i-shield')} Apply on official site ${ico('i-ext', 12)}</a>` : listing ? `<a class="btn primary" href="${esc(listing)}" target="_blank" rel="noopener">View listing on ${esc(String(j.source_primary).replace(' (via search index)', ''))} ${ico('i-ext', 12)}</a>` : ''}
         <button class="btn" data-act="save" data-id="${esc(j.id)}" aria-pressed="${isSaved(j.id)}"><svg width="14" height="14" viewBox="0 0 16 16" aria-hidden="true" class="kfi ${isSaved(j.id) ? 'on' : ''}"><use href="#i-kf"/></svg>${isSaved(j.id) ? `In tracker · ${esc(STAGE_LABEL[app(j.id)?.stage] || 'Saved')}` : 'Save'}</button>
-        <button class="btn ghost" data-act="compare" data-id="${esc(j.id)}" aria-pressed="${S.compare.has(j.id)}" aria-label="${S.compare.has(j.id) ? 'In compare' : 'Compare'}">${ico('i-compare')}<span class="lbl">${S.compare.has(j.id) ? 'In compare' : 'Compare'}</span></button></div></div>
+        <button class="btn ghost" data-act="compare" data-id="${esc(j.id)}" aria-pressed="${S.compare.has(j.id)}" aria-label="${S.compare.has(j.id) ? 'In compare' : 'Compare'}">${ico('i-compare')}<span class="lbl">${S.compare.has(j.id) ? 'In compare' : 'Compare'}</span></button><button class="btn ghost ${isStar(j.id) ? 'starred' : ''}" data-act="star" data-id="${esc(j.id)}" aria-pressed="${isStar(j.id)}"><svg class="st" width="14" height="14" viewBox="0 0 16 16" aria-hidden="true"><use href="#i-star"/></svg><span class="lbl">${isStar(j.id) ? 'Starred' : 'Star'}</span></button><button class="btn ghost" data-act="${isHidden(j.id) ? 'unhide' : 'hide'}" data-id="${esc(j.id)}">${ico(isHidden(j.id) ? 'i-refresh' : 'i-hide')}<span class="lbl">${isHidden(j.id) ? 'Restore' : 'Remove'}</span></button></div></div>
       <div class="tabs" role="tablist" aria-label="Role details">${tabs.map(([k, l]) => `<button role="tab" id="tab-${k}" aria-selected="${d.tab === k}" data-act="tab" data-v="${k}">${l}${k === 'people' && contactsFor(j).some(c => c.email || c.phone) ? '<i class="tdot" aria-hidden="true"></i>' : ''}</button>`).join('')}</div></div>
     <div class="dr-body" id="drBody" role="tabpanel" aria-labelledby="tab-${d.tab}">${body}</div></aside>`;
   const scroll = $('#drBody')?.scrollTop || 0; const fid = $('#drawerRoot').contains(document.activeElement) ? document.activeElement.id : null;
@@ -1911,12 +2101,17 @@ function tabPay(j) {
     <div class="pc-v num">${money(s.min, s.currency)} – ${money(s.max, s.currency)} <small>${esc(s.currency)} / year${s.original_period && s.original_period !== 'annual' ? ` (from ${esc(s.original_period)})` : ''}</small></div>
     <div class="pc-s">≈ <b class="num">${lpa(s.inr_min)} – ${lpa(s.inr_max)}</b> per year in INR${s.fx_rate ? ` · 1 ${esc(s.currency)} = ₹${(+s.fx_rate).toFixed(2)}` : ''}</div>
     <div class="pc-s">${safeUrl(s.source_url) ? `<a href="${esc(s.source_url)}" target="_blank" rel="noopener">${esc(s.source_name || 'Posting')}</a>` : esc(s.source_name || '')} · verified ${ago(s.verified_at)}</div></div>`;
-  } else if (s.state === 'estimate' && s.estimate) {
-    const e = s.estimate;
-    top = `<div class="paycard warn"><div class="pc-h"><span class="pill warn">${ico('i-warn', 11)} Estimate · ${esc(e.confidence)} confidence</span><span class="pill plain">Not from the employer</span></div>
-    <div class="pc-v num">~${lpa(e.inr_low)} – ${lpa(e.inr_high)} <small>per year</small></div><div class="pc-s">${esc(e.method)}</div></div>`;
+  } else if (reportedFor(j)) {
+    const r = reportedFor(j); const raw = r.raw || {};
+    const v = raw.avg != null && raw.low == null ? money(raw.avg, raw.currency) : `${money(raw.low, raw.currency)} – ${money(raw.high, raw.currency)}`;
+    top = `<div class="paycard"><div class="pc-h"><span class="pill accent">${ico('i-shield', 11)} Reported on ${esc(r.source_name)}</span><span class="pill plain">Not in the posting</span></div>
+    <div class="pc-v num">${v} <small>${esc(raw.currency || '')} / ${r.period === 'month' ? 'month' : 'year'}${raw.avg != null && raw.low == null ? ' · average' : ''}</small></div>
+    ${raw.currency !== 'INR' || r.period === 'month' ? `<div class="pc-s">≈ <b class="num">${r.avg ? lpa(r.inr_max) : `${lpa(r.inr_min)} – ${lpa(r.inr_max)}`}</b> per year in INR</div>` : ''}
+    <div class="pc-s">For <b>${esc(r.label || r.role || '')}</b>, as published on <a href="${esc(r.source_url)}" target="_blank" rel="noopener">${esc(r.source_name)}</a>${r.retrieved_at ? ` · checked ${esc(r.retrieved_at)}` : ''}</div>
+    ${r.quote ? `<div class="q small" style="margin-top:6px">${esc(String(r.quote).replace(/^Figure quoted in the [^:]+: /, '').slice(0, 220))}</div>` : ''}
+    <div class="pc-s muted">Self-reported by employees, so it can differ from this role's offer. Use it to anchor your ask.</div></div>`;
   } else {
-    top = `<div class="paycard"><div class="pc-h"><span class="pill plain">Pay not disclosed</span></div><div class="pc-s">The employer has not published pay for this role. Ask for the range early, before an assignment.</div></div>`;
+    top = `<div class="paycard"><div class="pc-h"><span class="pill plain">Undisclosed</span></div><div class="pc-s">Not in the posting, and no public salary figure for ${esc(j.company)} and this kind of role turned up on AmbitionBox, Glassdoor, PayScale, Levels.fyi, 6figr, Indeed or Naukri. Nothing is estimated. Ask for the range early, before any assignment.</div></div>`;
   }
   const cb = companyBench(j.company_slug); const mb = marketBench(j.track);
   const fnd = S.ws.finds.get(`salary-${j.company_slug}`); const busy = S.findBusy === `salary-${j.company_slug}`;
@@ -1927,9 +2122,8 @@ function tabPay(j) {
     <div class="dr-actions">${finderBtn('salary', j.company_slug, j.company, busy ? 'Searching salary sites…' : fnd ? 'Search salary sites again' : 'Search AmbitionBox, Glassdoor and PayScale')}</div>
     ${findErr(`salary-${j.company_slug}`)}
   </div>
-  <div class="sec"><h3>Market pay for QA testers</h3>${mb.length ? `<div class="blist">${mb.map(benchLine).join('')}</div>` : '<p class="muted">Market figures appear after the monitor’s salary searches.</p>'}
-    <p class="note">${ico('i-info')}<span>Figures come from AmbitionBox, Glassdoor, PayScale and Naukri salary pages, each linked to its page. Averages mix experience levels; treat them as context for your ask, not an offer.</span></p></div>
-  ${s.state === 'estimate' && s.estimate?.evidence?.length ? `<div class="sec"><h3>Evidence behind the estimate</h3>${s.estimate.evidence.map(id => benchRow(S.benchmarks.get(id), id)).join('')}</div>` : ''}`;
+  <div class="sec"><h3>Market pay for QA testers <span class=\"muted\" style=\"font-weight:400;font-size:12px\">· all employers, for context</span></h3>${mb.length ? `<div class="blist">${mb.map(benchLine).join('')}</div>` : '<p class="muted">Market figures appear after the monitor’s salary searches.</p>'}
+    <p class="note">${ico('i-info')}<span>Figures come from AmbitionBox, Glassdoor, PayScale and Naukri salary pages, each linked to its page. Averages mix experience levels; treat them as context for your ask, not an offer.</span></p></div>`;
 }
 function benchRow(b, id) {
   if (!b) return `<div class="src"><div class="ic">${ico('i-info')}</div><div>${esc(id)}</div></div>`;
@@ -1944,7 +2138,7 @@ function tabCompany(j, inCompanyDrawer = false) {
   return `${inCompanyDrawer ? '' : `<div class="sec"><h3>Hires from India</h3>${indiaCheckCard(c.slug)}</div>`}
   <div class="sec"><h3>${esc(c.name)}</h3><dl class="kv">
     <dt>Priority</dt><dd>${c.tier === 1 ? '<span class="pill accent">Tier 1 · product & software</span>' : c.tier === 2 ? '<span class="pill plain">Tier 2 · agency & studio</span>' : '<span class="pill plain">Other</span>'} <span class="muted">${esc(c.classification || '')}</span></dd>
-    <dt>Industry</dt><dd>${esc(c.category || '—')}</dd>${c.hq ? `<dt>Headquarters</dt><dd>${esc(c.hq)}</dd>` : ''}${c.maturity ? `<dt>Maturity</dt><dd>${esc(c.maturity)}</dd>` : ''}
+    <dt>Industry</dt><dd>${esc(c.category || '—')}</dd><dt>Company size</dt><dd>${sizeHtml(c.slug)}</dd>${c.hq ? `<dt>Headquarters</dt><dd>${esc(c.hq)}</dd>` : ''}${c.maturity ? `<dt>Maturity</dt><dd>${esc(c.maturity)}</dd>` : ''}
     <dt>Careers</dt><dd>${careersLink(c)}</dd>${careersEmailRows(c.slug)}
     ${c.domain ? `<dt>Website</dt><dd><a href="https://${esc(c.domain)}" target="_blank" rel="noopener">${esc(c.domain)}</a></dd>` : ''}
   </dl><p class="note">${ico('i-info')}<span>${[!c.hq && 'headquarters', !c.maturity && 'maturity', 'funding'].filter(Boolean).join(', ').replace(/^./, x => x.toUpperCase())} not verified yet.${c.facts_note ? ` ${esc(c.facts_note)}.` : ''}</span></p></div>
@@ -2330,7 +2524,7 @@ async function saveFile(filename, data) {
   try { await S.caps.downloads.save({ filename, data }); } catch (e) { if (e?.code !== 'declined') toast(e?.code === 'rate_limited' ? 'A download prompt is already open' : 'Could not prepare the download'); }
 }
 function exportRows(rows, kind, name) {
-  const fields = j => ({ id: j.id, title: j.title, company: j.company, category: j.category, tier: j.tier, fit: fitOf(j), status: j.status, india: j.india?.status, india_reason: j.india?.reason, employer_hires_from_india: VERDICT_META[j.india?.company]?.label || '', employer_check: companyCheck(j.company_slug).summary || '', work_mode: j.work_mode, location: j.location, employment: j.employment, seniority: j.seniority, posted_at: j.posted_at, first_seen: j.first_seen, last_verified: j.last_verified, pay_state: j.salary?.state, pay_currency: j.salary?.currency, pay_min: j.salary?.min, pay_max: j.salary?.max, pay_inr_min: j.salary?.inr_min ?? j.salary?.estimate?.inr_low, pay_inr_max: j.salary?.inr_max ?? j.salary?.estimate?.inr_high, pay_source: j.salary?.source_url || (j.salary?.estimate?.evidence || []).join(' '), apply_url: j.apply_url, listing_url: j.url, sources: (j.sources || []).map(s => s.url), stage: app(j.id)?.stage || '', notes: app(j.id)?.notes || '', contacts: contactsFor(j).map(c => `${c.name} (${c.linkedin || c.other_url || c.evidence_url})`) });
+  const fields = j => ({ id: j.id, title: j.title, company: j.company, category: j.category, tier: j.tier, fit: fitOf(j), status: j.status, india: j.india?.status, india_reason: j.india?.reason, employer_hires_from_india: VERDICT_META[j.india?.company]?.label || '', employer_check: companyCheck(j.company_slug).summary || '', work_mode: j.work_mode, location: j.location, employment: j.employment, seniority: j.seniority, posted_at: j.posted_at, first_seen: j.first_seen, last_verified: j.last_verified, pay_state: j.salary?.state, pay_currency: j.salary?.currency, pay_min: j.salary?.min, pay_max: j.salary?.max, pay_evidence: payState(j), pay_inr_min: payRange(j)[0], pay_inr_max: payRange(j)[1], pay_source: paySourceUrl(j), apply_url: j.apply_url, listing_url: j.url, sources: (j.sources || []).map(s => s.url), stage: app(j.id)?.stage || '', notes: app(j.id)?.notes || '', contacts: contactsFor(j).map(c => `${c.name} (${c.linkedin || c.other_url || c.evidence_url})`) });
   const data = rows.map(fields);
   if (kind === 'json') return saveFile(`${name}.json`, JSON.stringify({ exported_at: new Date().toISOString(), weights: weights(), roles: data.map((d, i) => ({ ...d, evidence: rows[i].sources, why: rows[i].why, concerns: rows[i].concerns })) }, null, 2));
   const cols = Object.keys(data[0] || fields({}));
@@ -2653,6 +2847,222 @@ async function runFind(kind, slug, name) {
   S.findBusy = null; rerenderPeople();
 }
 
+
+/* ================================================================
+   Hiring trends — researched market data, dated; every figure links to its source
+   ================================================================ */
+const TR_ASOF = '23 Oct 2026';
+const TR_M = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+/* Naukri JobSpeak index (India white-collar hiring, July 2008 = 1,000). null = not published / not found. */
+const TR_NJS = {
+  2025: [2550, 2890, 2618, 2878, 2807, 2854, 3074, 2664, 3002, 2487, 2989, 3001],
+  2026: [2637, 3233, 2858, 3045, null, 3027, 3227, 3028, 3053, null, null, null],
+};
+const TR_NJS_EST = { 2025: [9, 10] }; // Oct and Nov 2025 derived from the published year-on-year change
+const TR_S = {
+  njs_jan25: ['Naukri JobSpeak, Jan 2025', 'https://www.naukri.com/blog/understanding-hiring-trends-with-naukri-jobspeak-report-january-2025/'],
+  njs_mar25: ['Naukri JobSpeak, Mar 2025', 'https://www.naukri.com/blog/understanding-hiring-trends-with-naukri-jobspeak-report-march-2025/'],
+  njs_apr25: ['Naukri JobSpeak, Apr 2025', 'https://www.naukri.com/blog/understanding-hiring-trends-with-naukri-jobspeak-report-april-2025/amp'],
+  njs_may25: ['Naukri JobSpeak, May 2025', 'https://www.naukri.com/blog/understanding-hiring-trends-with-naukri-jobspeak-report-may-2025/'],
+  njs_jun25: ['Naukri JobSpeak, Jun 2025', 'https://www.naukri.com/blog/understanding-hiring-trends-with-naukri-jobspeak-report-june-2025/amp'],
+  njs_oct24: ['Naukri JobSpeak, Oct 2024', 'https://www.naukri.com/blog/understanding-hiring-trends-with-naukri-jobspeak-report-october-2024/'],
+  njs_nov24: ['Naukri JobSpeak, Nov 2024', 'https://www.naukri.com/blog/understanding-hiring-trends-with-naukri-jobspeak-report-november-2024/'],
+  njs_octnov25: ['Naukri JobSpeak, Oct–Nov 2025 (festive lull)', 'https://www.naukri.com/blog/naukri-jobspeak-white-collar-hiring-picks-up-pace-post-the-festive-lull-oct-nov-period-reports-dec-2025-consolidated-growth/amp'],
+  njs_dec25: ['Naukri JobSpeak, Dec 2025', 'https://www.naukri.com/blog/naukri-jobspeak-white-collar-hiring-ends-2025-with-13-growth-in-december-making-oct-dec-the-years-strongest-quarter/amp'],
+  njs_jan26: ['Naukri JobSpeak, Jan 2026', 'https://naukri.com/blog/naukri-jobspeak-white-collar-hiring-opens-2026-with-3-yoy-growth-driven-by-non-it-sectors-and-fresher-hiring/'],
+  njs_feb26: ['Naukri JobSpeak, Feb 2026', 'https://naukri.com/blog/naukri-jobspeak-it-hiring-shows-meaningful-recovery-and-ai-momentum-continues-white-collar-market-posts-12-yoy-growth-in-february-2026/'],
+  njs_mar26: ['Naukri JobSpeak, Mar 2026', 'https://www.naukri.com/blog/naukri-jobspeak-march-26-records-a-9-rise-in-white-collar-hiring-as-fy26-closes-at-8-the-strongest-job-growth-in-three-years/amp'],
+  njs_jul26: ['Naukri JobSpeak, Jul 2026 (Angel One)', 'https://www.angelone.in/news/stocks/info-edge-s-naukri-jobspeak-report-white-collar-hiring-up-5-in-july-2026-ai-ml-roles-lead-growth'],
+  njs_sep26: ['Naukri JobSpeak, Sep 2026 (Angel One)', 'https://www.angelone.in/news/stocks/india-s-white-collar-hiring-rise-2-in-september-as-ai-ml-hiring-jumps-20'],
+  foundit25: ['foundit insights tracker, 2025 (The Week)', 'https://www.theweek.in/wire-updates/business/2025/12/18/dcm68-foundit.html'],
+  li_feb26: ['LinkedIn Workforce Report, Feb 2026', 'https://economicgraph.linkedin.com/resources/linkedin-workforce-report-february-2026'],
+  fred_meco: ['Indeed via FRED: Media & Communications postings (US)', 'https://fred.stlouisfed.org/series/IHLIDXUSTPMECO'],
+  fred_soft: ['Indeed via FRED: Software Development postings (US)', 'https://fred.stlouisfed.org/series/IHLIDXUSTPSOFTDEVE'],
+  officechai: ['OfficeChai: software postings since Feb 2025 (Indeed data)', 'https://officechai.com/ai/us-software-job-postings-are-up-15-since-launch-of-claude-code-while-overall-job-postings-are-down-7-indeed-data/'],
+  lay_sa: ['SiliconANGLE: 2022 tech layoffs (Layoffs.fyi)', 'https://siliconangle.com/2023/01/03/tech-job-layoffs-2022-rose-10-times-2021/'],
+  lay_pm: ['People Matters: 2022 total (Layoffs.fyi)', 'https://www.peoplematters.in/news/strategic-hr/2023-tech-layoffs-reach-alarming-heights-40-more-job-losses-than-2022-38720'],
+  lay_idx: ['index.dev: 2023 tech layoffs', 'https://www.index.dev/blog/tech-employee-layoff-statistics'],
+  lay_nw: ['NerdWallet: 2024 tech layoffs (Layoffs.fyi)', 'https://www.nerdwallet.com/article/finance/tech-layoffs'],
+  lay_aotf: ['Layoffs.fyi via Fast Company: 2025 and 2026 to 6 Aug', 'https://attackofthefanboy.com/news/tech-companies-laid-off-122606-workers-in-all-of-2025-that-number-has-already-been-surpassed-in-2026/'],
+};
+const trLink = k => { const s = TR_S[k]; return s ? `<a href="${esc(s[1])}" target="_blank" rel="noopener">${esc(s[0])}</a>` : ''; };
+const trPct = v => `${v > 0 ? '+' : v < 0 ? '−' : ''}${Math.abs(v).toFixed(0)}%`;
+/* each month vs that year's monthly average, averaged over the years we have */
+function trSeason() {
+  const per = TR_M.map(() => []);
+  for (const y of Object.keys(TR_NJS)) {
+    const arr = TR_NJS[y]; const vals = arr.filter(v => v != null); const mean = vals.reduce((a, b) => a + b, 0) / vals.length;
+    arr.forEach((v, i) => { if (v != null) per[i].push(v / mean - 1); });
+  }
+  return per.map(a => a.length ? a.reduce((x, y) => x + y, 0) / a.length * 100 : 0);
+}
+function trYtd() {
+  let a = 0, b = 0, n = 0;
+  TR_NJS[2026].forEach((v, i) => { const p = TR_NJS[2025][i]; if (v != null && p != null) { a += v; b += p; n++; } });
+  return { pct: (a / b - 1) * 100, n };
+}
+function trMonthChart() {
+  const s = trSeason(); const mx = Math.max(10, ...s.map(Math.abs)); const cur = new Date().getMonth();
+  return `<div class="tr-months" role="img" aria-label="${TR_M.map((m, i) => `${m} ${trPct(s[i])}`).join(', ')}">${TR_M.map((m, i) => {
+    const v = s[i]; const cls = v >= 4 ? 'hi' : v <= -4 ? 'lo' : 'mid'; const h = (Math.abs(v) / mx * 100).toFixed(0);
+    const raw = Object.keys(TR_NJS).map(y => `${y}: ${TR_NJS[y][i] ?? 'n/a'}${(TR_NJS_EST[y] || []).includes(i) ? ' (derived)' : ''}`).join(' · ');
+    return `<div class="tm ${cls} ${i === cur ? 'now' : ''}" title="${m}: ${trPct(v)} vs the year's average · index ${raw}"><span class="tv">${trPct(v)}</span><div class="tcol">${v > 0 ? `<i style="height:${h}%"></i>` : ''}</div><div class="tcol dn">${v < 0 ? `<i style="height:${h}%"></i>` : ''}</div><span class="tl">${m}</span><span class="tt">${cls === 'hi' ? 'High' : cls === 'lo' ? 'Low' : 'Avg'}</span></div>`;
+  }).join('')}</div>`;
+}
+function trIndexTable() {
+  const ys = Object.keys(TR_NJS);
+  return `<div class="scroll-x"><table class="tr-tbl"><thead><tr><th>Index</th>${TR_M.map(m => `<th>${m}</th>`).join('')}</tr></thead><tbody>${ys.map(y => `<tr><td>${y}</td>${TR_NJS[y].map((v, i) => `<td class="${(TR_NJS_EST[y] || []).includes(i) ? 'est' : ''}">${v == null ? '—' : v.toLocaleString('en-IN')}</td>`).join('')}</tr>`).join('')}
+    <tr><td>Change</td>${TR_M.map((_, i) => { const a = TR_NJS[2026][i], b = TR_NJS[2025][i]; return `<td style="color:${a && b ? (a >= b ? 'var(--good)' : 'var(--bad)') : 'var(--faint)'}">${a && b ? trPct((a / b - 1) * 100) : '—'}</td>`; }).join('')}</tr></tbody></table></div>
+    <p class="tr-note" style="margin-top:8px">Naukri JobSpeak index (July 2008 = 1,000), all white-collar jobs posted on Naukri in India. Italic values are derived from the published year-on-year change. May 2026 and Oct–Dec 2026 are not published yet or were not found.</p>`;
+}
+/* line chart: series = [{name, color, pts:[['2020-02',100],...]}] ; y in index points */
+function trLine(series, ymax = 250, label = '') {
+  const W = 680, H = 270, L = 40, R = 150, T = 14, B = 30; const x0 = Date.UTC(2020, 0, 1), x1 = Date.UTC(2026, 11, 31);
+  const X = d => { const [y, m] = d.split('-').map(Number); return L + (Date.UTC(y, m - 1, 15) - x0) / (x1 - x0) * (W - L - R); };
+  const Y = v => T + (1 - v / ymax) * (H - T - B);
+  const grid = [0, 50, 100, 150, 200, 250].filter(v => v <= ymax).map(v => `<line x1="${L}" x2="${W - R}" y1="${Y(v)}" y2="${Y(v)}" stroke="var(--line${v === 100 ? '-3' : ''})" ${v === 100 ? 'stroke-dasharray="4 4"' : ''}/><text x="${L - 6}" y="${Y(v) + 4}" text-anchor="end">${v}</text>`).join('');
+  const yrs = [2020, 2021, 2022, 2023, 2024, 2025, 2026].map(y => `<text x="${X(y + '-07')}" y="${H - 8}" text-anchor="middle">${y}</text>`).join('');
+  const lines = series.map(s => {
+    const d = s.pts.map((p, i) => `${i ? 'L' : 'M'}${X(p[0]).toFixed(1)},${Y(p[1]).toFixed(1)}`).join(' ');
+    const dots = s.pts.map(p => `<circle cx="${X(p[0]).toFixed(1)}" cy="${Y(p[1]).toFixed(1)}" r="3.5" fill="${s.color}" stroke="var(--surface)" stroke-width="1.5"><title>${s.name} · ${p[0]}: ${p[1]}</title></circle>`).join('');
+    const last = s.pts[s.pts.length - 1];
+    const peak = s.pts.reduce((a, b) => b[1] > a[1] ? b : a);
+    return `<path d="${d}" fill="none" stroke="${s.color}" stroke-width="2.4" stroke-linejoin="round" stroke-linecap="round"/>${dots}<text x="${X(peak[0])}" y="${Y(peak[1]) - 9}" text-anchor="middle" class="lab">${peak[1]}</text><text x="${X(last[0]) + 8}" y="${Y(last[1]) + 4 + (s.dy || 0)}" class="lab" style="fill:${s.color}">${last[1]} · ${esc(s.short || s.name)}</text>`;
+  }).join('');
+  return `<div class="trc-wrap"><svg class="trc" viewBox="0 0 ${W} ${H}" role="img" aria-label="${esc(label)}">${grid}<text x="${L + 6}" y="${Y(100) - 6}">Feb 2020 = 100</text>${yrs}${lines}</svg></div>`;
+}
+function trBars(rows) {
+  const mx = Math.max(...rows.map(r => r.v));
+  return `<div class="tr-bars" style="grid-template-columns:repeat(${rows.length},minmax(0,1fr))" role="img" aria-label="${rows.map(r => `${r.y}: ${r.lab}`).join(', ')}">${rows.map(r => `<div class="b" title="${esc(r.note || '')}"><em>${esc(r.lab)}</em><i class="${r.cls || ''}" style="height:${(r.v / mx * 100).toFixed(0)}%"></i><span>${esc(r.y)}</span></div>`).join('')}</div>`;
+}
+const trStat = (n, cls, title, sub, src) => `<div class="tr-s"><span class="n ${cls}">${n}</span><div><b>${title}</b><span>${sub}</span>${src ? `<span>${src}</span>` : ''}</div></div>`;
+const trFactor = (title, when, tag, cls, p, src) => `<div class="tr-f"><div class="fh"><b>${title}</b><span class="pill ${cls} xs">${tag}</span></div><span class="when">${when}</span><p>${p}</p>${src ? `<span class="tr-note">${src}</span>` : ''}</div>`;
+function trFeedChart() {
+  const now = new Date(); const months = [];
+  for (let i = 11; i >= 0; i--) { const d = new Date(now.getFullYear(), now.getMonth() - i, 1); months.push({ y: d.getFullYear(), m: d.getMonth(), n: 0 }); }
+  for (const j of S.jobs.values()) { if (typeof inTrack === 'function' && !inTrack(j)) continue; const t = ts(j.posted_at || j.first_seen); if (t == null) continue; const d = new Date(t); const b = months.find(x => x.y === d.getFullYear() && x.m === d.getMonth()); if (b) b.n++; }
+  const mx = Math.max(1, ...months.map(x => x.n));
+  return `<div class="bars">${months.map((x, i) => `<div class="b" title="${x.n} roles posted or first seen in ${TR_M[x.m]} ${x.y}"><em>${x.n || ''}</em><i style="height:${(x.n / mx * 100).toFixed(0)}%" class="${i === 11 ? '' : 'dim'}"></i><span>${TR_M[x.m]}</span></div>`).join('')}</div>`;
+}
+const TR_LAYOFFS = [
+  { y: '2020', v: 70000, lab: '70k+', cls: 'soft', note: 'More than 70,000 between March and December 2020 (partial year)' },
+  { y: '2021', v: 15000, lab: '≈15k', cls: 'soft', note: 'About one tenth of 2022 (approximate)' },
+  { y: '2022', v: 164744, lab: '165k', note: '164,744 people (Layoffs.fyi)' },
+  { y: '2023', v: 262000, lab: '262k', note: '262,000+ people at 1,180+ companies' },
+  { y: '2024', v: 152922, lab: '153k', note: '152,922 people at 551 companies (Layoffs.fyi)' },
+  { y: '2025', v: 122606, lab: '123k', note: '122,606 people (Layoffs.fyi)' },
+  { y: '2026', v: 125759, lab: '126k*', cls: 'part', note: '125,759 people by 6 Aug 2026, already more than all of 2025 (Layoffs.fyi)' },
+];
+const TR_SOFT = [['2020-02', 100], ['2020-05', 65], ['2022-02', 234], ['2023-01', 130], ['2024-01', 73], ['2026-10', 79]];
+const TR_MECO = [['2020-02', 100], ['2020-05', 50], ['2022-03', 173], ['2023-01', 116], ['2024-01', 85], ['2026-10', 71]];
+Object.assign(TR_S, {
+  indeed_qa: ['Business Today: Indeed report — “AI engineers in, QA testers out” (Aug 2025)', 'https://www.businesstoday.in/amp/technology/news/story/ai-engineers-in-qa-testers-out-indeed-report-tracks-sharp-shift-in-tech-job-market-489695-2025-08-16'],
+  xpheno: ['Policy Circle: AI and IT testing jobs in India (Xpheno data)', 'https://www.policycircle.org/industry/ai-automation-disrupts-it-jobs/'],
+  wqr: ['World Quality Report 2025–26 (OpenText / Capgemini)', 'https://www.opentext.com/about/press-releases/world-quality-report-2025-ai-adoption-surges-in-quality-engineering-but-enterprise-level-scaling-remains-elusive'],
+  onet_qa: ['O*NET / US BLS: Software QA analysts and testers outlook', 'https://www.onetonline.org/link/localtrends/15-1253.00'],
+  wiki_games: ['Wikipedia: 2022–2026 video game industry layoffs', 'https://en.wikipedia.org/wiki/2022%E2%80%932026_video_game_industry_layoffs'],
+  rmg: ['Storyboard18: real-money gaming jobs lost after the ban', 'https://www.storyboard18.com/gaming-news/real-money-gaming-collapse-%E2%82%B93720-crore-vanishes-6500-jobs-lost-since-ban-80919.htm'],
+});
+const TR_GAMES = [
+  { y: '2022', v: 8500, lab: '8.5k', note: 'About 8,500 games jobs lost' },
+  { y: '2023', v: 10500, lab: '10.5k', note: 'About 10,500' },
+  { y: '2024', v: 15650, lab: '15.7k', note: 'About 15,650 — the peak' },
+  { y: '2025', v: 9200, lab: '9.2k', note: 'About 9,200' },
+];
+function viewTrends() {
+  const s = trSeason(); const ytd = trYtd(); const t = S.track;
+  const showGame = t !== 'software', showSoft = t !== 'game';
+  const rank = TR_M.map((m, i) => [m, s[i]]).sort((a, b) => b[1] - a[1]);
+  const best = rank.slice(0, 3).map(x => x[0]), worst = rank.slice(-3).reverse().map(x => x[0]);
+  const kpi = (k, v, sub, sm) => `<div class="kpi"><span class="k">${k}</span><span class="v ${sm ? 'sm' : ''}">${v}</span><span class="s">${sub}</span></div>`;
+  return `${head(`Hiring trends · ${TRACK_LABEL[t]} · researched ${TR_ASOF}`, 'When QA teams <em class="ser">hire</em>, and where testing jobs are heading',
+    'Which months bring the most openings, what drives the slow months, how tech and games hiring moved since COVID, whether 2026 is a normal year, and how AI is changing testing work — each number linked to its source. Use the Section switch to focus on Game QA or Software QA.',
+    `<a class="btn" href="#explorer">${ico('i-jobs')} Explore roles</a>`)}
+  <div class="kpis tr-kpis">
+    ${kpi('Busiest months', best.join(' · '), 'India white-collar hiring, 2025–26', true)}
+    ${kpi('Quietest months', worst.join(' · '), 'Festive season, new-year restart, fiscal year-end', true)}
+    ${kpi('2026 vs 2025', trPct(ytd.pct), `India hiring, same ${ytd.n} months Jan–Sep`)}
+    ${showGame && !showSoft ? kpi('Real-money gaming ban', '6,500+', 'Jobs lost within a month of Aug 2025') : kpi('Fresher & junior hiring', '+17%', '0–3 years, Feb 2026 vs Feb 2025')}
+  </div>
+  <section class="panel"><div class="panel-h"><div><span class="eyebrow">Seasonality · each month vs the year's average</span><h2>Which months hire the most</h2></div><div class="tr-legend"><span><i style="background:var(--good)"></i>Above average</span><span><i style="background:var(--warn)"></i>Below average</span></div></div>
+    <div class="panel-b" style="display:flex;flex-direction:column;gap:16px">
+      ${trMonthChart()}
+      <div class="callout accent"><b>Read it like this</b><span>July, February and the year-end months run about 5–8% above a normal month. October runs about 12% below (Diwali), January about 11% below and March about 6% below (financial year-end). This is all white-collar hiring in India; QA and game-testing roles follow the same budget calendar, and IT services firms add campus and bench hiring around it.</span></div>
+      <details class="disclose"><summary>Show the monthly index values ${ico('i-chev', 12)}</summary><div style="margin-top:10px">${trIndexTable()}</div></details>
+      <p class="tr-note">Sources: ${['njs_jan25', 'njs_mar25', 'njs_apr25', 'njs_may25', 'njs_jun25', 'njs_octnov25', 'njs_dec25', 'njs_jan26', 'njs_feb26', 'njs_mar26', 'njs_jul26', 'njs_sep26'].map(trLink).join(' · ')}</p>
+    </div></section>
+  <section class="panel"><div class="panel-h"><div><span class="eyebrow">Why some months are busy and others quiet</span><h2>What drives hiring through the year</h2></div></div><div class="panel-b">
+    <div class="tr-factors">
+      ${trFactor('Financial year and budgets', 'Mar → Apr', 'India', 'info', 'Indian companies run April–March. March is spent closing the books (about 6% below average), then new headcount opens in April. FY26 closed with hiring up 8%, the strongest in three years.', trLink('njs_mar26'))}
+      ${trFactor('Appraisals and resignations', 'Apr → Jul', 'Busy', 'good', 'Raises land in April–June. Testers who switch for a better hike leave gaps, and backfills peak in July — the strongest month in both 2025 (+9%) and 2026 (+7%).', trLink('njs_jul26'))}
+      ${trFactor('Festive season', 'Oct → Nov', 'Quiet', 'warn', 'Diwali pauses interviews and offers. October 2025 fell 9% year on year because Diwali came early, then November bounced back 23%. Line up interviews for November.', trLink('njs_octnov25'))}
+      ${showGame ? trFactor('Game release calendars', 'Before big launches', 'Game QA', 'accent', 'Studios and outsourcers add testers on contract ahead of launches and live-ops events, then release them after. Short contracts are common; treat this as a rule of thumb, not measured here.', '') : ''}
+      ${showSoft ? trFactor('Release and project cycles', 'Project starts', 'Software QA', 'accent', 'IT services firms hire testers when a client project is signed, often in batches; product companies hire ahead of releases. Rule of thumb, not measured here.', '') : ''}
+      ${trFactor('Year-end holidays abroad', 'mid-Dec → early Jan', 'Remote roles', 'plain', 'Overseas clients and studios slow down for the holidays and restart in January, when India hiring is also at its lowest (about 11% below average).', trLink('li_feb26'))}
+      ${trFactor('Automation and AI budgets', 'All year', 'Structural', 'bad', 'AI/ML hiring in India rose 20–53% year on year through 2025–26, while overall IT services hiring stayed flat or slightly down (−4% in Sep 2026). Testing teams are asked to do more with automation.', `${trLink('njs_sep26')} · ${trLink('njs_dec25')}`)}
+    </div></div></section>
+  <div class="two">
+    ${showSoft ? `<section class="panel"><div class="panel-h"><div><span class="eyebrow">Post-COVID · US software postings on Indeed, Feb 2020 = 100</span><h2>The boom, the crash, and where it sits now</h2></div></div><div class="panel-b" style="display:flex;flex-direction:column;gap:12px">
+      ${trLine([{ name: 'Software development (includes QA and test engineering)', short: 'Software dev', color: 'var(--accent-2)', pts: TR_SOFT }], 250, 'US software development job postings since February 2020')}
+      <p class="tr-note">Software postings fell by a third in spring 2020, more than doubled by February 2022 as companies over-hired, then crashed through 2023. They bottomed in early 2025 and have since recovered about 15%, but in October 2026 they are still about 21% below February 2020. Seasonally adjusted. ${trLink('fred_soft')} · ${trLink('officechai')}</p>
+    </div></section>` : ''}
+    ${showGame ? `<section class="panel"><div class="panel-h"><div><span class="eyebrow">Games industry layoffs worldwide, people per year</span><h2>How many game jobs were lost</h2></div></div><div class="panel-b" style="display:flex;flex-direction:column;gap:12px">
+      ${trBars(TR_GAMES)}
+      <p class="tr-note">About 45,000 game jobs were cut from 2022 to mid-2025, peaking in 2024. 2026 has continued with large cuts (Epic Games over 1,000 in March). QA teams were hit hard and unionised in response (Activision QA, ZeniMax QA). ${trLink('wiki_games')}</p>
+    </div></section>` : ''}
+    <section class="panel"><div class="panel-h"><div><span class="eyebrow">Tech layoffs worldwide, people per year</span><h2>How many tech workers were laid off</h2></div></div><div class="panel-b" style="display:flex;flex-direction:column;gap:12px">
+      ${trBars(TR_LAYOFFS)}
+      <p class="tr-note">2023 was the peak at about 262,000. Layoffs eased in 2024 and 2025, but 2026 had already passed 2025’s total by 6 August. Light bars are partial or approximate; * year to date. ${['lay_sa', 'lay_pm', 'lay_idx', 'lay_nw', 'lay_aotf'].map(trLink).join(' · ')}</p>
+    </div></section>
+  </div>
+  ${showGame ? `<section class="panel"><div class="panel-h"><div><span class="eyebrow">India · August 2025</span><h2>The real-money gaming ban and slot / casino QA</h2></div><span class="pill bad">Big shift</span></div><div class="panel-b" style="display:flex;flex-direction:column;gap:12px">
+    <div class="tr-stats">
+      ${trStat('6,500+', 'dn', 'Jobs lost within about 26 days', 'After Parliament passed the Online Gaming Act on 20–21 Aug 2025. Smaller firms account for nearly 5,000.', trLink('rmg'))}
+      ${trStat('600–700', 'dn', 'MPL', 'Games24x7 about 400, A23 nearly 500, Zupee 170 (about 30% of staff); Probo and Rush shut down.', trLink('rmg'))}
+    </div>
+    <div class="callout warn"><b>What it means for you</b><span>Indian real-money and slot-style employers shrank sharply, so slot / casino QA roles in India are fewer. Your slot testing still transfers to overseas casino and social-casino studios that hire in India, and to casual, mobile and PC game QA.</span></div>
+  </div></section>` : ''}
+  <section class="panel"><div class="panel-h"><div><span class="eyebrow">Is 2026 a normal year?</span><h2>More jobs in India overall, but testing is flat</h2></div></div><div class="panel-b" style="display:flex;flex-direction:column;gap:14px">
+    <div class="tr-verdict">
+      <div class="tr-v"><div class="vt"><span class="pill good">Above 2025</span><span class="eyebrow">India, all white-collar</span></div><span class="big">${trPct(ytd.pct)}</span><p>Jan–Sep 2026 versus the same months of 2025. Every published month of 2026 was up on 2025, from +2% (Sep) to +14% (Aug). ${trLink('njs_sep26')}</p></div>
+      <div class="tr-v"><div class="vt"><span class="pill good">Good for you</span><span class="eyebrow">Early-career hiring</span></div><span class="big">+17%</span><p>Hiring for 0–3 years of experience rose 17% in Feb 2026; foundit counted +19% for 0–3 years and +15% for 4–6 years across 2025. ${trLink('njs_feb26')} · ${trLink('foundit25')}</p></div>
+      <div class="tr-v"><div class="vt"><span class="pill warn">Flat</span><span class="eyebrow">Testing jobs in India</span></div><span class="big">&lt;1%</span><p>Net growth in India’s pool of about 375,000 testing and QA professionals over the latest year, while IT services hiring was −2% to +6% month to month in 2026. ${trLink('xpheno')} · ${trLink('njs_jan26')}</p></div>
+    </div>
+    <div class="callout"><b>Verdict</b><span>2026 is a normal-to-good year for jobs in India and for people early in their careers — but not for manual testing specifically. Testing headcount is barely growing, IT services are flat, ${showGame ? 'India’s real-money gaming segment collapsed in Aug 2025, ' : ''}and US software postings remain about a fifth below 2020. Roles that combine testing with automation, APIs or data are where the growth is.</span></div>
+  </div></section>
+  <section class="panel"><div class="panel-h"><div><span class="eyebrow">AI and testing jobs</span><h2>What AI is changing, in numbers</h2></div></div><div class="panel-b" style="display:flex;flex-direction:column;gap:14px">
+    <div class="tr-stats">
+      ${trStat('~40%', 'dn', 'Of India’s testing workforce is highly automatable', 'Staffing firm Xpheno’s estimate; analysts expect many entry-level manual roles to shrink within 2–5 years.', trLink('xpheno'))}
+      ${trStat('89%', 'neu', 'Companies piloting or using GenAI in testing', 'Only 37% have it in production and 15% company-wide. Average productivity gain: 19%.', trLink('wqr'))}
+      ${trStat('50%', 'up', 'Of QA teams lack AI/ML skills', 'The biggest skills gap in quality engineering, unchanged since 2024 — an opening for testers who learn it.', trLink('wqr'))}
+      ${trStat('Falling', 'dn', 'QA tester postings (Indeed, US)', 'Indeed named QA testers among roles falling out of favour in Aug 2025, while AI/ML engineer postings rose 334%.', trLink('indeed_qa'))}
+      ${trStat('+6%', 'up', 'US QA analyst and tester jobs, 2025–2035', 'Faster than average; about 10,700 openings a year on a base of 187,600. QA is changing, not disappearing.', trLink('onet_qa'))}
+      ${trStat('+20–53%', 'up', 'AI/ML hiring in India, year on year', 'Through 2025–26. Testing AI features and AI-built code is becoming its own QA niche.', `${trLink('njs_feb26')} · ${trLink('njs_dec25')}`)}
+    </div>
+    <div class="callout accent"><b>What it means for you</b><span>Pure manual, repeatable test execution is the most exposed. Testers who add API testing (Postman), basic SQL, one automation tool (Selenium, Appium or Playwright) and AI-assisted test design are what employers are short of. ${showGame ? 'In games, exploratory gameplay testing, compatibility on real devices and certification checks stay human-heavy. ' : ''}Add each skill to your resume here as you learn it — matching roles move up.</span></div>
+  </div></section>
+  <div class="two">
+    <section class="panel"><div class="panel-h"><div><span class="eyebrow">Plan your year</span><h2>When to push, when to prepare</h2></div></div><div class="panel-b">
+      <ol class="tr-do">
+        <li><b>Late January to February:</b> new budgets and one of the strongest months. Apply widely and follow up.</li>
+        <li><b>March:</b> quieter. Learn one new tool (API testing or automation) and update your resume.</li>
+        <li><b>June to July:</b> the backfill peak after appraisals. Best window to switch for a hike.</li>
+        <li><b>September:</b> above average again; ${showGame ? 'studios staff up QA before holiday-season releases' : 'project teams staff up for Q4 releases'}.</li>
+        <li><b>October (Diwali):</b> expect slow replies. Use it for applications that will be read in November.</li>
+        <li><b>Mid-December to early January:</b> overseas studios and clients pause. Keep in touch with recruiters.</li>
+      </ol></div></section>
+    <section class="panel"><div class="panel-h"><div><span class="eyebrow">From this tracker · last 12 months · ${TRACK_LABEL[t]}</span><h2>Roles found by month</h2></div></div><div class="panel-b" style="display:flex;flex-direction:column;gap:10px">${trFeedChart()}<p class="tr-note">Counted by posting date (or first-seen date) of roles in your feed. The monitor started recently, so this fills in over the coming months and will show QA’s own seasonality.</p></div></section>
+  </div>
+  <section class="panel"><div class="panel-h"><div><span class="eyebrow">Method</span><h2>Sources and limits</h2></div></div><div class="panel-b" style="display:flex;flex-direction:column;gap:10px">
+    <p class="tr-note">No public source publishes monthly hiring for QA testers alone, so seasonality uses India’s overall white-collar index and the post-COVID trend uses US Indeed postings for software development (which includes QA and test engineering). Layoff totals come from Layoffs.fyi as quoted by the outlets below; early years are approximate. Games layoffs are a compiled estimate. Researched ${TR_ASOF}.</p>
+    <ul class="tr-src">${Object.keys(TR_S).map(k => `<li>${trLink(k)}</li>`).join('')}</ul>
+  </div></section>`;
+}
+function trendsBanner() {
+  const seen = lsGet('trendsSeen', false);
+  return `<a class="newfeat" href="#trends" style="color:inherit;text-decoration:none"><span class="nf-ic">${ico('i-trend', 20)}</span><div><span class="eyebrow">${seen ? 'Insights' : 'New · just added'}</span><b>Hiring trends: the best months to apply, post-COVID hiring and layoffs, and how AI is changing the work</b><p>Charts and plain-language numbers, each linked to its source.</p></div><span class="btn primary sm">Open ${ico('i-arrow', 12)}</span></a>`;
+}
+
 /* ================================================================
    Events
    ================================================================ */
@@ -2674,6 +3084,10 @@ document.addEventListener('click', async e => {
     case 'close-drawer': closeDrawer(); break;
     case 'tab': S.drawer.tab = v; renderDrawer(false); $('#drBody').scrollTop = 0; break;
     case 'save': await toggleSave(id, el); if (S.drawer) renderDrawer(false); break;
+    case 'star': await setMark(id, { star: !isStar(id) }, isStar(id) ? 'Star removed' : `${STAR_SVG} Starred · find it under Roles → Starred`); break;
+    case 'hide': { const t = S.jobs.get(id)?.title || 'Role'; await setMark(id, { hidden: true, star: false }, `Removed “${esc(t.length > 40 ? t.slice(0, 38) + '…' : t)}” <a href="#" data-act="unhide" data-id="${esc(id)}">Undo</a>`); if (S.drawer?.id === id) closeDrawer(); break; }
+    case 'unhide': await setMark(id, { hidden: false }, 'Back in your list'); break;
+    case 'marks-view': S.marksView = v; S.page = 1; render(); break;
     case 'compare': if (S.compare.has(id)) S.compare.delete(id); else if (S.compare.size >= 4) toast('Compare up to 4 roles at a time'); else S.compare.add(id); render(); break;
     case 'open-compare': openCompare(); break;
     case 'clear-compare': S.compare.clear(); render(); break;
@@ -2764,7 +3178,7 @@ document.addEventListener('keydown', e => {
 });
 document.addEventListener('change', async e => {
   const el = e.target;
-  if (el.dataset.filter) { const k = el.dataset.filter; setFilter(f => { f[k] = el.checked ? [...new Set([...f[k], el.value])] : f[k].filter(x => x !== el.value); }); return; }
+  if (el.dataset.filter) { const k = el.dataset.filter; setFilter(f => { f[k] = el.checked ? [...new Set([...(f[k] || []), el.value])] : (f[k] || []).filter(x => x !== el.value); }); return; }
   if (el.dataset.toggle) { setFilter(f => f[el.dataset.toggle] = el.checked); return; }
   if (el.dataset.ruleTrack) { const cur = new Set(alertRules().tracks || ['game', 'software']); if (el.checked) cur.add(el.dataset.ruleTrack); else cur.delete(el.dataset.ruleTrack); settingsPatch({ alerts: { ...alertRules(), tracks: [...cur] } }); return; }
   if (el.dataset.rule) { settingsPatch({ alerts: { ...alertRules(), [el.dataset.rule]: el.checked } }); return; }
@@ -2839,8 +3253,8 @@ const trigWatch = setInterval(() => { if (S.meta.system?.monitor?.trigger_id && 
 
 window.__QA = window.__MI = { S, results, fitOf, nlSearch, localParse, openDrawer, renderDrawer, render };
 /* ---------- quick guide ---------- */
-const GUIDE = [{"icon": "i-spark", "title": "Welcome to QA Intelligence", "go": null, "p": "It collects QA and game-testing jobs every hour, removes duplicates, and ranks each role against the right resume. This guide takes about a minute.", "li": ["<b>Game QA</b> roles are matched to the Game QA resume, <b>Software QA</b> roles to the Software QA resume.", "Mumbai, Navi Mumbai and Thane come first, then remote in India, then other cities.", "Pay is flexible, so no role is hidden for pay. Listed pay is marked when an employer shows it."]}, {"icon": "i-filter", "title": "Pick a section", "go": "overview", "p": "Use the Section switch at the top of the sidebar (on a phone, the strip above each page).", "li": ["<b>All roles</b> shows both sections together, with a coloured tag on each role.", "<b>Game QA</b> or <b>Software QA</b> narrows every page: overview, roles, companies, people and notifications.", "The number next to each section is how many open roles match right now."]}, {"icon": "i-home", "title": "Start on the Overview", "go": "overview", "p": "Your daily summary: top matches, what is new this week, and where the roles are.", "li": ["Click any number (New this week, High fit, Mumbai region, Pay listed) to open exactly those roles.", "<b>Top matches</b> are ranked by fit score out of 100.", "The Monitor panel shows when the last check ran and when the next one is due."]}, {"icon": "i-jobs", "title": "Find roles", "go": "explorer", "p": "Roles is the full list. Narrow it with the filter pills, then open any role.", "li": ["Filters: <b>City</b>, <b>Arrangement</b>, <b>Posted</b> (30 days by default, up to 45), <b>Level</b> and minimum <b>Fit</b>. <b>All filters</b> has the rest.", "Open a role to see why it fits, any concerns, pay, contacts and the company.", "<b>Live listing</b> means it is on a job board now; <b>Lead</b> means it was found through search, so confirm it on the employer’s site."]}, {"icon": "i-kf", "title": "Save and track applications", "go": "tracker", "p": "Press the diamond on any role to save it. Saved roles appear in the Tracker.", "li": ["Move a role through Saved, Preparing, Applied, Interview, Assignment and Offer by dragging the card or picking a stage.", "Inside a role, the Tracking tab holds notes, reminders, interview logs and links.", "Export your tracker as CSV or JSON any time."]}, {"icon": "i-people", "title": "Companies and people", "go": "people", "p": "See who is hiring and find the right person to contact.", "li": ["<b>Companies</b> lists every employer with open roles, and checks whether overseas employers hire people in India.", "In <b>People</b>, pick a company and search for QA leads, recruiters, hiring posts and published careers emails.", "Only contacts a company published itself are shown. Nothing is guessed."]}, {"icon": "i-radar", "title": "Alerts and notifications", "go": "monitor", "p": "A check runs every hour. New matching roles appear in the bell at the top and on your phone through the Claude app.", "li": ["In <b>Monitor & alerts</b>, choose the minimum fit to be alerted about and which sections to watch.", "Press <b>Run a check now</b> if you do not want to wait for the next hour.", "Each role is alerted once, even if it appears on several job boards."]}, {"icon": "i-user", "title": "Tune your resumes", "go": "profile", "p": "Resumes & matching controls how roles are scored.", "li": ["Switch between the Game QA and Software QA resume, then <b>Edit</b> skills and platforms, or <b>Update from resume</b> with a new file.", "Add a skill such as test automation once you have it, and roles asking for it move up.", "Adjust the six fit weights to change what matters most."]}];
-const GUIDE_VIEW = {"overview": "Overview", "explorer": "Roles", "tracker": "Tracker", "people": "People", "companies": "Companies", "monitor": "Monitor & alerts", "profile": "Resumes & matching"};
+const GUIDE = [{"icon": "i-spark", "title": "Welcome to QA Intelligence", "go": null, "p": "It collects QA and game-testing jobs every hour, removes duplicates, and ranks each role against the right resume. This guide takes about a minute.", "li": ["<b>Game QA</b> roles are matched to the Game QA resume, <b>Software QA</b> roles to the Software QA resume.", "Mumbai, Navi Mumbai and Thane come first, then remote in India, then other cities.", "Pay is flexible, so no role is hidden for pay. Listed pay is marked when an employer shows it."]}, {"icon": "i-filter", "title": "Pick a section", "go": "overview", "p": "Use the Section switch at the top of the sidebar (on a phone, the strip above each page).", "li": ["<b>All roles</b> shows both sections together, with a coloured tag on each role.", "<b>Game QA</b> or <b>Software QA</b> narrows every page: overview, roles, companies, people and notifications.", "The number next to each section is how many open roles match right now."]}, {"icon": "i-home", "title": "Start on the Overview", "go": "overview", "p": "Your daily summary: top matches, what is new this week, and where the roles are.", "li": ["Click any number (New this week, High fit, Mumbai region, Pay listed) to open exactly those roles.", "<b>Top matches</b> are ranked by fit score out of 100.", "The Monitor panel shows when the last check ran and when the next one is due."]}, {"icon": "i-trend", "title": "Hiring trends (new)", "go": "trends", "p": "A dashboard of when hiring is busy or quiet through the year, how hiring and layoffs moved since COVID, whether 2026 is a normal year, and what AI is changing.", "li": ["The month chart shows each month against a normal month: green is busier, amber is quieter.", "Every number links to its source, with the research date shown.", "Open it from the highlighted <b>Hiring trends</b> button at the top of the sidebar."]}, {"icon": "i-jobs", "title": "Find roles", "go": "explorer", "p": "Roles is the full list. Narrow it with the filter pills, then open any role.", "li": ["Filters: <b>City</b>, <b>Arrangement</b>, <b>Posted</b> (30 days by default, up to 45), <b>Level</b> and minimum <b>Fit</b>. <b>All filters</b> has the rest.", "Open a role to see why it fits, any concerns, pay, contacts and the company.", "<b>Live listing</b> means it is on a job board now; <b>Lead</b> means it was found through search, so confirm it on the employer’s site.", "Press the <b>star</b> to mark a favourite and the <b>remove</b> button to hide a role you don’t want. Switch between <b>All</b>, <b>Starred</b> and <b>Removed</b> above the list; Undo or Restore any time."]}, {"icon": "i-kf", "title": "Save and track applications", "go": "tracker", "p": "Press the diamond on any role to save it. Saved roles appear in the Tracker.", "li": ["Move a role through Saved, Preparing, Applied, Interview, Assignment and Offer by dragging the card or picking a stage.", "Inside a role, the Tracking tab holds notes, reminders, interview logs and links.", "Export your tracker as CSV or JSON any time."]}, {"icon": "i-people", "title": "Companies and people", "go": "people", "p": "See who is hiring and find the right person to contact.", "li": ["<b>Companies</b> lists every employer with open roles, and checks whether overseas employers hire people in India.", "In <b>People</b>, pick a company and search for QA leads, recruiters, hiring posts and published careers emails.", "Only contacts a company published itself are shown. Nothing is guessed.", "Each employer shows its size band (Startup, Small, Mid-size, Large, Enterprise) and employee count, linked to where it was published."]}, {"icon": "i-radar", "title": "Alerts and notifications", "go": "monitor", "p": "A check runs every hour. New matching roles appear in the bell at the top and on your phone through the Claude app.", "li": ["In <b>Monitor & alerts</b>, choose the minimum fit to be alerted about and which sections to watch.", "Press <b>Run a check now</b> if you do not want to wait for the next hour.", "Each role is alerted once, even if it appears on several job boards."]}, {"icon": "i-user", "title": "Tune your resumes", "go": "profile", "p": "Resumes & matching controls how roles are scored.", "li": ["Switch between the Game QA and Software QA resume, then <b>Edit</b> skills and platforms, or <b>Update from resume</b> with a new file.", "Add a skill such as test automation once you have it, and roles asking for it move up.", "Adjust the six fit weights to change what matters most."]}];
+const GUIDE_VIEW = {"overview": "Overview", "trends": "Hiring trends", "explorer": "Roles", "tracker": "Tracker", "people": "People", "companies": "Companies", "monitor": "Monitor & alerts", "profile": "Resumes & matching"};
 function openGuide(i = 0) {
   const n = GUIDE.length; i = Math.max(0, Math.min(n - 1, i)); const s = GUIDE[i];
   lsSet('guideSeen', true); $('#guideBtn .gnew')?.remove();

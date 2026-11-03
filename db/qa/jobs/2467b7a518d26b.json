@@ -1,90 +1,90 @@
 {
-  "apply_url": null,
-  "board_apply": "https://www.shine.com/jobs/entry-level-software-qa-test-engineer-at-medpace/medpace/19559755",
-  "category": "Other",
-  "comp_potential": "unknown",
-  "company": "Medpace",
-  "company_slug": "medpace",
-  "concerns": [
-    "Also asks for: SQL / databases, Programming",
-    "Entry-level role — pay may be at the lower end",
-    "Pay not disclosed — ask for the range early"
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/entry-level-software-qa-test-engineer-at-medpace/medpace/19559755",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "Medpace",
+ "company_slug": "medpace",
+ "concerns": [
+  "Also asks for: SQL / databases, Programming",
+  "Entry-level role — pay may be at the lower end",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "1cea1158a2ae",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-10-20T13:44:34Z",
+ "fit": 70,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "2467b7a518d26b",
+ "include_reason": "QA / test engineer title",
+ "india": {
+  "cities": [
+   "Mumbai"
   ],
-  "contacts_count": 0,
-  "content_hash": "1cea1158a2ae",
-  "date_quality": "exact",
-  "deadline": null,
-  "employment": "full-time",
-  "first_seen": "2026-10-20T13:44:34Z",
-  "fit": 70,
-  "has_hiring_manager": false,
-  "has_named_contact": false,
-  "has_public_email": false,
-  "id": "2467b7a518d26b",
-  "include_reason": "QA / test engineer title",
-  "india": {
-    "cities": [
-      "Mumbai"
-    ],
-    "company": "yes",
-    "reason": "Location lists India",
-    "status": "confirmed",
-    "visa": false
-  },
-  "kind": "qa-engineer",
-  "last_verified": "2026-10-20T13:44:34Z",
-  "location": "Navi Mumbai, India",
-  "logo": null,
-  "needs_review": false,
-  "official": false,
-  "posted_at": "2026-09-16T10:38:36Z",
-  "repost": false,
-  "requirements": [
-    "(Summary from the Shine.com listing; open the posting for the full description.)"
-  ],
-  "responsibilities": [],
-  "salary": {
-    "state": "unavailable"
-  },
-  "scores": {
-    "ai": 58,
-    "comp": 60,
-    "company": 66,
-    "location": 100,
-    "seniority": 100,
-    "skill": 43
-  },
-  "seniority": "junior",
-  "snippet": "Experience: 0 to 4 Yrs\nSkills: Problem Solving, Communication Skills, Basic Computer Knowledge, SQL, Python\n(Summary from the Shine.com listing; open the posting for the full description.)",
-  "source_primary": "Shine.com",
-  "sources": [
-    {
-      "id": "shine",
-      "job_id": "19559755",
-      "kind": "board",
-      "name": "Shine.com",
-      "posted_at": "2026-09-16T10:38:36Z",
-      "seen_at": "2026-10-20T13:44:34Z",
-      "url": "https://www.shine.com/jobs/entry-level-software-qa-test-engineer-at-medpace/medpace/19559755"
-    }
-  ],
-  "specializations": [],
-  "status": "active",
-  "tier": 3,
-  "title": "Entry Level Software QA Test Engineer at Medpace",
-  "tools": [
-    "SQL / databases",
-    "Programming"
-  ],
-  "track": "software",
-  "updated_at": null,
-  "url": "https://www.shine.com/jobs/entry-level-software-qa-test-engineer-at-medpace/medpace/19559755",
-  "why": [
-    "QA / test engineer role",
-    "Asks for 0–4 years — you have about 2.5",
-    "Location lists India"
-  ],
-  "work_mode": "onsite",
-  "years_max": 4,
-  "years_min": 0
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "qa-engineer",
+ "last_verified": "2026-10-20T13:44:34Z",
+ "location": "Navi Mumbai, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-09-16T10:38:36Z",
+ "repost": false,
+ "requirements": [
+  "(Summary from the Shine.com listing; open the posting for the full description.)"
+ ],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 60,
+  "company": 66,
+  "location": 100,
+  "seniority": 100,
+  "skill": 43
+ },
+ "seniority": "junior",
+ "snippet": "Experience: 0 to 4 Yrs\nSkills: Problem Solving, Communication Skills, Basic Computer Knowledge, SQL, Python\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "19559755",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-09-16T10:38:36Z",
+   "seen_at": "2026-10-20T13:44:34Z",
+   "url": "https://www.shine.com/jobs/entry-level-software-qa-test-engineer-at-medpace/medpace/19559755"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 3,
+ "title": "Entry Level Software QA Test Engineer at Medpace",
+ "tools": [
+  "SQL / databases",
+  "Programming"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/entry-level-software-qa-test-engineer-at-medpace/medpace/19559755",
+ "why": [
+  "QA / test engineer role",
+  "Asks for 0–4 years — you have about 2.5",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": 4,
+ "years_min": 0
 }

@@ -182,6 +182,10 @@ def main():
     for k, v in new_links.items():
         if k not in ex_links: put("company_links", k, v, False)
         elif ex_links[k].get("linkedin") != v.get("linkedin"): put("company_links", k, v, True)
+    ex_sizes = load_coll(a.existing, "company_sizes")
+    for k, v in load_coll(a.out, "company_sizes").items():
+        if k not in ex_sizes: put("company_sizes", k, v, False)
+        elif (ex_sizes[k].get("range"), ex_sizes[k].get("employees")) != (v.get("range"), v.get("employees")): put("company_sizes", k, v, True)
     for k, v in new_checks.items():
         if k not in ex_checks: put("web_checks", k, v, False)
 

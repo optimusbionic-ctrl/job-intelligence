@@ -1,78 +1,78 @@
 {
-  "ats": {
-    "slug": "tgc",
-    "type": "ashby"
-  },
-  "category": "Other",
-  "classification": "Inferred from job description",
-  "india_hiring": {
-    "board": {
-      "apac": 0,
-      "countries": [
-        "United Kingdom"
-      ],
-      "india": 0,
-      "india_samples": [],
-      "open_samples": [],
-      "remote": 6,
-      "restricted_remote": 6,
-      "restricted_samples": [
-        {
-          "location": "London",
-          "title": "Communities & Events Talent Pool",
-          "url": "https://jobs.ashbyhq.com/tgc/1192eeb2-ad73-48f5-991d-4d11e4591022"
-        },
-        {
-          "location": "London",
-          "title": "Creative Talent Pool",
-          "url": "https://jobs.ashbyhq.com/tgc/b502456e-5b19-4941-af1d-444483eabcd7"
-        },
-        {
-          "location": "London",
-          "title": "Ex-Founders Talent Pool",
-          "url": "https://jobs.ashbyhq.com/tgc/0d65abfa-e51b-4109-bfbb-a601e94aa146"
-        },
-        {
-          "location": "London",
-          "title": "Go-To-Market & Growth Talent Pool",
-          "url": "https://jobs.ashbyhq.com/tgc/cb44dfe0-3a2e-4812-8917-9f889bdd170b"
-        }
-      ],
-      "slug": "tgc",
-      "total": 6,
-      "type": "ashby",
-      "url": "https://jobs.ashbyhq.com/tgc",
-      "worldwide": 0
+ "ats": {
+  "slug": "tgc",
+  "type": "ashby"
+ },
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": {
+   "apac": 0,
+   "countries": [
+    "United Kingdom"
+   ],
+   "india": 0,
+   "india_samples": [],
+   "open_samples": [],
+   "remote": 6,
+   "restricted_remote": 6,
+   "restricted_samples": [
+    {
+     "location": "London",
+     "title": "Communities & Events Talent Pool",
+     "url": "https://jobs.ashbyhq.com/tgc/1192eeb2-ad73-48f5-991d-4d11e4591022"
     },
-    "changed_at": "2026-10-19T13:24:59Z",
-    "evidence": [
-      {
-        "detail": "QA Engineer (Software Tester) - Fresher — Pune, India",
-        "kind": "posting",
-        "label": "A current posting lists India as a location",
-        "url": "https://www.shine.com/jobs/qa-engineer-software-tester-fresher/tgc-technologies-private-limited/19556381",
-        "weight": 5
-      },
-      {
-        "detail": "None are located in India or open worldwide; 6 remote roles are limited to named countries",
-        "kind": "board",
-        "label": "All 6 open roles are in United Kingdom",
-        "url": "https://jobs.ashbyhq.com/tgc",
-        "weight": -3
-      }
-    ],
-    "first_checked_at": "2026-10-19T13:24:59Z",
-    "india_based": false,
-    "method": "Careers board, posting text",
-    "sig": "3b121730c0",
-    "summary": "A current posting lists India as a location.",
-    "verdict": "yes"
+    {
+     "location": "London",
+     "title": "Creative Talent Pool",
+     "url": "https://jobs.ashbyhq.com/tgc/b502456e-5b19-4941-af1d-444483eabcd7"
+    },
+    {
+     "location": "London",
+     "title": "Ex-Founders Talent Pool",
+     "url": "https://jobs.ashbyhq.com/tgc/0d65abfa-e51b-4109-bfbb-a601e94aa146"
+    },
+    {
+     "location": "London",
+     "title": "Go-To-Market & Growth Talent Pool",
+     "url": "https://jobs.ashbyhq.com/tgc/cb44dfe0-3a2e-4812-8917-9f889bdd170b"
+    }
+   ],
+   "slug": "tgc",
+   "total": 6,
+   "type": "ashby",
+   "url": "https://jobs.ashbyhq.com/tgc",
+   "worldwide": 0
   },
-  "inferred": true,
-  "name": "TGC Technologies Private Limited",
-  "slug": "tgc-technologies-private-limited",
-  "tier": 3,
-  "tracks": [
-    "software"
-  ]
+  "changed_at": "2026-10-19T13:24:59Z",
+  "evidence": [
+   {
+    "detail": "QA Engineer (Software Tester) - Fresher — Pune, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/qa-engineer-software-tester-fresher/tgc-technologies-private-limited/19556381",
+    "weight": 5
+   },
+   {
+    "detail": "None are located in India or open worldwide; 6 remote roles are limited to named countries",
+    "kind": "board",
+    "label": "All 6 open roles are in United Kingdom",
+    "url": "https://jobs.ashbyhq.com/tgc",
+    "weight": -3
+   }
+  ],
+  "first_checked_at": "2026-10-19T13:24:59Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "3b121730c0",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "TGC Technologies Private Limited",
+ "slug": "tgc-technologies-private-limited",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
 }

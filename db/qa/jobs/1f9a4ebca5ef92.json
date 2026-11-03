@@ -1,0 +1,87 @@
+{
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/qa-engineer/instance-it-solutions/19522942",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "Instance IT Solutions",
+ "company_slug": "instance-it-solutions",
+ "concerns": [
+  "Office outside Mumbai — relocation within India",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "db3d2e420d57",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-10-28T10:45:08Z",
+ "fit": 80,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "1f9a4ebca5ef92",
+ "include_reason": "QA / test engineer title",
+ "india": {
+  "cities": [],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "qa-engineer",
+ "last_verified": "2026-10-28T10:45:08Z",
+ "location": "Surat, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-09-03T00:13:37Z",
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 60,
+  "company": 66,
+  "location": 80,
+  "seniority": 100,
+  "skill": 86
+ },
+ "seniority": "unspecified",
+ "snippet": "Experience: 0 to 4 Yrs\nSkills: software testing, test cases, test scenarios, regression testing, analytical skills, communication skills, bug tracking systems, problemsolving skills\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "19522942",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-09-03T00:13:37Z",
+   "seen_at": "2026-10-28T10:45:08Z",
+   "url": "https://www.shine.com/jobs/qa-engineer/instance-it-solutions/19522942"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 3,
+ "title": "QA Engineer",
+ "tools": [
+  "Regression testing",
+  "Test cases & scenarios",
+  "Bug reporting"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/qa-engineer/instance-it-solutions/19522942",
+ "why": [
+  "QA / test engineer role",
+  "Already on your resume: Regression testing, Test cases & scenarios, Bug reporting",
+  "Asks for 0–4 years — you have about 2.5",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": 4,
+ "years_min": 0
+}

@@ -1,121 +1,121 @@
 {
-  "apply_url": null,
-  "board_apply": "https://himalayas.app/companies/quantum-strides-llc/jobs/ai-assisted-multimedia-marketing-specialist?utm_source=api",
-  "category": "AI",
-  "comp_potential": "unknown",
-  "company": "Quantum Strides LLC",
-  "company_slug": "quantum-strides-llc",
-  "concerns": [
-    "Pay not disclosed — showing a low-confidence estimate"
-  ],
-  "contacts_count": 0,
-  "content_hash": "6647b6064fd4",
-  "date_quality": "exact",
-  "deadline": "2026-12-10T05:52:05Z",
-  "employment": "full-time",
-  "first_seen": "2026-10-15T15:27:11Z",
-  "fit": 80,
-  "has_hiring_manager": false,
-  "has_named_contact": false,
-  "has_public_email": false,
-  "id": "098eef9508b41b",
-  "include_reason": "Adjacent title — motion responsibilities need review",
-  "india": {
-    "cities": [],
-    "company": "yes",
-    "reason": "Location lists India",
-    "status": "confirmed",
-    "visa": false
+ "apply_url": null,
+ "board_apply": "https://himalayas.app/companies/quantum-strides-llc/jobs/ai-assisted-multimedia-marketing-specialist?utm_source=api",
+ "category": "AI",
+ "comp_potential": "unknown",
+ "company": "Quantum Strides LLC",
+ "company_slug": "quantum-strides-llc",
+ "concerns": [
+  "Pay not disclosed — showing a low-confidence estimate"
+ ],
+ "contacts_count": 0,
+ "content_hash": "6647b6064fd4",
+ "date_quality": "exact",
+ "deadline": "2026-12-10T05:52:05Z",
+ "employment": "full-time",
+ "first_seen": "2026-10-15T15:27:11Z",
+ "fit": 80,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "098eef9508b41b",
+ "include_reason": "Adjacent title — motion responsibilities need review",
+ "india": {
+  "cities": [],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "adjacent",
+ "last_verified": "2026-10-18T22:27:20Z",
+ "location": "India",
+ "logo": "https://cdn-images.himalayas.app/iicdg3s8sbwl12qgicwgcgxoqzmt",
+ "needs_review": true,
+ "official": false,
+ "posted_at": "2026-10-11T05:52:06Z",
+ "repost": false,
+ "requirements": [
+  "Bachelors degree/diploma in Graphic Design, Marketing, IT, or a related field.",
+  "Proven experience in graphic design, video editing, and social media marketing.",
+  "Knowledge of AI-based creative tools like Adobe Firefly, Midjourney, and DALL·E.",
+  "Proficiency in Adobe Creative Suite (Photoshop, Illustrator, Premiere Pro, After Effects, etc.).",
+  "Basic understanding of website technologies (WordPress, HTML, CSS, SEO).",
+  "Ability to work independently and collaboratively in a fast-paced environment.",
+  "Work in a dynamic and innovative environment that values creativity and technology."
+ ],
+ "responsibilities": [
+  "Create high-quality graphics, illustrations, and videos for social media, websites, and marketing campaigns.",
+  "Utilize AI-powered design tools (e.g., Adobe Firefly, Canva AI, Midjourney) for creative content generation.",
+  "Edit and enhance videos using AI-assisted video editing tools (e.g., Runway ML, Adobe Premiere Pro, CapCut).",
+  "Develop engaging motion graphics, animations, and short-form videos."
+ ],
+ "salary": {
+  "estimate": {
+   "confidence": "low",
+   "currency": "INR",
+   "evidence": [
+    "ab-senior-motion-designer-in",
+    "ab-senior-motion-graphic-designer-in",
+    "gd-senior-motion-designer-blr"
+   ],
+   "high": 920000,
+   "inr_high": 920000,
+   "inr_low": 800000,
+   "low": 800000,
+   "method": "India market averages for senior motion designers from 3 sources (AmbitionBox ×2, Glassdoor Bangalore): ₹8.0–9.2 LPA. These are averages across all employers and experience around 3 years; product companies like this one may pay more, but no company-specific pay data was found.",
+   "potential": "unknown"
   },
-  "kind": "adjacent",
-  "last_verified": "2026-10-18T22:27:20Z",
-  "location": "India",
-  "logo": "https://cdn-images.himalayas.app/iicdg3s8sbwl12qgicwgcgxoqzmt",
-  "needs_review": true,
-  "official": false,
-  "posted_at": "2026-10-11T05:52:06Z",
-  "repost": false,
-  "requirements": [
-    "Bachelors degree/diploma in Graphic Design, Marketing, IT, or a related field.",
-    "Proven experience in graphic design, video editing, and social media marketing.",
-    "Knowledge of AI-based creative tools like Adobe Firefly, Midjourney, and DALL·E.",
-    "Proficiency in Adobe Creative Suite (Photoshop, Illustrator, Premiere Pro, After Effects, etc.).",
-    "Basic understanding of website technologies (WordPress, HTML, CSS, SEO).",
-    "Ability to work independently and collaboratively in a fast-paced environment.",
-    "Work in a dynamic and innovative environment that values creativity and technology."
-  ],
-  "responsibilities": [
-    "Create high-quality graphics, illustrations, and videos for social media, websites, and marketing campaigns.",
-    "Utilize AI-powered design tools (e.g., Adobe Firefly, Canva AI, Midjourney) for creative content generation.",
-    "Edit and enhance videos using AI-assisted video editing tools (e.g., Runway ML, Adobe Premiere Pro, CapCut).",
-    "Develop engaging motion graphics, animations, and short-form videos."
-  ],
-  "salary": {
-    "estimate": {
-      "confidence": "low",
-      "currency": "INR",
-      "evidence": [
-        "ab-senior-motion-designer-in",
-        "ab-senior-motion-graphic-designer-in",
-        "gd-senior-motion-designer-blr"
-      ],
-      "high": 920000,
-      "inr_high": 920000,
-      "inr_low": 800000,
-      "low": 800000,
-      "method": "India market averages for senior motion designers from 3 sources (AmbitionBox ×2, Glassdoor Bangalore): ₹8.0–9.2 LPA. These are averages across all employers and experience around 3 years; product companies like this one may pay more, but no company-specific pay data was found.",
-      "potential": "unknown"
-    },
-    "note": "Estimate — not employer-confirmed",
-    "state": "estimate",
-    "verified_at": "2026-10-18T22:27:20Z"
-  },
-  "scores": {
-    "ai": 100,
-    "comp": 48,
-    "company": 98,
-    "location": 100,
-    "seniority": 66,
-    "skill": 78
-  },
-  "seniority": "unspecified",
-  "snippet": "Job Title : AI-Assisted Multimedia & Marketing Specialist\n Department: Marketing\n Location: (Remote-WFH)\n Experience: 2-5 years\n Employment Type: Full-time\n Company Overview:\n Quantum Strides LLC is a premier System Integrator and IBM Business Partner specializing in the implementation of IBM TRIRIGA and IBM Maximo. With our headquarters in Herndon, Virginia, USA, and our global presence through subsidiaries and team",
-  "source_primary": "Himalayas",
-  "sources": [
-    {
-      "id": "himalayas",
-      "job_id": "https://himalayas.app/companies/quantum-strides-llc/jobs/ai-assisted-multimedia-marketing-specialist",
-      "kind": "board",
-      "name": "Himalayas",
-      "posted_at": "2026-10-11T05:52:06Z",
-      "seen_at": "2026-10-18T22:27:20Z",
-      "url": "https://himalayas.app/companies/quantum-strides-llc/jobs/ai-assisted-multimedia-marketing-specialist?utm_source=api"
-    }
-  ],
-  "specializations": [
-    "AI-generated video",
-    "Interaction systems"
-  ],
-  "status": "active",
-  "tier": 1,
-  "title": "AI-Assisted Multimedia & Marketing Specialist",
-  "tools": [
-    "After Effects",
-    "Premiere Pro",
-    "Illustrator",
-    "Photoshop",
-    "Runway",
-    "Firefly",
-    "Midjourney"
-  ],
-  "updated_at": null,
-  "url": "https://himalayas.app/companies/quantum-strides-llc/jobs/ai-assisted-multimedia-marketing-specialist?utm_source=api",
-  "why": [
-    "Tools you already use: After Effects, Premiere Pro, Illustrator, Photoshop, Runway",
-    "Specialisations in scope: AI-generated video, Interaction systems",
-    "AI company (Tier 1 priority)",
-    "Location lists India"
-  ],
-  "work_mode": "remote",
-  "years_min": null
+  "note": "Estimate — not employer-confirmed",
+  "state": "estimate",
+  "verified_at": "2026-10-18T22:27:20Z"
+ },
+ "scores": {
+  "ai": 100,
+  "comp": 48,
+  "company": 98,
+  "location": 100,
+  "seniority": 66,
+  "skill": 78
+ },
+ "seniority": "unspecified",
+ "snippet": "Job Title : AI-Assisted Multimedia & Marketing Specialist\n Department: Marketing\n Location: (Remote-WFH)\n Experience: 2-5 years\n Employment Type: Full-time\n Company Overview:\n Quantum Strides LLC is a premier System Integrator and IBM Business Partner specializing in the implementation of IBM TRIRIGA and IBM Maximo. With our headquarters in Herndon, Virginia, USA, and our global presence through subsidiaries and team",
+ "source_primary": "Himalayas",
+ "sources": [
+  {
+   "id": "himalayas",
+   "job_id": "https://himalayas.app/companies/quantum-strides-llc/jobs/ai-assisted-multimedia-marketing-specialist",
+   "kind": "board",
+   "name": "Himalayas",
+   "posted_at": "2026-10-11T05:52:06Z",
+   "seen_at": "2026-10-18T22:27:20Z",
+   "url": "https://himalayas.app/companies/quantum-strides-llc/jobs/ai-assisted-multimedia-marketing-specialist?utm_source=api"
+  }
+ ],
+ "specializations": [
+  "AI-generated video",
+  "Interaction systems"
+ ],
+ "status": "active",
+ "tier": 1,
+ "title": "AI-Assisted Multimedia & Marketing Specialist",
+ "tools": [
+  "After Effects",
+  "Premiere Pro",
+  "Illustrator",
+  "Photoshop",
+  "Runway",
+  "Firefly",
+  "Midjourney"
+ ],
+ "updated_at": null,
+ "url": "https://himalayas.app/companies/quantum-strides-llc/jobs/ai-assisted-multimedia-marketing-specialist?utm_source=api",
+ "why": [
+  "Tools you already use: After Effects, Premiere Pro, Illustrator, Photoshop, Runway",
+  "Specialisations in scope: AI-generated video, Interaction systems",
+  "AI company (Tier 1 priority)",
+  "Location lists India"
+ ],
+ "work_mode": "remote",
+ "years_min": null
 }

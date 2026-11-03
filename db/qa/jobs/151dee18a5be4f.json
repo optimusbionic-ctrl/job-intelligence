@@ -1,0 +1,112 @@
+{
+ "apply_url": null,
+ "board_apply": "https://jobs.workable.com/view/6s3faRVy1EKiNWoho3SrFE/remote-guidewire-qa-engineer-in-india-at-weekday-ai",
+ "category": "Fintech",
+ "comp_potential": "unknown",
+ "company": "Weekday AI",
+ "company_slug": "weekday-ai",
+ "concerns": [
+  "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
+  "Also asks for: API testing, SQL / databases, Programming",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "033e84c7e8f9",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-10-29T08:43:46Z",
+ "fit": 77,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "151dee18a5be4f",
+ "include_reason": "Automation-heavy QA (SDET)",
+ "india": {
+  "cities": [],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "automation",
+ "last_verified": "2026-10-29T08:43:46Z",
+ "location": "India (Remote)",
+ "logo": "https://workablehr.s3.amazonaws.com/uploads/account/logo/691818/logo",
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-10-29T08:25:09Z",
+ "repost": false,
+ "requirements": [
+  "3–5 years of experience in software testing or quality assurance.",
+  "At least 2 years of hands-on experience testing Guidewire InsuranceSuite applications.",
+  "Experience with Guidewire PolicyCenter, ClaimCenter, and/or BillingCenter.",
+  "Strong knowledge of manual testing, functional testing, integration testing, and regression testing.",
+  "Experience with API testing and validation of application integrations.",
+  "Understanding of the Software Development Life Cycle (SDLC) and Software Testing Life Cycle (STLC).",
+  "Ability to write SQL queries for data validation and testing."
+ ],
+ "responsibilities": [
+  "1. Test Planning and Execution",
+  "Develop, maintain, and execute test plans, test cases, and test scripts for Guidewire applications.",
+  "Perform functional, integration, regression, system, and User Acceptance Testing (UAT).",
+  "Validate Guidewire InsuranceSuite implementations, including PolicyCenter, ClaimCenter, and BillingCenter.",
+  "Analyse business and technical requirements to design comprehensive test scenarios and ensure adequate test coverage.",
+  "Execute test cases and document results to verify that applications meet functional and business requirements.",
+  "2. Guidewire Application Testing"
+ ],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 60,
+  "company": 95,
+  "location": 100,
+  "seniority": 94,
+  "skill": 58
+ },
+ "seniority": "unspecified",
+ "snippet": "This role is for one of Weekday’s clients \n\nMin Experience: 5+ years\nLocation: Remote\nJobType: full-time\n\n We are seeking a detail-oriented Guidewire QA Engineer to ensure the quality, reliability, and performance of Guidewire InsuranceSuite applications. The ideal candidate will have hands-on experience in software testing and quality assurance, with a strong understanding of Guidewire PolicyCenter, ClaimCenter, and",
+ "source_primary": "Workable job marketplace",
+ "sources": [
+  {
+   "id": "workable",
+   "job_id": "2c206a17-c9a3-41d6-8af6-8f0202f48c30",
+   "kind": "board",
+   "name": "Workable job marketplace",
+   "posted_at": "2026-10-29T08:25:09Z",
+   "seen_at": "2026-10-29T08:43:46Z",
+   "url": "https://jobs.workable.com/view/6s3faRVy1EKiNWoho3SrFE/remote-guidewire-qa-engineer-in-india-at-weekday-ai"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 1,
+ "title": "Guidewire QA Engineer",
+ "tools": [
+  "Functional testing",
+  "Regression testing",
+  "Usability testing",
+  "Test cases & scenarios",
+  "Bug reporting",
+  "Jira",
+  "API testing",
+  "SQL / databases",
+  "Test automation",
+  "Programming",
+  "Agile / Scrum"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://jobs.workable.com/view/6s3faRVy1EKiNWoho3SrFE/remote-guidewire-qa-engineer-in-india-at-weekday-ai",
+ "why": [
+  "Already on your resume: Functional testing, Regression testing, Usability testing, Test cases & scenarios, Bug reporting, Jira",
+  "Fintech company",
+  "Asks for 3+ years — you have about 2.5",
+  "Location lists India"
+ ],
+ "work_mode": "remote",
+ "years_max": 5,
+ "years_min": 3
+}

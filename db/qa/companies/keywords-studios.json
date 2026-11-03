@@ -54,33 +54,33 @@
     }
    ],
    "slug": "keywordsstudios",
-   "total": 34,
+   "total": 35,
    "type": "smartrecruiters",
    "url": "https://jobs.smartrecruiters.com/keywordsstudios",
    "worldwide": 0
   },
-  "changed_at": "2026-10-27T10:50:24Z",
+  "changed_at": "2026-10-29T22:43:36Z",
   "evidence": [
    {
     "detail": "Subtitling Project Coordinator - TEST TEST TEST DO NOT APPLY (Manila, NCR, Philippines)",
     "kind": "board",
-    "label": "1 of 34 open roles is located in India",
+    "label": "1 of 35 open roles is located in India",
     "url": "https://jobs.smartrecruiters.com/keywordsstudios",
     "weight": 5
    },
    {
-    "detail": "Video Game Tester (Gurugram) — All India",
+    "detail": "Video Game Tester — Bengaluru, India",
     "kind": "posting",
     "label": "A current posting lists India as a location",
-    "url": "https://www.shine.com/jobs/video-game-tester-gurugram/keywords-studios/19475268",
+    "url": "https://apply.workable.com/keywords-intl1/jobs/view/5ED9F71BC6.md",
     "weight": 5
    }
   ],
   "first_checked_at": "2026-10-19T13:24:59Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "70f01e8b4e",
-  "summary": "1 of 34 open roles is located in India.",
+  "sig": "c4c83ac95f",
+  "summary": "1 of 35 open roles is located in India.",
   "verdict": "yes"
  },
  "name": "Keywords Studios",

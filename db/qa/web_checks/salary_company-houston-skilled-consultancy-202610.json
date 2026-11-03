@@ -1,0 +1,9 @@
+{
+ "checked_at": "2026-10-28T04:44:00Z",
+ "found": 0,
+ "kind": "salary_company",
+ "name": "Houston Skilled Consultancy",
+ "query": "\"Houston Skilled Consultancy\" (QA OR tester OR \"test engineer\") salary (site:ambitionbox.com OR site:glassdoor.co.in OR site:glassdoor.com OR site:payscale.com)",
+ "results": 8,
+ "slug": "houston-skilled-consultancy"
+}

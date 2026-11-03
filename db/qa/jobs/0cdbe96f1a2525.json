@@ -1,117 +1,117 @@
 {
-  "apply_url": null,
-  "board_apply": "https://himalayas.app/companies/indiekidz/jobs/junior-software-test-qa-automation-engineer-ai-startup?utm_source=api",
-  "category": "Product / SaaS",
-  "comp_potential": "unknown",
-  "company": "IndieKidz",
-  "company_slug": "indiekidz",
-  "concerns": [
-    "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
-    "Also asks for: API testing, Programming",
-    "Entry-level role — pay may be at the lower end",
-    "Pay not disclosed — ask for the range early"
-  ],
-  "contacts_count": 0,
-  "content_hash": "b1a6db8def04",
-  "date_quality": "exact",
-  "deadline": "2026-12-14T14:53:52Z",
-  "employment": "full-time",
-  "first_seen": "2026-10-19T13:24:59Z",
-  "fit": 77,
-  "has_hiring_manager": false,
-  "has_named_contact": false,
-  "has_public_email": false,
-  "id": "0cdbe96f1a2525",
-  "include_reason": "Automation-heavy QA (SDET)",
-  "india": {
-    "cities": [],
-    "company": "yes",
-    "reason": "Location lists India",
-    "status": "confirmed",
-    "visa": false
+ "apply_url": null,
+ "board_apply": "https://himalayas.app/companies/indiekidz/jobs/junior-software-test-qa-automation-engineer-ai-startup?utm_source=api",
+ "category": "Product / SaaS",
+ "comp_potential": "unknown",
+ "company": "IndieKidz",
+ "company_slug": "indiekidz",
+ "concerns": [
+  "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
+  "Also asks for: API testing, Programming",
+  "Entry-level role — pay may be at the lower end",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "b1a6db8def04",
+ "date_quality": "exact",
+ "deadline": "2026-12-14T14:53:52Z",
+ "employment": "full-time",
+ "first_seen": "2026-10-19T13:24:59Z",
+ "fit": 77,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "0cdbe96f1a2525",
+ "include_reason": "Automation-heavy QA (SDET)",
+ "india": {
+  "cities": [],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "automation",
+ "last_verified": "2026-10-19T13:24:59Z",
+ "location": "India",
+ "logo": "https://cdn-images.himalayas.app/j5ld706ex39t0evojyi36wy0hejp",
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-10-15T03:38:23Z",
+ "repost": false,
+ "requirements": [
+  "Collaborate with the development team on test data strategies and stable selectors",
+  "Add API level tests to support UI testing and improve overall reliability",
+  "Run tests in CI pipelines, track failures, and help keep the test suite stable and maintainable",
+  "Use AI tools to speed up test creation, analysis, and maintenance",
+  "Document testing processes, findings, and quality recommendations"
+ ],
+ "responsibilities": [
+  "Build end-to-end UI test automation for the Occibo web app",
+  "Write test plans, test cases, and regression suites for core user flows",
+  "Translate product requirements into automated checks, including edge cases",
+  "Collaborate with the development team on test data strategies and stable selectors",
+  "Add API level tests to support UI testing and improve overall reliability",
+  "Run tests in CI pipelines, track failures, and help keep the test suite stable and maintainable",
+  "Use AI tools to speed up test creation, analysis, and maintenance"
+ ],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 62,
+  "comp": 60,
+  "company": 95,
+  "location": 100,
+  "seniority": 100,
+  "skill": 53
+ },
+ "seniority": "junior",
+ "snippet": "About Occibo\n Occibo is an AI-powered SaaS platform for children's book creation, built by IndieKidz GmbH in Berlin. We are a small, remote-first team looking for a QA Engineer to help us build and maintain automated testing so we can ship new features quickly and with confidence.\n Employment type \n Full-time position.\n Salary: up to INR 3.5 lakhs per year\n Tasks\n What you will do:\n\n• Build end-to-end UI test automat",
+ "source_primary": "Himalayas",
+ "sources": [
+  {
+   "id": "himalayas",
+   "job_id": "https://himalayas.app/companies/indiekidz/jobs/junior-software-test-qa-automation-engineer-ai-startup",
+   "kind": "board",
+   "name": "Himalayas",
+   "posted_at": "2026-10-15T14:53:52Z",
+   "seen_at": "2026-10-19T13:24:59Z",
+   "url": "https://himalayas.app/companies/indiekidz/jobs/junior-software-test-qa-automation-engineer-ai-startup?utm_source=api"
   },
-  "kind": "automation",
-  "last_verified": "2026-10-19T13:24:59Z",
-  "location": "India",
-  "logo": "https://cdn-images.himalayas.app/j5ld706ex39t0evojyi36wy0hejp",
-  "needs_review": false,
-  "official": false,
-  "posted_at": "2026-10-15T03:38:23Z",
-  "repost": false,
-  "requirements": [
-    "Collaborate with the development team on test data strategies and stable selectors",
-    "Add API level tests to support UI testing and improve overall reliability",
-    "Run tests in CI pipelines, track failures, and help keep the test suite stable and maintainable",
-    "Use AI tools to speed up test creation, analysis, and maintenance",
-    "Document testing processes, findings, and quality recommendations"
-  ],
-  "responsibilities": [
-    "Build end-to-end UI test automation for the Occibo web app",
-    "Write test plans, test cases, and regression suites for core user flows",
-    "Translate product requirements into automated checks, including edge cases",
-    "Collaborate with the development team on test data strategies and stable selectors",
-    "Add API level tests to support UI testing and improve overall reliability",
-    "Run tests in CI pipelines, track failures, and help keep the test suite stable and maintainable",
-    "Use AI tools to speed up test creation, analysis, and maintenance"
-  ],
-  "salary": {
-    "state": "unavailable"
-  },
-  "scores": {
-    "ai": 62,
-    "comp": 60,
-    "company": 95,
-    "location": 100,
-    "seniority": 100,
-    "skill": 53
-  },
-  "seniority": "junior",
-  "snippet": "About Occibo\n Occibo is an AI-powered SaaS platform for children's book creation, built by IndieKidz GmbH in Berlin. We are a small, remote-first team looking for a QA Engineer to help us build and maintain automated testing so we can ship new features quickly and with confidence.\n Employment type \n Full-time position.\n Salary: up to INR 3.5 lakhs per year\n Tasks\n What you will do:\n\n• Build end-to-end UI test automat",
-  "source_primary": "Himalayas",
-  "sources": [
-    {
-      "id": "himalayas",
-      "job_id": "https://himalayas.app/companies/indiekidz/jobs/junior-software-test-qa-automation-engineer-ai-startup",
-      "kind": "board",
-      "name": "Himalayas",
-      "posted_at": "2026-10-15T14:53:52Z",
-      "seen_at": "2026-10-19T13:24:59Z",
-      "url": "https://himalayas.app/companies/indiekidz/jobs/junior-software-test-qa-automation-engineer-ai-startup?utm_source=api"
-    },
-    {
-      "id": "himalayas",
-      "job_id": "https://himalayas.app/companies/indiekidz/jobs/software-test-qa-automation-engineer-ai-startup-remote-eu-time-zone",
-      "kind": "board",
-      "name": "Himalayas",
-      "posted_at": "2026-10-15T03:38:23Z",
-      "seen_at": "2026-10-19T13:24:59Z",
-      "url": "https://himalayas.app/companies/indiekidz/jobs/software-test-qa-automation-engineer-ai-startup-remote-eu-time-zone?utm_source=api"
-    }
-  ],
-  "specializations": [
-    "Web apps"
-  ],
-  "status": "active",
-  "tier": 1,
-  "title": "Junior Software Test (QA) Automation Engineer - AI Startup",
-  "tools": [
-    "Regression testing",
-    "UI testing",
-    "Test cases & scenarios",
-    "API testing",
-    "Test automation",
-    "Programming"
-  ],
-  "track": "software",
-  "updated_at": null,
-  "url": "https://himalayas.app/companies/indiekidz/jobs/junior-software-test-qa-automation-engineer-ai-startup?utm_source=api",
-  "why": [
-    "Already on your resume: Regression testing, UI testing, Test cases & scenarios",
-    "Product / SaaS company",
-    "Asks for 2+ years — you have about 2.5",
-    "Location lists India"
-  ],
-  "work_mode": "remote",
-  "years_max": null,
-  "years_min": 2
+  {
+   "id": "himalayas",
+   "job_id": "https://himalayas.app/companies/indiekidz/jobs/software-test-qa-automation-engineer-ai-startup-remote-eu-time-zone",
+   "kind": "board",
+   "name": "Himalayas",
+   "posted_at": "2026-10-15T03:38:23Z",
+   "seen_at": "2026-10-19T13:24:59Z",
+   "url": "https://himalayas.app/companies/indiekidz/jobs/software-test-qa-automation-engineer-ai-startup-remote-eu-time-zone?utm_source=api"
+  }
+ ],
+ "specializations": [
+  "Web apps"
+ ],
+ "status": "active",
+ "tier": 1,
+ "title": "Junior Software Test (QA) Automation Engineer - AI Startup",
+ "tools": [
+  "Regression testing",
+  "UI testing",
+  "Test cases & scenarios",
+  "API testing",
+  "Test automation",
+  "Programming"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://himalayas.app/companies/indiekidz/jobs/junior-software-test-qa-automation-engineer-ai-startup?utm_source=api",
+ "why": [
+  "Already on your resume: Regression testing, UI testing, Test cases & scenarios",
+  "Product / SaaS company",
+  "Asks for 2+ years — you have about 2.5",
+  "Location lists India"
+ ],
+ "work_mode": "remote",
+ "years_max": null,
+ "years_min": 2
 }

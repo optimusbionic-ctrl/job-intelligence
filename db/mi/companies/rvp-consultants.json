@@ -1,0 +1,28 @@
+{
+ "category": "SaaS",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-03T10:27:01Z",
+  "evidence": [
+   {
+    "detail": "Motion Graphics Designer — India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://himalayas.app/companies/rvp-consultants/jobs/motion-graphics-designer?utm_source=api",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-03T10:27:01Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "ec1d2f4b8c",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "logo": "https://cdn-images.himalayas.app/jnpvawd6rb2zwjwkswrxved28c33",
+ "name": "RVP Consultants",
+ "slug": "rvp-consultants",
+ "tier": 1
+}

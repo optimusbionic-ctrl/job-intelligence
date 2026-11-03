@@ -1,90 +1,92 @@
 {
-  "apply_url": null,
-  "board_apply": "https://www.shine.com/jobs/qa-engineer-sr-qa-engineer/ncircle-tech/19881482",
-  "category": "Other",
-  "comp_potential": "unknown",
-  "company": "nCircle Tech",
-  "company_slug": "ncircle-tech",
-  "concerns": [
-    "Also asks for: API testing, SQL / databases",
-    "Asks for 4+ years — you have about 2.5",
-    "Pay not disclosed — ask for the range early"
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/qa-engineer-sr-qa-engineer/ncircle-tech-pvt-ltd/19886079",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "nCircle Tech Pvt. Ltd.",
+ "company_slug": "ncircle-tech-pvt-ltd",
+ "concerns": [
+  "Also asks for: API testing, SQL / databases",
+  "Asks for 4+ years — you have about 2.5",
+  "Office outside Mumbai — relocation within India",
+  "Pay not disclosed — ask for the range early",
+  "Reposted / refreshed listing — original posting is older"
+ ],
+ "contacts_count": 0,
+ "content_hash": "55f68ea8809a",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-10-23T14:44:10Z",
+ "fit": 69,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "80800ab18200f4",
+ "include_reason": "QA / test engineer title",
+ "india": {
+  "cities": [
+   "Pune"
   ],
-  "contacts_count": 0,
-  "content_hash": "59e33a27856a",
-  "date_quality": "exact",
-  "deadline": null,
-  "employment": "full-time",
-  "first_seen": "2026-10-23T14:44:10Z",
-  "fit": 73,
-  "has_hiring_manager": false,
-  "has_named_contact": false,
-  "has_public_email": false,
-  "id": "80800ab18200f4",
-  "include_reason": "QA / test engineer title",
-  "india": {
-    "cities": [
-      "Mumbai"
-    ],
-    "company": "yes",
-    "reason": "Location lists India",
-    "status": "confirmed",
-    "visa": false
-  },
-  "kind": "qa-engineer",
-  "last_verified": "2026-10-24T09:44:22Z",
-  "location": "Mumbai City, India",
-  "logo": null,
-  "needs_review": false,
-  "official": false,
-  "posted_at": "2026-10-22T08:47:16Z",
-  "repost": false,
-  "requirements": [],
-  "responsibilities": [],
-  "salary": {
-    "state": "unavailable"
-  },
-  "scores": {
-    "ai": 58,
-    "comp": 60,
-    "company": 66,
-    "location": 100,
-    "seniority": 72,
-    "skill": 72
-  },
-  "seniority": "unspecified",
-  "snippet": "Experience: 4 to 8 Yrs\nSkills: manual testing, API testing, Regression Testing, Jira, Azure DevOps, Confluence, database validation, endtoend testing, SQL Database Validation, REST APIs\n(Summary from the Shine.com listing; open the posting for the full description.)",
-  "source_primary": "Shine.com",
-  "sources": [
-    {
-      "id": "shine",
-      "job_id": "19881482",
-      "kind": "board",
-      "name": "Shine.com",
-      "posted_at": "2026-10-22T08:47:16Z",
-      "seen_at": "2026-10-24T09:44:22Z",
-      "url": "https://www.shine.com/jobs/qa-engineer-sr-qa-engineer/ncircle-tech/19881482"
-    }
-  ],
-  "specializations": [],
-  "status": "active",
-  "tier": 3,
-  "title": "QA Engineer / Sr QA Engineer",
-  "tools": [
-    "Regression testing",
-    "Jira",
-    "API testing",
-    "SQL / databases"
-  ],
-  "track": "software",
-  "updated_at": null,
-  "url": "https://www.shine.com/jobs/qa-engineer-sr-qa-engineer/ncircle-tech/19881482",
-  "why": [
-    "QA / test engineer role",
-    "Already on your resume: Regression testing, Jira",
-    "Location lists India"
-  ],
-  "work_mode": "onsite",
-  "years_max": 8,
-  "years_min": 4
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "qa-engineer",
+ "last_verified": "2026-10-28T10:45:08Z",
+ "location": "Pune, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-10-22T10:09:02Z",
+ "repost": true,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 60,
+  "company": 66,
+  "location": 78,
+  "seniority": 72,
+  "skill": 72
+ },
+ "seniority": "unspecified",
+ "snippet": "Experience: 4 to 8 Yrs\nSkills: manual testing, API testing, Regression Testing, SQL, Jira, Azure DevOps, database validation, endtoend testing, Postman, Swagger\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "19886079",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-10-22T10:09:02Z",
+   "seen_at": "2026-10-28T10:45:08Z",
+   "url": "https://www.shine.com/jobs/qa-engineer-sr-qa-engineer/ncircle-tech-pvt-ltd/19886079"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 3,
+ "title": "QA Engineer / Sr QA Engineer",
+ "tools": [
+  "Regression testing",
+  "Jira",
+  "API testing",
+  "SQL / databases"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/qa-engineer-sr-qa-engineer/ncircle-tech-pvt-ltd/19886079",
+ "why": [
+  "QA / test engineer role",
+  "Already on your resume: Regression testing, Jira",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": 8,
+ "years_min": 4
 }

@@ -1,119 +1,119 @@
 {
-  "apply_url": null,
-  "board_apply": "https://himalayas.app/companies/glen-group/jobs/graphic-designer-motion-graphic-designer?utm_source=api",
-  "category": "Agency / studio",
-  "comp_potential": "below",
-  "company": "GLEN GROUP",
-  "company_slug": "glen-group",
-  "concerns": [
-    "Pay evidence suggests below ₹35 LPA",
-    "Agency / studio (Tier 2)"
-  ],
-  "contacts_count": 0,
-  "content_hash": "97da338e0691",
-  "date_quality": "exact",
-  "deadline": "2026-12-01T08:25:04Z",
-  "employment": "full-time",
-  "first_seen": "2026-10-15T15:27:11Z",
-  "fit": 62,
-  "has_hiring_manager": false,
-  "has_named_contact": false,
-  "has_public_email": false,
-  "id": "9697df02914dfd",
-  "include_reason": "Mixed graphic + motion title",
-  "india": {
-    "cities": [],
-    "company": "yes",
-    "reason": "Location lists India",
-    "status": "confirmed",
-    "visa": false
-  },
-  "kind": "graphic-motion",
-  "last_verified": "2026-10-18T22:27:20Z",
-  "location": "India",
-  "logo": "https://cdn-images.himalayas.app/9n0zcmnt1wu2iey6vr3lr8gjgrx2",
-  "needs_review": false,
-  "official": false,
-  "posted_at": "2026-10-02T08:25:04Z",
-  "repost": false,
-  "requirements": [
-    "Proven experience as a Senior Graphic Designer or UI/UX Designer",
-    "Strong understanding of branding, layout design, and user experience principles",
-    "Ability to create unique, clean, and modern designs without relying heavily on references",
-    "Experience in social media design, digital content, and visual storytelling",
-    "Strong knowledge of print design and production (catalogs, brochures, and other printed materials)",
-    "Proficiency in Adobe Creative Suite (Photoshop, Illustrator, In Design and After Effects, Figma, and Canva (essential)",
-    "Ability to design professional layouts in PowerPoint and Word"
-  ],
-  "responsibilities": [
-    "Develop and maintain strong visual branding across all platforms",
-    "Understand and follow brand guidelines to ensure consistency in all designs",
-    "Create high-quality designs for social media, marketing materials, and digital platforms",
-    "Design user-friendly and visually engaging UI/UX for websites and digital products",
-    "Create motion graphics, video editing and assist with video content as required",
-    "Design and prepare print-ready files for materials such as catalogs, brochures, and other marketing collateral",
-    "Select and apply appropriate typography, colors, layouts, and imagery"
-  ],
-  "salary": {
-    "applies_india": true,
-    "basis": "listed",
-    "currency": "INR",
-    "fx_at": "Sun, 18 Oct 2026 00:02:31 +0000",
-    "fx_rate": 1,
-    "inr_max": 1080000,
-    "inr_min": 600000,
-    "max": 1080000,
-    "min": 600000,
-    "note": "Listed in the posting",
-    "original_period": "annual",
-    "period": "annual",
-    "source_name": "Himalayas",
-    "source_url": "https://himalayas.app/companies/glen-group/jobs/graphic-designer-motion-graphic-designer?utm_source=api",
-    "state": "verified",
-    "verified_at": "2026-10-18T22:27:20Z"
-  },
-  "scores": {
-    "ai": 44,
-    "comp": 22,
-    "company": 62,
-    "location": 100,
-    "seniority": 66,
-    "skill": 74
-  },
-  "seniority": "unspecified",
-  "snippet": "About Glen Group \n Glen Group is a dynamic and fast-growing organization dedicated to providing high-quality services across multiple industries, including traffic control, security, construction, and management. With a strong foundation built on integrity, innovation, and service excellence, we are committed to delivering value to our clients and fostering growth within our teams.\n Our Commitment to Diversity and In",
-  "source_primary": "Himalayas",
-  "sources": [
-    {
-      "id": "himalayas",
-      "job_id": "https://himalayas.app/companies/glen-group/jobs/graphic-designer-motion-graphic-designer",
-      "kind": "board",
-      "name": "Himalayas",
-      "posted_at": "2026-10-02T08:25:04Z",
-      "seen_at": "2026-10-18T22:27:20Z",
-      "url": "https://himalayas.app/companies/glen-group/jobs/graphic-designer-motion-graphic-designer?utm_source=api"
-    }
-  ],
-  "specializations": [
-    "Interaction systems",
-    "Technical storytelling"
-  ],
-  "status": "active",
-  "tier": 2,
-  "title": "Graphic Designer/Motion Graphic Designer",
-  "tools": [
-    "After Effects",
-    "Figma",
-    "Illustrator",
-    "Photoshop"
-  ],
-  "updated_at": null,
-  "url": "https://himalayas.app/companies/glen-group/jobs/graphic-designer-motion-graphic-designer?utm_source=api",
-  "why": [
-    "Tools you already use: After Effects, Figma, Illustrator, Photoshop",
-    "Specialisations in scope: Interaction systems, Technical storytelling",
-    "Location lists India"
-  ],
-  "work_mode": "remote",
-  "years_min": null
+ "apply_url": null,
+ "board_apply": "https://himalayas.app/companies/glen-group/jobs/graphic-designer-motion-graphic-designer?utm_source=api",
+ "category": "Agency / studio",
+ "comp_potential": "below",
+ "company": "GLEN GROUP",
+ "company_slug": "glen-group",
+ "concerns": [
+  "Pay evidence suggests below ₹35 LPA",
+  "Agency / studio (Tier 2)"
+ ],
+ "contacts_count": 0,
+ "content_hash": "97da338e0691",
+ "date_quality": "exact",
+ "deadline": "2026-12-01T08:25:04Z",
+ "employment": "full-time",
+ "first_seen": "2026-10-15T15:27:11Z",
+ "fit": 62,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "9697df02914dfd",
+ "include_reason": "Mixed graphic + motion title",
+ "india": {
+  "cities": [],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "graphic-motion",
+ "last_verified": "2026-10-18T22:27:20Z",
+ "location": "India",
+ "logo": "https://cdn-images.himalayas.app/9n0zcmnt1wu2iey6vr3lr8gjgrx2",
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-10-02T08:25:04Z",
+ "repost": false,
+ "requirements": [
+  "Proven experience as a Senior Graphic Designer or UI/UX Designer",
+  "Strong understanding of branding, layout design, and user experience principles",
+  "Ability to create unique, clean, and modern designs without relying heavily on references",
+  "Experience in social media design, digital content, and visual storytelling",
+  "Strong knowledge of print design and production (catalogs, brochures, and other printed materials)",
+  "Proficiency in Adobe Creative Suite (Photoshop, Illustrator, In Design and After Effects, Figma, and Canva (essential)",
+  "Ability to design professional layouts in PowerPoint and Word"
+ ],
+ "responsibilities": [
+  "Develop and maintain strong visual branding across all platforms",
+  "Understand and follow brand guidelines to ensure consistency in all designs",
+  "Create high-quality designs for social media, marketing materials, and digital platforms",
+  "Design user-friendly and visually engaging UI/UX for websites and digital products",
+  "Create motion graphics, video editing and assist with video content as required",
+  "Design and prepare print-ready files for materials such as catalogs, brochures, and other marketing collateral",
+  "Select and apply appropriate typography, colors, layouts, and imagery"
+ ],
+ "salary": {
+  "applies_india": true,
+  "basis": "listed",
+  "currency": "INR",
+  "fx_at": "Sun, 18 Oct 2026 00:02:31 +0000",
+  "fx_rate": 1,
+  "inr_max": 1080000,
+  "inr_min": 600000,
+  "max": 1080000,
+  "min": 600000,
+  "note": "Listed in the posting",
+  "original_period": "annual",
+  "period": "annual",
+  "source_name": "Himalayas",
+  "source_url": "https://himalayas.app/companies/glen-group/jobs/graphic-designer-motion-graphic-designer?utm_source=api",
+  "state": "verified",
+  "verified_at": "2026-10-18T22:27:20Z"
+ },
+ "scores": {
+  "ai": 44,
+  "comp": 22,
+  "company": 62,
+  "location": 100,
+  "seniority": 66,
+  "skill": 74
+ },
+ "seniority": "unspecified",
+ "snippet": "About Glen Group \n Glen Group is a dynamic and fast-growing organization dedicated to providing high-quality services across multiple industries, including traffic control, security, construction, and management. With a strong foundation built on integrity, innovation, and service excellence, we are committed to delivering value to our clients and fostering growth within our teams.\n Our Commitment to Diversity and In",
+ "source_primary": "Himalayas",
+ "sources": [
+  {
+   "id": "himalayas",
+   "job_id": "https://himalayas.app/companies/glen-group/jobs/graphic-designer-motion-graphic-designer",
+   "kind": "board",
+   "name": "Himalayas",
+   "posted_at": "2026-10-02T08:25:04Z",
+   "seen_at": "2026-10-18T22:27:20Z",
+   "url": "https://himalayas.app/companies/glen-group/jobs/graphic-designer-motion-graphic-designer?utm_source=api"
+  }
+ ],
+ "specializations": [
+  "Interaction systems",
+  "Technical storytelling"
+ ],
+ "status": "active",
+ "tier": 2,
+ "title": "Graphic Designer/Motion Graphic Designer",
+ "tools": [
+  "After Effects",
+  "Figma",
+  "Illustrator",
+  "Photoshop"
+ ],
+ "updated_at": null,
+ "url": "https://himalayas.app/companies/glen-group/jobs/graphic-designer-motion-graphic-designer?utm_source=api",
+ "why": [
+  "Tools you already use: After Effects, Figma, Illustrator, Photoshop",
+  "Specialisations in scope: Interaction systems, Technical storytelling",
+  "Location lists India"
+ ],
+ "work_mode": "remote",
+ "years_min": null
 }

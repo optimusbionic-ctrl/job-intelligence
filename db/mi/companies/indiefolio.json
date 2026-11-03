@@ -1,0 +1,27 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-30T00:27:41Z",
+  "evidence": [
+   {
+    "detail": "Motion Designer — Bengaluru",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://app.semesteria.com/jobs/motion-designer-bengaluru-indiefolio-15fe04ec-0620-46bf-8956-ba0b0c494c4b",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-10-30T00:27:41Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "727308dea2",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Indiefolio",
+ "slug": "indiefolio",
+ "tier": 3
+}

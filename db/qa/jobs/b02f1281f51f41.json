@@ -1,0 +1,91 @@
+{
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/qa-tester/mazik-tech-solutions/19635233",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "Mazik Tech Solutions",
+ "company_slug": "mazik-tech-solutions",
+ "concerns": [
+  "Also asks for: SQL / databases",
+  "Office outside Mumbai — relocation within India",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "dc58c8dbfc52",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-10-28T13:46:20Z",
+ "fit": 79,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "b02f1281f51f41",
+ "include_reason": "Manual / functional QA title",
+ "india": {
+  "cities": [
+   "Hyderabad"
+  ],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "manual-qa",
+ "last_verified": "2026-10-28T13:46:20Z",
+ "location": "Hyderabad, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-09-29T09:48:23Z",
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 60,
+  "company": 66,
+  "location": 60,
+  "seniority": 100,
+  "skill": 93
+ },
+ "seniority": "unspecified",
+ "snippet": "Experience: 2 to 6 Yrs\nSkills: Software Testing, Test Scenarios, Usability Testing, Database Testing, Test Reporting, Client Interaction, Stress Testing, Design Reviews, Software Test Design, Testing Methodologies\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "19635233",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-09-29T09:48:23Z",
+   "seen_at": "2026-10-28T13:46:20Z",
+   "url": "https://www.shine.com/jobs/qa-tester/mazik-tech-solutions/19635233"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 3,
+ "title": "QA Tester",
+ "tools": [
+  "Stress / load testing",
+  "Usability testing",
+  "Test cases & scenarios",
+  "SQL / databases"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/qa-tester/mazik-tech-solutions/19635233",
+ "why": [
+  "Manual / functional QA — the core of your resume",
+  "Already on your resume: Stress / load testing, Usability testing, Test cases & scenarios",
+  "Asks for 2–6 years — you have about 2.5",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": 6,
+ "years_min": 2
+}

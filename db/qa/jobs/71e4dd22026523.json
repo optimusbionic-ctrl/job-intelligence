@@ -1,103 +1,103 @@
 {
-  "apply_url": null,
-  "board_apply": "https://himalayas.app/companies/cyberarrow/jobs/qa-engineer-remote?utm_source=api",
-  "category": "Product / SaaS",
-  "comp_potential": "unknown",
-  "company": "CyberArrow",
-  "company_slug": "cyberarrow",
-  "concerns": [
-    "Mentions test automation — be ready to discuss it or show a small script",
-    "Also asks for: Programming",
-    "Pay not disclosed — ask for the range early"
-  ],
-  "contacts_count": 0,
-  "content_hash": "e344d7de5327",
-  "date_quality": "exact",
-  "deadline": "2026-12-07T16:40:28Z",
-  "employment": "full-time",
-  "first_seen": "2026-10-19T13:24:59Z",
-  "fit": 79,
-  "has_hiring_manager": false,
-  "has_named_contact": false,
-  "has_public_email": false,
-  "id": "71e4dd22026523",
-  "include_reason": "QA / test engineer title",
-  "india": {
-    "cities": [],
-    "company": "likely",
-    "reason": "Worldwide remote",
-    "status": "likely",
-    "visa": false
-  },
-  "kind": "qa-engineer",
-  "last_verified": "2026-10-19T13:24:59Z",
-  "location": "Worldwide",
-  "logo": "https://cdn-images.himalayas.app/8rgo4ox3t01vujztkkg3vww45ram",
-  "needs_review": false,
-  "official": false,
-  "posted_at": "2026-10-08T16:40:28Z",
-  "repost": false,
-  "requirements": [
-    "Document testing processes and results.",
-    "Stay updated with industry best practices and emerging technologies in QA.",
-    "Bachelor's degree in Computer Science, Engineering, or related field.",
-    "Proven experience in software testing methodologies and tools.",
-    "Proficiency in programming/scripting languages (e.g., Python, Java, JavaScript).",
-    "Attention to detail and ability to work independently.",
-    "Experience with test automation frameworks such as Cypress, Selenium or others."
-  ],
-  "responsibilities": [
-    "Outcome based work environment.",
-    "A competitive compensation."
-  ],
-  "salary": {
-    "context_benchmark": "qa-dataset-remote",
-    "state": "unavailable"
-  },
-  "scores": {
-    "ai": 58,
-    "comp": 60,
-    "company": 95,
-    "location": 86,
-    "seniority": 84,
-    "skill": 76
-  },
-  "seniority": "unspecified",
-  "snippet": "Company Description\n CyberArrow is your top solution to stress-free cyber security compliance and awareness. We are trusted by the world's biggest brands including but not limited to: Emirates Airlines, American Express, Bupa and others. We help companies with their security compliance requirements and programs. CyberArrow is currently investing significant resources to deliver successful revenue increase across its ",
-  "source_primary": "Himalayas",
-  "sources": [
-    {
-      "id": "himalayas",
-      "job_id": "https://himalayas.app/companies/cyberarrow/jobs/qa-engineer-remote",
-      "kind": "board",
-      "name": "Himalayas",
-      "posted_at": "2026-10-08T16:40:28Z",
-      "seen_at": "2026-10-19T13:24:59Z",
-      "url": "https://himalayas.app/companies/cyberarrow/jobs/qa-engineer-remote?utm_source=api"
-    }
-  ],
-  "specializations": [],
-  "status": "active",
-  "tier": 1,
-  "title": "QA Engineer [Remote]",
-  "tools": [
-    "Regression testing",
-    "Test cases & scenarios",
-    "Bug reporting",
-    "Google Sheets / Excel",
-    "Test automation",
-    "Programming"
-  ],
-  "track": "software",
-  "updated_at": null,
-  "url": "https://himalayas.app/companies/cyberarrow/jobs/qa-engineer-remote?utm_source=api",
-  "why": [
-    "QA / test engineer role",
-    "Already on your resume: Regression testing, Test cases & scenarios, Bug reporting, Google Sheets / Excel",
-    "Product / SaaS company",
-    "Worldwide remote"
-  ],
-  "work_mode": "remote",
-  "years_max": null,
-  "years_min": null
+ "apply_url": null,
+ "board_apply": "https://himalayas.app/companies/cyberarrow/jobs/qa-engineer-remote?utm_source=api",
+ "category": "Product / SaaS",
+ "comp_potential": "unknown",
+ "company": "CyberArrow",
+ "company_slug": "cyberarrow",
+ "concerns": [
+  "Mentions test automation — be ready to discuss it or show a small script",
+  "Also asks for: Programming",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "e344d7de5327",
+ "date_quality": "exact",
+ "deadline": "2026-12-07T16:40:28Z",
+ "employment": "full-time",
+ "first_seen": "2026-10-19T13:24:59Z",
+ "fit": 79,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "71e4dd22026523",
+ "include_reason": "QA / test engineer title",
+ "india": {
+  "cities": [],
+  "company": "likely",
+  "reason": "Worldwide remote",
+  "status": "likely",
+  "visa": false
+ },
+ "kind": "qa-engineer",
+ "last_verified": "2026-10-19T13:24:59Z",
+ "location": "Worldwide",
+ "logo": "https://cdn-images.himalayas.app/8rgo4ox3t01vujztkkg3vww45ram",
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-10-08T16:40:28Z",
+ "repost": false,
+ "requirements": [
+  "Document testing processes and results.",
+  "Stay updated with industry best practices and emerging technologies in QA.",
+  "Bachelor's degree in Computer Science, Engineering, or related field.",
+  "Proven experience in software testing methodologies and tools.",
+  "Proficiency in programming/scripting languages (e.g., Python, Java, JavaScript).",
+  "Attention to detail and ability to work independently.",
+  "Experience with test automation frameworks such as Cypress, Selenium or others."
+ ],
+ "responsibilities": [
+  "Outcome based work environment.",
+  "A competitive compensation."
+ ],
+ "salary": {
+  "context_benchmark": "qa-dataset-remote",
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 60,
+  "company": 95,
+  "location": 86,
+  "seniority": 84,
+  "skill": 76
+ },
+ "seniority": "unspecified",
+ "snippet": "Company Description\n CyberArrow is your top solution to stress-free cyber security compliance and awareness. We are trusted by the world's biggest brands including but not limited to: Emirates Airlines, American Express, Bupa and others. We help companies with their security compliance requirements and programs. CyberArrow is currently investing significant resources to deliver successful revenue increase across its ",
+ "source_primary": "Himalayas",
+ "sources": [
+  {
+   "id": "himalayas",
+   "job_id": "https://himalayas.app/companies/cyberarrow/jobs/qa-engineer-remote",
+   "kind": "board",
+   "name": "Himalayas",
+   "posted_at": "2026-10-08T16:40:28Z",
+   "seen_at": "2026-10-19T13:24:59Z",
+   "url": "https://himalayas.app/companies/cyberarrow/jobs/qa-engineer-remote?utm_source=api"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 1,
+ "title": "QA Engineer [Remote]",
+ "tools": [
+  "Regression testing",
+  "Test cases & scenarios",
+  "Bug reporting",
+  "Google Sheets / Excel",
+  "Test automation",
+  "Programming"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://himalayas.app/companies/cyberarrow/jobs/qa-engineer-remote?utm_source=api",
+ "why": [
+  "QA / test engineer role",
+  "Already on your resume: Regression testing, Test cases & scenarios, Bug reporting, Google Sheets / Excel",
+  "Product / SaaS company",
+  "Worldwide remote"
+ ],
+ "work_mode": "remote",
+ "years_max": null,
+ "years_min": null
 }

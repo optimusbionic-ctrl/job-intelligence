@@ -1,32 +1,32 @@
 {
-  "category": "Product / SaaS",
-  "classification": "Inferred from job description",
-  "domain": "fortanix.com",
-  "india_hiring": {
-    "board": null,
-    "changed_at": "2026-10-19T13:24:59Z",
-    "evidence": [
-      {
-        "detail": "SDET Engineer — Bengaluru, Karnataka, India",
-        "kind": "posting",
-        "label": "A current posting lists India as a location",
-        "url": "https://jobs.workable.com/view/6pDzDUAZTbwzSrnC1g6nVh/hybrid-sdet-engineer-in-bengaluru-at-fortanix",
-        "weight": 5
-      }
-    ],
-    "first_checked_at": "2026-10-19T13:24:59Z",
-    "india_based": false,
-    "method": "Careers board, posting text",
-    "sig": "ba264c40e4",
-    "summary": "A current posting lists India as a location.",
-    "verdict": "yes"
-  },
-  "inferred": true,
-  "logo": "https://workablehr.s3.amazonaws.com/uploads/account/logo/337112/logo",
-  "name": "Fortanix",
-  "slug": "fortanix",
-  "tier": 1,
-  "tracks": [
-    "software"
-  ]
+ "category": "Product / SaaS",
+ "classification": "Inferred from job description",
+ "domain": "fortanix.com",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-19T13:24:59Z",
+  "evidence": [
+   {
+    "detail": "SDET Engineer — Bengaluru, Karnataka, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://jobs.workable.com/view/6pDzDUAZTbwzSrnC1g6nVh/hybrid-sdet-engineer-in-bengaluru-at-fortanix",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-10-19T13:24:59Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "ba264c40e4",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "logo": "https://workablehr.s3.amazonaws.com/uploads/account/logo/337112/logo",
+ "name": "Fortanix",
+ "slug": "fortanix",
+ "tier": 1,
+ "tracks": [
+  "software"
+ ]
 }

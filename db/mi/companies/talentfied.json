@@ -1,55 +1,55 @@
 {
-  "category": "Other",
-  "classification": "Inferred from job description",
-  "india_hiring": {
-    "board": null,
-    "changed_at": "2026-10-16T22:27:07Z",
-    "evidence": [],
-    "first_checked_at": "2026-10-15T16:19:24Z",
-    "india_based": false,
-    "method": "Careers board, posting text, web search",
-    "sig": "54391d7cdf",
-    "summary": "No public evidence yet about hiring from India.",
-    "verdict": "unclear",
-    "web": {
-      "checked_at": "2026-10-15T16:49:04Z",
-      "query": "\"Talentfied\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
-      "results": [
-        {
-          "description": "",
-          "title": "Build your career with global companies, without leaving India",
-          "url": "https://www.wisemonk.io/for-candidate"
-        },
-        {
-          "description": "",
-          "title": "Work Remotely for Global Companies Hiring in India",
-          "url": "https://www.wisemonk.io/for-candidates"
-        },
-        {
-          "description": "",
-          "title": "Updating Results",
-          "url": "https://dlsl-careers.prosple.com/graduate-employers/talentfied"
-        },
-        {
-          "description": "",
-          "title": "Updating Results",
-          "url": "https://slu.prosple.com/graduate-employers/talentfied"
-        },
-        {
-          "description": "",
-          "title": "Updating Results",
-          "url": "https://msuiit-careerportal.prosple.com/graduate-employers/talentfied"
-        },
-        {
-          "description": "",
-          "title": "Remote Talent Acquisition Jobs in India",
-          "url": "https://jobgether.com/remote-jobs/india/talent-acquisition/4"
-        }
-      ]
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-16T22:27:07Z",
+  "evidence": [],
+  "first_checked_at": "2026-10-15T16:19:24Z",
+  "india_based": false,
+  "method": "Careers board, posting text, web search",
+  "sig": "54391d7cdf",
+  "summary": "No public evidence yet about hiring from India.",
+  "verdict": "unclear",
+  "web": {
+   "checked_at": "2026-10-29T17:27:14Z",
+   "query": "\"Talentfied\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
+   "results": [
+    {
+     "description": "",
+     "title": "Build your career with global companies, without leaving India",
+     "url": "https://www.wisemonk.io/for-candidate"
+    },
+    {
+     "description": "",
+     "title": "Work Remotely for Global Companies Hiring in India",
+     "url": "https://www.wisemonk.io/for-candidates"
+    },
+    {
+     "description": "",
+     "title": "India leads the pack in global remote hiring for international workers in the Asia/Pacific Region",
+     "url": "https://cxotoday.com/media-coverage/india-leads-the-pack-in-global-remote-hiring-for-international-workers-in-the-asia-pacific-region/"
+    },
+    {
+     "description": "",
+     "title": "Updating Results",
+     "url": "https://dlsl-careers.prosple.com/graduate-employers/talentfied"
+    },
+    {
+     "description": "",
+     "title": "Updating Results",
+     "url": "https://slu.prosple.com/graduate-employers/talentfied"
+    },
+    {
+     "description": "",
+     "title": "www.g2.com",
+     "url": "https://www.g2.com/products/gloroots/discuss"
     }
-  },
-  "inferred": true,
-  "name": "Talentfied",
-  "slug": "talentfied",
-  "tier": 3
+   ]
+  }
+ },
+ "inferred": true,
+ "name": "Talentfied",
+ "slug": "talentfied",
+ "tier": 3
 }

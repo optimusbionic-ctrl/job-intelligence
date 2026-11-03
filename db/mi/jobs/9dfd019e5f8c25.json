@@ -1,103 +1,103 @@
 {
-  "apply_url": "https://jobs.ashbyhq.com/ruby-labs/c42453d0-67aa-4b22-b813-e2966b1cdb5f/application",
-  "board_apply": null,
-  "category": "Agency / studio",
-  "comp_potential": "unknown",
-  "company": "Ruby Labs",
-  "company_slug": "ruby-labs",
-  "concerns": [
-    "Ruby Labs's other roles are limited to named countries; confirm India is eligible",
-    "Employer has not confirmed hiring from India",
-    "Compensation not disclosed",
-    "Agency / studio (Tier 2)"
-  ],
-  "contacts_count": 0,
-  "content_hash": "d2b1123d4b83",
-  "date_quality": "approx",
-  "deadline": null,
-  "employment": "full-time",
-  "first_seen": "2026-10-16T21:30:21Z",
-  "fit": 48,
-  "has_hiring_manager": false,
-  "has_named_contact": false,
-  "has_public_email": false,
-  "id": "9dfd019e5f8c25",
-  "include_reason": "Mixed graphic + motion title",
-  "india": {
-    "cities": [],
-    "company": "no",
-    "reason": "Remote, region not stated · Ruby Labs hires only in named countries",
-    "status": "unconfirmed",
-    "visa": false
+ "apply_url": "https://jobs.ashbyhq.com/ruby-labs/c42453d0-67aa-4b22-b813-e2966b1cdb5f/application",
+ "board_apply": null,
+ "category": "Agency / studio",
+ "comp_potential": "unknown",
+ "company": "Ruby Labs",
+ "company_slug": "ruby-labs",
+ "concerns": [
+  "Ruby Labs's other roles are limited to named countries; confirm India is eligible",
+  "Employer has not confirmed hiring from India",
+  "Compensation not disclosed",
+  "Agency / studio (Tier 2)"
+ ],
+ "contacts_count": 0,
+ "content_hash": "d2b1123d4b83",
+ "date_quality": "approx",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-10-16T21:30:21Z",
+ "fit": 48,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "9dfd019e5f8c25",
+ "include_reason": "Mixed graphic + motion title",
+ "india": {
+  "cities": [],
+  "company": "no",
+  "reason": "Remote, region not stated · Ruby Labs hires only in named countries",
+  "status": "unconfirmed",
+  "visa": false
+ },
+ "kind": "graphic-motion",
+ "last_verified": "2026-10-16T21:30:21Z",
+ "location": "Remote",
+ "logo": null,
+ "needs_review": false,
+ "official": true,
+ "posted_at": "2026-10-16T00:00:00Z",
+ "repost": false,
+ "requirements": [
+  "3+ years of experience as a 2D Graphic and Motion Designer.",
+  "Proficiency in Photoshop, Illustrator, After Effects, Premiere Pro, and Figma.",
+  "Solid knowledge of color theory, composition, and typography.",
+  "Hands-on experience with AI image and video generators (Nano Banana, GPT, Seedance, Kling).",
+  "Creativity and the ability to generate and develop new ideas.",
+  "English language proficiency at B2 level.",
+  "Portfolio showing your graphic and motion work, including AI-generated content (required)."
+ ],
+ "responsibilities": [
+  "Create static and video ads for our products on Meta, TikTok, and YouTube.",
+  "Create static and video ads from concept to final result, using AI tools to speed up production.",
+  "Stay up to date with Instagram and TikTok trends and adapt them into ad creatives.",
+  "Generate AI video and images, and build AI workflows that speed up production.",
+  "Propose your own ideas in creative team meetings."
+ ],
+ "salary": {
+  "context_benchmark": "mi-dataset-remote",
+  "note": "Not disclosed. Global remote pay context is available, but there is no evidence it applies to this employer or to India-based hires.",
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 48,
+  "company": 62,
+  "location": 38,
+  "seniority": 66,
+  "skill": 29
+ },
+ "seniority": "unspecified",
+ "snippet": "ABOUT US\n\nRuby Labs is a leading tech company that creates and operates innovative consumer products. We offer a diverse range of opportunities across the health, education, and entertainment industries. Our innovative teams are driving the future of consumer-led products, and we're always looking for passionate individuals to join us. Learn more about our story at: https://rubylabs.com/about-us/\n\n\n\n\nABOUT THE ROLE\n\n",
+ "source_primary": "Ruby Labs careers (Ashby)",
+ "sources": [
+  {
+   "id": "ashby",
+   "job_id": "ashby:ruby-labs:c42453d0-67aa-4b22-b813-e2966b1cdb5f",
+   "kind": "ats",
+   "name": "Ruby Labs careers (Ashby)",
+   "posted_at": "2026-10-16T11:00:38Z",
+   "seen_at": "2026-10-16T21:30:21Z",
+   "url": "https://jobs.ashbyhq.com/ruby-labs/c42453d0-67aa-4b22-b813-e2966b1cdb5f"
   },
-  "kind": "graphic-motion",
-  "last_verified": "2026-10-16T21:30:21Z",
-  "location": "Remote",
-  "logo": null,
-  "needs_review": false,
-  "official": true,
-  "posted_at": "2026-10-16T00:00:00Z",
-  "repost": false,
-  "requirements": [
-    "3+ years of experience as a 2D Graphic and Motion Designer.",
-    "Proficiency in Photoshop, Illustrator, After Effects, Premiere Pro, and Figma.",
-    "Solid knowledge of color theory, composition, and typography.",
-    "Hands-on experience with AI image and video generators (Nano Banana, GPT, Seedance, Kling).",
-    "Creativity and the ability to generate and develop new ideas.",
-    "English language proficiency at B2 level.",
-    "Portfolio showing your graphic and motion work, including AI-generated content (required)."
-  ],
-  "responsibilities": [
-    "Create static and video ads for our products on Meta, TikTok, and YouTube.",
-    "Create static and video ads from concept to final result, using AI tools to speed up production.",
-    "Stay up to date with Instagram and TikTok trends and adapt them into ad creatives.",
-    "Generate AI video and images, and build AI workflows that speed up production.",
-    "Propose your own ideas in creative team meetings."
-  ],
-  "salary": {
-    "context_benchmark": "mi-dataset-remote",
-    "note": "Not disclosed. Global remote pay context is available, but there is no evidence it applies to this employer or to India-based hires.",
-    "state": "unavailable"
-  },
-  "scores": {
-    "ai": 58,
-    "comp": 48,
-    "company": 62,
-    "location": 38,
-    "seniority": 66,
-    "skill": 29
-  },
-  "seniority": "unspecified",
-  "snippet": "ABOUT US\n\nRuby Labs is a leading tech company that creates and operates innovative consumer products. We offer a diverse range of opportunities across the health, education, and entertainment industries. Our innovative teams are driving the future of consumer-led products, and we're always looking for passionate individuals to join us. Learn more about our story at: https://rubylabs.com/about-us/\n\n\n\n\nABOUT THE ROLE\n\n",
-  "source_primary": "Ruby Labs careers (Ashby)",
-  "sources": [
-    {
-      "id": "ashby",
-      "job_id": "ashby:ruby-labs:c42453d0-67aa-4b22-b813-e2966b1cdb5f",
-      "kind": "ats",
-      "name": "Ruby Labs careers (Ashby)",
-      "posted_at": "2026-10-16T11:00:38Z",
-      "seen_at": "2026-10-16T21:30:21Z",
-      "url": "https://jobs.ashbyhq.com/ruby-labs/c42453d0-67aa-4b22-b813-e2966b1cdb5f"
-    },
-    {
-      "id": "web",
-      "job_id": "https://www.remotesource.com/jobs/lI33PZOPQK-jyQYhmty9N-2d-graphic-and-motion-designer-at-ruby-labs",
-      "kind": "search",
-      "name": "Web (via search index)",
-      "posted_at": "2026-10-16T00:00:00Z",
-      "seen_at": "2026-10-16T21:30:21Z",
-      "url": "https://www.remotesource.com/jobs/lI33PZOPQK-jyQYhmty9N-2d-graphic-and-motion-designer-at-ruby-labs"
-    }
-  ],
-  "specializations": [],
-  "status": "verified",
-  "tier": 2,
-  "title": "2D Graphic and Motion Designer",
-  "tools": [],
-  "updated_at": null,
-  "url": "https://jobs.ashbyhq.com/ruby-labs/c42453d0-67aa-4b22-b813-e2966b1cdb5f",
-  "why": [],
-  "work_mode": "remote",
-  "years_min": null
+  {
+   "id": "web",
+   "job_id": "https://www.remotesource.com/jobs/lI33PZOPQK-jyQYhmty9N-2d-graphic-and-motion-designer-at-ruby-labs",
+   "kind": "search",
+   "name": "Web (via search index)",
+   "posted_at": "2026-10-16T00:00:00Z",
+   "seen_at": "2026-10-16T21:30:21Z",
+   "url": "https://www.remotesource.com/jobs/lI33PZOPQK-jyQYhmty9N-2d-graphic-and-motion-designer-at-ruby-labs"
+  }
+ ],
+ "specializations": [],
+ "status": "verified",
+ "tier": 2,
+ "title": "2D Graphic and Motion Designer",
+ "tools": [],
+ "updated_at": null,
+ "url": "https://jobs.ashbyhq.com/ruby-labs/c42453d0-67aa-4b22-b813-e2966b1cdb5f",
+ "why": [],
+ "work_mode": "remote",
+ "years_min": null
 }

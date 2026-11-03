@@ -1,0 +1,14 @@
+{
+ "slug": "usg",
+ "name": "USG",
+ "min": 8500,
+ "max": null,
+ "employees": 8500,
+ "range": null,
+ "basis": "company size",
+ "source_name": "USG website",
+ "source_url": "https://www.usg.com/content/usgcom/en/about-usg.html",
+ "quote": "USG has 70+ locations and employs 8,500 people across the United States, Canada, and Latin America.",
+ "checked_at": "2026-10-27T00:00:00Z",
+ "found_via": "web research (search index)"
+}

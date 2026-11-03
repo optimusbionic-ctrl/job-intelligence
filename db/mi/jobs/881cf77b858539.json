@@ -1,79 +1,79 @@
 {
-  "apply_url": null,
-  "board_apply": "https://kalingauniversity.prosple.com/graduate-employers/polygon/jobs-internships/product-marketing-motion-designer",
-  "category": "Other",
-  "comp_potential": "unknown",
-  "company": "Polygon",
-  "company_slug": "polygon",
-  "concerns": [
-    "Employer has not confirmed hiring from India",
-    "Compensation not disclosed",
-    "Full description not available from this source"
-  ],
-  "contacts_count": 0,
-  "content_hash": "c470fa3b6cb6",
-  "date_quality": "unknown",
-  "deadline": null,
-  "employment": "full-time",
-  "first_seen": "2026-10-18T18:27:42Z",
-  "fit": 54,
-  "has_hiring_manager": false,
-  "has_named_contact": false,
-  "has_public_email": false,
-  "id": "881cf77b858539",
-  "include_reason": "Motion design title",
-  "india": {
-    "cities": [],
-    "company": "unclear",
-    "reason": "Location not stated",
-    "status": "unconfirmed",
-    "visa": false
-  },
-  "kind": "motion",
-  "last_verified": "2026-10-19T09:28:17Z",
-  "location": "",
-  "logo": null,
-  "needs_review": false,
-  "official": false,
-  "posted_at": null,
-  "repost": false,
-  "requirements": [],
-  "responsibilities": [],
-  "salary": {
-    "state": "unavailable"
-  },
-  "scores": {
-    "ai": 45,
-    "comp": 48,
-    "company": 40,
-    "location": 38,
-    "seniority": 66,
-    "skill": 69
-  },
-  "seniority": "unspecified",
-  "snippet": "",
-  "source_primary": "Prosple (via search index)",
-  "sources": [
-    {
-      "id": "web",
-      "job_id": "https://kalingauniversity.prosple.com/graduate-employers/polygon/jobs-internships/product-marketing-motion-designer",
-      "kind": "search",
-      "name": "Prosple (via search index)",
-      "posted_at": null,
-      "seen_at": "2026-10-19T09:28:17Z",
-      "url": "https://kalingauniversity.prosple.com/graduate-employers/polygon/jobs-internships/product-marketing-motion-designer"
-    }
-  ],
-  "specializations": [],
-  "status": "lead",
-  "tier": 3,
-  "title": "Product Marketing Motion Designer",
-  "tools": [],
-  "updated_at": null,
-  "url": "https://kalingauniversity.prosple.com/graduate-employers/polygon/jobs-internships/product-marketing-motion-designer",
-  "why": [
-    "Core motion design role"
-  ],
-  "work_mode": "unspecified",
-  "years_min": null
+ "apply_url": null,
+ "board_apply": "https://kalingauniversity.prosple.com/graduate-employers/polygon/jobs-internships/product-marketing-motion-designer",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "Polygon",
+ "company_slug": "polygon",
+ "concerns": [
+  "Employer has not confirmed hiring from India",
+  "Compensation not disclosed",
+  "Full description not available from this source"
+ ],
+ "contacts_count": 0,
+ "content_hash": "c470fa3b6cb6",
+ "date_quality": "unknown",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-10-18T18:27:42Z",
+ "fit": 54,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "881cf77b858539",
+ "include_reason": "Motion design title",
+ "india": {
+  "cities": [],
+  "company": "unclear",
+  "reason": "Location not stated",
+  "status": "unconfirmed",
+  "visa": false
+ },
+ "kind": "motion",
+ "last_verified": "2026-10-19T09:28:17Z",
+ "location": "",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": null,
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 45,
+  "comp": 48,
+  "company": 40,
+  "location": 38,
+  "seniority": 66,
+  "skill": 69
+ },
+ "seniority": "unspecified",
+ "snippet": "",
+ "source_primary": "Prosple (via search index)",
+ "sources": [
+  {
+   "id": "web",
+   "job_id": "https://kalingauniversity.prosple.com/graduate-employers/polygon/jobs-internships/product-marketing-motion-designer",
+   "kind": "search",
+   "name": "Prosple (via search index)",
+   "posted_at": null,
+   "seen_at": "2026-10-19T09:28:17Z",
+   "url": "https://kalingauniversity.prosple.com/graduate-employers/polygon/jobs-internships/product-marketing-motion-designer"
+  }
+ ],
+ "specializations": [],
+ "status": "lead",
+ "tier": 3,
+ "title": "Product Marketing Motion Designer",
+ "tools": [],
+ "updated_at": null,
+ "url": "https://kalingauniversity.prosple.com/graduate-employers/polygon/jobs-internships/product-marketing-motion-designer",
+ "why": [
+  "Core motion design role"
+ ],
+ "work_mode": "unspecified",
+ "years_min": null
 }

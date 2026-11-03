@@ -1,0 +1,112 @@
+{
+ "apply_url": "https://jobs.ashbyhq.com/tekion/52698fa1-3a8d-4031-9933-5ff30ca29002/application",
+ "board_apply": null,
+ "category": "Product / SaaS",
+ "comp_potential": "unknown",
+ "company": "Tekion",
+ "company_slug": "tekion",
+ "concerns": [
+  "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
+  "Also asks for: Programming",
+  "Entry-level role — pay may be at the lower end",
+  "Office outside Mumbai — relocation within India",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 1,
+ "content_hash": "1f5c15922031",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-10-29T11:44:56Z",
+ "fit": 68,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "fd95d3c2ccb821",
+ "include_reason": "Automation-heavy QA (SDET)",
+ "india": {
+  "cities": [
+   "Bengaluru",
+   "Chennai"
+  ],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "automation",
+ "last_verified": "2026-10-29T11:44:56Z",
+ "location": "Bangalore HQ • Chennai Regional Office (India)",
+ "logo": null,
+ "needs_review": false,
+ "official": true,
+ "posted_at": "2026-10-29T11:14:08Z",
+ "repost": false,
+ "requirements": [
+  "Bachelor’s degree in Computer Science, Engineering, or a related field, or equivalent coursework/experience.",
+  "0–2 years of experience in software testing or automation (including internships or academic projects).",
+  "Familiarity with one or more programming/scripting languages (e.g., Java, Python, JavaScript).",
+  "Basic understanding of QA methodologies, test case development, and defect tracking tools.",
+  "Exposure to test automation frameworks (e.g., Selenium, Cypress) is a plus.",
+  "Eagerness to learn and grow in a collaborative engineering environment.",
+  "Current Tekion Employees: Please apply via the Internal Job Board in Ashby."
+ ],
+ "responsibilities": [
+  "Assist in writing, executing, and maintaining automated test scripts based on functional requirements and user stories.",
+  "Work with QA and development teams to identify test cases suitable for automation.",
+  "Help set up test environments, collect logs, and document results for review.",
+  "Participate in test planning, review sessions, and sprint meetings.",
+  "Learn and apply best practices in test automation, code versioning, and defect reporting.",
+  "Contribute to documentation of test cases, automation frameworks, and QA processes.",
+  "Support manual testing efforts as needed, especially for validation and regression testing."
+ ],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 60,
+  "company": 95,
+  "location": 60,
+  "seniority": 80,
+  "skill": 58
+ },
+ "seniority": "junior",
+ "snippet": "ABOUT TEKION:\n\nPositively disrupting an industry that has not seen any innovation in over 50 years, Tekion has challenged the paradigm with the first and fastest cloud-native automotive platform that includes the revolutionary Automotive Retail Cloud (ARC) for retailers, Automotive Enterprise Cloud (AEC) for manufacturers and other large automotive enterprises and Automotive Partner Cloud (APC) for technology and ind",
+ "source_primary": "Tekion careers (Ashby)",
+ "sources": [
+  {
+   "id": "ashby",
+   "job_id": "ashby:tekion:52698fa1-3a8d-4031-9933-5ff30ca29002",
+   "kind": "ats",
+   "name": "Tekion careers (Ashby)",
+   "posted_at": "2026-10-29T11:14:08Z",
+   "seen_at": "2026-10-29T11:44:56Z",
+   "url": "https://jobs.ashbyhq.com/tekion/52698fa1-3a8d-4031-9933-5ff30ca29002"
+  }
+ ],
+ "specializations": [],
+ "status": "verified",
+ "tier": 1,
+ "title": "Associate Automation QA Engineer",
+ "tools": [
+  "Regression testing",
+  "Test cases & scenarios",
+  "Bug reporting",
+  "Test automation",
+  "Programming",
+  "Agile / Scrum"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://jobs.ashbyhq.com/tekion/52698fa1-3a8d-4031-9933-5ff30ca29002",
+ "why": [
+  "Already on your resume: Regression testing, Test cases & scenarios, Bug reporting",
+  "Product / SaaS company",
+  "Asks for 0+ years — you have about 2.5",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": 2,
+ "years_min": 0
+}

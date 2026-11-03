@@ -1,80 +1,80 @@
 {
-  "apply_url": null,
-  "board_apply": "https://www.marketingmonk.so/jobboard/jobs/lead-motion-graphics-at-glance-bakdlb",
-  "category": "Consumer tech",
-  "comp_potential": "unknown",
-  "company": "Glance",
-  "company_slug": "glance",
-  "concerns": [
-    "Compensation not disclosed",
-    "Full description not available from this source"
-  ],
-  "contacts_count": 1,
-  "content_hash": "5ed971488a79",
-  "date_quality": "unknown",
-  "deadline": null,
-  "employment": "full-time",
-  "first_seen": "2026-10-18T18:27:42Z",
-  "fit": 66,
-  "has_hiring_manager": false,
-  "has_named_contact": false,
-  "has_public_email": false,
-  "id": "48e532cfadd268",
-  "include_reason": "Mixed graphic + motion title",
-  "india": {
-    "basis": "company",
-    "cities": [],
-    "company": "yes",
-    "reason": "Location not stated; Glance is based in India",
-    "status": "likely",
-    "visa": false
-  },
-  "kind": "graphic-motion",
-  "last_verified": "2026-10-19T09:28:17Z",
-  "location": "",
-  "logo": null,
-  "needs_review": false,
-  "official": false,
-  "posted_at": null,
-  "repost": false,
-  "requirements": [],
-  "responsibilities": [],
-  "salary": {
-    "state": "unavailable"
-  },
-  "scores": {
-    "ai": 45,
-    "comp": 48,
-    "company": 95,
-    "location": 84,
-    "seniority": 96,
-    "skill": 42
-  },
-  "seniority": "lead",
-  "snippet": "",
-  "source_primary": "MarketingMonk (via search index)",
-  "sources": [
-    {
-      "id": "web",
-      "job_id": "https://www.marketingmonk.so/jobboard/jobs/lead-motion-graphics-at-glance-bakdlb",
-      "kind": "search",
-      "name": "MarketingMonk (via search index)",
-      "posted_at": null,
-      "seen_at": "2026-10-19T09:28:17Z",
-      "url": "https://www.marketingmonk.so/jobboard/jobs/lead-motion-graphics-at-glance-bakdlb"
-    }
-  ],
-  "specializations": [],
-  "status": "lead",
-  "tier": 1,
-  "title": "Lead Motion Graphics",
-  "tools": [],
-  "updated_at": null,
-  "url": "https://www.marketingmonk.so/jobboard/jobs/lead-motion-graphics-at-glance-bakdlb",
-  "why": [
-    "Consumer tech company (Tier 1 priority)",
-    "Location not stated; Glance is based in India"
-  ],
-  "work_mode": "unspecified",
-  "years_min": null
+ "apply_url": null,
+ "board_apply": "https://www.marketingmonk.so/jobboard/jobs/lead-motion-graphics-at-glance-bakdlb",
+ "category": "Consumer tech",
+ "comp_potential": "unknown",
+ "company": "Glance",
+ "company_slug": "glance",
+ "concerns": [
+  "Compensation not disclosed",
+  "Full description not available from this source"
+ ],
+ "contacts_count": 1,
+ "content_hash": "5ed971488a79",
+ "date_quality": "unknown",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-10-18T18:27:42Z",
+ "fit": 66,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "48e532cfadd268",
+ "include_reason": "Mixed graphic + motion title",
+ "india": {
+  "basis": "company",
+  "cities": [],
+  "company": "yes",
+  "reason": "Location not stated; Glance is based in India",
+  "status": "likely",
+  "visa": false
+ },
+ "kind": "graphic-motion",
+ "last_verified": "2026-10-19T09:28:17Z",
+ "location": "",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": null,
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 45,
+  "comp": 48,
+  "company": 95,
+  "location": 84,
+  "seniority": 96,
+  "skill": 42
+ },
+ "seniority": "lead",
+ "snippet": "",
+ "source_primary": "MarketingMonk (via search index)",
+ "sources": [
+  {
+   "id": "web",
+   "job_id": "https://www.marketingmonk.so/jobboard/jobs/lead-motion-graphics-at-glance-bakdlb",
+   "kind": "search",
+   "name": "MarketingMonk (via search index)",
+   "posted_at": null,
+   "seen_at": "2026-10-19T09:28:17Z",
+   "url": "https://www.marketingmonk.so/jobboard/jobs/lead-motion-graphics-at-glance-bakdlb"
+  }
+ ],
+ "specializations": [],
+ "status": "lead",
+ "tier": 1,
+ "title": "Lead Motion Graphics",
+ "tools": [],
+ "updated_at": null,
+ "url": "https://www.marketingmonk.so/jobboard/jobs/lead-motion-graphics-at-glance-bakdlb",
+ "why": [
+  "Consumer tech company (Tier 1 priority)",
+  "Location not stated; Glance is based in India"
+ ],
+ "work_mode": "unspecified",
+ "years_min": null
 }

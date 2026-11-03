@@ -1,0 +1,28 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-29T00:27:01Z",
+  "evidence": [
+   {
+    "detail": "Freelance Creative Designer — Graphic Design, Video & Animation — India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://himalayas.app/companies/urban-ridge-supplies/jobs/freelance-creative-designer-graphic-design-video-animation-7198476163?utm_source=api",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-10-29T00:27:01Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "3ee3b52ada",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "logo": "https://cdn-images.himalayas.app/kuktaxt1y7csbg9f8ai2ldqpi1ln",
+ "name": "Urban Ridge Supplies",
+ "slug": "urban-ridge-supplies",
+ "tier": 3
+}

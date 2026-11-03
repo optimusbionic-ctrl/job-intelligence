@@ -1,77 +1,77 @@
 {
-  "apply_url": "https://jobs.ashbyhq.com/hyperbound/1b54759e-17e6-4302-ba42-e2c1c9786c25",
-  "board_apply": null,
-  "category": "AI",
-  "comp_potential": "unknown",
-  "company": "Hyperbound",
-  "company_slug": "hyperbound",
-  "concerns": [
-    "Employer has not confirmed hiring from India",
-    "Compensation not disclosed"
-  ],
-  "contacts_count": 1,
-  "content_hash": "3079b347cf08",
-  "date_quality": "unknown",
-  "deadline": null,
-  "employment": "full-time",
-  "first_seen": "2026-10-15T15:39:48Z",
-  "fit": 54,
-  "has_hiring_manager": false,
-  "has_named_contact": false,
-  "has_public_email": false,
-  "id": "145a32b0818897",
-  "include_reason": "Motion title with video scope",
-  "india": {
-    "cities": [],
-    "reason": "Location not stated",
-    "status": "unconfirmed",
-    "visa": false
-  },
-  "kind": "video-motion",
-  "last_verified": "2026-10-15T15:39:48Z",
-  "location": "",
-  "logo": null,
-  "needs_review": false,
-  "official": true,
-  "posted_at": null,
-  "repost": false,
-  "requirements": [],
-  "responsibilities": [],
-  "salary": {
-    "state": "unavailable"
-  },
-  "scores": {
-    "ai": 30,
-    "comp": 48,
-    "company": 98,
-    "location": 38,
-    "seniority": 66,
-    "skill": 36
-  },
-  "seniority": "unspecified",
-  "snippet": "We're hiring our first dedicated Creative Video Producer and Motion Designer to bring Hyperbound's products, customers, and stories to life through video.",
-  "source_primary": "Ashby (via search index)",
-  "sources": [
-    {
-      "id": "ashby",
-      "job_id": "https://jobs.ashbyhq.com/hyperbound/1b54759e-17e6-4302-ba42-e2c1c9786c25",
-      "kind": "search",
-      "name": "Ashby (via search index)",
-      "posted_at": null,
-      "seen_at": "2026-10-15T15:39:48Z",
-      "url": "https://jobs.ashbyhq.com/hyperbound/1b54759e-17e6-4302-ba42-e2c1c9786c25"
-    }
-  ],
-  "specializations": [],
-  "status": "verified",
-  "tier": 1,
-  "title": "Creative Video Producer / Motion Designer",
-  "tools": [],
-  "updated_at": null,
-  "url": "https://jobs.ashbyhq.com/hyperbound/1b54759e-17e6-4302-ba42-e2c1c9786c25",
-  "why": [
-    "AI company (Tier 1 priority)"
-  ],
-  "work_mode": "unspecified",
-  "years_min": null
+ "apply_url": "https://jobs.ashbyhq.com/hyperbound/1b54759e-17e6-4302-ba42-e2c1c9786c25",
+ "board_apply": null,
+ "category": "AI",
+ "comp_potential": "unknown",
+ "company": "Hyperbound",
+ "company_slug": "hyperbound",
+ "concerns": [
+  "Employer has not confirmed hiring from India",
+  "Compensation not disclosed"
+ ],
+ "contacts_count": 1,
+ "content_hash": "3079b347cf08",
+ "date_quality": "unknown",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-10-15T15:39:48Z",
+ "fit": 54,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "145a32b0818897",
+ "include_reason": "Motion title with video scope",
+ "india": {
+  "cities": [],
+  "reason": "Location not stated",
+  "status": "unconfirmed",
+  "visa": false
+ },
+ "kind": "video-motion",
+ "last_verified": "2026-10-15T15:39:48Z",
+ "location": "",
+ "logo": null,
+ "needs_review": false,
+ "official": true,
+ "posted_at": null,
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 30,
+  "comp": 48,
+  "company": 98,
+  "location": 38,
+  "seniority": 66,
+  "skill": 36
+ },
+ "seniority": "unspecified",
+ "snippet": "We're hiring our first dedicated Creative Video Producer and Motion Designer to bring Hyperbound's products, customers, and stories to life through video.",
+ "source_primary": "Ashby (via search index)",
+ "sources": [
+  {
+   "id": "ashby",
+   "job_id": "https://jobs.ashbyhq.com/hyperbound/1b54759e-17e6-4302-ba42-e2c1c9786c25",
+   "kind": "search",
+   "name": "Ashby (via search index)",
+   "posted_at": null,
+   "seen_at": "2026-10-15T15:39:48Z",
+   "url": "https://jobs.ashbyhq.com/hyperbound/1b54759e-17e6-4302-ba42-e2c1c9786c25"
+  }
+ ],
+ "specializations": [],
+ "status": "verified",
+ "tier": 1,
+ "title": "Creative Video Producer / Motion Designer",
+ "tools": [],
+ "updated_at": null,
+ "url": "https://jobs.ashbyhq.com/hyperbound/1b54759e-17e6-4302-ba42-e2c1c9786c25",
+ "why": [
+  "AI company (Tier 1 priority)"
+ ],
+ "work_mode": "unspecified",
+ "years_min": null
 }

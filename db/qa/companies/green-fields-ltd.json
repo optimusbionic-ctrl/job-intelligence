@@ -1,74 +1,74 @@
 {
-  "ats": {
-    "slug": "greenfields",
-    "type": "greenhouse"
-  },
-  "category": "Other",
-  "classification": "Inferred from job description",
-  "india_hiring": {
-    "board": {
-      "apac": 0,
-      "countries": [
-        "Ireland",
-        "United Kingdom"
-      ],
-      "india": 0,
-      "india_samples": [],
-      "open_samples": [],
-      "remote": 3,
-      "restricted_remote": 3,
-      "restricted_samples": [
-        {
-          "location": "Dublin Remote; London Remote",
-          "title": "Account Director",
-          "url": "https://job-boards.greenhouse.io/greenfields/jobs/4181021004"
-        },
-        {
-          "location": "Dublin; Dublin Remote; London; London Remote",
-          "title": "Account Partner",
-          "url": "https://job-boards.greenhouse.io/greenfields/jobs/5447060004"
-        },
-        {
-          "location": "Dublin Remote",
-          "title": "Don't see what you're looking for?",
-          "url": "https://job-boards.greenhouse.io/greenfields/jobs/4783999004"
-        }
-      ],
-      "slug": "greenfields",
-      "total": 12,
-      "type": "greenhouse",
-      "url": "https://boards.greenhouse.io/greenfields",
-      "worldwide": 0
+ "ats": {
+  "slug": "greenfields",
+  "type": "greenhouse"
+ },
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": {
+   "apac": 0,
+   "countries": [
+    "Ireland",
+    "United Kingdom"
+   ],
+   "india": 0,
+   "india_samples": [],
+   "open_samples": [],
+   "remote": 3,
+   "restricted_remote": 3,
+   "restricted_samples": [
+    {
+     "location": "Dublin Remote; London Remote",
+     "title": "Account Director",
+     "url": "https://job-boards.greenhouse.io/greenfields/jobs/4181021004"
     },
-    "changed_at": "2026-10-23T14:44:10Z",
-    "evidence": [
-      {
-        "detail": "tester — Mohali, India",
-        "kind": "posting",
-        "label": "A current posting lists India as a location",
-        "url": "https://www.shine.com/jobs/tester/green-fields-ltd/19731347",
-        "weight": 5
-      },
-      {
-        "detail": "None are located in India or open worldwide; 3 remote roles are limited to named countries",
-        "kind": "board",
-        "label": "All 12 open roles are in Ireland and United Kingdom",
-        "url": "https://boards.greenhouse.io/greenfields",
-        "weight": -3
-      }
-    ],
-    "first_checked_at": "2026-10-23T14:44:10Z",
-    "india_based": false,
-    "method": "Careers board, posting text",
-    "sig": "39f78784be",
-    "summary": "A current posting lists India as a location.",
-    "verdict": "yes"
+    {
+     "location": "Dublin; Dublin Remote; London; London Remote",
+     "title": "Account Partner",
+     "url": "https://job-boards.greenhouse.io/greenfields/jobs/5447060004"
+    },
+    {
+     "location": "Dublin Remote",
+     "title": "Don't see what you're looking for?",
+     "url": "https://job-boards.greenhouse.io/greenfields/jobs/4783999004"
+    }
+   ],
+   "slug": "greenfields",
+   "total": 12,
+   "type": "greenhouse",
+   "url": "https://boards.greenhouse.io/greenfields",
+   "worldwide": 0
   },
-  "inferred": true,
-  "name": "Green Fields Ltd",
-  "slug": "green-fields-ltd",
-  "tier": 3,
-  "tracks": [
-    "software"
-  ]
+  "changed_at": "2026-10-23T14:44:10Z",
+  "evidence": [
+   {
+    "detail": "tester — Mohali, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/tester/green-fields-ltd/19731347",
+    "weight": 5
+   },
+   {
+    "detail": "None are located in India or open worldwide; 3 remote roles are limited to named countries",
+    "kind": "board",
+    "label": "All 12 open roles are in Ireland and United Kingdom",
+    "url": "https://boards.greenhouse.io/greenfields",
+    "weight": -3
+   }
+  ],
+  "first_checked_at": "2026-10-23T14:44:10Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "39f78784be",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Green Fields Ltd",
+ "slug": "green-fields-ltd",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
 }

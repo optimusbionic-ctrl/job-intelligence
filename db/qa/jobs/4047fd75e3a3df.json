@@ -1,88 +1,88 @@
 {
-  "apply_url": null,
-  "board_apply": "https://www.shine.com/jobs/software-tester-senior-software-tester/rentokil/19420437",
-  "category": "Other",
-  "comp_potential": "unknown",
-  "company": "Rentokil",
-  "company_slug": "rentokil",
-  "concerns": [
-    "Pay not disclosed — ask for the range early"
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/software-tester-senior-software-tester/rentokil/19420437",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "Rentokil",
+ "company_slug": "rentokil",
+ "concerns": [
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "78654725ea10",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-10-24T14:43:58Z",
+ "fit": 79,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "4047fd75e3a3df",
+ "include_reason": "Manual / functional QA title",
+ "india": {
+  "cities": [
+   "Mumbai"
   ],
-  "contacts_count": 0,
-  "content_hash": "78654725ea10",
-  "date_quality": "exact",
-  "deadline": null,
-  "employment": "full-time",
-  "first_seen": "2026-10-24T14:43:58Z",
-  "fit": 79,
-  "has_hiring_manager": false,
-  "has_named_contact": false,
-  "has_public_email": false,
-  "id": "4047fd75e3a3df",
-  "include_reason": "Manual / functional QA title",
-  "india": {
-    "cities": [
-      "Mumbai"
-    ],
-    "company": "yes",
-    "reason": "Location lists India",
-    "status": "confirmed",
-    "visa": false
-  },
-  "kind": "manual-qa",
-  "last_verified": "2026-10-24T14:43:58Z",
-  "location": "Mumbai City, India",
-  "logo": null,
-  "needs_review": false,
-  "official": false,
-  "posted_at": "2026-08-09T09:28:57Z",
-  "repost": false,
-  "requirements": [],
-  "responsibilities": [],
-  "salary": {
-    "state": "unavailable"
-  },
-  "scores": {
-    "ai": 58,
-    "comp": 60,
-    "company": 66,
-    "location": 100,
-    "seniority": 94,
-    "skill": 79
-  },
-  "seniority": "unspecified",
-  "snippet": "Experience: 3 to 7 Yrs\nSkills: Software Testing, Automation, Quality Assurance, Bug Fixing, Test Planning, Defect Identification, Agile Development, Test Management, Backend Testing, Version Control Systems\n(Summary from the Shine.com listing; open the posting for the full description.)",
-  "source_primary": "Shine.com",
-  "sources": [
-    {
-      "id": "shine",
-      "job_id": "19420437",
-      "kind": "board",
-      "name": "Shine.com",
-      "posted_at": "2026-08-09T09:28:57Z",
-      "seen_at": "2026-10-24T14:43:58Z",
-      "url": "https://www.shine.com/jobs/software-tester-senior-software-tester/rentokil/19420437"
-    }
-  ],
-  "specializations": [],
-  "status": "active",
-  "tier": 3,
-  "title": "Software Tester / Senior Software Tester",
-  "tools": [
-    "Test cases & scenarios",
-    "Bug reporting",
-    "Agile / Scrum"
-  ],
-  "track": "software",
-  "updated_at": null,
-  "url": "https://www.shine.com/jobs/software-tester-senior-software-tester/rentokil/19420437",
-  "why": [
-    "Manual / functional QA — the core of your resume",
-    "Already on your resume: Test cases & scenarios, Bug reporting",
-    "Asks for 3+ years — you have about 2.5",
-    "Location lists India"
-  ],
-  "work_mode": "onsite",
-  "years_max": 7,
-  "years_min": 3
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "manual-qa",
+ "last_verified": "2026-10-24T14:43:58Z",
+ "location": "Mumbai City, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-08-09T09:28:57Z",
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 60,
+  "company": 66,
+  "location": 100,
+  "seniority": 94,
+  "skill": 79
+ },
+ "seniority": "unspecified",
+ "snippet": "Experience: 3 to 7 Yrs\nSkills: Software Testing, Automation, Quality Assurance, Bug Fixing, Test Planning, Defect Identification, Agile Development, Test Management, Backend Testing, Version Control Systems\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "19420437",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-08-09T09:28:57Z",
+   "seen_at": "2026-10-24T14:43:58Z",
+   "url": "https://www.shine.com/jobs/software-tester-senior-software-tester/rentokil/19420437"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 3,
+ "title": "Software Tester / Senior Software Tester",
+ "tools": [
+  "Test cases & scenarios",
+  "Bug reporting",
+  "Agile / Scrum"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/software-tester-senior-software-tester/rentokil/19420437",
+ "why": [
+  "Manual / functional QA — the core of your resume",
+  "Already on your resume: Test cases & scenarios, Bug reporting",
+  "Asks for 3+ years — you have about 2.5",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": 7,
+ "years_min": 3
 }

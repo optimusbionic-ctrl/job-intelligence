@@ -1,71 +1,71 @@
 {
-  "category": "Agency / studio",
-  "classification": "Inferred from job description",
-  "india_hiring": {
-    "board": null,
-    "changed_at": "2026-10-19T03:27:48Z",
-    "evidence": [
-      {
-        "detail": "Senior Animation Engineer — Worldwide",
-        "kind": "posting",
-        "label": "A current posting is open worldwide",
-        "url": "https://himalayas.app/companies/companion-group-ltd/jobs/senior-animation-engineer?utm_source=api",
-        "weight": 3
-      },
-      {
-        "detail": "…aboration with major studios worldwide. As a fully remote studio with colleagues across the globe, we value and emphasise clear, continuous, and transparent communicat…",
-        "kind": "posting",
-        "label": "Posting describes hiring across countries",
-        "url": "https://himalayas.app/companies/companion-group-ltd/jobs/senior-animation-engineer?utm_source=api",
-        "weight": 3
-      }
-    ],
-    "first_checked_at": "2026-10-15T16:19:24Z",
-    "india_based": false,
-    "method": "Careers board, posting text, web search",
-    "sig": "21b81f0b4d",
-    "summary": "No India-located roles found, but a current posting is open worldwide.",
-    "verdict": "likely",
-    "web": {
-      "checked_at": "2026-10-15T16:55:58Z",
-      "query": "\"Companion Group Ltd\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
-      "results": [
-        {
-          "description": "Become a Companion. Remote Remote Remote Remote",
-          "title": "Careers at Companion Group",
-          "url": "https://companiongroupltd.recruitee.com/"
-        },
-        {
-          "description": "Companion is a remote multiplayer game development studio founded in 2022. Headquartered in London and with a presence across the Americas and Europe.",
-          "title": "Companion Group - LinkedIn",
-          "url": "https://www.linkedin.com/company/companion-group-ltd"
-        },
-        {
-          "description": "Companion Group's Careers Page - Open Remote Jobs",
-          "title": "Companion Group's Careers Page - Open Remote Jobs, October 2026",
-          "url": "https://dynamitejobs.com/company/companiongroup"
-        },
-        {
-          "description": "Companion Group Ltd. is hiring remote and work from home jobs on We Work Remotely.",
-          "title": "Remote Job Opportunities at Companion Group Ltd.",
-          "url": "https://weworkremotely.com/company/companion-group-ltd"
-        },
-        {
-          "description": "Companion Group Ltd is hiring. Apply to 12 jobs like Senior ...",
-          "title": "Companion Group Ltd Jobs (August 2026) - Startup Jobs",
-          "url": "https://startup.jobs/company/companion-group-ltd"
-        },
-        {
-          "description": "Senior AI Engineer. Remote job | Remote.",
-          "title": "Companion Group Ltd jobs and hiring activity - JobBeacon",
-          "url": "https://jobbeacon.app/companies/companion-group-ltd"
-        }
-      ]
+ "category": "Agency / studio",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-19T03:27:48Z",
+  "evidence": [
+   {
+    "detail": "Senior Animation Engineer — Worldwide",
+    "kind": "posting",
+    "label": "A current posting is open worldwide",
+    "url": "https://himalayas.app/companies/companion-group-ltd/jobs/senior-animation-engineer?utm_source=api",
+    "weight": 3
+   },
+   {
+    "detail": "…aboration with major studios worldwide. As a fully remote studio with colleagues across the globe, we value and emphasise clear, continuous, and transparent communicat…",
+    "kind": "posting",
+    "label": "Posting describes hiring across countries",
+    "url": "https://himalayas.app/companies/companion-group-ltd/jobs/senior-animation-engineer?utm_source=api",
+    "weight": 3
+   }
+  ],
+  "first_checked_at": "2026-10-15T16:19:24Z",
+  "india_based": false,
+  "method": "Careers board, posting text, web search",
+  "sig": "21b81f0b4d",
+  "summary": "No India-located roles found, but a current posting is open worldwide.",
+  "verdict": "likely",
+  "web": {
+   "checked_at": "2026-10-29T19:26:56Z",
+   "query": "\"Companion Group Ltd\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
+   "results": [
+    {
+     "description": "",
+     "title": "employer of record",
+     "url": "https://remote.com/country-explorer/india/employer-of-record"
+    },
+    {
+     "description": "",
+     "title": "Work Remotely for Global Companies Hiring in India",
+     "url": "https://www.wisemonk.io/for-candidates"
+    },
+    {
+     "description": "",
+     "title": "employer of record",
+     "url": "https://remote.com/en-hk/country-explorer/india/employer-of-record"
+    },
+    {
+     "description": "",
+     "title": "Build your career with global companies, without leaving India",
+     "url": "https://www.wisemonk.io/for-candidate"
+    },
+    {
+     "description": "",
+     "title": "wellfound.com",
+     "url": "https://wellfound.com/company/wisemonk"
+    },
+    {
+     "description": "",
+     "title": "Payroll Country Lead - India",
+     "url": "https://jobs.generalcatalyst.com/companies/remote/jobs/39820647-payroll-country-lead-india"
     }
-  },
-  "inferred": true,
-  "logo": "https://cdn-images.himalayas.app/h81e9o4xidn23ap9abqn5edi87hr",
-  "name": "Companion Group Ltd",
-  "slug": "companion-group-ltd",
-  "tier": 2
+   ]
+  }
+ },
+ "inferred": true,
+ "logo": "https://cdn-images.himalayas.app/h81e9o4xidn23ap9abqn5edi87hr",
+ "name": "Companion Group Ltd",
+ "slug": "companion-group-ltd",
+ "tier": 2
 }

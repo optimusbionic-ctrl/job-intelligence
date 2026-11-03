@@ -1,58 +1,58 @@
 {
-  "category": "Other",
-  "classification": "Inferred from job description",
-  "india_hiring": {
-    "board": null,
-    "changed_at": "2026-10-19T15:45:44Z",
-    "evidence": [],
-    "first_checked_at": "2026-10-19T15:45:44Z",
-    "india_based": false,
-    "method": "Careers board, posting text, web search",
-    "sig": "54391d7cdf",
-    "summary": "No public evidence yet about hiring from India.",
-    "verdict": "unclear",
-    "web": {
-      "checked_at": "2026-10-19T16:45:07Z",
-      "query": "\"Electronic Arts\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
-      "results": [
-        {
-          "description": "",
-          "title": "Associate Product Analyst",
-          "url": "https://gracklehq.com/rd/49458"
-        },
-        {
-          "description": "",
-          "title": "jobs.ea.com",
-          "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-II/202051"
-        },
-        {
-          "description": "",
-          "title": "jobs.ea.com",
-          "url": "https://jobs.ea.com/en_US/careers/JobDetail/Specialist-Payroll/213595"
-        },
-        {
-          "description": "",
-          "title": "ea work remotely outside of the us iayybp3p",
-          "url": "https://www.teamblind.com/post/ea-work-remotely-outside-of-the-us-iayybp3p"
-        },
-        {
-          "description": "",
-          "title": "Saltar al contenido",
-          "url": "https://jobs.ea.com/es_ES/careers/JobDetail/Assistant-People-Operations-Coordinator/207800"
-        },
-        {
-          "description": "",
-          "title": "Senior Associate, Payroll",
-          "url": "https://ea.gr8people.com/jobs/173792/payroll-specialist?locale=de"
-        }
-      ]
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-19T15:45:44Z",
+  "evidence": [],
+  "first_checked_at": "2026-10-19T15:45:44Z",
+  "india_based": false,
+  "method": "Careers board, posting text, web search",
+  "sig": "54391d7cdf",
+  "summary": "No public evidence yet about hiring from India.",
+  "verdict": "unclear",
+  "web": {
+   "checked_at": "2026-10-19T16:45:07Z",
+   "query": "\"Electronic Arts\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
+   "results": [
+    {
+     "description": "",
+     "title": "Associate Product Analyst",
+     "url": "https://gracklehq.com/rd/49458"
+    },
+    {
+     "description": "",
+     "title": "jobs.ea.com",
+     "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-II/202051"
+    },
+    {
+     "description": "",
+     "title": "jobs.ea.com",
+     "url": "https://jobs.ea.com/en_US/careers/JobDetail/Specialist-Payroll/213595"
+    },
+    {
+     "description": "",
+     "title": "ea work remotely outside of the us iayybp3p",
+     "url": "https://www.teamblind.com/post/ea-work-remotely-outside-of-the-us-iayybp3p"
+    },
+    {
+     "description": "",
+     "title": "Saltar al contenido",
+     "url": "https://jobs.ea.com/es_ES/careers/JobDetail/Assistant-People-Operations-Coordinator/207800"
+    },
+    {
+     "description": "",
+     "title": "Senior Associate, Payroll",
+     "url": "https://ea.gr8people.com/jobs/173792/payroll-specialist?locale=de"
     }
-  },
-  "inferred": true,
-  "name": "Electronic Arts",
-  "slug": "electronic-arts",
-  "tier": 3,
-  "tracks": [
-    "software"
-  ]
+   ]
+  }
+ },
+ "inferred": true,
+ "name": "Electronic Arts",
+ "slug": "electronic-arts",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
 }

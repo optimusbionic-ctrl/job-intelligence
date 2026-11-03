@@ -1,98 +1,98 @@
 {
-  "apply_url": null,
-  "board_apply": "https://www.linkedin.com/posts/deepankarraj_hiring-designjobs-productdesign-activity-7506749017897246720-kxkz",
-  "category": "Fintech",
-  "comp_potential": "unknown",
-  "company": "PayGlocal",
-  "company_slug": "payglocal",
-  "concerns": [
-    "Pay not disclosed — showing a low-confidence estimate"
+ "apply_url": null,
+ "board_apply": "https://www.linkedin.com/posts/deepankarraj_hiring-designjobs-productdesign-activity-7506749017897246720-kxkz",
+ "category": "Fintech",
+ "comp_potential": "unknown",
+ "company": "PayGlocal",
+ "company_slug": "payglocal",
+ "concerns": [
+  "Pay not disclosed — showing a low-confidence estimate"
+ ],
+ "contacts_count": 1,
+ "content_hash": "21b603cc0732",
+ "date_quality": "approx",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-10-15T15:27:11Z",
+ "fit": 68,
+ "has_hiring_manager": true,
+ "has_named_contact": true,
+ "has_public_email": false,
+ "id": "bfb609bdf9ebce",
+ "include_reason": "Motion design title",
+ "india": {
+  "cities": [
+   "Bengaluru"
   ],
-  "contacts_count": 1,
-  "content_hash": "21b603cc0732",
-  "date_quality": "approx",
-  "deadline": null,
-  "employment": "full-time",
-  "first_seen": "2026-10-15T15:27:11Z",
-  "fit": 68,
-  "has_hiring_manager": true,
-  "has_named_contact": true,
-  "has_public_email": false,
-  "id": "bfb609bdf9ebce",
-  "include_reason": "Motion design title",
-  "india": {
-    "cities": [
-      "Bengaluru"
-    ],
-    "company": "yes",
-    "reason": "Location lists India",
-    "status": "confirmed",
-    "visa": false
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "motion",
+ "last_verified": "2026-10-15T16:19:24Z",
+ "location": "Bengaluru, India (on-site)",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-09-18T06:00:00Z",
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "estimate": {
+   "confidence": "low",
+   "currency": "INR",
+   "evidence": [
+    "ab-senior-motion-designer-in",
+    "ab-senior-motion-graphic-designer-in",
+    "gd-senior-motion-designer-blr"
+   ],
+   "high": 920000,
+   "inr_high": 920000,
+   "inr_low": 800000,
+   "low": 800000,
+   "method": "India market averages for senior motion designers from 3 sources (AmbitionBox ×2, Glassdoor Bangalore): ₹8.0–9.2 LPA. These are averages across all employers and experience around 3 years; product companies like this one may pay more, but no company-specific pay data was found.",
+   "potential": "unknown"
   },
-  "kind": "motion",
-  "last_verified": "2026-10-15T16:19:24Z",
-  "location": "Bengaluru, India (on-site)",
-  "logo": null,
-  "needs_review": false,
-  "official": false,
-  "posted_at": "2026-09-18T06:00:00Z",
-  "repost": false,
-  "requirements": [],
-  "responsibilities": [],
-  "salary": {
-    "estimate": {
-      "confidence": "low",
-      "currency": "INR",
-      "evidence": [
-        "ab-senior-motion-designer-in",
-        "ab-senior-motion-graphic-designer-in",
-        "gd-senior-motion-designer-blr"
-      ],
-      "high": 920000,
-      "inr_high": 920000,
-      "inr_low": 800000,
-      "low": 800000,
-      "method": "India market averages for senior motion designers from 3 sources (AmbitionBox ×2, Glassdoor Bangalore): ₹8.0–9.2 LPA. These are averages across all employers and experience around 3 years; product companies like this one may pay more, but no company-specific pay data was found.",
-      "potential": "unknown"
-    },
-    "note": "Estimate — not employer-confirmed",
-    "state": "estimate",
-    "verified_at": "2026-10-15T16:19:24Z"
-  },
-  "scores": {
-    "ai": 30,
-    "comp": 48,
-    "company": 98,
-    "location": 86,
-    "seniority": 100,
-    "skill": 47
-  },
-  "seniority": "senior",
-  "snippet": "PayGlocal Design team hiring: Product Designer II, Senior Motion Designer (2–5 yrs), Visual Designer. Bengaluru, on-site.",
-  "source_primary": "LinkedIn post (public)",
-  "sources": [
-    {
-      "id": "linkedin_post",
-      "job_id": "https://www.linkedin.com/posts/deepankarraj_hiring-designjobs-productdesign-activity-7506749017897246720-kxkz",
-      "kind": "social",
-      "name": "LinkedIn post (public)",
-      "posted_at": "2026-09-18T06:00:00Z",
-      "seen_at": "2026-10-15T16:19:24Z",
-      "url": "https://www.linkedin.com/posts/deepankarraj_hiring-designjobs-productdesign-activity-7506749017897246720-kxkz"
-    }
-  ],
-  "specializations": [],
-  "status": "lead",
-  "tier": 1,
-  "title": "Senior Motion Designer",
-  "tools": [],
-  "updated_at": null,
-  "url": "https://www.linkedin.com/posts/deepankarraj_hiring-designjobs-productdesign-activity-7506749017897246720-kxkz",
-  "why": [
-    "Core motion design role",
-    "Fintech company (Tier 1 priority)",
-    "Location lists India"
-  ],
-  "work_mode": "onsite",
-  "years_min": null
+  "note": "Estimate — not employer-confirmed",
+  "state": "estimate",
+  "verified_at": "2026-10-15T16:19:24Z"
+ },
+ "scores": {
+  "ai": 30,
+  "comp": 48,
+  "company": 98,
+  "location": 86,
+  "seniority": 100,
+  "skill": 47
+ },
+ "seniority": "senior",
+ "snippet": "PayGlocal Design team hiring: Product Designer II, Senior Motion Designer (2–5 yrs), Visual Designer. Bengaluru, on-site.",
+ "source_primary": "LinkedIn post (public)",
+ "sources": [
+  {
+   "id": "linkedin_post",
+   "job_id": "https://www.linkedin.com/posts/deepankarraj_hiring-designjobs-productdesign-activity-7506749017897246720-kxkz",
+   "kind": "social",
+   "name": "LinkedIn post (public)",
+   "posted_at": "2026-09-18T06:00:00Z",
+   "seen_at": "2026-10-15T16:19:24Z",
+   "url": "https://www.linkedin.com/posts/deepankarraj_hiring-designjobs-productdesign-activity-7506749017897246720-kxkz"
+  }
+ ],
+ "specializations": [],
+ "status": "lead",
+ "tier": 1,
+ "title": "Senior Motion Designer",
+ "tools": [],
+ "updated_at": null,
+ "url": "https://www.linkedin.com/posts/deepankarraj_hiring-designjobs-productdesign-activity-7506749017897246720-kxkz",
+ "why": [
+  "Core motion design role",
+  "Fintech company (Tier 1 priority)",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_min": null
 }

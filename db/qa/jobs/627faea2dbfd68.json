@@ -1,92 +1,92 @@
 {
-  "apply_url": null,
-  "board_apply": "https://remoteOK.com/remote-jobs/remote-fire-tester-acet-global-1136947",
-  "category": "Other",
-  "comp_potential": "unknown",
-  "company": "ACET Global",
-  "company_slug": "acet-global",
-  "concerns": [
-    "Employer has not confirmed hiring from India",
-    "Pay not disclosed — ask for the range early"
-  ],
-  "contacts_count": 0,
-  "content_hash": "f0878c172fa2",
-  "date_quality": "exact",
-  "deadline": null,
-  "employment": "full-time",
-  "first_seen": "2026-10-21T00:44:37Z",
-  "fit": 59,
-  "has_hiring_manager": false,
-  "has_named_contact": false,
-  "has_public_email": false,
-  "id": "627faea2dbfd68",
-  "include_reason": "Manual / functional QA title",
-  "india": {
-    "cities": [],
-    "company": "unclear",
-    "reason": "Remote, region not stated",
-    "status": "unconfirmed",
-    "visa": false
-  },
-  "kind": "manual-qa",
-  "last_verified": "2026-10-21T06:44:58Z",
-  "location": "Darwin,",
-  "logo": null,
-  "needs_review": false,
-  "official": false,
-  "posted_at": "2026-07-22T13:22:42Z",
-  "repost": false,
-  "requirements": [
-    "Minimum experience as a Fire Tester for 3-5 years.",
-    "AQF Certificate III including at least two years of on-the-job training, or AQF Certificate IV"
-  ],
-  "responsibilities": [
-    "Conduct Maintenance work in accordance with work management procedures and job plans",
-    "Contribute to the development or improvement of procedures as required to execute work in a safe, efficient and timely manner.",
-    "Provide knowledge of procedures to enable resource teams to successfully complete their work in their area",
-    "Ensure that the product / service provided meets the customer schedule / order / agreement requirements.",
-    "Identify, report and initiate (or recommend) possible solutions to problems in processes or systems.",
-    "Initiate actions to prevent occurrences of any non-conformances relating to the process or systems through the Continuous Improvement System.",
-    "Actively participate in the continuous improvement process."
-  ],
-  "salary": {
-    "context_benchmark": "qa-dataset-remote",
-    "state": "unavailable"
-  },
-  "scores": {
-    "ai": 58,
-    "comp": 60,
-    "company": 66,
-    "location": 36,
-    "seniority": 84,
-    "skill": 50
-  },
-  "seniority": "unspecified",
-  "snippet": "Tasks And Responsibilities\n\n• Conduct Maintenance work in accordance with work management procedures and job plans\n\n• Contribute to the development or improvement of procedures as required to execute work in a safe, efficient and timely manner.\n\n• Provide knowledge of procedures to enable resource teams to successfully complete their work in their area\n\n• Ensure that the product / service provided meets the customer ",
-  "source_primary": "Remote OK",
-  "sources": [
-    {
-      "id": "remoteok",
-      "job_id": "1136947",
-      "kind": "board",
-      "name": "Remote OK",
-      "posted_at": "2026-07-22T13:22:42Z",
-      "seen_at": "2026-10-21T06:44:58Z",
-      "url": "https://remoteOK.com/remote-jobs/remote-fire-tester-acet-global-1136947"
-    }
-  ],
-  "specializations": [],
-  "status": "active",
-  "tier": 3,
-  "title": "FIRE TESTER",
-  "tools": [],
-  "track": "software",
-  "updated_at": null,
-  "url": "https://remoteOK.com/remote-jobs/remote-fire-tester-acet-global-1136947",
-  "why": [
-    "Manual / functional QA — the core of your resume"
-  ],
-  "work_mode": "remote",
-  "years_max": 5,
-  "years_min": null
+ "apply_url": null,
+ "board_apply": "https://remoteOK.com/remote-jobs/remote-fire-tester-acet-global-1136947",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "ACET Global",
+ "company_slug": "acet-global",
+ "concerns": [
+  "Employer has not confirmed hiring from India",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "f0878c172fa2",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-10-21T00:44:37Z",
+ "fit": 59,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "627faea2dbfd68",
+ "include_reason": "Manual / functional QA title",
+ "india": {
+  "cities": [],
+  "company": "unclear",
+  "reason": "Remote, region not stated",
+  "status": "unconfirmed",
+  "visa": false
+ },
+ "kind": "manual-qa",
+ "last_verified": "2026-10-21T06:44:58Z",
+ "location": "Darwin,",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-07-22T13:22:42Z",
+ "repost": false,
+ "requirements": [
+  "Minimum experience as a Fire Tester for 3-5 years.",
+  "AQF Certificate III including at least two years of on-the-job training, or AQF Certificate IV"
+ ],
+ "responsibilities": [
+  "Conduct Maintenance work in accordance with work management procedures and job plans",
+  "Contribute to the development or improvement of procedures as required to execute work in a safe, efficient and timely manner.",
+  "Provide knowledge of procedures to enable resource teams to successfully complete their work in their area",
+  "Ensure that the product / service provided meets the customer schedule / order / agreement requirements.",
+  "Identify, report and initiate (or recommend) possible solutions to problems in processes or systems.",
+  "Initiate actions to prevent occurrences of any non-conformances relating to the process or systems through the Continuous Improvement System.",
+  "Actively participate in the continuous improvement process."
+ ],
+ "salary": {
+  "context_benchmark": "qa-dataset-remote",
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 60,
+  "company": 66,
+  "location": 36,
+  "seniority": 84,
+  "skill": 50
+ },
+ "seniority": "unspecified",
+ "snippet": "Tasks And Responsibilities\n\n• Conduct Maintenance work in accordance with work management procedures and job plans\n\n• Contribute to the development or improvement of procedures as required to execute work in a safe, efficient and timely manner.\n\n• Provide knowledge of procedures to enable resource teams to successfully complete their work in their area\n\n• Ensure that the product / service provided meets the customer ",
+ "source_primary": "Remote OK",
+ "sources": [
+  {
+   "id": "remoteok",
+   "job_id": "1136947",
+   "kind": "board",
+   "name": "Remote OK",
+   "posted_at": "2026-07-22T13:22:42Z",
+   "seen_at": "2026-10-21T06:44:58Z",
+   "url": "https://remoteOK.com/remote-jobs/remote-fire-tester-acet-global-1136947"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 3,
+ "title": "FIRE TESTER",
+ "tools": [],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://remoteOK.com/remote-jobs/remote-fire-tester-acet-global-1136947",
+ "why": [
+  "Manual / functional QA — the core of your resume"
+ ],
+ "work_mode": "remote",
+ "years_max": 5,
+ "years_min": null
 }

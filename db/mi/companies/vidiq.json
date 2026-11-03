@@ -1,78 +1,63 @@
 {
-  "aliases": [
-    "vidIQ"
-  ],
-  "ats": null,
-  "careers": null,
-  "category": "SaaS",
-  "classification": "Motion Intelligence registry (curated)",
-  "domain": "vidiq.com",
-  "facts_note": "Basic facts only; not independently verified",
-  "hq": "Remote-first",
-  "india_hiring": {
-    "board": null,
-    "changed_at": "2026-10-15T16:52:46Z",
-    "evidence": [
-      {
-        "detail": "Technical Government Job All Over India YouTube Stats — “Job All Over India”",
-        "kind": "web",
-        "label": "Web mentions India hiring or an India office",
-        "url": "https://vidiq.com/youtube-stats/channel/@technicalgovernmentjobchannel/",
-        "weight": 3
-      },
-      {
-        "detail": "Job India's Latest YouTube Videos & Shorts - vidIQ — “Job India”",
-        "kind": "web",
-        "label": "Web mentions India hiring or an India office",
-        "url": "https://vidiq.com/youtube-stats/channel/@jobindia124/videos/",
-        "weight": 3
-      }
-    ],
-    "first_checked_at": "2026-10-15T16:19:24Z",
-    "india_based": false,
-    "method": "Careers board, posting text, web search",
-    "sig": "0ae30fb6b7",
-    "summary": "No India-located roles found, but web mentions India hiring or an India office.",
-    "verdict": "likely",
-    "web": {
-      "checked_at": "2026-10-15T16:52:46Z",
-      "query": "site:vidiq.com careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
-      "results": [
-        {
-          "description": "# Your journey starts here\n## Open positions\nSenior Frontend Engineer (Remote)\n\nRemote\n\n- Vancouver,British Columbia,Canada",
-          "title": "Careers homepage",
-          "url": "https://careers.vidiq.com/"
-        },
-        {
-          "description": "# Senior Frontend Engineer (Remote)\n- Remote\n  - Vancouver,British Columbia,Canada\n  - •Buenos Aires,Buenos Aires,Argentina\n  - •São Paulo,São Paulo,Brazil\n  - •Mexico,México,Mexico\n  - •Lima,Ica,Peru\n  - •Lisbon,Lisboa,Portugal\n  - •London,Greater London,United Kingdom\n  - •Austin,Texas,United States\n\n**About vidIQ**\n\nvidIQ builds software to help YouTube creators achieve their goals. ... This is a remote position open to candidates worldwide.",
-          "title": "Senior Frontend Engineer (Remote) - Careers - vidIQ",
-          "url": "https://careers.vidiq.com/o/senior-frontend-engineer-remote-3"
-        },
-        {
-          "description": "Top 100 Channels by Country ... Technical Government Job All Over India YouTube Stats — Subscribers, Views & Earnings",
-          "title": "Technical Government Job All Over India YouTube Stats",
-          "url": "https://vidiq.com/youtube-stats/channel/@technicalgovernmentjobchannel/"
-        },
-        {
-          "description": "See Jobs & Careers' YouTube channel stats, including subscribers, total views, estimated earnings, rankings, and recent growth trends.",
-          "title": "Jobs & Careers YouTube Stats: Subscribers, Views & Earnings | vidIQ",
-          "url": "https://vidiq.com/youtube-stats/channel/@freshcareers/"
-        },
-        {
-          "description": "See the latest long-form videos and Shorts uploaded by Job India on YouTube. earnings, and rankingsSubscribers, rankings, and more.",
-          "title": "Job India's Latest YouTube Videos & Shorts - vidIQ",
-          "url": "https://vidiq.com/youtube-stats/channel/@jobindia124/videos/"
-        },
-        {
-          "description": "See CoComelon - Jobs and Careers' YouTube channel stats, including subscribers, total views, estimated earnings, rankings, and recent growth trends.",
-          "title": "CoComelon - Jobs and Careers YouTube Stats: Subscribers, Views ...",
-          "url": "https://vidiq.com/youtube-stats/channel/@cocomelon_jobsandcareers/"
-        }
-      ]
+ "aliases": [
+  "vidIQ"
+ ],
+ "ats": null,
+ "careers": null,
+ "category": "SaaS",
+ "classification": "Motion Intelligence registry (curated)",
+ "domain": "vidiq.com",
+ "facts_note": "Basic facts only; not independently verified",
+ "hq": "Remote-first",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-29T18:27:37Z",
+  "evidence": [],
+  "first_checked_at": "2026-10-15T16:19:24Z",
+  "india_based": false,
+  "method": "Careers board, posting text, web search",
+  "sig": "54391d7cdf",
+  "summary": "No public evidence yet about hiring from India.",
+  "verdict": "unclear",
+  "web": {
+   "checked_at": "2026-10-29T18:27:37Z",
+   "query": "site:vidiq.com careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
+   "results": [
+    {
+     "description": "",
+     "title": "Chrome extension for YouTube video creators",
+     "url": "https://nodesk.co/remote-jobs/vidiq-associate-technical-product-manager/"
+    },
+    {
+     "description": "",
+     "title": "Chrome extension for YouTube video creators",
+     "url": "https://nodesk.co/remote-jobs/vidiq-senior-product-manager/"
+    },
+    {
+     "description": "",
+     "title": "Chrome extension for YouTube video creators",
+     "url": "https://nodesk.co/remote-jobs/vidiq-email-marketing-specialist/"
+    },
+    {
+     "description": "",
+     "title": "Chrome extension for YouTube video creators",
+     "url": "https://nodesk.co/remote-jobs/vidiq-creator-customer-support-specialist/"
+    },
+    {
+     "description": "",
+     "title": "Chrome extension for YouTube video creators",
+     "url": "https://nodesk.co/remote-jobs/vidiq-email-marketing-manager/"
+    },
+    {
+     "description": "",
+     "title": "Chrome extension for YouTube video creators",
+     "url": "https://nodesk.co/remote-jobs/vidiq-bilingual-customer-advocate/"
     }
-  },
-  "maturity": null,
-  "name": "vidIQ",
-  "slug": "vidiq",
-  "tier": 1
+   ]
+  }
+ },
+ "maturity": null,
+ "name": "vidIQ",
+ "slug": "vidiq",
+ "tier": 1
 }

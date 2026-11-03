@@ -1,0 +1,109 @@
+{
+ "apply_url": null,
+ "board_apply": "https://himalayas.app/companies/techbiz-global/jobs/uat-tester-10-months-project-6970196857?utm_source=api",
+ "category": "IT services",
+ "comp_potential": "unknown",
+ "company": "TechBiz Global",
+ "company_slug": "techbiz-global",
+ "concerns": [
+  "Also asks for: SQL / databases, ISTQB",
+  "Pay not disclosed — ask for the range early",
+  "IT services company (client projects)",
+  "Contract role"
+ ],
+ "contacts_count": 0,
+ "content_hash": "67ed370a7b4d",
+ "date_quality": "exact",
+ "deadline": "2026-12-01T17:25:20Z",
+ "employment": "contract",
+ "first_seen": "2026-10-29T12:55:23Z",
+ "fit": 79,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "31641418a0568a",
+ "include_reason": "Manual / functional QA title",
+ "india": {
+  "cities": [],
+  "company": "likely",
+  "reason": "Worldwide remote",
+  "status": "likely",
+  "visa": false
+ },
+ "kind": "manual-qa",
+ "last_verified": "2026-10-29T12:55:23Z",
+ "location": "Worldwide",
+ "logo": "https://cdn-images.himalayas.app/fs8dnwotdo5pm0aebf6ufosgpmne",
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-10-02T18:25:20Z",
+ "repost": false,
+ "requirements": [
+  "Bachelor's degree in Computer Science, Information Technology, or related field.",
+  "Proven experience in UAT testing or a similar role.",
+  "Strong understanding of software development and testing methodologies.",
+  "Proficiency in test management software (Sirion) and SQL.",
+  "Ability to document and troubleshoot errors.",
+  "Working knowledge of Agile frameworks and regression testing is a plus.",
+  "Attention to detail and a commitment to achieving high-quality outcomes."
+ ],
+ "responsibilities": [
+  "Collaborate with the project team to understand the business requirements and objectives of the software.",
+  "Develop and execute detailed UAT test plans and test cases based on the business requirements.",
+  "Document test results, report bugs and errors to the development team, and follow through on resolutions.",
+  "Work closely with business analysts and project managers to ensure that all scenarios are tested and that the software meets business needs.",
+  "Provide feedback to the development team on usability and functionality issues.",
+  "Participate in project meetings and provide updates on UAT progress and outcomes.",
+  "Assist in the creation of user manuals and training materials for end-users."
+ ],
+ "salary": {
+  "context_benchmark": "qa-dataset-remote",
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 60,
+  "company": 76,
+  "location": 86,
+  "seniority": 84,
+  "skill": 88
+ },
+ "seniority": "unspecified",
+ "snippet": "At TechBiz Global , we are providing recruitment service to our TOP clients from our portfolio. We are currently seeking an UAT Tester specialist to join one of our clients ' teams. If you're looking for an exciting opportunity to grow in a innovative environment, this could be the perfect fit for you.\n Key Responsibilities:\n\n• Collaborate with the project team to understand the business requirements and objectives o",
+ "source_primary": "Himalayas",
+ "sources": [
+  {
+   "id": "himalayas",
+   "job_id": "https://himalayas.app/companies/techbiz-global/jobs/uat-tester-10-months-project-6970196857",
+   "kind": "board",
+   "name": "Himalayas",
+   "posted_at": "2026-10-02T18:25:20Z",
+   "seen_at": "2026-10-29T12:55:23Z",
+   "url": "https://himalayas.app/companies/techbiz-global/jobs/uat-tester-10-months-project-6970196857?utm_source=api"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 2,
+ "title": "UAT Tester (10 months project)",
+ "tools": [
+  "Regression testing",
+  "Usability testing",
+  "Test cases & scenarios",
+  "Google Sheets / Excel",
+  "SQL / databases",
+  "Agile / Scrum",
+  "ISTQB"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://himalayas.app/companies/techbiz-global/jobs/uat-tester-10-months-project-6970196857?utm_source=api",
+ "why": [
+  "Manual / functional QA — the core of your resume",
+  "Already on your resume: Regression testing, Usability testing, Test cases & scenarios, Google Sheets / Excel",
+  "Worldwide remote"
+ ],
+ "work_mode": "remote",
+ "years_max": null,
+ "years_min": null
+}

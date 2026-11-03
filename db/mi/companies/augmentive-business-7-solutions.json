@@ -1,55 +1,55 @@
 {
-  "category": "Other",
-  "classification": "Inferred from job description",
-  "india_hiring": {
-    "board": null,
-    "changed_at": "2026-10-19T15:27:40Z",
-    "evidence": [],
-    "first_checked_at": "2026-10-19T15:27:40Z",
-    "india_based": false,
-    "method": "Careers board, posting text, web search",
-    "sig": "54391d7cdf",
-    "summary": "No public evidence yet about hiring from India.",
-    "verdict": "unclear",
-    "web": {
-      "checked_at": "2026-10-19T16:27:19Z",
-      "query": "\"Augmentive Business 7 Solutions\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
-      "results": [
-        {
-          "description": "",
-          "title": "Solutions Consultant",
-          "url": "https://builtin.com/job/solutions-consultant/3365453"
-        },
-        {
-          "description": "",
-          "title": "www.g2.com",
-          "url": "https://www.g2.com/products/gloroots/discuss"
-        },
-        {
-          "description": "",
-          "title": "employer of record",
-          "url": "https://remote.com/en-hk/country-explorer/india/employer-of-record"
-        },
-        {
-          "description": "",
-          "title": "Certified Startup",
-          "url": "https://startups.startupmission.in/startups/0JlK8"
-        },
-        {
-          "description": "",
-          "title": "Augmentive Business 7 Solutions",
-          "url": "https://www.placementindia.com/augmentive-business-7-solutions-sas-nagar-mohali-1252409/"
-        },
-        {
-          "description": "",
-          "title": "Contact HSBAH",
-          "url": "https://clutch.co/profile/hsbah"
-        }
-      ]
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-19T15:27:40Z",
+  "evidence": [],
+  "first_checked_at": "2026-10-19T15:27:40Z",
+  "india_based": false,
+  "method": "Careers board, posting text, web search",
+  "sig": "54391d7cdf",
+  "summary": "No public evidence yet about hiring from India.",
+  "verdict": "unclear",
+  "web": {
+   "checked_at": "2026-10-19T16:27:19Z",
+   "query": "\"Augmentive Business 7 Solutions\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
+   "results": [
+    {
+     "description": "",
+     "title": "Solutions Consultant",
+     "url": "https://builtin.com/job/solutions-consultant/3365453"
+    },
+    {
+     "description": "",
+     "title": "www.g2.com",
+     "url": "https://www.g2.com/products/gloroots/discuss"
+    },
+    {
+     "description": "",
+     "title": "employer of record",
+     "url": "https://remote.com/en-hk/country-explorer/india/employer-of-record"
+    },
+    {
+     "description": "",
+     "title": "Certified Startup",
+     "url": "https://startups.startupmission.in/startups/0JlK8"
+    },
+    {
+     "description": "",
+     "title": "Augmentive Business 7 Solutions",
+     "url": "https://www.placementindia.com/augmentive-business-7-solutions-sas-nagar-mohali-1252409/"
+    },
+    {
+     "description": "",
+     "title": "Contact HSBAH",
+     "url": "https://clutch.co/profile/hsbah"
     }
-  },
-  "inferred": true,
-  "name": "Augmentive Business 7 Solutions",
-  "slug": "augmentive-business-7-solutions",
-  "tier": 3
+   ]
+  }
+ },
+ "inferred": true,
+ "name": "Augmentive Business 7 Solutions",
+ "slug": "augmentive-business-7-solutions",
+ "tier": 3
 }

@@ -1,103 +1,103 @@
 {
-  "apply_url": null,
-  "board_apply": "https://www.shine.com/jobs/qa-integration-tester/converse-placement-services-india-private-limited/19873841",
-  "category": "Recruiter (client not named)",
-  "comp_potential": "listed_good",
-  "company": "CONVERSE PLACEMENT SERVICES INDIA PRIVATE LIMITED",
-  "company_slug": "converse-placement-services-india-private-limited",
-  "concerns": [
-    "Asks for 4+ years — you have about 2.5",
-    "Office outside Mumbai — relocation within India"
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/qa-integration-tester/converse-placement-services-india-private-limited/19873841",
+ "category": "Recruiter (client not named)",
+ "comp_potential": "listed_good",
+ "company": "CONVERSE PLACEMENT SERVICES INDIA PRIVATE LIMITED",
+ "company_slug": "converse-placement-services-india-private-limited",
+ "concerns": [
+  "Asks for 4+ years — you have about 2.5",
+  "Office outside Mumbai — relocation within India"
+ ],
+ "contacts_count": 0,
+ "content_hash": "6f70d57c4d7b",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-10-21T09:45:21Z",
+ "fit": 67,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "3f907ca6ded4f1",
+ "include_reason": "Manual / functional QA title",
+ "india": {
+  "cities": [
+   "Pune",
+   "Bengaluru",
+   "Hyderabad"
   ],
-  "contacts_count": 0,
-  "content_hash": "6f70d57c4d7b",
-  "date_quality": "exact",
-  "deadline": null,
-  "employment": "full-time",
-  "first_seen": "2026-10-21T09:45:21Z",
-  "fit": 67,
-  "has_hiring_manager": false,
-  "has_named_contact": false,
-  "has_public_email": false,
-  "id": "3f907ca6ded4f1",
-  "include_reason": "Manual / functional QA title",
-  "india": {
-    "cities": [
-      "Pune",
-      "Bengaluru",
-      "Hyderabad"
-    ],
-    "company": "yes",
-    "reason": "Location lists India",
-    "status": "confirmed",
-    "visa": false
-  },
-  "kind": "manual-qa",
-  "last_verified": "2026-10-24T05:44:13Z",
-  "location": "Pune, Bangalore, Hyderabad, India",
-  "logo": null,
-  "needs_review": false,
-  "official": false,
-  "posted_at": "2026-10-21T12:54:57Z",
-  "repost": false,
-  "requirements": [
-    "(Summary from the Shine.com listing; open the posting for the full description.)"
-  ],
-  "responsibilities": [],
-  "salary": {
-    "applies_india": true,
-    "basis": "listed",
-    "currency": "INR",
-    "fx_at": "Sat, 24 Oct 2026 00:02:31 +0000",
-    "fx_rate": 1,
-    "inr_max": 1400000,
-    "inr_min": 100000,
-    "max": 1400000,
-    "min": 100000,
-    "note": "Listed in the posting",
-    "original_period": "annual",
-    "period": "annual",
-    "source_name": "Shine.com",
-    "source_url": "https://www.shine.com/jobs/qa-integration-tester/converse-placement-services-india-private-limited/19873841",
-    "state": "verified",
-    "verified_at": "2026-10-24T05:44:13Z"
-  },
-  "scores": {
-    "ai": 58,
-    "comp": 100,
-    "company": 66,
-    "location": 78,
-    "seniority": 72,
-    "skill": 50
-  },
-  "seniority": "unspecified",
-  "snippet": "Experience: 4 to 9 Yrs\nSkills: as400, qa, integration testing\n(Summary from the Shine.com listing; open the posting for the full description.)",
-  "source_primary": "Shine.com",
-  "sources": [
-    {
-      "id": "shine",
-      "job_id": "19873841",
-      "kind": "board",
-      "name": "Shine.com",
-      "posted_at": "2026-10-21T12:54:57Z",
-      "seen_at": "2026-10-24T05:44:13Z",
-      "url": "https://www.shine.com/jobs/qa-integration-tester/converse-placement-services-india-private-limited/19873841"
-    }
-  ],
-  "specializations": [],
-  "status": "active",
-  "tier": 3,
-  "title": "QA Integration Tester",
-  "tools": [],
-  "track": "software",
-  "updated_at": null,
-  "url": "https://www.shine.com/jobs/qa-integration-tester/converse-placement-services-india-private-limited/19873841",
-  "why": [
-    "Manual / functional QA — the core of your resume",
-    "Pay is listed in the posting",
-    "Location lists India"
-  ],
-  "work_mode": "onsite",
-  "years_max": 9,
-  "years_min": 4
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "manual-qa",
+ "last_verified": "2026-10-24T05:44:13Z",
+ "location": "Pune, Bangalore, Hyderabad, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-10-21T12:54:57Z",
+ "repost": false,
+ "requirements": [
+  "(Summary from the Shine.com listing; open the posting for the full description.)"
+ ],
+ "responsibilities": [],
+ "salary": {
+  "applies_india": true,
+  "basis": "listed",
+  "currency": "INR",
+  "fx_at": "Sat, 24 Oct 2026 00:02:31 +0000",
+  "fx_rate": 1,
+  "inr_max": 1400000,
+  "inr_min": 100000,
+  "max": 1400000,
+  "min": 100000,
+  "note": "Listed in the posting",
+  "original_period": "annual",
+  "period": "annual",
+  "source_name": "Shine.com",
+  "source_url": "https://www.shine.com/jobs/qa-integration-tester/converse-placement-services-india-private-limited/19873841",
+  "state": "verified",
+  "verified_at": "2026-10-24T05:44:13Z"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 100,
+  "company": 66,
+  "location": 78,
+  "seniority": 72,
+  "skill": 50
+ },
+ "seniority": "unspecified",
+ "snippet": "Experience: 4 to 9 Yrs\nSkills: as400, qa, integration testing\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "19873841",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-10-21T12:54:57Z",
+   "seen_at": "2026-10-24T05:44:13Z",
+   "url": "https://www.shine.com/jobs/qa-integration-tester/converse-placement-services-india-private-limited/19873841"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 3,
+ "title": "QA Integration Tester",
+ "tools": [],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/qa-integration-tester/converse-placement-services-india-private-limited/19873841",
+ "why": [
+  "Manual / functional QA — the core of your resume",
+  "Pay is listed in the posting",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": 9,
+ "years_min": 4
 }

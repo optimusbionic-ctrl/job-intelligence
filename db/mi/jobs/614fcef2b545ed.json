@@ -1,0 +1,79 @@
+{
+ "apply_url": null,
+ "board_apply": "https://themuse.com/jobs/google/senior-motion-designer-android-d6a153",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "Google",
+ "company_slug": "google",
+ "concerns": [
+  "Employer has not confirmed hiring from India",
+  "Compensation not disclosed",
+  "Full description not available from this source"
+ ],
+ "contacts_count": 0,
+ "content_hash": "be90eb411100",
+ "date_quality": "unknown",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-10-30T00:27:41Z",
+ "fit": 59,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "614fcef2b545ed",
+ "include_reason": "Motion design title",
+ "india": {
+  "cities": [],
+  "company": "likely",
+  "reason": "Location not stated",
+  "status": "unconfirmed",
+  "visa": false
+ },
+ "kind": "motion",
+ "last_verified": "2026-10-30T03:27:13Z",
+ "location": "",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": null,
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 45,
+  "comp": 48,
+  "company": 40,
+  "location": 38,
+  "seniority": 100,
+  "skill": 69
+ },
+ "seniority": "senior",
+ "snippet": "",
+ "source_primary": "Web (via search index)",
+ "sources": [
+  {
+   "id": "web",
+   "job_id": "https://themuse.com/jobs/google/senior-motion-designer-android-d6a153",
+   "kind": "search",
+   "name": "Web (via search index)",
+   "posted_at": null,
+   "seen_at": "2026-10-30T03:27:13Z",
+   "url": "https://themuse.com/jobs/google/senior-motion-designer-android-d6a153"
+  }
+ ],
+ "specializations": [],
+ "status": "lead",
+ "tier": 3,
+ "title": "Senior Motion Designer, Android",
+ "tools": [],
+ "updated_at": null,
+ "url": "https://themuse.com/jobs/google/senior-motion-designer-android-d6a153",
+ "why": [
+  "Core motion design role"
+ ],
+ "work_mode": "unspecified",
+ "years_min": null
+}

@@ -1,0 +1,55 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-30T00:27:41Z",
+  "evidence": [],
+  "first_checked_at": "2026-10-30T00:27:41Z",
+  "india_based": false,
+  "method": "Careers board, posting text, web search",
+  "sig": "54391d7cdf",
+  "summary": "No public evidence yet about hiring from India.",
+  "verdict": "unclear",
+  "web": {
+   "checked_at": "2026-10-30T02:26:52Z",
+   "query": "\"Brave Bison\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
+   "results": [
+    {
+     "description": "",
+     "title": "Brave Bison Ltd logo",
+     "url": "https://in.indeed.com/cmp/Brave-Bison-Ltd"
+    },
+    {
+     "description": "",
+     "title": "Brave Bison Logo",
+     "url": "https://builtinlondon.uk/job/senior-enterprise-sales-manager/11542496"
+    },
+    {
+     "description": "",
+     "title": "software engineering intern waterloo university at brave software",
+     "url": "https://remotivated.com/jobs/software-engineering-intern-waterloo-university-at-brave-software"
+    },
+    {
+     "description": "",
+     "title": "mid market development manager west coast and east coast usa at brave software",
+     "url": "https://remotivated.com/jobs/mid-market-development-manager-west-coast-and-east-coast-usa-at-brave-software"
+    },
+    {
+     "description": "",
+     "title": "enterprise business development manager west coast at brave software",
+     "url": "https://remotivated.com/jobs/enterprise-business-development-manager-west-coast-at-brave-software"
+    },
+    {
+     "description": "",
+     "title": "Remote Jobs at Brave",
+     "url": "https://web3.career/web3-companies/brave+remote?page=4"
+    }
+   ]
+  }
+ },
+ "inferred": true,
+ "name": "Brave Bison",
+ "slug": "brave-bison",
+ "tier": 3
+}

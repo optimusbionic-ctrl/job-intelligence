@@ -1,117 +1,121 @@
 {
-  "apply_url": "https://jobs.lever.co/superside/b714cc57-df70-483e-be78-5cd898339e9a/apply",
-  "board_apply": null,
-  "category": "Agency / studio",
-  "comp_potential": "unknown",
-  "company": "Superside",
-  "company_slug": "superside",
-  "concerns": [
-    "Compensation not disclosed",
-    "Agency / studio (Tier 2)",
-    "Contract role",
-    "Reposted / refreshed listing — original posting is older"
-  ],
-  "contacts_count": 1,
-  "content_hash": "e6347eb7f349",
-  "date_quality": "exact",
-  "deadline": null,
-  "employment": "contract",
-  "first_seen": "2026-10-22T09:28:02Z",
-  "fit": 74,
-  "has_hiring_manager": false,
-  "has_named_contact": false,
-  "has_public_email": false,
-  "id": "d1aee734d134f5",
-  "include_reason": "Motion design title",
-  "india": {
-    "cities": [],
-    "company": "likely",
-    "reason": "Worldwide remote",
-    "status": "likely",
-    "visa": false
+ "apply_url": "https://jobs.lever.co/superside/b714cc57-df70-483e-be78-5cd898339e9a/apply",
+ "board_apply": null,
+ "category": "Agency / studio",
+ "comp_potential": "unknown",
+ "company": "Superside",
+ "company_slug": "superside",
+ "concerns": [
+  "Compensation not disclosed",
+  "Agency / studio (Tier 2)",
+  "Contract role",
+  "Reposted / refreshed listing — original posting is older"
+ ],
+ "contacts_count": 1,
+ "content_hash": "26cacca95774",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "contract",
+ "first_seen": "2026-10-22T09:28:02Z",
+ "fit": 75,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "d1aee734d134f5",
+ "include_reason": "Motion design title",
+ "india": {
+  "cities": [],
+  "company": "likely",
+  "reason": "Worldwide remote",
+  "status": "likely",
+  "visa": false
+ },
+ "kind": "motion",
+ "last_verified": "2026-10-27T15:28:11Z",
+ "location": "Anywhere",
+ "logo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2021/01/WRILS-210104060359-501693.jpg",
+ "needs_review": false,
+ "official": true,
+ "posted_at": "2023-10-10T14:21:19Z",
+ "repost": true,
+ "requirements": [
+  "Knowledge of working with UI design systems.",
+  "Preferably some understanding of HTML5.",
+  "Superside's vision is to create equal opportunities globally by accelerating the world’s transition to online work. With that in mind, we're building a fully remote company that attracts people where they are.",
+  "Remote-first. Customer-led.",
+  "Remote isn’t just a perk; it’s how we deliver better for customers. We are fully committing to our customers by hiring top talent and collaborating seamlessly across time zones.",
+  "Global team, local impact.",
+  "Join a community of 60+ nationalities working across time zones, cultures, and disciplines, all aligned on doing great work for great brands."
+ ],
+ "responsibilities": [
+  "Design engaging motion graphics for leading global brands across various formats.",
+  "Collaborate with dedicated account teams across different time zones.",
+  "Work on a number of simultaneous projects, executed with high attention to detail, on time and budget.",
+  "Support creative leads to help our customers achieve goals and add business value through design.",
+  "Take ownership of technical motion innovations, including Rive and Lottie animations.",
+  "Explore and integrate AI-powered tools for video, image generation, and animation enhancements.",
+  "Work on interactive motion projects that push the limits of storytelling and engagement."
+ ],
+ "salary": {
+  "context_benchmark": "mi-dataset-remote",
+  "note": "Not disclosed. Global remote pay context is available, but there is no evidence it applies to this employer or to India-based hires.",
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 86,
+  "comp": 48,
+  "company": 62,
+  "location": 92,
+  "seniority": 66,
+  "skill": 92
+ },
+ "seniority": "unspecified",
+ "snippet": "Superside is looking for a motion designer with the creativity, technical expertise, and innovation mindset to push the boundaries of motion design. You’ll work with top global brands, crafting high-impact motion graphics, animated digital ads, Lottie animations, and more, all while collaborating with a world-class, globally distributed team of creatives. \n\n This is a high-ownership role where you’ll contribute to cu",
+ "source_primary": "Superside careers (Lever)",
+ "sources": [
+  {
+   "id": "lever",
+   "job_id": "lever:superside:b714cc57-df70-483e-be78-5cd898339e9a",
+   "kind": "ats",
+   "name": "Superside careers (Lever)",
+   "posted_at": "2023-10-10T14:21:19Z",
+   "seen_at": "2026-10-27T15:28:11Z",
+   "url": "https://jobs.lever.co/superside/b714cc57-df70-483e-be78-5cd898339e9a"
   },
-  "kind": "motion",
-  "last_verified": "2026-10-22T09:28:02Z",
-  "location": "Anywhere",
-  "logo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2021/01/WRILS-210104060359-501693.jpg",
-  "needs_review": false,
-  "official": true,
-  "posted_at": "2023-10-10T14:21:19Z",
-  "repost": true,
-  "requirements": [
-    "Familiarity with AI-enhanced motion tools and emerging creative tech.",
-    "Knowledge of working with UI design systems.",
-    "Preferably some understanding of HTML5."
-  ],
-  "responsibilities": [
-    "Design engaging motion graphics for leading global brands across various formats.",
-    "Collaborate with dedicated account teams across different time zones.",
-    "Work on a number of simultaneous projects, executed with high attention to detail, on time and budget.",
-    "Support creative leads to help our customers achieve goals and add business value through design.",
-    "Take ownership of technical motion innovations, including Rive and Lottie animations.",
-    "Explore and integrate AI-powered tools for video, image generation, and animation enhancements.",
-    "Work on interactive motion projects that push the limits of storytelling and engagement."
-  ],
-  "salary": {
-    "context_benchmark": "mi-dataset-remote",
-    "note": "Not disclosed. Global remote pay context is available, but there is no evidence it applies to this employer or to India-based hires.",
-    "state": "unavailable"
-  },
-  "scores": {
-    "ai": 72,
-    "comp": 48,
-    "company": 62,
-    "location": 92,
-    "seniority": 66,
-    "skill": 92
-  },
-  "seniority": "unspecified",
-  "snippet": "Superside is looking for a motion designer with the creativity, technical expertise, and innovation mindset to push the boundaries of motion design. You’ll work with top global brands, crafting high-impact motion graphics, animated digital ads, Lottie animations, and more, all while collaborating with a world-class, globally distributed team of creatives.\n\n This is a high-ownership role where you’ll contribute to cut",
-  "source_primary": "Superside careers (Lever)",
-  "sources": [
-    {
-      "id": "lever",
-      "job_id": "lever:superside:b714cc57-df70-483e-be78-5cd898339e9a",
-      "kind": "ats",
-      "name": "Superside careers (Lever)",
-      "posted_at": "2023-10-10T14:21:19Z",
-      "seen_at": "2026-10-22T09:28:02Z",
-      "url": "https://jobs.lever.co/superside/b714cc57-df70-483e-be78-5cd898339e9a"
-    },
-    {
-      "id": "jobicy",
-      "job_id": "153812",
-      "kind": "board",
-      "name": "Jobicy",
-      "posted_at": "2026-10-22T06:25:10Z",
-      "seen_at": "2026-10-22T09:28:02Z",
-      "url": "https://jobicy.com/jobs/153812-creative-motion-design"
-    }
-  ],
-  "specializations": [
-    "UI/UX animation",
-    "3D motion",
-    "Interaction systems",
-    "Technical storytelling"
-  ],
-  "status": "verified",
-  "tier": 2,
-  "title": "Creative (Motion Design)",
-  "tools": [
-    "After Effects",
-    "Rive",
-    "Lottie",
-    "Illustrator",
-    "Photoshop"
-  ],
-  "updated_at": "2026-10-22T06:25:10Z",
-  "url": "https://jobs.lever.co/superside/b714cc57-df70-483e-be78-5cd898339e9a",
-  "why": [
-    "Core motion design role",
-    "Tools you already use: After Effects, Rive, Lottie, Illustrator, Photoshop",
-    "Specialisations in scope: UI/UX animation, 3D motion, Interaction systems, Technical storytelling",
-    "Worldwide remote"
-  ],
-  "work_mode": "remote",
-  "years_min": null
+  {
+   "id": "jobicy",
+   "job_id": "153812",
+   "kind": "board",
+   "name": "Jobicy",
+   "posted_at": "2026-10-22T06:25:10Z",
+   "seen_at": "2026-10-27T15:28:11Z",
+   "url": "https://jobicy.com/jobs/153812-creative-motion-design"
+  }
+ ],
+ "specializations": [
+  "UI/UX animation",
+  "3D motion",
+  "Interaction systems",
+  "Technical storytelling"
+ ],
+ "status": "verified",
+ "tier": 2,
+ "title": "Creative (Motion Design)",
+ "tools": [
+  "After Effects",
+  "Rive",
+  "Lottie",
+  "Illustrator",
+  "Photoshop"
+ ],
+ "updated_at": "2026-10-22T06:25:10Z",
+ "url": "https://jobs.lever.co/superside/b714cc57-df70-483e-be78-5cd898339e9a",
+ "why": [
+  "Core motion design role",
+  "Tools you already use: After Effects, Rive, Lottie, Illustrator, Photoshop",
+  "Specialisations in scope: UI/UX animation, 3D motion, Interaction systems, Technical storytelling",
+  "Worldwide remote"
+ ],
+ "work_mode": "remote",
+ "years_min": null
 }

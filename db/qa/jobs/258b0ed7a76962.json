@@ -12,7 +12,7 @@
   "Reposted / refreshed listing — original posting is older"
  ],
  "contacts_count": 1,
- "content_hash": "1ec987231dd4",
+ "content_hash": "78fd13d60166",
  "date_quality": "exact",
  "deadline": null,
  "employment": "full-time",
@@ -33,12 +33,12 @@
   "visa": false
  },
  "kind": "qa-engineer",
- "last_verified": "2026-10-27T10:50:24Z",
+ "last_verified": "2026-10-28T05:43:41Z",
  "location": "Bangalore HQ (India)",
  "logo": null,
  "needs_review": false,
  "official": true,
- "posted_at": "2026-06-29T05:20:38Z",
+ "posted_at": "2026-07-07T10:51:22Z",
  "repost": true,
  "requirements": [],
  "responsibilities": [
@@ -71,17 +71,8 @@
    "kind": "ats",
    "name": "Tekion careers (Ashby)",
    "posted_at": "2026-07-07T10:51:22Z",
-   "seen_at": "2026-10-27T10:50:24Z",
+   "seen_at": "2026-10-28T05:43:41Z",
    "url": "https://jobs.ashbyhq.com/tekion/061fcb56-abb0-4d68-a760-69f3cecd9858"
-  },
-  {
-   "id": "ashby",
-   "job_id": "ashby:tekion:233197fd-4dcc-4092-ad83-9887a59448bb",
-   "kind": "ats",
-   "name": "Tekion careers (Ashby)",
-   "posted_at": "2026-06-29T05:20:38Z",
-   "seen_at": "2026-10-27T10:50:24Z",
-   "url": "https://jobs.ashbyhq.com/tekion/233197fd-4dcc-4092-ad83-9887a59448bb"
   }
  ],
  "specializations": [],
@@ -93,7 +84,7 @@
   "Test automation"
  ],
  "track": "software",
- "updated_at": "2026-07-07T10:51:22Z",
+ "updated_at": null,
  "url": "https://jobs.ashbyhq.com/tekion/061fcb56-abb0-4d68-a760-69f3cecd9858",
  "why": [
   "QA / test engineer role",

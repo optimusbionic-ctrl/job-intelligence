@@ -1,55 +1,55 @@
 {
-  "category": "AI",
-  "classification": "Inferred from job description",
-  "india_hiring": {
-    "board": null,
-    "changed_at": "2026-10-17T21:28:06Z",
-    "evidence": [],
-    "first_checked_at": "2026-10-17T21:28:06Z",
-    "india_based": false,
-    "method": "Careers board, posting text, web search",
-    "sig": "54391d7cdf",
-    "summary": "No public evidence yet about hiring from India.",
-    "verdict": "unclear",
-    "web": {
-      "checked_at": "2026-10-17T22:28:03Z",
-      "query": "\"DesignMe Agency\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
-      "results": [
-        {
-          "description": "Remote work. Work from home, from the office, or mix the two. 7-hour working day. Seven focused hours a day, so there's time left for life. Part-time possible.",
-          "title": "Careers: join a senior design and product team - DesignMe Agency",
-          "url": "https://www.designme.agency/careers"
-        },
-        {
-          "description": "https://designme.agency. External link for DesignMe. Industry: Design Services. Company size: 2-10 employees. Headquarters: London. Type: Self-Employed. Founded ...",
-          "title": "DesignMe - LinkedIn",
-          "url": "https://uk.linkedin.com/company/designmeagency"
-        },
-        {
-          "description": "Join DesignMe's remote-first team working on brands, websites, products, motion, and development for SaaS, AI, and tech companies.",
-          "title": "Careers at DesignMe | Join a senior design and product team",
-          "url": "https://rubal.co/careers"
-        },
-        {
-          "description": "# Brand designer\nFull-timePart-timeRemote, hybrid or Gdańsk office\n\nWork modeRemote, hybrid or office\n\nRemote fromPoland, UK, Europe, the Americas\n\n## 04Tools you’ll use\n### Remote work\nWork from home, from the office, or mix the two.\n\n### Part-time possible\nRemote, hybrid and office are all options. Our home base is in Gdańsk, and you can also work from [Chilliflex](https://chilliflex.co/) offices in Poland.\n\nPoland, the United Kingdom, the rest of Europe, or the Americas.",
-          "title": "Brand designer job, remote or Gdańsk - DesignMe Agency",
-          "url": "https://www.designme.agency/careers/brand-designer"
-        },
-        {
-          "description": "DesignMe is hiring again! We're looking for a senior designer/lead and a webflow developer. Remote work only. Fluent spoken and written English is required!",
-          "title": "Adrian on X: \"DesignMe is hiring again! We're looking for a senior ...",
-          "url": "https://x.com/adriankuleszo/status/1909893963034526070"
-        },
-        {
-          "description": "Remote work only. Fluent spoken and written English is required! Apply here designme.agency/careers ... remote, hybrid or in-office ...",
-          "title": "Adrian Kuleszo's Post - LinkedIn",
-          "url": "https://www.linkedin.com/posts/adrian-kul_designme-is-hiring-again-were-looking-activity-7315659821599346688-GTwu"
-        }
-      ]
+ "category": "AI",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-17T21:28:06Z",
+  "evidence": [],
+  "first_checked_at": "2026-10-17T21:28:06Z",
+  "india_based": false,
+  "method": "Careers board, posting text, web search",
+  "sig": "54391d7cdf",
+  "summary": "No public evidence yet about hiring from India.",
+  "verdict": "unclear",
+  "web": {
+   "checked_at": "2026-11-03T10:27:01Z",
+   "query": "\"DesignMe Agency\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
+   "results": [
+    {
+     "description": "",
+     "title": "Open positions",
+     "url": "https://deerdesigner.hrpartner.io/jobs"
+    },
+    {
+     "description": "",
+     "title": "startup.jobs",
+     "url": "https://startup.jobs/job-boards/designremotely"
+    },
+    {
+     "description": "",
+     "title": "alien design agency",
+     "url": "https://www.devjobsscanner.com/company/alien-design-agency/"
+    },
+    {
+     "description": "",
+     "title": "Build your career with global companies, without leaving India",
+     "url": "https://www.wisemonk.io/for-candidate"
+    },
+    {
+     "description": "",
+     "title": "www.flexjobs.com",
+     "url": "https://www.flexjobs.com/HostedJob.aspx?id=1986318"
+    },
+    {
+     "description": "",
+     "title": "Our storyPricingBook demo",
+     "url": "https://www.weekday.works/jobs/remote-design-jobs-2"
     }
-  },
-  "inferred": true,
-  "name": "DesignMe Agency",
-  "slug": "designme-agency",
-  "tier": 1
+   ]
+  }
+ },
+ "inferred": true,
+ "name": "DesignMe Agency",
+ "slug": "designme-agency",
+ "tier": 1
 }

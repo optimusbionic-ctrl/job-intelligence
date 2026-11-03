@@ -1,27 +1,27 @@
 {
-  "category": "Other",
-  "classification": "Inferred from job description",
-  "india_hiring": {
-    "board": null,
-    "changed_at": "2026-10-18T12:27:37Z",
-    "evidence": [
-      {
-        "detail": "Motion Designer — Kochi, Kerala, India",
-        "kind": "posting",
-        "label": "A current posting lists India as a location",
-        "url": "https://in.linkedin.com/jobs/view/motion-designer-at-sketchroot-com-4479645856",
-        "weight": 5
-      }
-    ],
-    "first_checked_at": "2026-10-18T12:27:37Z",
-    "india_based": false,
-    "method": "Careers board, posting text",
-    "sig": "96eaaf4138",
-    "summary": "A current posting lists India as a location.",
-    "verdict": "yes"
-  },
-  "inferred": true,
-  "name": "Sketchroot.com",
-  "slug": "sketchroot-com",
-  "tier": 3
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-18T12:27:37Z",
+  "evidence": [
+   {
+    "detail": "Motion Designer — Kochi, Kerala, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://in.linkedin.com/jobs/view/motion-designer-at-sketchroot-com-4479645856",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-10-18T12:27:37Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "96eaaf4138",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Sketchroot.com",
+ "slug": "sketchroot-com",
+ "tier": 3
 }

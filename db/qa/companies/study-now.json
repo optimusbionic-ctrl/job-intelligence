@@ -1,30 +1,30 @@
 {
-  "category": "Fintech",
-  "classification": "Inferred from job description",
-  "india_hiring": {
-    "board": null,
-    "changed_at": "2026-10-24T18:44:21Z",
-    "evidence": [
-      {
-        "detail": "QA ENGINEERING (AUTOMATIONS) — India",
-        "kind": "posting",
-        "label": "A current posting lists India as a location",
-        "url": "https://himalayas.app/companies/study-now/jobs/qa-engineering-automations-4056876587?utm_source=api",
-        "weight": 5
-      }
-    ],
-    "first_checked_at": "2026-10-24T18:44:21Z",
-    "india_based": false,
-    "method": "Careers board, posting text",
-    "sig": "ea2948f620",
-    "summary": "A current posting lists India as a location.",
-    "verdict": "yes"
-  },
-  "inferred": true,
-  "name": "Study Now",
-  "slug": "study-now",
-  "tier": 1,
-  "tracks": [
-    "software"
-  ]
+ "category": "Fintech",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-24T18:44:21Z",
+  "evidence": [
+   {
+    "detail": "QA ENGINEERING (AUTOMATIONS) — India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://himalayas.app/companies/study-now/jobs/qa-engineering-automations-4056876587?utm_source=api",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-10-24T18:44:21Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "ea2948f620",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Study Now",
+ "slug": "study-now",
+ "tier": 1,
+ "tracks": [
+  "software"
+ ]
 }

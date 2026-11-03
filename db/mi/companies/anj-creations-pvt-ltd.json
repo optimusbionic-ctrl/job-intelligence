@@ -1,0 +1,27 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-30T00:27:41Z",
+  "evidence": [
+   {
+    "detail": "Motion Graphic Designer — New Delhi",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://app.semesteria.com/jobs/motion-graphic-designer-new-delhi-anj-creations-pvt-ltd-87f63769-75ed-4842-9c22-54e89f59ab45",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-10-30T00:27:41Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "3f6a8bbbad",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "ANJ Creations Pvt Ltd",
+ "slug": "anj-creations-pvt-ltd",
+ "tier": 3
+}

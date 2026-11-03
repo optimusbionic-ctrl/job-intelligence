@@ -1,9 +1,9 @@
 {
-  "checked_at": "2026-10-19T16:45:07Z",
-  "found": 0,
-  "kind": "salary_company",
-  "name": "Games2win",
-  "query": "\"Games2win\" (QA OR tester OR \"test engineer\") salary (site:ambitionbox.com OR site:glassdoor.co.in OR site:glassdoor.com OR site:payscale.com)",
-  "results": 8,
-  "slug": "games2win"
+ "checked_at": "2026-10-19T16:45:07Z",
+ "found": 0,
+ "kind": "salary_company",
+ "name": "Games2win",
+ "query": "\"Games2win\" (QA OR tester OR \"test engineer\") salary (site:ambitionbox.com OR site:glassdoor.co.in OR site:glassdoor.com OR site:payscale.com)",
+ "results": 8,
+ "slug": "games2win"
 }

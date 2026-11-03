@@ -1,0 +1,104 @@
+{
+ "apply_url": null,
+ "board_apply": "https://himalayas.app/companies/akamai-technologies/jobs/software-development-engineer-in-test-ii-7238697166?utm_source=api",
+ "category": "Product / SaaS",
+ "comp_potential": "unknown",
+ "company": "Akamai Technologies",
+ "company_slug": "akamai-technologies",
+ "concerns": [
+  "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
+  "Also asks for: SQL / databases, Programming",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "6da14424961d",
+ "date_quality": "exact",
+ "deadline": "2026-12-28T12:50:58Z",
+ "employment": "full-time",
+ "first_seen": "2026-10-29T14:02:12Z",
+ "fit": 80,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "527b327c4c0a10",
+ "include_reason": "Automation-heavy QA (SDET)",
+ "india": {
+  "cities": [],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "automation",
+ "last_verified": "2026-10-29T14:02:12Z",
+ "location": "India",
+ "logo": "https://cdn-images.himalayas.app/lb8259c8ijm7nvddhbhfm13hy13d",
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-10-29T12:51:00Z",
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [
+  "Bachelor's degree in Computer Science, Engineering, or a related technical discipline with 3–5+ years of software testing/SDET experience, preferably in endpoint security or cybersecurity products.",
+  "Hands-on experience testing endpoint security, EDR/XDR, antivirus, DLP, device control, or security management platforms.",
+  "Experience with SentinelOne, CrowdStrike, Proofpoint or similar endpoint security products is highly desirable.",
+  "Strong experience developing automated test scripts/frameworks using Python or Java.",
+  "Strong understanding of Windows, macOS, and/or Linux/Unix operating systems and endpoint troubleshooting.",
+  "Experience with REST APIs, SQL, Jenkins, Git, shell scripting, and CI/CD practices.",
+  "Good understanding of SDLC, STLC, QA methodologies, defect management, and test automation best practices."
+ ],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 72,
+  "comp": 60,
+  "company": 95,
+  "location": 100,
+  "seniority": 94,
+  "skill": 62
+ },
+ "seniority": "mid",
+ "snippet": "Are you interested in how software can be made what customer \n wants with zero defects? \n Would you like to validate complex integrated systems and \n applications? \n Join our IT SDET Team\n The Enterprise Infrastructure Services SDT team within IT is responsible for the comprehensive, end-to-end validation of security controls and deployment pipelines across Akamai’s IT Division. We focus on real-world integration tes",
+ "source_primary": "Himalayas",
+ "sources": [
+  {
+   "id": "himalayas",
+   "job_id": "https://himalayas.app/companies/akamai-technologies/jobs/software-development-engineer-in-test-ii-7238697166",
+   "kind": "board",
+   "name": "Himalayas",
+   "posted_at": "2026-10-29T12:51:00Z",
+   "seen_at": "2026-10-29T14:02:12Z",
+   "url": "https://himalayas.app/companies/akamai-technologies/jobs/software-development-engineer-in-test-ii-7238697166?utm_source=api"
+  }
+ ],
+ "specializations": [
+  "Windows / PC"
+ ],
+ "status": "active",
+ "tier": 1,
+ "title": "Software Development Engineer in Test II",
+ "tools": [
+  "Functional testing",
+  "Compatibility testing",
+  "Stress / load testing",
+  "Test cases & scenarios",
+  "Bug reporting",
+  "SQL / databases",
+  "Test automation",
+  "Programming"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://himalayas.app/companies/akamai-technologies/jobs/software-development-engineer-in-test-ii-7238697166?utm_source=api",
+ "why": [
+  "Already on your resume: Functional testing, Compatibility testing, Stress / load testing, Test cases & scenarios, Bug reporting",
+  "Platforms you test on: Windows / PC",
+  "Product / SaaS company",
+  "Asks for 3+ years — you have about 2.5",
+  "Location lists India"
+ ],
+ "work_mode": "remote",
+ "years_max": 5,
+ "years_min": 3
+}

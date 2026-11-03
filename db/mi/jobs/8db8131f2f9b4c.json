@@ -1,0 +1,96 @@
+{
+ "apply_url": null,
+ "board_apply": "https://himalayas.app/companies/rvp-consultants/jobs/motion-graphics-designer?utm_source=api",
+ "category": "SaaS",
+ "comp_potential": "unknown",
+ "company": "RVP Consultants",
+ "company_slug": "rvp-consultants",
+ "concerns": [
+  "Compensation not disclosed"
+ ],
+ "contacts_count": 0,
+ "content_hash": "444ca6d9cd33",
+ "date_quality": "exact",
+ "deadline": "2026-12-18T20:27:53Z",
+ "employment": "full-time",
+ "first_seen": "2026-11-03T10:27:01Z",
+ "fit": 72,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "8db8131f2f9b4c",
+ "include_reason": "Mixed graphic + motion title",
+ "india": {
+  "cities": [],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "graphic-motion",
+ "last_verified": "2026-11-03T10:27:01Z",
+ "location": "India",
+ "logo": "https://cdn-images.himalayas.app/jnpvawd6rb2zwjwkswrxved28c33",
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-11-01T12:00:18Z",
+ "repost": false,
+ "requirements": [
+  "Three (3) or more years of graphic design experience, including motion graphics and animation",
+  "Bachelor’s degree in Design, Fine Arts, Motion Graphics, or another related field OR six (6) or more years of graphic design experience, including motion graphics and animation, with a high school diploma or equivalent required",
+  "Strong technical skills and proven ability to use a variety of software (After Effects, Premiere Pro, Illustrator, Photoshop, and 2D/3D animation software)",
+  "A keen eye for aesthetics and attention to detail ensures high-quality motion graphic deliverables that meet client requirements and exceed expectations.",
+  "A portfolio that showcases aesthetic awareness and design problem-solving abilities",
+  "Having good communication and collaboration skills to work effectively with team members and clients and being able to clearly articulate your ideas.",
+  "Knowledge of various social media platforms and how to use video to engage with different audiences."
+ ],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 30,
+  "comp": 48,
+  "company": 98,
+  "location": 100,
+  "seniority": 66,
+  "skill": 74
+ },
+ "seniority": "unspecified",
+ "snippet": "This is a remote position.\n As a Motion Graphics Designer at RVP Consultants , you do more than just bring graphics to life. You use your strong creative background to create powerful stories and high-quality video content that delivers our message, piques the audience's interest, and reflects our branding priorities. As part of our marketing and creative team, you will create video content and assets for use across ",
+ "source_primary": "Himalayas",
+ "sources": [
+  {
+   "id": "himalayas",
+   "job_id": "https://himalayas.app/companies/rvp-consultants/jobs/motion-graphics-designer",
+   "kind": "board",
+   "name": "Himalayas",
+   "posted_at": "2026-11-01T12:00:18Z",
+   "seen_at": "2026-11-03T10:27:01Z",
+   "url": "https://himalayas.app/companies/rvp-consultants/jobs/motion-graphics-designer?utm_source=api"
+  }
+ ],
+ "specializations": [
+  "Product motion",
+  "3D motion"
+ ],
+ "status": "active",
+ "tier": 1,
+ "title": "Motion Graphics Designer",
+ "tools": [
+  "After Effects",
+  "Premiere Pro",
+  "Illustrator",
+  "Photoshop"
+ ],
+ "updated_at": null,
+ "url": "https://himalayas.app/companies/rvp-consultants/jobs/motion-graphics-designer?utm_source=api",
+ "why": [
+  "Tools you already use: After Effects, Premiere Pro, Illustrator, Photoshop",
+  "Specialisations in scope: Product motion, 3D motion",
+  "SaaS company (Tier 1 priority)",
+  "Location lists India"
+ ],
+ "work_mode": "remote",
+ "years_min": null
+}

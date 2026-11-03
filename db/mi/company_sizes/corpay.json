@@ -1,0 +1,14 @@
+{
+ "slug": "corpay",
+ "name": "Corpay",
+ "min": 5001,
+ "max": 10000,
+ "employees": null,
+ "range": "5,001-10,000",
+ "basis": "company size",
+ "source_name": "Glassdoor",
+ "source_url": "https://www.glassdoor.com/Overview/Working-at-Corpay-EI_IE18171.11,17.htm",
+ "quote": "5001 to 10000 Employees Employees",
+ "checked_at": "2026-10-27T00:00:00Z",
+ "found_via": "web research (search index)"
+}

@@ -1,81 +1,81 @@
 {
-  "apply_url": null,
-  "board_apply": "https://www.themuse.com/jobs/robinhood/motion-designer-f3bde1",
-  "category": "Fintech",
-  "comp_potential": "unknown",
-  "company": "Robinhood",
-  "company_slug": "robinhood",
-  "concerns": [
-    "Robinhood's other roles are limited to named countries; confirm India is eligible",
-    "Employer has not confirmed hiring from India",
-    "Compensation not disclosed",
-    "Full description not available from this source"
-  ],
-  "contacts_count": 1,
-  "content_hash": "9ea097771acc",
-  "date_quality": "unknown",
-  "deadline": null,
-  "employment": "full-time",
-  "first_seen": "2026-10-18T15:28:43Z",
-  "fit": 66,
-  "has_hiring_manager": false,
-  "has_named_contact": false,
-  "has_public_email": false,
-  "id": "b94782f569a2fd",
-  "include_reason": "Motion design title",
-  "india": {
-    "cities": [],
-    "company": "no",
-    "reason": "Location not stated · Robinhood hires only in named countries",
-    "status": "unconfirmed",
-    "visa": false
-  },
-  "kind": "motion",
-  "last_verified": "2026-10-19T09:28:17Z",
-  "location": "",
-  "logo": null,
-  "needs_review": false,
-  "official": false,
-  "posted_at": null,
-  "repost": false,
-  "requirements": [],
-  "responsibilities": [],
-  "salary": {
-    "state": "unavailable"
-  },
-  "scores": {
-    "ai": 45,
-    "comp": 48,
-    "company": 98,
-    "location": 38,
-    "seniority": 66,
-    "skill": 69
-  },
-  "seniority": "unspecified",
-  "snippet": "",
-  "source_primary": "The Muse (via search index)",
-  "sources": [
-    {
-      "id": "web",
-      "job_id": "https://www.themuse.com/jobs/robinhood/motion-designer-f3bde1",
-      "kind": "search",
-      "name": "The Muse (via search index)",
-      "posted_at": null,
-      "seen_at": "2026-10-19T09:28:17Z",
-      "url": "https://www.themuse.com/jobs/robinhood/motion-designer-f3bde1"
-    }
-  ],
-  "specializations": [],
-  "status": "lead",
-  "tier": 1,
-  "title": "Motion Designer",
-  "tools": [],
-  "updated_at": null,
-  "url": "https://www.themuse.com/jobs/robinhood/motion-designer-f3bde1",
-  "why": [
-    "Core motion design role",
-    "Fintech company (Tier 1 priority)"
-  ],
-  "work_mode": "unspecified",
-  "years_min": null
+ "apply_url": null,
+ "board_apply": "https://www.themuse.com/jobs/robinhood/motion-designer-f3bde1",
+ "category": "Fintech",
+ "comp_potential": "unknown",
+ "company": "Robinhood",
+ "company_slug": "robinhood",
+ "concerns": [
+  "Robinhood's other roles are limited to named countries; confirm India is eligible",
+  "Employer has not confirmed hiring from India",
+  "Compensation not disclosed",
+  "Full description not available from this source"
+ ],
+ "contacts_count": 1,
+ "content_hash": "9ea097771acc",
+ "date_quality": "unknown",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-10-18T15:28:43Z",
+ "fit": 66,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "b94782f569a2fd",
+ "include_reason": "Motion design title",
+ "india": {
+  "cities": [],
+  "company": "no",
+  "reason": "Location not stated · Robinhood hires only in named countries",
+  "status": "unconfirmed",
+  "visa": false
+ },
+ "kind": "motion",
+ "last_verified": "2026-10-19T09:28:17Z",
+ "location": "",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": null,
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 45,
+  "comp": 48,
+  "company": 98,
+  "location": 38,
+  "seniority": 66,
+  "skill": 69
+ },
+ "seniority": "unspecified",
+ "snippet": "",
+ "source_primary": "The Muse (via search index)",
+ "sources": [
+  {
+   "id": "web",
+   "job_id": "https://www.themuse.com/jobs/robinhood/motion-designer-f3bde1",
+   "kind": "search",
+   "name": "The Muse (via search index)",
+   "posted_at": null,
+   "seen_at": "2026-10-19T09:28:17Z",
+   "url": "https://www.themuse.com/jobs/robinhood/motion-designer-f3bde1"
+  }
+ ],
+ "specializations": [],
+ "status": "lead",
+ "tier": 1,
+ "title": "Motion Designer",
+ "tools": [],
+ "updated_at": null,
+ "url": "https://www.themuse.com/jobs/robinhood/motion-designer-f3bde1",
+ "why": [
+  "Core motion design role",
+  "Fintech company (Tier 1 priority)"
+ ],
+ "work_mode": "unspecified",
+ "years_min": null
 }

@@ -1,0 +1,83 @@
+{
+ "apply_url": null,
+ "board_apply": "https://cutshort.io/job/Manual-Tester-Mobile-Banking-Internet-Banking-Mumbai-Rohini-IT-Consulting-LLP-xkN0Xe58",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "Rohini IT Consulting LLP",
+ "company_slug": "rohini-it-consulting-llp",
+ "concerns": [
+  "Pay not disclosed — ask for the range early",
+  "Full description not available from this source"
+ ],
+ "contacts_count": 0,
+ "content_hash": "342f5d043b7e",
+ "date_quality": "unknown",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-10-29T03:44:17Z",
+ "fit": 78,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "f3df5e5e76a424",
+ "include_reason": "Mobile app QA",
+ "india": {
+  "cities": [
+   "Mumbai"
+  ],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "mobile-qa",
+ "last_verified": "2026-10-29T03:44:17Z",
+ "location": "Mumbai, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": null,
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 55,
+  "comp": 60,
+  "company": 66,
+  "location": 100,
+  "seniority": 84,
+  "skill": 83
+ },
+ "seniority": "unspecified",
+ "snippet": "",
+ "source_primary": "Cutshort (via search index)",
+ "sources": [
+  {
+   "id": "web",
+   "job_id": "https://cutshort.io/job/Manual-Tester-Mobile-Banking-Internet-Banking-Mumbai-Rohini-IT-Consulting-LLP-xkN0Xe58",
+   "kind": "search",
+   "name": "Cutshort (via search index)",
+   "posted_at": null,
+   "seen_at": "2026-10-29T03:44:17Z",
+   "url": "https://cutshort.io/job/Manual-Tester-Mobile-Banking-Internet-Banking-Mumbai-Rohini-IT-Consulting-LLP-xkN0Xe58"
+  }
+ ],
+ "specializations": [],
+ "status": "lead",
+ "tier": 3,
+ "title": "Manual Tester - Mobile Banking / Internet Banking",
+ "tools": [],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://cutshort.io/job/Manual-Tester-Mobile-Banking-Internet-Banking-Mumbai-Rohini-IT-Consulting-LLP-xkN0Xe58",
+ "why": [
+  "Mobile app testing on Android and iOS, like your current work",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": null,
+ "years_min": null
+}

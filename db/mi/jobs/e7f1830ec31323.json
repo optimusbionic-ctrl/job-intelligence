@@ -1,0 +1,80 @@
+{
+ "apply_url": null,
+ "board_apply": "https://app.semesteria.com/jobs/motion-graphic-designer-mumbai-tata-consultancy-services-3e90b36a-9059-45fc-aa09-517427b532ca",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "Tata Consultancy Services",
+ "company_slug": "tata-consultancy-services",
+ "concerns": [
+  "Compensation not disclosed",
+  "Full description not available from this source"
+ ],
+ "contacts_count": 0,
+ "content_hash": "8c6026b4e35a",
+ "date_quality": "unknown",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-10-30T00:27:41Z",
+ "fit": 49,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "e7f1830ec31323",
+ "include_reason": "Mixed graphic + motion title",
+ "india": {
+  "cities": [
+   "Mumbai"
+  ],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "graphic-motion",
+ "last_verified": "2026-10-30T00:27:41Z",
+ "location": "Mumbai",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": null,
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 45,
+  "comp": 48,
+  "company": 40,
+  "location": 64,
+  "seniority": 66,
+  "skill": 42
+ },
+ "seniority": "unspecified",
+ "snippet": "",
+ "source_primary": "Semesteria (via search index)",
+ "sources": [
+  {
+   "id": "web",
+   "job_id": "https://app.semesteria.com/jobs/motion-graphic-designer-mumbai-tata-consultancy-services-3e90b36a-9059-45fc-aa09-517427b532ca",
+   "kind": "search",
+   "name": "Semesteria (via search index)",
+   "posted_at": null,
+   "seen_at": "2026-10-30T00:27:41Z",
+   "url": "https://app.semesteria.com/jobs/motion-graphic-designer-mumbai-tata-consultancy-services-3e90b36a-9059-45fc-aa09-517427b532ca"
+  }
+ ],
+ "specializations": [],
+ "status": "lead",
+ "tier": 3,
+ "title": "Motion Graphic Designer",
+ "tools": [],
+ "updated_at": null,
+ "url": "https://app.semesteria.com/jobs/motion-graphic-designer-mumbai-tata-consultancy-services-3e90b36a-9059-45fc-aa09-517427b532ca",
+ "why": [
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_min": null
+}

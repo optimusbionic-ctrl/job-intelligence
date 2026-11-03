@@ -1,67 +1,67 @@
 {
-  "category": "Fintech",
-  "classification": "Inferred from job description",
-  "india_hiring": {
-    "board": null,
-    "changed_at": "2026-10-19T13:24:59Z",
-    "evidence": [
-      {
-        "detail": "Automation QA Engineer (QVAC) (100% remote) — Worldwide",
-        "kind": "posting",
-        "label": "A current posting is open worldwide",
-        "url": "https://himalayas.app/companies/tether-operations-limited/jobs/automation-qa-engineer-qvac-100-remote?utm_source=api",
-        "weight": 3
-      }
-    ],
-    "first_checked_at": "2026-10-19T13:24:59Z",
-    "india_based": false,
-    "method": "Careers board, posting text, web search",
-    "sig": "a27c071992",
-    "summary": "No India-located roles found, but a current posting is open worldwide.",
-    "verdict": "likely",
-    "web": {
-      "checked_at": "2026-10-19T15:45:44Z",
-      "query": "\"Tether Operations Limited\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
-      "results": [
-        {
-          "description": "",
-          "title": "Remote Jobs at Tether Operations Limited",
-          "url": "https://web3.career/web3-companies/tetheroperationslimited+remote?page=9"
-        },
-        {
-          "description": "",
-          "title": "Remote Bitcoin Jobs",
-          "url": "https://web3.career/bitcoin+remote-jobs?page=6"
-        },
-        {
-          "description": "",
-          "title": "Crypto Jobs",
-          "url": "https://web3.career/crypto-jobs?page=19"
-        },
-        {
-          "description": "",
-          "title": "ae.indeed.com",
-          "url": "https://ae.indeed.com/cmp/Tether-Operations-Limited/jobs"
-        },
-        {
-          "description": "",
-          "title": "Remote Jobs at Tether Operations Limited",
-          "url": "https://web3.career/web3-companies/tetheroperationslimited+remote?page=8"
-        },
-        {
-          "description": "",
-          "title": "👩‍💻 Join Remote OK 👋  Log in",
-          "url": "https://remoteok.com/remote-jobs/remote-ai-product-manager-tether-operations-limited-1130662"
-        }
-      ]
+ "category": "Fintech",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-19T13:24:59Z",
+  "evidence": [
+   {
+    "detail": "Automation QA Engineer (QVAC) (100% remote) — Worldwide",
+    "kind": "posting",
+    "label": "A current posting is open worldwide",
+    "url": "https://himalayas.app/companies/tether-operations-limited/jobs/automation-qa-engineer-qvac-100-remote?utm_source=api",
+    "weight": 3
+   }
+  ],
+  "first_checked_at": "2026-10-19T13:24:59Z",
+  "india_based": false,
+  "method": "Careers board, posting text, web search",
+  "sig": "a27c071992",
+  "summary": "No India-located roles found, but a current posting is open worldwide.",
+  "verdict": "likely",
+  "web": {
+   "checked_at": "2026-10-19T15:45:44Z",
+   "query": "\"Tether Operations Limited\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
+   "results": [
+    {
+     "description": "",
+     "title": "Remote Jobs at Tether Operations Limited",
+     "url": "https://web3.career/web3-companies/tetheroperationslimited+remote?page=9"
+    },
+    {
+     "description": "",
+     "title": "Remote Bitcoin Jobs",
+     "url": "https://web3.career/bitcoin+remote-jobs?page=6"
+    },
+    {
+     "description": "",
+     "title": "Crypto Jobs",
+     "url": "https://web3.career/crypto-jobs?page=19"
+    },
+    {
+     "description": "",
+     "title": "ae.indeed.com",
+     "url": "https://ae.indeed.com/cmp/Tether-Operations-Limited/jobs"
+    },
+    {
+     "description": "",
+     "title": "Remote Jobs at Tether Operations Limited",
+     "url": "https://web3.career/web3-companies/tetheroperationslimited+remote?page=8"
+    },
+    {
+     "description": "",
+     "title": "👩‍💻 Join Remote OK 👋  Log in",
+     "url": "https://remoteok.com/remote-jobs/remote-ai-product-manager-tether-operations-limited-1130662"
     }
-  },
-  "inferred": true,
-  "logo": "https://cdn-images.himalayas.app/zel05qtfpctrwz9bbjs7cx799p6j",
-  "name": "Tether Operations Limited",
-  "slug": "tether-operations-limited",
-  "tier": 1,
-  "tracks": [
-    "software"
-  ]
+   ]
+  }
+ },
+ "inferred": true,
+ "logo": "https://cdn-images.himalayas.app/zel05qtfpctrwz9bbjs7cx799p6j",
+ "name": "Tether Operations Limited",
+ "slug": "tether-operations-limited",
+ "tier": 1,
+ "tracks": [
+  "software"
+ ]
 }

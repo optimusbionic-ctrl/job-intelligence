@@ -9,7 +9,7 @@
   "Office outside Mumbai — relocation within India"
  ],
  "contacts_count": 0,
- "content_hash": "c7fdcbada416",
+ "content_hash": "661f8b705783",
  "date_quality": "exact",
  "deadline": null,
  "employment": "full-time",
@@ -28,8 +28,8 @@
   "visa": false
  },
  "kind": "manual-qa",
- "last_verified": "2026-10-27T10:50:24Z",
- "location": "Ahmednagar, Amravati, Akola, Dhubri, Bhopal, Bhagalpur, India",
+ "last_verified": "2026-10-29T03:44:17Z",
+ "location": "Amravati, Akola, Ahmednagar, Ahmedabad, Dhubri, Bhopal, India",
  "logo": null,
  "needs_review": false,
  "official": false,
@@ -43,8 +43,8 @@
   "applies_india": true,
   "basis": "listed",
   "currency": "INR",
-  "fx_at": "Tue, 27 Oct 2026 00:02:31 +0000",
-  "fx_rate": 1.0,
+  "fx_at": "Thu, 29 Oct 2026 00:02:31 +0000",
+  "fx_rate": 1,
   "inr_max": 450000,
   "inr_min": 100000,
   "max": 450000,
@@ -55,7 +55,7 @@
   "source_name": "Shine.com",
   "source_url": "https://www.shine.com/jobs/software-tester/workwaves/19799089",
   "state": "verified",
-  "verified_at": "2026-10-27T10:50:24Z"
+  "verified_at": "2026-10-29T03:44:17Z"
  },
  "scores": {
   "ai": 58,
@@ -75,7 +75,7 @@
    "kind": "board",
    "name": "Shine.com",
    "posted_at": "2026-10-13T19:55:27Z",
-   "seen_at": "2026-10-27T10:50:24Z",
+   "seen_at": "2026-10-29T03:44:17Z",
    "url": "https://www.shine.com/jobs/software-tester/workwaves/19799089"
   }
  ],

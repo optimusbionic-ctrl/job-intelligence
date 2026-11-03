@@ -1,67 +1,67 @@
 {
-  "category": "Product / SaaS",
-  "classification": "Inferred from job description",
-  "india_hiring": {
-    "board": null,
-    "changed_at": "2026-10-19T13:24:59Z",
-    "evidence": [
-      {
-        "detail": "QA Engineer [Remote] — Worldwide",
-        "kind": "posting",
-        "label": "A current posting is open worldwide",
-        "url": "https://himalayas.app/companies/cyberarrow/jobs/qa-engineer-remote?utm_source=api",
-        "weight": 3
-      }
-    ],
-    "first_checked_at": "2026-10-19T13:24:59Z",
-    "india_based": false,
-    "method": "Careers board, posting text, web search",
-    "sig": "dad449def7",
-    "summary": "No India-located roles found, but a current posting is open worldwide.",
-    "verdict": "likely",
-    "web": {
-      "checked_at": "2026-10-19T14:22:01Z",
-      "query": "\"CyberArrow\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
-      "results": [
-        {
-          "description": "",
-          "title": "Amar Basic",
-          "url": "https://ae.linkedin.com/in/cyberamar"
-        },
-        {
-          "description": "",
-          "title": "Work Remotely for Global Companies Hiring in India",
-          "url": "https://www.wisemonk.io/for-candidates"
-        },
-        {
-          "description": "",
-          "title": "the future of cybersecurity remote work and global expansion with an employer of record",
-          "url": "https://bradfordjacobs.com/blog/the-future-of-cybersecurity-remote-work-and-global-expansion-with-an-employer-of-record/"
-        },
-        {
-          "description": "",
-          "title": "What We Do",
-          "url": "https://accops.com/Career"
-        },
-        {
-          "description": "",
-          "title": "www.accops.com",
-          "url": "https://www.accops.com/career"
-        },
-        {
-          "description": "",
-          "title": "Build your career with global companies, without leaving India",
-          "url": "https://www.wisemonk.io/for-candidate"
-        }
-      ]
+ "category": "Product / SaaS",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-19T13:24:59Z",
+  "evidence": [
+   {
+    "detail": "QA Engineer [Remote] — Worldwide",
+    "kind": "posting",
+    "label": "A current posting is open worldwide",
+    "url": "https://himalayas.app/companies/cyberarrow/jobs/qa-engineer-remote?utm_source=api",
+    "weight": 3
+   }
+  ],
+  "first_checked_at": "2026-10-19T13:24:59Z",
+  "india_based": false,
+  "method": "Careers board, posting text, web search",
+  "sig": "dad449def7",
+  "summary": "No India-located roles found, but a current posting is open worldwide.",
+  "verdict": "likely",
+  "web": {
+   "checked_at": "2026-10-19T14:22:01Z",
+   "query": "\"CyberArrow\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
+   "results": [
+    {
+     "description": "",
+     "title": "Amar Basic",
+     "url": "https://ae.linkedin.com/in/cyberamar"
+    },
+    {
+     "description": "",
+     "title": "Work Remotely for Global Companies Hiring in India",
+     "url": "https://www.wisemonk.io/for-candidates"
+    },
+    {
+     "description": "",
+     "title": "the future of cybersecurity remote work and global expansion with an employer of record",
+     "url": "https://bradfordjacobs.com/blog/the-future-of-cybersecurity-remote-work-and-global-expansion-with-an-employer-of-record/"
+    },
+    {
+     "description": "",
+     "title": "What We Do",
+     "url": "https://accops.com/Career"
+    },
+    {
+     "description": "",
+     "title": "www.accops.com",
+     "url": "https://www.accops.com/career"
+    },
+    {
+     "description": "",
+     "title": "Build your career with global companies, without leaving India",
+     "url": "https://www.wisemonk.io/for-candidate"
     }
-  },
-  "inferred": true,
-  "logo": "https://cdn-images.himalayas.app/8rgo4ox3t01vujztkkg3vww45ram",
-  "name": "CyberArrow",
-  "slug": "cyberarrow",
-  "tier": 1,
-  "tracks": [
-    "software"
-  ]
+   ]
+  }
+ },
+ "inferred": true,
+ "logo": "https://cdn-images.himalayas.app/8rgo4ox3t01vujztkkg3vww45ram",
+ "name": "CyberArrow",
+ "slug": "cyberarrow",
+ "tier": 1,
+ "tracks": [
+  "software"
+ ]
 }

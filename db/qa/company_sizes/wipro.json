@@ -1,0 +1,14 @@
+{
+ "slug": "wipro",
+ "name": "Wipro",
+ "min": 10000,
+ "max": null,
+ "employees": null,
+ "range": "10,000+",
+ "basis": "company size",
+ "source_name": "Indeed",
+ "source_url": "https://www.indeed.com/cmp/Wipro",
+ "quote": "Company size more than 10,000",
+ "checked_at": "2026-10-27T00:00:00Z",
+ "found_via": "web research (search index)"
+}

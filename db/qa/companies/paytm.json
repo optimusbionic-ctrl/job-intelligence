@@ -22,7 +22,7 @@
     "UAE",
     "Indonesia"
    ],
-   "india": 187,
+   "india": 190,
    "india_samples": [
     {
      "location": "Noida, Uttar Pradesh",
@@ -50,17 +50,17 @@
    "restricted_remote": 0,
    "restricted_samples": [],
    "slug": "paytm",
-   "total": 197,
+   "total": 200,
    "type": "lever",
    "url": "https://jobs.lever.co/paytm",
    "worldwide": 0
   },
-  "changed_at": "2026-10-27T10:50:24Z",
+  "changed_at": "2026-10-29T08:43:46Z",
   "evidence": [
    {
     "detail": "AM/Manager– Procurement (Admin, Real Estate & HR) (Noida, Uttar Pradesh); Account Executive/ Director - AI Agentic Enterprise Sales (Dubai • Noida, Uttar Pradesh • Mumbai, Maharashtra); Analytics Lead - UPI Product | Exp",
     "kind": "board",
-    "label": "187 of 197 open roles are located in India",
+    "label": "190 of 200 open roles are located in India",
     "url": "https://jobs.lever.co/paytm",
     "weight": 5
    },
@@ -75,7 +75,7 @@
   "first_checked_at": "2026-10-19T15:45:44Z",
   "india_based": true,
   "method": "Careers board, posting text",
-  "sig": "4fb6a663c8",
+  "sig": "5670a915cd",
   "summary": "Paytm is headquartered in India.",
   "verdict": "yes"
  },

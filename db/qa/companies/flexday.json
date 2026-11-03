@@ -1,66 +1,66 @@
 {
-  "category": "Other",
-  "classification": "Inferred from job description",
-  "india_hiring": {
-    "board": null,
-    "changed_at": "2026-10-24T09:44:22Z",
-    "evidence": [
-      {
-        "detail": "QA Engineer (India) — India",
-        "kind": "posting",
-        "label": "A current posting lists India as a location",
-        "url": "https://flexday.ai/jobs/qa-engineer-india/",
-        "weight": 5
-      }
-    ],
-    "first_checked_at": "2026-10-21T03:44:36Z",
-    "india_based": false,
-    "method": "Careers board, posting text, web search",
-    "sig": "b9bb62c8ce",
-    "summary": "A current posting lists India as a location.",
-    "verdict": "yes",
-    "web": {
-      "checked_at": "2026-10-24T07:43:51Z",
-      "query": "\"Flexday\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
-      "results": [
-        {
-          "description": "",
-          "title": "human resources specialist at flexiple wkdy2f1y40",
-          "url": "https://jobs.weekday.works/human-resources-specialist-at-flexiple-wkdy2f1y40"
-        },
-        {
-          "description": "",
-          "title": "Build your career with global companies, without leaving India",
-          "url": "https://www.wisemonk.io/for-candidate"
-        },
-        {
-          "description": "",
-          "title": "Introducing Work Forward! A better future of work for people and organizations",
-          "url": "https://www.flexindex.com/company/remunance-com"
-        },
-        {
-          "description": "",
-          "title": "www.indeed.com",
-          "url": "https://www.indeed.com/cmp/Flexday"
-        },
-        {
-          "description": "",
-          "title": "Senior Recruiting Coordinator",
-          "url": "https://builtin.com/job/senior-recruiting-coordinator/3633091"
-        },
-        {
-          "description": "",
-          "title": "flexa.careers",
-          "url": "https://flexa.careers/companies/workflex"
-        }
-      ]
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-28T12:59:25Z",
+  "evidence": [
+   {
+    "detail": "QA Engineer (India) — India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://flexday.ai/jobs/qa-engineer-india/",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-10-21T03:44:36Z",
+  "india_based": false,
+  "method": "Careers board, posting text, web search",
+  "sig": "b9bb62c8ce",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes",
+  "web": {
+   "checked_at": "2026-10-24T07:43:51Z",
+   "query": "\"Flexday\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
+   "results": [
+    {
+     "description": "",
+     "title": "human resources specialist at flexiple wkdy2f1y40",
+     "url": "https://jobs.weekday.works/human-resources-specialist-at-flexiple-wkdy2f1y40"
+    },
+    {
+     "description": "",
+     "title": "Build your career with global companies, without leaving India",
+     "url": "https://www.wisemonk.io/for-candidate"
+    },
+    {
+     "description": "",
+     "title": "Introducing Work Forward! A better future of work for people and organizations",
+     "url": "https://www.flexindex.com/company/remunance-com"
+    },
+    {
+     "description": "",
+     "title": "www.indeed.com",
+     "url": "https://www.indeed.com/cmp/Flexday"
+    },
+    {
+     "description": "",
+     "title": "Senior Recruiting Coordinator",
+     "url": "https://builtin.com/job/senior-recruiting-coordinator/3633091"
+    },
+    {
+     "description": "",
+     "title": "flexa.careers",
+     "url": "https://flexa.careers/companies/workflex"
     }
-  },
-  "inferred": true,
-  "name": "Flexday",
-  "slug": "flexday",
-  "tier": 3,
-  "tracks": [
-    "software"
-  ]
+   ]
+  }
+ },
+ "inferred": true,
+ "name": "Flexday",
+ "slug": "flexday",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
 }

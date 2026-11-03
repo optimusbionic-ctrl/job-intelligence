@@ -1,94 +1,103 @@
 {
-  "apply_url": "https://apply.workable.com/keywords-intl1/jobs/view/5ED9F71BC6",
-  "board_apply": null,
-  "category": "Game services / QA",
-  "comp_potential": "unknown",
-  "company": "Keywords Studios",
-  "company_slug": "keywords-studios",
-  "concerns": [
-    "Office outside Mumbai — relocation within India",
-    "Pay not disclosed — ask for the range early",
-    "Game services / QA company (client projects)",
-    "Full description not available from this source"
+ "apply_url": "https://apply.workable.com/keywords-intl1/jobs/view/5ED9F71BC6.md",
+ "board_apply": null,
+ "category": "Game services / QA",
+ "comp_potential": "unknown",
+ "company": "Keywords Studios",
+ "company_slug": "keywords-studios",
+ "concerns": [
+  "Office outside Mumbai — relocation within India",
+  "Pay not disclosed — ask for the range early",
+  "Game services / QA company (client projects)",
+  "Full description not available from this source"
+ ],
+ "contacts_count": 1,
+ "content_hash": "a7bc2c235b0e",
+ "date_quality": "unknown",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-10-19T15:45:44Z",
+ "fit": 78,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "4c125a41e6c1ea",
+ "include_reason": "Game tester title",
+ "india": {
+  "cities": [
+   "Bengaluru"
   ],
-  "contacts_count": 1,
-  "content_hash": "e7391d5cce3e",
-  "date_quality": "unknown",
-  "deadline": null,
-  "employment": "full-time",
-  "first_seen": "2026-10-19T15:45:44Z",
-  "fit": 78,
-  "has_hiring_manager": false,
-  "has_named_contact": false,
-  "has_public_email": false,
-  "id": "4c125a41e6c1ea",
-  "include_reason": "Game tester title",
-  "india": {
-    "cities": [
-      "Bengaluru"
-    ],
-    "company": "yes",
-    "reason": "Location lists India",
-    "status": "confirmed",
-    "visa": false
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "game-tester",
+ "last_verified": "2026-10-30T00:44:29Z",
+ "location": "Bengaluru, India",
+ "logo": null,
+ "needs_review": false,
+ "official": true,
+ "posted_at": null,
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 55,
+  "comp": 60,
+  "company": 96,
+  "location": 60,
+  "seniority": 84,
+  "skill": 86
+ },
+ "seniority": "unspecified",
+ "snippet": "",
+ "source_primary": "Workable (via search index)",
+ "sources": [
+  {
+   "id": "workable",
+   "job_id": "https://apply.workable.com/keywords-intl1/jobs/view/5ED9F71BC6.md",
+   "kind": "search",
+   "name": "Workable (via search index)",
+   "posted_at": null,
+   "seen_at": "2026-10-30T00:44:29Z",
+   "url": "https://apply.workable.com/keywords-intl1/jobs/view/5ED9F71BC6.md"
   },
-  "kind": "game-tester",
-  "last_verified": "2026-10-24T12:44:19Z",
-  "location": "Bengaluru, India",
-  "logo": null,
-  "needs_review": false,
-  "official": true,
-  "posted_at": null,
-  "repost": false,
-  "requirements": [],
-  "responsibilities": [],
-  "salary": {
-    "state": "unavailable"
+  {
+   "id": "workable",
+   "job_id": "https://apply.workable.com/keywords-intl1/jobs/view/32B10AE4F9.md",
+   "kind": "search",
+   "name": "Workable (via search index)",
+   "posted_at": null,
+   "seen_at": "2026-10-30T00:44:29Z",
+   "url": "https://apply.workable.com/keywords-intl1/jobs/view/32B10AE4F9.md"
   },
-  "scores": {
-    "ai": 55,
-    "comp": 60,
-    "company": 96,
-    "location": 60,
-    "seniority": 84,
-    "skill": 86
-  },
-  "seniority": "unspecified",
-  "snippet": "",
-  "source_primary": "Workable (via search index)",
-  "sources": [
-    {
-      "id": "workable",
-      "job_id": "https://apply.workable.com/keywords-intl1/jobs/view/5ED9F71BC6",
-      "kind": "search",
-      "name": "Workable (via search index)",
-      "posted_at": null,
-      "seen_at": "2026-10-24T12:44:19Z",
-      "url": "https://apply.workable.com/keywords-intl1/jobs/view/5ED9F71BC6"
-    },
-    {
-      "id": "workable",
-      "job_id": "https://apply.workable.com/keywords-intl1/jobs/view/32B10AE4F9",
-      "kind": "search",
-      "name": "Workable (via search index)",
-      "posted_at": null,
-      "seen_at": "2026-10-24T12:44:19Z",
-      "url": "https://apply.workable.com/keywords-intl1/jobs/view/32B10AE4F9"
-    }
-  ],
-  "specializations": [],
-  "status": "verified",
-  "tier": 2,
-  "title": "Video Game Tester - Bengaluru",
-  "tools": [],
-  "track": "game",
-  "updated_at": null,
-  "url": "https://apply.workable.com/keywords-intl1/jobs/view/5ED9F71BC6",
-  "why": [
-    "Game tester role — matches your game QA work at Webmobril and Golden Horde",
-    "Location lists India"
-  ],
-  "work_mode": "onsite",
-  "years_max": null,
-  "years_min": null
+  {
+   "id": "web",
+   "job_id": "https://hitmarker.net/jobs/keywords-studios-video-game-tester-gurgaon-4500183",
+   "kind": "search",
+   "name": "Web (via search index)",
+   "posted_at": null,
+   "seen_at": "2026-10-30T00:44:29Z",
+   "url": "https://hitmarker.net/jobs/keywords-studios-video-game-tester-gurgaon-4500183"
+  }
+ ],
+ "specializations": [],
+ "status": "verified",
+ "tier": 2,
+ "title": "Video Game Tester - Bengaluru",
+ "tools": [],
+ "track": "game",
+ "updated_at": null,
+ "url": "https://apply.workable.com/keywords-intl1/jobs/view/5ED9F71BC6.md",
+ "why": [
+  "Game tester role — matches your game QA work at Webmobril and Golden Horde",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": null,
+ "years_min": null
 }

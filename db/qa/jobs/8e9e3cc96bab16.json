@@ -11,7 +11,7 @@
   "Reposted / refreshed listing — original posting is older"
  ],
  "contacts_count": 0,
- "content_hash": "67b422a75583",
+ "content_hash": "97a6e28b3c47",
  "date_quality": "exact",
  "deadline": null,
  "employment": "full-time",
@@ -32,12 +32,12 @@
   "visa": false
  },
  "kind": "qa-engineer",
- "last_verified": "2026-10-27T10:50:24Z",
+ "last_verified": "2026-10-28T10:45:08Z",
  "location": "Navi Mumbai, Mumbai City, Thane, India",
  "logo": null,
  "needs_review": false,
  "official": false,
- "posted_at": "2026-10-22T18:43:00Z",
+ "posted_at": "2026-10-16T12:52:23Z",
  "repost": true,
  "requirements": [],
  "responsibilities": [],
@@ -62,8 +62,17 @@
    "kind": "board",
    "name": "Shine.com",
    "posted_at": "2026-10-22T18:43:00Z",
-   "seen_at": "2026-10-27T10:50:24Z",
+   "seen_at": "2026-10-28T10:45:08Z",
    "url": "https://www.shine.com/jobs/qa-engineer-hrms-hcm/infovision-hr-consulting-services-pvt-ltd/19898660"
+  },
+  {
+   "id": "shine",
+   "job_id": "19827620",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-10-16T12:52:23Z",
+   "seen_at": "2026-10-28T10:45:08Z",
+   "url": "https://www.shine.com/jobs/hrms-qa-engineer/infovision-hr-consulting-services-pvt-ltd/19827620"
   }
  ],
  "specializations": [],
@@ -74,7 +83,7 @@
   "SQL / databases"
  ],
  "track": "software",
- "updated_at": null,
+ "updated_at": "2026-10-22T18:43:00Z",
  "url": "https://www.shine.com/jobs/qa-engineer-hrms-hcm/infovision-hr-consulting-services-pvt-ltd/19898660",
  "why": [
   "QA / test engineer role",

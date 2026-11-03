@@ -1,73 +1,73 @@
 {
-  "ats": {
-    "slug": "grin",
-    "type": "greenhouse"
-  },
-  "category": "Other",
-  "classification": "Inferred from job description",
-  "india_hiring": {
-    "board": {
-      "apac": 0,
-      "countries": [
-        "United States"
-      ],
-      "india": 0,
-      "india_samples": [],
-      "open_samples": [],
-      "remote": 3,
-      "restricted_remote": 3,
-      "restricted_samples": [
-        {
-          "location": "The USA (Remote)",
-          "title": "Account Executive",
-          "url": "https://grin.co/careers/jobs/?gh_jid=4479806005"
-        },
-        {
-          "location": "The USA (Remote)",
-          "title": "Associate Business Development Representative",
-          "url": "https://grin.co/careers/jobs/?gh_jid=4555260005"
-        },
-        {
-          "location": "The USA (Remote)",
-          "title": "Business Development Representative",
-          "url": "https://grin.co/careers/jobs/?gh_jid=4544630005"
-        }
-      ],
-      "slug": "grin",
-      "total": 3,
-      "type": "greenhouse",
-      "url": "https://boards.greenhouse.io/grin",
-      "worldwide": 0
+ "ats": {
+  "slug": "grin",
+  "type": "greenhouse"
+ },
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": {
+   "apac": 0,
+   "countries": [
+    "United States"
+   ],
+   "india": 0,
+   "india_samples": [],
+   "open_samples": [],
+   "remote": 3,
+   "restricted_remote": 3,
+   "restricted_samples": [
+    {
+     "location": "The USA (Remote)",
+     "title": "Account Executive",
+     "url": "https://grin.co/careers/jobs/?gh_jid=4479806005"
     },
-    "changed_at": "2026-10-19T13:24:59Z",
-    "evidence": [
-      {
-        "detail": "Quality Assurance (QA) Engineer  Manual Testing — Mumbai City, India",
-        "kind": "posting",
-        "label": "A current posting lists India as a location",
-        "url": "https://www.shine.com/jobs/quality-assurance-qa-engineer-manual-testing/grin-technologies/19732674",
-        "weight": 5
-      },
-      {
-        "detail": "None are located in India or open worldwide; 3 remote roles are limited to named countries",
-        "kind": "board",
-        "label": "All 3 open roles are in United States",
-        "url": "https://boards.greenhouse.io/grin",
-        "weight": -3
-      }
-    ],
-    "first_checked_at": "2026-10-19T13:24:59Z",
-    "india_based": false,
-    "method": "Careers board, posting text",
-    "sig": "9a87087e4a",
-    "summary": "A current posting lists India as a location.",
-    "verdict": "yes"
+    {
+     "location": "The USA (Remote)",
+     "title": "Associate Business Development Representative",
+     "url": "https://grin.co/careers/jobs/?gh_jid=4555260005"
+    },
+    {
+     "location": "The USA (Remote)",
+     "title": "Business Development Representative",
+     "url": "https://grin.co/careers/jobs/?gh_jid=4544630005"
+    }
+   ],
+   "slug": "grin",
+   "total": 3,
+   "type": "greenhouse",
+   "url": "https://boards.greenhouse.io/grin",
+   "worldwide": 0
   },
-  "inferred": true,
-  "name": "Grin Technologies",
-  "slug": "grin-technologies",
-  "tier": 3,
-  "tracks": [
-    "software"
-  ]
+  "changed_at": "2026-10-19T13:24:59Z",
+  "evidence": [
+   {
+    "detail": "Quality Assurance (QA) Engineer  Manual Testing — Mumbai City, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/quality-assurance-qa-engineer-manual-testing/grin-technologies/19732674",
+    "weight": 5
+   },
+   {
+    "detail": "None are located in India or open worldwide; 3 remote roles are limited to named countries",
+    "kind": "board",
+    "label": "All 3 open roles are in United States",
+    "url": "https://boards.greenhouse.io/grin",
+    "weight": -3
+   }
+  ],
+  "first_checked_at": "2026-10-19T13:24:59Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "9a87087e4a",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Grin Technologies",
+ "slug": "grin-technologies",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
 }

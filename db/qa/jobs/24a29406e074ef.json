@@ -1,0 +1,104 @@
+{
+ "apply_url": null,
+ "board_apply": "https://himalayas.app/companies/mercor/jobs/software-tester-fully-remote-upto-60-hr-4910912622?utm_source=api",
+ "category": "Product / SaaS",
+ "comp_potential": "unknown",
+ "company": "mercor",
+ "company_slug": "mercor",
+ "concerns": [
+  "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
+  "Pay not disclosed — ask for the range early",
+  "Contract role"
+ ],
+ "contacts_count": 0,
+ "content_hash": "07db0a69fc36",
+ "date_quality": "exact",
+ "deadline": "2026-12-12T16:53:56Z",
+ "employment": "contract",
+ "first_seen": "2026-10-29T12:55:23Z",
+ "fit": 76,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "24a29406e074ef",
+ "include_reason": "Automation-heavy QA (SDET)",
+ "india": {
+  "cities": [],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "automation",
+ "last_verified": "2026-10-29T12:55:23Z",
+ "location": "India",
+ "logo": "https://cdn-images.himalayas.app/6jo5q9nua35jgtdfm41nq6b7ocqf",
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-10-13T16:53:56Z",
+ "repost": false,
+ "requirements": [
+  "3+ years of experience in Software Engineering , QA Engineering , SDET , or Test Automation .",
+  "Strong experience testing modern web applications.",
+  "Familiarity with browser automation frameworks such as Playwright , Cypress , Selenium , or similar tools.",
+  "Experience writing automated UI and end-to-end tests.",
+  "Strong understanding of test isolation, fixtures, reproducibility, and reliable browser automation.",
+  "Application Process (Takes 20–30 mins to complete)"
+ ],
+ "responsibilities": [
+  "Review browser-based testing workflows for AI-generated web applications .",
+  "Assess technical feasibility and reliability of browser interactions.",
+  "Validate test isolation, fixtures, setup, and execution flow.",
+  "Ensure assertions produce deterministic, unambiguous pass/fail results.",
+  "Identify flaky tests, hidden dependencies, or ambiguous validation logic.",
+  "Provide structured technical feedback following project review rubrics."
+ ],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 62,
+  "comp": 60,
+  "company": 95,
+  "location": 100,
+  "seniority": 94,
+  "skill": 53
+ },
+ "seniority": "unspecified",
+ "snippet": "About the job\n Mercor connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors include Benchmark , General Catalyst , Peter Thiel , Adam D'Angelo , Larry Summers , and Jack Dorsey .\n Position: QA / Software Engineering Reviewer – Browser Test Validation\n Type: Contract \n Compensation: $30–$60/hour \n Location: Remote \n Role Responsibilities\n\n• Review bro",
+ "source_primary": "Himalayas",
+ "sources": [
+  {
+   "id": "himalayas",
+   "job_id": "https://himalayas.app/companies/mercor/jobs/software-tester-fully-remote-upto-60-hr-4910912622",
+   "kind": "board",
+   "name": "Himalayas",
+   "posted_at": "2026-10-13T16:53:56Z",
+   "seen_at": "2026-10-29T12:55:23Z",
+   "url": "https://himalayas.app/companies/mercor/jobs/software-tester-fully-remote-upto-60-hr-4910912622?utm_source=api"
+  }
+ ],
+ "specializations": [
+  "Web apps"
+ ],
+ "status": "active",
+ "tier": 1,
+ "title": "Software Tester - Fully Remote | Upto $60/hr",
+ "tools": [
+  "Bug reporting",
+  "Google Sheets / Excel",
+  "Test automation"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://himalayas.app/companies/mercor/jobs/software-tester-fully-remote-upto-60-hr-4910912622?utm_source=api",
+ "why": [
+  "Already on your resume: Bug reporting, Google Sheets / Excel",
+  "Product / SaaS company",
+  "Asks for 3+ years — you have about 2.5",
+  "Location lists India"
+ ],
+ "work_mode": "remote",
+ "years_max": null,
+ "years_min": 3
+}

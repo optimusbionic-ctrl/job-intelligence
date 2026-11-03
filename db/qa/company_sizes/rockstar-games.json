@@ -1,0 +1,14 @@
+{
+ "slug": "rockstar-games",
+ "name": "Rockstar Games",
+ "min": 1001,
+ "max": 5000,
+ "employees": null,
+ "range": "1,001-5,000",
+ "basis": "company size",
+ "source_name": "Indeed",
+ "source_url": "https://www.indeed.com/cmp/Rockstar-Games",
+ "quote": "Rockstar Games has 1,001 to 5,000 employees.",
+ "checked_at": "2026-10-27T00:00:00Z",
+ "found_via": "web research (search index)"
+}

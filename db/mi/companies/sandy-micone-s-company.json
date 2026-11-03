@@ -1,55 +1,55 @@
 {
-  "category": "Other",
-  "classification": "Inferred from job description",
-  "india_hiring": {
-    "board": null,
-    "changed_at": "2026-10-16T21:30:21Z",
-    "evidence": [],
-    "first_checked_at": "2026-10-16T21:30:21Z",
-    "india_based": false,
-    "method": "Careers board, posting text, web search",
-    "sig": "54391d7cdf",
-    "summary": "No public evidence yet about hiring from India.",
-    "verdict": "unclear",
-    "web": {
-      "checked_at": "2026-10-16T22:27:07Z",
-      "query": "\"Sandy Micone's company\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
-      "results": [
-        {
-          "description": "5 days ago · Mic one is better. Keep it close. It's okay. And such are Thanks ... Next is Sandy, okay. Germany. Everything. Ah. Pages · Non-Business ...",
-          "title": "Geeta session | HTCI Hindu Temple - Facebook",
-          "url": "https://www.facebook.com/HTCIFriends/videos/geeta-session/28884052751190714/"
-        },
-        {
-          "description": "Endless laughter. ✨ Gaurav Kapoor is all set to bring his signature humour live to the city. Pt. Deendayal Upadhyay Auditorium 4th ...",
-          "title": "7 PM onwards 🎟️ Tickets are live on BookMyShow! - Instagram",
-          "url": "https://www.instagram.com/reel/DZppCGxI2Mn/"
-        },
-        {
-          "description": "Terra Firma: Live from the studios of the Community Music Alliance, host Michael Logsdon presents a program of music by Dewey Kincaid and ...",
-          "title": "Terra Firma: Live from the studios of the Community Music Alliance, host ...",
-          "url": "https://www.facebook.com/CommunityMusicAlliance/posts/terra-firma-live-from-the-studios-of-the-community-music-alliance-host-michael-l/1513569824147286/"
-        },
-        {
-          "description": "One Man. One Mic. One Unforgettable Moment. ❤️ When the little guest steals the spotlight, even the interview becomes pure magic!",
-          "title": "One Man. One Mic. One Unforgettable Moment. ❤️ When the little guest ...",
-          "url": "https://www.facebook.com/kichchauniverse/posts/one-man-one-mic-one-unforgettable-moment-%EF%B8%8Fwhen-the-little-guest-steals-the-spotl/1583476610460418/"
-        },
-        {
-          "description": "[Goa Band • Konkani music • Live Band • Live Music • Goan wedding • Mumbaj Catholics • Goans • Singer guitarist • Darbuka • Female singer • Goan ...",
-          "title": "Bringing back the nostalgia & Joy of Konkani music Here is our version ...",
-          "url": "https://www.instagram.com/reel/Dbm2fADR1qD/"
-        },
-        {
-          "description": "Uh he reached out this morning. So many times we're looking for what god is doing and he's at work, folks. He's in the soul-saving business.",
-          "title": "Join us for worship! \"KIDS, DADS, EMPLOYEES, AND BOSSES\" 8.16.26",
-          "url": "https://www.facebook.com/sharonbaptistbenton/videos/kids-dads-employees-and-bosses/1430396389060976/"
-        }
-      ]
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-16T21:30:21Z",
+  "evidence": [],
+  "first_checked_at": "2026-10-16T21:30:21Z",
+  "india_based": false,
+  "method": "Careers board, posting text, web search",
+  "sig": "54391d7cdf",
+  "summary": "No public evidence yet about hiring from India.",
+  "verdict": "unclear",
+  "web": {
+   "checked_at": "2026-10-16T22:27:07Z",
+   "query": "\"Sandy Micone's company\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
+   "results": [
+    {
+     "description": "5 days ago · Mic one is better. Keep it close. It's okay. And such are Thanks ... Next is Sandy, okay. Germany. Everything. Ah. Pages · Non-Business ...",
+     "title": "Geeta session | HTCI Hindu Temple - Facebook",
+     "url": "https://www.facebook.com/HTCIFriends/videos/geeta-session/28884052751190714/"
+    },
+    {
+     "description": "Endless laughter. ✨ Gaurav Kapoor is all set to bring his signature humour live to the city. Pt. Deendayal Upadhyay Auditorium 4th ...",
+     "title": "7 PM onwards 🎟️ Tickets are live on BookMyShow! - Instagram",
+     "url": "https://www.instagram.com/reel/DZppCGxI2Mn/"
+    },
+    {
+     "description": "Terra Firma: Live from the studios of the Community Music Alliance, host Michael Logsdon presents a program of music by Dewey Kincaid and ...",
+     "title": "Terra Firma: Live from the studios of the Community Music Alliance, host ...",
+     "url": "https://www.facebook.com/CommunityMusicAlliance/posts/terra-firma-live-from-the-studios-of-the-community-music-alliance-host-michael-l/1513569824147286/"
+    },
+    {
+     "description": "One Man. One Mic. One Unforgettable Moment. ❤️ When the little guest steals the spotlight, even the interview becomes pure magic!",
+     "title": "One Man. One Mic. One Unforgettable Moment. ❤️ When the little guest ...",
+     "url": "https://www.facebook.com/kichchauniverse/posts/one-man-one-mic-one-unforgettable-moment-%EF%B8%8Fwhen-the-little-guest-steals-the-spotl/1583476610460418/"
+    },
+    {
+     "description": "[Goa Band • Konkani music • Live Band • Live Music • Goan wedding • Mumbaj Catholics • Goans • Singer guitarist • Darbuka • Female singer • Goan ...",
+     "title": "Bringing back the nostalgia & Joy of Konkani music Here is our version ...",
+     "url": "https://www.instagram.com/reel/Dbm2fADR1qD/"
+    },
+    {
+     "description": "Uh he reached out this morning. So many times we're looking for what god is doing and he's at work, folks. He's in the soul-saving business.",
+     "title": "Join us for worship! \"KIDS, DADS, EMPLOYEES, AND BOSSES\" 8.16.26",
+     "url": "https://www.facebook.com/sharonbaptistbenton/videos/kids-dads-employees-and-bosses/1430396389060976/"
     }
-  },
-  "inferred": true,
-  "name": "Sandy Micone's company",
-  "slug": "sandy-micone-s-company",
-  "tier": 3
+   ]
+  }
+ },
+ "inferred": true,
+ "name": "Sandy Micone's company",
+ "slug": "sandy-micone-s-company",
+ "tier": 3
 }

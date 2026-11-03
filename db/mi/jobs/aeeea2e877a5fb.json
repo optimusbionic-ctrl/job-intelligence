@@ -1,101 +1,101 @@
 {
-  "apply_url": null,
-  "board_apply": "https://himalayas.app/companies/gto-wizard/jobs/senior-game-artist-2d-motion?utm_source=api",
-  "category": "Agency / studio",
-  "comp_potential": "unknown",
-  "company": "GTO Wizard",
-  "company_slug": "gto-wizard",
-  "concerns": [
-    "Employer has not confirmed hiring from India",
-    "Compensation not disclosed",
-    "Agency / studio (Tier 2)",
-    "Contract role"
-  ],
-  "contacts_count": 0,
-  "content_hash": "088bb1edad92",
-  "date_quality": "exact",
-  "deadline": "2026-11-15T22:38:35Z",
-  "employment": "contract",
-  "first_seen": "2026-10-15T15:27:11Z",
-  "fit": 60,
-  "has_hiring_manager": false,
-  "has_named_contact": false,
-  "has_public_email": false,
-  "id": "aeeea2e877a5fb",
-  "include_reason": "Motion design title",
-  "india": {
-    "cities": [],
-    "company": "likely",
-    "reason": "Description mentions European Timezone · GTO Wizard hires across countries",
-    "status": "unconfirmed",
-    "visa": false
-  },
-  "kind": "motion",
-  "last_verified": "2026-10-18T23:27:04Z",
-  "location": "Worldwide",
-  "logo": "https://cdn-images.himalayas.app/t02ee7ab4ifgq0wbakpj5l6g5cvs",
-  "needs_review": false,
-  "official": false,
-  "posted_at": "2026-09-16T22:38:36Z",
-  "repost": false,
-  "requirements": [
-    "Is reliably authentic.",
-    "Embraces ownership.",
-    "Is excited by a remote-first culture that values written communication over excessive meetings.",
-    "Sees AI tools as an opportunity to scale impact rather than a threat to be managed.",
-    "Takes initiative to improve quality and efficiency teamwide.",
-    "Focuses on delivery over process.",
-    "At least 5 years experience creating 2D art and animation for shipped games."
-  ],
-  "responsibilities": [
-    "The Senior Game Artist will own 2D art and motion for PokerArena, our mobile poker game. This includes all in-game 2D animations plus the cosmetics — static and animated — that we sell to our players. They will keep PokerArena's visual language consistent and distinctive as the game grows.",
-    "This role reports to the Chief Product Officer. It is an individual contributor role without direct reports.",
-    "Create all of PokerArena's in-game 2D animations.",
-    "Design and produce cosmetics (static and 2D animation) sold to our players.",
-    "Maintain a consistent, high-quality visual language across the game.",
-    "Use AI tooling as a daily part of your work.",
-    "Achieve success through delivery rather than policy."
-  ],
-  "salary": {
-    "context_benchmark": "mi-dataset-remote",
-    "note": "Not disclosed. Global remote pay context is available, but there is no evidence it applies to this employer or to India-based hires.",
-    "state": "unavailable"
-  },
-  "scores": {
-    "ai": 44,
-    "comp": 48,
-    "company": 62,
-    "location": 38,
-    "seniority": 100,
-    "skill": 57
-  },
-  "seniority": "senior",
-  "snippet": "About Us\n GTO Wizard is the worldwide leader in training and education for serious poker players. We use AI to provide GTO solutions in seconds with comprehensive coverage of poker situations. We're expanding into casual poker gameplay for play money on the web and in mobile apps. Our team of under 100 people works fully remotely on a Central European Timezone schedule.\n About the Role\n The Senior Game Artist will ow",
-  "source_primary": "Himalayas",
-  "sources": [
-    {
-      "id": "himalayas",
-      "job_id": "https://himalayas.app/companies/gto-wizard/jobs/senior-game-artist-2d-motion",
-      "kind": "board",
-      "name": "Himalayas",
-      "posted_at": "2026-09-16T22:38:36Z",
-      "seen_at": "2026-10-18T23:27:04Z",
-      "url": "https://himalayas.app/companies/gto-wizard/jobs/senior-game-artist-2d-motion?utm_source=api"
-    }
-  ],
-  "specializations": [
-    "AI-generated video"
-  ],
-  "status": "active",
-  "tier": 2,
-  "title": "Senior Game Artist | 2D & Motion",
-  "tools": [],
-  "updated_at": null,
-  "url": "https://himalayas.app/companies/gto-wizard/jobs/senior-game-artist-2d-motion?utm_source=api",
-  "why": [
-    "Core motion design role",
-    "Specialisations in scope: AI-generated video"
-  ],
-  "work_mode": "remote",
-  "years_min": 5
+ "apply_url": null,
+ "board_apply": "https://himalayas.app/companies/gto-wizard/jobs/senior-game-artist-2d-motion?utm_source=api",
+ "category": "Agency / studio",
+ "comp_potential": "unknown",
+ "company": "GTO Wizard",
+ "company_slug": "gto-wizard",
+ "concerns": [
+  "Employer has not confirmed hiring from India",
+  "Compensation not disclosed",
+  "Agency / studio (Tier 2)",
+  "Contract role"
+ ],
+ "contacts_count": 0,
+ "content_hash": "3b3a5c8c032e",
+ "date_quality": "exact",
+ "deadline": "2026-11-15T22:38:35Z",
+ "employment": "contract",
+ "first_seen": "2026-10-15T15:27:11Z",
+ "fit": 60,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "aeeea2e877a5fb",
+ "include_reason": "Motion design title",
+ "india": {
+  "cities": [],
+  "company": "unclear",
+  "reason": "Description mentions European Timezone",
+  "status": "unconfirmed",
+  "visa": false
+ },
+ "kind": "motion",
+ "last_verified": "2026-10-29T16:34:04Z",
+ "location": "Worldwide",
+ "logo": "https://cdn-images.himalayas.app/t02ee7ab4ifgq0wbakpj5l6g5cvs",
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-09-16T22:38:36Z",
+ "repost": false,
+ "requirements": [
+  "Is reliably authentic.",
+  "Embraces ownership.",
+  "Is excited by a remote-first culture that values written communication over excessive meetings.",
+  "Sees AI tools as an opportunity to scale impact rather than a threat to be managed.",
+  "Takes initiative to improve quality and efficiency teamwide.",
+  "Focuses on delivery over process.",
+  "At least 5 years experience creating 2D art and animation for shipped games."
+ ],
+ "responsibilities": [
+  "The Senior Game Artist will own 2D art and motion for PokerArena, our mobile poker game. This includes all in-game 2D animations plus the cosmetics — static and animated — that we sell to our players. They will keep PokerArena's visual language consistent and distinctive as the game grows.",
+  "This role reports to the Chief Product Officer. It is an individual contributor role without direct reports.",
+  "Create all of PokerArena's in-game 2D animations.",
+  "Design and produce cosmetics (static and 2D animation) sold to our players.",
+  "Maintain a consistent, high-quality visual language across the game.",
+  "Use AI tooling as a daily part of your work.",
+  "Achieve success through delivery rather than policy."
+ ],
+ "salary": {
+  "context_benchmark": "mi-dataset-remote",
+  "note": "Not disclosed. Global remote pay context is available, but there is no evidence it applies to this employer or to India-based hires.",
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 44,
+  "comp": 48,
+  "company": 62,
+  "location": 38,
+  "seniority": 100,
+  "skill": 57
+ },
+ "seniority": "senior",
+ "snippet": "About Us\n GTO Wizard is the worldwide leader in training and education for serious poker players. We use AI to provide GTO solutions in seconds with comprehensive coverage of poker situations. We're expanding into casual poker gameplay for play money on the web and in mobile apps. Our team of under 100 people works fully remotely on a Central European Timezone schedule.\n About the Role\n The Senior Game Artist will ow",
+ "source_primary": "Himalayas",
+ "sources": [
+  {
+   "id": "himalayas",
+   "job_id": "https://himalayas.app/companies/gto-wizard/jobs/senior-game-artist-2d-motion",
+   "kind": "board",
+   "name": "Himalayas",
+   "posted_at": "2026-09-16T22:38:36Z",
+   "seen_at": "2026-10-29T16:34:04Z",
+   "url": "https://himalayas.app/companies/gto-wizard/jobs/senior-game-artist-2d-motion?utm_source=api"
+  }
+ ],
+ "specializations": [
+  "AI-generated video"
+ ],
+ "status": "active",
+ "tier": 2,
+ "title": "Senior Game Artist | 2D & Motion",
+ "tools": [],
+ "updated_at": null,
+ "url": "https://himalayas.app/companies/gto-wizard/jobs/senior-game-artist-2d-motion?utm_source=api",
+ "why": [
+  "Core motion design role",
+  "Specialisations in scope: AI-generated video"
+ ],
+ "work_mode": "remote",
+ "years_min": 5
 }

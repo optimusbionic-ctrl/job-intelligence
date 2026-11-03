@@ -1,83 +1,83 @@
 {
-  "apply_url": null,
-  "board_apply": "https://www.shine.com/jobs/hrms-qa-analyst/infovision-hr-consulting-services-pvt-ltd/19913960",
-  "category": "Recruiter (client not named)",
-  "comp_potential": "unknown",
-  "company": "Infovision HR Consulting Services Pvt Ltd",
-  "company_slug": "infovision-hr-consulting-services-pvt-ltd",
-  "concerns": [
-    "Asks for 4+ years — you have about 2.5",
-    "Pay not disclosed — ask for the range early"
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/hrms-qa-analyst/infovision-hr-consulting-services-pvt-ltd/19913960",
+ "category": "Recruiter (client not named)",
+ "comp_potential": "unknown",
+ "company": "Infovision HR Consulting Services Pvt Ltd",
+ "company_slug": "infovision-hr-consulting-services-pvt-ltd",
+ "concerns": [
+  "Asks for 4+ years — you have about 2.5",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "d75bf785acb6",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-10-24T18:44:21Z",
+ "fit": 66,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "6358e2fe4af5a0",
+ "include_reason": "Manual / functional QA title",
+ "india": {
+  "cities": [
+   "Mumbai"
   ],
-  "contacts_count": 0,
-  "content_hash": "e3dab67ab379",
-  "date_quality": "exact",
-  "deadline": null,
-  "employment": "full-time",
-  "first_seen": "2026-10-24T18:44:21Z",
-  "fit": 66,
-  "has_hiring_manager": false,
-  "has_named_contact": false,
-  "has_public_email": false,
-  "id": "6358e2fe4af5a0",
-  "include_reason": "Manual / functional QA title",
-  "india": {
-    "cities": [
-      "Mumbai"
-    ],
-    "company": "yes",
-    "reason": "Location lists India",
-    "status": "confirmed",
-    "visa": false
-  },
-  "kind": "manual-qa",
-  "last_verified": "2026-10-24T18:44:21Z",
-  "location": "Navi Mumbai, Mumbai City, Bhiwandi, Panvel, Kalyan, Ambernath, India",
-  "logo": null,
-  "needs_review": false,
-  "official": false,
-  "posted_at": "2026-10-23T15:47:35Z",
-  "repost": false,
-  "requirements": [],
-  "responsibilities": [],
-  "salary": {
-    "state": "unavailable"
-  },
-  "scores": {
-    "ai": 58,
-    "comp": 60,
-    "company": 66,
-    "location": 100,
-    "seniority": 72,
-    "skill": 50
-  },
-  "seniority": "unspecified",
-  "snippet": "Experience: 4 to 7 Yrs\nSkills: hrms, attendance, payroll, employee engagement, qa, qc, leave, qa analyst, software tester\n(Summary from the Shine.com listing; open the posting for the full description.)",
-  "source_primary": "Shine.com",
-  "sources": [
-    {
-      "id": "shine",
-      "job_id": "19913960",
-      "kind": "board",
-      "name": "Shine.com",
-      "posted_at": "2026-10-23T15:47:35Z",
-      "seen_at": "2026-10-24T18:44:21Z",
-      "url": "https://www.shine.com/jobs/hrms-qa-analyst/infovision-hr-consulting-services-pvt-ltd/19913960"
-    }
-  ],
-  "specializations": [],
-  "status": "active",
-  "tier": 3,
-  "title": "HRMS QA Analyst",
-  "tools": [],
-  "track": "software",
-  "updated_at": null,
-  "url": "https://www.shine.com/jobs/hrms-qa-analyst/infovision-hr-consulting-services-pvt-ltd/19913960",
-  "why": [
-    "Manual / functional QA — the core of your resume",
-    "Location lists India"
-  ],
-  "work_mode": "onsite",
-  "years_max": 7,
-  "years_min": 4
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "manual-qa",
+ "last_verified": "2026-10-28T10:45:08Z",
+ "location": "Navi Mumbai, Mumbai City, Thane, Panvel, Vasai, Kalyan, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-10-23T15:47:35Z",
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 60,
+  "company": 66,
+  "location": 100,
+  "seniority": 72,
+  "skill": 50
+ },
+ "seniority": "unspecified",
+ "snippet": "Experience: 4 to 7 Yrs\nSkills: hrms, attendance, payroll, employee engagement, qa, qc, leave, qa analyst, software tester\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "19913960",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-10-23T15:47:35Z",
+   "seen_at": "2026-10-28T10:45:08Z",
+   "url": "https://www.shine.com/jobs/hrms-qa-analyst/infovision-hr-consulting-services-pvt-ltd/19913960"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 3,
+ "title": "HRMS QA Analyst",
+ "tools": [],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/hrms-qa-analyst/infovision-hr-consulting-services-pvt-ltd/19913960",
+ "why": [
+  "Manual / functional QA — the core of your resume",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": 7,
+ "years_min": 4
 }

@@ -1,27 +1,27 @@
 {
-  "category": "Other",
-  "classification": "Inferred from job description",
-  "india_hiring": {
-    "board": null,
-    "changed_at": "2026-10-19T03:27:48Z",
-    "evidence": [
-      {
-        "detail": "Senior Motion Graphics Designer - India (Remote) — India (Remote)",
-        "kind": "posting",
-        "label": "A current posting lists India as a location",
-        "url": "https://careers.roar.global/jobs/aca2a5dc-2bb9-49ca-b111-57df24577fb8",
-        "weight": 5
-      }
-    ],
-    "first_checked_at": "2026-10-15T16:19:24Z",
-    "india_based": false,
-    "method": "Careers board, posting text",
-    "sig": "c14e46d4d3",
-    "summary": "A current posting lists India as a location.",
-    "verdict": "yes"
-  },
-  "inferred": true,
-  "name": "Roar Global",
-  "slug": "roar-global",
-  "tier": 3
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-19T03:27:48Z",
+  "evidence": [
+   {
+    "detail": "Senior Motion Graphics Designer - India (Remote) — India (Remote)",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://careers.roar.global/jobs/aca2a5dc-2bb9-49ca-b111-57df24577fb8",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-10-15T16:19:24Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "c14e46d4d3",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Roar Global",
+ "slug": "roar-global",
+ "tier": 3
 }

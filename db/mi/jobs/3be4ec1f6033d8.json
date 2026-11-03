@@ -1,130 +1,130 @@
 {
-  "apply_url": "https://job-boards.greenhouse.io/playq/jobs/8119190",
-  "board_apply": null,
-  "category": "SaaS",
-  "comp_potential": "possible",
-  "company": "PlayQ",
-  "company_slug": "playq",
-  "concerns": [
-    "Pay not disclosed — showing a low-confidence estimate",
-    "Also asks for: Blender"
-  ],
-  "contacts_count": 1,
-  "content_hash": "eff1e23c0d5f",
-  "date_quality": "exact",
-  "deadline": "2026-12-07T00:31:09Z",
-  "employment": "full-time",
-  "first_seen": "2026-10-15T15:27:11Z",
-  "fit": 85,
-  "has_hiring_manager": false,
-  "has_named_contact": false,
-  "has_public_email": true,
-  "id": "3be4ec1f6033d8",
-  "include_reason": "Mixed graphic + motion title",
-  "india": {
-    "cities": [],
-    "company": "likely",
-    "reason": "Worldwide remote",
-    "status": "likely",
-    "visa": false
+ "apply_url": "https://job-boards.greenhouse.io/playq/jobs/8119190",
+ "board_apply": null,
+ "category": "SaaS",
+ "comp_potential": "possible",
+ "company": "PlayQ",
+ "company_slug": "playq",
+ "concerns": [
+  "Pay not disclosed — showing a low-confidence estimate",
+  "Also asks for: Blender"
+ ],
+ "contacts_count": 1,
+ "content_hash": "eff1e23c0d5f",
+ "date_quality": "exact",
+ "deadline": "2026-12-07T00:31:09Z",
+ "employment": "full-time",
+ "first_seen": "2026-10-15T15:27:11Z",
+ "fit": 85,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": true,
+ "id": "3be4ec1f6033d8",
+ "include_reason": "Mixed graphic + motion title",
+ "india": {
+  "cities": [],
+  "company": "likely",
+  "reason": "Worldwide remote",
+  "status": "likely",
+  "visa": false
+ },
+ "kind": "graphic-motion",
+ "last_verified": "2026-10-15T18:30:15Z",
+ "location": "Worldwide",
+ "logo": "https://cdn-images.himalayas.app/484dxpy5w8fxh7obb14ntj6qxtep",
+ "needs_review": false,
+ "official": true,
+ "posted_at": "2026-10-06T10:05:37Z",
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [
+  "Our Senior Motion Graphics Designer role offers the opportunity to directly shape PlayQ ’s growth through high-quality, performance driven user acquisition creative.",
+  "This is a hands-on individual contributor role focused on creating motion graphics, editorial content, gameplay driven ads, and high volume creative iterations for paid media campaigns. You will work closely with Marketing Art and User Acquisition to turn creative direction and performance learnings into engaging short form ads.",
+  "Your work will contribute directly to PlayQ ’s growth by creating strong hooks, clear gameplay stories, and modular creative assets that can be tested, optimized, resized, and scaled efficiently across advertising platforms.",
+  "Motion Design: Design and animate high-quality motion graphics for user acquisition, social, and digital marketing campaigns using typography, transitions, visual effects, gameplay assets, UI, and graphic design to create visually compelling advertising creatives.",
+  "Video Production: Edit gameplay capture, promotional footage, AI-generated content, voiceover, music, and sound effects into engaging short-form video ads that effectively communicate gameplay, features, rewards, and player motivations.",
+  "Creative Storytelling: Apply strong editorial principles including pacing, timing, rhythm, and visual storytelling to create compelling narratives, impactful opening hooks, and high-performing marketing creatives.",
+  "Creative Development: Produce both net-new creative concepts and high-volume iterations of existing ads, developing structured variations that test hooks, messaging, gameplay moments, pacing, visual treatments, ensuring that all creative decisions improve campaign performance"
+ ],
+ "salary": {
+  "estimate": {
+   "confidence": "low",
+   "currency": "INR",
+   "evidence": [
+    "mi-dataset-remote"
+   ],
+   "high": 18574286,
+   "inr_high": 18574286,
+   "inr_low": 7987206,
+   "low": 7987206,
+   "method": "Interquartile range of disclosed pay on 16 remote motion-design postings in this dataset (any region, converted to INR today). Employer-specific pay is unknown, and employer-of-record or location-based pay policies often lower offers for India-based hires.",
+   "potential": "possible"
   },
-  "kind": "graphic-motion",
-  "last_verified": "2026-10-15T18:30:15Z",
-  "location": "Worldwide",
-  "logo": "https://cdn-images.himalayas.app/484dxpy5w8fxh7obb14ntj6qxtep",
-  "needs_review": false,
-  "official": true,
-  "posted_at": "2026-10-06T10:05:37Z",
-  "repost": false,
-  "requirements": [],
-  "responsibilities": [
-    "Our Senior Motion Graphics Designer role offers the opportunity to directly shape PlayQ ’s growth through high-quality, performance driven user acquisition creative.",
-    "This is a hands-on individual contributor role focused on creating motion graphics, editorial content, gameplay driven ads, and high volume creative iterations for paid media campaigns. You will work closely with Marketing Art and User Acquisition to turn creative direction and performance learnings into engaging short form ads.",
-    "Your work will contribute directly to PlayQ ’s growth by creating strong hooks, clear gameplay stories, and modular creative assets that can be tested, optimized, resized, and scaled efficiently across advertising platforms.",
-    "Motion Design: Design and animate high-quality motion graphics for user acquisition, social, and digital marketing campaigns using typography, transitions, visual effects, gameplay assets, UI, and graphic design to create visually compelling advertising creatives.",
-    "Video Production: Edit gameplay capture, promotional footage, AI-generated content, voiceover, music, and sound effects into engaging short-form video ads that effectively communicate gameplay, features, rewards, and player motivations.",
-    "Creative Storytelling: Apply strong editorial principles including pacing, timing, rhythm, and visual storytelling to create compelling narratives, impactful opening hooks, and high-performing marketing creatives.",
-    "Creative Development: Produce both net-new creative concepts and high-volume iterations of existing ads, developing structured variations that test hooks, messaging, gameplay moments, pacing, visual treatments, ensuring that all creative decisions improve campaign performance"
-  ],
-  "salary": {
-    "estimate": {
-      "confidence": "low",
-      "currency": "INR",
-      "evidence": [
-        "mi-dataset-remote"
-      ],
-      "high": 18574286,
-      "inr_high": 18574286,
-      "inr_low": 7987206,
-      "low": 7987206,
-      "method": "Interquartile range of disclosed pay on 16 remote motion-design postings in this dataset (any region, converted to INR today). Employer-specific pay is unknown, and employer-of-record or location-based pay policies often lower offers for India-based hires.",
-      "potential": "possible"
-    },
-    "note": "Estimate — not employer-confirmed",
-    "state": "estimate",
-    "verified_at": "2026-10-15T18:30:15Z"
+  "note": "Estimate — not employer-confirmed",
+  "state": "estimate",
+  "verified_at": "2026-10-15T18:30:15Z"
+ },
+ "scores": {
+  "ai": 100,
+  "comp": 60,
+  "company": 98,
+  "location": 92,
+  "seniority": 100,
+  "skill": 74
+ },
+ "seniority": "senior",
+ "snippet": "Our Mission: \n To capture the hearts and minds of millions of players across the world by creating unforgettable games powered by the best technology.\n About Us:\n PlayQ is a rapidly growing entertainment and technology company that recognizes quality is king as we deliver unforgettable mobile game experiences to a global audience. Our games engage millions of users daily, surprising them with creativity, beauty and f",
+ "source_primary": "PlayQ careers (Greenhouse)",
+ "sources": [
+  {
+   "id": "greenhouse",
+   "job_id": "gh:playq:8119190",
+   "kind": "ats",
+   "name": "PlayQ careers (Greenhouse)",
+   "posted_at": "2026-10-06T10:05:37Z",
+   "seen_at": "2026-10-15T18:30:15Z",
+   "url": "https://job-boards.greenhouse.io/playq/jobs/8119190"
   },
-  "scores": {
-    "ai": 100,
-    "comp": 60,
-    "company": 98,
-    "location": 92,
-    "seniority": 100,
-    "skill": 74
-  },
-  "seniority": "senior",
-  "snippet": "Our Mission: \n To capture the hearts and minds of millions of players across the world by creating unforgettable games powered by the best technology.\n About Us:\n PlayQ is a rapidly growing entertainment and technology company that recognizes quality is king as we deliver unforgettable mobile game experiences to a global audience. Our games engage millions of users daily, surprising them with creativity, beauty and f",
-  "source_primary": "PlayQ careers (Greenhouse)",
-  "sources": [
-    {
-      "id": "greenhouse",
-      "job_id": "gh:playq:8119190",
-      "kind": "ats",
-      "name": "PlayQ careers (Greenhouse)",
-      "posted_at": "2026-10-06T10:05:37Z",
-      "seen_at": "2026-10-15T18:30:15Z",
-      "url": "https://job-boards.greenhouse.io/playq/jobs/8119190"
-    },
-    {
-      "id": "himalayas",
-      "job_id": "https://himalayas.app/companies/playq/jobs/senior-motion-graphics-designer",
-      "kind": "board",
-      "name": "Himalayas",
-      "posted_at": "2026-10-08T00:31:10Z",
-      "seen_at": "2026-10-15T18:30:15Z",
-      "url": "https://himalayas.app/companies/playq/jobs/senior-motion-graphics-designer"
-    }
-  ],
-  "specializations": [
-    "UI/UX animation",
-    "3D motion",
-    "AI-generated video",
-    "Creative engineering",
-    "Interaction systems",
-    "Technical storytelling"
-  ],
-  "status": "verified",
-  "tier": 1,
-  "title": "Senior Motion Graphics Designer",
-  "tools": [
-    "After Effects",
-    "Cinema 4D",
-    "Blender",
-    "Premiere Pro",
-    "Illustrator",
-    "Photoshop",
-    "Runway",
-    "Firefly",
-    "Midjourney"
-  ],
-  "updated_at": null,
-  "url": "https://job-boards.greenhouse.io/playq/jobs/8119190",
-  "why": [
-    "Tools you already use: After Effects, Cinema 4D, Premiere Pro, Illustrator, Photoshop",
-    "Specialisations in scope: UI/UX animation, 3D motion, AI-generated video, Creative engineering",
-    "SaaS company (Tier 1 priority)",
-    "Worldwide remote"
-  ],
-  "work_mode": "remote",
-  "years_min": 5
+  {
+   "id": "himalayas",
+   "job_id": "https://himalayas.app/companies/playq/jobs/senior-motion-graphics-designer",
+   "kind": "board",
+   "name": "Himalayas",
+   "posted_at": "2026-10-08T00:31:10Z",
+   "seen_at": "2026-10-15T18:30:15Z",
+   "url": "https://himalayas.app/companies/playq/jobs/senior-motion-graphics-designer"
+  }
+ ],
+ "specializations": [
+  "UI/UX animation",
+  "3D motion",
+  "AI-generated video",
+  "Creative engineering",
+  "Interaction systems",
+  "Technical storytelling"
+ ],
+ "status": "verified",
+ "tier": 1,
+ "title": "Senior Motion Graphics Designer",
+ "tools": [
+  "After Effects",
+  "Cinema 4D",
+  "Blender",
+  "Premiere Pro",
+  "Illustrator",
+  "Photoshop",
+  "Runway",
+  "Firefly",
+  "Midjourney"
+ ],
+ "updated_at": null,
+ "url": "https://job-boards.greenhouse.io/playq/jobs/8119190",
+ "why": [
+  "Tools you already use: After Effects, Cinema 4D, Premiere Pro, Illustrator, Photoshop",
+  "Specialisations in scope: UI/UX animation, 3D motion, AI-generated video, Creative engineering",
+  "SaaS company (Tier 1 priority)",
+  "Worldwide remote"
+ ],
+ "work_mode": "remote",
+ "years_min": 5
 }

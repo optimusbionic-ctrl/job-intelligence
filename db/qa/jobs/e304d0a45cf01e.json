@@ -1,90 +1,90 @@
 {
-  "apply_url": null,
-  "board_apply": "https://www.shine.com/jobs/qa-manual/tudip-technologies-pvt-ltd/19532801",
-  "category": "Product / SaaS",
-  "comp_potential": "unknown",
-  "company": "Tudip Technologies Pvt Ltd",
-  "company_slug": "tudip-technologies-pvt-ltd",
-  "concerns": [
-    "Pay not disclosed — ask for the range early"
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/qa-manual/tudip-technologies-pvt-ltd/19532801",
+ "category": "Product / SaaS",
+ "comp_potential": "unknown",
+ "company": "Tudip Technologies Pvt Ltd",
+ "company_slug": "tudip-technologies-pvt-ltd",
+ "concerns": [
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "4ce01e695241",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-10-20T13:44:34Z",
+ "fit": 86,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "e304d0a45cf01e",
+ "include_reason": "Manual / functional QA title",
+ "india": {
+  "cities": [
+   "Mumbai"
   ],
-  "contacts_count": 0,
-  "content_hash": "4ce01e695241",
-  "date_quality": "exact",
-  "deadline": null,
-  "employment": "full-time",
-  "first_seen": "2026-10-20T13:44:34Z",
-  "fit": 86,
-  "has_hiring_manager": false,
-  "has_named_contact": false,
-  "has_public_email": false,
-  "id": "e304d0a45cf01e",
-  "include_reason": "Manual / functional QA title",
-  "india": {
-    "cities": [
-      "Mumbai"
-    ],
-    "company": "yes",
-    "reason": "Location lists India",
-    "status": "confirmed",
-    "visa": false
-  },
-  "kind": "manual-qa",
-  "last_verified": "2026-10-20T13:44:34Z",
-  "location": "Mumbai City, India",
-  "logo": null,
-  "needs_review": false,
-  "official": false,
-  "posted_at": "2026-09-05T01:16:47Z",
-  "repost": false,
-  "requirements": [],
-  "responsibilities": [],
-  "salary": {
-    "state": "unavailable"
-  },
-  "scores": {
-    "ai": 74,
-    "comp": 60,
-    "company": 95,
-    "location": 100,
-    "seniority": 100,
-    "skill": 79
-  },
-  "seniority": "unspecified",
-  "snippet": "Experience: 1 to 5 Yrs\nSkills: test cases, quality assurance, testing tools, technical documentation, web testing, QA engineer, test plans, test cycles, test strategies, mobile app testing\n(Summary from the Shine.com listing; open the posting for the full description.)",
-  "source_primary": "Shine.com",
-  "sources": [
-    {
-      "id": "shine",
-      "job_id": "19532801",
-      "kind": "board",
-      "name": "Shine.com",
-      "posted_at": "2026-09-05T01:16:47Z",
-      "seen_at": "2026-10-20T13:44:34Z",
-      "url": "https://www.shine.com/jobs/qa-manual/tudip-technologies-pvt-ltd/19532801"
-    }
-  ],
-  "specializations": [
-    "Mobile apps"
-  ],
-  "status": "active",
-  "tier": 1,
-  "title": "QA Manual",
-  "tools": [
-    "Test cases & scenarios"
-  ],
-  "track": "software",
-  "updated_at": null,
-  "url": "https://www.shine.com/jobs/qa-manual/tudip-technologies-pvt-ltd/19532801",
-  "why": [
-    "Manual / functional QA — the core of your resume",
-    "Already on your resume: Test cases & scenarios",
-    "Platforms you test on: Mobile apps",
-    "Product / SaaS company",
-    "Location lists India",
-    "Asks for 1–5 years — you have about 2.5"
-  ],
-  "work_mode": "onsite",
-  "years_max": 5,
-  "years_min": 1
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "manual-qa",
+ "last_verified": "2026-10-20T13:44:34Z",
+ "location": "Mumbai City, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-09-05T01:16:47Z",
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 74,
+  "comp": 60,
+  "company": 95,
+  "location": 100,
+  "seniority": 100,
+  "skill": 79
+ },
+ "seniority": "unspecified",
+ "snippet": "Experience: 1 to 5 Yrs\nSkills: test cases, quality assurance, testing tools, technical documentation, web testing, QA engineer, test plans, test cycles, test strategies, mobile app testing\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "19532801",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-09-05T01:16:47Z",
+   "seen_at": "2026-10-20T13:44:34Z",
+   "url": "https://www.shine.com/jobs/qa-manual/tudip-technologies-pvt-ltd/19532801"
+  }
+ ],
+ "specializations": [
+  "Mobile apps"
+ ],
+ "status": "active",
+ "tier": 1,
+ "title": "QA Manual",
+ "tools": [
+  "Test cases & scenarios"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/qa-manual/tudip-technologies-pvt-ltd/19532801",
+ "why": [
+  "Manual / functional QA — the core of your resume",
+  "Already on your resume: Test cases & scenarios",
+  "Platforms you test on: Mobile apps",
+  "Product / SaaS company",
+  "Location lists India",
+  "Asks for 1–5 years — you have about 2.5"
+ ],
+ "work_mode": "onsite",
+ "years_max": 5,
+ "years_min": 1
 }

@@ -1,64 +1,64 @@
 {
-  "category": "AI",
-  "classification": "Inferred from job description",
-  "india_hiring": {
-    "board": null,
-    "changed_at": "2026-10-18T23:27:04Z",
-    "evidence": [
-      {
-        "detail": "Motion Designer, Growth — Worldwide",
-        "kind": "posting",
-        "label": "A current posting is open worldwide",
-        "url": "https://himalayas.app/companies/replika/jobs/motion-designer-growth?utm_source=api",
-        "weight": 3
-      }
-    ],
-    "first_checked_at": "2026-10-15T16:19:24Z",
-    "india_based": false,
-    "method": "Careers board, posting text, web search",
-    "sig": "898855e776",
-    "summary": "No India-located roles found, but a current posting is open worldwide.",
-    "verdict": "likely",
-    "web": {
-      "checked_at": "2026-10-15T18:30:15Z",
-      "query": "\"Replika\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
-      "results": [
-        {
-          "description": "## Select which cookies you accept\nFully Remote\n\nTemporarily Remote\n\nTemporarily Remote\n\nFully Remote\n\n## 2 jobs\n- [Executive Assistant - Remote](https://careers.replika.com/jobs/8468306-executive-assistant-remote)Multiple locations·\nFully Remote\n- [Software Engineer (Senior, Staff) - Remote](https://careers.replika.com/jobs/8289164-software-engineer-senior-staff-remote)Engineering Team·Multiple locations·\nFully Remote\n\n## Already working at Replika?\nEstonia\n\nGeorgia\n\nIreland\n\nItaly\n\nPortugal\n\nSlovenia\n\nSpain\n\nUnited Kingdom\n\nAzerbaijan\n\nFully Remote\n\nNo Remote Work\n\nTemporarily Remote",
-          "title": "Current job openings",
-          "url": "https://careers.replika.com/jobs"
-        },
-        {
-          "description": "# Creating AI That Empowers The Best In You\n## Current job openings\n- [Executive Assistant - Remote\\\n\\\nMultiple locations·\\\nFully Remote](https://careers.replika.com/jobs/8468306-executive-assistant-remote)\n- [Software Engineer (Senior, Staff) - Remote\\\n\\\nEngineering Team·Multiple locations·\\\nFully Remote](https://careers.replika.com/jobs/8289164-software-engineer-senior-staff-remote)",
-          "title": "Replika: Creating AI That Empowers The Best In You",
-          "url": "https://careers.replika.com/"
-        },
-        {
-          "description": "Today's top 16000+ Replika jobs in Worldwide. Leverage your professional ... Engineering Manager - AI Product (100% Remote EMEA). Pragmatike. Latvia 2 ...",
-          "title": "Replika Jobs in Worldwide (16000+ Open Roles) - LinkedIn",
-          "url": "https://www.linkedin.com/jobs/replika-jobs-worldwide"
-        },
-        {
-          "description": "Careers at Replika. Series A100–1000 employeesAI-Powered ApplicationsSan ... RemoteYerevan, EMEA, AM, Vienna, EMEA, AT, Brussels, EMEA, BE, Sofia, EMEA ...",
-          "title": "Jobs at Replika - AIX Ventures",
-          "url": "https://careers.aixventures.com/jobs/replika"
-        },
-        {
-          "description": "About Replika ... Always here to listen and talk. Always on your side. Join the millions growing with their AI friends now! Currently Open Remote Jobs. Updated.",
-          "title": "Replika's Careers Page - Open Remote Jobs - Dynamite Jobs",
-          "url": "https://dynamitejobs.com/company/replika"
-        },
-        {
-          "description": "Job openings. Software Engineer (Senior, Staff) - Remote · Brand, Vibes & GTM - Remote · Brand Design Manager - Remote · Creative Producer, Growth - Remote ...",
-          "title": "Site Map - Replika",
-          "url": "https://careers.replika.com/sitemap"
-        }
-      ]
+ "category": "AI",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-18T23:27:04Z",
+  "evidence": [
+   {
+    "detail": "Motion Designer, Growth — Worldwide",
+    "kind": "posting",
+    "label": "A current posting is open worldwide",
+    "url": "https://himalayas.app/companies/replika/jobs/motion-designer-growth?utm_source=api",
+    "weight": 3
+   }
+  ],
+  "first_checked_at": "2026-10-15T16:19:24Z",
+  "india_based": false,
+  "method": "Careers board, posting text, web search",
+  "sig": "898855e776",
+  "summary": "No India-located roles found, but a current posting is open worldwide.",
+  "verdict": "likely",
+  "web": {
+   "checked_at": "2026-10-29T20:27:11Z",
+   "query": "\"Replika\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
+   "results": [
+    {
+     "description": "",
+     "title": "Pobierz Aplikację",
+     "url": "https://www.levels.fyi/pl-pl/jobs/company/replika"
+    },
+    {
+     "description": "",
+     "title": "RemoteJobs.org mascotRemoteJobs.org",
+     "url": "https://remotejobs.org/companies/replika"
+    },
+    {
+     "description": "",
+     "title": "Replika logo",
+     "url": "https://scoutify.com/companies/replika/"
+    },
+    {
+     "description": "",
+     "title": "Work Remotely for Global Companies Hiring in India",
+     "url": "https://wisemonk.io/for-candidates"
+    },
+    {
+     "description": "",
+     "title": "employer of record",
+     "url": "https://remote.com/country-explorer/india/employer-of-record"
+    },
+    {
+     "description": "",
+     "title": "employer of record",
+     "url": "https://remote.com/en-hk/country-explorer/india/employer-of-record"
     }
-  },
-  "inferred": true,
-  "logo": "https://cdn-images.himalayas.app/mwm6f4jvrm6vlav39huqprol9ibs",
-  "name": "Replika",
-  "slug": "replika",
-  "tier": 1
+   ]
+  }
+ },
+ "inferred": true,
+ "logo": "https://cdn-images.himalayas.app/mwm6f4jvrm6vlav39huqprol9ibs",
+ "name": "Replika",
+ "slug": "replika",
+ "tier": 1
 }

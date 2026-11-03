@@ -1,91 +1,91 @@
 {
-  "apply_url": null,
-  "board_apply": "https://www.shine.com/jobs/qa-tester-from-financial-broking-industry/anandrathi/19555294",
-  "category": "Other",
-  "comp_potential": "unknown",
-  "company": "AnandRathi",
-  "company_slug": "anandrathi",
-  "concerns": [
-    "Mentions test automation — be ready to discuss it or show a small script",
-    "Also asks for: API testing, SQL / databases",
-    "Pay not disclosed — ask for the range early"
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/qa-tester-from-financial-broking-industry/anandrathi/19555294",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "AnandRathi",
+ "company_slug": "anandrathi",
+ "concerns": [
+  "Mentions test automation — be ready to discuss it or show a small script",
+  "Also asks for: API testing, SQL / databases",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "27bece4165a8",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-10-19T13:24:59Z",
+ "fit": 74,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "e5da1d86ed1b66",
+ "include_reason": "Manual / functional QA title",
+ "india": {
+  "cities": [
+   "Mumbai"
   ],
-  "contacts_count": 0,
-  "content_hash": "27bece4165a8",
-  "date_quality": "exact",
-  "deadline": null,
-  "employment": "full-time",
-  "first_seen": "2026-10-19T13:24:59Z",
-  "fit": 74,
-  "has_hiring_manager": false,
-  "has_named_contact": false,
-  "has_public_email": false,
-  "id": "e5da1d86ed1b66",
-  "include_reason": "Manual / functional QA title",
-  "india": {
-    "cities": [
-      "Mumbai"
-    ],
-    "company": "yes",
-    "reason": "Location lists India",
-    "status": "confirmed",
-    "visa": false
-  },
-  "kind": "manual-qa",
-  "last_verified": "2026-10-19T13:24:59Z",
-  "location": "Mumbai City, India",
-  "logo": null,
-  "needs_review": false,
-  "official": false,
-  "posted_at": "2026-09-16T09:10:55Z",
-  "repost": false,
-  "requirements": [],
-  "responsibilities": [],
-  "salary": {
-    "state": "unavailable"
-  },
-  "scores": {
-    "ai": 58,
-    "comp": 60,
-    "company": 66,
-    "location": 100,
-    "seniority": 84,
-    "skill": 68
-  },
-  "seniority": "unspecified",
-  "snippet": "Experience: 24 to >25 Yrs\nSkills: manual testing, functional testing, integration testing, regression testing, Linux, Bash, API testing, SQL, test automation, endtoend testing\n(Summary from the Shine.com listing; open the posting for the full description.)",
-  "source_primary": "Shine.com",
-  "sources": [
-    {
-      "id": "shine",
-      "job_id": "19555294",
-      "kind": "board",
-      "name": "Shine.com",
-      "posted_at": "2026-09-16T09:10:55Z",
-      "seen_at": "2026-10-19T13:24:59Z",
-      "url": "https://www.shine.com/jobs/qa-tester-from-financial-broking-industry/anandrathi/19555294"
-    }
-  ],
-  "specializations": [],
-  "status": "active",
-  "tier": 3,
-  "title": "QA Tester from Financial / Broking Industry",
-  "tools": [
-    "Functional testing",
-    "Regression testing",
-    "API testing",
-    "SQL / databases",
-    "Test automation"
-  ],
-  "track": "software",
-  "updated_at": null,
-  "url": "https://www.shine.com/jobs/qa-tester-from-financial-broking-industry/anandrathi/19555294",
-  "why": [
-    "Manual / functional QA — the core of your resume",
-    "Already on your resume: Functional testing, Regression testing",
-    "Location lists India"
-  ],
-  "work_mode": "onsite",
-  "years_max": null,
-  "years_min": null
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "manual-qa",
+ "last_verified": "2026-10-19T13:24:59Z",
+ "location": "Mumbai City, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-09-16T09:10:55Z",
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 60,
+  "company": 66,
+  "location": 100,
+  "seniority": 84,
+  "skill": 68
+ },
+ "seniority": "unspecified",
+ "snippet": "Experience: 24 to >25 Yrs\nSkills: manual testing, functional testing, integration testing, regression testing, Linux, Bash, API testing, SQL, test automation, endtoend testing\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "19555294",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-09-16T09:10:55Z",
+   "seen_at": "2026-10-19T13:24:59Z",
+   "url": "https://www.shine.com/jobs/qa-tester-from-financial-broking-industry/anandrathi/19555294"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 3,
+ "title": "QA Tester from Financial / Broking Industry",
+ "tools": [
+  "Functional testing",
+  "Regression testing",
+  "API testing",
+  "SQL / databases",
+  "Test automation"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/qa-tester-from-financial-broking-industry/anandrathi/19555294",
+ "why": [
+  "Manual / functional QA — the core of your resume",
+  "Already on your resume: Functional testing, Regression testing",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": null,
+ "years_min": null
 }

@@ -1,102 +1,102 @@
 {
-  "apply_url": null,
-  "board_apply": "https://in.linkedin.com/jobs/view/senior-motion-designer-at-eilan-digital-pvt-ltd-4477272189",
-  "category": "Agency / studio",
-  "comp_potential": "below",
-  "company": "Eilan Digital PVT LTD",
-  "company_slug": "eilan-digital-pvt-ltd",
-  "concerns": [
-    "Pay not disclosed — showing a low-confidence estimate",
-    "Pay evidence suggests below ₹35 LPA",
-    "Agency / studio (Tier 2)"
+ "apply_url": null,
+ "board_apply": "https://in.linkedin.com/jobs/view/senior-motion-designer-at-eilan-digital-pvt-ltd-4477272189",
+ "category": "Agency / studio",
+ "comp_potential": "below",
+ "company": "Eilan Digital PVT LTD",
+ "company_slug": "eilan-digital-pvt-ltd",
+ "concerns": [
+  "Pay not disclosed — showing a low-confidence estimate",
+  "Pay evidence suggests below ₹35 LPA",
+  "Agency / studio (Tier 2)"
+ ],
+ "contacts_count": 0,
+ "content_hash": "be731ee7b08d",
+ "date_quality": "approx",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-10-15T15:39:48Z",
+ "fit": 57,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "348aef6f113468",
+ "include_reason": "Motion design title",
+ "india": {
+  "cities": [
+   "Pune"
   ],
-  "contacts_count": 0,
-  "content_hash": "be731ee7b08d",
-  "date_quality": "approx",
-  "deadline": null,
-  "employment": "full-time",
-  "first_seen": "2026-10-15T15:39:48Z",
-  "fit": 57,
-  "has_hiring_manager": false,
-  "has_named_contact": false,
-  "has_public_email": false,
-  "id": "348aef6f113468",
-  "include_reason": "Motion design title",
-  "india": {
-    "cities": [
-      "Pune"
-    ],
-    "company": "yes",
-    "reason": "Location lists India",
-    "status": "confirmed",
-    "visa": false
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "motion",
+ "last_verified": "2026-10-18T12:27:37Z",
+ "location": "Pune, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-10-11T00:00:00Z",
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "estimate": {
+   "confidence": "low",
+   "currency": "INR",
+   "evidence": [
+    "ab-senior-motion-designer-in",
+    "ab-senior-motion-graphic-designer-in",
+    "gd-senior-motion-designer-blr"
+   ],
+   "high": 920000,
+   "inr_high": 920000,
+   "inr_low": 800000,
+   "low": 800000,
+   "method": "India market averages for senior motion designers from 3 sources (AmbitionBox ×2, Glassdoor Bangalore): ₹8.0–9.2 LPA. These are averages across all employers and experience around 3 years; no evidence that this employer pays above market.",
+   "potential": "below"
   },
-  "kind": "motion",
-  "last_verified": "2026-10-18T12:27:37Z",
-  "location": "Pune, India",
-  "logo": null,
-  "needs_review": false,
-  "official": false,
-  "posted_at": "2026-10-11T00:00:00Z",
-  "repost": false,
-  "requirements": [],
-  "responsibilities": [],
-  "salary": {
-    "estimate": {
-      "confidence": "low",
-      "currency": "INR",
-      "evidence": [
-        "ab-senior-motion-designer-in",
-        "ab-senior-motion-graphic-designer-in",
-        "gd-senior-motion-designer-blr"
-      ],
-      "high": 920000,
-      "inr_high": 920000,
-      "inr_low": 800000,
-      "low": 800000,
-      "method": "India market averages for senior motion designers from 3 sources (AmbitionBox ×2, Glassdoor Bangalore): ₹8.0–9.2 LPA. These are averages across all employers and experience around 3 years; no evidence that this employer pays above market.",
-      "potential": "below"
-    },
-    "note": "Estimate — not employer-confirmed",
-    "state": "estimate",
-    "verified_at": "2026-10-18T12:27:37Z"
-  },
-  "scores": {
-    "ai": 30,
-    "comp": 22,
-    "company": 62,
-    "location": 64,
-    "seniority": 100,
-    "skill": 57
-  },
-  "seniority": "senior",
-  "snippet": "Senior Motion Designer. 5–7 Years. Pune (On-site). Full-time. Eilan Digital Pvt Ltd is a creative agency specializing in 2D & 3D ...",
-  "source_primary": "LinkedIn Jobs (via search index)",
-  "sources": [
-    {
-      "id": "linkedin",
-      "job_id": "https://in.linkedin.com/jobs/view/senior-motion-designer-at-eilan-digital-pvt-ltd-4477272189",
-      "kind": "search",
-      "name": "LinkedIn Jobs (via search index)",
-      "posted_at": "2026-10-11T00:00:00Z",
-      "seen_at": "2026-10-18T12:27:37Z",
-      "url": "https://in.linkedin.com/jobs/view/senior-motion-designer-at-eilan-digital-pvt-ltd-4477272189"
-    }
-  ],
-  "specializations": [
-    "3D motion"
-  ],
-  "status": "lead",
-  "tier": 2,
-  "title": "Senior Motion Designer",
-  "tools": [],
-  "updated_at": null,
-  "url": "https://in.linkedin.com/jobs/view/senior-motion-designer-at-eilan-digital-pvt-ltd-4477272189",
-  "why": [
-    "Core motion design role",
-    "Specialisations in scope: 3D motion",
-    "Location lists India"
-  ],
-  "work_mode": "onsite",
-  "years_min": null
+  "note": "Estimate — not employer-confirmed",
+  "state": "estimate",
+  "verified_at": "2026-10-18T12:27:37Z"
+ },
+ "scores": {
+  "ai": 30,
+  "comp": 22,
+  "company": 62,
+  "location": 64,
+  "seniority": 100,
+  "skill": 57
+ },
+ "seniority": "senior",
+ "snippet": "Senior Motion Designer. 5–7 Years. Pune (On-site). Full-time. Eilan Digital Pvt Ltd is a creative agency specializing in 2D & 3D ...",
+ "source_primary": "LinkedIn Jobs (via search index)",
+ "sources": [
+  {
+   "id": "linkedin",
+   "job_id": "https://in.linkedin.com/jobs/view/senior-motion-designer-at-eilan-digital-pvt-ltd-4477272189",
+   "kind": "search",
+   "name": "LinkedIn Jobs (via search index)",
+   "posted_at": "2026-10-11T00:00:00Z",
+   "seen_at": "2026-10-18T12:27:37Z",
+   "url": "https://in.linkedin.com/jobs/view/senior-motion-designer-at-eilan-digital-pvt-ltd-4477272189"
+  }
+ ],
+ "specializations": [
+  "3D motion"
+ ],
+ "status": "lead",
+ "tier": 2,
+ "title": "Senior Motion Designer",
+ "tools": [],
+ "updated_at": null,
+ "url": "https://in.linkedin.com/jobs/view/senior-motion-designer-at-eilan-digital-pvt-ltd-4477272189",
+ "why": [
+  "Core motion design role",
+  "Specialisations in scope: 3D motion",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_min": null
 }

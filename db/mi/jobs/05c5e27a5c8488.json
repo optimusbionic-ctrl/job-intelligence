@@ -1,95 +1,95 @@
 {
-  "apply_url": null,
-  "board_apply": "https://in.linkedin.com/jobs/view/motion-graphic-designer-at-adwintage-4479192989",
-  "category": "Other",
-  "comp_potential": "below",
-  "company": "Adwintage",
-  "company_slug": "adwintage",
-  "concerns": [
-    "Pay not disclosed — showing a low-confidence estimate",
-    "Pay evidence suggests below ₹35 LPA"
-  ],
-  "contacts_count": 0,
-  "content_hash": "e14a2c37472d",
-  "date_quality": "approx",
-  "deadline": null,
-  "employment": "full-time",
-  "first_seen": "2026-10-16T06:28:21Z",
-  "fit": 42,
-  "has_hiring_manager": false,
-  "has_named_contact": false,
-  "has_public_email": false,
-  "id": "05c5e27a5c8488",
-  "include_reason": "Mixed graphic + motion title",
-  "india": {
-    "cities": [],
-    "company": "yes",
-    "reason": "Location lists India",
-    "status": "confirmed",
-    "visa": false
+ "apply_url": null,
+ "board_apply": "https://in.linkedin.com/jobs/view/motion-graphic-designer-at-adwintage-4479192989",
+ "category": "Other",
+ "comp_potential": "below",
+ "company": "Adwintage",
+ "company_slug": "adwintage",
+ "concerns": [
+  "Pay not disclosed — showing a low-confidence estimate",
+  "Pay evidence suggests below ₹35 LPA"
+ ],
+ "contacts_count": 0,
+ "content_hash": "e14a2c37472d",
+ "date_quality": "approx",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-10-16T06:28:21Z",
+ "fit": 42,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "05c5e27a5c8488",
+ "include_reason": "Mixed graphic + motion title",
+ "india": {
+  "cities": [],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "graphic-motion",
+ "last_verified": "2026-10-18T15:28:43Z",
+ "location": "India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-10-15T00:00:00Z",
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "estimate": {
+   "confidence": "low",
+   "currency": "INR",
+   "evidence": [
+    "ab-senior-motion-designer-in",
+    "ab-senior-motion-graphic-designer-in",
+    "gd-senior-motion-designer-blr"
+   ],
+   "high": 920000,
+   "inr_high": 920000,
+   "inr_low": 800000,
+   "low": 800000,
+   "method": "India market averages for senior motion designers from 3 sources (AmbitionBox ×2, Glassdoor Bangalore): ₹8.0–9.2 LPA. These are averages across all employers and experience around 3 years; no evidence that this employer pays above market.",
+   "potential": "below"
   },
-  "kind": "graphic-motion",
-  "last_verified": "2026-10-18T15:28:43Z",
-  "location": "India",
-  "logo": null,
-  "needs_review": false,
-  "official": false,
-  "posted_at": "2026-10-15T00:00:00Z",
-  "repost": false,
-  "requirements": [],
-  "responsibilities": [],
-  "salary": {
-    "estimate": {
-      "confidence": "low",
-      "currency": "INR",
-      "evidence": [
-        "ab-senior-motion-designer-in",
-        "ab-senior-motion-graphic-designer-in",
-        "gd-senior-motion-designer-blr"
-      ],
-      "high": 920000,
-      "inr_high": 920000,
-      "inr_low": 800000,
-      "low": 800000,
-      "method": "India market averages for senior motion designers from 3 sources (AmbitionBox ×2, Glassdoor Bangalore): ₹8.0–9.2 LPA. These are averages across all employers and experience around 3 years; no evidence that this employer pays above market.",
-      "potential": "below"
-    },
-    "note": "Estimate — not employer-confirmed",
-    "state": "estimate",
-    "verified_at": "2026-10-18T15:28:43Z"
-  },
-  "scores": {
-    "ai": 30,
-    "comp": 22,
-    "company": 40,
-    "location": 88,
-    "seniority": 66,
-    "skill": 29
-  },
-  "seniority": "unspecified",
-  "snippet": "Adwintage hiring Motion Graphic Designer in India",
-  "source_primary": "LinkedIn Jobs (via search index)",
-  "sources": [
-    {
-      "id": "linkedin",
-      "job_id": "https://in.linkedin.com/jobs/view/motion-graphic-designer-at-adwintage-4479192989",
-      "kind": "search",
-      "name": "LinkedIn Jobs (via search index)",
-      "posted_at": "2026-10-15T00:00:00Z",
-      "seen_at": "2026-10-18T15:28:43Z",
-      "url": "https://in.linkedin.com/jobs/view/motion-graphic-designer-at-adwintage-4479192989"
-    }
-  ],
-  "specializations": [],
-  "status": "lead",
-  "tier": 3,
-  "title": "Motion Graphic Designer",
-  "tools": [],
-  "updated_at": null,
-  "url": "https://in.linkedin.com/jobs/view/motion-graphic-designer-at-adwintage-4479192989",
-  "why": [
-    "Location lists India"
-  ],
-  "work_mode": "onsite",
-  "years_min": null
+  "note": "Estimate — not employer-confirmed",
+  "state": "estimate",
+  "verified_at": "2026-10-18T15:28:43Z"
+ },
+ "scores": {
+  "ai": 30,
+  "comp": 22,
+  "company": 40,
+  "location": 88,
+  "seniority": 66,
+  "skill": 29
+ },
+ "seniority": "unspecified",
+ "snippet": "Adwintage hiring Motion Graphic Designer in India",
+ "source_primary": "LinkedIn Jobs (via search index)",
+ "sources": [
+  {
+   "id": "linkedin",
+   "job_id": "https://in.linkedin.com/jobs/view/motion-graphic-designer-at-adwintage-4479192989",
+   "kind": "search",
+   "name": "LinkedIn Jobs (via search index)",
+   "posted_at": "2026-10-15T00:00:00Z",
+   "seen_at": "2026-10-18T15:28:43Z",
+   "url": "https://in.linkedin.com/jobs/view/motion-graphic-designer-at-adwintage-4479192989"
+  }
+ ],
+ "specializations": [],
+ "status": "lead",
+ "tier": 3,
+ "title": "Motion Graphic Designer",
+ "tools": [],
+ "updated_at": null,
+ "url": "https://in.linkedin.com/jobs/view/motion-graphic-designer-at-adwintage-4479192989",
+ "why": [
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_min": null
 }

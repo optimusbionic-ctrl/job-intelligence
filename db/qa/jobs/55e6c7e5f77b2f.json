@@ -1,101 +1,101 @@
 {
-  "apply_url": null,
-  "board_apply": "https://himalayas.app/companies/ben-fatto/jobs/qa-automation-2410678248?utm_source=api",
-  "category": "Other",
-  "comp_potential": "unknown",
-  "company": "Ben Fatto",
-  "company_slug": "ben-fatto",
-  "concerns": [
-    "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
-    "Also asks for: API testing, SQL / databases, Programming",
-    "Pay not disclosed — ask for the range early"
-  ],
-  "contacts_count": 0,
-  "content_hash": "7428bc227520",
-  "date_quality": "exact",
-  "deadline": "2026-11-20T10:48:52Z",
-  "employment": "full-time",
-  "first_seen": "2026-10-19T13:24:59Z",
-  "fit": 67,
-  "has_hiring_manager": false,
-  "has_named_contact": false,
-  "has_public_email": false,
-  "id": "55e6c7e5f77b2f",
-  "include_reason": "Automation-heavy QA (SDET)",
-  "india": {
-    "cities": [],
-    "company": "likely",
-    "reason": "Worldwide remote",
-    "status": "likely",
-    "visa": false
-  },
-  "kind": "automation",
-  "last_verified": "2026-10-19T13:24:59Z",
-  "location": "Worldwide",
-  "logo": "https://cdn-images.himalayas.app/2vh53oxvoxvg29qayi7pknds91t6",
-  "needs_review": false,
-  "official": false,
-  "posted_at": "2026-09-21T10:48:53Z",
-  "repost": false,
-  "requirements": [
-    "At least 3 years of experience in the QA/testing area and at least 2 years of experience with automation.",
-    "Experience in test automation engineering with selenium test tools (preferable in C#), postman , cypress and jmeter. Experience testing cross-browser and cross-device web applications using automated testing tools.",
-    "Proficiency in developing, consuming and testing REST APIs, including documentation tools (Swagger/Postman). Proficiency in developing responsive first page/single page applications using javaScriptExperiences modular in test data persistence systems using SQL and NoSQL DBMS. [MSSQL, Post-Lasql, Dynamo].",
-    "Conversational English.",
-    "Experience in AngularApplication, Performance, Management Kibana, Power BI, Tableu, Qicksight QWS, Cloud development experience, Plus data, Machine Learning/Artificial Intelligence.",
-    "Knowledge in pipeline execution processes."
-  ],
-  "responsibilities": [],
-  "salary": {
-    "context_benchmark": "qa-dataset-remote",
-    "state": "unavailable"
-  },
-  "scores": {
-    "ai": 68,
-    "comp": 60,
-    "company": 66,
-    "location": 86,
-    "seniority": 94,
-    "skill": 43
-  },
-  "seniority": "unspecified",
-  "snippet": "Ben Fatto is looking for Senior QA who wants to work in international Scrum teams with a global leading-market software, in an environment of continuous professional development and teamworking.\n Requirements\n Minimum Requirements:\n\n• At least 3 years of experience in the QA/testing area and at least 2 years of experience with automation.\n\n• Experience in test automation engineering with selenium test tools (preferab",
-  "source_primary": "Himalayas",
-  "sources": [
-    {
-      "id": "himalayas",
-      "job_id": "https://himalayas.app/companies/ben-fatto/jobs/qa-automation-2410678248",
-      "kind": "board",
-      "name": "Himalayas",
-      "posted_at": "2026-09-21T10:48:53Z",
-      "seen_at": "2026-10-19T13:24:59Z",
-      "url": "https://himalayas.app/companies/ben-fatto/jobs/qa-automation-2410678248?utm_source=api"
-    }
-  ],
-  "specializations": [
-    "Web apps"
-  ],
-  "status": "active",
-  "tier": 3,
-  "title": "QA Automation",
-  "tools": [
-    "Compatibility testing",
-    "Stress / load testing",
-    "API testing",
-    "SQL / databases",
-    "Test automation",
-    "Programming",
-    "Agile / Scrum"
-  ],
-  "track": "software",
-  "updated_at": null,
-  "url": "https://himalayas.app/companies/ben-fatto/jobs/qa-automation-2410678248?utm_source=api",
-  "why": [
-    "Already on your resume: Compatibility testing, Stress / load testing",
-    "Asks for 3+ years — you have about 2.5",
-    "Worldwide remote"
-  ],
-  "work_mode": "remote",
-  "years_max": null,
-  "years_min": 3
+ "apply_url": null,
+ "board_apply": "https://himalayas.app/companies/ben-fatto/jobs/qa-automation-2410678248?utm_source=api",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "Ben Fatto",
+ "company_slug": "ben-fatto",
+ "concerns": [
+  "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
+  "Also asks for: API testing, SQL / databases, Programming",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "7428bc227520",
+ "date_quality": "exact",
+ "deadline": "2026-11-20T10:48:52Z",
+ "employment": "full-time",
+ "first_seen": "2026-10-19T13:24:59Z",
+ "fit": 67,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "55e6c7e5f77b2f",
+ "include_reason": "Automation-heavy QA (SDET)",
+ "india": {
+  "cities": [],
+  "company": "likely",
+  "reason": "Worldwide remote",
+  "status": "likely",
+  "visa": false
+ },
+ "kind": "automation",
+ "last_verified": "2026-10-19T13:24:59Z",
+ "location": "Worldwide",
+ "logo": "https://cdn-images.himalayas.app/2vh53oxvoxvg29qayi7pknds91t6",
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-09-21T10:48:53Z",
+ "repost": false,
+ "requirements": [
+  "At least 3 years of experience in the QA/testing area and at least 2 years of experience with automation.",
+  "Experience in test automation engineering with selenium test tools (preferable in C#), postman , cypress and jmeter. Experience testing cross-browser and cross-device web applications using automated testing tools.",
+  "Proficiency in developing, consuming and testing REST APIs, including documentation tools (Swagger/Postman). Proficiency in developing responsive first page/single page applications using javaScriptExperiences modular in test data persistence systems using SQL and NoSQL DBMS. [MSSQL, Post-Lasql, Dynamo].",
+  "Conversational English.",
+  "Experience in AngularApplication, Performance, Management Kibana, Power BI, Tableu, Qicksight QWS, Cloud development experience, Plus data, Machine Learning/Artificial Intelligence.",
+  "Knowledge in pipeline execution processes."
+ ],
+ "responsibilities": [],
+ "salary": {
+  "context_benchmark": "qa-dataset-remote",
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 68,
+  "comp": 60,
+  "company": 66,
+  "location": 86,
+  "seniority": 94,
+  "skill": 43
+ },
+ "seniority": "unspecified",
+ "snippet": "Ben Fatto is looking for Senior QA who wants to work in international Scrum teams with a global leading-market software, in an environment of continuous professional development and teamworking.\n Requirements\n Minimum Requirements:\n\n• At least 3 years of experience in the QA/testing area and at least 2 years of experience with automation.\n\n• Experience in test automation engineering with selenium test tools (preferab",
+ "source_primary": "Himalayas",
+ "sources": [
+  {
+   "id": "himalayas",
+   "job_id": "https://himalayas.app/companies/ben-fatto/jobs/qa-automation-2410678248",
+   "kind": "board",
+   "name": "Himalayas",
+   "posted_at": "2026-09-21T10:48:53Z",
+   "seen_at": "2026-10-19T13:24:59Z",
+   "url": "https://himalayas.app/companies/ben-fatto/jobs/qa-automation-2410678248?utm_source=api"
+  }
+ ],
+ "specializations": [
+  "Web apps"
+ ],
+ "status": "active",
+ "tier": 3,
+ "title": "QA Automation",
+ "tools": [
+  "Compatibility testing",
+  "Stress / load testing",
+  "API testing",
+  "SQL / databases",
+  "Test automation",
+  "Programming",
+  "Agile / Scrum"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://himalayas.app/companies/ben-fatto/jobs/qa-automation-2410678248?utm_source=api",
+ "why": [
+  "Already on your resume: Compatibility testing, Stress / load testing",
+  "Asks for 3+ years — you have about 2.5",
+  "Worldwide remote"
+ ],
+ "work_mode": "remote",
+ "years_max": null,
+ "years_min": 3
 }

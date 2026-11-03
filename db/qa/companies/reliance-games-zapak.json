@@ -1,0 +1,58 @@
+{
+ "category": "Game studio",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-28T03:44:48Z",
+  "evidence": [],
+  "first_checked_at": "2026-10-28T03:44:48Z",
+  "india_based": false,
+  "method": "Careers board, posting text, web search",
+  "sig": "54391d7cdf",
+  "summary": "No public evidence yet about hiring from India.",
+  "verdict": "unclear",
+  "web": {
+   "checked_at": "2026-10-28T04:44:00Z",
+   "query": "\"Reliance Games (Zapak)\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
+   "results": [
+    {
+     "description": "",
+     "title": "Careers- Junior Game Tester-Pune | Reliancegames.com",
+     "url": "https://www.reliancegames.com/careers/jr-game-tester-pune.html"
+    },
+    {
+     "description": "",
+     "title": "Careers- Intern HR-Pune | Reliancegames.com",
+     "url": "https://reliancegames.com/careers/intern-hr-pune.html"
+    },
+    {
+     "description": "",
+     "title": "Careers- Game Producer-Pune | Reliancegames.com",
+     "url": "https://www.reliancegames.com/careers/game-producer-pune_1.html"
+    },
+    {
+     "description": "",
+     "title": "Careers- Product Management Intern | Reliancegames.com",
+     "url": "https://www.reliancegames.com/careers/product-intern-pune.html"
+    },
+    {
+     "description": "",
+     "title": "associate game designer pune",
+     "url": "https://www.reliancegames.com/careers/associate-game-designer-pune.html"
+    },
+    {
+     "description": "",
+     "title": "Add office photos",
+     "url": "https://ambitionbox.com/overview/zapak-overview"
+    }
+   ]
+  }
+ },
+ "inferred": true,
+ "name": "Reliance Games/Zapak",
+ "slug": "reliance-games-zapak",
+ "tier": 1,
+ "tracks": [
+  "game"
+ ]
+}

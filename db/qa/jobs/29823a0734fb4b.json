@@ -1,0 +1,83 @@
+{
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/qa-testing/tekskills-inc/19920506",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "Tekskills Inc.",
+ "company_slug": "tekskills-inc",
+ "concerns": [
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "e59f87afda2b",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-10-28T13:46:20Z",
+ "fit": 70,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "29823a0734fb4b",
+ "include_reason": "QA / test engineer title",
+ "india": {
+  "cities": [
+   "Mumbai"
+  ],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "qa-engineer",
+ "last_verified": "2026-10-28T13:46:20Z",
+ "location": "Mumbai City, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-10-24T08:24:56Z",
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 60,
+  "company": 66,
+  "location": 100,
+  "seniority": 100,
+  "skill": 43
+ },
+ "seniority": "unspecified",
+ "snippet": "Experience: 1 to 5 Yrs\nSkills: QA Testing, test execution, debugging, VMware, Linux, virtualization concepts, Linux Shell, commandline tools\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "19920506",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-10-24T08:24:56Z",
+   "seen_at": "2026-10-28T13:46:20Z",
+   "url": "https://www.shine.com/jobs/qa-testing/tekskills-inc/19920506"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 3,
+ "title": "QA Testing",
+ "tools": [],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/qa-testing/tekskills-inc/19920506",
+ "why": [
+  "QA / test engineer role",
+  "Asks for 1–5 years — you have about 2.5",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": 5,
+ "years_min": 1
+}

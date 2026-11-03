@@ -1,101 +1,101 @@
 {
-  "apply_url": null,
-  "board_apply": "https://himalayas.app/companies/allshore-talent/jobs/qa-engineer-creative-automation-100-remote-latam-only?utm_source=api",
-  "category": "Other",
-  "comp_potential": "unknown",
-  "company": "Allshore Talent",
-  "company_slug": "allshore-talent",
-  "concerns": [
-    "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
-    "Pay not disclosed — ask for the range early"
-  ],
-  "contacts_count": 0,
-  "content_hash": "258d1ed2974d",
-  "date_quality": "exact",
-  "deadline": "2026-12-21T19:31:38Z",
-  "employment": "full-time",
-  "first_seen": "2026-10-22T21:44:47Z",
-  "fit": 67,
-  "has_hiring_manager": false,
-  "has_named_contact": false,
-  "has_public_email": false,
-  "id": "d26a97ba232487",
-  "include_reason": "Automation-heavy QA (SDET)",
-  "india": {
-    "cities": [],
-    "company": "likely",
-    "reason": "Worldwide remote",
-    "status": "likely",
-    "visa": false
-  },
-  "kind": "automation",
-  "last_verified": "2026-10-22T21:44:47Z",
-  "location": "Worldwide",
-  "logo": "https://cdn-images.himalayas.app/65ypwkvdtxdabxkk90yvvy1x916k",
-  "needs_review": false,
-  "official": false,
-  "posted_at": "2026-10-22T19:31:38Z",
-  "repost": false,
-  "requirements": [
-    "QA experience: Mid-to-senior QA engineering experience aligned with digital media workflow engineering, ad-tech production pipelines, creative automation, or cloud-native integration QA. Strong end-to-end troubleshooting, edge-case testing, state integrity, and data isolation skills.",
-    ": Strong practical knowledge of as an automated review and approval surface, including version stacking, Approved asset status hooks, share-link generation, and structural validation. Experience with API authentication nuances, including server-to-server (S2S) authentication and workarounds, custom headers, and rate-limiting behavior.",
-    "Adobe Photoshop and imaging APIs: Solid conceptual understanding of artboards, smart objects, layer hierarchies and masks, text layers, typography leading and sizing, and bounds calculation. Familiarity with Adobe Photoshop APIs and smart-object replacement mechanics. Ability to inspect and validate PSD/PSB, JPG, PNG, and GIF outputs, including raster and animated renditions as applicable.",
-    "AWS orchestration and observability: Comfort navigating SQS queues, DynamoDB locking and slot tracking, Step Functions / state machines, Lambda, and S3 asset storage and overwrite behavior. Ability to trace execution logs, correlation IDs, and failure payloads to distinguish upstream intake errors, service timeouts, and circuit breaker trip states.",
-    "Workflow reliability: Experience testing asynchronous and event-driven systems, webhook de-duplication, idempotency, concurrency, throttling, resilience, circuit breakers, layered caching and invalidation, and asset and folder synchronization edge cases.",
-    "Visual quality assurance: Understanding of bounding-box and focal-point detection, native cropping, Firefly Generative Expand, and mask boundaries. A keen eye for digital display production and design standards across multiple output formats and aspect ratios.",
-    "Jira Cloud: Deep comfort working with Epics, Stories, Bugs, acceptance criteria, and detailed, reproducible defect reports supported by assets and logs."
-  ],
-  "responsibilities": [
-    "Adobe Workflows, API Integration and Digital Media",
-    "The ideal candidate brings a methodical approach to tracing distributed workflows, finding edge cases, maintaining state integrity, and verifying data isolation, with a background in digital media workflow engineering, ad-tech production pipelines, creative automation, or cloud-native integration QA.",
-    "· Validate asynchronous, event-driven pipelines in which intake actions trigger background state machines and webhooks. Trace the complete flow from Airtable through AWS and Photoshop APIs to Frame.io.",
-    "· Verify idempotency, de-duplication, race-condition handling, and queue throttling, including duplicate Frame.io Approved webhooks.",
-    "· Test recovery from network interruptions, expired tokens, corrupt or oversized source media, missing manifest keys, and simulated API service limits. Verify circuit breaker thresholds, queue pausing, slot release, and manual or administrator recovery.",
-    "· Design deterministic cache lifecycle tests that distinguish reusable asset-level caches (Creative/DMC) from isolated template-level manifests. Confirm that template timestamp changes and asset re-uploads invalidate caches correctly and prevent stale file delivery.",
-    "· Reconcile assets, folders, and version stacks. Test URL-encoded filenames, duplicate same-name folder structures, version stack collisions, and protection of active in-progress uploads from deletion."
-  ],
-  "salary": {
-    "context_benchmark": "qa-dataset-remote",
-    "state": "unavailable"
-  },
-  "scores": {
-    "ai": 58,
-    "comp": 60,
-    "company": 66,
-    "location": 86,
-    "seniority": 84,
-    "skill": 53
-  },
-  "seniority": "unspecified",
-  "snippet": "About AllShore Talent\n AllShore Talent partners with growing organizations to build high-performing technology and consulting teams. We connect skilled professionals with meaningful, long-term engagements across web technologies, digital experience platforms, and enterprise software delivery — offering competitive compensation, flexible engagement models, and a collaborative, remote-friendly culture.\n About the Role\n",
-  "source_primary": "Himalayas",
-  "sources": [
-    {
-      "id": "himalayas",
-      "job_id": "https://himalayas.app/companies/allshore-talent/jobs/qa-engineer-creative-automation-100-remote-latam-only",
-      "kind": "board",
-      "name": "Himalayas",
-      "posted_at": "2026-10-22T19:31:38Z",
-      "seen_at": "2026-10-22T21:44:47Z",
-      "url": "https://himalayas.app/companies/allshore-talent/jobs/qa-engineer-creative-automation-100-remote-latam-only?utm_source=api"
-    }
-  ],
-  "specializations": [],
-  "status": "active",
-  "tier": 3,
-  "title": "QA Engineer – Creative Automation (100% Remote) (LATAM ONLY)",
-  "tools": [
-    "Bug reporting",
-    "Jira"
-  ],
-  "track": "software",
-  "updated_at": null,
-  "url": "https://himalayas.app/companies/allshore-talent/jobs/qa-engineer-creative-automation-100-remote-latam-only?utm_source=api",
-  "why": [
-    "Already on your resume: Bug reporting, Jira",
-    "Worldwide remote"
-  ],
-  "work_mode": "remote",
-  "years_max": null,
-  "years_min": null
+ "apply_url": null,
+ "board_apply": "https://himalayas.app/companies/allshore-talent/jobs/qa-engineer-creative-automation-100-remote-latam-only?utm_source=api",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "Allshore Talent",
+ "company_slug": "allshore-talent",
+ "concerns": [
+  "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "258d1ed2974d",
+ "date_quality": "exact",
+ "deadline": "2026-12-21T19:31:38Z",
+ "employment": "full-time",
+ "first_seen": "2026-10-22T21:44:47Z",
+ "fit": 67,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "d26a97ba232487",
+ "include_reason": "Automation-heavy QA (SDET)",
+ "india": {
+  "cities": [],
+  "company": "likely",
+  "reason": "Worldwide remote",
+  "status": "likely",
+  "visa": false
+ },
+ "kind": "automation",
+ "last_verified": "2026-10-22T21:44:47Z",
+ "location": "Worldwide",
+ "logo": "https://cdn-images.himalayas.app/65ypwkvdtxdabxkk90yvvy1x916k",
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-10-22T19:31:38Z",
+ "repost": false,
+ "requirements": [
+  "QA experience: Mid-to-senior QA engineering experience aligned with digital media workflow engineering, ad-tech production pipelines, creative automation, or cloud-native integration QA. Strong end-to-end troubleshooting, edge-case testing, state integrity, and data isolation skills.",
+  ": Strong practical knowledge of as an automated review and approval surface, including version stacking, Approved asset status hooks, share-link generation, and structural validation. Experience with API authentication nuances, including server-to-server (S2S) authentication and workarounds, custom headers, and rate-limiting behavior.",
+  "Adobe Photoshop and imaging APIs: Solid conceptual understanding of artboards, smart objects, layer hierarchies and masks, text layers, typography leading and sizing, and bounds calculation. Familiarity with Adobe Photoshop APIs and smart-object replacement mechanics. Ability to inspect and validate PSD/PSB, JPG, PNG, and GIF outputs, including raster and animated renditions as applicable.",
+  "AWS orchestration and observability: Comfort navigating SQS queues, DynamoDB locking and slot tracking, Step Functions / state machines, Lambda, and S3 asset storage and overwrite behavior. Ability to trace execution logs, correlation IDs, and failure payloads to distinguish upstream intake errors, service timeouts, and circuit breaker trip states.",
+  "Workflow reliability: Experience testing asynchronous and event-driven systems, webhook de-duplication, idempotency, concurrency, throttling, resilience, circuit breakers, layered caching and invalidation, and asset and folder synchronization edge cases.",
+  "Visual quality assurance: Understanding of bounding-box and focal-point detection, native cropping, Firefly Generative Expand, and mask boundaries. A keen eye for digital display production and design standards across multiple output formats and aspect ratios.",
+  "Jira Cloud: Deep comfort working with Epics, Stories, Bugs, acceptance criteria, and detailed, reproducible defect reports supported by assets and logs."
+ ],
+ "responsibilities": [
+  "Adobe Workflows, API Integration and Digital Media",
+  "The ideal candidate brings a methodical approach to tracing distributed workflows, finding edge cases, maintaining state integrity, and verifying data isolation, with a background in digital media workflow engineering, ad-tech production pipelines, creative automation, or cloud-native integration QA.",
+  "· Validate asynchronous, event-driven pipelines in which intake actions trigger background state machines and webhooks. Trace the complete flow from Airtable through AWS and Photoshop APIs to Frame.io.",
+  "· Verify idempotency, de-duplication, race-condition handling, and queue throttling, including duplicate Frame.io Approved webhooks.",
+  "· Test recovery from network interruptions, expired tokens, corrupt or oversized source media, missing manifest keys, and simulated API service limits. Verify circuit breaker thresholds, queue pausing, slot release, and manual or administrator recovery.",
+  "· Design deterministic cache lifecycle tests that distinguish reusable asset-level caches (Creative/DMC) from isolated template-level manifests. Confirm that template timestamp changes and asset re-uploads invalidate caches correctly and prevent stale file delivery.",
+  "· Reconcile assets, folders, and version stacks. Test URL-encoded filenames, duplicate same-name folder structures, version stack collisions, and protection of active in-progress uploads from deletion."
+ ],
+ "salary": {
+  "context_benchmark": "qa-dataset-remote",
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 60,
+  "company": 66,
+  "location": 86,
+  "seniority": 84,
+  "skill": 53
+ },
+ "seniority": "unspecified",
+ "snippet": "About AllShore Talent\n AllShore Talent partners with growing organizations to build high-performing technology and consulting teams. We connect skilled professionals with meaningful, long-term engagements across web technologies, digital experience platforms, and enterprise software delivery — offering competitive compensation, flexible engagement models, and a collaborative, remote-friendly culture.\n About the Role\n",
+ "source_primary": "Himalayas",
+ "sources": [
+  {
+   "id": "himalayas",
+   "job_id": "https://himalayas.app/companies/allshore-talent/jobs/qa-engineer-creative-automation-100-remote-latam-only",
+   "kind": "board",
+   "name": "Himalayas",
+   "posted_at": "2026-10-22T19:31:38Z",
+   "seen_at": "2026-10-22T21:44:47Z",
+   "url": "https://himalayas.app/companies/allshore-talent/jobs/qa-engineer-creative-automation-100-remote-latam-only?utm_source=api"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 3,
+ "title": "QA Engineer – Creative Automation (100% Remote) (LATAM ONLY)",
+ "tools": [
+  "Bug reporting",
+  "Jira"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://himalayas.app/companies/allshore-talent/jobs/qa-engineer-creative-automation-100-remote-latam-only?utm_source=api",
+ "why": [
+  "Already on your resume: Bug reporting, Jira",
+  "Worldwide remote"
+ ],
+ "work_mode": "remote",
+ "years_max": null,
+ "years_min": null
 }

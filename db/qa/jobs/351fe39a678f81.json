@@ -1,0 +1,91 @@
+{
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/automation-tester/excelon-solutions-private-limited/19925431",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "EXCELON SOLUTIONS PRIVATE LIMITED",
+ "company_slug": "excelon-solutions-private-limited",
+ "concerns": [
+  "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
+  "Also asks for: API testing",
+  "Office outside Mumbai — relocation within India",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "f5eb322f333f",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-10-28T11:44:36Z",
+ "fit": 68,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "351fe39a678f81",
+ "include_reason": "Automation-heavy QA (SDET)",
+ "india": {
+  "cities": [
+   "Pune"
+  ],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "automation",
+ "last_verified": "2026-10-28T11:44:36Z",
+ "location": "Pune, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-10-24T12:06:31Z",
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 60,
+  "company": 66,
+  "location": 78,
+  "seniority": 94,
+  "skill": 53
+ },
+ "seniority": "unspecified",
+ "snippet": "Experience: 3 Yrs\nSkills: selenium, functional testing, system testing, api testing, jira, manual testing, automation testing, playwright\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "19925431",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-10-24T12:06:31Z",
+   "seen_at": "2026-10-28T11:44:36Z",
+   "url": "https://www.shine.com/jobs/automation-tester/excelon-solutions-private-limited/19925431"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 3,
+ "title": "Automation Tester",
+ "tools": [
+  "Functional testing",
+  "Jira",
+  "API testing",
+  "Test automation"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/automation-tester/excelon-solutions-private-limited/19925431",
+ "why": [
+  "Already on your resume: Functional testing, Jira",
+  "Asks for 3+ years — you have about 2.5",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": null,
+ "years_min": 3
+}

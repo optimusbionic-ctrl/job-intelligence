@@ -1,0 +1,30 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-10-28T11:44:36Z",
+  "evidence": [
+   {
+    "detail": "Automation Tester — Pune, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/automation-tester/excelon-solutions-private-limited/19925431",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-10-28T11:44:36Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "bcb8929d77",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "EXCELON SOLUTIONS PRIVATE LIMITED",
+ "slug": "excelon-solutions-private-limited",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}

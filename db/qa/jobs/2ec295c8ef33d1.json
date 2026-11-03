@@ -1,84 +1,84 @@
 {
-  "apply_url": "https://apply.workable.com/keywords-intl1/jobs/view/9E7B5F0B6B",
-  "board_apply": null,
-  "category": "Game services / QA",
-  "comp_potential": "unknown",
-  "company": "Keywords Studios",
-  "company_slug": "keywords-studios",
-  "concerns": [
-    "Employer has not confirmed hiring from India",
-    "Entry-level role — pay may be at the lower end",
-    "Pay not disclosed — ask for the range early",
-    "Game services / QA company (client projects)",
-    "Full description not available from this source"
-  ],
-  "contacts_count": 1,
-  "content_hash": "00239a5183f0",
-  "date_quality": "unknown",
-  "deadline": null,
-  "employment": "full-time",
-  "first_seen": "2026-10-19T15:45:44Z",
-  "fit": 74,
-  "has_hiring_manager": false,
-  "has_named_contact": false,
-  "has_public_email": false,
-  "id": "2ec295c8ef33d1",
-  "include_reason": "Game tester title",
-  "india": {
-    "cities": [],
-    "company": "yes",
-    "reason": "Location not stated",
-    "status": "unconfirmed",
-    "visa": false
-  },
-  "kind": "game-tester",
-  "last_verified": "2026-10-24T12:44:19Z",
-  "location": "",
-  "logo": null,
-  "needs_review": false,
-  "official": true,
-  "posted_at": null,
-  "repost": false,
-  "requirements": [],
-  "responsibilities": [],
-  "salary": {
-    "state": "unavailable"
-  },
-  "scores": {
-    "ai": 55,
-    "comp": 60,
-    "company": 96,
-    "location": 36,
-    "seniority": 86,
-    "skill": 86
-  },
-  "seniority": "junior",
-  "snippet": "",
-  "source_primary": "Workable (via search index)",
-  "sources": [
-    {
-      "id": "workable",
-      "job_id": "https://apply.workable.com/keywords-intl1/jobs/view/9E7B5F0B6B",
-      "kind": "search",
-      "name": "Workable (via search index)",
-      "posted_at": null,
-      "seen_at": "2026-10-24T12:44:19Z",
-      "url": "https://apply.workable.com/keywords-intl1/jobs/view/9E7B5F0B6B"
-    }
-  ],
-  "specializations": [],
-  "status": "verified",
-  "tier": 2,
-  "title": "Game Tester - Fresher",
-  "tools": [],
-  "track": "game",
-  "updated_at": null,
-  "url": "https://apply.workable.com/keywords-intl1/jobs/view/9E7B5F0B6B",
-  "why": [
-    "Game tester role — matches your game QA work at Webmobril and Golden Horde",
-    "Keywords Studios already hires people in India"
-  ],
-  "work_mode": "unspecified",
-  "years_max": null,
-  "years_min": null
+ "apply_url": "https://apply.workable.com/keywords-intl1/jobs/view/9E7B5F0B6B.md",
+ "board_apply": null,
+ "category": "Game services / QA",
+ "comp_potential": "unknown",
+ "company": "Keywords Studios",
+ "company_slug": "keywords-studios",
+ "concerns": [
+  "Employer has not confirmed hiring from India",
+  "Entry-level role — pay may be at the lower end",
+  "Pay not disclosed — ask for the range early",
+  "Game services / QA company (client projects)",
+  "Full description not available from this source"
+ ],
+ "contacts_count": 1,
+ "content_hash": "6035e6fcbfc5",
+ "date_quality": "unknown",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-10-19T15:45:44Z",
+ "fit": 74,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "2ec295c8ef33d1",
+ "include_reason": "Game tester title",
+ "india": {
+  "cities": [],
+  "company": "yes",
+  "reason": "Location not stated",
+  "status": "unconfirmed",
+  "visa": false
+ },
+ "kind": "game-tester",
+ "last_verified": "2026-10-30T00:44:29Z",
+ "location": "",
+ "logo": null,
+ "needs_review": false,
+ "official": true,
+ "posted_at": null,
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 55,
+  "comp": 60,
+  "company": 96,
+  "location": 36,
+  "seniority": 86,
+  "skill": 86
+ },
+ "seniority": "junior",
+ "snippet": "",
+ "source_primary": "Workable (via search index)",
+ "sources": [
+  {
+   "id": "workable",
+   "job_id": "https://apply.workable.com/keywords-intl1/jobs/view/9E7B5F0B6B.md",
+   "kind": "search",
+   "name": "Workable (via search index)",
+   "posted_at": null,
+   "seen_at": "2026-10-30T00:44:29Z",
+   "url": "https://apply.workable.com/keywords-intl1/jobs/view/9E7B5F0B6B.md"
+  }
+ ],
+ "specializations": [],
+ "status": "verified",
+ "tier": 2,
+ "title": "Game Tester - Fresher",
+ "tools": [],
+ "track": "game",
+ "updated_at": null,
+ "url": "https://apply.workable.com/keywords-intl1/jobs/view/9E7B5F0B6B.md",
+ "why": [
+  "Game tester role — matches your game QA work at Webmobril and Golden Horde",
+  "Keywords Studios already hires people in India"
+ ],
+ "work_mode": "unspecified",
+ "years_max": null,
+ "years_min": null
 }

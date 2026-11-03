@@ -1,0 +1,14 @@
+{
+ "slug": "paytm",
+ "name": "Paytm",
+ "min": 40000,
+ "max": null,
+ "employees": 40000,
+ "range": null,
+ "basis": "company headcount (news)",
+ "source_name": "Business Standard",
+ "source_url": "https://www.business-standard.com/companies/news/paytm-plans-to-hire-4-000-employees-amid-ai-expansion-with-some-roles-cut-126060900260_1.html",
+ "quote": "The increase would mark a roughly 10 per cent increase in its headcount, which stands at about 40,000 employees.",
+ "checked_at": "2026-10-27T00:00:00Z",
+ "found_via": "web research (search index)"
+}

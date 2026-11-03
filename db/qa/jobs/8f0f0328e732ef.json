@@ -1,81 +1,81 @@
 {
-  "apply_url": null,
-  "board_apply": "https://jobs.weekday.works/game-tester-at-kombat-india-4417546564",
-  "category": "Other",
-  "comp_potential": "unknown",
-  "company": "Kombat India",
-  "company_slug": "kombat-india",
-  "concerns": [
-    "Employer has not confirmed hiring from India",
-    "Pay not disclosed — ask for the range early",
-    "Full description not available from this source"
-  ],
-  "contacts_count": 0,
-  "content_hash": "4e46cf1f1f4c",
-  "date_quality": "unknown",
-  "deadline": null,
-  "employment": "full-time",
-  "first_seen": "2026-10-19T15:45:44Z",
-  "fit": 69,
-  "has_hiring_manager": false,
-  "has_named_contact": false,
-  "has_public_email": false,
-  "id": "8f0f0328e732ef",
-  "include_reason": "Game tester title",
-  "india": {
-    "cities": [],
-    "company": "unclear",
-    "reason": "Location not stated",
-    "status": "unconfirmed",
-    "visa": false
-  },
-  "kind": "game-tester",
-  "last_verified": "2026-10-22T21:44:47Z",
-  "location": "",
-  "logo": null,
-  "needs_review": false,
-  "official": false,
-  "posted_at": null,
-  "repost": false,
-  "requirements": [],
-  "responsibilities": [],
-  "salary": {
-    "state": "unavailable"
-  },
-  "scores": {
-    "ai": 55,
-    "comp": 60,
-    "company": 66,
-    "location": 36,
-    "seniority": 84,
-    "skill": 86
-  },
-  "seniority": "unspecified",
-  "snippet": "",
-  "source_primary": "Weekday (via search index)",
-  "sources": [
-    {
-      "id": "web",
-      "job_id": "https://jobs.weekday.works/game-tester-at-kombat-india-4417546564",
-      "kind": "search",
-      "name": "Weekday (via search index)",
-      "posted_at": null,
-      "seen_at": "2026-10-22T21:44:47Z",
-      "url": "https://jobs.weekday.works/game-tester-at-kombat-india-4417546564"
-    }
-  ],
-  "specializations": [],
-  "status": "lead",
-  "tier": 3,
-  "title": "Game Tester",
-  "tools": [],
-  "track": "game",
-  "updated_at": null,
-  "url": "https://jobs.weekday.works/game-tester-at-kombat-india-4417546564",
-  "why": [
-    "Game tester role — matches your game QA work at Webmobril and Golden Horde"
-  ],
-  "work_mode": "unspecified",
-  "years_max": null,
-  "years_min": null
+ "apply_url": null,
+ "board_apply": "https://jobs.weekday.works/game-tester-at-kombat-india-4417546564",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "Kombat India",
+ "company_slug": "kombat-india",
+ "concerns": [
+  "Employer has not confirmed hiring from India",
+  "Pay not disclosed — ask for the range early",
+  "Full description not available from this source"
+ ],
+ "contacts_count": 0,
+ "content_hash": "4e46cf1f1f4c",
+ "date_quality": "unknown",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-10-19T15:45:44Z",
+ "fit": 69,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "8f0f0328e732ef",
+ "include_reason": "Game tester title",
+ "india": {
+  "cities": [],
+  "company": "unclear",
+  "reason": "Location not stated",
+  "status": "unconfirmed",
+  "visa": false
+ },
+ "kind": "game-tester",
+ "last_verified": "2026-10-29T15:47:15Z",
+ "location": "",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": null,
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 55,
+  "comp": 60,
+  "company": 66,
+  "location": 36,
+  "seniority": 84,
+  "skill": 86
+ },
+ "seniority": "unspecified",
+ "snippet": "",
+ "source_primary": "Weekday (via search index)",
+ "sources": [
+  {
+   "id": "web",
+   "job_id": "https://jobs.weekday.works/game-tester-at-kombat-india-4417546564",
+   "kind": "search",
+   "name": "Weekday (via search index)",
+   "posted_at": null,
+   "seen_at": "2026-10-29T15:47:15Z",
+   "url": "https://jobs.weekday.works/game-tester-at-kombat-india-4417546564"
+  }
+ ],
+ "specializations": [],
+ "status": "lead",
+ "tier": 3,
+ "title": "Game Tester",
+ "tools": [],
+ "track": "game",
+ "updated_at": null,
+ "url": "https://jobs.weekday.works/game-tester-at-kombat-india-4417546564",
+ "why": [
+  "Game tester role — matches your game QA work at Webmobril and Golden Horde"
+ ],
+ "work_mode": "unspecified",
+ "years_max": null,
+ "years_min": null
 }

@@ -1,0 +1,57 @@
+{
+ "ats": {
+  "slug": "praxis",
+  "type": "greenhouse"
+ },
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": {
+   "apac": 0,
+   "countries": [
+    "United States"
+   ],
+   "india": 0,
+   "india_samples": [],
+   "open_samples": [],
+   "remote": 0,
+   "restricted_remote": 0,
+   "restricted_samples": [],
+   "slug": "praxis",
+   "total": 10,
+   "type": "greenhouse",
+   "url": "https://boards.greenhouse.io/praxis",
+   "worldwide": 0
+  },
+  "changed_at": "2026-10-28T21:44:28Z",
+  "evidence": [
+   {
+    "detail": "Manual Tester - 3 years experience - 150 Rupees per Hour — All India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/manual-tester-3-years-experience-rupees-per-hour/praxis-inc/19555399",
+    "weight": 5
+   },
+   {
+    "detail": "None are located in India or open worldwide",
+    "kind": "board",
+    "label": "All 10 open roles are in United States",
+    "url": "https://boards.greenhouse.io/praxis",
+    "weight": -3
+   }
+  ],
+  "first_checked_at": "2026-10-28T10:45:08Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "b6dc96a568",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Praxis Inc.",
+ "slug": "praxis-inc",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}

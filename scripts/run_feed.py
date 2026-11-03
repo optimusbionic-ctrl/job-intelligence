@@ -42,6 +42,13 @@ def run_feed(app, db, work):
     cmd = [sys.executable, os.path.join(feed, "pipeline.py"), "--out", out, "--existing", db,
            "--companies", os.path.join(feed, "companies.json"),
            "--benchmarks", os.path.join(feed, "benchmarks.json")]
+    leads = os.path.join(work, "leads.json")
+    try:  # extra sources: Claude's saved finds (inbox/), The Muse, and Adzuna / Jooble / Tavily when their free keys are set
+        subprocess.run([sys.executable, os.path.join(ROOT, "scripts", "extra_sources.py"), app, leads,
+                        os.path.join(ROOT, "export", f"{app}_leads.json")], check=True, timeout=12 * 60)
+        cmd += ["--leads", leads]
+    except Exception as e:
+        log(f"extra sources skipped: {e!r}")
     log("pipeline:", app)
     subprocess.run(cmd, check=True, timeout=40 * 60)
     log("sync:", app)

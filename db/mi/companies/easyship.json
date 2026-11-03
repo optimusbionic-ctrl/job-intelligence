@@ -1,72 +1,72 @@
 {
-  "ats": {
-    "slug": "easyship",
-    "type": "greenhouse"
-  },
-  "category": "Other",
-  "classification": "Inferred from job description",
-  "india_hiring": {
-    "board": {
-      "apac": 0,
-      "countries": [
-        "India",
-        "United Kingdom",
-        "Canada",
-        "Italy",
-        "United States"
-      ],
-      "india": 7,
-      "india_samples": [
-        {
-          "location": "Bangalore, India",
-          "title": "Account Executive ",
-          "url": "https://boards.greenhouse.io/easyship/jobs/4688260006?gh_jid=4688260006"
-        },
-        {
-          "location": "Bengaluru, Karnataka, India",
-          "title": "Customer Success Manager - Growth",
-          "url": "https://boards.greenhouse.io/easyship/jobs/4723283006?gh_jid=4723283006"
-        },
-        {
-          "location": "Bangalore",
-          "title": "Pricing Analyst",
-          "url": "https://boards.greenhouse.io/easyship/jobs/4722937006?gh_jid=4722937006"
-        },
-        {
-          "location": "Bangalore",
-          "title": "Senior Customer Success Manager",
-          "url": "https://boards.greenhouse.io/easyship/jobs/4721420006?gh_jid=4721420006"
-        }
-      ],
-      "open_samples": [],
-      "remote": 3,
-      "restricted_remote": 0,
-      "restricted_samples": [],
-      "slug": "easyship",
-      "total": 19,
-      "type": "greenhouse",
-      "url": "https://boards.greenhouse.io/easyship",
-      "worldwide": 0
-    },
-    "changed_at": "2026-10-27T10:26:45Z",
-    "evidence": [
-      {
-        "detail": "Account Executive  (Bangalore, India); Customer Success Manager - Growth (Bengaluru, Karnataka, India); Pricing Analyst (Bangalore)",
-        "kind": "board",
-        "label": "7 of 19 open roles are located in India",
-        "url": "https://boards.greenhouse.io/easyship",
-        "weight": 5
-      }
-    ],
-    "first_checked_at": "2026-10-18T18:27:42Z",
-    "india_based": false,
-    "method": "Careers board, posting text",
-    "sig": "20c0ce6dd4",
-    "summary": "7 of 19 open roles are located in India.",
-    "verdict": "yes"
-  },
-  "inferred": true,
-  "name": "Easyship",
+ "ats": {
   "slug": "easyship",
-  "tier": 3
+  "type": "greenhouse"
+ },
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": {
+   "apac": 0,
+   "countries": [
+    "India",
+    "United Kingdom",
+    "Canada",
+    "Italy",
+    "United States"
+   ],
+   "india": 7,
+   "india_samples": [
+    {
+     "location": "Bangalore, India",
+     "title": "Account Executive ",
+     "url": "https://boards.greenhouse.io/easyship/jobs/4688260006?gh_jid=4688260006"
+    },
+    {
+     "location": "Bengaluru, Karnataka, India",
+     "title": "Customer Success Manager - Growth",
+     "url": "https://boards.greenhouse.io/easyship/jobs/4723283006?gh_jid=4723283006"
+    },
+    {
+     "location": "Bangalore",
+     "title": "Pricing Analyst",
+     "url": "https://boards.greenhouse.io/easyship/jobs/4722937006?gh_jid=4722937006"
+    },
+    {
+     "location": "Bangalore",
+     "title": "Senior Customer Success Manager",
+     "url": "https://boards.greenhouse.io/easyship/jobs/4721420006?gh_jid=4721420006"
+    }
+   ],
+   "open_samples": [],
+   "remote": 3,
+   "restricted_remote": 0,
+   "restricted_samples": [],
+   "slug": "easyship",
+   "total": 19,
+   "type": "greenhouse",
+   "url": "https://boards.greenhouse.io/easyship",
+   "worldwide": 0
+  },
+  "changed_at": "2026-10-27T10:26:45Z",
+  "evidence": [
+   {
+    "detail": "Account Executive  (Bangalore, India); Customer Success Manager - Growth (Bengaluru, Karnataka, India); Pricing Analyst (Bangalore)",
+    "kind": "board",
+    "label": "7 of 19 open roles are located in India",
+    "url": "https://boards.greenhouse.io/easyship",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-10-18T18:27:42Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "20c0ce6dd4",
+  "summary": "7 of 19 open roles are located in India.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Easyship",
+ "slug": "easyship",
+ "tier": 3
 }

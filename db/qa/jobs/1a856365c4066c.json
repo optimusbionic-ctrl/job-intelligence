@@ -1,100 +1,100 @@
 {
-  "apply_url": null,
-  "board_apply": "https://himalayas.app/companies/binary-stream/jobs/quality-assurance-analyst?utm_source=api",
-  "category": "Other",
-  "comp_potential": "unknown",
-  "company": "Binary Stream",
-  "company_slug": "binary-stream",
-  "concerns": [
-    "Mentions test automation — be ready to discuss it or show a small script",
-    "Also asks for: API testing, SQL / databases",
-    "Pay not disclosed — ask for the range early",
-    "Reposted / refreshed listing — original posting is older"
-  ],
-  "contacts_count": 0,
-  "content_hash": "d55448774cba",
-  "date_quality": "exact",
-  "deadline": "2026-12-22T06:50:58Z",
-  "employment": "full-time",
-  "first_seen": "2026-10-20T23:43:22Z",
-  "fit": 80,
-  "has_hiring_manager": false,
-  "has_named_contact": false,
-  "has_public_email": false,
-  "id": "1a856365c4066c",
-  "include_reason": "Manual / functional QA title",
-  "india": {
-    "cities": [],
-    "company": "yes",
-    "reason": "Location lists India",
-    "status": "confirmed",
-    "visa": false
-  },
-  "kind": "manual-qa",
-  "last_verified": "2026-10-23T07:43:52Z",
-  "location": "India",
-  "logo": null,
-  "needs_review": false,
-  "official": false,
-  "posted_at": "2026-10-23T06:50:58Z",
-  "repost": true,
-  "requirements": [
-    "2–4 years of software testing/QA experience",
-    "Strong understanding of QA methodologies and SDLC/STLC",
-    "Experience with manual testing and defect management tools"
-  ],
-  "responsibilities": [
-    "We are looking for a detail-oriented QA Analyst to join our growing team. The ideal candidate will have experience in manual testing, defect tracking, SQL validation, and working within Agile environments. You will collaborate closely with developers and product teams to ensure high-quality software delivery."
-  ],
-  "salary": {
-    "state": "unavailable"
-  },
-  "scores": {
-    "ai": 58,
-    "comp": 60,
-    "company": 66,
-    "location": 100,
-    "seniority": 100,
-    "skill": 78
-  },
-  "seniority": "unspecified",
-  "snippet": "Binary Stream is a global Microsoft Gold-Certified ISV specialising in cloud-based ERP and financial solutions built on Microsoft Dynamics. Our products help organisations simplify complex accounting and operational processes while scaling efficiently.\n Experience: 2–4 Years\n Location: Chandigarh (Currently Remote)\n Role Overview\n We are looking for a detail-oriented QA Analyst to join our growing team. The ideal can",
-  "source_primary": "Himalayas",
-  "sources": [
-    {
-      "id": "himalayas",
-      "job_id": "https://himalayas.app/companies/binary-stream/jobs/quality-assurance-analyst",
-      "kind": "board",
-      "name": "Himalayas",
-      "posted_at": "2026-10-23T06:50:58Z",
-      "seen_at": "2026-10-23T07:43:52Z",
-      "url": "https://himalayas.app/companies/binary-stream/jobs/quality-assurance-analyst?utm_source=api"
-    }
-  ],
-  "specializations": [],
-  "status": "active",
-  "tier": 3,
-  "title": "Quality Assurance Analyst",
-  "tools": [
-    "Regression testing",
-    "Usability testing",
-    "Test cases & scenarios",
-    "Bug reporting",
-    "API testing",
-    "SQL / databases",
-    "Test automation",
-    "Agile / Scrum"
-  ],
-  "track": "software",
-  "updated_at": null,
-  "url": "https://himalayas.app/companies/binary-stream/jobs/quality-assurance-analyst?utm_source=api",
-  "why": [
-    "Manual / functional QA — the core of your resume",
-    "Already on your resume: Regression testing, Usability testing, Test cases & scenarios, Bug reporting",
-    "Asks for 2–4 years — you have about 2.5",
-    "Location lists India"
-  ],
-  "work_mode": "remote",
-  "years_max": 4,
-  "years_min": 2
+ "apply_url": null,
+ "board_apply": "https://himalayas.app/companies/binary-stream/jobs/quality-assurance-analyst?utm_source=api",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "Binary Stream",
+ "company_slug": "binary-stream",
+ "concerns": [
+  "Mentions test automation — be ready to discuss it or show a small script",
+  "Also asks for: API testing, SQL / databases",
+  "Pay not disclosed — ask for the range early",
+  "Reposted / refreshed listing — original posting is older"
+ ],
+ "contacts_count": 0,
+ "content_hash": "d55448774cba",
+ "date_quality": "exact",
+ "deadline": "2026-12-22T06:50:58Z",
+ "employment": "full-time",
+ "first_seen": "2026-10-20T23:43:22Z",
+ "fit": 80,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "1a856365c4066c",
+ "include_reason": "Manual / functional QA title",
+ "india": {
+  "cities": [],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "manual-qa",
+ "last_verified": "2026-10-23T07:43:52Z",
+ "location": "India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-10-23T06:50:58Z",
+ "repost": true,
+ "requirements": [
+  "2–4 years of software testing/QA experience",
+  "Strong understanding of QA methodologies and SDLC/STLC",
+  "Experience with manual testing and defect management tools"
+ ],
+ "responsibilities": [
+  "We are looking for a detail-oriented QA Analyst to join our growing team. The ideal candidate will have experience in manual testing, defect tracking, SQL validation, and working within Agile environments. You will collaborate closely with developers and product teams to ensure high-quality software delivery."
+ ],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 60,
+  "company": 66,
+  "location": 100,
+  "seniority": 100,
+  "skill": 78
+ },
+ "seniority": "unspecified",
+ "snippet": "Binary Stream is a global Microsoft Gold-Certified ISV specialising in cloud-based ERP and financial solutions built on Microsoft Dynamics. Our products help organisations simplify complex accounting and operational processes while scaling efficiently.\n Experience: 2–4 Years\n Location: Chandigarh (Currently Remote)\n Role Overview\n We are looking for a detail-oriented QA Analyst to join our growing team. The ideal can",
+ "source_primary": "Himalayas",
+ "sources": [
+  {
+   "id": "himalayas",
+   "job_id": "https://himalayas.app/companies/binary-stream/jobs/quality-assurance-analyst",
+   "kind": "board",
+   "name": "Himalayas",
+   "posted_at": "2026-10-23T06:50:58Z",
+   "seen_at": "2026-10-23T07:43:52Z",
+   "url": "https://himalayas.app/companies/binary-stream/jobs/quality-assurance-analyst?utm_source=api"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 3,
+ "title": "Quality Assurance Analyst",
+ "tools": [
+  "Regression testing",
+  "Usability testing",
+  "Test cases & scenarios",
+  "Bug reporting",
+  "API testing",
+  "SQL / databases",
+  "Test automation",
+  "Agile / Scrum"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://himalayas.app/companies/binary-stream/jobs/quality-assurance-analyst?utm_source=api",
+ "why": [
+  "Manual / functional QA — the core of your resume",
+  "Already on your resume: Regression testing, Usability testing, Test cases & scenarios, Bug reporting",
+  "Asks for 2–4 years — you have about 2.5",
+  "Location lists India"
+ ],
+ "work_mode": "remote",
+ "years_max": 4,
+ "years_min": 2
 }

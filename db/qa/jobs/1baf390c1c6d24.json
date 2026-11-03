@@ -1,89 +1,89 @@
 {
-  "apply_url": null,
-  "board_apply": "https://www.shine.com/jobs/quality-assurance-specialist/adweb-technologies-private-limited/19786744",
-  "category": "Other",
-  "comp_potential": "unknown",
-  "company": "ADWEB TECHNOLOGIES PRIVATE LIMITED",
-  "company_slug": "adweb-technologies-private-limited",
-  "concerns": [
-    "Pay not disclosed — ask for the range early"
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/quality-assurance-specialist/adweb-technologies-private-limited/19786744",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "ADWEB TECHNOLOGIES PRIVATE LIMITED",
+ "company_slug": "adweb-technologies-private-limited",
+ "concerns": [
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "0027ce1ae3ca",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-10-20T13:44:34Z",
+ "fit": 80,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "1baf390c1c6d24",
+ "include_reason": "QA / test engineer title",
+ "india": {
+  "cities": [
+   "Mumbai"
   ],
-  "contacts_count": 0,
-  "content_hash": "0027ce1ae3ca",
-  "date_quality": "exact",
-  "deadline": null,
-  "employment": "full-time",
-  "first_seen": "2026-10-20T13:44:34Z",
-  "fit": 80,
-  "has_hiring_manager": false,
-  "has_named_contact": false,
-  "has_public_email": false,
-  "id": "1baf390c1c6d24",
-  "include_reason": "QA / test engineer title",
-  "india": {
-    "cities": [
-      "Mumbai"
-    ],
-    "company": "yes",
-    "reason": "Location lists India",
-    "status": "confirmed",
-    "visa": false
-  },
-  "kind": "qa-engineer",
-  "last_verified": "2026-10-20T13:44:34Z",
-  "location": "Mumbai City, India",
-  "logo": null,
-  "needs_review": false,
-  "official": false,
-  "posted_at": "2026-10-12T16:24:20Z",
-  "repost": false,
-  "requirements": [],
-  "responsibilities": [],
-  "salary": {
-    "state": "unavailable"
-  },
-  "scores": {
-    "ai": 74,
-    "comp": 60,
-    "company": 66,
-    "location": 100,
-    "seniority": 100,
-    "skill": 72
-  },
-  "seniority": "unspecified",
-  "snippet": "Experience: 2 to 6 Yrs\nSkills: bug life cycle, software testing, security testing, mobile testing, qa analyst, qa engineer, manual tester, software tester, sdk testing, automation tester\n(Summary from the Shine.com listing; open the posting for the full description.)",
-  "source_primary": "Shine.com",
-  "sources": [
-    {
-      "id": "shine",
-      "job_id": "19786744",
-      "kind": "board",
-      "name": "Shine.com",
-      "posted_at": "2026-10-12T16:24:20Z",
-      "seen_at": "2026-10-20T13:44:34Z",
-      "url": "https://www.shine.com/jobs/quality-assurance-specialist/adweb-technologies-private-limited/19786744"
-    }
-  ],
-  "specializations": [
-    "Mobile apps"
-  ],
-  "status": "active",
-  "tier": 3,
-  "title": "Quality Assurance Specialist",
-  "tools": [
-    "Bug reporting"
-  ],
-  "track": "software",
-  "updated_at": null,
-  "url": "https://www.shine.com/jobs/quality-assurance-specialist/adweb-technologies-private-limited/19786744",
-  "why": [
-    "QA / test engineer role",
-    "Already on your resume: Bug reporting",
-    "Platforms you test on: Mobile apps",
-    "Asks for 2–6 years — you have about 2.5",
-    "Location lists India"
-  ],
-  "work_mode": "onsite",
-  "years_max": 6,
-  "years_min": 2
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "qa-engineer",
+ "last_verified": "2026-10-20T13:44:34Z",
+ "location": "Mumbai City, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-10-12T16:24:20Z",
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 74,
+  "comp": 60,
+  "company": 66,
+  "location": 100,
+  "seniority": 100,
+  "skill": 72
+ },
+ "seniority": "unspecified",
+ "snippet": "Experience: 2 to 6 Yrs\nSkills: bug life cycle, software testing, security testing, mobile testing, qa analyst, qa engineer, manual tester, software tester, sdk testing, automation tester\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "19786744",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-10-12T16:24:20Z",
+   "seen_at": "2026-10-20T13:44:34Z",
+   "url": "https://www.shine.com/jobs/quality-assurance-specialist/adweb-technologies-private-limited/19786744"
+  }
+ ],
+ "specializations": [
+  "Mobile apps"
+ ],
+ "status": "active",
+ "tier": 3,
+ "title": "Quality Assurance Specialist",
+ "tools": [
+  "Bug reporting"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/quality-assurance-specialist/adweb-technologies-private-limited/19786744",
+ "why": [
+  "QA / test engineer role",
+  "Already on your resume: Bug reporting",
+  "Platforms you test on: Mobile apps",
+  "Asks for 2–6 years — you have about 2.5",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": 6,
+ "years_min": 2
 }

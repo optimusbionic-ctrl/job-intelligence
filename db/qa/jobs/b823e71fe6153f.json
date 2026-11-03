@@ -1,88 +1,88 @@
 {
-  "apply_url": null,
-  "board_apply": "https://www.shine.com/jobs/manual-and-automation-test-engineer-goregaon/skil-travel/19839866",
-  "category": "Other",
-  "comp_potential": "unknown",
-  "company": "SKIL Travel",
-  "company_slug": "skil-travel",
-  "concerns": [
-    "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
-    "Also asks for: API testing",
-    "Pay not disclosed — ask for the range early"
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/manual-and-automation-test-engineer-goregaon/skil-travel/19839866",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "SKIL Travel",
+ "company_slug": "skil-travel",
+ "concerns": [
+  "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
+  "Also asks for: API testing",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "abd03d3d343f",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-10-23T14:44:10Z",
+ "fit": 63,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "b823e71fe6153f",
+ "include_reason": "Automation-heavy QA (SDET)",
+ "india": {
+  "cities": [
+   "Mumbai"
   ],
-  "contacts_count": 0,
-  "content_hash": "abd03d3d343f",
-  "date_quality": "exact",
-  "deadline": null,
-  "employment": "full-time",
-  "first_seen": "2026-10-23T14:44:10Z",
-  "fit": 63,
-  "has_hiring_manager": false,
-  "has_named_contact": false,
-  "has_public_email": false,
-  "id": "b823e71fe6153f",
-  "include_reason": "Automation-heavy QA (SDET)",
-  "india": {
-    "cities": [
-      "Mumbai"
-    ],
-    "company": "yes",
-    "reason": "Location lists India",
-    "status": "confirmed",
-    "visa": false
-  },
-  "kind": "automation",
-  "last_verified": "2026-10-23T14:44:10Z",
-  "location": "Mumbai City, India",
-  "logo": null,
-  "needs_review": false,
-  "official": false,
-  "posted_at": "2026-10-17T10:49:09Z",
-  "repost": false,
-  "requirements": [
-    "(Summary from the Shine.com listing; open the posting for the full description.)"
-  ],
-  "responsibilities": [],
-  "salary": {
-    "state": "unavailable"
-  },
-  "scores": {
-    "ai": 58,
-    "comp": 60,
-    "company": 66,
-    "location": 100,
-    "seniority": 94,
-    "skill": 24
-  },
-  "seniority": "unspecified",
-  "snippet": "Experience: 3 to 7 Yrs\nSkills: Automation Testing, API Testing, Documentation, Reporting\n(Summary from the Shine.com listing; open the posting for the full description.)",
-  "source_primary": "Shine.com",
-  "sources": [
-    {
-      "id": "shine",
-      "job_id": "19839866",
-      "kind": "board",
-      "name": "Shine.com",
-      "posted_at": "2026-10-17T10:49:09Z",
-      "seen_at": "2026-10-23T14:44:10Z",
-      "url": "https://www.shine.com/jobs/manual-and-automation-test-engineer-goregaon/skil-travel/19839866"
-    }
-  ],
-  "specializations": [],
-  "status": "active",
-  "tier": 3,
-  "title": "Manual and Automation Test Engineer (Goregaon)",
-  "tools": [
-    "API testing"
-  ],
-  "track": "software",
-  "updated_at": null,
-  "url": "https://www.shine.com/jobs/manual-and-automation-test-engineer-goregaon/skil-travel/19839866",
-  "why": [
-    "Asks for 3+ years — you have about 2.5",
-    "Location lists India"
-  ],
-  "work_mode": "onsite",
-  "years_max": 7,
-  "years_min": 3
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "automation",
+ "last_verified": "2026-10-23T14:44:10Z",
+ "location": "Mumbai City, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-10-17T10:49:09Z",
+ "repost": false,
+ "requirements": [
+  "(Summary from the Shine.com listing; open the posting for the full description.)"
+ ],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 60,
+  "company": 66,
+  "location": 100,
+  "seniority": 94,
+  "skill": 24
+ },
+ "seniority": "unspecified",
+ "snippet": "Experience: 3 to 7 Yrs\nSkills: Automation Testing, API Testing, Documentation, Reporting\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "19839866",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-10-17T10:49:09Z",
+   "seen_at": "2026-10-23T14:44:10Z",
+   "url": "https://www.shine.com/jobs/manual-and-automation-test-engineer-goregaon/skil-travel/19839866"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 3,
+ "title": "Manual and Automation Test Engineer (Goregaon)",
+ "tools": [
+  "API testing"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/manual-and-automation-test-engineer-goregaon/skil-travel/19839866",
+ "why": [
+  "Asks for 3+ years — you have about 2.5",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": 7,
+ "years_min": 3
 }
