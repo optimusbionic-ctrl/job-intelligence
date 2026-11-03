@@ -1,0 +1,30 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-03T21:50:10Z",
+  "evidence": [
+   {
+    "detail": "QA Manual Tester — Indore, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://cutshort.io/job/QA-Manual-Tester-Indore-Cyber-Infrastructure-tfFJxGW8",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-03T21:50:10Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "6672704a83",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Cyber Infrastructure",
+ "slug": "cyber-infrastructure",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-03T21:50:10Z",
+  "evidence": [
+   {
+    "detail": "QA Engineer(Manual+Playwright) — Pune, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://cutshort.io/job/QA-Engineer-Manual-Playwright-Pune-NonStop-io-Technologies-Pvt-Ltd-6rS1jgsU",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-03T21:50:10Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "9be50d93b4",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "NonStop io Technologies Pvt Ltd",
+ "slug": "nonstop-io-technologies-pvt-ltd",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}

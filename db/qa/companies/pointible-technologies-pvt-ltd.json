@@ -1,0 +1,30 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-03T21:50:10Z",
+  "evidence": [
+   {
+    "detail": "Software QA Tester-Web Application and WhatsApp Integration (Remote) — India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://cutshort.io/job/Software-QA-Tester-Web-Application-and-WhatsApp-Integration-Pointible-Technologies-Pvt-Ltd-JqyYNSU5",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-03T21:50:10Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "babad8e3cf",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Pointible Technologies Pvt Ltd",
+ "slug": "pointible-technologies-pvt-ltd",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}

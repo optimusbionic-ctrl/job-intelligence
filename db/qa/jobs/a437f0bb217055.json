@@ -1,0 +1,124 @@
+{
+ "apply_url": null,
+ "board_apply": "https://cutshort.io/job/QA-Manual-Tester-Indore-Cyber-Infrastructure-tfFJxGW8",
+ "category": "Other",
+ "comp_potential": "listed_good",
+ "company": "Cyber Infrastructure",
+ "company_slug": "cyber-infrastructure",
+ "concerns": [
+  "Mentions test automation — be ready to discuss it or show a small script",
+  "Also asks for: Test management (TestRail/Zephyr), API testing, SQL / databases"
+ ],
+ "contacts_count": 0,
+ "content_hash": "6d489e8a6bb7",
+ "date_quality": "exact",
+ "deadline": "2027-02-01T06:28:37Z",
+ "employment": "full-time",
+ "first_seen": "2026-11-03T21:50:10Z",
+ "fit": 85,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "a437f0bb217055",
+ "include_reason": "Manual / functional QA title",
+ "india": {
+  "cities": [],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "manual-qa",
+ "last_verified": "2026-11-03T21:50:10Z",
+ "location": "Indore, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-10-19T12:00:51Z",
+ "repost": false,
+ "requirements": [
+  "BE/ME/B.Tech/M.Tech/MCA/MCM/BCA/MSc, PGDCA, or equivalent degree in a related field."
+ ],
+ "responsibilities": [
+  "Design, develop, and execute comprehensive test plans, test cases, and test scenarios.",
+  "Perform various types of manual testing, including functional, regression, integration, smoke, and sanity testing.",
+  "Thoroughly test web applications to ensure cross-browser compatibility and responsive design.",
+  "Identify, document, and track defects with precision using tools like JIRA, ensuring clear communication with the development team.",
+  "Analyze business requirements to identify gaps, ambiguities, and potential issues before development begins.",
+  "Prepare and maintain key QA documentation, including test plans, defect reports, and status reports.",
+  "Collaborate closely with developers, project managers, and client stakeholders to ensure quality standards are met throughout the STLC."
+ ],
+ "salary": {
+  "applies_india": true,
+  "basis": "listed",
+  "currency": "INR",
+  "fx_at": "Tue, 03 Nov 2026 00:02:31 +0000",
+  "fx_rate": 1.0,
+  "inr_max": 800000,
+  "inr_min": 400000,
+  "max": 800000,
+  "min": 400000,
+  "note": "Listed in the posting",
+  "original_period": "annual",
+  "period": "annual",
+  "source_name": "Cutshort",
+  "source_url": "https://cutshort.io/job/QA-Manual-Tester-Indore-Cyber-Infrastructure-tfFJxGW8",
+  "state": "verified",
+  "verified_at": "2026-11-03T21:50:10Z"
+ },
+ "scores": {
+  "ai": 68,
+  "comp": 100,
+  "company": 66,
+  "location": 100,
+  "seniority": 100,
+  "skill": 79
+ },
+ "seniority": "unspecified",
+ "snippet": "Experience: 2 years\nJob Description: Software Tester – Manual Testing\n Experience Required: 2 Years – 5 Years\n Job Overview \n Join Cyber Infrastructure (CIS), a CMMI Level 5 company, as a Senior Software Tester. You'll play a crucial role in ensuring the quality of world-class software for our global clients, primarily in the US and EMEA. In our AI-augmented delivery environment, you will apply your meticulous testin",
+ "source_primary": "Cutshort",
+ "sources": [
+  {
+   "id": "cutshort",
+   "job_id": "6ad606733d4d6fb78dfea3ee",
+   "kind": "board",
+   "name": "Cutshort",
+   "posted_at": "2026-10-19T12:00:51Z",
+   "seen_at": "2026-11-03T21:50:10Z",
+   "url": "https://cutshort.io/job/QA-Manual-Tester-Indore-Cyber-Infrastructure-tfFJxGW8"
+  }
+ ],
+ "specializations": [
+  "Web apps"
+ ],
+ "status": "active",
+ "tier": 3,
+ "title": "QA Manual Tester",
+ "tools": [
+  "Regression testing",
+  "Sanity testing",
+  "Compatibility testing",
+  "Test cases & scenarios",
+  "Bug reporting",
+  "Jira",
+  "Google Sheets / Excel",
+  "Test management (TestRail/Zephyr)",
+  "API testing",
+  "SQL / databases",
+  "Test automation",
+  "Programming"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://cutshort.io/job/QA-Manual-Tester-Indore-Cyber-Infrastructure-tfFJxGW8",
+ "why": [
+  "Manual / functional QA — the core of your resume",
+  "Already on your resume: Regression testing, Sanity testing, Compatibility testing, Test cases & scenarios, Bug reporting, Jira",
+  "Asks for 2+ years — you have about 2.5",
+  "Pay is listed in the posting",
+  "Location lists India"
+ ],
+ "work_mode": "remote",
+ "years_max": null,
+ "years_min": 2
+}

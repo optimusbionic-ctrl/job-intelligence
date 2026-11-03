@@ -1,0 +1,30 @@
+{
+ "category": "Product / SaaS",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-03T21:50:10Z",
+  "evidence": [
+   {
+    "detail": "Junior QA Engineer (Mobile & Web) (Remote) — India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://cutshort.io/job/Junior-QA-Engineer-Mobile-Web-Worlder-TEAM-Pte-Ltd-PxZiu3k9",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-03T21:50:10Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "5bd63cd5ae",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Worlder TEAM Pte Ltd",
+ "slug": "worlder-team-pte-ltd",
+ "tier": 1,
+ "tracks": [
+  "software"
+ ]
+}

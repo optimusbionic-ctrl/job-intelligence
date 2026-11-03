@@ -1,0 +1,30 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-03T21:50:10Z",
+  "evidence": [
+   {
+    "detail": "Testing Engineer — Bengaluru (Bangalore), India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://cutshort.io/job/Testing-Engineer-Bengaluru-Bangalore-Gemba-Concepts-Dx5IHuen",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-03T21:50:10Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "9ad2968f2d",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Gemba Concepts",
+ "slug": "gemba-concepts",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}

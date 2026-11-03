@@ -12,6 +12,10 @@
    "at": "2026-11-03T19:58:58Z",
    "ats": null
   },
+  "acko": {
+   "at": "2026-11-03T21:56:26Z",
+   "ats": null
+  },
   "adsdial": {
    "at": "2026-11-03T20:54:31Z",
    "ats": null
@@ -48,6 +52,13 @@
    "at": "2026-11-03T18:58:38Z",
    "ats": null
   },
+  "babbel": {
+   "at": "2026-11-03T21:56:26Z",
+   "ats": {
+    "slug": "babbel",
+    "type": "ashby"
+   }
+  },
   "becomehq": {
    "at": "2026-11-03T18:58:38Z",
    "ats": null
@@ -66,6 +77,14 @@
   },
   "boomingbullsacademy": {
    "at": "2026-11-03T18:58:38Z",
+   "ats": null
+  },
+  "branchinternational": {
+   "at": "2026-11-03T21:56:26Z",
+   "ats": null
+  },
+  "brndwgn": {
+   "at": "2026-11-03T21:56:26Z",
    "ats": null
   },
   "catalys": {
@@ -88,8 +107,27 @@
    "at": "2026-11-03T21:37:23Z",
    "ats": null
   },
+  "contentstack": {
+   "at": "2026-11-03T21:56:26Z",
+   "ats": {
+    "slug": "contentstack",
+    "type": "greenhouse"
+   }
+  },
+  "corenzaformarketers": {
+   "at": "2026-11-03T21:56:26Z",
+   "ats": null
+  },
   "credx": {
    "at": "2026-11-03T20:54:31Z",
+   "ats": null
+  },
+  "dentsu": {
+   "at": "2026-11-03T21:56:26Z",
+   "ats": null
+  },
+  "designity": {
+   "at": "2026-11-03T21:56:26Z",
    "ats": null
   },
   "designme": {
@@ -110,6 +148,10 @@
     "slug": "digitalfish",
     "type": "lever"
    }
+  },
+  "dotyeti": {
+   "at": "2026-11-03T21:56:26Z",
+   "ats": null
   },
   "dotyetidesign": {
    "at": "2026-11-03T20:54:31Z",
@@ -162,6 +204,10 @@
    "at": "2026-11-03T20:54:31Z",
    "ats": null
   },
+  "happiestminds": {
+   "at": "2026-11-03T21:56:26Z",
+   "ats": null
+  },
   "havascreativenetworkindia": {
    "at": "2026-11-03T21:37:23Z",
    "ats": null
@@ -176,6 +222,10 @@
   },
   "ideamintindia": {
    "at": "2026-11-03T21:37:23Z",
+   "ats": null
+  },
+  "indiefolio": {
+   "at": "2026-11-03T21:56:26Z",
    "ats": null
   },
   "infosys": {
@@ -198,6 +248,10 @@
    "at": "2026-11-03T19:58:58Z",
    "ats": null
   },
+  "intellipro": {
+   "at": "2026-11-03T21:56:26Z",
+   "ats": null
+  },
   "internetmoguls": {
    "at": "2026-11-03T18:58:38Z",
    "ats": null
@@ -210,8 +264,20 @@
    "at": "2026-11-03T20:54:31Z",
    "ats": null
   },
+  "intorque": {
+   "at": "2026-11-03T21:56:26Z",
+   "ats": null
+  },
   "kheewaincorporation": {
    "at": "2026-11-03T19:58:58Z",
+   "ats": null
+  },
+  "kimp": {
+   "at": "2026-11-03T21:56:26Z",
+   "ats": null
+  },
+  "kultremedia": {
+   "at": "2026-11-03T21:56:26Z",
    "ats": null
   },
   "kwalee": {
@@ -230,8 +296,16 @@
    "at": "2026-11-03T18:58:38Z",
    "ats": null
   },
+  "lumenlabcreativestudio": {
+   "at": "2026-11-03T21:56:26Z",
+   "ats": null
+  },
   "lykstage": {
    "at": "2026-11-03T20:54:31Z",
+   "ats": null
+  },
+  "magnon": {
+   "at": "2026-11-03T21:56:26Z",
    "ats": null
   },
   "maloo": {
@@ -250,12 +324,20 @@
    "at": "2026-11-03T19:58:58Z",
    "ats": null
   },
+  "miaplaza": {
+   "at": "2026-11-03T21:56:26Z",
+   "ats": null
+  },
   "mileseducation": {
    "at": "2026-11-03T18:58:38Z",
    "ats": null
   },
   "nathabit": {
    "at": "2026-11-03T18:58:38Z",
+   "ats": null
+  },
+  "novadesign": {
+   "at": "2026-11-03T21:56:26Z",
    "ats": null
   },
   "nyx": {
@@ -277,6 +359,13 @@
    "at": "2026-11-03T18:58:38Z",
    "ats": null
   },
+  "pearmill": {
+   "at": "2026-11-03T21:56:26Z",
+   "ats": {
+    "slug": "pearmill",
+    "type": "ashby"
+   }
+  },
   "phonepe": {
    "at": "2026-11-03T20:54:31Z",
    "ats": null
@@ -295,6 +384,14 @@
   },
   "princekscompany": {
    "at": "2026-11-03T19:58:58Z",
+   "ats": null
+  },
+  "psychx86": {
+   "at": "2026-11-03T21:56:26Z",
+   "ats": null
+  },
+  "realatte": {
+   "at": "2026-11-03T21:56:26Z",
    "ats": null
   },
   "realisier": {
@@ -333,6 +430,10 @@
    "at": "2026-11-03T21:37:23Z",
    "ats": null
   },
+  "skillcat": {
+   "at": "2026-11-03T21:56:26Z",
+   "ats": null
+  },
   "solvative": {
    "at": "2026-11-03T19:58:58Z",
    "ats": null
@@ -354,6 +455,10 @@
   },
   "talktarget": {
    "at": "2026-11-03T21:37:23Z",
+   "ats": null
+  },
+  "tataconsultancyservices": {
+   "at": "2026-11-03T21:56:26Z",
    "ats": null
   },
   "teampumpkin": {
@@ -388,6 +493,10 @@
    "at": "2026-11-03T20:54:31Z",
    "ats": null
   },
+  "voice": {
+   "at": "2026-11-03T21:56:26Z",
+   "ats": null
+  },
   "vyve": {
    "at": "2026-11-03T19:58:58Z",
    "ats": null
@@ -417,9 +526,9 @@
   }
  },
  "counts": {
-  "closed": 8,
+  "closed": 11,
   "live": 24,
-  "stale": 136
+  "stale": 133
  },
- "updated_at": "2026-11-03T21:39:15Z"
+ "updated_at": "2026-11-03T21:57:52Z"
 }

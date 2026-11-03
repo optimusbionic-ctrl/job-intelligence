@@ -1,0 +1,133 @@
+{
+ "apply_url": null,
+ "board_apply": "https://cutshort.io/job/QA-Tester-Noida-Emerald-Business-Ventures-amMheZM9",
+ "category": "Fintech",
+ "comp_potential": "listed_good",
+ "company": "Emerald Business Ventures",
+ "company_slug": "emerald-business-ventures",
+ "concerns": [
+  "Mentions test automation — be ready to discuss it or show a small script",
+  "Also asks for: API testing, SQL / databases"
+ ],
+ "contacts_count": 0,
+ "content_hash": "8506acd5880c",
+ "date_quality": "exact",
+ "deadline": "2027-01-27T22:07:31Z",
+ "employment": "full-time",
+ "first_seen": "2026-11-03T21:50:10Z",
+ "fit": 92,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "86f749c7b9dbed",
+ "include_reason": "Manual / functional QA title",
+ "india": {
+  "cities": [
+   "Delhi NCR"
+  ],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "manual-qa",
+ "last_verified": "2026-11-03T21:50:10Z",
+ "location": "Noida, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-10-15T09:10:15Z",
+ "repost": false,
+ "requirements": [
+  "Prepare and execute test plans, test scenarios, and detailed test cases.",
+  "Perform functional, regression, smoke, sanity, integration, and end-to-end testing.",
+  "Validate web and mobile applications across different browsers, devices, and environments.",
+  "Identify, document, track, and retest defects using tools such as Jira or similar platforms.",
+  "2. FinTech and Financial Transaction Testing",
+  "Test financial workflows such as fund transfers, payments, refunds, settlements, and transaction reversals.",
+  "Validate transaction statuses, balances, fees, commissions, and applicable limits."
+ ],
+ "responsibilities": [
+  "Analyze business requirements, functional specifications, and user stories.",
+  "Prepare and execute test plans, test scenarios, and detailed test cases.",
+  "Perform functional, regression, smoke, sanity, integration, and end-to-end testing.",
+  "Validate web and mobile applications across different browsers, devices, and environments.",
+  "Identify, document, track, and retest defects using tools such as Jira or similar platforms.",
+  "Ensure product functionality aligns with business requirements and acceptance criteria.",
+  "2. FinTech and Financial Transaction Testing"
+ ],
+ "salary": {
+  "applies_india": true,
+  "basis": "listed",
+  "currency": "INR",
+  "fx_at": "Tue, 03 Nov 2026 00:02:31 +0000",
+  "fx_rate": 1.0,
+  "inr_max": 500000,
+  "inr_min": 300000,
+  "max": 500000,
+  "min": 300000,
+  "note": "Listed in the posting",
+  "original_period": "annual",
+  "period": "annual",
+  "source_name": "Cutshort",
+  "source_url": "https://cutshort.io/job/QA-Tester-Noida-Emerald-Business-Ventures-amMheZM9",
+  "state": "verified",
+  "verified_at": "2026-11-03T21:50:10Z"
+ },
+ "scores": {
+  "ai": 78,
+  "comp": 90,
+  "company": 95,
+  "location": 100,
+  "seniority": 100,
+  "skill": 87
+ },
+ "seniority": "unspecified",
+ "snippet": "Experience: 3 years\nJob Summary\n We are looking for a detail-oriented QA Tester to join our technology team and ensure the quality, reliability, security, and performance of our FinTech products. The ideal candidate will have experience in manual and API testing, strong analytical skills, and an understanding of financial transactions, payment systems, and digital banking workflows.\n The candidate will work closely w",
+ "source_primary": "Cutshort",
+ "sources": [
+  {
+   "id": "cutshort",
+   "job_id": "6ad0987734b16c58b662603f",
+   "kind": "board",
+   "name": "Cutshort",
+   "posted_at": "2026-10-15T09:10:15Z",
+   "seen_at": "2026-11-03T21:50:10Z",
+   "url": "https://cutshort.io/job/QA-Tester-Noida-Emerald-Business-Ventures-amMheZM9"
+  }
+ ],
+ "specializations": [
+  "Mobile apps",
+  "Web apps"
+ ],
+ "status": "active",
+ "tier": 1,
+ "title": "QA Tester",
+ "tools": [
+  "Regression testing",
+  "Sanity testing",
+  "Stress / load testing",
+  "UI testing",
+  "Test cases & scenarios",
+  "Bug reporting",
+  "Jira",
+  "API testing",
+  "SQL / databases",
+  "Test automation",
+  "Agile / Scrum"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://cutshort.io/job/QA-Tester-Noida-Emerald-Business-Ventures-amMheZM9",
+ "why": [
+  "Manual / functional QA — the core of your resume",
+  "Already on your resume: Regression testing, Sanity testing, Stress / load testing, UI testing, Test cases & scenarios, Bug reporting",
+  "Platforms you test on: Mobile apps",
+  "Fintech company",
+  "Location lists India",
+  "Asks for 2–5 years — you have about 2.5"
+ ],
+ "work_mode": "remote",
+ "years_max": 5,
+ "years_min": 2
+}

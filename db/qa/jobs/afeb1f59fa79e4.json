@@ -1,0 +1,116 @@
+{
+ "apply_url": null,
+ "board_apply": "https://cutshort.io/job/Software-QA-Tester-Web-Application-and-WhatsApp-Integration-Pointible-Technologies-Pvt-Ltd-JqyYNSU5",
+ "category": "Other",
+ "comp_potential": "listed_good",
+ "company": "Pointible Technologies Pvt Ltd",
+ "company_slug": "pointible-technologies-pvt-ltd",
+ "concerns": [
+  "Also asks for: API testing, SQL / databases"
+ ],
+ "contacts_count": 0,
+ "content_hash": "d6e66fe2747a",
+ "date_quality": "exact",
+ "deadline": "2027-01-27T11:28:05Z",
+ "employment": "full-time",
+ "first_seen": "2026-11-03T21:50:10Z",
+ "fit": 85,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "afeb1f59fa79e4",
+ "include_reason": "Manual / functional QA title",
+ "india": {
+  "cities": [],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "manual-qa",
+ "last_verified": "2026-11-03T21:50:10Z",
+ "location": "India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-10-29T11:23:03Z",
+ "repost": false,
+ "requirements": [
+  "Understanding of manual software testing and the software testing life cycle.",
+  "Ability to write test cases and detailed bug reports.",
+  "Experience testing web applications.",
+  "Basic knowledge of API testing; Postman experience is desirable.",
+  "Clear written and verbal communication.",
+  "Willingness to learn the product and take ownership of testing activities."
+ ],
+ "responsibilities": [],
+ "salary": {
+  "applies_india": true,
+  "basis": "listed",
+  "currency": "INR",
+  "fx_at": "Tue, 03 Nov 2026 00:02:31 +0000",
+  "fx_rate": 1.0,
+  "inr_max": 480000,
+  "inr_min": 240000,
+  "max": 480000,
+  "min": 240000,
+  "note": "Listed in the posting",
+  "original_period": "annual",
+  "period": "annual",
+  "source_name": "Cutshort",
+  "source_url": "https://cutshort.io/job/Software-QA-Tester-Web-Application-and-WhatsApp-Integration-Pointible-Technologies-Pvt-Ltd-JqyYNSU5",
+  "state": "verified",
+  "verified_at": "2026-11-03T21:50:10Z"
+ },
+ "scores": {
+  "ai": 68,
+  "comp": 78,
+  "company": 66,
+  "location": 100,
+  "seniority": 90,
+  "skill": 93
+ },
+ "seniority": "unspecified",
+ "snippet": "Experience: 1 years\n• Test the complete customer journey, from QR-code scanning to the intended emergency-contact workflow.\n\n• Prepare and execute test cases and test scenarios.\n\n• Perform functional, integration, regression, compatibility and usability testing.\n\n• Test across different browsers, smartphones and screen sizes.\n\n• Identify, document and track bugs with clear reproduction steps and screenshots.\n\n• Test ",
+ "source_primary": "Cutshort",
+ "sources": [
+  {
+   "id": "cutshort",
+   "job_id": "6ae32c97dfc1e124896a8184",
+   "kind": "board",
+   "name": "Cutshort",
+   "posted_at": "2026-10-29T11:23:03Z",
+   "seen_at": "2026-11-03T21:50:10Z",
+   "url": "https://cutshort.io/job/Software-QA-Tester-Web-Application-and-WhatsApp-Integration-Pointible-Technologies-Pvt-Ltd-JqyYNSU5"
+  }
+ ],
+ "specializations": [
+  "Web apps"
+ ],
+ "status": "active",
+ "tier": 3,
+ "title": "Software QA Tester-Web Application and WhatsApp Integration (Remote)",
+ "tools": [
+  "Regression testing",
+  "Compatibility testing",
+  "Usability testing",
+  "Test cases & scenarios",
+  "Bug reporting",
+  "Jira",
+  "API testing",
+  "SQL / databases"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://cutshort.io/job/Software-QA-Tester-Web-Application-and-WhatsApp-Integration-Pointible-Technologies-Pvt-Ltd-JqyYNSU5",
+ "why": [
+  "Manual / functional QA — the core of your resume",
+  "Already on your resume: Regression testing, Compatibility testing, Usability testing, Test cases & scenarios, Bug reporting, Jira",
+  "Asks for 1+ years — you have about 2.5",
+  "Pay is listed in the posting",
+  "Location lists India"
+ ],
+ "work_mode": "remote",
+ "years_max": null,
+ "years_min": 1
+}

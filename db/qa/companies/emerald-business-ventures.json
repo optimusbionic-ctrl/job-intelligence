@@ -1,0 +1,30 @@
+{
+ "category": "Fintech",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-03T21:50:10Z",
+  "evidence": [
+   {
+    "detail": "QA Tester — Noida, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://cutshort.io/job/QA-Tester-Noida-Emerald-Business-Ventures-amMheZM9",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-03T21:50:10Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "7d638837f8",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Emerald Business Ventures",
+ "slug": "emerald-business-ventures",
+ "tier": 1,
+ "tracks": [
+  "software"
+ ]
+}

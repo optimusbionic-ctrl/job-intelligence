@@ -18,13 +18,8 @@
     "Switzerland",
     "France"
    ],
-   "india": 379,
+   "india": 328,
    "india_samples": [
-    {
-     "location": "India",
-     "title": "AI Automation Specialist",
-     "url": "https://jobs.lever.co/jobgether/33de6a35-d7d8-4434-af0c-55963a4f2751"
-    },
     {
      "location": "India",
      "title": "AI Conversation Recording Contributor",
@@ -39,21 +34,21 @@
      "location": "India",
      "title": "AI Engineer",
      "url": "https://jobs.lever.co/jobgether/9c435da2-bc0d-42d4-b27a-52de1e89e06b"
+    },
+    {
+     "location": "India",
+     "title": "AI-Augmented Software Engineer",
+     "url": "https://jobs.lever.co/jobgether/4768e0f0-48f0-41e3-a459-90be18da4963"
     }
    ],
    "open_samples": [],
-   "remote": 4610,
-   "restricted_remote": 4231,
+   "remote": 3743,
+   "restricted_remote": 3415,
    "restricted_samples": [
     {
      "location": "Brazil",
      "title": ".NET Developer",
      "url": "https://jobs.lever.co/jobgether/cd54ae50-7a49-4f94-9f46-167363b13380"
-    },
-    {
-     "location": "Brazil",
-     "title": ".Net Back-End Developer Mid",
-     "url": "https://jobs.lever.co/jobgether/86238723-77df-46b9-b843-28b844b5134e"
     },
     {
      "location": "Canada",
@@ -64,20 +59,25 @@
      "location": "US",
      "title": "6G Security Program Manager",
      "url": "https://jobs.lever.co/jobgether/9afefb73-8dab-4d08-a16d-6f1d04ab7a45"
+    },
+    {
+     "location": "US",
+     "title": "AI Algorithms/Software Engineer",
+     "url": "https://jobs.lever.co/jobgether/7f59e278-1c6c-481b-b8a9-f5888e7372e0"
     }
    ],
    "slug": "jobgether",
-   "total": 4610,
+   "total": 3743,
    "type": "lever",
    "url": "https://jobs.lever.co/jobgether",
    "worldwide": 0
   },
-  "changed_at": "2026-11-03T18:02:49Z",
+  "changed_at": "2026-11-03T21:50:10Z",
   "evidence": [
    {
-    "detail": "AI Automation Specialist (India); AI Conversation Recording Contributor (India); AI Enablement & Governance Analyst (India)",
+    "detail": "AI Conversation Recording Contributor (India); AI Enablement & Governance Analyst (India); AI Engineer (India)",
     "kind": "board",
-    "label": "379 of 4610 open roles are located in India",
+    "label": "328 of 3743 open roles are located in India",
     "url": "https://jobs.lever.co/jobgether",
     "weight": 5
    },
@@ -92,8 +92,8 @@
   "first_checked_at": "2026-10-19T13:24:59Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "b8b3c0cfef",
-  "summary": "379 of 4610 open roles are located in India.",
+  "sig": "a63f2ecdd8",
+  "summary": "328 of 3743 open roles are located in India.",
   "verdict": "yes"
  },
  "inferred": true,

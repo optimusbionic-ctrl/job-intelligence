@@ -1,0 +1,107 @@
+{
+ "apply_url": null,
+ "board_apply": "https://cutshort.io/job/Testing-Engineer-Bengaluru-Bangalore-Gemba-Concepts-Dx5IHuen",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "Gemba Concepts",
+ "company_slug": "gemba-concepts",
+ "concerns": [
+  "Mentions test automation — be ready to discuss it or show a small script",
+  "Also asks for: API testing",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "49357f409f37",
+ "date_quality": "exact",
+ "deadline": "2027-02-01T21:53:06Z",
+ "employment": "full-time",
+ "first_seen": "2026-11-03T21:50:10Z",
+ "fit": 78,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "34ca9371c847eb",
+ "include_reason": "QA / test engineer title",
+ "india": {
+  "cities": [
+   "Bengaluru"
+  ],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "qa-engineer",
+ "last_verified": "2026-11-03T21:50:10Z",
+ "location": "Bengaluru (Bangalore), India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-10-13T11:29:25Z",
+ "repost": false,
+ "requirements": [
+  "Bachelor’s in Computer Science, IT, or related field.",
+  "Hands-on experience with automation tools (Selenium, Playwright, Cypress, etc.).",
+  "API testing experience (Postman, Swagger).",
+  "Understanding of SDLC, Agile/Scrum, and CI/CD."
+ ],
+ "responsibilities": [
+  "We are looking for a skilled Test Engineer with strong experience in manual and automation testing to collaborate QA efforts across multiple projects. The ideal candidate will drive testing strategy and ensure product quality through process excellence and automation adoption.",
+  "· Define and implement test strategies, plans, and quality standards.",
+  "· Oversee test design, execution, defect tracking, and triage.",
+  "· Drive automation and integrate testing with CI/CD pipelines.",
+  "· Collaborate with cross-functional teams for timely, quality releases.",
+  "· Track and report QA metrics (defect density, coverage, leakage, progress).",
+  "· Conduct risk-based testing and prioritize critical areas."
+ ],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 60,
+  "company": 66,
+  "location": 100,
+  "seniority": 94,
+  "skill": 76
+ },
+ "seniority": "unspecified",
+ "snippet": "Position: Test Engineer (Manual / Automation) \n Location: Bangalore\n Experience: 3-5 years \n Employment Type: Full-time\n About the Role \n We are looking for a skilled Test Engineer with strong experience in manual and automation testing to collaborate QA efforts across multiple projects. The ideal candidate will drive testing strategy and ensure product quality through process excellence and automation adoption.\n Key",
+ "source_primary": "Cutshort",
+ "sources": [
+  {
+   "id": "cutshort",
+   "job_id": "6ace1615a55033c31d348181",
+   "kind": "board",
+   "name": "Cutshort",
+   "posted_at": "2026-10-13T11:29:25Z",
+   "seen_at": "2026-11-03T21:50:10Z",
+   "url": "https://cutshort.io/job/Testing-Engineer-Bengaluru-Bangalore-Gemba-Concepts-Dx5IHuen"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 3,
+ "title": "Testing Engineer",
+ "tools": [
+  "Stress / load testing",
+  "Test cases & scenarios",
+  "Bug reporting",
+  "Google Sheets / Excel",
+  "API testing",
+  "Test automation",
+  "Agile / Scrum"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://cutshort.io/job/Testing-Engineer-Bengaluru-Bangalore-Gemba-Concepts-Dx5IHuen",
+ "why": [
+  "QA / test engineer role",
+  "Already on your resume: Stress / load testing, Test cases & scenarios, Bug reporting, Google Sheets / Excel",
+  "Asks for 3+ years — you have about 2.5",
+  "Location lists India"
+ ],
+ "work_mode": "remote",
+ "years_max": 5,
+ "years_min": 3
+}

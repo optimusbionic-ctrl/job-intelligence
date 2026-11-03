@@ -1,0 +1,117 @@
+{
+ "apply_url": null,
+ "board_apply": "https://cutshort.io/job/QA-Engineer-Manual-Playwright-Pune-NonStop-io-Technologies-Pvt-Ltd-6rS1jgsU",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "NonStop io Technologies Pvt Ltd",
+ "company_slug": "nonstop-io-technologies-pvt-ltd",
+ "concerns": [
+  "Mentions test automation — be ready to discuss it or show a small script",
+  "Also asks for: Test management (TestRail/Zephyr), API testing, SQL / databases",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "765d9fa94ea9",
+ "date_quality": "exact",
+ "deadline": "2027-01-31T05:16:08Z",
+ "employment": "full-time",
+ "first_seen": "2026-11-03T21:50:10Z",
+ "fit": 80,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "b317338477ab8d",
+ "include_reason": "Manual / functional QA title",
+ "india": {
+  "cities": [
+   "Pune"
+  ],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "manual-qa",
+ "last_verified": "2026-11-03T21:50:10Z",
+ "location": "Pune, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-10-27T05:56:20Z",
+ "repost": false,
+ "requirements": [
+  "● Strong attention to detail and a commitment to delivering high-quality software",
+  "● Good communication and collaboration skills, with the ability to work effectively in a team environment",
+  "● Collaborate with cross-functional teams to enhance the overall quality of the product",
+  "● Stay up to date with the latest industry trends and best practices in QA methodologies and automation frameworks Requirements",
+  "● Opportunity to work on a cutting-edge healthcare product",
+  "● A collaborative and learning-driven environment",
+  "● Exposure to AI and software engineering innovations"
+ ],
+ "responsibilities": [
+  "● Bachelor's degree in Computer Science, Engineering, or a related field",
+  "● 3+ years of experience in software quality assurance",
+  "● Develop, execute, and maintain comprehensive test plans and test cases for manual and automated testing",
+  "● Perform functional, regression, performance, and security testing to ensure software quality",
+  "● Identify, document, and track software defects, working closely with development teams for resolution",
+  "● Ensure test coverage by working closely with developers, product managers, and other stakeholders",
+  "● Establish and maintain continuous integration (CI) and continuous deployment (CD) pipelines for test automation"
+ ],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 74,
+  "comp": 60,
+  "company": 66,
+  "location": 100,
+  "seniority": 94,
+  "skill": 76
+ },
+ "seniority": "unspecified",
+ "snippet": "About NonStop io Technologies: \n NonStop io Technologies is a value-driven company with a strong focus on process-oriented software engineering. We specialize in Product Development and have a decade's worth of experience in building web and mobile applications across various domains. NonStop io Technologies follows core principles that guide its operations and believes in staying invested in a product's vision for t",
+ "source_primary": "Cutshort",
+ "sources": [
+  {
+   "id": "cutshort",
+   "job_id": "6ae03d04e3809792b9a114b8",
+   "kind": "board",
+   "name": "Cutshort",
+   "posted_at": "2026-10-27T05:56:20Z",
+   "seen_at": "2026-11-03T21:50:10Z",
+   "url": "https://cutshort.io/job/QA-Engineer-Manual-Playwright-Pune-NonStop-io-Technologies-Pvt-Ltd-6rS1jgsU"
+  }
+ ],
+ "specializations": [
+  "Mobile apps"
+ ],
+ "status": "active",
+ "tier": 3,
+ "title": "QA Engineer(Manual+Playwright)",
+ "tools": [
+  "Regression testing",
+  "Test cases & scenarios",
+  "Bug reporting",
+  "Jira",
+  "Google Sheets / Excel",
+  "Test management (TestRail/Zephyr)",
+  "API testing",
+  "SQL / databases",
+  "Test automation",
+  "Agile / Scrum",
+  "ISTQB"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://cutshort.io/job/QA-Engineer-Manual-Playwright-Pune-NonStop-io-Technologies-Pvt-Ltd-6rS1jgsU",
+ "why": [
+  "Manual / functional QA — the core of your resume",
+  "Already on your resume: Regression testing, Test cases & scenarios, Bug reporting, Jira, Google Sheets / Excel",
+  "Platforms you test on: Mobile apps",
+  "Asks for 3+ years — you have about 2.5",
+  "Location lists India"
+ ],
+ "work_mode": "remote",
+ "years_max": null,
+ "years_min": 3
+}

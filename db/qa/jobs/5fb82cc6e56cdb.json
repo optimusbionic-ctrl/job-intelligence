@@ -1,0 +1,116 @@
+{
+ "apply_url": null,
+ "board_apply": "https://cutshort.io/job/QA-Tester-Manual-Daemon-Ventures-UNoQLm5B",
+ "category": "Other",
+ "comp_potential": "listed_good",
+ "company": "Daemon Ventures",
+ "company_slug": "daemon-ventures",
+ "concerns": [
+  "Mentions test automation — be ready to discuss it or show a small script",
+  "Also asks for: API testing, SQL / databases"
+ ],
+ "contacts_count": 0,
+ "content_hash": "ede0233885a5",
+ "date_quality": "exact",
+ "deadline": "2027-02-01T16:50:32Z",
+ "employment": "full-time",
+ "first_seen": "2026-11-03T21:50:10Z",
+ "fit": 83,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "5fb82cc6e56cdb",
+ "include_reason": "Manual / functional QA title",
+ "india": {
+  "cities": [],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "manual-qa",
+ "last_verified": "2026-11-03T21:50:10Z",
+ "location": "India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-09-26T18:35:11Z",
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [
+  "Every day, go through our live products as a new customer would: sign up with a real email address, check that the emails arrive, use the core features, pay, cancel and ask for help. Do this on your phone and on a computer.",
+  "Test new products and significant changes before and after they go live.",
+  "the steps to reproduce it",
+  "what actually happened",
+  "a screenshot or screen recording",
+  "how much it matters to a customer",
+  "Re-test every fix, and mark it done only when it really works."
+ ],
+ "salary": {
+  "applies_india": true,
+  "basis": "listed",
+  "currency": "INR",
+  "fx_at": "Tue, 03 Nov 2026 00:02:31 +0000",
+  "fx_rate": 1.0,
+  "inr_max": 900000,
+  "inr_min": 600000,
+  "max": 900000,
+  "min": 600000,
+  "note": "Listed in the posting",
+  "original_period": "annual",
+  "period": "annual",
+  "source_name": "Cutshort",
+  "source_url": "https://cutshort.io/job/QA-Tester-Manual-Daemon-Ventures-UNoQLm5B",
+  "state": "verified",
+  "verified_at": "2026-11-03T21:50:10Z"
+ },
+ "scores": {
+  "ai": 78,
+  "comp": 100,
+  "company": 66,
+  "location": 100,
+  "seniority": 100,
+  "skill": 68
+ },
+ "seniority": "unspecified",
+ "snippet": "Be the person who makes sure our products actually work for the people who use them.\n\n Daemon Ventures is a US technology company that builds and runs internet businesses with a very small team and heavy use of AI. We are hiring a full-time QA tester to see our products through our customers' eyes. You will use our live products the way a real customer would, every day, and make sure that nothing broken, confusing or",
+ "source_primary": "Cutshort",
+ "sources": [
+  {
+   "id": "cutshort",
+   "job_id": "6ab8105fde95ec2c3d3cebf8",
+   "kind": "board",
+   "name": "Cutshort",
+   "posted_at": "2026-09-26T18:35:11Z",
+   "seen_at": "2026-11-03T21:50:10Z",
+   "url": "https://cutshort.io/job/QA-Tester-Manual-Daemon-Ventures-UNoQLm5B"
+  }
+ ],
+ "specializations": [
+  "Mobile apps",
+  "Web apps"
+ ],
+ "status": "active",
+ "tier": 3,
+ "title": "QA Tester (Manual) (Remote)",
+ "tools": [
+  "Bug reporting",
+  "API testing",
+  "SQL / databases",
+  "Test automation"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://cutshort.io/job/QA-Tester-Manual-Daemon-Ventures-UNoQLm5B",
+ "why": [
+  "Manual / functional QA — the core of your resume",
+  "Already on your resume: Bug reporting",
+  "Platforms you test on: Mobile apps",
+  "Asks for 1–3 years — you have about 2.5",
+  "Location lists India",
+  "Pay is listed in the posting"
+ ],
+ "work_mode": "remote",
+ "years_max": 3,
+ "years_min": 1
+}

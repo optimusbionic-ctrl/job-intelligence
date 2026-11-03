@@ -1,0 +1,125 @@
+{
+ "apply_url": null,
+ "board_apply": "https://cutshort.io/job/Junior-QA-Engineer-Mobile-Web-Worlder-TEAM-Pte-Ltd-PxZiu3k9",
+ "category": "Product / SaaS",
+ "comp_potential": "listed_good",
+ "company": "Worlder TEAM Pte Ltd",
+ "company_slug": "worlder-team-pte-ltd",
+ "concerns": [
+  "Mentions test automation — be ready to discuss it or show a small script",
+  "Also asks for: API testing, Programming",
+  "Entry-level role — pay may be at the lower end"
+ ],
+ "contacts_count": 0,
+ "content_hash": "6c50be8963ea",
+ "date_quality": "exact",
+ "deadline": "2027-01-30T11:20:12Z",
+ "employment": "full-time",
+ "first_seen": "2026-11-03T21:50:10Z",
+ "fit": 89,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "62b291aae67786",
+ "include_reason": "Mobile app QA",
+ "india": {
+  "cities": [],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "mobile-qa",
+ "last_verified": "2026-11-03T21:50:10Z",
+ "location": "India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-10-12T07:42:22Z",
+ "repost": false,
+ "requirements": [
+  "Help to continuously improve the existing QA framework",
+  "Prepare test data, test plan, and test cases to test the applications (mobile & web) based on the technical and business specifications",
+  "Perform QA tests (functional, non-functional, regression & end-to-end testing) on both the mobile and web applications"
+ ],
+ "responsibilities": [
+  "Understand product requirements thoroughly to ensure comprehensive test coverage",
+  "Help to continuously improve the existing QA framework",
+  "Prepare test data, test plan, and test cases to test the applications (mobile & web) based on the technical and business specifications",
+  "Perform QA tests (functional, non-functional, regression & end-to-end testing) on both the mobile and web applications"
+ ],
+ "salary": {
+  "applies_india": true,
+  "basis": "listed",
+  "currency": "INR",
+  "fx_at": "Tue, 03 Nov 2026 00:02:31 +0000",
+  "fx_rate": 1.0,
+  "inr_max": 800000,
+  "inr_min": 600000,
+  "max": 800000,
+  "min": 600000,
+  "note": "Listed in the posting",
+  "original_period": "annual",
+  "period": "annual",
+  "source_name": "Cutshort",
+  "source_url": "https://cutshort.io/job/Junior-QA-Engineer-Mobile-Web-Worlder-TEAM-Pte-Ltd-PxZiu3k9",
+  "state": "verified",
+  "verified_at": "2026-11-03T21:50:10Z"
+ },
+ "scores": {
+  "ai": 84,
+  "comp": 100,
+  "company": 95,
+  "location": 100,
+  "seniority": 80,
+  "skill": 85
+ },
+ "seniority": "junior",
+ "snippet": "Company description \n Worlder TEAM is a company under Worlder Group that aims to enable companies in the SME industry to bring their businesses to the global market. Worlder TEAM spearheads the development of efficient and effective IT solutions. \n\n Roles and responsibilities \n Worlder TEAM’s current focus is on developing a suite of mobile and web apps with novel integrated solutions from our R&D team to help small ",
+ "source_primary": "Cutshort",
+ "sources": [
+  {
+   "id": "cutshort",
+   "job_id": "6acc8f5e1a51ec10c4c16332",
+   "kind": "board",
+   "name": "Cutshort",
+   "posted_at": "2026-10-12T07:42:22Z",
+   "seen_at": "2026-11-03T21:50:10Z",
+   "url": "https://cutshort.io/job/Junior-QA-Engineer-Mobile-Web-Worlder-TEAM-Pte-Ltd-PxZiu3k9"
+  }
+ ],
+ "specializations": [
+  "Android",
+  "iOS",
+  "Mobile apps",
+  "Web apps"
+ ],
+ "status": "active",
+ "tier": 1,
+ "title": "Junior QA Engineer (Mobile & Web) (Remote)",
+ "tools": [
+  "Regression testing",
+  "Compatibility testing",
+  "Test cases & scenarios",
+  "Bug reporting",
+  "Google Sheets / Excel",
+  "API testing",
+  "Test automation",
+  "Programming",
+  "Agile / Scrum"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://cutshort.io/job/Junior-QA-Engineer-Mobile-Web-Worlder-TEAM-Pte-Ltd-PxZiu3k9",
+ "why": [
+  "Mobile app testing on Android and iOS, like your current work",
+  "Already on your resume: Regression testing, Compatibility testing, Test cases & scenarios, Bug reporting, Google Sheets / Excel",
+  "Platforms you test on: Android, iOS, Mobile apps",
+  "Product / SaaS company",
+  "Location lists India",
+  "Asks for 0+ years — you have about 2.5"
+ ],
+ "work_mode": "remote",
+ "years_max": 2,
+ "years_min": 0
+}
