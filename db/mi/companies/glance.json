@@ -53,7 +53,7 @@
    "url": "https://boards.greenhouse.io/glance",
    "worldwide": 0
   },
-  "changed_at": "2026-10-27T15:28:11Z",
+  "changed_at": "2026-11-03T18:58:38Z",
   "evidence": [
    {
     "detail": "Applied Scientist II - Recommendation (Bangalore); Applied Scientist III - Recommendation Systems  (Bangalore); Applied Scientist III - Recommendations (Bangalore)",
@@ -63,10 +63,10 @@
     "weight": 5
    },
    {
-    "detail": "Sr. Motion Designer — Bangalore",
+    "detail": "Lead Motion Designer — Bangalore, Karnataka, India",
     "kind": "posting",
     "label": "A current posting lists India as a location",
-    "url": "https://job-boards.greenhouse.io/glance/jobs/8021653",
+    "url": "https://outscal.com/job/lead-motion-designer-at-glance-in-bangalore-karnataka-india",
     "weight": 5
    },
    {
@@ -80,7 +80,7 @@
   "first_checked_at": "2026-10-15T16:19:24Z",
   "india_based": true,
   "method": "Careers board, posting text",
-  "sig": "2fe2c4a45b",
+  "sig": "5e0aaa9c65",
   "summary": "Glance is headquartered in India.",
   "verdict": "yes"
  },

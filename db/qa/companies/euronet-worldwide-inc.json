@@ -4,20 +4,20 @@
  "domain": "euronetworldwide.com",
  "india_hiring": {
   "board": null,
-  "changed_at": "2026-10-19T13:24:59Z",
+  "changed_at": "2026-11-03T18:55:47Z",
   "evidence": [
    {
-    "detail": "Test Engineer (ISO 8583) — Thane, Maharashtra, India",
+    "detail": "Automation Tester — Thane, Maharashtra, India",
     "kind": "posting",
     "label": "A current posting lists India as a location",
-    "url": "https://jobs.workable.com/view/ue3fmJxivVq7yBMa3k2hno/test-engineer-(iso-8583)-in-thane-at-euronet-worldwide%2C-inc.",
+    "url": "https://jobs.workable.com/view/kqSGzAngKe3eX6ajVLhhXU/automation-tester-in-thane-at-euronet-worldwide%2C-inc.",
     "weight": 5
    }
   ],
   "first_checked_at": "2026-10-19T13:24:59Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "9e51871821",
+  "sig": "0788789a49",
   "summary": "A current posting lists India as a location.",
   "verdict": "yes"
  },
