@@ -949,7 +949,7 @@ const EV_KIND = { board: 'Careers board', posting: 'Job posting', registry: 'Com
 const SEN_GROUP = { junior: 'Entry / junior', mid: 'Mid-level', senior: 'Senior', lead: 'Lead / Manager', unspecified: 'Not stated' };
 const KIND_LABEL = { 'game-tester': 'Game testing', 'slot-qa': 'Slot / casino QA', 'game-qa-engineer': 'Game QA engineer', 'game-cert': 'Game certification', 'game-lqa': 'Localization QA', 'game-automation': 'Game test automation', 'manual-qa': 'Manual / functional QA', 'mobile-qa': 'Mobile app QA', 'qa-engineer': 'QA engineer', crowd: 'Crowd / freelance testing', automation: 'Automation (SDET)' };
 const SORTS = [
-  ['best', 'Best overall match'], ['newest', 'Newest'], ['pay', 'Highest listed pay'], ['potential', 'Pay listed first'],
+  ['newest', 'Newest'], ['best', 'Best overall match'], ['pay', 'Highest listed pay'], ['potential', 'Pay listed first'],
   ['company', 'Strongest company fit'], ['remote', 'Remote compatibility'], ['verified', 'Most recently verified'],
 ];
 const PLATFORMS = [
@@ -1038,7 +1038,7 @@ const S = {
   jobs: new Map(), jobsRaw: null, companies: new Map(), contacts: new Map(), benchmarks: new Map(), alerts: [], logs: [], meta: {},
   loaded: { jobs: false },
   ws: { profile: null, profiles: { game: null, software: null }, settings: null, apps: new Map(), searches: new Map(), watch: new Map(), saved: new Map(), analyses: new Map(), outreach: new Map(), finds: new Map(), people: new Map(), marks: new Map() }, marksView: 'all', sizes: new Map(),
-  view: 'overview', track: 'all', profTrack: 'game', filters: DEFAULT_FILTERS(), nl: null, sort: 'best', layout: 'table', density: 'comfortable', page: 1,
+  view: 'overview', track: 'all', profTrack: 'game', filters: DEFAULT_FILTERS(), nl: null, sort: 'newest', layout: 'table', density: 'comfortable', page: 1,
   compare: new Set(), drawer: null, modal: null, filtersOpen: false,
   peopleTab: 'all', peopleQ: '', companyQ: '', aiBusy: false, monitor: { trig: null, err: null, loading: false },
   textCache: new Map(), discover: new Map(), checks: new Map(), pop: null, coTab: 'all', icBusy: null, icErr: null,
@@ -3098,7 +3098,7 @@ document.addEventListener('click', async e => {
     case 'density': S.density = v; lsSet('density', v); render(); break;
     case 'days': setFilter(f => f.days = +v); break;
     case 'page': S.page = +v; render(); $('#content').scrollIntoView({ block: 'start' }); break;
-    case 'reset-filters': S.filters = DEFAULT_FILTERS(); S.nl = null; S.pop = null; if ($('#cmdInput')) $('#cmdInput').value = ''; S.sort = 'best'; withTransition(render); break;
+    case 'reset-filters': S.filters = DEFAULT_FILTERS(); S.nl = null; S.pop = null; if ($('#cmdInput')) $('#cmdInput').value = ''; S.sort = 'newest'; withTransition(render); break;
     case 'chip-x': setFilter(f => { const k = el.dataset.k; if (k === 'days') f.days = 30; else if (k === 'payListed') f.payListed = false; else if (k === 'minFit') f.minFit = 0; else f[k] = f[k].filter(x => x !== v); if (k === 'kw' && !f.kw.length) { f.expand = []; S.nl = null; } }); break;
     case 'show-unconf': setFilter(f => f.india = [...new Set([...f.india, 'unconfirmed'])]); break;
     case 'filters-open': S.filtersOpen = true; render(); break;
@@ -3156,7 +3156,7 @@ document.addEventListener('click', async e => {
     case 'export-tracker': exportRows([...S.ws.apps.keys()].map(k => S.jobs.get(k)).filter(Boolean), v, 'qa-intelligence-tracker'); break;
     case 'export-results': { const r = results().rows; exportRows(r, 'csv', 'qa-intelligence-results'); break; }
     case 'save-search': openSaveSearch(); break;
-    case 'apply-search': { if (e.target.closest('[data-act="del-search"]')) break; const s = S.ws.searches.get(id); if (!s) break; S.filters = { ...DEFAULT_FILTERS(), ...s.filters }; S.sort = s.sort || 'best'; if (s.track) { S.track = s.track; lsSet('track', s.track); } S.nl = null; location.hash = 'explorer'; render(); if (S.uid) saveDoc(wsCol('searches').doc(id), { ...s, last_opened: new Date().toISOString() }); break; }
+    case 'apply-search': { if (e.target.closest('[data-act="del-search"]')) break; const s = S.ws.searches.get(id); if (!s) break; S.filters = { ...DEFAULT_FILTERS(), ...s.filters }; S.sort = s.sort || 'newest'; if (s.track) { S.track = s.track; lsSet('track', s.track); } S.nl = null; location.hash = 'explorer'; render(); if (S.uid) saveDoc(wsCol('searches').doc(id), { ...s, last_opened: new Date().toISOString() }); break; }
     case 'del-search': e.stopPropagation(); S.ws.searches.delete(id); render(); try { await wsCol('searches').doc(id).delete(); toast('Saved search deleted'); } catch { } break;
     case 'add-watch': openWatch(); break;
     case 'watch-company': { if (!requireWs()) break; const c = S.companies.get(v); const rec = { name: c?.name || v, slug: v, ats: c?.ats || null, careers: c?.careers || null, added_at: new Date().toISOString() }; S.ws.watch.set(v, rec); await saveDoc(wsCol('watchlist').doc(v), rec, `Watching ${rec.name}`); if (S.drawer) renderDrawer(false); break; }
