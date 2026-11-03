@@ -1,0 +1,30 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-03T18:50:05Z",
+  "evidence": [
+   {
+    "detail": "Manual Tester — Mumbai",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://cutshort.io/job/Manual-tester-Mumbai-Creative-Galileo-Edtech-Pvt-Ltd-7zWofGsN",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-03T18:50:05Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "4930564d70",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Creative Galileo Edtech Pvt Ltd",
+ "slug": "creative-galileo-edtech-pvt-ltd",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}

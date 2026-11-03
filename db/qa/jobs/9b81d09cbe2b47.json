@@ -1,0 +1,82 @@
+{
+ "apply_url": null,
+ "board_apply": "https://jobs.weekday.works/quality-assurance-engineer-at-gametion-technologies-pvt-ltd-4406545252",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "Gametion Technologies",
+ "company_slug": "gametion-technologies",
+ "concerns": [
+  "Employer has not confirmed hiring from India",
+  "Pay not disclosed — ask for the range early",
+  "Full description not available from this source"
+ ],
+ "contacts_count": 0,
+ "content_hash": "38f234148445",
+ "date_quality": "unknown",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-03T18:50:05Z",
+ "fit": 66,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "9b81d09cbe2b47",
+ "include_reason": "QA / test engineer title",
+ "india": {
+  "cities": [],
+  "company": "yes",
+  "reason": "Location not stated",
+  "status": "unconfirmed",
+  "visa": false
+ },
+ "kind": "qa-engineer",
+ "last_verified": "2026-11-03T18:50:05Z",
+ "location": "",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": null,
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 55,
+  "comp": 60,
+  "company": 66,
+  "location": 36,
+  "seniority": 84,
+  "skill": 74
+ },
+ "seniority": "unspecified",
+ "snippet": "",
+ "source_primary": "Web (via search index)",
+ "sources": [
+  {
+   "id": "web",
+   "job_id": "https://jobs.weekday.works/quality-assurance-engineer-at-gametion-technologies-pvt-ltd-4406545252",
+   "kind": "search",
+   "name": "Web (via search index)",
+   "posted_at": null,
+   "seen_at": "2026-11-03T18:50:05Z",
+   "url": "https://jobs.weekday.works/quality-assurance-engineer-at-gametion-technologies-pvt-ltd-4406545252"
+  }
+ ],
+ "specializations": [],
+ "status": "lead",
+ "tier": 3,
+ "title": "Quality Assurance Engineer",
+ "tools": [],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://jobs.weekday.works/quality-assurance-engineer-at-gametion-technologies-pvt-ltd-4406545252",
+ "why": [
+  "QA / test engineer role",
+  "Gametion Technologies already hires people in India"
+ ],
+ "work_mode": "unspecified",
+ "years_max": null,
+ "years_min": null
+}

@@ -11,7 +11,7 @@
   "Full description not available from this source"
  ],
  "contacts_count": 0,
- "content_hash": "33a34c3d1bd7",
+ "content_hash": "17506a251676",
  "date_quality": "unknown",
  "deadline": null,
  "employment": "full-time",
@@ -32,8 +32,8 @@
   "visa": false
  },
  "kind": "slot-qa",
- "last_verified": "2026-10-30T03:44:22Z",
- "location": "Bengaluru, India",
+ "last_verified": "2026-11-03T18:50:05Z",
+ "location": "Bengaluru",
  "logo": null,
  "needs_review": false,
  "official": false,
@@ -54,15 +54,15 @@
  },
  "seniority": "unspecified",
  "snippet": "",
- "source_primary": "Built In Bengaluru (via search index)",
+ "source_primary": "Web (via search index)",
  "sources": [
   {
    "id": "web",
    "job_id": "https://builtinbengaluru.in/job/qa-engineer-software-slot-game-exp-mandate/8740656",
    "kind": "search",
-   "name": "Built In Bengaluru (via search index)",
+   "name": "Web (via search index)",
    "posted_at": null,
-   "seen_at": "2026-10-30T03:44:22Z",
+   "seen_at": "2026-11-03T18:50:05Z",
    "url": "https://builtinbengaluru.in/job/qa-engineer-software-slot-game-exp-mandate/8740656"
   }
  ],
@@ -71,7 +71,7 @@
  ],
  "status": "lead",
  "tier": 3,
- "title": "QA Engineer - Software (Slot Game exp mandate)",
+ "title": "QA Engineer - Software (Slot Game Exp Mandate)",
  "tools": [],
  "track": "game",
  "updated_at": null,

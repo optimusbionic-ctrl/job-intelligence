@@ -10,7 +10,7 @@
   "Full description not available from this source"
  ],
  "contacts_count": 0,
- "content_hash": "1a8450e4831a",
+ "content_hash": "ce02ec143100",
  "date_quality": "unknown",
  "deadline": null,
  "employment": "full-time",
@@ -31,8 +31,8 @@
   "visa": false
  },
  "kind": "manual-qa",
- "last_verified": "2026-10-29T00:44:13Z",
- "location": "Mumbai, India",
+ "last_verified": "2026-11-03T18:50:05Z",
+ "location": "Mumbai",
  "logo": null,
  "needs_review": false,
  "official": false,
@@ -53,15 +53,15 @@
  },
  "seniority": "unspecified",
  "snippet": "",
- "source_primary": "TeamLease (via search index)",
+ "source_primary": "Web (via search index)",
  "sources": [
   {
    "id": "web",
    "job_id": "https://www.teamlease.com/jobs/software-tester-manual-testing-jobs-in-mumbai-alfa-labs-technologies-llp-1100254",
    "kind": "search",
-   "name": "TeamLease (via search index)",
+   "name": "Web (via search index)",
    "posted_at": null,
-   "seen_at": "2026-10-29T00:44:13Z",
+   "seen_at": "2026-11-03T18:50:05Z",
    "url": "https://www.teamlease.com/jobs/software-tester-manual-testing-jobs-in-mumbai-alfa-labs-technologies-llp-1100254"
   }
  ],

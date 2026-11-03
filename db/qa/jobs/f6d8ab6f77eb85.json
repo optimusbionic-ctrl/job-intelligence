@@ -1,0 +1,84 @@
+{
+ "apply_url": null,
+ "board_apply": "https://www.foundit.in/job/qa-engineer-slot-gaming-manual-tester-arrise-solutions-india-pvt-ltd-noida-38303734",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "Arrise Solutions India Pvt Ltd",
+ "company_slug": "arrise-solutions-india-pvt-ltd",
+ "concerns": [
+  "Office outside Mumbai — relocation within India",
+  "Pay not disclosed — ask for the range early",
+  "Full description not available from this source"
+ ],
+ "contacts_count": 0,
+ "content_hash": "1a9a5d66a9f2",
+ "date_quality": "unknown",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-03T18:50:05Z",
+ "fit": 73,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "f6d8ab6f77eb85",
+ "include_reason": "Slot / casino / real-money game QA",
+ "india": {
+  "cities": [
+   "Delhi NCR"
+  ],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "slot-qa",
+ "last_verified": "2026-11-03T18:50:05Z",
+ "location": "Noida",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": null,
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 55,
+  "comp": 60,
+  "company": 66,
+  "location": 60,
+  "seniority": 84,
+  "skill": 86
+ },
+ "seniority": "unspecified",
+ "snippet": "",
+ "source_primary": "foundit (via search index)",
+ "sources": [
+  {
+   "id": "foundit",
+   "job_id": "https://www.foundit.in/job/qa-engineer-slot-gaming-manual-tester-arrise-solutions-india-pvt-ltd-noida-38303734",
+   "kind": "search",
+   "name": "foundit (via search index)",
+   "posted_at": null,
+   "seen_at": "2026-11-03T18:50:05Z",
+   "url": "https://www.foundit.in/job/qa-engineer-slot-gaming-manual-tester-arrise-solutions-india-pvt-ltd-noida-38303734"
+  }
+ ],
+ "specializations": [],
+ "status": "lead",
+ "tier": 3,
+ "title": "QA Engineer - Slot Gaming (Manual Tester)",
+ "tools": [],
+ "track": "game",
+ "updated_at": null,
+ "url": "https://www.foundit.in/job/qa-engineer-slot-gaming-manual-tester-arrise-solutions-india-pvt-ltd-noida-38303734",
+ "why": [
+  "Slot / casino game QA — you have tested slot mechanics, betting, payouts and bonus features (Savannah)",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": null,
+ "years_min": null
+}

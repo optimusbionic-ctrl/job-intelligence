@@ -1,0 +1,83 @@
+{
+ "apply_url": null,
+ "board_apply": "https://www.foundit.in/job/quality-assurance-tester-arcitech-navi-mumbai-55514421",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "Arcitech",
+ "company_slug": "arcitech",
+ "concerns": [
+  "Pay not disclosed — ask for the range early",
+  "Full description not available from this source"
+ ],
+ "contacts_count": 0,
+ "content_hash": "901bd97fa642",
+ "date_quality": "unknown",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-03T18:50:05Z",
+ "fit": 79,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "5d621aa97121bb",
+ "include_reason": "Manual / functional QA title",
+ "india": {
+  "cities": [
+   "Mumbai"
+  ],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "manual-qa",
+ "last_verified": "2026-11-03T18:50:05Z",
+ "location": "Navi Mumbai",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": null,
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 55,
+  "comp": 60,
+  "company": 66,
+  "location": 100,
+  "seniority": 84,
+  "skill": 86
+ },
+ "seniority": "unspecified",
+ "snippet": "",
+ "source_primary": "foundit (via search index)",
+ "sources": [
+  {
+   "id": "foundit",
+   "job_id": "https://www.foundit.in/job/quality-assurance-tester-arcitech-navi-mumbai-55514421",
+   "kind": "search",
+   "name": "foundit (via search index)",
+   "posted_at": null,
+   "seen_at": "2026-11-03T18:50:05Z",
+   "url": "https://www.foundit.in/job/quality-assurance-tester-arcitech-navi-mumbai-55514421"
+  }
+ ],
+ "specializations": [],
+ "status": "lead",
+ "tier": 3,
+ "title": "Quality Assurance Tester",
+ "tools": [],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://www.foundit.in/job/quality-assurance-tester-arcitech-navi-mumbai-55514421",
+ "why": [
+  "Manual / functional QA — the core of your resume",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": null,
+ "years_min": null
+}

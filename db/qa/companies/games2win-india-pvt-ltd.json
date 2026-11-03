@@ -1,0 +1,30 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-03T18:50:05Z",
+  "evidence": [
+   {
+    "detail": "Test Engineer — Mumbai",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.foundit.in/job/test-engineer-games2win-india-pvt-ltd-mumbai-37050530",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-03T18:50:05Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "b5250dbc3d",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Games2win India Pvt Ltd",
+ "slug": "games2win-india-pvt-ltd",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}

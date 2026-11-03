@@ -1,0 +1,30 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-03T18:50:05Z",
+  "evidence": [
+   {
+    "detail": "Game Tester — Mumbai",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.foundit.in/job/game-tester-dream11-mumbai-46389783",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-03T18:50:05Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "02529d518e",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Dream11",
+ "slug": "dream11",
+ "tier": 3,
+ "tracks": [
+  "game"
+ ]
+}

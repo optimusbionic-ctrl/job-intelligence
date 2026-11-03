@@ -1,0 +1,30 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-03T18:50:05Z",
+  "evidence": [
+   {
+    "detail": "Quality Assurance Engineer — Bengaluru",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://cutshort.io/job/Quality-Assurance-Engineer-Bengaluru-Bangalore-Molecular-Connections-4KcDyxa8",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-03T18:50:05Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "b6e087db39",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Molecular Connections",
+ "slug": "molecular-connections",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}

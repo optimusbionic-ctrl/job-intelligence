@@ -1,0 +1,83 @@
+{
+ "apply_url": null,
+ "board_apply": "https://outscal.com/job/game-tester-at-gametion-technologies-pvt-ltd-in-navi-mumbai-maharashtra-india-1",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "Gametion Technologies",
+ "company_slug": "gametion-technologies",
+ "concerns": [
+  "Pay not disclosed — ask for the range early",
+  "Full description not available from this source"
+ ],
+ "contacts_count": 0,
+ "content_hash": "443d6372226f",
+ "date_quality": "unknown",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-03T18:50:05Z",
+ "fit": 79,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "02761f2a9f12d8",
+ "include_reason": "Game tester title",
+ "india": {
+  "cities": [
+   "Mumbai"
+  ],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "game-tester",
+ "last_verified": "2026-11-03T18:50:05Z",
+ "location": "Navi Mumbai, Maharashtra, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": null,
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 55,
+  "comp": 60,
+  "company": 66,
+  "location": 100,
+  "seniority": 84,
+  "skill": 86
+ },
+ "seniority": "unspecified",
+ "snippet": "",
+ "source_primary": "Web (via search index)",
+ "sources": [
+  {
+   "id": "web",
+   "job_id": "https://outscal.com/job/game-tester-at-gametion-technologies-pvt-ltd-in-navi-mumbai-maharashtra-india-1",
+   "kind": "search",
+   "name": "Web (via search index)",
+   "posted_at": null,
+   "seen_at": "2026-11-03T18:50:05Z",
+   "url": "https://outscal.com/job/game-tester-at-gametion-technologies-pvt-ltd-in-navi-mumbai-maharashtra-india-1"
+  }
+ ],
+ "specializations": [],
+ "status": "lead",
+ "tier": 3,
+ "title": "Game Tester",
+ "tools": [],
+ "track": "game",
+ "updated_at": null,
+ "url": "https://outscal.com/job/game-tester-at-gametion-technologies-pvt-ltd-in-navi-mumbai-maharashtra-india-1",
+ "why": [
+  "Game tester role — matches your game QA work at Webmobril and Golden Horde",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": null,
+ "years_min": null
+}

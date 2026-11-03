@@ -1,0 +1,30 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-03T18:50:05Z",
+  "evidence": [
+   {
+    "detail": "QA Engineer — Mumbai",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://cutshort.io/job/QA-Engineer-Mumbai-ftcash-Br2KbmLg",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-03T18:50:05Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "5e9f8e6992",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "ftcash",
+ "slug": "ftcash",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}

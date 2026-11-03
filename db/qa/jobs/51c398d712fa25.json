@@ -1,0 +1,83 @@
+{
+ "apply_url": null,
+ "board_apply": "https://outscal.com/job/game-tester-at-dream-sports-in-mumbai-maharashtra-india",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "Dream Sports",
+ "company_slug": "dream-sports",
+ "concerns": [
+  "Pay not disclosed — ask for the range early",
+  "Full description not available from this source"
+ ],
+ "contacts_count": 0,
+ "content_hash": "6e87f07344aa",
+ "date_quality": "unknown",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-03T18:50:05Z",
+ "fit": 79,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "51c398d712fa25",
+ "include_reason": "Game tester title",
+ "india": {
+  "cities": [
+   "Mumbai"
+  ],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "game-tester",
+ "last_verified": "2026-11-03T18:50:05Z",
+ "location": "Mumbai, Maharashtra, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": null,
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 55,
+  "comp": 60,
+  "company": 66,
+  "location": 100,
+  "seniority": 84,
+  "skill": 86
+ },
+ "seniority": "unspecified",
+ "snippet": "",
+ "source_primary": "Web (via search index)",
+ "sources": [
+  {
+   "id": "web",
+   "job_id": "https://outscal.com/job/game-tester-at-dream-sports-in-mumbai-maharashtra-india",
+   "kind": "search",
+   "name": "Web (via search index)",
+   "posted_at": null,
+   "seen_at": "2026-11-03T18:50:05Z",
+   "url": "https://outscal.com/job/game-tester-at-dream-sports-in-mumbai-maharashtra-india"
+  }
+ ],
+ "specializations": [],
+ "status": "lead",
+ "tier": 3,
+ "title": "Game Tester",
+ "tools": [],
+ "track": "game",
+ "updated_at": null,
+ "url": "https://outscal.com/job/game-tester-at-dream-sports-in-mumbai-maharashtra-india",
+ "why": [
+  "Game tester role — matches your game QA work at Webmobril and Golden Horde",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": null,
+ "years_min": null
+}

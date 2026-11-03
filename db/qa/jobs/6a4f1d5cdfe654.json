@@ -1,0 +1,80 @@
+{
+ "apply_url": null,
+ "board_apply": "https://www.ziprecruiter.in/jobs/543987783-qa-engineer-manual-testing-automation-exposure-at-iss-institutional-shareholder-services",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "ISS Institutional Shareholder Services",
+ "company_slug": "iss-institutional-shareholder-services",
+ "concerns": [
+  "Employer has not confirmed hiring from India",
+  "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
+  "Pay not disclosed — ask for the range early",
+  "Full description not available from this source"
+ ],
+ "contacts_count": 0,
+ "content_hash": "94048b5a3894",
+ "date_quality": "unknown",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-03T18:50:05Z",
+ "fit": 56,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "6a4f1d5cdfe654",
+ "include_reason": "Automation-heavy QA (SDET)",
+ "india": {
+  "cities": [],
+  "company": "unclear",
+  "reason": "Location not stated",
+  "status": "unconfirmed",
+  "visa": false
+ },
+ "kind": "automation",
+ "last_verified": "2026-11-03T18:50:05Z",
+ "location": "",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": null,
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 55,
+  "comp": 60,
+  "company": 66,
+  "location": 36,
+  "seniority": 84,
+  "skill": 41
+ },
+ "seniority": "unspecified",
+ "snippet": "",
+ "source_primary": "Web (via search index)",
+ "sources": [
+  {
+   "id": "web",
+   "job_id": "https://www.ziprecruiter.in/jobs/543987783-qa-engineer-manual-testing-automation-exposure-at-iss-institutional-shareholder-services",
+   "kind": "search",
+   "name": "Web (via search index)",
+   "posted_at": null,
+   "seen_at": "2026-11-03T18:50:05Z",
+   "url": "https://www.ziprecruiter.in/jobs/543987783-qa-engineer-manual-testing-automation-exposure-at-iss-institutional-shareholder-services"
+  }
+ ],
+ "specializations": [],
+ "status": "lead",
+ "tier": 3,
+ "title": "QA Engineer (Manual Testing, Automation Exposure)",
+ "tools": [],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://www.ziprecruiter.in/jobs/543987783-qa-engineer-manual-testing-automation-exposure-at-iss-institutional-shareholder-services",
+ "why": [],
+ "work_mode": "unspecified",
+ "years_max": null,
+ "years_min": null
+}

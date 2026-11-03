@@ -1,6 +1,6 @@
 {
  "apply_url": null,
- "board_apply": "https://ea.gr8people.com/jobs/170505",
+ "board_apply": "https://ea.gr8people.com/jobs/168902?locale=zh",
  "category": "Other",
  "comp_potential": "unknown",
  "company": "Electronic Arts",
@@ -12,7 +12,7 @@
   "Full description not available from this source"
  ],
  "contacts_count": 0,
- "content_hash": "0cc0f7c57d8c",
+ "content_hash": "02696bbcc595",
  "date_quality": "unknown",
  "deadline": null,
  "employment": "full-time",
@@ -31,7 +31,7 @@
   "visa": false
  },
  "kind": "manual-qa",
- "last_verified": "2026-10-30T03:44:22Z",
+ "last_verified": "2026-11-03T18:50:05Z",
  "location": "",
  "logo": null,
  "needs_review": false,
@@ -53,25 +53,16 @@
  },
  "seniority": "junior",
  "snippet": "",
- "source_primary": "EA careers (via search index)",
+ "source_primary": "Web (via search index)",
  "sources": [
   {
    "id": "web",
-   "job_id": "https://ea.gr8people.com/jobs/170505",
+   "job_id": "https://ea.gr8people.com/jobs/168902?locale=zh",
    "kind": "search",
-   "name": "EA careers (via search index)",
+   "name": "Web (via search index)",
    "posted_at": null,
-   "seen_at": "2026-10-30T03:44:22Z",
-   "url": "https://ea.gr8people.com/jobs/170505"
-  },
-  {
-   "id": "web",
-   "job_id": "https://ea.gr8people.com/jobs/168902",
-   "kind": "search",
-   "name": "EA careers (via search index)",
-   "posted_at": null,
-   "seen_at": "2026-10-30T03:44:22Z",
-   "url": "https://ea.gr8people.com/jobs/168902"
+   "seen_at": "2026-11-03T18:50:05Z",
+   "url": "https://ea.gr8people.com/jobs/168902?locale=zh"
   }
  ],
  "specializations": [],
@@ -81,7 +72,7 @@
  "tools": [],
  "track": "software",
  "updated_at": null,
- "url": "https://ea.gr8people.com/jobs/170505",
+ "url": "https://ea.gr8people.com/jobs/168902?locale=zh",
  "why": [
   "Manual / functional QA — the core of your resume"
  ],

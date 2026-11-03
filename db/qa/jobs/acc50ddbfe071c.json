@@ -1,0 +1,94 @@
+{
+ "apply_url": "https://apply.workable.com/keywords-intl1/jobs/view/32B10AE4F9.md",
+ "board_apply": null,
+ "category": "Game services / QA",
+ "comp_potential": "unknown",
+ "company": "Keywords Studios",
+ "company_slug": "keywords-studios",
+ "concerns": [
+  "Office outside Mumbai — relocation within India",
+  "Pay not disclosed — ask for the range early",
+  "Game services / QA company (client projects)",
+  "Full description not available from this source"
+ ],
+ "contacts_count": 1,
+ "content_hash": "588cb2b0df50",
+ "date_quality": "unknown",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-03T18:50:05Z",
+ "fit": 78,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "acc50ddbfe071c",
+ "include_reason": "Game tester title",
+ "india": {
+  "cities": [
+   "Delhi NCR"
+  ],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "game-tester",
+ "last_verified": "2026-11-03T18:50:05Z",
+ "location": "Gurgaon",
+ "logo": null,
+ "needs_review": false,
+ "official": true,
+ "posted_at": null,
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 55,
+  "comp": 60,
+  "company": 96,
+  "location": 60,
+  "seniority": 84,
+  "skill": 86
+ },
+ "seniority": "unspecified",
+ "snippet": "",
+ "source_primary": "Workable (via search index)",
+ "sources": [
+  {
+   "id": "workable",
+   "job_id": "https://apply.workable.com/keywords-intl1/jobs/view/32B10AE4F9.md",
+   "kind": "search",
+   "name": "Workable (via search index)",
+   "posted_at": null,
+   "seen_at": "2026-11-03T18:50:05Z",
+   "url": "https://apply.workable.com/keywords-intl1/jobs/view/32B10AE4F9.md"
+  },
+  {
+   "id": "web",
+   "job_id": "https://startup.jobs/video-game-tester-bengaluru-keywords-studios-8645484",
+   "kind": "search",
+   "name": "Web (via search index)",
+   "posted_at": null,
+   "seen_at": "2026-11-03T18:50:05Z",
+   "url": "https://startup.jobs/video-game-tester-bengaluru-keywords-studios-8645484"
+  }
+ ],
+ "specializations": [],
+ "status": "verified",
+ "tier": 2,
+ "title": "Video Game Tester - Gurgaon",
+ "tools": [],
+ "track": "game",
+ "updated_at": null,
+ "url": "https://apply.workable.com/keywords-intl1/jobs/view/32B10AE4F9.md",
+ "why": [
+  "Game tester role — matches your game QA work at Webmobril and Golden Horde",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": null,
+ "years_min": null
+}

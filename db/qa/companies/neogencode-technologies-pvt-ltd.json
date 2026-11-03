@@ -1,0 +1,30 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-03T18:50:05Z",
+  "evidence": [
+   {
+    "detail": "GxP Manual Functional Tester — Bengaluru, Mumbai, Pune, Hyderabad",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://cutshort.io/job/GxP-Manual-Functional-Tester-Bengaluru-Bangalore-Mumbai-Delhi-Gurugram-Noida-Ghaziabad-Faridabad-Pune-Hyderabad-NeoGenCode-Technologies-Pvt-Ltd-6IcawWTo",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-03T18:50:05Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "73247ad2d2",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "NeoGenCode Technologies Pvt Ltd",
+ "slug": "neogencode-technologies-pvt-ltd",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}

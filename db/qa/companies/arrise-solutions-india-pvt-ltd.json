@@ -1,0 +1,30 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-03T18:50:05Z",
+  "evidence": [
+   {
+    "detail": "QA Engineer - Slot Gaming (Manual Tester) — Noida",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.foundit.in/job/qa-engineer-slot-gaming-manual-tester-arrise-solutions-india-pvt-ltd-noida-38303734",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-03T18:50:05Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "88920f2487",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Arrise Solutions India Pvt Ltd",
+ "slug": "arrise-solutions-india-pvt-ltd",
+ "tier": 3,
+ "tracks": [
+  "game"
+ ]
+}
