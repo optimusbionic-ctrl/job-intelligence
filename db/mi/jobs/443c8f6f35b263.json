@@ -1,0 +1,88 @@
+{
+ "apply_url": null,
+ "board_apply": "https://jobs.weekday.works/senior-motion-designer-at-kwalee-4310333644",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "Kwalee",
+ "company_slug": "kwalee",
+ "concerns": [
+  "Employer has not confirmed hiring from India",
+  "Compensation not disclosed",
+  "Full description not available from this source"
+ ],
+ "contacts_count": 0,
+ "content_hash": "cf74bb19e6d7",
+ "date_quality": "unknown",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-03T18:34:57Z",
+ "fit": 59,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "443c8f6f35b263",
+ "include_reason": "Motion design title",
+ "india": {
+  "cities": [],
+  "company": "unclear",
+  "reason": "Location not stated",
+  "status": "unconfirmed",
+  "visa": false
+ },
+ "kind": "motion",
+ "last_verified": "2026-11-03T18:34:57Z",
+ "location": "",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": null,
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 45,
+  "comp": 48,
+  "company": 40,
+  "location": 38,
+  "seniority": 100,
+  "skill": 69
+ },
+ "seniority": "senior",
+ "snippet": "",
+ "source_primary": "Web job listing (via search index)",
+ "sources": [
+  {
+   "id": "web",
+   "job_id": "https://jobs.weekday.works/senior-motion-designer-at-kwalee-4310333644",
+   "kind": "search",
+   "name": "Web job listing (via search index)",
+   "posted_at": null,
+   "seen_at": "2026-11-03T18:34:57Z",
+   "url": "https://jobs.weekday.works/senior-motion-designer-at-kwalee-4310333644"
+  },
+  {
+   "id": "foundit",
+   "job_id": "https://www.foundit.in/job/senior-motion-designer-kwalee-bengaluru-bangalore-36886724",
+   "kind": "search",
+   "name": "foundit (via search index)",
+   "posted_at": null,
+   "seen_at": "2026-11-03T18:34:57Z",
+   "url": "https://www.foundit.in/job/senior-motion-designer-kwalee-bengaluru-bangalore-36886724"
+  }
+ ],
+ "specializations": [],
+ "status": "lead",
+ "tier": 3,
+ "title": "Senior Motion Designer",
+ "tools": [],
+ "updated_at": null,
+ "url": "https://jobs.weekday.works/senior-motion-designer-at-kwalee-4310333644",
+ "why": [
+  "Core motion design role"
+ ],
+ "work_mode": "unspecified",
+ "years_min": null
+}

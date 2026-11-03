@@ -1,0 +1,27 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-03T18:34:57Z",
+  "evidence": [
+   {
+    "detail": "Motion Graphics Designer — Bangalore, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.twine.net/projects/b9dfv0-absolute-sports-pvt-ltd-motion-graphics-designer-motion-graphic-designer-in-bangalore-india-job",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-03T18:34:57Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "f4caf6874f",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Absolute Sports Pvt. Ltd.",
+ "slug": "absolute-sports-pvt-ltd",
+ "tier": 3
+}

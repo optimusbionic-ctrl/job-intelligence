@@ -1,0 +1,77 @@
+{
+ "apply_url": null,
+ "board_apply": "https://jobs.weekday.works/senior-motion-graphic-designer-mgd2604in-at-kimp-4399263656",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "Kimp",
+ "company_slug": "kimp",
+ "concerns": [
+  "Employer has not confirmed hiring from India",
+  "Compensation not disclosed",
+  "Full description not available from this source"
+ ],
+ "contacts_count": 0,
+ "content_hash": "835a87c7c741",
+ "date_quality": "unknown",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-03T18:34:57Z",
+ "fit": 51,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "5a67138101447e",
+ "include_reason": "Mixed graphic + motion title",
+ "india": {
+  "cities": [],
+  "company": "unclear",
+  "reason": "Location not stated",
+  "status": "unconfirmed",
+  "visa": false
+ },
+ "kind": "graphic-motion",
+ "last_verified": "2026-11-03T18:34:57Z",
+ "location": "",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": null,
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 45,
+  "comp": 48,
+  "company": 40,
+  "location": 38,
+  "seniority": 100,
+  "skill": 42
+ },
+ "seniority": "senior",
+ "snippet": "",
+ "source_primary": "Web job listing (via search index)",
+ "sources": [
+  {
+   "id": "web",
+   "job_id": "https://jobs.weekday.works/senior-motion-graphic-designer-mgd2604in-at-kimp-4399263656",
+   "kind": "search",
+   "name": "Web job listing (via search index)",
+   "posted_at": null,
+   "seen_at": "2026-11-03T18:34:57Z",
+   "url": "https://jobs.weekday.works/senior-motion-graphic-designer-mgd2604in-at-kimp-4399263656"
+  }
+ ],
+ "specializations": [],
+ "status": "lead",
+ "tier": 3,
+ "title": "Senior Motion Graphic Designer",
+ "tools": [],
+ "updated_at": null,
+ "url": "https://jobs.weekday.works/senior-motion-graphic-designer-mgd2604in-at-kimp-4399263656",
+ "why": [],
+ "work_mode": "unspecified",
+ "years_min": null
+}

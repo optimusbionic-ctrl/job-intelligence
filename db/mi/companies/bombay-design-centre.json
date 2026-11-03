@@ -1,0 +1,19 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-03T18:34:57Z",
+  "evidence": [],
+  "first_checked_at": "2026-11-03T18:34:57Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "54391d7cdf",
+  "summary": "No public evidence yet about hiring from India.",
+  "verdict": "unclear"
+ },
+ "inferred": true,
+ "name": "Bombay Design Centre",
+ "slug": "bombay-design-centre",
+ "tier": 3
+}

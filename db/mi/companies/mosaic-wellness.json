@@ -1,0 +1,27 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-03T18:34:57Z",
+  "evidence": [
+   {
+    "detail": "Motion Designer — Mumbai",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://cutshort.io/job/Motion-Designer-Mumbai-Mosaic-Wellness-TesUXjsN",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-03T18:34:57Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "5951667241",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Mosaic Wellness",
+ "slug": "mosaic-wellness",
+ "tier": 3
+}

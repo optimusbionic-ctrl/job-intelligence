@@ -1,0 +1,79 @@
+{
+ "apply_url": null,
+ "board_apply": "https://jobs.weekday.works/motion-designer-at-think-design-collaborative-4392188437",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "Think Design Collaborative",
+ "company_slug": "think-design-collaborative",
+ "concerns": [
+  "Employer has not confirmed hiring from India",
+  "Compensation not disclosed",
+  "Full description not available from this source"
+ ],
+ "contacts_count": 0,
+ "content_hash": "4e735e12ce20",
+ "date_quality": "unknown",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-03T18:34:57Z",
+ "fit": 54,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "30b0a3058d322b",
+ "include_reason": "Motion design title",
+ "india": {
+  "cities": [],
+  "company": "unclear",
+  "reason": "Location not stated",
+  "status": "unconfirmed",
+  "visa": false
+ },
+ "kind": "motion",
+ "last_verified": "2026-11-03T18:34:57Z",
+ "location": "",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": null,
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 45,
+  "comp": 48,
+  "company": 40,
+  "location": 38,
+  "seniority": 66,
+  "skill": 69
+ },
+ "seniority": "unspecified",
+ "snippet": "",
+ "source_primary": "Web job listing (via search index)",
+ "sources": [
+  {
+   "id": "web",
+   "job_id": "https://jobs.weekday.works/motion-designer-at-think-design-collaborative-4392188437",
+   "kind": "search",
+   "name": "Web job listing (via search index)",
+   "posted_at": null,
+   "seen_at": "2026-11-03T18:34:57Z",
+   "url": "https://jobs.weekday.works/motion-designer-at-think-design-collaborative-4392188437"
+  }
+ ],
+ "specializations": [],
+ "status": "lead",
+ "tier": 3,
+ "title": "Motion Designer",
+ "tools": [],
+ "updated_at": null,
+ "url": "https://jobs.weekday.works/motion-designer-at-think-design-collaborative-4392188437",
+ "why": [
+  "Core motion design role"
+ ],
+ "work_mode": "unspecified",
+ "years_min": null
+}

@@ -1,0 +1,97 @@
+{
+ "ats": {
+  "slug": "spotdraft",
+  "type": "ashby"
+ },
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": {
+   "apac": 0,
+   "countries": [
+    "India",
+    "United States"
+   ],
+   "india": 10,
+   "india_samples": [
+    {
+     "location": "SpotDraft HQ, Bengaluru",
+     "title": "Account Executive - APAC",
+     "url": "https://jobs.ashbyhq.com/spotdraft/03f96d67-9e34-4c45-811b-adeb72f79818"
+    },
+    {
+     "location": "SpotDraft HQ, Bengaluru",
+     "title": "Associate Product Manager",
+     "url": "https://jobs.ashbyhq.com/spotdraft/e9146208-bd24-443b-b1d8-96aabd292538"
+    },
+    {
+     "location": "SpotDraft HQ, Bengaluru",
+     "title": "Chief Of Staff to the CTO",
+     "url": "https://jobs.ashbyhq.com/spotdraft/98278be5-e686-4dec-b5cc-cc2f08713ebb"
+    },
+    {
+     "location": "SpotDraft HQ, Bengaluru",
+     "title": "Customer Success Manager-NAM",
+     "url": "https://jobs.ashbyhq.com/spotdraft/cba96bf5-96ef-4317-8aa4-b211d19262cc"
+    }
+   ],
+   "open_samples": [],
+   "remote": 5,
+   "restricted_remote": 5,
+   "restricted_samples": [
+    {
+     "location": "SpotDraft Inc. NY",
+     "title": "Account Executive- US",
+     "url": "https://jobs.ashbyhq.com/spotdraft/fcf8da74-e8f4-439c-808e-7b42e59550e1"
+    },
+    {
+     "location": "SpotDraft Inc. NY",
+     "title": "Community Manager - US",
+     "url": "https://jobs.ashbyhq.com/spotdraft/bbbcedb7-2d52-4803-bd00-863c8667e95e"
+    },
+    {
+     "location": "SpotDraft Inc. NY",
+     "title": "Global SDR Manager",
+     "url": "https://jobs.ashbyhq.com/spotdraft/705ea854-c4ff-48ed-a5ee-e0b7dbfc10bd"
+    },
+    {
+     "location": "SpotDraft Inc. NY",
+     "title": "LegalTech - Sales Development Representative",
+     "url": "https://jobs.ashbyhq.com/spotdraft/cdb3f2ba-e156-441c-ad2d-fc4ec039cd8d"
+    }
+   ],
+   "slug": "spotdraft",
+   "total": 15,
+   "type": "ashby",
+   "url": "https://jobs.ashbyhq.com/spotdraft",
+   "worldwide": 0
+  },
+  "changed_at": "2026-11-03T18:34:57Z",
+  "evidence": [
+   {
+    "detail": "Account Executive - APAC (SpotDraft HQ, Bengaluru); Associate Product Manager (SpotDraft HQ, Bengaluru); Chief Of Staff to the CTO (SpotDraft HQ, Bengaluru)",
+    "kind": "board",
+    "label": "10 of 15 open roles are located in India",
+    "url": "https://jobs.ashbyhq.com/spotdraft",
+    "weight": 5
+   },
+   {
+    "detail": "Senior Motion Graphics Designer — Bengaluru",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://career.io/job/senior-motion-graphics-designer-bengaluru-spotdraft-b7bca4359d503160188b4be4011c583d",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-03T18:34:57Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "e96c24e4b1",
+  "summary": "10 of 15 open roles are located in India.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "SpotDraft",
+ "slug": "spotdraft",
+ "tier": 3
+}

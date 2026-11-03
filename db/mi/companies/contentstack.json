@@ -1,0 +1,93 @@
+{
+ "ats": {
+  "slug": "contentstack",
+  "type": "greenhouse"
+ },
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": {
+   "apac": 0,
+   "countries": [
+    "India",
+    "Netherlands",
+    "United States"
+   ],
+   "india": 6,
+   "india_samples": [
+    {
+     "location": "Chennai",
+     "title": "AI-Native Software Engineer",
+     "url": "https://www.contentstack.com/company/careers/8012782003?gh_jid=8012782003"
+    },
+    {
+     "location": "Bangalore (Hybrid)",
+     "title": "Data Architect - Business Intelligence ",
+     "url": "https://www.contentstack.com/company/careers/7760912003?gh_jid=7760912003"
+    },
+    {
+     "location": "India - Pune",
+     "title": "Principal Engineer - DevOps",
+     "url": "https://www.contentstack.com/company/careers/8012786003?gh_jid=8012786003"
+    },
+    {
+     "location": "Chennai",
+     "title": "Senior Engineer I - QA",
+     "url": "https://www.contentstack.com/company/careers/8032566003?gh_jid=8032566003"
+    }
+   ],
+   "open_samples": [],
+   "remote": 4,
+   "restricted_remote": 3,
+   "restricted_samples": [
+    {
+     "location": "Remote - Netherlands or Portgual",
+     "title": "Business Intelligence Data Architect",
+     "url": "https://www.contentstack.com/company/careers/8045018003?gh_jid=8045018003"
+    },
+    {
+     "location": "Remote - US",
+     "title": "Sr. Partner Relationship Manager, Agencies",
+     "url": "https://www.contentstack.com/company/careers/8010026003?gh_jid=8010026003"
+    },
+    {
+     "location": "Remote - US",
+     "title": "Sr. Product Marketing Manager, Content Cloud",
+     "url": "https://www.contentstack.com/company/careers/7989312003?gh_jid=7989312003"
+    }
+   ],
+   "slug": "contentstack",
+   "total": 11,
+   "type": "greenhouse",
+   "url": "https://boards.greenhouse.io/contentstack",
+   "worldwide": 0
+  },
+  "changed_at": "2026-11-03T18:34:57Z",
+  "evidence": [
+   {
+    "detail": "AI-Native Software Engineer (Chennai); Data Architect - Business Intelligence  (Bangalore (Hybrid)); Principal Engineer - DevOps (India - Pune)",
+    "kind": "board",
+    "label": "6 of 11 open roles are located in India",
+    "url": "https://boards.greenhouse.io/contentstack",
+    "weight": 5
+   },
+   {
+    "detail": "Senior Motion Designer — Bengaluru, Karnataka, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://outscal.com/job/senior-motion-designer-at-contentstack-in-bengaluru-karnataka-india-1",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-03T18:34:57Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "252bb078c7",
+  "summary": "6 of 11 open roles are located in India.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Contentstack",
+ "slug": "contentstack",
+ "tier": 3
+}

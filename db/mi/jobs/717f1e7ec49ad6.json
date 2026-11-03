@@ -1,0 +1,81 @@
+{
+ "apply_url": null,
+ "board_apply": "https://outscal.com/job/lead-motion-designer-at-glance-in-bangalore-karnataka-india",
+ "category": "Consumer tech",
+ "comp_potential": "unknown",
+ "company": "Glance",
+ "company_slug": "glance",
+ "concerns": [
+  "Compensation not disclosed",
+  "Full description not available from this source"
+ ],
+ "contacts_count": 1,
+ "content_hash": "8e8eaa749063",
+ "date_quality": "unknown",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-03T18:34:57Z",
+ "fit": 66,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "717f1e7ec49ad6",
+ "include_reason": "Mixed graphic + motion title",
+ "india": {
+  "cities": [
+   "Bengaluru"
+  ],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "graphic-motion",
+ "last_verified": "2026-11-03T18:34:57Z",
+ "location": "Bangalore, Karnataka, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": null,
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 45,
+  "comp": 48,
+  "company": 95,
+  "location": 86,
+  "seniority": 96,
+  "skill": 42
+ },
+ "seniority": "lead",
+ "snippet": "",
+ "source_primary": "Web job listing (via search index)",
+ "sources": [
+  {
+   "id": "web",
+   "job_id": "https://outscal.com/job/lead-motion-designer-at-glance-in-bangalore-karnataka-india",
+   "kind": "search",
+   "name": "Web job listing (via search index)",
+   "posted_at": null,
+   "seen_at": "2026-11-03T18:34:57Z",
+   "url": "https://outscal.com/job/lead-motion-designer-at-glance-in-bangalore-karnataka-india"
+  }
+ ],
+ "specializations": [],
+ "status": "lead",
+ "tier": 1,
+ "title": "Lead Motion Designer",
+ "tools": [],
+ "updated_at": null,
+ "url": "https://outscal.com/job/lead-motion-designer-at-glance-in-bangalore-karnataka-india",
+ "why": [
+  "Consumer tech company (Tier 1 priority)",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_min": null
+}

@@ -1,0 +1,37 @@
+{
+ "ats": {
+  "slug": "metalab",
+  "type": "greenhouse"
+ },
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": {
+   "apac": 0,
+   "countries": [],
+   "india": 0,
+   "india_samples": [],
+   "open_samples": [],
+   "remote": 4,
+   "restricted_remote": 0,
+   "restricted_samples": [],
+   "slug": "metalab",
+   "total": 4,
+   "type": "greenhouse",
+   "url": "https://boards.greenhouse.io/metalab",
+   "worldwide": 0
+  },
+  "changed_at": "2026-11-03T18:34:57Z",
+  "evidence": [],
+  "first_checked_at": "2026-11-03T18:34:57Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "ca2315e5ca",
+  "summary": "Its careers board shows 4 open roles without a clear location pattern.",
+  "verdict": "unclear"
+ },
+ "inferred": true,
+ "name": "MetaLab",
+ "slug": "metalab",
+ "tier": 3
+}

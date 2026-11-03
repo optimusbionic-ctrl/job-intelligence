@@ -1,0 +1,81 @@
+{
+ "apply_url": null,
+ "board_apply": "https://resuminder.com/jobs/290785-motion-designer-at-cursor",
+ "category": "Developer tools",
+ "comp_potential": "unknown",
+ "company": "Cursor",
+ "company_slug": "cursor",
+ "concerns": [
+  "Employer has not confirmed hiring from India",
+  "Compensation not disclosed",
+  "Full description not available from this source"
+ ],
+ "contacts_count": 1,
+ "content_hash": "b423c73e6f46",
+ "date_quality": "unknown",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-03T18:34:57Z",
+ "fit": 66,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "9340657eeee936",
+ "include_reason": "Motion design title",
+ "india": {
+  "cities": [],
+  "company": "yes",
+  "reason": "Location not stated",
+  "status": "unconfirmed",
+  "visa": false
+ },
+ "kind": "motion",
+ "last_verified": "2026-11-03T18:34:57Z",
+ "location": "",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": null,
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 45,
+  "comp": 48,
+  "company": 98,
+  "location": 38,
+  "seniority": 66,
+  "skill": 69
+ },
+ "seniority": "unspecified",
+ "snippet": "",
+ "source_primary": "Web job listing (via search index)",
+ "sources": [
+  {
+   "id": "web",
+   "job_id": "https://resuminder.com/jobs/290785-motion-designer-at-cursor",
+   "kind": "search",
+   "name": "Web job listing (via search index)",
+   "posted_at": null,
+   "seen_at": "2026-11-03T18:34:57Z",
+   "url": "https://resuminder.com/jobs/290785-motion-designer-at-cursor"
+  }
+ ],
+ "specializations": [],
+ "status": "lead",
+ "tier": 1,
+ "title": "Motion Designer",
+ "tools": [],
+ "updated_at": null,
+ "url": "https://resuminder.com/jobs/290785-motion-designer-at-cursor",
+ "why": [
+  "Core motion design role",
+  "Developer tools company (Tier 1 priority)",
+  "Cursor already hires people in India"
+ ],
+ "work_mode": "unspecified",
+ "years_min": null
+}

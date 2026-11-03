@@ -1,0 +1,27 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-03T18:34:57Z",
+  "evidence": [
+   {
+    "detail": "Creative Technologist, AI & Motion — India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://expertini.work/result/work-creative-technologist-ai-motion-india-dentsu-amp-622636495207663685-india/",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-03T18:34:57Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "627637f455",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "dentsu",
+ "slug": "dentsu",
+ "tier": 3
+}

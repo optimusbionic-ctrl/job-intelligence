@@ -1,0 +1,81 @@
+{
+ "apply_url": null,
+ "board_apply": "https://jobsglitch.com/jobs/motion-design-specialist-at-metalab-remote-6a15e7df58b93c861e7ecada",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "MetaLab",
+ "company_slug": "metalab",
+ "concerns": [
+  "Employer has not confirmed hiring from India",
+  "Compensation not disclosed",
+  "Full description not available from this source"
+ ],
+ "contacts_count": 0,
+ "content_hash": "de569d96a004",
+ "date_quality": "unknown",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-03T18:34:57Z",
+ "fit": 54,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "46bbab56ebc2d4",
+ "include_reason": "Motion design title",
+ "india": {
+  "cities": [],
+  "company": "unclear",
+  "reason": "Remote, region not stated",
+  "status": "unconfirmed",
+  "visa": false
+ },
+ "kind": "motion",
+ "last_verified": "2026-11-03T18:34:57Z",
+ "location": "Remote",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": null,
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "context_benchmark": "mi-dataset-remote",
+  "note": "Not disclosed. Global remote pay context is available, but there is no evidence it applies to this employer or to India-based hires.",
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 45,
+  "comp": 48,
+  "company": 40,
+  "location": 38,
+  "seniority": 66,
+  "skill": 69
+ },
+ "seniority": "unspecified",
+ "snippet": "",
+ "source_primary": "Web job listing (via search index)",
+ "sources": [
+  {
+   "id": "web",
+   "job_id": "https://jobsglitch.com/jobs/motion-design-specialist-at-metalab-remote-6a15e7df58b93c861e7ecada",
+   "kind": "search",
+   "name": "Web job listing (via search index)",
+   "posted_at": null,
+   "seen_at": "2026-11-03T18:34:57Z",
+   "url": "https://jobsglitch.com/jobs/motion-design-specialist-at-metalab-remote-6a15e7df58b93c861e7ecada"
+  }
+ ],
+ "specializations": [],
+ "status": "lead",
+ "tier": 3,
+ "title": "Motion Design Specialist",
+ "tools": [],
+ "updated_at": null,
+ "url": "https://jobsglitch.com/jobs/motion-design-specialist-at-metalab-remote-6a15e7df58b93c861e7ecada",
+ "why": [
+  "Core motion design role"
+ ],
+ "work_mode": "remote",
+ "years_min": null
+}

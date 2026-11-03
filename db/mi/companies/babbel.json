@@ -1,0 +1,69 @@
+{
+ "ats": {
+  "slug": "babbel",
+  "type": "ashby"
+ },
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": {
+   "apac": 0,
+   "countries": [
+    "Germany",
+    "United States"
+   ],
+   "india": 0,
+   "india_samples": [],
+   "open_samples": [],
+   "remote": 9,
+   "restricted_remote": 9,
+   "restricted_samples": [
+    {
+     "location": "Berlin",
+     "title": "Engineering Manager - Data Platform (m/f/d)",
+     "url": "https://jobs.ashbyhq.com/babbel/ed8a567a-9ea2-46f8-8ae3-0f8b8177b5db"
+    },
+    {
+     "location": "New York",
+     "title": "Growth Lead, Paid Social & Experimentation",
+     "url": "https://jobs.ashbyhq.com/babbel/263d08cf-21aa-4a1e-84fd-3dc1f6b819bd"
+    },
+    {
+     "location": "Berlin",
+     "title": "Head of Design, AI Builder (all genders)",
+     "url": "https://jobs.ashbyhq.com/babbel/dd99c522-b820-4bca-a779-648138bba47d"
+    },
+    {
+     "location": "Berlin",
+     "title": "Head of Pricing & Monetization (m/f/d)",
+     "url": "https://jobs.ashbyhq.com/babbel/f74444aa-f169-4529-a4ce-8c5337eb4fe7"
+    }
+   ],
+   "slug": "babbel",
+   "total": 9,
+   "type": "ashby",
+   "url": "https://jobs.ashbyhq.com/babbel",
+   "worldwide": 0
+  },
+  "changed_at": "2026-11-03T18:34:57Z",
+  "evidence": [
+   {
+    "detail": "None are located in India or open worldwide; 9 remote roles are limited to named countries",
+    "kind": "board",
+    "label": "All 9 open roles are in Germany and United States",
+    "url": "https://jobs.ashbyhq.com/babbel",
+    "weight": -3
+   }
+  ],
+  "first_checked_at": "2026-11-03T18:34:57Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "52bb294cf2",
+  "summary": "All 9 open roles are in Germany and United States. None are located in India or open worldwide; 9 remote roles are limited to named countries.",
+  "verdict": "no"
+ },
+ "inferred": true,
+ "name": "Babbel",
+ "slug": "babbel",
+ "tier": 3
+}
