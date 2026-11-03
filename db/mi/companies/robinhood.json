@@ -30,17 +30,17 @@
    "restricted_remote": 0,
    "restricted_samples": [],
    "slug": "robinhood",
-   "total": 162,
+   "total": 160,
    "type": "greenhouse",
    "url": "https://boards.greenhouse.io/robinhood",
    "worldwide": 0
   },
-  "changed_at": "2026-11-03T10:27:01Z",
+  "changed_at": "2026-11-03T18:05:53Z",
   "evidence": [
    {
     "detail": "None are located in India or open worldwide",
     "kind": "board",
-    "label": "All 162 open roles are in United States, Canada, United Kingdom, Slovenia and 2 more",
+    "label": "All 160 open roles are in United States, Canada, United Kingdom, Slovenia and 2 more",
     "url": "https://boards.greenhouse.io/robinhood",
     "weight": -3
    }
@@ -48,8 +48,8 @@
   "first_checked_at": "2026-10-18T15:28:43Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "c70189b6a6",
-  "summary": "All 162 open roles are in United States, Canada, United Kingdom, Slovenia and 2 more. None are located in India or open worldwide.",
+  "sig": "0df82b9053",
+  "summary": "All 160 open roles are in United States, Canada, United Kingdom, Slovenia and 2 more. None are located in India or open worldwide.",
   "verdict": "no"
  },
  "maturity": "Public",

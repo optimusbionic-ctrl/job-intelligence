@@ -9,14 +9,14 @@
   "board": {
    "apac": 2,
    "countries": [
-    "United States",
     "Poland",
     "Romania",
     "Turkey",
     "Armenia",
     "Italy",
     "Serbia",
-    "Portugal"
+    "Portugal",
+    "Ukraine"
    ],
    "india": 1,
    "india_samples": [
@@ -38,8 +38,8 @@
      "url": "https://jobs.ashbyhq.com/pragmatike/a667e612-e0d0-4cd9-b024-917b606f8de5"
     }
    ],
-   "remote": 59,
-   "restricted_remote": 58,
+   "remote": 40,
+   "restricted_remote": 39,
    "restricted_samples": [
     {
      "location": "Ukraine • Czech Republic • Bulgaria • Latvia • Spain  • Hungary • Albania • Lith",
@@ -63,17 +63,17 @@
     }
    ],
    "slug": "pragmatike",
-   "total": 77,
+   "total": 52,
    "type": "ashby",
    "url": "https://jobs.ashbyhq.com/pragmatike",
    "worldwide": 0
   },
-  "changed_at": "2026-11-03T10:27:01Z",
+  "changed_at": "2026-11-03T18:05:53Z",
   "evidence": [
    {
     "detail": "ICC - Security Operations Analyst - Cyber Defense | IST Timezone (India • Sri Lanka • Vietnam • Indonesia • Thailand)",
     "kind": "board",
-    "label": "1 of 77 open roles is located in India",
+    "label": "1 of 52 open roles is located in India",
     "url": "https://jobs.ashbyhq.com/pragmatike",
     "weight": 5
    },
@@ -95,8 +95,8 @@
   "first_checked_at": "2026-10-15T16:19:24Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "2b95d271f3",
-  "summary": "1 of 77 open roles is located in India.",
+  "sig": "ae78667efb",
+  "summary": "1 of 52 open roles is located in India.",
   "verdict": "yes"
  },
  "inferred": true,

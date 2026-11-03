@@ -3,20 +3,20 @@
  "classification": "Inferred from job description",
  "india_hiring": {
   "board": null,
-  "changed_at": "2026-10-22T21:44:47Z",
+  "changed_at": "2026-11-03T18:02:49Z",
   "evidence": [
    {
-    "detail": "QA Engineer – 2D & Creative Applications — Worldwide",
+    "detail": "QA Engineer — Worldwide",
     "kind": "posting",
     "label": "A current posting is open worldwide",
-    "url": "https://himalayas.app/companies/micro1/jobs/qa-engineer-2d-creative-applications?utm_source=api",
+    "url": "https://himalayas.app/companies/micro1/jobs/qa-engineer-8208548492?utm_source=api",
     "weight": 3
    }
   ],
   "first_checked_at": "2026-10-19T13:24:59Z",
   "india_based": false,
   "method": "Careers board, posting text, web search",
-  "sig": "d6c3dae2b5",
+  "sig": "eb8336419e",
   "summary": "No India-located roles found, but a current posting is open worldwide.",
   "verdict": "likely",
   "web": {

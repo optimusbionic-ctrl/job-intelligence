@@ -17,9 +17,14 @@
    "india": 0,
    "india_samples": [],
    "open_samples": [],
-   "remote": 11,
-   "restricted_remote": 10,
+   "remote": 12,
+   "restricted_remote": 11,
    "restricted_samples": [
+    {
+     "location": "Remote (+/- 3 hours of ET)",
+     "title": "AI Performance Creative Strategist",
+     "url": "https://jobs.ashbyhq.com/pearmill/57d76eb3-7d1e-4b79-809f-e48b178e2824"
+    },
     {
      "location": "Remote (US) • Remote (UK) • Remote (Spain)",
      "title": "Analytics Lead",
@@ -34,25 +39,20 @@
      "location": "Remote (Canada) • Remote (US) • Remote (+/- 3 hours of ET)",
      "title": "Client Success- Paid Ads",
      "url": "https://jobs.ashbyhq.com/pearmill/ff4b0db1-9f1f-4175-98d5-b3d5737bf089"
-    },
-    {
-     "location": "Remote (Canada) • Remote (US) • Remote (+/- 3 hours of ET)",
-     "title": "Growth Manager",
-     "url": "https://jobs.ashbyhq.com/pearmill/ec28b5aa-2f7e-416a-a8aa-8883ad3e67e0"
     }
    ],
    "slug": "pearmill",
-   "total": 11,
+   "total": 12,
    "type": "ashby",
    "url": "https://jobs.ashbyhq.com/pearmill",
    "worldwide": 0
   },
-  "changed_at": "2026-10-27T10:26:45Z",
+  "changed_at": "2026-11-03T18:05:53Z",
   "evidence": [
    {
-    "detail": "None are located in India or open worldwide; 10 remote roles are limited to named countries",
+    "detail": "None are located in India or open worldwide; 11 remote roles are limited to named countries",
     "kind": "board",
-    "label": "All 11 open roles are in United States, Canada, Spain and United Kingdom",
+    "label": "All 12 open roles are in United States, Canada, Spain and United Kingdom",
     "url": "https://jobs.ashbyhq.com/pearmill",
     "weight": -3
    },
@@ -74,7 +74,7 @@
   "first_checked_at": "2026-10-15T16:19:24Z",
   "india_based": false,
   "method": "Careers board, posting text, web search",
-  "sig": "97ce0f95f3",
+  "sig": "ea6784a328",
   "summary": "No India-located roles found, but a current posting is open worldwide.",
   "verdict": "likely",
   "web": {

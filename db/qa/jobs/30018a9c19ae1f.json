@@ -1,24 +1,23 @@
 {
  "apply_url": null,
- "board_apply": "https://www.shine.com/jobs/qa-engineer/zecruiters-jobconnect-private-limited/19901335",
+ "board_apply": "https://www.shine.com/jobs/qa-engineer/zecruiters-jobconnect-private-limited/19980095",
  "category": "Other",
  "comp_potential": "unknown",
  "company": "Zecruiters Jobconnect Private Limited",
  "company_slug": "zecruiters-jobconnect-private-limited",
  "concerns": [
-  "Also asks for: API testing, SQL / databases",
   "Entry-level role — pay may be at the lower end",
   "Office outside Mumbai — relocation within India",
   "Pay not disclosed — ask for the range early",
   "Reposted / refreshed listing — original posting is older"
  ],
  "contacts_count": 0,
- "content_hash": "d11877068aaf",
+ "content_hash": "76ebfb91469e",
  "date_quality": "exact",
  "deadline": null,
  "employment": "full-time",
  "first_seen": "2026-10-23T14:44:10Z",
- "fit": 71,
+ "fit": 62,
  "has_hiring_manager": false,
  "has_named_contact": false,
  "has_public_email": false,
@@ -34,7 +33,7 @@
   "visa": false
  },
  "kind": "qa-engineer",
- "last_verified": "2026-10-27T10:43:30Z",
+ "last_verified": "2026-11-03T18:02:49Z",
  "location": "Pune, India",
  "logo": null,
  "needs_review": false,
@@ -54,19 +53,28 @@
   "company": 66,
   "location": 78,
   "seniority": 80,
-  "skill": 72
+  "skill": 43
  },
  "seniority": "unspecified",
- "snippet": "Experience: 0 Yrs\nSkills: manual testing, functional testing, regression testing, api testing, sql, postman\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "snippet": "Experience: 0 Yrs\nSkills: rest api, healthcare\n(Summary from the Shine.com listing; open the posting for the full description.)",
  "source_primary": "Shine.com",
  "sources": [
+  {
+   "id": "shine",
+   "job_id": "19980095",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-10-31T16:29:37Z",
+   "seen_at": "2026-11-03T18:02:49Z",
+   "url": "https://www.shine.com/jobs/qa-engineer/zecruiters-jobconnect-private-limited/19980095"
+  },
   {
    "id": "shine",
    "job_id": "19901335",
    "kind": "board",
    "name": "Shine.com",
    "posted_at": "2026-10-23T00:03:22Z",
-   "seen_at": "2026-10-27T10:43:30Z",
+   "seen_at": "2026-11-03T18:02:49Z",
    "url": "https://www.shine.com/jobs/qa-engineer/zecruiters-jobconnect-private-limited/19901335"
   }
  ],
@@ -74,18 +82,12 @@
  "status": "active",
  "tier": 3,
  "title": "QA Engineer",
- "tools": [
-  "Functional testing",
-  "Regression testing",
-  "API testing",
-  "SQL / databases"
- ],
+ "tools": [],
  "track": "software",
- "updated_at": null,
- "url": "https://www.shine.com/jobs/qa-engineer/zecruiters-jobconnect-private-limited/19901335",
+ "updated_at": "2026-10-31T16:29:37Z",
+ "url": "https://www.shine.com/jobs/qa-engineer/zecruiters-jobconnect-private-limited/19980095",
  "why": [
   "QA / test engineer role",
-  "Already on your resume: Functional testing, Regression testing",
   "Asks for 0+ years — you have about 2.5",
   "Location lists India"
  ],

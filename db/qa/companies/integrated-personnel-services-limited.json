@@ -1,0 +1,31 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-03T18:02:49Z",
+  "evidence": [
+   {
+    "detail": "QA Engineer — Chennai, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/qa-engineer/integrated-personnel-services-limited/19987940",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-03T18:02:49Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "71322fe3b1",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "logo": "https://staticrect.shine.com/r/m/images/job_logo/11120da86e3c433da403115ec4529d7d.webp",
+ "name": "Integrated Personnel Services Limited",
+ "slug": "integrated-personnel-services-limited",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}

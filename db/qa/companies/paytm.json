@@ -22,12 +22,17 @@
     "UAE",
     "Indonesia"
    ],
-   "india": 190,
+   "india": 189,
    "india_samples": [
     {
      "location": "Noida, Uttar Pradesh",
      "title": "AM/Manager– Procurement (Admin, Real Estate & HR)",
      "url": "https://jobs.lever.co/paytm/feb33510-9ea7-4b69-b69d-87a41f7c2c2c"
+    },
+    {
+     "location": "Mumbai, Maharashtra",
+     "title": "AVP - Business Management",
+     "url": "https://jobs.lever.co/paytm/00765276-c16d-47cf-99d2-85c8c91ada3c"
     },
     {
      "location": "Dubai • Noida, Uttar Pradesh • Mumbai, Maharashtra",
@@ -38,11 +43,6 @@
      "location": "Noida, Uttar Pradesh • Bangalore, Karnataka",
      "title": "Analytics Lead - UPI Product | Experience : 7-9 yrs",
      "url": "https://jobs.lever.co/paytm/8c4d24b4-62d4-466d-9daa-b3c7804c5a67"
-    },
-    {
-     "location": "Noida, Uttar Pradesh",
-     "title": "Analytics Lead- User Growth I Exp- 8- 10 Years",
-     "url": "https://jobs.lever.co/paytm/4c41d1d2-ed6b-4726-95b8-beb76999ee26"
     }
    ],
    "open_samples": [],
@@ -50,17 +50,17 @@
    "restricted_remote": 0,
    "restricted_samples": [],
    "slug": "paytm",
-   "total": 200,
+   "total": 199,
    "type": "lever",
    "url": "https://jobs.lever.co/paytm",
    "worldwide": 0
   },
-  "changed_at": "2026-10-29T08:43:46Z",
+  "changed_at": "2026-11-03T18:02:49Z",
   "evidence": [
    {
-    "detail": "AM/Manager– Procurement (Admin, Real Estate & HR) (Noida, Uttar Pradesh); Account Executive/ Director - AI Agentic Enterprise Sales (Dubai • Noida, Uttar Pradesh • Mumbai, Maharashtra); Analytics Lead - UPI Product | Exp",
+    "detail": "AM/Manager– Procurement (Admin, Real Estate & HR) (Noida, Uttar Pradesh); AVP - Business Management (Mumbai, Maharashtra); Account Executive/ Director - AI Agentic Enterprise Sales (Dubai • Noida, Uttar Pradesh • Mumbai,",
     "kind": "board",
-    "label": "190 of 200 open roles are located in India",
+    "label": "189 of 199 open roles are located in India",
     "url": "https://jobs.lever.co/paytm",
     "weight": 5
    },
@@ -75,7 +75,7 @@
   "first_checked_at": "2026-10-19T15:45:44Z",
   "india_based": true,
   "method": "Careers board, posting text",
-  "sig": "5670a915cd",
+  "sig": "811a7ca848",
   "summary": "Paytm is headquartered in India.",
   "verdict": "yes"
  },

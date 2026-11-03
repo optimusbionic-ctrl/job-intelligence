@@ -1,0 +1,109 @@
+{
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/qa-automation-engineer/diraa-hr-services/19987084",
+ "category": "Recruiter (client not named)",
+ "comp_potential": "listed_good",
+ "company": "DIRAA HR SERVICES Hiring For Client Companies",
+ "company_slug": "diraa-hr-services-hiring-for-client-companies",
+ "concerns": [
+  "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
+  "Office outside Mumbai — relocation within India",
+  "Reposted / refreshed listing — original posting is older"
+ ],
+ "contacts_count": 0,
+ "content_hash": "b8a83662b67a",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-03T18:02:49Z",
+ "fit": 64,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "485639eab908dd",
+ "include_reason": "Automation-heavy QA (SDET)",
+ "india": {
+  "cities": [],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "automation",
+ "last_verified": "2026-11-03T18:02:49Z",
+ "location": "Coimbatore, India",
+ "logo": "https://staticrect.shine.com/r/m/images/job_logo/3ca4f19ea474436bac97e33ad19fcc52.webp",
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-09-10T05:35:12Z",
+ "repost": true,
+ "requirements": [
+  "(Summary from the Shine.com listing; open the posting for the full description.)"
+ ],
+ "responsibilities": [],
+ "salary": {
+  "applies_india": true,
+  "basis": "listed",
+  "currency": "INR",
+  "fx_at": "Tue, 03 Nov 2026 00:02:31 +0000",
+  "fx_rate": 1.0,
+  "inr_max": 500000,
+  "inr_min": 300000,
+  "max": 500000,
+  "min": 300000,
+  "note": "Listed in the posting",
+  "original_period": "annual",
+  "period": "annual",
+  "source_name": "Shine.com",
+  "source_url": "https://www.shine.com/jobs/qa-automation-engineer/diraa-hr-services/19987084",
+  "state": "verified",
+  "verified_at": "2026-11-03T18:02:49Z"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 90,
+  "company": 66,
+  "location": 80,
+  "seniority": 100,
+  "skill": 24
+ },
+ "seniority": "unspecified",
+ "snippet": "Experience: 0 to 4 Yrs\nSkills: qa automation, qa testing, automation testing\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "19987084",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-11-02T17:08:15Z",
+   "seen_at": "2026-11-03T18:02:49Z",
+   "url": "https://www.shine.com/jobs/qa-automation-engineer/diraa-hr-services/19987084"
+  },
+  {
+   "id": "shine",
+   "job_id": "19523845",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-09-10T05:35:12Z",
+   "seen_at": "2026-11-03T18:02:49Z",
+   "url": "https://www.shine.com/jobs/qa-engineer/diraa-hr-services/19523845"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 3,
+ "title": "Qa Automation Engineer",
+ "tools": [],
+ "track": "software",
+ "updated_at": "2026-11-02T17:08:15Z",
+ "url": "https://www.shine.com/jobs/qa-automation-engineer/diraa-hr-services/19987084",
+ "why": [
+  "Asks for 0–4 years — you have about 2.5",
+  "Pay is listed in the posting",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": 4,
+ "years_min": 0
+}

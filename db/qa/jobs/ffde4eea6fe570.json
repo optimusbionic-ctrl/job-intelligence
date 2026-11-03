@@ -1,0 +1,106 @@
+{
+ "apply_url": null,
+ "board_apply": "https://jobs.workable.com/view/h5Ep2c9bjMHJ6eo6WJVGYT/hybrid-fbs-data-engineer-with-qa-automation-in-pune-at-capgemini",
+ "category": "Fintech",
+ "comp_potential": "unknown",
+ "company": "Capgemini",
+ "company_slug": "capgemini",
+ "concerns": [
+  "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
+  "Also asks for: SQL / databases, Programming",
+  "Office outside Mumbai — relocation within India",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "3cd28df08f2b",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-03T18:02:49Z",
+ "fit": 67,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "ffde4eea6fe570",
+ "include_reason": "Automation-heavy QA (SDET)",
+ "india": {
+  "cities": [
+   "Pune"
+  ],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "automation",
+ "last_verified": "2026-11-03T18:02:49Z",
+ "location": "Pune, Maharashtra, India",
+ "logo": "https://workablehr.s3.amazonaws.com/uploads/account/logo/630895/logo",
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-11-03T07:55:13Z",
+ "repost": false,
+ "requirements": [
+  "Python - Intermediate (4-6 Years)",
+  "Pytest, Selenium, Playwright, or similar tools - Intermediate (4-6 Years)",
+  "Blue Prism or similar tools for RPA - Intermediate (4-6 Years)",
+  "Snowflake - Intermediate (4-6 Years)"
+ ],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 60,
+  "company": 95,
+  "location": 84,
+  "seniority": 84,
+  "skill": 38
+ },
+ "seniority": "unspecified",
+ "snippet": "Responsible for acquiring, curating, and publishing data both on prem and in the cloud for analytical or operational uses for basic to moderate scenarios. Ensures the data is in a ready-to-use form that creates a single version of the truth across all data consumers, including business/technology users, reporting and visualization specialists and data scientists with coaching and support. Utilizes skills to translate",
+ "source_primary": "Workable job marketplace",
+ "sources": [
+  {
+   "id": "workable",
+   "job_id": "8238db48-6e6b-464b-928b-42d406146e6b",
+   "kind": "board",
+   "name": "Workable job marketplace",
+   "posted_at": "2026-11-03T07:55:13Z",
+   "seen_at": "2026-11-03T18:02:49Z",
+   "url": "https://jobs.workable.com/view/h5Ep2c9bjMHJ6eo6WJVGYT/hybrid-fbs-data-engineer-with-qa-automation-in-pune-at-capgemini"
+  },
+  {
+   "id": "workable",
+   "job_id": "eac7e40e-64e0-4ed4-a791-8a39a5f9c1a4",
+   "kind": "board",
+   "name": "Workable job marketplace",
+   "posted_at": "2026-11-03T07:55:13Z",
+   "seen_at": "2026-11-03T18:02:49Z",
+   "url": "https://jobs.workable.com/view/uZwcN4L4TRRWuWbzbU5Aqd/hybrid-fbs-data-engineer-with-qa-automation-in-hyderabad-at-capgemini"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 1,
+ "title": "FBS Data Engineer with QA Automation",
+ "tools": [
+  "Jira",
+  "SQL / databases",
+  "Test automation",
+  "Programming",
+  "Agile / Scrum"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://jobs.workable.com/view/h5Ep2c9bjMHJ6eo6WJVGYT/hybrid-fbs-data-engineer-with-qa-automation-in-pune-at-capgemini",
+ "why": [
+  "Already on your resume: Jira",
+  "Fintech company",
+  "Location lists India"
+ ],
+ "work_mode": "hybrid",
+ "years_max": 6,
+ "years_min": null
+}

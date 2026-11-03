@@ -1,0 +1,129 @@
+{
+ "apply_url": null,
+ "board_apply": "https://jobs.workable.com/view/epwUw4A33f1javhjuc3i8W/qa-engineer-in-bengaluru-at-weekday-ai",
+ "category": "Product / SaaS",
+ "comp_potential": "listed_good",
+ "company": "Weekday AI",
+ "company_slug": "weekday-ai",
+ "concerns": [
+  "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
+  "Also asks for: API testing, Programming",
+  "Asks for 4+ years — you have about 2.5",
+  "Office outside Mumbai — relocation within India"
+ ],
+ "contacts_count": 0,
+ "content_hash": "9d99791f2c04",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-03T18:02:49Z",
+ "fit": 73,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "47e240c039939a",
+ "include_reason": "Automation-heavy QA (SDET)",
+ "india": {
+  "cities": [
+   "Bengaluru"
+  ],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "automation",
+ "last_verified": "2026-11-03T18:02:49Z",
+ "location": "Bengaluru, Karnataka, India",
+ "logo": "https://workablehr.s3.amazonaws.com/uploads/account/logo/691818/logo",
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-11-03T08:17:05Z",
+ "repost": false,
+ "requirements": [
+  "4–6 years of hands-on experience in Quality Assurance and software testing within software product or analytics environments.",
+  "Strong experience testing React-based frontend applications, including component testing and end-to-end testing.",
+  "Proficiency in frontend automation tools such as Cypress, Playwright, or Selenium.",
+  "Strong backend and REST API testing experience using Python-based frameworks such as Pytest and Requests.",
+  "Exposure to testing AI/ML systems, including model validation, output consistency checks, data drift detection, and handling non-deterministic behaviour.",
+  "Familiarity with CI/CD tools such as GitHub Actions, Jenkins, or similar platforms, including automated test integration.",
+  "Solid understanding of test design techniques, including boundary value analysis, equivalence partitioning, and exploratory testing."
+ ],
+ "responsibilities": [
+  "Design, develop, and execute comprehensive test plans covering frontend applications built with React and backend systems using Python and REST APIs.",
+  "Build, maintain, and enhance automated test suites across UI, API, and integration layers.",
+  "Conduct AI readiness assessments by validating model inputs and outputs, data pipelines, edge cases, hallucination risks, and performance thresholds for AI-powered features.",
+  "Collaborate with data scientists and engineering teams to define acceptance criteria for machine learning models and AI algorithms.",
+  "Perform functional, regression, performance, and User Acceptance Testing (UAT) across development and release cycles.",
+  "Identify, document, track, and manage software defects while coordinating with development teams for resolution and retesting.",
+  "Integrate automated test cases into CI/CD pipelines and contribute to implementing quality gates."
+ ],
+ "salary": {
+  "applies_india": true,
+  "basis": "listed",
+  "currency": "INR",
+  "fx_at": "Tue, 03 Nov 2026 00:02:31 +0000",
+  "fx_rate": 1.0,
+  "inr_max": 1600000,
+  "inr_min": 1200000,
+  "max": 1600000,
+  "min": 1200000,
+  "note": "Listed in the posting",
+  "original_period": "annual",
+  "period": "annual",
+  "source_name": "Workable job marketplace",
+  "source_url": "https://jobs.workable.com/view/epwUw4A33f1javhjuc3i8W/qa-engineer-in-bengaluru-at-weekday-ai",
+  "state": "verified",
+  "verified_at": "2026-11-03T18:02:49Z"
+ },
+ "scores": {
+  "ai": 64,
+  "comp": 100,
+  "company": 95,
+  "location": 60,
+  "seniority": 72,
+  "skill": 62
+ },
+ "seniority": "unspecified",
+ "snippet": "This role is for one of Weekday’s clients\nSalary range: Rs 1200000 - Rs 1600000 (ie INR 12 - 16 LPA) \n\nMin Experience: 4+ years\nLocation: Bengaluru, Karnataka, India\nJobType: full-time\n\n We are looking for a skilled QA Engineer to join a data and AI-driven engagement in the pharma commercial space. You will be responsible for ensuring the quality, reliability, and AI-readiness of a modern application stack spanning R",
+ "source_primary": "Workable job marketplace",
+ "sources": [
+  {
+   "id": "workable",
+   "job_id": "6c8ff499-eaed-4333-b67f-85bf59222a30",
+   "kind": "board",
+   "name": "Workable job marketplace",
+   "posted_at": "2026-11-03T08:17:05Z",
+   "seen_at": "2026-11-03T18:02:49Z",
+   "url": "https://jobs.workable.com/view/epwUw4A33f1javhjuc3i8W/qa-engineer-in-bengaluru-at-weekday-ai"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 1,
+ "title": "QA Engineer",
+ "tools": [
+  "Regression testing",
+  "Stress / load testing",
+  "Exploratory testing",
+  "Test cases & scenarios",
+  "Bug reporting",
+  "Google Sheets / Excel",
+  "API testing",
+  "Test automation",
+  "Programming",
+  "Agile / Scrum"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://jobs.workable.com/view/epwUw4A33f1javhjuc3i8W/qa-engineer-in-bengaluru-at-weekday-ai",
+ "why": [
+  "Already on your resume: Regression testing, Stress / load testing, Exploratory testing, Test cases & scenarios, Bug reporting, Google Sheets / Excel",
+  "Product / SaaS company",
+  "Pay is listed in the posting",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": 6,
+ "years_min": 4
+}

@@ -1,0 +1,108 @@
+{
+ "apply_url": null,
+ "board_apply": "https://himalayas.app/companies/toku-co/jobs/qa-engineer?utm_source=api",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "Toku Pte Ltd",
+ "company_slug": "toku-pte-ltd",
+ "concerns": [
+  "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
+  "Also asks for: SQL / databases",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "12eeb622aa7f",
+ "date_quality": "exact",
+ "deadline": "2026-11-05T20:19:49Z",
+ "employment": "full-time",
+ "first_seen": "2026-11-03T18:02:49Z",
+ "fit": 75,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "862061768c59e4",
+ "include_reason": "Automation-heavy QA (SDET)",
+ "india": {
+  "cities": [],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "automation",
+ "last_verified": "2026-11-03T18:02:49Z",
+ "location": "India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-11-01T13:03:38Z",
+ "repost": false,
+ "requirements": [
+  "What will you be doing?",
+  "Reporting to our Lead QA Engineer. You will be",
+  "Reviewing quality specifications and technical design documents to provide timely and meaningful feedback.",
+  "Creating detailed, comprehensive, and well-structured test plans and test cases.",
+  "Estimating, prioritizing, planning, and coordinating quality testing activities.",
+  "Utilising AWS technologies for test environment setup, monitoring, and reporting.",
+  "Designing, developing, and executing automation scripts using open-source tools."
+ ],
+ "responsibilities": [
+  "Reviewing quality specifications and technical design documents to provide timely and meaningful feedback.",
+  "Creating detailed, comprehensive, and well-structured test plans and test cases.",
+  "Estimating, prioritizing, planning, and coordinating quality testing activities.",
+  "Utilising AWS technologies for test environment setup, monitoring, and reporting.",
+  "Designing, developing, and executing automation scripts using open-source tools.",
+  "Identifying and documenting bugs in the testing phase.",
+  "Conducting regression, integration and performance testing after bugs are resolved."
+ ],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 60,
+  "company": 66,
+  "location": 100,
+  "seniority": 94,
+  "skill": 65
+ },
+ "seniority": "unspecified",
+ "snippet": "At Toku, we create bespoke cloud communications and customer engagement solutions to reimagine customer experiences for enterprises. We provide an end-to-end approach to help businesses overcome the complexity of digital transformation and deliver mission-critical CX through cloud communication solutions. Toku combines local strategic consulting expertise, bespoke technology, regional in-country infrastructure, conne",
+ "source_primary": "Himalayas",
+ "sources": [
+  {
+   "id": "himalayas",
+   "job_id": "https://himalayas.app/companies/toku-co/jobs/qa-engineer",
+   "kind": "board",
+   "name": "Himalayas",
+   "posted_at": "2026-11-01T13:03:38Z",
+   "seen_at": "2026-11-03T18:02:49Z",
+   "url": "https://himalayas.app/companies/toku-co/jobs/qa-engineer?utm_source=api"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 3,
+ "title": "QA Engineer",
+ "tools": [
+  "Regression testing",
+  "Stress / load testing",
+  "Test cases & scenarios",
+  "Bug reporting",
+  "Google Sheets / Excel",
+  "SQL / databases",
+  "Test automation",
+  "Agile / Scrum"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://himalayas.app/companies/toku-co/jobs/qa-engineer?utm_source=api",
+ "why": [
+  "Already on your resume: Regression testing, Stress / load testing, Test cases & scenarios, Bug reporting, Google Sheets / Excel",
+  "Asks for 3+ years — you have about 2.5",
+  "Location lists India"
+ ],
+ "work_mode": "remote",
+ "years_max": 7,
+ "years_min": 3
+}

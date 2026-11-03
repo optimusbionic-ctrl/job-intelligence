@@ -3,20 +3,20 @@
  "classification": "Inferred from job description",
  "india_hiring": {
   "board": null,
-  "changed_at": "2026-10-20T17:43:38Z",
+  "changed_at": "2026-11-03T18:02:49Z",
   "evidence": [
    {
-    "detail": "QA Automation Tester — Bangalore, Hyderabad, India",
+    "detail": "Manual QA Tester — Navi Mumbai, Mumbai City, Kalyan, Vasai, Bhiwandi, Panvel, India",
     "kind": "posting",
     "label": "A current posting lists India as a location",
-    "url": "https://www.shine.com/jobs/qa-automation-tester/brainworks-business-solutions-private-limited/19834281",
+    "url": "https://www.shine.com/jobs/manual-qa-tester/brainworks-business-solutions-private-limited/19969250",
     "weight": 5
    }
   ],
   "first_checked_at": "2026-10-20T17:43:38Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "6e3cd9d1fa",
+  "sig": "8193516004",
   "summary": "A current posting lists India as a location.",
   "verdict": "yes"
  },

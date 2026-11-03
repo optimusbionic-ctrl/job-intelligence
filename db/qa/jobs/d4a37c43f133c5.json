@@ -1,0 +1,105 @@
+{
+ "apply_url": null,
+ "board_apply": "https://himalayas.app/companies/shuru-technologies-private-limited/jobs/qa-automation-engineer?utm_source=api",
+ "category": "IT services",
+ "comp_potential": "unknown",
+ "company": "Shuru Technologies Private Limited",
+ "company_slug": "shuru-technologies-private-limited",
+ "concerns": [
+  "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
+  "Also asks for: Programming",
+  "Asks for 4+ years — you have about 2.5",
+  "Pay not disclosed — ask for the range early",
+  "IT services company (client projects)"
+ ],
+ "contacts_count": 0,
+ "content_hash": "2fc9cc2cb6e2",
+ "date_quality": "exact",
+ "deadline": "2026-12-11T15:15:11Z",
+ "employment": "full-time",
+ "first_seen": "2026-11-03T18:02:49Z",
+ "fit": 66,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "d4a37c43f133c5",
+ "include_reason": "Automation-heavy QA (SDET)",
+ "india": {
+  "cities": [],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "automation",
+ "last_verified": "2026-11-03T18:02:49Z",
+ "location": "India",
+ "logo": "https://cdn-images.himalayas.app/fghgp2pf85ds19755ocicqwmx62r",
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-11-01T12:19:45Z",
+ "repost": false,
+ "requirements": [
+  "Strong mobile QA automation experience.",
+  "Experience with React Native and Expo.",
+  "Proficiency in TypeScript.",
+  "Hands-on experience with Playwright, Appium, Maestro, or React Testing Library.",
+  "Experience with CI/CD and large test suite optimization.",
+  "Ability to write clean, generic, and maintainable test code.",
+  "Monorepo experience is a plus."
+ ],
+ "responsibilities": [
+  "4+ years of experience in QA automation, SDET, or mobile test automation roles.",
+  "Work with Playwright, Appium, Maestro, and React Testing Library.",
+  "Write scalable tests using semantic locators and reusable test patterns.",
+  "Optimize large test suites through sharding, parallel execution, retries, and rerunning failed suites.",
+  "Integrate QA automation into CI/CD pipelines.",
+  "Generate nightly QA reports and track test health.",
+  "Debug flaky tests and improve test reliability."
+ ],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 74,
+  "comp": 60,
+  "company": 76,
+  "location": 100,
+  "seniority": 72,
+  "skill": 38
+ },
+ "seniority": "unspecified",
+ "snippet": "Category: IT Services \n\nLocation: \n\n Shuru is an AI-native engineering services company building products with leading startups, enterprises, and well-funded scale-ups across India, Southeast Asia, the UAE, and global markets. Our engineers work in small, dedicated squads, ship in weekly cycles, and use AI-assisted development tools (Cursor, Claude Code, GitHub Copilot) as a standard part of how we build. We hire for",
+ "source_primary": "Himalayas",
+ "sources": [
+  {
+   "id": "himalayas",
+   "job_id": "https://himalayas.app/companies/shuru-technologies-private-limited/jobs/qa-automation-engineer",
+   "kind": "board",
+   "name": "Himalayas",
+   "posted_at": "2026-11-01T12:19:45Z",
+   "seen_at": "2026-11-03T18:02:49Z",
+   "url": "https://himalayas.app/companies/shuru-technologies-private-limited/jobs/qa-automation-engineer?utm_source=api"
+  }
+ ],
+ "specializations": [
+  "Mobile apps"
+ ],
+ "status": "active",
+ "tier": 2,
+ "title": "QA Automation Engineer",
+ "tools": [
+  "Test automation",
+  "Programming"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://himalayas.app/companies/shuru-technologies-private-limited/jobs/qa-automation-engineer?utm_source=api",
+ "why": [
+  "Platforms you test on: Mobile apps",
+  "Location lists India"
+ ],
+ "work_mode": "remote",
+ "years_max": null,
+ "years_min": 4
+}

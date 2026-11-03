@@ -3,20 +3,20 @@
  "classification": "Inferred from job description",
  "india_hiring": {
   "board": null,
-  "changed_at": "2026-10-28T13:46:20Z",
+  "changed_at": "2026-11-03T18:02:49Z",
   "evidence": [
    {
-    "detail": "QA Consultant — Mumbai City, Gurugram, Noida, Delhi, India",
+    "detail": "Automation Tester — Mumbai City, Chennai, Hyderabad, India",
     "kind": "posting",
     "label": "A current posting lists India as a location",
-    "url": "https://www.shine.com/jobs/qa-consultant/vishwa-karma/19934839",
+    "url": "https://www.shine.com/jobs/automation-tester/vishwa-karma/19955827",
     "weight": 5
    }
   ],
   "first_checked_at": "2026-10-19T13:24:59Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "0794c30452",
+  "sig": "6aaa1a6209",
   "summary": "A current posting lists India as a location.",
   "verdict": "yes"
  },

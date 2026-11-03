@@ -17,11 +17,15 @@
    "countries": [
     "India",
     "United States",
-    "Canada",
-    "United Kingdom"
+    "Canada"
    ],
-   "india": 65,
+   "india": 66,
    "india_samples": [
+    {
+     "location": "Bangalore HQ",
+     "title": "Applied Science - Senior Software Development Test Engineer ( SDET ) ",
+     "url": "https://jobs.ashbyhq.com/tekion/f9e2b20f-90d7-4f02-afbf-df120601e825"
+    },
     {
      "location": "Bangalore HQ",
      "title": "Architect, Software Engineering - Frontend - Integration ",
@@ -36,16 +40,11 @@
      "location": "Bangalore HQ",
      "title": "Associate Principal Graphic Designer",
      "url": "https://jobs.ashbyhq.com/tekion/1c6ab033-1734-4d45-bcf9-cbedfee319f0"
-    },
-    {
-     "location": "Bangalore HQ",
-     "title": "CDP - Data Analyst",
-     "url": "https://jobs.ashbyhq.com/tekion/123ca252-d027-4e31-bcab-3275bb54ec76"
     }
    ],
    "open_samples": [],
-   "remote": 17,
-   "restricted_remote": 17,
+   "remote": 15,
+   "restricted_remote": 15,
    "restricted_samples": [
     {
      "location": "Virtual - United States",
@@ -64,22 +63,22 @@
     },
     {
      "location": "Virtual - Texas",
-     "title": "Customer Value Architect (Retail, CRM, Fixed, Analytics)",
+     "title": "Customer Value Architect (Retail, CRM, Accounting, Fixed, Analytics)",
      "url": "https://jobs.ashbyhq.com/tekion/efe15c5d-721b-4f57-bf11-4d6872a84d09"
     }
    ],
    "slug": "tekion",
-   "total": 90,
+   "total": 89,
    "type": "ashby",
    "url": "https://jobs.ashbyhq.com/tekion",
    "worldwide": 0
   },
-  "changed_at": "2026-10-30T04:43:58Z",
+  "changed_at": "2026-11-03T18:02:49Z",
   "evidence": [
    {
-    "detail": "Architect, Software Engineering - Frontend - Integration  (Bangalore HQ); Architect, Software Engineering - Integration  (Bangalore HQ); Associate Principal Graphic Designer (Bangalore HQ)",
+    "detail": "Applied Science - Senior Software Development Test Engineer ( SDET )  (Bangalore HQ); Architect, Software Engineering - Frontend - Integration  (Bangalore HQ); Architect, Software Engineering - Integration  (Bangalore HQ",
     "kind": "board",
-    "label": "65 of 90 open roles are located in India",
+    "label": "66 of 89 open roles are located in India",
     "url": "https://jobs.ashbyhq.com/tekion",
     "weight": 5
    },
@@ -94,8 +93,8 @@
   "first_checked_at": "2026-10-19T13:24:59Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "f088429bf6",
-  "summary": "65 of 90 open roles are located in India.",
+  "sig": "b5d6a79475",
+  "summary": "66 of 89 open roles are located in India.",
   "verdict": "yes"
  },
  "name": "Tekion",

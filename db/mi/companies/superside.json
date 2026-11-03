@@ -23,9 +23,14 @@
    "india": 0,
    "india_samples": [],
    "open_samples": [],
-   "remote": 12,
-   "restricted_remote": 12,
+   "remote": 13,
+   "restricted_remote": 13,
    "restricted_samples": [
+    {
+     "location": "Toronto",
+     "title": "AI Solutions Engineer",
+     "url": "https://jobs.lever.co/superside/67c7a33f-b655-4c8a-b2e1-c9958231f35b"
+    },
     {
      "location": "Global",
      "title": "Account Director",
@@ -40,25 +45,20 @@
      "location": "LATAM",
      "title": "Creative (Graphic Designer)",
      "url": "https://jobs.lever.co/superside/f3d3064a-6df5-4a65-af08-132eeaf3688c"
-    },
-    {
-     "location": "LATAM",
-     "title": "Creative (Illustrator)",
-     "url": "https://jobs.lever.co/superside/126e95b0-a898-44f6-b5f1-4ff9c5ee1fc8"
     }
    ],
    "slug": "superside",
-   "total": 13,
+   "total": 14,
    "type": "lever",
    "url": "https://jobs.lever.co/superside",
    "worldwide": 0
   },
-  "changed_at": "2026-10-28T08:26:31Z",
+  "changed_at": "2026-11-03T18:05:53Z",
   "evidence": [
    {
-    "detail": "None are located in India or open worldwide; 12 remote roles are limited to named countries",
+    "detail": "None are located in India or open worldwide; 13 remote roles are limited to named countries",
     "kind": "board",
-    "label": "All 13 open roles are in Colombia, Argentina and Canada",
+    "label": "All 14 open roles are in Colombia, Argentina and Canada",
     "url": "https://jobs.lever.co/superside",
     "weight": -3
    },
@@ -80,7 +80,7 @@
   "first_checked_at": "2026-10-22T09:28:02Z",
   "india_based": false,
   "method": "Careers board, posting text, web search",
-  "sig": "316d5dbf75",
+  "sig": "8bd9a3742c",
   "summary": "No India-located roles found, but a current posting is open worldwide.",
   "verdict": "likely",
   "web": {

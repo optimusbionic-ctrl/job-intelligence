@@ -1,13 +1,16 @@
 {
  "apply_url": null,
- "board_apply": "https://www.shine.com/jobs/qa-consultant/vishwa-karma/19934839",
+ "board_apply": "https://www.shine.com/jobs/qa-consultant/vishwa-karma/19955447",
  "category": "Other",
  "comp_potential": "listed_good",
  "company": "Vishwa karma",
  "company_slug": "vishwa-karma",
- "concerns": [],
+ "concerns": [
+  "Also asks for: Programming",
+  "Reposted / refreshed listing — original posting is older"
+ ],
  "contacts_count": 0,
- "content_hash": "7a7d7718d7f0",
+ "content_hash": "fedba72f827c",
  "date_quality": "exact",
  "deadline": null,
  "employment": "full-time",
@@ -29,13 +32,13 @@
   "visa": false
  },
  "kind": "qa-engineer",
- "last_verified": "2026-10-28T16:44:03Z",
- "location": "Mumbai City, Gurugram, Noida, Delhi, India",
+ "last_verified": "2026-11-03T18:02:49Z",
+ "location": "Mumbai City, Noida, Gurugram, Delhi, India",
  "logo": null,
  "needs_review": false,
  "official": false,
- "posted_at": "2026-10-26T18:36:13Z",
- "repost": false,
+ "posted_at": "2026-10-29T18:38:34Z",
+ "repost": true,
  "requirements": [
   "(Summary from the Shine.com listing; open the posting for the full description.)"
  ],
@@ -44,8 +47,8 @@
   "applies_india": true,
   "basis": "listed",
   "currency": "INR",
-  "fx_at": "Wed, 28 Oct 2026 00:02:31 +0000",
-  "fx_rate": 1,
+  "fx_at": "Tue, 03 Nov 2026 00:02:31 +0000",
+  "fx_rate": 1.0,
   "inr_max": 2200000,
   "inr_min": 400000,
   "max": 2200000,
@@ -54,9 +57,9 @@
   "original_period": "annual",
   "period": "annual",
   "source_name": "Shine.com",
-  "source_url": "https://www.shine.com/jobs/qa-consultant/vishwa-karma/19934839",
+  "source_url": "https://www.shine.com/jobs/qa-consultant/vishwa-karma/19955447",
   "state": "verified",
-  "verified_at": "2026-10-28T16:44:03Z"
+  "verified_at": "2026-11-03T18:02:49Z"
  },
  "scores": {
   "ai": 58,
@@ -67,27 +70,29 @@
   "skill": 43
  },
  "seniority": "unspecified",
- "snippet": "Experience: 1 to 6 Yrs\nSkills: plant maintenance\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "snippet": "Experience: 1 to 6 Yrs\nSkills: java, python\n(Summary from the Shine.com listing; open the posting for the full description.)",
  "source_primary": "Shine.com",
  "sources": [
   {
    "id": "shine",
-   "job_id": "19934839",
+   "job_id": "19955447",
    "kind": "board",
    "name": "Shine.com",
-   "posted_at": "2026-10-26T18:36:13Z",
-   "seen_at": "2026-10-28T16:44:03Z",
-   "url": "https://www.shine.com/jobs/qa-consultant/vishwa-karma/19934839"
+   "posted_at": "2026-10-29T18:38:34Z",
+   "seen_at": "2026-11-03T18:02:49Z",
+   "url": "https://www.shine.com/jobs/qa-consultant/vishwa-karma/19955447"
   }
  ],
  "specializations": [],
  "status": "active",
  "tier": 3,
  "title": "QA Consultant",
- "tools": [],
+ "tools": [
+  "Programming"
+ ],
  "track": "software",
  "updated_at": null,
- "url": "https://www.shine.com/jobs/qa-consultant/vishwa-karma/19934839",
+ "url": "https://www.shine.com/jobs/qa-consultant/vishwa-karma/19955447",
  "why": [
   "QA / test engineer role",
   "Asks for 1–6 years — you have about 2.5",

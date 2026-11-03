@@ -11,9 +11,9 @@
    "countries": [
     "India",
     "United Kingdom",
+    "United States",
     "Canada",
-    "Italy",
-    "United States"
+    "Italy"
    ],
    "india": 7,
    "india_samples": [
@@ -39,21 +39,21 @@
     }
    ],
    "open_samples": [],
-   "remote": 3,
+   "remote": 4,
    "restricted_remote": 0,
    "restricted_samples": [],
    "slug": "easyship",
-   "total": 19,
+   "total": 21,
    "type": "greenhouse",
    "url": "https://boards.greenhouse.io/easyship",
    "worldwide": 0
   },
-  "changed_at": "2026-10-27T10:26:45Z",
+  "changed_at": "2026-11-03T18:05:53Z",
   "evidence": [
    {
     "detail": "Account Executive  (Bangalore, India); Customer Success Manager - Growth (Bengaluru, Karnataka, India); Pricing Analyst (Bangalore)",
     "kind": "board",
-    "label": "7 of 19 open roles are located in India",
+    "label": "7 of 21 open roles are located in India",
     "url": "https://boards.greenhouse.io/easyship",
     "weight": 5
    }
@@ -61,8 +61,8 @@
   "first_checked_at": "2026-10-18T18:27:42Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "20c0ce6dd4",
-  "summary": "7 of 19 open roles are located in India.",
+  "sig": "ffae842e99",
+  "summary": "7 of 21 open roles are located in India.",
   "verdict": "yes"
  },
  "inferred": true,

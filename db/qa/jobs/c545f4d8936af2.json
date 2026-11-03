@@ -1,0 +1,103 @@
+{
+ "apply_url": null,
+ "board_apply": "https://himalayas.app/companies/shuru-technologies-private-limited/jobs/software-development-engineer-in-test?utm_source=api",
+ "category": "IT services",
+ "comp_potential": "unknown",
+ "company": "Shuru Technologies Private Limited",
+ "company_slug": "shuru-technologies-private-limited",
+ "concerns": [
+  "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
+  "Also asks for: API testing, Programming",
+  "Pay not disclosed — ask for the range early",
+  "IT services company (client projects)"
+ ],
+ "contacts_count": 0,
+ "content_hash": "dce18109c92e",
+ "date_quality": "exact",
+ "deadline": "2026-12-13T14:11:53Z",
+ "employment": "full-time",
+ "first_seen": "2026-11-03T18:02:49Z",
+ "fit": 75,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "c545f4d8936af2",
+ "include_reason": "Automation-heavy QA (SDET)",
+ "india": {
+  "cities": [],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "automation",
+ "last_verified": "2026-11-03T18:02:49Z",
+ "location": "India",
+ "logo": "https://cdn-images.himalayas.app/fghgp2pf85ds19755ocicqwmx62r",
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-11-01T12:13:00Z",
+ "repost": false,
+ "requirements": [
+  "Debug failures, perform root-cause analysis, and collaborate closely with developers and product teams.",
+  "Write clean, maintainable, production-quality automation code.",
+  "Strong hands-on experience in API automation using Rest Assured and Java - mandatory.",
+  "Strong experience with Playwright and TypeScript -mandatory.",
+  "Experience in either web automation or mobile automation- mandatory.",
+  "Hands-on experience with K6 for performance testing- mandatory.",
+  "Good understanding of API testing, HTTP protocols, authentication, databases, and distributed systems."
+ ],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 74,
+  "comp": 60,
+  "company": 76,
+  "location": 100,
+  "seniority": 84,
+  "skill": 62
+ },
+ "seniority": "unspecified",
+ "snippet": "Category: IT Services \n\nLocation: \n\n Shuru is an AI, Product and Technology Engineering company helping startups and enterprises build, scale and modernise digital products. Our teams work with high ownership, first-principles thinking and an AI-native approach to solve meaningful business problems and ship production-grade technology.\n\n We are looking for a strong SDET Engineer with hands-on experience in API automa",
+ "source_primary": "Himalayas",
+ "sources": [
+  {
+   "id": "himalayas",
+   "job_id": "https://himalayas.app/companies/shuru-technologies-private-limited/jobs/software-development-engineer-in-test",
+   "kind": "board",
+   "name": "Himalayas",
+   "posted_at": "2026-11-01T12:13:00Z",
+   "seen_at": "2026-11-03T18:02:49Z",
+   "url": "https://himalayas.app/companies/shuru-technologies-private-limited/jobs/software-development-engineer-in-test?utm_source=api"
+  }
+ ],
+ "specializations": [
+  "Mobile apps"
+ ],
+ "status": "active",
+ "tier": 2,
+ "title": "Software Development Engineer in Test",
+ "tools": [
+  "Regression testing",
+  "Stress / load testing",
+  "Test cases & scenarios",
+  "Bug reporting",
+  "Jira",
+  "API testing",
+  "Test automation",
+  "Programming"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://himalayas.app/companies/shuru-technologies-private-limited/jobs/software-development-engineer-in-test?utm_source=api",
+ "why": [
+  "Already on your resume: Regression testing, Stress / load testing, Test cases & scenarios, Bug reporting, Jira",
+  "Platforms you test on: Mobile apps",
+  "Location lists India"
+ ],
+ "work_mode": "remote",
+ "years_max": null,
+ "years_min": null
+}

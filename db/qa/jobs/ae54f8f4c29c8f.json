@@ -9,7 +9,7 @@
   "Asks for 4+ years — you have about 2.5"
  ],
  "contacts_count": 0,
- "content_hash": "e2c9f42d9f8a",
+ "content_hash": "c6822b63a50d",
  "date_quality": "exact",
  "deadline": null,
  "employment": "full-time",
@@ -33,8 +33,8 @@
   "visa": false
  },
  "kind": "manual-qa",
- "last_verified": "2026-10-30T05:43:53Z",
- "location": "Mumbai City, Pune, Panaji, Ahmedabad, Bangalore, Noida, India",
+ "last_verified": "2026-11-03T18:02:49Z",
+ "location": "Mumbai City, Pune, Faridabad, Panaji, Bangalore, Delhi, India",
  "logo": null,
  "needs_review": false,
  "official": false,
@@ -46,8 +46,8 @@
   "applies_india": true,
   "basis": "listed",
   "currency": "INR",
-  "fx_at": "Fri, 30 Oct 2026 00:02:31 +0000",
-  "fx_rate": 1,
+  "fx_at": "Tue, 03 Nov 2026 00:02:31 +0000",
+  "fx_rate": 1.0,
   "inr_max": 1600000,
   "inr_min": 600000,
   "max": 1600000,
@@ -58,7 +58,7 @@
   "source_name": "Shine.com",
   "source_url": "https://www.shine.com/jobs/software-tester/rupee-xpert-ar-services/19941374",
   "state": "verified",
-  "verified_at": "2026-10-30T05:43:53Z"
+  "verified_at": "2026-11-03T18:02:49Z"
  },
  "scores": {
   "ai": 58,
@@ -78,7 +78,7 @@
    "kind": "board",
    "name": "Shine.com",
    "posted_at": "2026-10-27T12:23:45Z",
-   "seen_at": "2026-10-30T05:43:53Z",
+   "seen_at": "2026-11-03T18:02:49Z",
    "url": "https://www.shine.com/jobs/software-tester/rupee-xpert-ar-services/19941374"
   }
  ],

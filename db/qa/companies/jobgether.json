@@ -11,20 +11,15 @@
    "countries": [
     "United States",
     "India",
-    "Canada",
     "Brazil",
-    "Germany",
+    "Canada",
     "Spain",
-    "France",
-    "Switzerland"
+    "United Kingdom",
+    "Switzerland",
+    "France"
    ],
-   "india": 324,
+   "india": 379,
    "india_samples": [
-    {
-     "location": "India",
-     "title": "(Senior) GTM-Engineer",
-     "url": "https://jobs.lever.co/jobgether/16ab2a67-de9d-4af9-960f-79d9d536950e"
-    },
     {
      "location": "India",
      "title": "AI Automation Specialist",
@@ -37,47 +32,52 @@
     },
     {
      "location": "India",
+     "title": "AI Enablement & Governance Analyst",
+     "url": "https://jobs.lever.co/jobgether/aaca37cf-6a63-4fe5-94b5-4e7792164ab8"
+    },
+    {
+     "location": "India",
      "title": "AI Engineer",
      "url": "https://jobs.lever.co/jobgether/9c435da2-bc0d-42d4-b27a-52de1e89e06b"
     }
    ],
    "open_samples": [],
-   "remote": 3789,
-   "restricted_remote": 3465,
+   "remote": 4610,
+   "restricted_remote": 4231,
    "restricted_samples": [
     {
-     "location": "US",
-     "title": "(CW) Accounting Manager -Intercompany& Transfer Pricing",
-     "url": "https://jobs.lever.co/jobgether/12726780-81e1-4980-b59f-b6b221ad3218"
-    },
-    {
-     "location": "Canada",
-     "title": "(Senior) GTM-Engineer",
-     "url": "https://jobs.lever.co/jobgether/0fe337d5-b520-490a-b352-a44f4e17e094"
+     "location": "Brazil",
+     "title": ".NET Developer",
+     "url": "https://jobs.lever.co/jobgether/cd54ae50-7a49-4f94-9f46-167363b13380"
     },
     {
      "location": "Brazil",
-     "title": "(Senior) GTM-Engineer",
-     "url": "https://jobs.lever.co/jobgether/5599ef0a-e4c8-4ada-96cf-7e659ab3ffa7"
+     "title": ".Net Back-End Developer Mid",
+     "url": "https://jobs.lever.co/jobgether/86238723-77df-46b9-b843-28b844b5134e"
+    },
+    {
+     "location": "Canada",
+     "title": "3D Artist (5-month contract)",
+     "url": "https://jobs.lever.co/jobgether/2840636b-0b34-46c2-b60d-05048efa15b0"
     },
     {
      "location": "US",
-     "title": "(Senior) GTM-Engineer",
-     "url": "https://jobs.lever.co/jobgether/9b384ef3-8730-4774-89a0-2f9631cc0955"
+     "title": "6G Security Program Manager",
+     "url": "https://jobs.lever.co/jobgether/9afefb73-8dab-4d08-a16d-6f1d04ab7a45"
     }
    ],
    "slug": "jobgether",
-   "total": 3789,
+   "total": 4610,
    "type": "lever",
    "url": "https://jobs.lever.co/jobgether",
    "worldwide": 0
   },
-  "changed_at": "2026-10-30T05:43:53Z",
+  "changed_at": "2026-11-03T18:02:49Z",
   "evidence": [
    {
-    "detail": "(Senior) GTM-Engineer (India); AI Automation Specialist (India); AI Conversation Recording Contributor (India)",
+    "detail": "AI Automation Specialist (India); AI Conversation Recording Contributor (India); AI Enablement & Governance Analyst (India)",
     "kind": "board",
-    "label": "324 of 3789 open roles are located in India",
+    "label": "379 of 4610 open roles are located in India",
     "url": "https://jobs.lever.co/jobgether",
     "weight": 5
    },
@@ -92,8 +92,8 @@
   "first_checked_at": "2026-10-19T13:24:59Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "143647742b",
-  "summary": "324 of 3789 open roles are located in India.",
+  "sig": "b8b3c0cfef",
+  "summary": "379 of 4610 open roles are located in India.",
   "verdict": "yes"
  },
  "inferred": true,

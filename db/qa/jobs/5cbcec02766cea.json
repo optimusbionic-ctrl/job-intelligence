@@ -1,6 +1,6 @@
 {
  "apply_url": null,
- "board_apply": "https://www.shine.com/jobs/manual-testing-engineer/infovision-hr-consulting-services-pvt-ltd/19951445",
+ "board_apply": "https://www.shine.com/jobs/manual-testing-engineer/infovision-hr-consulting-services-pvt-ltd/19975723",
  "category": "Recruiter (client not named)",
  "comp_potential": "unknown",
  "company": "Infovision HR Consulting Services Pvt Ltd",
@@ -9,12 +9,12 @@
   "Pay not disclosed — ask for the range early"
  ],
  "contacts_count": 0,
- "content_hash": "4d85f0da7aa1",
+ "content_hash": "4ba935b28158",
  "date_quality": "exact",
  "deadline": null,
  "employment": "full-time",
  "first_seen": "2026-10-28T21:44:28Z",
- "fit": 78,
+ "fit": 88,
  "has_hiring_manager": false,
  "has_named_contact": false,
  "has_public_email": false,
@@ -30,16 +30,14 @@
   "visa": false
  },
  "kind": "manual-qa",
- "last_verified": "2026-10-30T02:44:10Z",
- "location": "Navi Mumbai, Thane, Dombivali, Panvel, Kalyan, India",
+ "last_verified": "2026-11-03T18:02:49Z",
+ "location": "Navi Mumbai, Kalyan, Thane, Panvel, India",
  "logo": null,
  "needs_review": false,
  "official": false,
  "posted_at": "2026-10-28T18:29:07Z",
  "repost": false,
- "requirements": [
-  "(Summary from the Shine.com listing; open the posting for the full description.)"
- ],
+ "requirements": [],
  "responsibilities": [],
  "salary": {
   "state": "unavailable"
@@ -50,19 +48,28 @@
   "company": 66,
   "location": 100,
   "seniority": 100,
-  "skill": 64
+  "skill": 100
  },
  "seniority": "unspecified",
- "snippet": "Experience: 2 Yrs\nSkills: manual testing, software testing, mobile application testing\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "snippet": "Experience: 2 Yrs\nSkills: functional testing, sanity testing, smoke testing, manual testing, mobile application testing\n(Summary from the Shine.com listing; open the posting for the full description.)",
  "source_primary": "Shine.com",
  "sources": [
+  {
+   "id": "shine",
+   "job_id": "19975723",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-10-30T23:14:57Z",
+   "seen_at": "2026-11-03T18:02:49Z",
+   "url": "https://www.shine.com/jobs/manual-testing-engineer/infovision-hr-consulting-services-pvt-ltd/19975723"
+  },
   {
    "id": "shine",
    "job_id": "19951445",
    "kind": "board",
    "name": "Shine.com",
    "posted_at": "2026-10-28T18:29:07Z",
-   "seen_at": "2026-10-30T02:44:10Z",
+   "seen_at": "2026-11-03T18:02:49Z",
    "url": "https://www.shine.com/jobs/manual-testing-engineer/infovision-hr-consulting-services-pvt-ltd/19951445"
   }
  ],
@@ -72,12 +79,17 @@
  "status": "active",
  "tier": 3,
  "title": "Manual Testing Engineer",
- "tools": [],
+ "tools": [
+  "Functional testing",
+  "Smoke testing",
+  "Sanity testing"
+ ],
  "track": "software",
  "updated_at": null,
- "url": "https://www.shine.com/jobs/manual-testing-engineer/infovision-hr-consulting-services-pvt-ltd/19951445",
+ "url": "https://www.shine.com/jobs/manual-testing-engineer/infovision-hr-consulting-services-pvt-ltd/19975723",
  "why": [
   "Manual / functional QA — the core of your resume",
+  "Already on your resume: Functional testing, Smoke testing, Sanity testing",
   "Platforms you test on: Mobile apps",
   "Asks for 2+ years — you have about 2.5",
   "Location lists India"

@@ -7,10 +7,11 @@
  "company_slug": "all-generation-tech",
  "concerns": [
   "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
-  "Also asks for: Test management (TestRail/Zephyr), API testing, ISTQB"
+  "Also asks for: Test management (TestRail/Zephyr), API testing, ISTQB",
+  "Reposted / refreshed listing — original posting is older"
  ],
  "contacts_count": 0,
- "content_hash": "068bf715b7dd",
+ "content_hash": "211069e2e475",
  "date_quality": "exact",
  "deadline": "2026-12-18T18:04:21Z",
  "employment": "full-time",
@@ -29,13 +30,13 @@
   "visa": false
  },
  "kind": "automation",
- "last_verified": "2026-10-19T19:47:20Z",
- "location": "India",
+ "last_verified": "2026-11-03T18:02:49Z",
+ "location": "Bangladesh, India",
  "logo": "https://cdn-images.himalayas.app/mms34fg6lacbtvceh617vln4vm60",
  "needs_review": false,
  "official": false,
- "posted_at": "2026-10-19T18:04:23Z",
- "repost": false,
+ "posted_at": "2026-11-01T12:01:47Z",
+ "repost": true,
  "requirements": [
   "3-6 years of experience in software quality assurance or test automation roles",
   "Hands-on experience with Katalon Studio for web, API, and mobile test automation",
@@ -55,8 +56,8 @@
   "applies_india": true,
   "basis": "listed",
   "currency": "INR",
-  "fx_at": "Mon, 19 Oct 2026 00:02:32 +0000",
-  "fx_rate": 1,
+  "fx_at": "Tue, 03 Nov 2026 00:02:31 +0000",
+  "fx_rate": 1.0,
   "inr_max": 3500000,
   "inr_min": 3500000,
   "max": 3500000,
@@ -67,7 +68,7 @@
   "source_name": "Himalayas",
   "source_url": "https://himalayas.app/companies/all-generation-tech/jobs/qa-engineer-test-automation-katalon?utm_source=api",
   "state": "verified",
-  "verified_at": "2026-10-19T19:47:20Z"
+  "verified_at": "2026-11-03T18:02:49Z"
  },
  "scores": {
   "ai": 58,
@@ -86,8 +87,8 @@
    "job_id": "https://himalayas.app/companies/all-generation-tech/jobs/qa-engineer-test-automation-katalon",
    "kind": "board",
    "name": "Himalayas",
-   "posted_at": "2026-10-19T18:04:23Z",
-   "seen_at": "2026-10-19T19:47:20Z",
+   "posted_at": "2026-11-01T12:01:47Z",
+   "seen_at": "2026-11-03T18:02:49Z",
    "url": "https://himalayas.app/companies/all-generation-tech/jobs/qa-engineer-test-automation-katalon?utm_source=api"
   }
  ],

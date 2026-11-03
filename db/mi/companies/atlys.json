@@ -17,10 +17,8 @@
    "apac": 0,
    "countries": [
     "India",
-    "Austria",
     "UAE",
-    "United Arab Emirates",
-    "United States"
+    "United Arab Emirates"
    ],
    "india": 26,
    "india_samples": [
@@ -36,42 +34,31 @@
     },
     {
      "location": "Delhi HQ",
-     "title": "Content Creator",
-     "url": "https://jobs.ashbyhq.com/atlys/2dead6b6-9e11-4463-81e1-90ad2459dd29"
+     "title": "Content & Creative Manager",
+     "url": "https://jobs.ashbyhq.com/atlys/22303a89-a2aa-4d3c-bc9d-30361a266cc4"
     },
     {
      "location": "Delhi HQ",
-     "title": "Copywriter",
-     "url": "https://jobs.ashbyhq.com/atlys/ae211072-9be0-4881-99d3-63b4ed84bc64"
+     "title": "Content Creator",
+     "url": "https://jobs.ashbyhq.com/atlys/2dead6b6-9e11-4463-81e1-90ad2459dd29"
     }
    ],
    "open_samples": [],
-   "remote": 2,
-   "restricted_remote": 2,
-   "restricted_samples": [
-    {
-     "location": "USA",
-     "title": "City Scout - NY | SF | LA",
-     "url": "https://jobs.ashbyhq.com/atlys/021f462b-dcab-4bd9-a861-4157fb23d11f"
-    },
-    {
-     "location": "Vienna",
-     "title": "City Scout - Vienna",
-     "url": "https://jobs.ashbyhq.com/atlys/bcaa129b-5708-4feb-8bb9-a00f3861002b"
-    }
-   ],
+   "remote": 0,
+   "restricted_remote": 0,
+   "restricted_samples": [],
    "slug": "atlys",
-   "total": 29,
+   "total": 27,
    "type": "ashby",
    "url": "https://jobs.ashbyhq.com/atlys",
    "worldwide": 0
   },
-  "changed_at": "2026-11-03T10:27:01Z",
+  "changed_at": "2026-11-03T18:05:53Z",
   "evidence": [
    {
-    "detail": "Art Director (Delhi HQ); Backend Engineer (Delhi HQ); Content Creator (Delhi HQ)",
+    "detail": "Art Director (Delhi HQ); Backend Engineer (Delhi HQ); Content & Creative Manager (Delhi HQ)",
     "kind": "board",
-    "label": "26 of 29 open roles are located in India",
+    "label": "26 of 27 open roles are located in India",
     "url": "https://jobs.ashbyhq.com/atlys",
     "weight": 5
    },
@@ -100,8 +87,8 @@
   "first_checked_at": "2026-10-15T16:19:24Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "685e390f93",
-  "summary": "26 of 29 open roles are located in India.",
+  "sig": "73f4866f77",
+  "summary": "26 of 27 open roles are located in India.",
   "verdict": "yes"
  },
  "maturity": "Growth-stage private",

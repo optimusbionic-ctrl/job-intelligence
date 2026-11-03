@@ -1,0 +1,105 @@
+{
+ "apply_url": null,
+ "board_apply": "https://himalayas.app/companies/transperfect/jobs/freelance-game-lqa-tester-chinese-to-english?utm_source=api",
+ "category": "Game studio",
+ "comp_potential": "unknown",
+ "company": "TransPerfect",
+ "company_slug": "transperfect",
+ "concerns": [
+  "Also asks for: Localization",
+  "Pay not disclosed — ask for the range early",
+  "Contract role"
+ ],
+ "contacts_count": 0,
+ "content_hash": "3ec50c5e2027",
+ "date_quality": "exact",
+ "deadline": "2026-12-02T02:51:52Z",
+ "employment": "contract",
+ "first_seen": "2026-11-03T18:02:49Z",
+ "fit": 84,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "e276f7b3c49296",
+ "include_reason": "Freelance / crowd-testing role",
+ "india": {
+  "cities": [],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "crowd",
+ "last_verified": "2026-11-03T18:02:49Z",
+ "location": "American Samoa, Australia, Bangladesh, Bhutan, British Indian Ocean Territory, Brunei Darussalam, Cambodia, China, Christmas Island, Cocos (Keeling) Islands, Fiji, French Polynesia, Guam, Hong Kong, India, Indonesia, Japan, Kiribati, Lao People's Democratic Republic, Macao, Malaysia, Maldives, Marshall Islands, Micronesia, Federated States of, Mongolia, Myanmar, Nauru, Nepal, New Caledonia, New Zealand, Niue, Norfolk Island, Northern Mariana Islands, Pakistan, Palau, Papua New Guinea, Philippines, Pitcairn, Russian Federation, Samoa, Singapore, Solomon Islands, South Korea, Sri Lanka, Taiwan, Thailand, Timor-Leste, Tokelau, Tonga, Tuvalu, United States Minor Outlying Islands, Vanuatu, Vietnam, Wallis and Futuna",
+ "logo": "https://cdn-images.himalayas.app/ajo5i9rif4b5o85fv5k9mcd8pr0p",
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-11-01T12:37:02Z",
+ "repost": false,
+ "requirements": [
+  "1. A regular FPS game player and passion for the video games industry.",
+  "2. Native-level proficiency in English, including excellent spelling and grammar.",
+  "3. LQA experience in FPS game is a prerequisite.",
+  "4. Working Time Requirement: Your working schedule needs to largely overlap with China Standard Time (UTC+8) core business hours.",
+  "Please feel free to share your rate and updated game-related CV."
+ ],
+ "responsibilities": [
+  "The Game Localization QA Tester will work as part of a game testing team to identify and fix issues affecting the localization of the game by making text changes, writing detailed bug reports, performing regression testing, etc. In this role, you will be responsible for ensuring the accuracy and linguistic quality of localized content by performing manual testing across various gaming platforms.",
+  "1. Identify, isolate, document, and fix any localization / linguistic issues and verify fixes by using test tools or databases.",
+  "2. Follow and complete Test Cases / Checklists to perform targeted testing and execute relevant testing processes and procedures.",
+  "3. Write bug descriptions based on company standards and client specifications.",
+  "4. Apply knowledge of user preferences in Target Market to influence the client’s product.",
+  "5. Proactively look for gaps in test coverage.",
+  "6. Collaborate with partner teams in testing the product."
+ ],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 66,
+  "comp": 60,
+  "company": 96,
+  "location": 100,
+  "seniority": 84,
+  "skill": 84
+ },
+ "seniority": "unspecified",
+ "snippet": "TransPerfect Games is a leading provider of bespoke and flexible video-game services, offering a wide range of solutions including translation, functional and localization game testing, certification testing, focus group and play-testing, player support and community management, cybersecurity and penetration testing, tool development, art design, game writing, GDPR consultancy, and voice-over recording.\n\nWith over 10",
+ "source_primary": "Himalayas",
+ "sources": [
+  {
+   "id": "himalayas",
+   "job_id": "https://himalayas.app/companies/transperfect/jobs/freelance-game-lqa-tester-chinese-to-english",
+   "kind": "board",
+   "name": "Himalayas",
+   "posted_at": "2026-11-01T12:37:02Z",
+   "seen_at": "2026-11-03T18:02:49Z",
+   "url": "https://himalayas.app/companies/transperfect/jobs/freelance-game-lqa-tester-chinese-to-english?utm_source=api"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 1,
+ "title": "Freelance Game LQA Tester Chinese to English",
+ "tools": [
+  "Regression testing",
+  "Gameplay testing",
+  "Test cases & scenarios",
+  "Bug reporting",
+  "Google Sheets / Excel",
+  "Localization"
+ ],
+ "track": "game",
+ "updated_at": null,
+ "url": "https://himalayas.app/companies/transperfect/jobs/freelance-game-lqa-tester-chinese-to-english?utm_source=api",
+ "why": [
+  "Freelance / crowd testing — paid per test cycle, remote",
+  "Already on your resume: Regression testing, Gameplay testing, Test cases & scenarios, Bug reporting, Google Sheets / Excel",
+  "Game studio company",
+  "Location lists India"
+ ],
+ "work_mode": "remote",
+ "years_max": null,
+ "years_min": null
+}

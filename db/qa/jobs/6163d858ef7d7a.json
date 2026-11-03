@@ -1,0 +1,106 @@
+{
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/playwright-automation-test-engineer/white-horse-manpower-consultancy-p-ltd/19984092",
+ "category": "Recruiter (client not named)",
+ "comp_potential": "listed_good",
+ "company": "WHITE HORSE MANPOWER CONSULTANCY (P) LTD",
+ "company_slug": "white-horse-manpower-consultancy-p-ltd",
+ "concerns": [
+  "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
+  "Office outside Mumbai — relocation within India"
+ ],
+ "contacts_count": 0,
+ "content_hash": "203a93f4b84f",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-03T18:02:49Z",
+ "fit": 66,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "6163d858ef7d7a",
+ "include_reason": "Automation-heavy QA (SDET)",
+ "india": {
+  "cities": [
+   "Bengaluru",
+   "Chennai"
+  ],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "automation",
+ "last_verified": "2026-11-03T18:02:49Z",
+ "location": "Chennai, Bangalore, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-11-02T13:20:46Z",
+ "repost": false,
+ "requirements": [
+  "(Summary from the Shine.com listing; open the posting for the full description.)"
+ ],
+ "responsibilities": [],
+ "salary": {
+  "applies_india": true,
+  "basis": "listed",
+  "currency": "INR",
+  "fx_at": "Tue, 03 Nov 2026 00:02:31 +0000",
+  "fx_rate": 1.0,
+  "inr_max": 800000,
+  "inr_min": 400000,
+  "max": 800000,
+  "min": 400000,
+  "note": "Listed in the posting",
+  "original_period": "annual",
+  "period": "annual",
+  "source_name": "Shine.com",
+  "source_url": "https://www.shine.com/jobs/playwright-automation-test-engineer/white-horse-manpower-consultancy-p-ltd/19984092",
+  "state": "verified",
+  "verified_at": "2026-11-03T18:02:49Z"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 100,
+  "company": 66,
+  "location": 60,
+  "seniority": 100,
+  "skill": 38
+ },
+ "seniority": "unspecified",
+ "snippet": "Experience: 2 to 6 Yrs\nSkills: regression testing, firefox, ui\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "19984092",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-11-02T13:20:46Z",
+   "seen_at": "2026-11-03T18:02:49Z",
+   "url": "https://www.shine.com/jobs/playwright-automation-test-engineer/white-horse-manpower-consultancy-p-ltd/19984092"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 3,
+ "title": "Playwright Automation test Engineer",
+ "tools": [
+  "Regression testing",
+  "Test automation"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/playwright-automation-test-engineer/white-horse-manpower-consultancy-p-ltd/19984092",
+ "why": [
+  "Already on your resume: Regression testing",
+  "Asks for 2–6 years — you have about 2.5",
+  "Pay is listed in the posting",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": 6,
+ "years_min": 2
+}

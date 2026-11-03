@@ -22,8 +22,8 @@
    "india": 0,
    "india_samples": [],
    "open_samples": [],
-   "remote": 35,
-   "restricted_remote": 35,
+   "remote": 36,
+   "restricted_remote": 36,
    "restricted_samples": [
     {
      "location": "Remote: United States",
@@ -47,17 +47,17 @@
     }
    ],
    "slug": "render",
-   "total": 35,
+   "total": 36,
    "type": "ashby",
    "url": "https://jobs.ashbyhq.com/render",
    "worldwide": 0
   },
-  "changed_at": "2026-10-30T00:27:41Z",
+  "changed_at": "2026-11-03T18:05:53Z",
   "evidence": [
    {
-    "detail": "None are located in India or open worldwide; 35 remote roles are limited to named countries",
+    "detail": "None are located in India or open worldwide; 36 remote roles are limited to named countries",
     "kind": "board",
-    "label": "All 35 open roles are in United States and Canada",
+    "label": "All 36 open roles are in United States and Canada",
     "url": "https://jobs.ashbyhq.com/render",
     "weight": -3
    }
@@ -65,8 +65,8 @@
   "first_checked_at": "2026-10-15T16:19:24Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "456fa18bca",
-  "summary": "All 35 open roles are in United States and Canada. None are located in India or open worldwide; 35 remote roles are limited to named countries.",
+  "sig": "de53fb10c4",
+  "summary": "All 36 open roles are in United States and Canada. None are located in India or open worldwide; 36 remote roles are limited to named countries.",
   "verdict": "no"
  },
  "maturity": "Growth-stage private",

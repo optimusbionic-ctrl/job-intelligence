@@ -1,0 +1,31 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-03T18:02:49Z",
+  "evidence": [
+   {
+    "detail": "QA Engineer - Backend (Golang) Junior+ — Afghanistan, Albania, Algeria, American Samoa, Andorra, Angola, Antarctica, Armenia, Australia, Austria, Azerbaijan, Bahrain, Bangladesh, Belarus, Belgium, Benin, Bhutan, Bosnia a",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://himalayas.app/companies/banco-plata-s-a-institucion-de-banca-multiple/jobs/qa-engineer-backend-golang-junior?utm_source=api",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-03T18:02:49Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "075d6269ae",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "logo": "https://cdn-images.himalayas.app/cu15rhdxs9omvo0ml1kwr014ai5y",
+ "name": "Banco Plata, S.A., Institución de Banca Múltiple",
+ "slug": "banco-plata-s-a-instituci-n-de-banca-m-ltiple",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}

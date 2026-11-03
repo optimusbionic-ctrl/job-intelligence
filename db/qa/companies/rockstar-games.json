@@ -40,17 +40,17 @@
    "restricted_remote": 0,
    "restricted_samples": [],
    "slug": "rockstargames",
-   "total": 24,
+   "total": 23,
    "type": "greenhouse",
    "url": "https://boards.greenhouse.io/rockstargames",
    "worldwide": 0
   },
-  "changed_at": "2026-10-27T10:43:30Z",
+  "changed_at": "2026-11-03T18:02:49Z",
   "evidence": [
    {
     "detail": "Security Compliance Operations Lead (Bengaluru, Karnataka, India); Security GRC Analyst  (Bengaluru, Karnataka, India)",
     "kind": "board",
-    "label": "2 of 24 open roles are located in India",
+    "label": "2 of 23 open roles are located in India",
     "url": "https://boards.greenhouse.io/rockstargames",
     "weight": 5
    }
@@ -58,8 +58,8 @@
   "first_checked_at": "2026-10-19T15:45:44Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "85867792cc",
-  "summary": "2 of 24 open roles are located in India.",
+  "sig": "886106f500",
+  "summary": "2 of 23 open roles are located in India.",
   "verdict": "yes"
  },
  "name": "Rockstar Games",
