@@ -11,8 +11,15 @@
  "hq": "Pune, IN",
  "india_hiring": {
   "board": null,
-  "changed_at": "2026-11-03T19:58:58Z",
+  "changed_at": "2026-11-03T20:54:31Z",
   "evidence": [
+   {
+    "detail": "Motion Designer - Rive — Pune, India (on-site)",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/motion-designer-rive/frido/19580980",
+    "weight": 5
+   },
    {
     "detail": "Pune, IN",
     "kind": "registry",
@@ -24,7 +31,7 @@
   "first_checked_at": "2026-10-15T16:19:24Z",
   "india_based": true,
   "method": "Careers board, posting text",
-  "sig": "51b47656de",
+  "sig": "0e73c92b14",
   "summary": "Frido is headquartered in India.",
   "verdict": "yes"
  },
