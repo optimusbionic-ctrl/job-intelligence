@@ -3,7 +3,7 @@
  "classification": "Inferred from job description",
  "india_hiring": {
   "board": null,
-  "changed_at": "2026-11-03T18:02:49Z",
+  "changed_at": "2026-11-03T19:56:44Z",
   "evidence": [
    {
     "detail": "Freelance Game LQA Tester Chinese to English — American Samoa, Australia, Bangladesh, Bhutan, British Indian Ocean Territory, Brunei Darussalam, Cambodia, China, Christmas Island, Cocos (Keeling) Islands, Fiji, French Po",
@@ -11,19 +11,12 @@
     "label": "A current posting lists India as a location",
     "url": "https://himalayas.app/companies/transperfect/jobs/freelance-game-lqa-tester-chinese-to-english?utm_source=api",
     "weight": 5
-   },
-   {
-    "detail": "QA Automation Engineer — Worldwide",
-    "kind": "posting",
-    "label": "A current posting is open worldwide",
-    "url": "https://himalayas.app/companies/transperfect/jobs/qa-automation-engineer?utm_source=api",
-    "weight": 3
    }
   ],
   "first_checked_at": "2026-10-19T13:24:59Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "82a379308f",
+  "sig": "0c564f6152",
   "summary": "A current posting lists India as a location.",
   "verdict": "yes"
  },

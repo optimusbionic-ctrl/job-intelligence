@@ -1,5 +1,5 @@
 {
- "avg": 14001957,
+ "avg": 12306173,
  "basis": "Interquartile range of posting midpoints, converted to INR at today's rate",
  "currency": "INR",
  "high": 18511062,
@@ -7,7 +7,7 @@
  "label": "Disclosed pay on remote motion-design postings (any region, this dataset)",
  "low": 9616259,
  "market": "Remote (global)",
- "n": 16,
+ "n": 17,
  "retrieved_at": "2026-11-03",
  "samples": [
   {
@@ -72,6 +72,15 @@
    "min": 110000,
    "title": "Motion Designer & Video Editor",
    "url": "https://jobs.ashbyhq.com/joinpogo/850f2cd4-cd44-4fb4-b2d2-dc5781dfbda1"
+  },
+  {
+   "company": "Pinterest",
+   "currency": "USD",
+   "location": "San Francisco, CA, US; Remote, US",
+   "max": 168660,
+   "min": 81921,
+   "title": "Motion Designer, PPM SMB",
+   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8268342"
   },
   {
    "company": "Zapier",

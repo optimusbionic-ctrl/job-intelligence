@@ -1,7 +1,19 @@
 {
  "boards": {
+  "1000xcodes": {
+   "at": "2026-11-03T19:58:58Z",
+   "ats": null
+  },
+  "absolutesports": {
+   "at": "2026-11-03T19:58:58Z",
+   "ats": null
+  },
   "adtricsolutions": {
    "at": "2026-11-03T18:58:38Z",
+   "ats": null
+  },
+  "angshumansettscompany": {
+   "at": "2026-11-03T19:58:58Z",
    "ats": null
   },
   "appinventiv": {
@@ -16,12 +28,20 @@
    "at": "2026-11-03T18:58:38Z",
    "ats": null
   },
+  "bhanzu": {
+   "at": "2026-11-03T19:58:58Z",
+   "ats": null
+  },
   "boomingbullsacademy": {
    "at": "2026-11-03T18:58:38Z",
    "ats": null
   },
   "catalys": {
    "at": "2026-11-03T18:58:38Z",
+   "ats": null
+  },
+  "colissia": {
+   "at": "2026-11-03T19:58:58Z",
    "ats": null
   },
   "digikit": {
@@ -32,20 +52,56 @@
    "at": "2026-11-03T18:58:38Z",
    "ats": null
   },
+  "frido": {
+   "at": "2026-11-03T19:58:58Z",
+   "ats": null
+  },
+  "gtf": {
+   "at": "2026-11-03T19:58:58Z",
+   "ats": null
+  },
+  "infosys": {
+   "at": "2026-11-03T19:58:58Z",
+   "ats": null
+  },
   "instant": {
    "at": "2026-11-03T18:58:38Z",
+   "ats": null
+  },
+  "instaservindia": {
+   "at": "2026-11-03T19:58:58Z",
    "ats": null
   },
   "internetmoguls": {
    "at": "2026-11-03T18:58:38Z",
    "ats": null
   },
+  "intigly": {
+   "at": "2026-11-03T19:58:58Z",
+   "ats": null
+  },
+  "kheewaincorporation": {
+   "at": "2026-11-03T19:58:58Z",
+   "ats": null
+  },
+  "launch3d": {
+   "at": "2026-11-03T19:58:58Z",
+   "ats": null
+  },
   "lottielab": {
    "at": "2026-11-03T18:58:38Z",
    "ats": null
   },
+  "maloo": {
+   "at": "2026-11-03T19:58:58Z",
+   "ats": null
+  },
   "maximuslabsai": {
    "at": "2026-11-03T18:58:38Z",
+   "ats": null
+  },
+  "mcsaatchiperformance": {
+   "at": "2026-11-03T19:58:58Z",
    "ats": null
   },
   "mileseducation": {
@@ -54,6 +110,10 @@
   },
   "nathabit": {
    "at": "2026-11-03T18:58:38Z",
+   "ats": null
+  },
+  "nyx": {
+   "at": "2026-11-03T19:58:58Z",
    "ats": null
   },
   "optiondesigns": {
@@ -72,12 +132,24 @@
    "at": "2026-11-03T18:58:38Z",
    "ats": null
   },
+  "princekscompany": {
+   "at": "2026-11-03T19:58:58Z",
+   "ats": null
+  },
   "redbaton": {
    "at": "2026-11-03T18:58:38Z",
    "ats": null
   },
+  "roxmedia": {
+   "at": "2026-11-03T19:58:58Z",
+   "ats": null
+  },
   "servicerobot": {
    "at": "2026-11-03T18:58:38Z",
+   "ats": null
+  },
+  "solvative": {
+   "at": "2026-11-03T19:58:58Z",
    "ats": null
   },
   "swageazy": {
@@ -92,19 +164,47 @@
    "at": "2026-11-03T18:58:38Z",
    "ats": null
   },
+  "thesupremeconsultancy": {
+   "at": "2026-11-03T19:58:58Z",
+   "ats": null
+  },
+  "thinkdesigncollaborative": {
+   "at": "2026-11-03T19:58:58Z",
+   "ats": null
+  },
+  "ungrammary": {
+   "at": "2026-11-03T19:58:58Z",
+   "ats": null
+  },
   "venacavadesigns": {
    "at": "2026-11-03T18:58:38Z",
+   "ats": null
+  },
+  "verneek": {
+   "at": "2026-11-03T19:58:58Z",
+   "ats": null
+  },
+  "vyve": {
+   "at": "2026-11-03T19:58:58Z",
    "ats": null
   },
   "wcaglobal": {
    "at": "2026-11-03T18:58:38Z",
    "ats": null
+  },
+  "wellsfargo": {
+   "at": "2026-11-03T19:58:58Z",
+   "ats": null
+  },
+  "workable": {
+   "at": "2026-11-03T19:58:58Z",
+   "ats": null
   }
  },
  "counts": {
-  "closed": 29,
-  "live": 23,
-  "stale": 132
+  "closed": 11,
+  "live": 26,
+  "stale": 137
  },
- "updated_at": "2026-11-03T19:00:34Z"
+ "updated_at": "2026-11-03T20:01:09Z"
 }
