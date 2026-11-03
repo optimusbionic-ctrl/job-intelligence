@@ -23,7 +23,7 @@ from email.utils import parsedate_to_datetime
 
 PIPELINE_VERSION = "2.1.0"
 UA = "MotionIntelligence/1.0 (+personal job research; respects robots.txt)"
-WINDOW_DAYS = 120          # fetch window; the app defaults to a 90-day view
+WINDOW_DAYS = 90           # nothing posted more than 3 months ago is collected
 NOW = dt.datetime.now(dt.timezone.utc)
 CTX = ssl.create_default_context()
 
@@ -2013,6 +2013,247 @@ def load_dir(d):
                     pass
     return out
 
+
+# ---------------------------------------------------------------- liveness: recent, still open, and confirmed by more than one source
+MAX_AGE_DAYS = 90            # nothing posted more than 3 months ago is shown
+LEAD_CONFIRM_DAYS = 45       # a role confirmed by 2+ sources but with no posting date stays for this long after first seen
+PAGE_CHECK_EVERY_H = 20      # re-open a listing page at most this often
+PAGE_CHECK_LIMIT = 70        # listing pages opened per run
+NO_FETCH_HOST = re.compile(r"(?i)(^|\.)(linkedin\.com|naukri\.com|indeed\.[a-z.]+|foundit\.in|glassdoor\.[a-z.]+|instahyre\.com|apna\.co|wellfound\.com|angel\.co|monster\.[a-z.]+|ziprecruiter\.com|simplyhired\.com)$")
+CLOSED_RX = re.compile(r"(?i)(no longer (?:accepting applications|available|open|active|accepting)|(?:job|position|role|posting|vacancy|listing|opening) (?:has|is) (?:been )?(?:closed|filled|expired|removed|deleted|archived)|this job (?:has )?expired|job (?:has )?expired|position (?:has been |is )?filled|applications? (?:are |is )?(?:now )?closed|not accepting (?:any )?(?:more )?applications|job (?:is )?not found|job you are looking for|page (?:you requested )?(?:was )?not found|listing (?:has )?expired|this vacancy has (?:now )?closed|hiring for this (?:role|position) has (?:closed|ended))")
+_ROBOTS = {}
+
+
+def _host(u):
+    try:
+        return urllib.parse.urlparse(u).hostname or ""
+    except Exception:
+        return ""
+
+
+def _site(u):
+    """registrable domain, so two pages of one board count once"""
+    h = _host(u).lower().lstrip(".")
+    if h.startswith("www."): h = h[4:]
+    p = h.split(".")
+    if len(p) >= 3 and p[-2] in ("co", "com", "net", "org", "ac", "gov") and len(p[-1]) == 2:
+        return ".".join(p[-3:])
+    return ".".join(p[-2:])
+
+
+def _robots_ok(url):
+    import urllib.robotparser
+    h = _host(url)
+    if not h: return False
+    if h not in _ROBOTS:
+        rp = urllib.robotparser.RobotFileParser()
+        s, b = http_get(f"https://{h}/robots.txt", timeout=10, tries=1, accept="text/plain")
+        if s == 200:
+            rp.parse(b.decode("utf-8", "replace").splitlines())
+        elif s in (401, 403):
+            rp.disallow_all = True
+        else:
+            rp.allow_all = True
+        _ROBOTS[h] = rp
+    try:
+        return _ROBOTS[h].can_fetch(UA, url)
+    except Exception:
+        return False
+
+
+def _fetch_page(url):
+    req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "text/html,application/xhtml+xml"})
+    try:
+        with urllib.request.urlopen(req, timeout=15, context=CTX) as r:
+            return r.status, r.geturl(), r.read(600000).decode("utf-8", "replace")
+    except urllib.error.HTTPError as e:
+        return e.code, url, ""
+    except Exception as e:
+        return 0, url, str(e)[:200]
+
+
+def _jsonld_jobs(html):
+    out = []
+    for m in re.finditer(r'(?is)<script[^>]+application/ld\+json[^>]*>(.*?)</script>', html):
+        try:
+            d = json.loads(m.group(1).strip())
+        except Exception:
+            continue
+        stack = [d]
+        while stack:
+            x = stack.pop()
+            if isinstance(x, list): stack += x
+            elif isinstance(x, dict):
+                t = x.get("@type")
+                if t == "JobPosting" or (isinstance(t, list) and "JobPosting" in t): out.append(x)
+                stack += [v for k, v in x.items() if k == "@graph"]
+    return out
+
+
+def _title_tokens(t):
+    stop = {"senior", "sr", "junior", "jr", "lead", "the", "and", "for", "remote", "hybrid", "full", "time", "job", "india", "of", "a", "i", "ii", "iii"}
+    return {w for w in re.findall(r"[a-z0-9]+", _tkey(t or "")) if w not in stop and len(w) > 1}
+
+
+def _title_match(a, b):
+    A, B = _title_tokens(a), _title_tokens(b)
+    if not A or not B: return False
+    return len(A & B) / max(1, min(len(A), len(B))) >= 0.75
+
+
+def page_check(url, title):
+    """Open a public listing page (robots.txt permitting) and decide whether the role is still open."""
+    h = _host(url)
+    if not h or NO_FETCH_HOST.search(h):
+        return dict(r="skip")
+    if not _robots_ok(url):
+        return dict(r="skip", note="robots.txt does not allow checking this page")
+    s, final, html = _fetch_page(url)
+    if s in (404, 410):
+        return dict(r="closed", note=f"The listing page is gone (HTTP {s})")
+    if s != 200 or not html:
+        return dict(r="unknown", note=f"Page did not load (HTTP {s or 'error'})")
+    op, fp = urllib.parse.urlparse(url), urllib.parse.urlparse(final)
+    if fp.path.rstrip("/") in ("", "/jobs", "/careers", "/job-search", "/search") and op.path.rstrip("/") not in ("", "/jobs", "/careers"):
+        return dict(r="closed", note="The listing now redirects to a general jobs page")
+    jp = _jsonld_jobs(html)
+    posted = valid = None
+    for x in jp:
+        posted = posted or parse_date(x.get("datePosted"))
+        valid = valid or parse_date(x.get("validThrough"))
+    if valid and valid < NOW - dt.timedelta(days=1):
+        return dict(r="closed", note=f"The listing expired on {valid.strftime('%d %b %Y')}")
+    text = strip_html(html)[:30000]
+    m = CLOSED_RX.search(text)
+    if m:
+        return dict(r="closed", note=f"The listing says “{m.group(0)[:80]}”")
+    if not jp and not _title_match(title, text[:4000]) and not _title_match(title, (re.search(r"(?is)<title>(.*?)</title>", html) or [None, ""])[1]):
+        return dict(r="unknown", note="The page no longer shows this role's title")
+    return dict(r="live", posted=iso(posted) if posted else None, note="Listing page is still open")
+
+
+def liveness(docs, existing, companies, watch=None):
+    """Decide, for every role in the database, whether it is recent, still open and confirmed.
+    Returns {"jobs": {id: {s, r?, vb?, pc?, pr?, pd?}}, "boards": {company_key: {type, slug}|None, at}}."""
+    def body(x): return x.get("data", x) if isinstance(x, dict) else x
+    ex_jobs = {k: body(v) for k, v in (existing.get("jobs") or {}).items()}
+    meta = {k: body(v) for k, v in (existing.get("meta") or {}).items()}
+    vprev = (meta.get("verify") or {}).get("map", {}) or {}
+    boards = dict((meta.get("liveness") or {}).get("boards") or {})
+    reg = {}
+    for c in list(companies) + list(watch or []):
+        if c.get("ats") and c.get("name"):
+            reg[company_key(c["name"])] = c["ats"]; reg[c.get("slug") or slugify(c["name"])] = c["ats"]
+    this_run = {d["id"]: d for d in docs}
+    allj = dict(ex_jobs); allj.update(this_run)
+    out, n_pages, probes = {}, 0, 0
+
+    def age_days(v):
+        t = parse_date(v)
+        return (NOW - t).days if t else None
+
+    def board_for(j):
+        nonlocal probes
+        k = company_key(j.get("company") or "")
+        a = reg.get(j.get("company_slug")) or reg.get(k)
+        if a: return a
+        b = boards.get(k)
+        if b and (age_days(b.get("at")) or 0) <= 14:
+            return b.get("ats")
+        if probes >= 25: return None
+        probes += 1
+        try: a = ats_probe_company(j.get("company") or "")
+        except Exception: a = None
+        boards[k] = dict(ats=a, at=iso(NOW))
+        return a
+
+    # jobs that need a page check, newest first, within the per-run budget
+    todo = []
+    for jid, j in allj.items():
+        pv = vprev.get(jid) or {}
+        st = pv.get("s") or j.get("status")
+        if st in ("closed", "excluded"):
+            continue
+        if jid in this_run and j.get("status") == "verified":
+            continue
+        pc = parse_date(pv.get("pc")) if pv.get("pc") else None
+        if pc and (NOW - pc).total_seconds() < PAGE_CHECK_EVERY_H * 3600:
+            continue
+        if jid in this_run and j.get("status") == "active":
+            continue
+        todo.append(jid)
+    todo.sort(key=lambda i: allj[i].get("first_seen") or "", reverse=True)
+    checked = {}
+
+    def run_check(jid):
+        j = allj[jid]
+        for s in (j.get("sources") or []):
+            u = s.get("url") or ""
+            if _host(u) and not NO_FETCH_HOST.search(_host(u)):
+                return jid, page_check(u, j.get("title")), u
+        return jid, dict(r="skip"), None
+    fetchable = [i for i in todo if any(_host(s.get("url") or "") and not NO_FETCH_HOST.search(_host(s.get("url") or "")) for s in (allj[i].get("sources") or []))][:PAGE_CHECK_LIMIT]
+    with cf.ThreadPoolExecutor(8) as ex:
+        for jid, res, u in ex.map(run_check, fetchable):
+            checked[jid] = dict(res, url=u)
+
+    for jid, j in allj.items():
+        pv = vprev.get(jid) or {}
+        st = pv.get("s") or j.get("status")
+        if st in ("excluded",):
+            continue
+        posted = j.get("posted_at") or pv.get("pd")
+        ref = posted or j.get("first_seen")
+        a_post, a_ref = age_days(posted), age_days(ref)
+        sites = {_site(s.get("url") or "") for s in (j.get("sources") or []) if s.get("url")}
+        sites.discard("")
+        rec = dict(pc=pv.get("pc"), pr=pv.get("pr"), pd=pv.get("pd"))
+        if jid in checked:
+            c = checked[jid]
+            rec.update(pc=iso(NOW), pr=c.get("r"))
+            if c.get("posted"): rec["pd"] = c["posted"]; posted = posted or c["posted"]; a_post = age_days(posted)
+        if st == "closed" and not (jid in this_run):
+            continue
+        if a_post is not None and a_post > MAX_AGE_DAYS:
+            out[jid] = dict(rec, s="closed", r=f"Posted more than 3 months ago ({parse_date(posted).strftime('%d %b %Y')})"); continue
+        seen_now = jid in this_run
+        official = j.get("official") or j.get("status") == "verified"
+        if official and seen_now:
+            out[jid] = dict(rec, s="live", vb="Open on the employer's own careers page (checked this run)"); continue
+        if jid in checked and checked[jid].get("r") == "closed":
+            out[jid] = dict(rec, s="closed", r=checked[jid].get("note")); continue
+        is_lead = (j.get("status") == "lead") or (pv.get("s") in ("lead", "stale") and not official)
+        if is_lead:
+            b = board_for(j)
+            if b and b.get("type") in ATS_FN:
+                rows = ats_footprint(b["type"], b["slug"])
+                if rows is not None:
+                    hit = next((r for r in rows if _title_match(j.get("title"), r.get("title"))), None)
+                    if hit:
+                        out[jid] = dict(rec, s="live", vb=f"Also open on {j.get('company')}'s own careers page", vu=hit.get("url")); continue
+                    out[jid] = dict(rec, s="closed", r=f"Not listed on {j.get('company')}'s own careers page ({b['type'].title()}) — likely closed or never posted there"); continue
+            page_live = (jid in checked and checked[jid].get("r") == "live") or (not jid in checked and pv.get("pr") == "live")
+            if len(sites) >= 2 and (a_ref is None or a_ref <= LEAD_CONFIRM_DAYS):
+                out[jid] = dict(rec, s="live", vb=f"Seen on {len(sites)} independent sources ({', '.join(sorted(sites)[:4])})"); continue
+            if page_live and a_post is not None and a_post <= MAX_AGE_DAYS:
+                out[jid] = dict(rec, s="live", vb=f"Listing page open, posted {parse_date(posted).strftime('%d %b %Y')}"); continue
+            out[jid] = dict(rec, s="stale", r="Found on one source only, without the employer confirming it — hidden until a second source or the employer's own page confirms it"); continue
+        # job-board listings (live API results) and anything else
+        if seen_now:
+            if posted is None and a_ref is not None and a_ref > MAX_AGE_DAYS:
+                out[jid] = dict(rec, s="stale", r="Undated listing first seen more than 3 months ago"); continue
+            out[jid] = dict(rec, s="live", vb=f"Returned by {', '.join(sorted({s.get('name','') for s in (j.get('sources') or [])})[:2])} this run"); continue
+        last = age_days(pv.get("lv") or j.get("last_verified"))
+        if jid in checked and checked[jid].get("r") == "live" and (last is None or last <= 7):
+            out[jid] = dict(rec, s="live", vb="Listing page still open"); continue
+        if last is not None and last > 3:
+            out[jid] = dict(rec, s="stale", r=f"Not returned by its job board for {last} days"); continue
+        out[jid] = dict(rec, s="keep")
+    counts = {}
+    for v in out.values(): counts[v["s"]] = counts.get(v["s"], 0) + 1
+    log("liveness", counts, "pages checked", len(checked), "board probes", probes)
+    return dict(jobs=out, boards=boards, counts=counts)
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--out")
@@ -2090,7 +2331,12 @@ def main():
     iv = {}
     for r in checks.values(): iv[r["verdict"]] = iv.get(r["verdict"], 0) + 1
     log("india checks", iv, "roles clarified:", upgraded)
+    try:
+        live = liveness(docs, existing, companies, watch)
+    except Exception as e:
+        log("liveness failed", repr(e)[:300]); live = {}
     os.makedirs(a.out, exist_ok=True)
+    json.dump(live, open(os.path.join(a.out, "liveness.json"), "w"), ensure_ascii=False)
     for sub in ["jobs", "job_text", "companies", "contacts", "salary_benchmarks"]:
         os.makedirs(os.path.join(a.out, sub), exist_ok=True)
     for d in docs: json.dump(d, open(os.path.join(a.out, "jobs", d["id"] + ".json"), "w"), ensure_ascii=False)

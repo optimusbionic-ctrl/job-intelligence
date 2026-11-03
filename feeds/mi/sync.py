@@ -146,7 +146,7 @@ def main():
             vmap[jid] = dict(s="excluded", r=excluded_ids[jid], lv=ISO(NOW)); continue
         if j.get("status") in ("lead",) or st in ("lead", "stale"):
             age = (NOW - (parse(j.get("first_seen")) or NOW)).days
-            vmap[jid] = dict(s="stale" if age > 30 else "lead", lv=pv.get("lv") or j.get("last_verified"))
+            vmap[jid] = dict(s="stale" if age > 21 else "lead", lv=pv.get("lv") or j.get("last_verified"))
             continue
         seen_here = any(str(x.get("job_id")) in seen_ids for x in (j.get("sources") or []))
         if seen_here:
@@ -156,7 +156,30 @@ def main():
             closed_now.append(jid)
         else:
             lv = parse(pv.get("lv") or j.get("last_verified")) or NOW
-            vmap[jid] = dict(s="stale" if (NOW - lv).days > 14 else st, lv=pv.get("lv") or j.get("last_verified"))
+            vmap[jid] = dict(s="stale" if (NOW - lv).days > 3 else st, lv=pv.get("lv") or j.get("last_verified"))
+    # liveness decisions from the pipeline: recent, still open, confirmed by the employer or 2+ sources
+    lv_path = os.path.join(a.out, "liveness.json")
+    live = json.load(open(lv_path)) if os.path.exists(lv_path) else {}
+    for jid, L in (live.get("jobs") or {}).items():
+        doc = new_jobs.get(jid) or ex_jobs.get(jid) or {}
+        cur = dict(vmap.get(jid) or verify_prev.get(jid) or {"s": doc.get("status"), "lv": ISO(NOW)})
+        for k in ("pc", "pr", "pd"):
+            if L.get(k): cur[k] = L[k]
+        s = L.get("s")
+        if s == "closed" and cur.get("s") != "closed":
+            cur.update(s="closed", r=L.get("r"), ca=ISO(NOW)); cur.pop("vb", None); cur.pop("vu", None)
+            if jid in ex_jobs and jid not in closed_now: closed_now.append(jid)
+        elif s == "stale" and cur.get("s") not in ("closed", "excluded"):
+            cur.update(s="stale", r=L.get("r")); cur.pop("vb", None); cur.pop("vu", None)
+        elif s == "live" and cur.get("s") not in ("closed", "excluded"):
+            if L.get("vu"):
+                cur["s"] = "verified"; cur["vu"] = L["vu"]
+            elif cur.get("s") in ("stale", None):
+                cur["s"] = doc.get("status") if doc.get("status") not in (None, "stale", "closed", "excluded") else "lead"
+            cur.pop("r", None); cur["vb"] = L.get("vb")
+        vmap[jid] = cur
+    if live.get("boards") is not None:
+        put("meta", "liveness", dict(boards=live["boards"], counts=live.get("counts"), updated_at=ISO(NOW)), "liveness" in ex_meta)
     put("meta", "verify", dict(map=vmap, updated_at=ISO(NOW)), "verify" in ex_meta)
 
     for cid, c in new_comp.items():
@@ -199,7 +222,7 @@ def main():
                            source=j.get("source_primary"), comp_state=j.get("salary", {}).get("state"), apply_url=j.get("apply_url") or j.get("url"),
                            india=(j.get("india") or {}).get("status"), location=j.get("location"), work_mode=j.get("work_mode"), posted_at=j.get("posted_at"),
                            date_quality=j.get("date_quality"), discovered_at=j.get("first_seen"), created_at=ISO(NOW), **(extra or {})))
-    open_ids = [i for i in new_ids if new_jobs[i]["india"]["status"] in ("confirmed", "likely")]
+    open_ids = [i for i in new_ids if vmap.get(i, {}).get("s") not in ("stale", "closed", "excluded") and new_jobs[i]["india"]["status"] in ("confirmed", "likely")]
     if first_run:
         top = sorted(open_ids, key=lambda i: -fit(new_jobs[i].get("scores"), w))
         for i in top:
@@ -238,7 +261,7 @@ def main():
                   fx=dict(usd_inr=fx["rates"]["INR"], as_of=fx["as_of"], source=fx["source"]) if fx else system_prev.get("fx"),
                   updated_at=ISO(NOW))
     if isinstance(system.get("monitor"), dict) and system["monitor"].get("trigger_id"):
-        system["monitor"] = {**system["monitor"], "cadence": "every hour", "cron": "0 * * * * (UTC)"}
+        system["monitor"] = {**system["monitor"], "cadence": "every 3 hours", "cron": "every 3 hours (UTC)"}
     put("meta", "system", system, "system" in ex_meta)
 
     # batches of <=50 create writes, <=900KB each

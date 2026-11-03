@@ -928,7 +928,7 @@ const STATUS_META = {
   verified: { label: 'Official · verified', cls: 'good', icon: 'i-shield', rank: 0 },
   active: { label: 'Live on job board', cls: 'info', icon: 'i-dot', rank: 1 },
   lead: { label: 'Lead · unverified', cls: 'warn', icon: 'i-info', rank: 2 },
-  stale: { label: 'Stale lead', cls: 'plain', icon: 'i-clock', rank: 3 },
+  stale: { label: 'Not confirmed live', cls: 'plain', icon: 'i-clock', rank: 3 },
   closed: { label: 'Closed', cls: 'bad', icon: 'i-x', rank: 4 },
   excluded: { label: 'No longer qualifies', cls: 'plain', icon: 'i-info', rank: 5 },
 };
@@ -1280,7 +1280,7 @@ function subscribeShared(db) {
 function overlay() {
   if (!S.jobsRaw) return; const v = S.meta.verify?.map || {};
   S.jobs = new Map([...S.jobsRaw].map(([id, j0]) => {
-    const o = v[id]; let j = o ? { ...j0, status: o.s || j0.status, last_verified: o.lv || j0.last_verified, closed_at: o.ca || null, excluded_reason: o.r || null } : j0;
+    const o = v[id]; let j = o ? { ...j0, status: o.s || j0.status, last_verified: o.lv || j0.last_verified, closed_at: o.ca || null, excluded_reason: o.r || null, live_note: o.vb || null, live_url: o.vu || null } : j0;
     const chk = companyCheck(j.company_slug); const vd = chk.verdict === 'none' ? null : chk.verdict;
     if (vd && j.india && j.india.company !== vd) {
       let india = { ...j.india, company: vd }; let scores = j.scores;
@@ -1716,7 +1716,7 @@ function filterOpts(key) {
   return ({
     india: [['confirmed', 'India-based or India listed'], ['likely', 'Worldwide or open to India'], ['unconfirmed', 'Region not confirmed'], ['relocation', 'Relocation abroad']],
     cohire: [['yes', 'Hires in India'], ['likely', 'Hires globally'], ['no', 'Own region only'], ['unclear', 'Not yet clear']],
-    status: [['verified', 'Official employer site'], ['active', 'Live on a job board'], ['lead', 'Lead (search or social)'], ['closed', 'Closed'], ['stale', 'Stale lead']],
+    status: [['verified', 'Official employer site'], ['active', 'Live on a job board'], ['lead', 'Lead (search or social)'], ['closed', 'Closed'], ['stale', 'Not confirmed live (single source or not re-found)']],
     mode: [['remote', 'Remote'], ['hybrid', 'Hybrid'], ['onsite', 'On-site'], ['unspecified', 'Not stated']],
     cities: [...MAIN_CITIES.map(c => [c, c]), ['Other India', 'Other Indian cities']],
     tiers: [['1', 'Tier 1 · product, game studio, fintech'], ['2', 'Tier 2 · QA & IT services'], ['3', 'Other employers & recruiters']],
@@ -2061,6 +2061,7 @@ function tabOverview(j) {
   <div class="sec"><h3>Posting text</h3>${t === undefined ? '<div class="skel" style="height:80px"></div>' : t?.text ? `<details class="disclose"><summary>Show the full text as collected ${ico('i-chev', 12)}</summary><div class="prose" style="margin-top:10px">${esc(t.text)}</div></details><p class="note">${ico('i-info')}<span>Collected ${ago(t.fetched_at)} from <a href="${esc(safeUrl(t.source_url) || '#')}" target="_blank" rel="noopener">the original posting</a>, which is the authoritative version.</span></p>` : `<p class="muted">${esc(j.snippet || 'Only a short summary is available from this source.')}</p>`}</div>
   <div class="sec"><h3>Verification and sources</h3><dl class="kv">
     <dt>Status</dt><dd>${statusPill(j)}${j.excluded_reason ? ` <span class="muted">${esc(j.excluded_reason)}</span>` : ''}</dd>
+    ${j.live_note ? `<dt>Live check</dt><dd>${ico('i-check', 12)} ${esc(j.live_note)}${safeUrl(j.live_url) ? ` · <a href="${esc(j.live_url)}" target="_blank" rel="noopener">employer listing</a>` : ''}</dd>` : ''}
     <dt>First found</dt><dd>${fmtDateTime(j.first_seen)}</dd><dt>Last verified</dt><dd>${fmtDateTime(j.last_verified)}</dd>
     ${j.closed_at ? `<dt>Closed</dt><dd>${fmtDateTime(j.closed_at)}</dd>` : ''}
   </dl>
