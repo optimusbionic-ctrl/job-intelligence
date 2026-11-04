@@ -10,7 +10,7 @@
   "Office outside Mumbai — relocation within India"
  ],
  "contacts_count": 0,
- "content_hash": "a12039db8e9e",
+ "content_hash": "304df2b786cc",
  "date_quality": "exact",
  "deadline": null,
  "employment": "full-time",
@@ -24,7 +24,8 @@
  "india": {
   "cities": [
    "Pune",
-   "Bengaluru"
+   "Bengaluru",
+   "Hyderabad"
   ],
   "company": "yes",
   "reason": "Location lists India",
@@ -32,8 +33,8 @@
   "visa": false
  },
  "kind": "manual-qa",
- "last_verified": "2026-11-04T06:44:35Z",
- "location": "Pune, Dharwad, Hubli, Gulbarga, Bidar, Bangalore, India",
+ "last_verified": "2026-11-04T07:20:03Z",
+ "location": "Pune, Bidar, Hyderabad, Bangalore, Hubli, Belgaum, India",
  "logo": null,
  "needs_review": false,
  "official": false,
@@ -59,7 +60,7 @@
   "source_name": "Shine.com",
   "source_url": "https://www.shine.com/jobs/as-manual-functional-integration-tester/converse-placement-services-india-private-limited/19869271",
   "state": "verified",
-  "verified_at": "2026-11-04T06:44:35Z"
+  "verified_at": "2026-11-04T07:20:03Z"
  },
  "scores": {
   "ai": 58,
@@ -79,7 +80,7 @@
    "kind": "board",
    "name": "Shine.com",
    "posted_at": "2026-10-20T12:03:55Z",
-   "seen_at": "2026-11-04T06:44:35Z",
+   "seen_at": "2026-11-04T07:20:03Z",
    "url": "https://www.shine.com/jobs/as-manual-functional-integration-tester/converse-placement-services-india-private-limited/19869271"
   }
  ],
