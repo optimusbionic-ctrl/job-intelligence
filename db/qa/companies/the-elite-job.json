@@ -3,20 +3,20 @@
  "classification": "Inferred from job description",
  "india_hiring": {
   "board": null,
-  "changed_at": "2026-11-03T21:50:10Z",
+  "changed_at": "2026-11-04T09:27:42Z",
   "evidence": [
    {
-    "detail": "Quality Assurance Tester for Gaming Studio — All India",
+    "detail": "Entry level Software Tester/ QA Tester — All India",
     "kind": "posting",
     "label": "A current posting lists India as a location",
-    "url": "https://www.shine.com/jobs/quality-assurance-tester-for-gaming-studio/the-elite-job/19568672",
+    "url": "https://www.shine.com/jobs/entry-level-software-tester-qa-tester/the-elite-job/19573506",
     "weight": 5
    }
   ],
   "first_checked_at": "2026-10-19T13:24:59Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "060a739fb8",
+  "sig": "c94eab873a",
   "summary": "A current posting lists India as a location.",
   "verdict": "yes"
  },
