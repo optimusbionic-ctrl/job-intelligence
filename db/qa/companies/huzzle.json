@@ -1,28 +1,27 @@
 {
  "category": "IT services",
  "classification": "Inferred from job description",
- "domain": "huzzle.com",
  "india_hiring": {
   "board": null,
-  "changed_at": "2026-11-03T22:50:01Z",
+  "changed_at": "2026-11-04T02:54:40Z",
   "evidence": [
    {
-    "detail": "Quality Assurance Engineer — India (Remote)",
+    "detail": "Quality Assurance Engineer — India",
     "kind": "posting",
     "label": "A current posting lists India as a location",
-    "url": "https://jobs.workable.com/view/vx751k7x7L3eLhqdiUS6dw/remote-quality-assurance-engineer-in-india-at-huzzle",
+    "url": "https://himalayas.app/companies/huzzle/jobs/quality-assurance-engineer?utm_source=api",
     "weight": 5
    }
   ],
   "first_checked_at": "2026-10-19T13:24:59Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "4c2ef50ef5",
+  "sig": "1e015c7f39",
   "summary": "A current posting lists India as a location.",
   "verdict": "yes"
  },
  "inferred": true,
- "logo": "https://workablehr.s3.amazonaws.com/uploads/account/logo/670808/logo",
+ "logo": "https://cdn-images.himalayas.app/9lc6nafazoy08dhh3b539jxnxt0y",
  "name": "Huzzle",
  "slug": "huzzle",
  "tier": 2,
