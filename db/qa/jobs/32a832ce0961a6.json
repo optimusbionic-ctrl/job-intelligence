@@ -1,41 +1,43 @@
 {
  "apply_url": null,
- "board_apply": "https://www.shine.com/jobs/manual-tester/harjai-computers-private-limited/19973580",
- "category": "Other",
+ "board_apply": "https://www.shine.com/jobs/manual-tester/harjai-computers-private-limited/20001255",
+ "category": "Fintech",
  "comp_potential": "unknown",
  "company": "HARJAI COMPUTERS PRIVATE LIMITED",
  "company_slug": "harjai-computers-private-limited",
  "concerns": [
-  "Office outside Mumbai — relocation within India",
-  "Pay not disclosed — ask for the range early"
+  "Pay not disclosed — ask for the range early",
+  "Reposted / refreshed listing — original posting is older"
  ],
  "contacts_count": 0,
- "content_hash": "ad0c04e2adbb",
+ "content_hash": "effedce93e05",
  "date_quality": "exact",
  "deadline": null,
  "employment": "full-time",
  "first_seen": "2026-11-03T18:02:49Z",
- "fit": 68,
+ "fit": 76,
  "has_hiring_manager": false,
  "has_named_contact": false,
  "has_public_email": false,
  "id": "32a832ce0961a6",
  "include_reason": "Manual / functional QA title",
  "india": {
-  "cities": [],
+  "cities": [
+   "Mumbai"
+  ],
   "company": "yes",
   "reason": "Location lists India",
   "status": "confirmed",
   "visa": false
  },
  "kind": "manual-qa",
- "last_verified": "2026-11-04T17:56:18Z",
- "location": "Ahmednagar, India",
+ "last_verified": "2026-11-04T18:45:10Z",
+ "location": "Mumbai City, India",
  "logo": "https://staticrect.shine.com/r/m/images/job_logo/7c4a21f5d8e84382a7ca9d468b4859d2.webp",
  "needs_review": false,
  "official": false,
  "posted_at": "2026-10-29T16:05:47Z",
- "repost": false,
+ "repost": true,
  "requirements": [
   "(Summary from the Shine.com listing; open the posting for the full description.)"
  ],
@@ -46,22 +48,49 @@
  "scores": {
   "ai": 58,
   "comp": 60,
-  "company": 66,
-  "location": 80,
-  "seniority": 94,
+  "company": 95,
+  "location": 100,
+  "seniority": 100,
   "skill": 50
  },
  "seniority": "unspecified",
- "snippet": "Experience: 3 to 5 Yrs\nSkills: production, manual tester\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "snippet": "Experience: 0 to 3 Yrs\nSkills: testing, life insurance, manual\n(Summary from the Shine.com listing; open the posting for the full description.)",
  "source_primary": "Shine.com",
  "sources": [
+  {
+   "id": "shine",
+   "job_id": "20001255",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-11-03T16:36:13Z",
+   "seen_at": "2026-11-04T18:45:10Z",
+   "url": "https://www.shine.com/jobs/manual-tester/harjai-computers-private-limited/20001255"
+  },
+  {
+   "id": "shine",
+   "job_id": "19999386",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-11-03T15:27:23Z",
+   "seen_at": "2026-11-04T18:45:10Z",
+   "url": "https://www.shine.com/jobs/manual-tester/harjai-computers-private-limited/19999386"
+  },
+  {
+   "id": "shine",
+   "job_id": "19999352",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-11-03T15:26:16Z",
+   "seen_at": "2026-11-04T18:45:10Z",
+   "url": "https://www.shine.com/jobs/manual-tester/harjai-computers-private-limited/19999352"
+  },
   {
    "id": "shine",
    "job_id": "19973580",
    "kind": "board",
    "name": "Shine.com",
    "posted_at": "2026-10-30T21:02:18Z",
-   "seen_at": "2026-11-04T17:56:18Z",
+   "seen_at": "2026-11-04T18:45:10Z",
    "url": "https://www.shine.com/jobs/manual-tester/harjai-computers-private-limited/19973580"
   },
   {
@@ -70,24 +99,25 @@
    "kind": "board",
    "name": "Shine.com",
    "posted_at": "2026-10-29T16:05:47Z",
-   "seen_at": "2026-11-04T17:56:18Z",
+   "seen_at": "2026-11-04T18:45:10Z",
    "url": "https://www.shine.com/jobs/manual-tester/harjai-computers-private-limited/19954153"
   }
  ],
  "specializations": [],
  "status": "active",
- "tier": 3,
+ "tier": 1,
  "title": "Manual Tester",
  "tools": [],
  "track": "software",
- "updated_at": null,
- "url": "https://www.shine.com/jobs/manual-tester/harjai-computers-private-limited/19973580",
+ "updated_at": "2026-11-03T16:36:13Z",
+ "url": "https://www.shine.com/jobs/manual-tester/harjai-computers-private-limited/20001255",
  "why": [
   "Manual / functional QA — the core of your resume",
-  "Asks for 3+ years — you have about 2.5",
+  "Fintech company",
+  "Asks for 0–3 years — you have about 2.5",
   "Location lists India"
  ],
  "work_mode": "onsite",
- "years_max": 5,
- "years_min": 3
+ "years_max": 3,
+ "years_min": 0
 }
