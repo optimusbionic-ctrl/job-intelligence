@@ -1,6 +1,6 @@
 {
  "apply_url": null,
- "board_apply": "https://jobs.workable.com/view/vx751k7x7L3eLhqdiUS6dw/remote-quality-assurance-engineer-in-india-at-huzzle",
+ "board_apply": "https://himalayas.app/companies/huzzle/jobs/quality-assurance-engineer?utm_source=api",
  "category": "IT services",
  "comp_potential": "unknown",
  "company": "Huzzle",
@@ -9,12 +9,13 @@
   "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
   "Also asks for: API testing, SQL / databases, ISTQB",
   "Pay not disclosed — ask for the range early",
-  "IT services company (client projects)"
+  "IT services company (client projects)",
+  "Reposted / refreshed listing — original posting is older"
  ],
  "contacts_count": 0,
- "content_hash": "6ce5a7f958e1",
+ "content_hash": "00eedf026e70",
  "date_quality": "exact",
- "deadline": null,
+ "deadline": "2026-11-07T01:23:44Z",
  "employment": "full-time",
  "first_seen": "2026-10-19T13:24:59Z",
  "fit": 78,
@@ -31,21 +32,21 @@
   "visa": false
  },
  "kind": "automation",
- "last_verified": "2026-11-04T03:45:48Z",
- "location": "India (Remote)",
- "logo": "https://workablehr.s3.amazonaws.com/uploads/account/logo/670808/logo",
+ "last_verified": "2026-11-04T03:56:44Z",
+ "location": "India",
+ "logo": "https://cdn-images.himalayas.app/9lc6nafazoy08dhh3b539jxnxt0y",
  "needs_review": false,
  "official": false,
  "posted_at": "2026-08-06T08:26:54Z",
- "repost": false,
+ "repost": true,
  "requirements": [
-  "Ability to work independently while collaborating effectively with remote teams.",
-  "Experience with CI/CD pipelines.",
-  "Knowledge of Git and version control workflows.",
-  "Exposure to performance, load, or security testing.",
-  "ISTQB Certification or equivalent QA certification.",
-  "Experience working with SaaS or cloud-based applications.",
-  "💰 Competitive salary based on experience and seniority"
+  "3+ years of experience as a QA Engineer, Software Test Engineer, or Quality Assurance Engineer.",
+  "Strong knowledge of manual software testing methodologies.",
+  "Experience with automation tools such as Selenium, Cypress, Playwright, or similar frameworks.",
+  "Solid understanding of the Software Development Lifecycle (SDLC) and Software Testing Lifecycle (STLC).",
+  "Experience testing RESTful APIs using Postman or similar tools.",
+  "Familiarity with Agile or Scrum development environments.",
+  "Experience using Jira, Azure DevOps, or other issue-tracking platforms."
  ],
  "responsibilities": [
   "Create, execute, and maintain test plans, test cases, and testing documentation.",
@@ -68,16 +69,25 @@
   "skill": 64
  },
  "seniority": "unspecified",
- "snippet": "About Huzzle\n At Huzzle, we connect exceptional talent with top opportunities at leading companies across the UK, US, Canada, Europe, and Australia. Our clients include fast-growing startups, SaaS platforms, and digital-first businesses. Unlike traditional outsourcing models, you are placed directly with a client as an in-house team member, contributing to impactful, real-world products.\n\n Role Type: Full-time \n Enga",
- "source_primary": "Workable job marketplace",
+ "snippet": "About Huzzle \n\n At Huzzle , we connect exceptional talent with top opportunities at leading companies across the UK, US, Canada, Europe, and Australia. Our clients include fast-growing startups, SaaS platforms, and digital-first businesses. Unlike traditional outsourcing models, you are placed directly with a client as an in-house team member, contributing to impactful, real-world products.\n Role Type: Full-time\n Eng",
+ "source_primary": "Himalayas",
  "sources": [
+  {
+   "id": "himalayas",
+   "job_id": "https://himalayas.app/companies/huzzle/jobs/quality-assurance-engineer",
+   "kind": "board",
+   "name": "Himalayas",
+   "posted_at": "2026-10-08T19:30:36Z",
+   "seen_at": "2026-11-04T03:56:44Z",
+   "url": "https://himalayas.app/companies/huzzle/jobs/quality-assurance-engineer?utm_source=api"
+  },
   {
    "id": "workable",
    "job_id": "ef30d175-bf72-47fc-84be-2ed0a79d8a3a",
    "kind": "board",
    "name": "Workable job marketplace",
    "posted_at": "2026-08-06T08:26:54Z",
-   "seen_at": "2026-11-04T03:45:48Z",
+   "seen_at": "2026-11-04T03:56:44Z",
    "url": "https://jobs.workable.com/view/vx751k7x7L3eLhqdiUS6dw/remote-quality-assurance-engineer-in-india-at-huzzle"
   }
  ],
@@ -103,8 +113,8 @@
   "ISTQB"
  ],
  "track": "software",
- "updated_at": null,
- "url": "https://jobs.workable.com/view/vx751k7x7L3eLhqdiUS6dw/remote-quality-assurance-engineer-in-india-at-huzzle",
+ "updated_at": "2026-10-08T19:30:36Z",
+ "url": "https://himalayas.app/companies/huzzle/jobs/quality-assurance-engineer?utm_source=api",
  "why": [
   "Already on your resume: Regression testing, Smoke testing, Exploratory testing, Usability testing, Test cases & scenarios, Bug reporting",
   "Platforms you test on: Mobile apps",
