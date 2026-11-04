@@ -6,11 +6,10 @@
  "company": "Infovision HR Consulting Services Pvt Ltd",
  "company_slug": "infovision-hr-consulting-services-pvt-ltd",
  "concerns": [
-  "Pay not disclosed — ask for the range early",
-  "Reposted / refreshed listing — original posting is older"
+  "Pay not disclosed — ask for the range early"
  ],
  "contacts_count": 0,
- "content_hash": "ee98d581362e",
+ "content_hash": "d80ceb75c01a",
  "date_quality": "exact",
  "deadline": null,
  "employment": "full-time",
@@ -31,13 +30,13 @@
   "visa": false
  },
  "kind": "manual-qa",
- "last_verified": "2026-11-03T18:02:49Z",
- "location": "Navi Mumbai, Mumbai City, Kalyan, Thane, Bhiwandi, Panvel, India",
+ "last_verified": "2026-11-04T12:28:34Z",
+ "location": "Navi Mumbai, Kalyan, Bhiwandi, Thane, Dombivali, Panvel, India",
  "logo": null,
  "needs_review": false,
  "official": false,
  "posted_at": "2026-10-31T16:32:29Z",
- "repost": true,
+ "repost": false,
  "requirements": [
   "(Summary from the Shine.com listing; open the posting for the full description.)"
  ],
@@ -63,7 +62,7 @@
    "kind": "board",
    "name": "Shine.com",
    "posted_at": "2026-10-31T16:32:29Z",
-   "seen_at": "2026-11-03T18:02:49Z",
+   "seen_at": "2026-11-04T12:28:34Z",
    "url": "https://www.shine.com/jobs/hrms-qa-tester/infovision-hr-consulting-services-pvt-ltd/19980151"
   }
  ],

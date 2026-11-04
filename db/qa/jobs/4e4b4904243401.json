@@ -1,0 +1,107 @@
+{
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/performance-tester/brainworks-business-solutions-private-limited/19999188",
+ "category": "Other",
+ "comp_potential": "listed_good",
+ "company": "BRAINWORKS BUSINESS SOLUTIONS PRIVATE LIMITED",
+ "company_slug": "brainworks-business-solutions-private-limited",
+ "concerns": [
+  "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
+  "Also asks for: Programming",
+  "Entry-level role — pay may be at the lower end",
+  "Office outside Mumbai — relocation within India"
+ ],
+ "contacts_count": 0,
+ "content_hash": "ce4c1ee65ab7",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-04T12:28:34Z",
+ "fit": 62,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "4e4b4904243401",
+ "include_reason": "Automation-heavy QA (SDET)",
+ "india": {
+  "cities": [
+   "Bengaluru"
+  ],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "automation",
+ "last_verified": "2026-11-04T12:28:34Z",
+ "location": "Bangalore, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-11-03T15:19:43Z",
+ "repost": false,
+ "requirements": [
+  "(Summary from the Shine.com listing; open the posting for the full description.)"
+ ],
+ "responsibilities": [],
+ "salary": {
+  "applies_india": true,
+  "basis": "listed",
+  "currency": "INR",
+  "fx_at": "Wed, 04 Nov 2026 00:02:31 +0000",
+  "fx_rate": 1.0,
+  "inr_max": 700000,
+  "inr_min": 400000,
+  "max": 700000,
+  "min": 400000,
+  "note": "Listed in the posting",
+  "original_period": "annual",
+  "period": "annual",
+  "source_name": "Shine.com",
+  "source_url": "https://www.shine.com/jobs/performance-tester/brainworks-business-solutions-private-limited/19999188",
+  "state": "verified",
+  "verified_at": "2026-11-04T12:28:34Z"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 100,
+  "company": 66,
+  "location": 60,
+  "seniority": 80,
+  "skill": 38
+ },
+ "seniority": "unspecified",
+ "snippet": "Experience: 0 Yrs\nSkills: performance testing, load runner, jmeter, javascript, jenkins, git\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "19999188",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-11-03T15:19:43Z",
+   "seen_at": "2026-11-04T12:28:34Z",
+   "url": "https://www.shine.com/jobs/performance-tester/brainworks-business-solutions-private-limited/19999188"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 3,
+ "title": "Performance Tester",
+ "tools": [
+  "Stress / load testing",
+  "Programming"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/performance-tester/brainworks-business-solutions-private-limited/19999188",
+ "why": [
+  "Already on your resume: Stress / load testing",
+  "Asks for 0+ years — you have about 2.5",
+  "Pay is listed in the posting",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": null,
+ "years_min": 0
+}
