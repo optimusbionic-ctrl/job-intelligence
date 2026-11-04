@@ -1,22 +1,21 @@
 {
- "apply_url": null,
- "board_apply": "https://resuminder.com/jobs/290785-motion-designer-at-cursor",
+ "apply_url": "https://jobs.ashbyhq.com/cursor/364b0b05-47d8-428a-90b5-210d81fbc950/application",
+ "board_apply": null,
  "category": "Developer tools",
  "comp_potential": "unknown",
  "company": "Cursor",
  "company_slug": "cursor",
  "concerns": [
   "Employer has not confirmed hiring from India",
-  "Compensation not disclosed",
-  "Full description not available from this source"
+  "Compensation not disclosed"
  ],
  "contacts_count": 1,
- "content_hash": "b423c73e6f46",
- "date_quality": "unknown",
+ "content_hash": "244e88dbc73e",
+ "date_quality": "exact",
  "deadline": null,
  "employment": "full-time",
  "first_seen": "2026-11-03T18:34:57Z",
- "fit": 66,
+ "fit": 63,
  "has_hiring_manager": false,
  "has_named_contact": false,
  "has_public_email": false,
@@ -30,47 +29,72 @@
   "visa": false
  },
  "kind": "motion",
- "last_verified": "2026-11-03T18:34:57Z",
+ "last_verified": "2026-11-04T21:46:45Z",
  "location": "",
  "logo": null,
  "needs_review": false,
- "official": false,
- "posted_at": null,
+ "official": true,
+ "posted_at": "2026-11-04T21:46:32Z",
  "repost": false,
- "requirements": [],
- "responsibilities": [],
+ "requirements": [
+  "6+ years of motion design experience, in-house or at an agency or studio.",
+  "Fluency in AI coding tools, especially Cursor. You can build your own tools, scripts, prototypes, and simple web pages instead of waiting on engineering.",
+  "Hands-on experience with AI video and image generation tools as part of a real production workflow.",
+  "A reel and portfolio that show both motion system work and shipped campaigns. Bonus if they include tools or workflows you built.",
+  "Sharp instincts for timing, rhythm, typography in motion, and storytelling.",
+  "A systems mindset: you naturally turn one-off tasks into reusable processes and think about how creative work scales.",
+  "Conviction in your design decisions and the ability to explain why they matter, to designers, marketers, and leadership alike."
+ ],
+ "responsibilities": [
+  "This is a hands-on role. Much of the foundation is still being built, so you'll spend real time animating and making things yourself. It also comes with significant ownership: you'll lead projects from first concept through final delivery, and your work will help set the bar for how the brand moves.",
+  "Motion system: Define and extend the brand's motion language (timing, easing, transitions, logo animation, typography in motion, and graphic behaviors) and document it so other teams can apply it correctly.",
+  "Workflows & toolkits: Turn recurring motion work into repeatable, AI-assisted workflows: templates, tools, and generators that let marketing, product, and other teams produce on-brand motion without you in the room.",
+  "Campaigns: Concept and produce motion end to end, from storyboards through final delivery, across launch films, product videos, social, paid, web, and out-of-home.",
+  "Product motion: Partner with product designers and engineers to bring brand motion into product surfaces, from interactions and transitions to onboarding and launch moments.",
+  "Creative direction: Direct agencies, animators, and freelancers with clear briefs and candid feedback so the output meets the bar you'd set yourself.",
+  "Collaboration: Partner with marketing, product, engineering, and leadership; bring a motion point of view to new surfaces as they appear, and present your thinking clearly to senior stakeholders."
+ ],
  "salary": {
   "state": "unavailable"
  },
  "scores": {
-  "ai": 45,
+  "ai": 86,
   "comp": 48,
   "company": 98,
   "location": 38,
   "seniority": 66,
-  "skill": 69
+  "skill": 47
  },
  "seniority": "unspecified",
- "snippet": "",
- "source_primary": "Web job listing (via search index)",
+ "snippet": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today, SpaceX is actively developing the technologies to make this possible, with the ultimate goal of making life multiplanetary and expanding consciousness to the stars.\n\nSpaceXSI is building Super Intelligence to help humanity understand the universe. Our teams are b",
+ "source_primary": "Cursor careers (Ashby)",
  "sources": [
+  {
+   "id": "ashby",
+   "job_id": "ashby:cursor:364b0b05-47d8-428a-90b5-210d81fbc950",
+   "kind": "ats",
+   "name": "Cursor careers (Ashby)",
+   "posted_at": "2026-11-04T21:46:32Z",
+   "seen_at": "2026-11-04T21:46:45Z",
+   "url": "https://jobs.ashbyhq.com/cursor/364b0b05-47d8-428a-90b5-210d81fbc950"
+  },
   {
    "id": "web",
    "job_id": "https://resuminder.com/jobs/290785-motion-designer-at-cursor",
    "kind": "search",
    "name": "Web job listing (via search index)",
    "posted_at": null,
-   "seen_at": "2026-11-03T18:34:57Z",
+   "seen_at": "2026-11-04T21:46:45Z",
    "url": "https://resuminder.com/jobs/290785-motion-designer-at-cursor"
   }
  ],
  "specializations": [],
- "status": "lead",
+ "status": "verified",
  "tier": 1,
  "title": "Motion Designer",
  "tools": [],
  "updated_at": null,
- "url": "https://resuminder.com/jobs/290785-motion-designer-at-cursor",
+ "url": "https://jobs.ashbyhq.com/cursor/364b0b05-47d8-428a-90b5-210d81fbc950",
  "why": [
   "Core motion design role",
   "Developer tools company (Tier 1 priority)",

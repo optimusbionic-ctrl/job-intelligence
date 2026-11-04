@@ -2,12 +2,12 @@
  "avg": 12291792,
  "basis": "Interquartile range of posting midpoints, converted to INR at today's rate",
  "currency": "INR",
- "high": 18492679,
+ "high": 17781422,
  "id": "mi-dataset-remote",
  "label": "Disclosed pay on remote motion-design postings (any region, this dataset)",
  "low": 9606710,
  "market": "Remote (global)",
- "n": 17,
+ "n": 16,
  "retrieved_at": "2026-11-04",
  "samples": [
   {
@@ -126,15 +126,6 @@
    "min": 180000,
    "title": "Motion Designer",
    "url": "https://jobs.ashbyhq.com/perplexity/39d520eb-6b81-4b61-8b23-5efcdac4cad9"
-  },
-  {
-   "company": "Mercury",
-   "currency": "USD",
-   "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
-   "max": 236700,
-   "min": 189400,
-   "title": "Staff Motion Designer - 3D",
-   "url": "https://job-boards.greenhouse.io/mercury/jobs/6196208004"
   },
   {
    "company": "OpenAI",
