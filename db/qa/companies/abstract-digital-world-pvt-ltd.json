@@ -1,0 +1,30 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-04T10:07:35Z",
+  "evidence": [
+   {
+    "detail": "QA Tester — Navi Mumbai, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/qa-tester/abstract-digital-world-pvt-ltd/19992909",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-04T10:07:35Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "e96d31ce67",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Abstract Digital World Pvt Ltd",
+ "slug": "abstract-digital-world-pvt-ltd",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}
