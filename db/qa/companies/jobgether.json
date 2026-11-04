@@ -14,11 +14,11 @@
     "Brazil",
     "Canada",
     "Spain",
-    "Germany",
     "United Kingdom",
-    "Switzerland"
+    "Switzerland",
+    "France"
    ],
-   "india": 393,
+   "india": 397,
    "india_samples": [
     {
      "location": "India",
@@ -42,8 +42,8 @@
     }
    ],
    "open_samples": [],
-   "remote": 4061,
-   "restricted_remote": 3668,
+   "remote": 4389,
+   "restricted_remote": 3992,
    "restricted_samples": [
     {
      "location": "Brazil",
@@ -67,17 +67,17 @@
     }
    ],
    "slug": "jobgether",
-   "total": 4061,
+   "total": 4389,
    "type": "lever",
    "url": "https://jobs.lever.co/jobgether",
    "worldwide": 0
   },
-  "changed_at": "2026-11-04T06:44:35Z",
+  "changed_at": "2026-11-04T08:59:48Z",
   "evidence": [
    {
     "detail": "AI Conversation Recording Contributor (India); AI Enablement & Governance Analyst (India); AI Engineer (India)",
     "kind": "board",
-    "label": "393 of 4061 open roles are located in India",
+    "label": "397 of 4389 open roles are located in India",
     "url": "https://jobs.lever.co/jobgether",
     "weight": 5
    },
@@ -92,8 +92,8 @@
   "first_checked_at": "2026-10-19T13:24:59Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "74f70ebdea",
-  "summary": "393 of 4061 open roles are located in India.",
+  "sig": "3b09855a86",
+  "summary": "397 of 4389 open roles are located in India.",
   "verdict": "yes"
  },
  "inferred": true,
