@@ -3,20 +3,20 @@
  "classification": "Inferred from job description",
  "india_hiring": {
   "board": null,
-  "changed_at": "2026-11-04T12:28:34Z",
+  "changed_at": "2026-11-04T12:45:39Z",
   "evidence": [
    {
-    "detail": "Automation Tester — Bangalore, Chennai, India",
+    "detail": "Playwright Automation test Engineer — Chennai, Bangalore, India",
     "kind": "posting",
     "label": "A current posting lists India as a location",
-    "url": "https://www.shine.com/jobs/automation-tester/white-horse-manpower-consultancy-p-ltd/19986011",
+    "url": "https://www.shine.com/jobs/playwright-automation-test-engineer/white-horse-manpower-consultancy-p-ltd/19984092",
     "weight": 5
    }
   ],
   "first_checked_at": "2026-11-03T18:02:49Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "25dda42bb5",
+  "sig": "81e23cdf06",
   "summary": "A current posting lists India as a location.",
   "verdict": "yes"
  },
