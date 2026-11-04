@@ -3,20 +3,20 @@
  "classification": "Inferred from job description",
  "india_hiring": {
   "board": null,
-  "changed_at": "2026-11-03T23:44:21Z",
+  "changed_at": "2026-11-04T00:28:15Z",
   "evidence": [
    {
-    "detail": "Quality Analyst — Noida, India",
+    "detail": "Hiring for QA (Voice Travel Process) — Delhi, India",
     "kind": "posting",
     "label": "A current posting lists India as a location",
-    "url": "https://www.shine.com/jobs/quality-analyst/sharda-consultancy-services/19943369",
+    "url": "https://www.shine.com/jobs/hiring-for-qa-voice-travel-process/sharda-consultancy-services/19976641",
     "weight": 5
    }
   ],
   "first_checked_at": "2026-10-28T10:45:08Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "94775db75a",
+  "sig": "7f163045c2",
   "summary": "A current posting lists India as a location.",
   "verdict": "yes"
  },

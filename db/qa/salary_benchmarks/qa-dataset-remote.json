@@ -7,8 +7,8 @@
  "label": "Disclosed pay on remote QA postings (any region, this dataset)",
  "low": 5695711,
  "market": "Remote (global)",
- "n": 10,
- "retrieved_at": "2026-11-03",
+ "n": 9,
+ "retrieved_at": "2026-11-04",
  "samples": [
   {
    "company": "Study Now",
@@ -72,15 +72,6 @@
    "min": 80000,
    "title": "Salesforce Functional Analyst/QA",
    "url": "https://himalayas.app/companies/steampunk/jobs/salesforce-functional-analyst-qa?utm_source=api"
-  },
-  {
-   "company": "Bright Vision Technologies",
-   "currency": "USD",
-   "location": "United States",
-   "max": 125000,
-   "min": 105000,
-   "title": "Software Test Engineer",
-   "url": "https://himalayas.app/companies/bright-vision-technologies/jobs/software-test-engineer-782024292?utm_source=api"
   },
   {
    "company": "OpenDataJobs",
