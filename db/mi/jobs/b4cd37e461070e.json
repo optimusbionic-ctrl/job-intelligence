@@ -1,0 +1,114 @@
+{
+ "apply_url": null,
+ "board_apply": "https://himalayas.app/companies/babou-ai/jobs/freelance-after-effects-motion-designer-flexible-hours?utm_source=api",
+ "category": "AI",
+ "comp_potential": "verified35",
+ "company": "Babou AI",
+ "company_slug": "babou-ai",
+ "concerns": [
+  "Listed pay is in USD; confirm it applies to India-based hires",
+  "Contract role"
+ ],
+ "contacts_count": 0,
+ "content_hash": "ec2d7c4cb7c8",
+ "date_quality": "exact",
+ "deadline": "2026-12-02T17:32:46Z",
+ "employment": "contract",
+ "first_seen": "2026-11-04T05:04:08Z",
+ "fit": 82,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "b4cd37e461070e",
+ "include_reason": "Motion design title",
+ "india": {
+  "cities": [],
+  "company": "likely",
+  "reason": "Worldwide remote",
+  "status": "likely",
+  "visa": false
+ },
+ "kind": "motion",
+ "last_verified": "2026-11-04T05:04:08Z",
+ "location": "Worldwide",
+ "logo": "https://cdn-images.himalayas.app/83zf1biu1x3uu7cgmj7vs7c2356g",
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-11-04T04:32:22Z",
+ "repost": false,
+ "requirements": [
+  "After Effects is your main tool. Motion graphics on your reel, not only editing, 3D, or illustrated explainers.",
+  "A good design eye: type, layout, spacing, color. You know why something looks right.",
+  "You can take a written brief and deliver a polished render on deadline without hand-holding.",
+  "You check your own work. Every note in the brief lands the first time, and feedback stays fixed in the next version.",
+  "When something breaks, you can open the project and fix it yourself. If a tool or workflow is holding you back, you tell us.",
+  "Clean project files: named layers, organized precomps. We open your .aep.",
+  "Comfortable using AI tools in your work, or keen to learn."
+ ],
+ "responsibilities": [],
+ "salary": {
+  "applies_india": "unconfirmed",
+  "basis": "listed",
+  "currency": "USD",
+  "fx_at": "Wed, 04 Nov 2026 00:02:31 +0000",
+  "fx_rate": 94.8343,
+  "inr_max": 5690055,
+  "inr_min": 2845028,
+  "max": 60000,
+  "min": 30000,
+  "note": "Listed for a worldwide-remote role; confirm it applies to India-based hires",
+  "original_period": "hourly",
+  "period": "annual",
+  "source_name": "Himalayas",
+  "source_url": "https://himalayas.app/companies/babou-ai/jobs/freelance-after-effects-motion-designer-flexible-hours?utm_source=api",
+  "state": "verified",
+  "verified_at": "2026-11-04T05:04:08Z"
+ },
+ "scores": {
+  "ai": 44,
+  "comp": 92,
+  "company": 98,
+  "location": 92,
+  "seniority": 66,
+  "skill": 84
+ },
+ "seniority": "unspecified",
+ "snippet": "👋 Hi there,\n We're a small startup building AI-powered video tools for brands. We're building a roster of freelance After Effects artists we can send work to every week: product and UI animation, ad templates, social cuts, and launch videos, all from written creative briefs.\n This is freelance, hourly, and remote. Work anywhere in the world. You set your weekly hours. Artists who deliver well get more work and first ",
+ "source_primary": "Himalayas",
+ "sources": [
+  {
+   "id": "himalayas",
+   "job_id": "https://himalayas.app/companies/babou-ai/jobs/freelance-after-effects-motion-designer-flexible-hours",
+   "kind": "board",
+   "name": "Himalayas",
+   "posted_at": "2026-11-04T04:32:22Z",
+   "seen_at": "2026-11-04T05:04:08Z",
+   "url": "https://himalayas.app/companies/babou-ai/jobs/freelance-after-effects-motion-designer-flexible-hours?utm_source=api"
+  }
+ ],
+ "specializations": [
+  "UI/UX animation",
+  "Product films",
+  "3D motion",
+  "AI-generated video"
+ ],
+ "status": "active",
+ "tier": 1,
+ "title": "Freelance After Effects Motion Designer, Flexible Hours",
+ "tools": [
+  "After Effects",
+  "Figma"
+ ],
+ "updated_at": null,
+ "url": "https://himalayas.app/companies/babou-ai/jobs/freelance-after-effects-motion-designer-flexible-hours?utm_source=api",
+ "why": [
+  "Core motion design role",
+  "Tools you already use: After Effects, Figma",
+  "Specialisations in scope: UI/UX animation, Product films, 3D motion, AI-generated video",
+  "AI company (Tier 1 priority)",
+  "Worldwide remote",
+  "Listed pay clears your ₹35 LPA target"
+ ],
+ "work_mode": "remote",
+ "years_min": null
+}

@@ -1,0 +1,28 @@
+{
+ "category": "AI",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-04T05:04:08Z",
+  "evidence": [
+   {
+    "detail": "Freelance After Effects Motion Designer, Flexible Hours — Worldwide",
+    "kind": "posting",
+    "label": "A current posting is open worldwide",
+    "url": "https://himalayas.app/companies/babou-ai/jobs/freelance-after-effects-motion-designer-flexible-hours?utm_source=api",
+    "weight": 3
+   }
+  ],
+  "first_checked_at": "2026-11-04T05:04:08Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "25470bc492",
+  "summary": "No India-located roles found, but a current posting is open worldwide.",
+  "verdict": "likely"
+ },
+ "inferred": true,
+ "logo": "https://cdn-images.himalayas.app/83zf1biu1x3uu7cgmj7vs7c2356g",
+ "name": "Babou AI",
+ "slug": "babou-ai",
+ "tier": 1
+}
