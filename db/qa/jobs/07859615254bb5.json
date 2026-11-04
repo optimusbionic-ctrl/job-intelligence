@@ -6,11 +6,10 @@
  "company": "Vishwa karma",
  "company_slug": "vishwa-karma",
  "concerns": [
-  "Also asks for: Programming",
-  "Reposted / refreshed listing — original posting is older"
+  "Also asks for: Programming"
  ],
  "contacts_count": 0,
- "content_hash": "fedba72f827c",
+ "content_hash": "2dff2c92cc72",
  "date_quality": "exact",
  "deadline": null,
  "employment": "full-time",
@@ -32,13 +31,13 @@
   "visa": false
  },
  "kind": "qa-engineer",
- "last_verified": "2026-11-03T18:02:49Z",
- "location": "Mumbai City, Noida, Gurugram, Delhi, India",
+ "last_verified": "2026-11-04T06:44:35Z",
+ "location": "Mumbai City, Noida, Delhi, Gurugram, India",
  "logo": null,
  "needs_review": false,
  "official": false,
  "posted_at": "2026-10-29T18:38:34Z",
- "repost": true,
+ "repost": false,
  "requirements": [
   "(Summary from the Shine.com listing; open the posting for the full description.)"
  ],
@@ -47,7 +46,7 @@
   "applies_india": true,
   "basis": "listed",
   "currency": "INR",
-  "fx_at": "Tue, 03 Nov 2026 00:02:31 +0000",
+  "fx_at": "Wed, 04 Nov 2026 00:02:31 +0000",
   "fx_rate": 1.0,
   "inr_max": 2200000,
   "inr_min": 400000,
@@ -59,7 +58,7 @@
   "source_name": "Shine.com",
   "source_url": "https://www.shine.com/jobs/qa-consultant/vishwa-karma/19955447",
   "state": "verified",
-  "verified_at": "2026-11-03T18:02:49Z"
+  "verified_at": "2026-11-04T06:44:35Z"
  },
  "scores": {
   "ai": 58,
@@ -79,7 +78,7 @@
    "kind": "board",
    "name": "Shine.com",
    "posted_at": "2026-10-29T18:38:34Z",
-   "seen_at": "2026-11-03T18:02:49Z",
+   "seen_at": "2026-11-04T06:44:35Z",
    "url": "https://www.shine.com/jobs/qa-consultant/vishwa-karma/19955447"
   }
  ],
