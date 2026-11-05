@@ -1,7 +1,7 @@
 {
  "map": {
   "010ba409b58949": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "pc": "2026-11-04T12:45:39Z",
    "pd": "2026-11-02T09:34:53Z",
    "pr": "live",
@@ -17,41 +17,42 @@
    "s": "closed"
   },
   "0188a1ca1dff97": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "r": "Not open to India: Restricted to Philippines",
    "s": "excluded"
   },
   "025aaca8e892d9": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "r": "Not software QA (manufacturing, pharma, construction…)",
    "s": "excluded"
   },
   "02737a379c4a7d": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "s": "active",
    "vb": "Returned by Shine.com this run"
   },
   "02761f2a9f12d8": {
-   "lv": "2026-11-05T11:10:16Z",
-   "pc": "2026-11-04T15:45:22Z",
+   "lv": "2026-11-05T12:01:51Z",
+   "pc": "2026-11-05T11:59:43Z",
    "pr": "unknown",
    "r": "Found on one source only, without the employer confirming it — hidden until a second source or the employer's own page confirms it",
    "s": "stale"
   },
   "038875240ae417": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "s": "active",
    "vb": "Returned by Workable job marketplace this run"
   },
   "0695517a98b45b": {
-   "lv": "2026-11-05T11:10:16Z",
-   "pc": "2026-11-04T15:45:22Z",
+   "ca": "2026-11-05T12:01:51Z",
+   "lv": "2026-11-05T12:01:51Z",
+   "pc": "2026-11-05T11:59:43Z",
    "pr": "closed",
-   "r": "Found on one source only, without the employer confirming it — hidden until a second source or the employer's own page confirms it",
-   "s": "stale"
+   "r": "The listing now redirects to a general jobs page",
+   "s": "closed"
   },
   "06a5c583e3d316": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "s": "active",
    "vb": "Returned by Shine.com this run"
   },
@@ -70,7 +71,7 @@
    "s": "closed"
   },
   "07859615254bb5": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "s": "active",
    "vb": "Returned by Shine.com this run"
   },
@@ -90,7 +91,7 @@
    "s": "stale"
   },
   "0983f5cfb0bc86": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "pc": "2026-11-04T16:59:07Z",
    "pr": "skip",
    "r": "Found on one source only, without the employer confirming it — hidden until a second source or the employer's own page confirms it",
@@ -105,7 +106,7 @@
    "s": "closed"
   },
   "09db1f2e3574d3": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "s": "active",
    "vb": "Returned by Himalayas this run"
   },
@@ -126,20 +127,21 @@
    "vb": "Listing page open, posted 17 Oct 2026"
   },
   "0bb6d8b8edc523": {
-   "lv": "2026-11-05T11:10:16Z",
-   "pc": "2026-11-04T15:45:22Z",
+   "ca": "2026-11-05T12:01:51Z",
+   "lv": "2026-11-05T12:01:51Z",
+   "pc": "2026-11-05T11:59:43Z",
    "pr": "closed",
-   "r": "Found on one source only, without the employer confirming it — hidden until a second source or the employer's own page confirms it",
-   "s": "stale"
+   "r": "The listing now redirects to a general jobs page",
+   "s": "closed"
   },
   "0bbe30535e3bc4": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "s": "active",
    "vb": "Returned by Workable job marketplace this run"
   },
   "0c493ef4086ae0": {
    "lv": "2026-10-27T10:52:24Z",
-   "pc": "2026-11-04T15:45:22Z",
+   "pc": "2026-11-05T11:59:43Z",
    "pd": "2026-10-24T02:05:56Z",
    "pr": "live",
    "s": "lead",
@@ -162,20 +164,21 @@
   },
   "0dba2bd01f49cc": {
    "lv": "2026-11-03T23:46:11Z",
-   "pc": "2026-11-04T15:45:22Z",
+   "pc": "2026-11-05T11:59:43Z",
    "pd": "2026-10-26T22:01:45Z",
    "pr": "live",
-   "s": "active"
+   "s": "active",
+   "vb": "Listing page still open"
   },
   "0dea9616bcd699": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "pc": "2026-11-04T15:45:22Z",
    "pr": "unknown",
    "s": "active",
    "vb": "Returned by Himalayas this run"
   },
   "0e0e7a60b52183": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "s": "active",
    "vb": "Returned by Himalayas this run"
   },
@@ -189,21 +192,22 @@
   },
   "0f19e540656c4d": {
    "lv": "2026-10-28T10:45:08Z",
-   "pc": "2026-11-04T15:45:22Z",
+   "pc": "2026-11-05T11:59:43Z",
    "pd": "2026-09-21T00:42:17Z",
    "pr": "live",
    "s": "lead",
    "vb": "Listing page open, posted 21 Sep 2026"
   },
   "0fe90255f0e7fb": {
-   "lv": "2026-11-05T11:10:16Z",
-   "pc": "2026-11-04T15:45:22Z",
+   "ca": "2026-11-05T12:01:51Z",
+   "lv": "2026-11-05T12:01:51Z",
+   "pc": "2026-11-05T11:59:43Z",
    "pr": "closed",
-   "r": "Found on one source only, without the employer confirming it — hidden until a second source or the employer's own page confirms it",
-   "s": "stale"
+   "r": "The listing page is gone (HTTP 404)",
+   "s": "closed"
   },
   "1112ace451ef83": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "s": "active",
    "vb": "Returned by Shine.com this run"
   },
@@ -216,19 +220,19 @@
    "s": "stale"
   },
   "127f4aab99f8fb": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "r": "Older than window",
    "s": "excluded"
   },
   "1344cabfe53b34": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "pc": "2026-11-04T16:59:07Z",
    "pr": "unknown",
    "r": "Found on one source only, without the employer confirming it — hidden until a second source or the employer's own page confirms it",
    "s": "stale"
   },
   "147792731f791a": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "s": "active",
    "vb": "Returned by Shine.com this run"
   },
@@ -281,7 +285,7 @@
    "s": "stale"
   },
   "1a856365c4066c": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "s": "active",
    "vb": "Returned by Himalayas this run"
   },
@@ -310,7 +314,7 @@
    "vb": "Listing page open, posted 29 Sep 2026"
   },
   "1ba5d11796663e": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "s": "active",
    "vb": "Returned by Workable job marketplace this run"
   },
@@ -354,19 +358,19 @@
    "s": "stale"
   },
   "1dd44d8d67cab5": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "r": "Asks for 6+ years",
    "s": "excluded"
   },
   "1df6a885ca98b3": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "pc": "2026-11-04T16:59:07Z",
    "pd": "2026-09-10T00:05:12Z",
    "pr": "live",
    "s": "active"
   },
   "1e0841d3c3152c": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "r": "Older than window",
    "s": "excluded"
   },
@@ -403,13 +407,13 @@
    "s": "closed"
   },
   "20ad61759eb860": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "s": "active",
    "vb": "Returned by Workable job marketplace this run"
   },
   "20dcc236eab48b": {
-   "lv": "2026-11-05T11:10:16Z",
-   "pc": "2026-11-04T15:45:22Z",
+   "lv": "2026-11-05T12:01:51Z",
+   "pc": "2026-11-05T11:59:43Z",
    "pr": "unknown",
    "r": "Found on one source only, without the employer confirming it — hidden until a second source or the employer's own page confirms it",
    "s": "stale"
@@ -439,23 +443,23 @@
    "s": "closed"
   },
   "220826765f32ff": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "s": "active",
    "vb": "Returned by Shine.com this run"
   },
   "2218809d70c962": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "s": "active",
    "vb": "Returned by Shine.com this run"
   },
   "225f53370438f6": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "s": "active",
    "vb": "Returned by Shine.com this run"
   },
   "23b1fb81648e61": {
-   "lv": "2026-11-05T11:10:16Z",
-   "pc": "2026-11-04T15:45:22Z",
+   "lv": "2026-11-05T12:01:51Z",
+   "pc": "2026-11-05T11:59:43Z",
    "pr": "live",
    "r": "Found on one source only, without the employer confirming it — hidden until a second source or the employer's own page confirms it",
    "s": "stale"
@@ -470,7 +474,7 @@
   },
   "24269492c07a2c": {
    "lv": "2026-10-28T13:46:20Z",
-   "pc": "2026-11-04T15:45:22Z",
+   "pc": "2026-11-05T11:59:43Z",
    "pd": "2026-09-29T04:17:51Z",
    "pr": "live",
    "s": "lead",
@@ -500,7 +504,7 @@
    "s": "closed"
   },
   "24a29406e074ef": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "s": "active",
    "vb": "Returned by Himalayas this run"
   },
@@ -518,18 +522,18 @@
    "s": "closed"
   },
   "26445a3e1dfb7f": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "s": "active",
    "vb": "Returned by Shine.com this run"
   },
   "27d149739ef892": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "s": "active",
    "vb": "Returned by Shine.com this run"
   },
   "27ffe025f5922d": {
-   "ca": "2026-11-05T11:10:16Z",
-   "lv": "2026-11-05T11:10:16Z",
+   "ca": "2026-11-05T12:01:51Z",
+   "lv": "2026-11-05T12:01:51Z",
    "r": "Not listed on Rockstar Games's own careers page (Greenhouse) — likely closed or never posted there",
    "s": "closed"
   },
@@ -542,7 +546,7 @@
   },
   "29823a0734fb4b": {
    "lv": "2026-10-28T13:46:20Z",
-   "pc": "2026-11-04T15:45:22Z",
+   "pc": "2026-11-05T11:59:43Z",
    "pd": "2026-10-24T02:54:56Z",
    "pr": "live",
    "s": "lead",
@@ -550,7 +554,7 @@
   },
   "2a45fb682a0eeb": {
    "lv": "2026-10-28T10:45:08Z",
-   "pc": "2026-11-04T15:45:22Z",
+   "pc": "2026-11-05T11:59:43Z",
    "pd": "2026-10-27T08:36:54Z",
    "pr": "live",
    "s": "lead",
@@ -558,7 +562,7 @@
   },
   "2a72003ba8ff4f": {
    "lv": "2026-10-27T10:52:24Z",
-   "pc": "2026-11-04T15:45:22Z",
+   "pc": "2026-11-05T11:59:43Z",
    "pd": "2026-10-26T22:18:58Z",
    "pr": "live",
    "s": "lead",
@@ -573,7 +577,7 @@
    "vb": "Listing page open, posted 05 Sep 2026"
   },
   "2e4eb3fa96bc8a": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "s": "active",
    "vb": "Returned by Himalayas this run"
   },
@@ -586,7 +590,7 @@
    "s": "stale"
   },
   "2ec295c8ef33d1": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "s": "verified",
    "vb": "Open on the employer's own careers page (checked this run)"
   },
@@ -597,7 +601,7 @@
    "s": "closed"
   },
   "2f77d0155fb83a": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "pc": "2026-11-04T12:45:39Z",
    "pd": "2026-11-03T16:58:14Z",
    "pr": "live",
@@ -630,10 +634,11 @@
   },
   "30018a9c19ae1f": {
    "lv": "2026-11-04T21:54:11Z",
-   "pc": "2026-11-04T15:45:22Z",
+   "pc": "2026-11-05T11:59:43Z",
    "pd": "2026-10-31T10:59:37Z",
    "pr": "live",
-   "s": "active"
+   "s": "active",
+   "vb": "Listing page still open"
   },
   "30a47562f7dd11": {
    "lv": "2026-10-27T10:52:24Z",
@@ -643,7 +648,7 @@
    "s": "stale"
   },
   "30aa25b5c0e39e": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "s": "active",
    "vb": "Returned by Himalayas this run"
   },
@@ -657,7 +662,7 @@
   },
   "31641418a0568a": {
    "lv": "2026-10-29T12:55:23Z",
-   "pc": "2026-11-04T15:45:22Z",
+   "pc": "2026-11-05T11:59:43Z",
    "pr": "unknown",
    "r": "Found on one source only, without the employer confirming it — hidden until a second source or the employer's own page confirms it",
    "s": "stale"
@@ -670,12 +675,12 @@
    "s": "stale"
   },
   "329b3308924002": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "s": "active",
    "vb": "Returned by Himalayas this run"
   },
   "32a832ce0961a6": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "s": "active",
    "vb": "Returned by Shine.com this run"
   },
@@ -736,7 +741,7 @@
   },
   "351fe39a678f81": {
    "lv": "2026-10-28T11:44:36Z",
-   "pc": "2026-11-04T15:45:22Z",
+   "pc": "2026-11-05T11:59:43Z",
    "pd": "2026-10-24T06:36:31Z",
    "pr": "live",
    "s": "lead",
@@ -758,8 +763,8 @@
    "s": "stale"
   },
   "373b4b1a0d7e47": {
-   "ca": "2026-11-05T11:10:16Z",
-   "lv": "2026-11-05T11:10:16Z",
+   "ca": "2026-11-05T12:01:51Z",
+   "lv": "2026-11-05T12:01:51Z",
    "pc": "2026-11-03T18:55:47Z",
    "pd": "2025-06-16T10:44:52Z",
    "pr": "live",
@@ -767,12 +772,12 @@
    "s": "closed"
   },
   "3786557ec5bfb4": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "s": "active",
    "vb": "Returned by Shine.com this run"
   },
   "38ee078eb49e50": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "s": "active",
    "vb": "Returned by Shine.com this run"
   },
@@ -809,12 +814,12 @@
    "s": "closed"
   },
   "3bae38ca88acc4": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "s": "active",
    "vb": "Returned by Workable job marketplace this run"
   },
   "3bf1c6cc2fffbd": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "s": "active",
    "vb": "Returned by Himalayas this run"
   },
@@ -835,19 +840,19 @@
    "s": "closed"
   },
   "3cd0e9ce34d570": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "s": "active",
    "vb": "Returned by Shine.com this run"
   },
   "3cd796dcb92c2b": {
    "lv": "2026-10-30T00:44:29Z",
-   "pc": "2026-11-04T15:45:22Z",
+   "pc": "2026-11-05T11:59:43Z",
    "pr": "live",
    "r": "Found on one source only, without the employer confirming it — hidden until a second source or the employer's own page confirms it",
    "s": "stale"
   },
   "3d35e6f5744bd1": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "s": "active",
    "vb": "Returned by Workable job marketplace this run"
   },
@@ -868,7 +873,7 @@
    "s": "closed"
   },
   "3e5330d0d8722c": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "r": "Older than window",
    "s": "excluded"
   },
@@ -888,13 +893,13 @@
    "vb": "Listing page open, posted 17 Oct 2026"
   },
   "3f907ca6ded4f1": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "s": "active",
    "vb": "Returned by Shine.com this run"
   },
   "4012a46ffd14b7": {
-   "ca": "2026-11-05T11:10:16Z",
-   "lv": "2026-11-05T11:10:16Z",
+   "ca": "2026-11-05T12:01:51Z",
+   "lv": "2026-11-05T12:01:51Z",
    "pc": "2026-11-03T18:55:47Z",
    "pd": "2021-11-12T08:39:57Z",
    "pr": "live",
@@ -934,7 +939,7 @@
    "vb": "Listing page open, posted 23 Sep 2026"
   },
   "44f3689f0e8912": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "s": "active",
    "vb": "Returned by Shine.com this run"
   },
@@ -947,14 +952,14 @@
    "vb": "Listing page open, posted 05 Sep 2026"
   },
   "4681be5b04b31e": {
-   "lv": "2026-11-05T11:10:16Z",
-   "pc": "2026-11-04T15:45:22Z",
+   "lv": "2026-11-05T12:01:51Z",
+   "pc": "2026-11-05T11:59:43Z",
    "pr": "unknown",
    "r": "Found on one source only, without the employer confirming it — hidden until a second source or the employer's own page confirms it",
    "s": "stale"
   },
   "47314b719f12d0": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "pc": "2026-11-04T16:59:07Z",
    "pr": "closed",
    "s": "lead",
@@ -970,12 +975,12 @@
    "s": "closed"
   },
   "47e240c039939a": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "s": "active",
    "vb": "Returned by Workable job marketplace this run"
   },
   "485639eab908dd": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "s": "active",
    "vb": "Returned by Shine.com this run"
   },
@@ -1012,7 +1017,7 @@
    "s": "stale"
   },
   "4bb9ae2528abfb": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "s": "active",
    "vb": "Returned by Himalayas this run"
   },
@@ -1032,7 +1037,7 @@
    "s": "closed"
   },
   "4d0e456b7562b0": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "s": "active",
    "vb": "Returned by Shine.com this run"
   },
@@ -1045,15 +1050,15 @@
    "s": "closed"
   },
   "4d848f2bb1d1a5": {
-   "lv": "2026-11-05T11:10:16Z",
-   "pc": "2026-11-04T15:45:22Z",
+   "lv": "2026-11-05T12:01:51Z",
+   "pc": "2026-11-05T11:59:43Z",
    "pr": "live",
    "r": "Found on one source only, without the employer confirming it — hidden until a second source or the employer's own page confirms it",
    "s": "stale"
   },
   "4dba1192aa8999": {
    "lv": "2026-10-29T12:55:23Z",
-   "pc": "2026-11-04T15:45:22Z",
+   "pc": "2026-11-05T11:59:43Z",
    "pr": "unknown",
    "r": "Found on one source only, without the employer confirming it — hidden until a second source or the employer's own page confirms it",
    "s": "stale"
@@ -1067,7 +1072,7 @@
    "s": "closed"
   },
   "4e4b4904243401": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "pc": "2026-11-04T12:45:39Z",
    "pd": "2026-11-03T09:49:43Z",
    "pr": "live",
@@ -1075,7 +1080,7 @@
    "vb": "Returned by Shine.com this run"
   },
   "5032cd332ee169": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "r": "Found on one source only, without the employer confirming it — hidden until a second source or the employer's own page confirms it",
    "s": "stale"
   },
@@ -1088,20 +1093,20 @@
    "s": "closed"
   },
   "512cce05c3b37c": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "s": "active",
    "vb": "Returned by Himalayas this run"
   },
   "51c398d712fa25": {
-   "lv": "2026-11-05T11:10:16Z",
-   "pc": "2026-11-04T15:45:22Z",
+   "lv": "2026-11-05T12:01:51Z",
+   "pc": "2026-11-05T11:59:43Z",
    "pr": "unknown",
    "s": "lead",
    "vb": "Seen on 2 independent sources (builtinmumbai.in, outscal.com)"
   },
   "5259da54eccfc9": {
    "lv": "2026-10-28T10:45:08Z",
-   "pc": "2026-11-04T15:45:22Z",
+   "pc": "2026-11-05T11:59:43Z",
    "pd": "2026-09-16T03:42:43Z",
    "pr": "live",
    "s": "lead",
@@ -1109,7 +1114,7 @@
   },
   "527b327c4c0a10": {
    "lv": "2026-10-29T14:02:12Z",
-   "pc": "2026-11-04T15:45:22Z",
+   "pc": "2026-11-05T11:59:43Z",
    "pr": "unknown",
    "r": "Found on one source only, without the employer confirming it — hidden until a second source or the employer's own page confirms it",
    "s": "stale"
@@ -1146,7 +1151,7 @@
    "s": "stale"
   },
   "569029005c26ed": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "pc": "2026-11-04T18:45:10Z",
    "pd": "2026-09-25T23:24:32Z",
    "pr": "live",
@@ -1167,7 +1172,7 @@
    "vb": "Listing page open, posted 23 Sep 2026"
   },
   "59727c7c6e0318": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "pc": "2026-11-04T12:45:39Z",
    "pd": "2026-11-03T10:50:04Z",
    "pr": "live",
@@ -1175,17 +1180,17 @@
    "vb": "Returned by Shine.com this run"
   },
   "5b97b34f4632fb": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "s": "active",
    "vb": "Returned by Shine.com this run"
   },
   "5cbcec02766cea": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "s": "active",
    "vb": "Returned by Shine.com this run"
   },
   "5ccf88f8cf729e": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "s": "active",
    "vb": "Returned by Workable job marketplace this run"
   },
@@ -1198,7 +1203,7 @@
    "vb": "Listing page open, posted 26 Sep 2026"
   },
   "5d621aa97121bb": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "r": "Found on one source only, without the employer confirming it — hidden until a second source or the employer's own page confirms it",
    "s": "stale"
   },
@@ -1210,13 +1215,13 @@
    "s": "active"
   },
   "5ff5340f7f8b3d": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "s": "active",
    "vb": "Returned by Shine.com this run"
   },
   "6016a033f54033": {
-   "ca": "2026-11-05T11:10:16Z",
-   "lv": "2026-11-05T11:10:16Z",
+   "ca": "2026-11-05T12:01:51Z",
+   "lv": "2026-11-05T12:01:51Z",
    "pc": "2026-11-03T18:55:47Z",
    "pd": "2021-07-01T09:47:39Z",
    "pr": "live",
@@ -1238,7 +1243,7 @@
    "s": "active"
   },
   "6163d858ef7d7a": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "s": "active",
    "vb": "Returned by Shine.com this run"
   },
@@ -1289,7 +1294,7 @@
   },
   "6358e2fe4af5a0": {
    "lv": "2026-10-24T18:46:50Z",
-   "pc": "2026-11-04T15:45:22Z",
+   "pc": "2026-11-05T11:59:43Z",
    "pd": "2026-10-23T10:17:35Z",
    "pr": "live",
    "s": "lead",
@@ -1312,14 +1317,14 @@
    "vb": "Listing page open, posted 16 Sep 2026"
   },
   "64a6bf99449611": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "pc": "2026-11-04T16:59:07Z",
    "pr": "skip",
    "r": "Found on one source only, without the employer confirming it — hidden until a second source or the employer's own page confirms it",
    "s": "stale"
   },
   "64ebf1350ca8be": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "s": "active",
    "vb": "Returned by Workable job marketplace this run"
   },
@@ -1332,12 +1337,12 @@
    "vb": "Listing page open, posted 05 Sep 2026"
   },
   "660a8017082ec4": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "s": "active",
    "vb": "Returned by Workable job marketplace this run"
   },
   "673418bf1510d7": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "s": "active",
    "vb": "Returned by Shine.com this run"
   },
@@ -1364,11 +1369,12 @@
    "s": "closed"
   },
   "6a4f1d5cdfe654": {
-   "lv": "2026-11-05T11:10:16Z",
-   "pc": "2026-11-04T15:45:22Z",
+   "ca": "2026-11-05T12:01:51Z",
+   "lv": "2026-11-05T12:01:51Z",
+   "pc": "2026-11-05T11:59:43Z",
    "pr": "closed",
-   "r": "Found on one source only, without the employer confirming it — hidden until a second source or the employer's own page confirms it",
-   "s": "stale"
+   "r": "The listing says “listing expired”",
+   "s": "closed"
   },
   "6a91b8f953ca6a": {
    "ca": "2026-11-03T18:58:34Z",
@@ -1403,7 +1409,7 @@
    "s": "closed"
   },
   "6d377b7343a2dd": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "s": "active",
    "vb": "Returned by Shine.com this run"
   },
@@ -1416,8 +1422,8 @@
    "vb": "Listing page open, posted 05 Sep 2026"
   },
   "71396be744d2c4": {
-   "lv": "2026-11-05T11:10:16Z",
-   "pc": "2026-11-04T15:45:22Z",
+   "lv": "2026-11-05T12:01:51Z",
+   "pc": "2026-11-05T11:59:43Z",
    "pr": "unknown",
    "r": "Found on one source only, without the employer confirming it — hidden until a second source or the employer's own page confirms it",
    "s": "stale"
@@ -1438,11 +1444,12 @@
    "s": "stale"
   },
   "721889ccff12f7": {
-   "lv": "2026-11-05T11:10:16Z",
-   "pc": "2026-11-04T15:45:22Z",
+   "lv": "2026-11-05T12:01:51Z",
+   "pc": "2026-11-05T11:59:43Z",
    "pd": "2026-10-27T08:07:38Z",
    "pr": "live",
-   "s": "active"
+   "s": "active",
+   "vb": "Listing page still open"
   },
   "727b23fe0a3d66": {
    "ca": "2026-11-03T23:46:11Z",
@@ -1478,7 +1485,7 @@
    "vb": "Listing page open, posted 22 Oct 2026"
   },
   "7570eae9ca5b4f": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "pc": "2026-11-03T22:50:01Z",
    "pr": "unknown",
    "s": "active",
@@ -1493,28 +1500,28 @@
    "s": "closed"
   },
   "77188d783b79d1": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "s": "active",
    "vb": "Returned by Shine.com this run"
   },
   "77620623c84823": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "s": "active",
    "vb": "Returned by Himalayas this run"
   },
   "79ec5e84619856": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "s": "active",
    "vb": "Returned by Workable job marketplace this run"
   },
   "7a36e4137a282a": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "r": "Older than window",
    "s": "excluded"
   },
   "7a7757ce2e8240": {
-   "ca": "2026-11-05T11:10:16Z",
-   "lv": "2026-11-05T11:10:16Z",
+   "ca": "2026-11-05T12:01:51Z",
+   "lv": "2026-11-05T12:01:51Z",
    "r": "Posted more than 3 months ago (11 Jun 2025)",
    "s": "closed"
   },
@@ -1566,22 +1573,22 @@
    "s": "closed"
   },
   "7d57bbe201c240": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "r": "Not software QA (manufacturing, pharma, construction…)",
    "s": "excluded"
   },
   "7e28bdcb369ca4": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "r": "Older than window",
    "s": "excluded"
   },
   "7f1e2dbf33429b": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "s": "active",
    "vb": "Returned by Remote OK this run"
   },
   "7f278eda3e0978": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "s": "active",
    "vb": "Returned by Himalayas, Workable job marketplace this run"
   },
@@ -1604,7 +1611,7 @@
   },
   "80ae9a69fed935": {
    "lv": "2026-10-28T10:45:08Z",
-   "pc": "2026-11-04T15:45:22Z",
+   "pc": "2026-11-05T11:59:43Z",
    "pd": "2026-09-25T23:35:21Z",
    "pr": "live",
    "s": "lead",
@@ -1627,25 +1634,25 @@
    "s": "closed"
   },
   "815f322e9fda93": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "pc": "2026-11-04T16:59:07Z",
    "pr": "live",
    "r": "Found on one source only, without the employer confirming it — hidden until a second source or the employer's own page confirms it",
    "s": "stale"
   },
   "8338d72a9667e8": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "s": "active",
    "vb": "Returned by Himalayas this run"
   },
   "8374ee55f3ea0a": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "s": "active",
    "vb": "Returned by Himalayas this run"
   },
   "83c5df9fe902c0": {
-   "ca": "2026-11-05T11:10:16Z",
-   "lv": "2026-11-05T11:10:16Z",
+   "ca": "2026-11-05T12:01:51Z",
+   "lv": "2026-11-05T12:01:51Z",
    "pc": "2026-11-03T18:55:47Z",
    "pd": "2024-05-22T10:58:08Z",
    "pr": "live",
@@ -1654,26 +1661,26 @@
   },
   "83c6829ceff8a9": {
    "lv": "2026-10-24T18:46:50Z",
-   "pc": "2026-11-04T15:45:22Z",
+   "pc": "2026-11-05T11:59:43Z",
    "pd": "2026-10-22T13:39:23Z",
    "pr": "live",
    "s": "lead",
    "vb": "Listing page open, posted 22 Oct 2026"
   },
   "862061768c59e4": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "pc": "2026-11-03T22:50:01Z",
    "pr": "unknown",
    "s": "active",
    "vb": "Returned by Himalayas this run"
   },
   "867ed3be1d1f0d": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "s": "active",
    "vb": "Returned by Shine.com this run"
   },
   "86816edc12cbc3": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "s": "active",
    "vb": "Returned by Workable job marketplace this run"
   },
@@ -1685,12 +1692,12 @@
    "s": "active"
   },
   "87b3ff12626679": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "s": "active",
    "vb": "Returned by Workable job marketplace this run"
   },
   "893115770c0a13": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "s": "active",
    "vb": "Returned by Shine.com this run"
   },
@@ -1719,7 +1726,7 @@
    "s": "closed"
   },
   "8af3bd0316bd62": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "s": "active",
    "vb": "Returned by Himalayas this run"
   },
@@ -1765,14 +1772,14 @@
   },
   "8c51179fa6bfa3": {
    "lv": "2026-10-28T21:44:28Z",
-   "pc": "2026-11-04T15:45:22Z",
+   "pc": "2026-11-05T11:59:43Z",
    "pd": "2026-10-17T01:55:24Z",
    "pr": "live",
    "s": "lead",
    "vb": "Listing page open, posted 17 Oct 2026"
   },
   "8d57cefb1604c0": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "s": "active",
    "vb": "Returned by Himalayas, Workable job marketplace this run"
   },
@@ -1785,7 +1792,7 @@
    "vb": "Listing page open, posted 24 Sep 2026"
   },
   "8e42bf00159098": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "s": "active",
    "vb": "Returned by Shine.com this run"
   },
@@ -1806,7 +1813,7 @@
    "s": "closed"
   },
   "8f0f0328e732ef": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "pc": "2026-11-04T16:59:07Z",
    "pr": "live",
    "r": "Found on one source only, without the employer confirming it — hidden until a second source or the employer's own page confirms it",
@@ -1829,15 +1836,15 @@
    "vb": "Listing page open, posted 05 Sep 2026"
   },
   "8ff6daf9a2d0fa": {
-   "lv": "2026-11-05T11:10:16Z",
-   "pc": "2026-11-04T15:45:22Z",
+   "lv": "2026-11-05T12:01:51Z",
+   "pc": "2026-11-05T11:59:43Z",
    "pr": "unknown",
    "r": "Found on one source only, without the employer confirming it — hidden until a second source or the employer's own page confirms it",
    "s": "stale"
   },
   "902b72ca88ff5e": {
    "lv": "2026-10-30T00:44:29Z",
-   "pc": "2026-11-04T15:45:22Z",
+   "pc": "2026-11-05T11:59:43Z",
    "pr": "live",
    "r": "Found on one source only, without the employer confirming it — hidden until a second source or the employer's own page confirms it",
    "s": "stale"
@@ -1859,8 +1866,8 @@
    "vb": "Listing page open, posted 16 Sep 2026"
   },
   "91a02831200f1d": {
-   "ca": "2026-11-05T11:10:16Z",
-   "lv": "2026-11-05T11:10:16Z",
+   "ca": "2026-11-05T12:01:51Z",
+   "lv": "2026-11-05T12:01:51Z",
    "pc": "2026-11-03T20:52:26Z",
    "pd": "2026-06-09T14:34:31Z",
    "pr": "live",
@@ -1884,19 +1891,19 @@
    "s": "stale"
   },
   "930221d650f939": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "s": "active",
    "vb": "Returned by Shine.com this run"
   },
   "93b315954a197c": {
-   "ca": "2026-11-05T11:10:16Z",
-   "lv": "2026-11-05T11:10:16Z",
+   "ca": "2026-11-05T12:01:51Z",
+   "lv": "2026-11-05T12:01:51Z",
    "r": "Not listed on Rockstar Games's own careers page (Greenhouse) — likely closed or never posted there",
    "s": "closed"
   },
   "94a16f6fcd3d5f": {
    "lv": "2026-10-28T13:46:20Z",
-   "pc": "2026-11-04T15:45:22Z",
+   "pc": "2026-11-05T11:59:43Z",
    "pd": "2026-10-07T13:04:11Z",
    "pr": "live",
    "s": "lead",
@@ -1941,7 +1948,7 @@
    "s": "closed"
   },
   "98123972c022c4": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "s": "active",
    "vb": "Returned by Himalayas this run"
   },
@@ -1954,26 +1961,26 @@
    "s": "stale"
   },
   "988dfec0639c44": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "pc": "2026-11-04T18:59:40Z",
    "pr": "unknown",
    "r": "Found on one source only, without the employer confirming it — hidden until a second source or the employer's own page confirms it",
    "s": "stale"
   },
   "98c73fef4f7664": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "r": "Not open to India: Restricted to Serbia",
    "s": "excluded"
   },
   "99198c155d9d8d": {
-   "ca": "2026-11-05T11:10:16Z",
-   "lv": "2026-11-05T11:10:16Z",
+   "ca": "2026-11-05T12:01:51Z",
+   "lv": "2026-11-05T12:01:51Z",
    "r": "Not listed on Rockstar Games's own careers page (Greenhouse) — likely closed or never posted there",
    "s": "closed"
   },
   "991bc781d502e6": {
    "lv": "2026-10-27T10:52:24Z",
-   "pc": "2026-11-04T15:45:22Z",
+   "pc": "2026-11-05T11:59:43Z",
    "pd": "2026-10-24T02:35:02Z",
    "pr": "live",
    "s": "lead",
@@ -1988,8 +1995,8 @@
    "s": "closed"
   },
   "9b81d09cbe2b47": {
-   "lv": "2026-11-05T11:10:16Z",
-   "pc": "2026-11-04T15:45:22Z",
+   "lv": "2026-11-05T12:01:51Z",
+   "pc": "2026-11-05T11:59:43Z",
    "pr": "live",
    "r": "Found on one source only, without the employer confirming it — hidden until a second source or the employer's own page confirms it",
    "s": "stale"
@@ -2008,16 +2015,17 @@
    "pc": "2026-11-04T17:56:18Z",
    "pd": "2026-09-29T02:21:58Z",
    "pr": "live",
-   "r": "Not returned by its job board for 12 days",
-   "s": "stale"
+   "s": "verified",
+   "vb": "Also open on Jobgether's own careers page",
+   "vu": "https://jobs.lever.co/jobgether/47aed74d-72d5-4d29-8e09-29a454f41473"
   },
   "9ccf4465afb61b": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "s": "active",
    "vb": "Returned by Workable job marketplace this run"
   },
   "9d2f9377eeac58": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "pc": "2026-11-04T16:59:07Z",
    "pr": "skip",
    "r": "Found on one source only, without the employer confirming it — hidden until a second source or the employer's own page confirms it",
@@ -2043,18 +2051,18 @@
    "s": "closed"
   },
   "a0d91f1034a1a7": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "s": "active",
    "vb": "Returned by Shine.com this run"
   },
   "a32e601a942a3b": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "s": "active",
    "vb": "Returned by Shine.com this run"
   },
   "a335747b81757e": {
-   "ca": "2026-11-05T11:10:16Z",
-   "lv": "2026-11-05T11:10:16Z",
+   "ca": "2026-11-05T12:01:51Z",
+   "lv": "2026-11-05T12:01:51Z",
    "pc": "2026-11-03T18:55:47Z",
    "pd": "2025-10-30T11:41:10Z",
    "pr": "live",
@@ -2062,7 +2070,7 @@
    "s": "closed"
   },
   "a38ac04763f1d2": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "pc": "2026-11-04T23:46:20Z",
    "pr": "live",
    "r": "Found on one source only, without the employer confirming it — hidden until a second source or the employer's own page confirms it",
@@ -2106,7 +2114,7 @@
   },
   "a68b8c0c0f1ddd": {
    "lv": "2026-10-28T10:45:08Z",
-   "pc": "2026-11-04T15:45:22Z",
+   "pc": "2026-11-05T11:59:43Z",
    "pd": "2026-09-16T03:11:53Z",
    "pr": "live",
    "s": "lead",
@@ -2139,7 +2147,7 @@
    "vb": "Listing page open, posted 22 Oct 2026"
   },
   "acc50ddbfe071c": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "s": "verified",
    "vb": "Open on the employer's own careers page (checked this run)"
   },
@@ -2152,7 +2160,7 @@
    "vb": "Listing page open, posted 23 Sep 2026"
   },
   "ae54f8f4c29c8f": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "s": "active",
    "vb": "Returned by Shine.com this run"
   },
@@ -2189,14 +2197,14 @@
   },
   "b02f1281f51f41": {
    "lv": "2026-10-28T13:46:20Z",
-   "pc": "2026-11-04T15:45:22Z",
+   "pc": "2026-11-05T11:59:43Z",
    "pd": "2026-09-29T04:18:23Z",
    "pr": "live",
    "s": "lead",
    "vb": "Listing page open, posted 29 Sep 2026"
   },
   "b04f649a2b92d8": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "s": "active",
    "vb": "Returned by Shine.com this run"
   },
@@ -2260,8 +2268,8 @@
    "vb": "Listing page open, posted 26 Sep 2026"
   },
   "b76c4535234fd6": {
-   "lv": "2026-11-05T11:10:16Z",
-   "pc": "2026-11-04T15:45:22Z",
+   "lv": "2026-11-05T12:01:51Z",
+   "pc": "2026-11-05T11:59:43Z",
    "pr": "live",
    "r": "Found on one source only, without the employer confirming it — hidden until a second source or the employer's own page confirms it",
    "s": "stale"
@@ -2275,12 +2283,13 @@
    "s": "stale"
   },
   "b8b95d44637f4d": {
+   "ca": "2026-11-05T12:01:51Z",
    "lv": "2026-10-28T10:45:08Z",
-   "pc": "2026-11-04T15:45:22Z",
+   "pc": "2026-11-05T11:59:43Z",
    "pd": "2026-09-04T19:44:33Z",
-   "pr": "live",
-   "s": "lead",
-   "vb": "Listing page open, posted 05 Sep 2026"
+   "pr": "closed",
+   "r": "The listing page is gone (HTTP 404)",
+   "s": "closed"
   },
   "b90657e6ef429f": {
    "lv": "2026-10-27T10:52:24Z",
@@ -2299,8 +2308,8 @@
    "s": "stale"
   },
   "b9c1d4f50b27f3": {
-   "lv": "2026-11-05T11:10:16Z",
-   "pc": "2026-11-04T15:45:22Z",
+   "lv": "2026-11-05T12:01:51Z",
+   "pc": "2026-11-05T11:59:43Z",
    "pr": "unknown",
    "r": "Found on one source only, without the employer confirming it — hidden until a second source or the employer's own page confirms it",
    "s": "stale"
@@ -2344,25 +2353,25 @@
   },
   "bce140f3c60eaa": {
    "lv": "2026-10-28T10:45:08Z",
-   "pc": "2026-11-04T15:45:22Z",
+   "pc": "2026-11-05T11:59:43Z",
    "pd": "2026-09-21T00:42:52Z",
    "pr": "live",
    "s": "lead",
    "vb": "Listing page open, posted 21 Sep 2026"
   },
   "bd6c6f7f98086d": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "s": "active",
    "vb": "Returned by Shine.com this run"
   },
   "bd9d8094f51e49": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "s": "active",
    "vb": "Returned by Himalayas this run"
   },
   "be39180cb9f3c4": {
    "lv": "2026-10-28T10:45:08Z",
-   "pc": "2026-11-04T15:45:22Z",
+   "pc": "2026-11-05T11:59:43Z",
    "pd": "2026-10-23T10:12:24Z",
    "pr": "live",
    "s": "lead",
@@ -2384,7 +2393,7 @@
    "s": "closed"
   },
   "bf590334c4f431": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "s": "active",
    "vb": "Returned by Shine.com this run"
   },
@@ -2398,7 +2407,7 @@
   },
   "c2128ef2c39af4": {
    "lv": "2026-10-24T18:46:50Z",
-   "pc": "2026-11-04T15:45:22Z",
+   "pc": "2026-11-05T11:59:43Z",
    "pd": "2026-10-23T09:48:18Z",
    "pr": "live",
    "s": "lead",
@@ -2421,13 +2430,13 @@
    "s": "closed"
   },
   "c2fe7af6440512": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "s": "active",
    "vb": "Returned by Himalayas this run"
   },
   "c3388346d5e575": {
-   "ca": "2026-11-05T11:10:16Z",
-   "lv": "2026-11-05T11:10:16Z",
+   "ca": "2026-11-05T12:01:51Z",
+   "lv": "2026-11-05T12:01:51Z",
    "r": "Not listed on Paytm's own careers page (Lever) — likely closed or never posted there",
    "s": "closed"
   },
@@ -2440,13 +2449,13 @@
    "s": "closed"
   },
   "c3d43079b92a82": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "s": "active",
    "vb": "Returned by Shine.com this run"
   },
   "c4334e57f121d9": {
    "lv": "2026-10-28T10:45:08Z",
-   "pc": "2026-11-04T15:45:22Z",
+   "pc": "2026-11-05T11:59:43Z",
    "pd": "2026-10-13T13:08:16Z",
    "pr": "live",
    "s": "lead",
@@ -2461,7 +2470,7 @@
    "vb": "Listing page open, posted 17 Oct 2026"
   },
   "c545f4d8936af2": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "s": "active",
    "vb": "Returned by Himalayas this run"
   },
@@ -2473,7 +2482,7 @@
    "s": "active"
   },
   "c5d33d3056ba87": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "r": "Not open to India: Restricted to United States",
    "s": "excluded"
   },
@@ -2485,7 +2494,7 @@
    "s": "stale"
   },
   "c699f4208937e8": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "pc": "2026-11-04T12:45:39Z",
    "pd": "2026-11-03T17:18:05Z",
    "pr": "live",
@@ -2500,7 +2509,7 @@
    "s": "stale"
   },
   "c8185634ab2f63": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "pc": "2026-11-04T18:45:10Z",
    "pd": "2026-10-29T23:06:08Z",
    "pr": "live",
@@ -2524,17 +2533,17 @@
    "vb": "Listing page open, posted 16 Sep 2026"
   },
   "cd20d48c6a4071": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "s": "active",
    "vb": "Returned by Shine.com this run"
   },
   "ce086e29324da4": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "s": "active",
    "vb": "Returned by Shine.com this run"
   },
   "ce5397c76ab298": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "s": "active",
    "vb": "Returned by Himalayas this run"
   },
@@ -2547,7 +2556,7 @@
    "s": "stale"
   },
   "cf2775f5caf863": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "r": "Found on one source only, without the employer confirming it — hidden until a second source or the employer's own page confirms it",
    "s": "stale"
   },
@@ -2562,7 +2571,7 @@
   },
   "cf6b13d2d27601": {
    "lv": "2026-10-28T10:45:08Z",
-   "pc": "2026-11-04T15:45:22Z",
+   "pc": "2026-11-05T11:59:43Z",
    "pd": "2026-10-27T13:15:00Z",
    "pr": "live",
    "s": "lead",
@@ -2585,7 +2594,7 @@
    "s": "closed"
   },
   "d196dcc2c842ed": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "pc": "2026-11-04T18:59:40Z",
    "pr": "unknown",
    "s": "active",
@@ -2601,7 +2610,7 @@
   },
   "d1d74a81faa3d9": {
    "lv": "2026-10-24T18:46:50Z",
-   "pc": "2026-11-04T15:45:22Z",
+   "pc": "2026-11-05T11:59:43Z",
    "pd": "2026-09-25T23:24:57Z",
    "pr": "live",
    "s": "lead",
@@ -2609,7 +2618,7 @@
   },
   "d2100ffbbd0a7d": {
    "lv": "2026-10-28T10:45:08Z",
-   "pc": "2026-11-04T15:45:22Z",
+   "pc": "2026-11-05T11:59:43Z",
    "pd": "2026-09-29T02:21:49Z",
    "pr": "live",
    "s": "lead",
@@ -2639,7 +2648,7 @@
    "s": "closed"
   },
   "d4a37c43f133c5": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "s": "active",
    "vb": "Returned by Himalayas this run"
   },
@@ -2681,13 +2690,13 @@
   },
   "dbf07034e8e8dd": {
    "lv": "2026-10-30T00:44:29Z",
-   "pc": "2026-11-04T15:45:22Z",
+   "pc": "2026-11-05T11:59:43Z",
    "pr": "live",
    "r": "Found on one source only, without the employer confirming it — hidden until a second source or the employer's own page confirms it",
    "s": "stale"
   },
   "dd450abc2e3e5c": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "pc": "2026-11-03T22:50:01Z",
    "pr": "unknown",
    "s": "active",
@@ -2709,7 +2718,7 @@
    "vb": "Listing page open, posted 16 Sep 2026"
   },
   "e0a8948dc72b66": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "s": "active",
    "vb": "Returned by Workable job marketplace this run"
   },
@@ -2729,7 +2738,7 @@
    "s": "stale"
   },
   "e276f7b3c49296": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "s": "active",
    "vb": "Returned by Himalayas this run"
   },
@@ -2742,8 +2751,8 @@
    "vb": "Listing page open, posted 05 Sep 2026"
   },
   "e3355ff428781c": {
-   "ca": "2026-11-05T11:10:16Z",
-   "lv": "2026-11-05T11:10:16Z",
+   "ca": "2026-11-05T12:01:51Z",
+   "lv": "2026-11-05T12:01:51Z",
    "r": "Posted more than 3 months ago (10 Sep 2025)",
    "s": "closed"
   },
@@ -2764,7 +2773,7 @@
   },
   "e5feec4d2d0f59": {
    "lv": "2026-10-27T10:52:24Z",
-   "pc": "2026-11-04T15:45:22Z",
+   "pc": "2026-11-05T11:59:43Z",
    "pr": "unknown",
    "r": "Found on one source only, without the employer confirming it — hidden until a second source or the employer's own page confirms it",
    "s": "stale"
@@ -2786,17 +2795,17 @@
    "s": "stale"
   },
   "e82dbd6d92b5e0": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "s": "active",
    "vb": "Returned by Himalayas this run"
   },
   "e8c2ca7ed2411c": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "s": "active",
    "vb": "Returned by Shine.com this run"
   },
   "e8db8187621d07": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "pc": "2026-11-03T23:44:21Z",
    "pd": "2026-10-31T02:30:33Z",
    "pr": "live",
@@ -2804,12 +2813,12 @@
    "vb": "Returned by Shine.com this run"
   },
   "e9529e78962f51": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "s": "active",
    "vb": "Returned by Shine.com this run"
   },
   "ea2829c7961530": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "s": "active",
    "vb": "Returned by Shine.com this run"
   },
@@ -2830,7 +2839,7 @@
    "s": "stale"
   },
   "ecb0b030669250": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "s": "active",
    "vb": "Returned by Himalayas this run"
   },
@@ -2890,13 +2899,13 @@
   },
   "f3df5e5e76a424": {
    "lv": "2026-10-29T03:44:17Z",
-   "pc": "2026-11-04T15:45:22Z",
+   "pc": "2026-11-05T11:59:43Z",
    "pr": "unknown",
    "r": "Found on one source only, without the employer confirming it — hidden until a second source or the employer's own page confirms it",
    "s": "stale"
   },
   "f3eeed4ed1ced1": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "pc": "2026-11-04T16:18:22Z",
    "pr": "closed",
    "r": "Found on one source only, without the employer confirming it — hidden until a second source or the employer's own page confirms it",
@@ -2927,12 +2936,12 @@
    "s": "stale"
   },
   "f6a6e9fd33ebaa": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "s": "active",
    "vb": "Returned by Himalayas this run"
   },
   "f6d8ab6f77eb85": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "r": "Found on one source only, without the employer confirming it — hidden until a second source or the employer's own page confirms it",
    "s": "stale"
   },
@@ -2945,17 +2954,17 @@
    "vb": "Listing page open, posted 26 Sep 2026"
   },
   "f878e570a9229f": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "s": "active",
    "vb": "Returned by Workable job marketplace this run"
   },
   "f97962d5376407": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "s": "active",
    "vb": "Returned by Shine.com this run"
   },
   "f9e4f96723b219": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "pc": "2026-11-04T12:45:39Z",
    "pd": "2026-11-02T23:16:35Z",
    "pr": "live",
@@ -2997,13 +3006,13 @@
   },
   "fc901b9cf16f72": {
    "lv": "2026-10-28T14:51:52Z",
-   "pc": "2026-11-04T15:45:22Z",
+   "pc": "2026-11-05T11:59:43Z",
    "pr": "unknown",
    "r": "Found on one source only, without the employer confirming it — hidden until a second source or the employer's own page confirms it",
    "s": "stale"
   },
   "fd5dd5a3c2081f": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "s": "active",
    "vb": "Returned by Himalayas this run"
   },
@@ -3013,7 +3022,7 @@
    "s": "closed"
   },
   "fe7fe29ab557ad": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "s": "active",
    "vb": "Returned by Shine.com this run"
   },
@@ -3026,10 +3035,10 @@
    "vb": "Listing page open, posted 02 Oct 2026"
   },
   "ffde4eea6fe570": {
-   "lv": "2026-11-05T11:10:16Z",
+   "lv": "2026-11-05T12:01:51Z",
    "s": "active",
    "vb": "Returned by Workable job marketplace this run"
   }
  },
- "updated_at": "2026-11-05T11:10:16Z"
+ "updated_at": "2026-11-05T12:01:51Z"
 }
