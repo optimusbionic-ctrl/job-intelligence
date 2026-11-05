@@ -1,15 +1,16 @@
 {
  "apply_url": null,
- "board_apply": "https://www.shine.com/jobs/software-tester/workwaves/19975711",
+ "board_apply": "https://www.shine.com/jobs/software-tester/workwaves/20011661",
  "category": "Other",
- "comp_potential": "listed_good",
+ "comp_potential": "listed",
  "company": "Workwaves",
  "company_slug": "workwaves",
  "concerns": [
-  "Office outside Mumbai — relocation within India"
+  "Office outside Mumbai — relocation within India",
+  "Reposted / refreshed listing — original posting is older"
  ],
  "contacts_count": 0,
- "content_hash": "cb8fe87a443d",
+ "content_hash": "06f8243ecab8",
  "date_quality": "exact",
  "deadline": null,
  "employment": "full-time",
@@ -28,13 +29,13 @@
   "visa": false
  },
  "kind": "manual-qa",
- "last_verified": "2026-11-05T06:45:35Z",
- "location": "Ahmednagar, Bhagalpur, Asansol, Bhopal, Chandigarh, Dhubri, India",
+ "last_verified": "2026-11-05T07:22:59Z",
+ "location": "Ahmednagar, Bhopal, Bhubaneswar, Asansol, Dhubri, Chandigarh, India",
  "logo": null,
  "needs_review": false,
  "official": false,
- "posted_at": "2026-10-30T23:14:14Z",
- "repost": false,
+ "posted_at": "2026-11-04T21:36:22Z",
+ "repost": true,
  "requirements": [
   "(Summary from the Shine.com listing; open the posting for the full description.)"
  ],
@@ -45,17 +46,17 @@
   "currency": "INR",
   "fx_at": "Thu, 05 Nov 2026 00:02:31 +0000",
   "fx_rate": 1.0,
-  "inr_max": 450000,
+  "inr_max": 400000,
   "inr_min": 100000,
-  "max": 450000,
+  "max": 400000,
   "min": 100000,
   "note": "Listed in the posting",
   "original_period": "annual",
   "period": "annual",
   "source_name": "Shine.com",
-  "source_url": "https://www.shine.com/jobs/software-tester/workwaves/19975711",
+  "source_url": "https://www.shine.com/jobs/software-tester/workwaves/20011661",
   "state": "verified",
-  "verified_at": "2026-11-05T06:45:35Z"
+  "verified_at": "2026-11-05T07:22:59Z"
  },
  "scores": {
   "ai": 58,
@@ -71,11 +72,20 @@
  "sources": [
   {
    "id": "shine",
+   "job_id": "20011661",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-11-04T22:25:06Z",
+   "seen_at": "2026-11-05T07:22:59Z",
+   "url": "https://www.shine.com/jobs/software-tester/workwaves/20011661"
+  },
+  {
+   "id": "shine",
    "job_id": "19975711",
    "kind": "board",
    "name": "Shine.com",
-   "posted_at": "2026-10-30T23:14:14Z",
-   "seen_at": "2026-11-05T06:45:35Z",
+   "posted_at": "2026-11-04T21:36:22Z",
+   "seen_at": "2026-11-05T07:22:59Z",
    "url": "https://www.shine.com/jobs/software-tester/workwaves/19975711"
   }
  ],
@@ -86,7 +96,7 @@
  "tools": [],
  "track": "software",
  "updated_at": null,
- "url": "https://www.shine.com/jobs/software-tester/workwaves/19975711",
+ "url": "https://www.shine.com/jobs/software-tester/workwaves/20011661",
  "why": [
   "Manual / functional QA — the core of your resume",
   "Asks for 1–6 years — you have about 2.5",
