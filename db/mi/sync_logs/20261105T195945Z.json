@@ -1,8 +1,8 @@
 {
  "alerts_count": 0,
- "changed_count": 1,
- "closed_count": 10,
- "duration_s": 85.7,
+ "changed_count": 0,
+ "closed_count": 9,
+ "duration_s": 106.8,
  "enrichment": {
   "careers_emails": 0,
   "dates_estimated": 0,
@@ -11,18 +11,18 @@
   "searches": 0
  },
  "excluded_counts": {
-  "Adjacent title without substantial motion work": 27,
+  "Adjacent title without substantial motion work": 28,
   "Character / film / game animation": 7,
-  "Generic product/UX designer (no motion specialisation in title)": 48,
-  "Graphic / illustration role": 37,
-  "Intern / junior / entry level": 25,
+  "Generic product/UX designer (no motion specialisation in title)": 49,
+  "Graphic / illustration role": 38,
+  "Intern / junior / entry level": 18,
   "Junior experience requirement": 1,
-  "Not a design role": 69,
-  "Not a motion role": 247,
-  "Not open to India": 87,
-  "Older than window": 203,
-  "Pure video editing role": 51,
-  "Social content role": 2,
+  "Not a design role": 61,
+  "Not a motion role": 240,
+  "Not open to India": 76,
+  "Older than window": 211,
+  "Pure video editing role": 49,
+  "Social content role": 1,
   "Staffing agency listing — employer not identified": 5,
   "Unpaid / volunteer": 3
  },
@@ -47,6 +47,13 @@
    "source": "Himalayas",
    "title": "Freelance Senior Animator",
    "url": "https://himalayas.app/companies/outpost-vfx-com/jobs/freelance-senior-animator?utm_source=api"
+  },
+  {
+   "company": "Silverback Strategies",
+   "reason": "Not open to India: Restricted to United States",
+   "source": "Himalayas",
+   "title": "Senior Motion & Graphic Designer",
+   "url": "https://himalayas.app/companies/silverback-strategies/jobs/senior-motion-graphic-designer-4714827467?utm_source=api"
   },
   {
    "company": "Bjak",
@@ -217,18 +224,18 @@
    "url": "https://himalayas.app/companies/pavago/jobs/animator-motion-graphics-designer-2329885192?utm_source=api"
   },
   {
-   "company": "Paired",
-   "reason": "Not open to India: region in title",
-   "source": "Himalayas",
-   "title": "In-House 3D Motion Graphics Artist (US-Based, Remote)",
-   "url": "https://himalayas.app/companies/paired-so/jobs/in-house-3d-motion-graphics-artist-us-based-remote?utm_source=api"
-  },
-  {
    "company": "Bjak",
    "reason": "Not open to India: Restricted to South Korea",
    "source": "Himalayas",
    "title": "Motion Designer (UX/Interface)",
    "url": "https://himalayas.app/companies/bjak/jobs/motion-designer-ux-interface-5914552737?utm_source=api"
+  },
+  {
+   "company": "Paired",
+   "reason": "Not open to India: region in title",
+   "source": "Himalayas",
+   "title": "In-House 3D Motion Graphics Artist (US-Based, Remote)",
+   "url": "https://himalayas.app/companies/paired-so/jobs/in-house-3d-motion-graphics-artist-us-based-remote?utm_source=api"
   },
   {
    "company": "Hire Overseas",
@@ -280,25 +287,11 @@
    "url": "https://himalayas.app/companies/tamatem/jobs/freelance-marketing-artists-video-ad-producers-motion-graphics-designers-vi?utm_source=api"
   },
   {
-   "company": "Harold Jean-Louis, Inc.",
-   "reason": "Intern / junior / entry level",
-   "source": "Himalayas",
-   "title": "REMOTE INTERNSHIP- Video Animator",
-   "url": "https://himalayas.app/companies/harold-jean-louis-inc/jobs/remote-internship-video-animator?utm_source=api"
-  },
-  {
    "company": "Fieldguide",
    "reason": "Not open to India: Restricted to USA",
    "source": "Jobicy",
    "title": "Senior Motion Designer",
    "url": "https://jobicy.com/jobs/158659-senior-motion-designer"
-  },
-  {
-   "company": "Ruby Labs",
-   "reason": "Not open to India: Restricted to Europe",
-   "source": "Jobicy",
-   "title": "2D Graphic and Motion Designer",
-   "url": "https://jobicy.com/jobs/157876-2d-graphic-and-motion-designer"
   },
   {
    "company": "M+C Saatchi World Services",
@@ -318,15 +311,8 @@
    "company": "Stripe",
    "reason": "Not open to India: On-site outside India (Barcelona), no sponsorship stated",
    "source": "Stripe careers (Greenhouse)",
-   "title": "Motion Designer, Stripe Identity",
+   "title": "Motion Designer 3D, Stripe Identity",
    "url": "https://stripe.com/jobs/search?gh_jid=8265389"
-  },
-  {
-   "company": "Mercury",
-   "reason": "Not open to India: Remote but limited to San Francisco, CA, New York, NY, Portland, OR, or ",
-   "source": "Mercury careers (Greenhouse)",
-   "title": "Staff Motion Designer - 3D",
-   "url": "https://job-boards.greenhouse.io/mercury/jobs/6196208004"
   },
   {
    "company": "Pinterest",
@@ -355,6 +341,13 @@
    "source": "Perplexity careers (Ashby)",
    "title": "Motion Designer",
    "url": "https://jobs.ashbyhq.com/perplexity/39d520eb-6b81-4b61-8b23-5efcdac4cad9"
+  },
+  {
+   "company": "Cursor",
+   "reason": "Not open to India: On-site outside India (San Francisco, CA • New York, NY (United), no sponsorship stated",
+   "source": "Cursor careers (Ashby)",
+   "title": "Senior Motion Designer",
+   "url": "https://jobs.ashbyhq.com/cursor/364b0b05-47d8-428a-90b5-210d81fbc950"
   },
   {
    "company": "PostHog",
@@ -410,7 +403,7 @@
    "reason": "Not open to India: Remote but limited to United States/Canada",
    "source": "Pogo careers (Ashby)",
    "title": "Motion Designer & Video Editor",
-   "url": "https://jobs.ashbyhq.com/joinpogo/850f2cd4-cd44-4fb4-b2d2-dc5781dfbda1"
+   "url": "https://jobs.ashbyhq.com/joinpogo/927c52cd-0342-4c1c-829a-3e23fddc2cdd"
   },
   {
    "company": "Story",
@@ -453,90 +446,6 @@
    "source": "Thinkingbox careers (Lever)",
    "title": "Creative Director, Motion - The Heist",
    "url": "https://jobs.lever.co/thinkingbox/40829438-ce46-4d26-8e7d-f6f5a671dfa4"
-  },
-  {
-   "company": "Thinkingbox",
-   "reason": "Intern / junior / entry level",
-   "source": "Thinkingbox careers (Lever)",
-   "title": "Junior Motion Designer - The Heist",
-   "url": "https://jobs.lever.co/thinkingbox/0728fb9c-8d59-49bf-8553-accb00621b36"
-  },
-  {
-   "company": "Thinkingbox",
-   "reason": "Intern / junior / entry level",
-   "source": "Thinkingbox careers (Lever)",
-   "title": "Junior Motion Designer - The Heist",
-   "url": "https://jobs.lever.co/thinkingbox/e1cab55c-3de0-40af-9e38-fdde2e876220"
-  },
-  {
-   "company": "Thinkingbox",
-   "reason": "Intern / junior / entry level",
-   "source": "Thinkingbox careers (Lever)",
-   "title": "Junior Motion Designer - The Heist",
-   "url": "https://jobs.lever.co/thinkingbox/e747f7e9-f56c-41fb-94fe-128fdbf34a26"
-  },
-  {
-   "company": "Thinkingbox",
-   "reason": "Intern / junior / entry level",
-   "source": "Thinkingbox careers (Lever)",
-   "title": "Motion Design Intern - The Heist (3-Month Contract, Potential for Full-Time)",
-   "url": "https://jobs.lever.co/thinkingbox/421f75a6-f0cf-4f08-a749-fb195fd36cf7"
-  },
-  {
-   "company": "Thinkingbox",
-   "reason": "Intern / junior / entry level",
-   "source": "Thinkingbox careers (Lever)",
-   "title": "Motion Design Intern - The Heist (3-Month Contract, Potential for Full-Time)",
-   "url": "https://jobs.lever.co/thinkingbox/aaf23879-35da-4734-a8d9-46ad2e9e646e"
-  },
-  {
-   "company": "Thinkingbox",
-   "reason": "Intern / junior / entry level",
-   "source": "Thinkingbox careers (Lever)",
-   "title": "Motion Design Intern - The Heist (3-Month Contract, Potential for Full-Time)",
-   "url": "https://jobs.lever.co/thinkingbox/b4f84bc6-3fc2-48c8-a0a1-c01d86235ff1"
-  },
-  {
-   "company": "Thinkingbox",
-   "reason": "Not open to India: On-site outside India (Chicago), no sponsorship stated",
-   "source": "Thinkingbox careers (Lever)",
-   "title": "Motion Designer - The Heist",
-   "url": "https://jobs.lever.co/thinkingbox/180b082c-9d27-4d61-808f-579be50119c8"
-  },
-  {
-   "company": "Thinkingbox",
-   "reason": "Not open to India: On-site outside India (Toronto), no sponsorship stated",
-   "source": "Thinkingbox careers (Lever)",
-   "title": "Motion Designer - The Heist",
-   "url": "https://jobs.lever.co/thinkingbox/2f031b5e-1859-41c9-874e-37436d36be6d"
-  },
-  {
-   "company": "Thinkingbox",
-   "reason": "Not open to India: On-site outside India (Vancouver), no sponsorship stated",
-   "source": "Thinkingbox careers (Lever)",
-   "title": "Motion Designer - The Heist",
-   "url": "https://jobs.lever.co/thinkingbox/33f6b58a-f0b3-4df8-9a16-89911ef6e682"
-  },
-  {
-   "company": "Thinkingbox",
-   "reason": "Not open to India: On-site outside India (Toronto), no sponsorship stated",
-   "source": "Thinkingbox careers (Lever)",
-   "title": "Senior Motion Designer - The Heist",
-   "url": "https://jobs.lever.co/thinkingbox/0a631cc9-2fa8-4783-80ec-3059ca688ba6"
-  },
-  {
-   "company": "Thinkingbox",
-   "reason": "Not open to India: On-site outside India (Vancouver), no sponsorship stated",
-   "source": "Thinkingbox careers (Lever)",
-   "title": "Senior Motion Designer - The Heist",
-   "url": "https://jobs.lever.co/thinkingbox/7247a2a2-6729-41bc-b148-744c7986e27d"
-  },
-  {
-   "company": "Thinkingbox",
-   "reason": "Not open to India: On-site outside India (Chicago), no sponsorship stated",
-   "source": "Thinkingbox careers (Lever)",
-   "title": "Senior Motion Designer - The Heist",
-   "url": "https://jobs.lever.co/thinkingbox/77ae1912-8774-40e9-a751-22000ee64a94"
   },
   {
    "company": "Pure",
@@ -609,13 +518,13 @@
    "url": "https://www.foundit.in/job/senior-motion-designer-jobgether-india-60670321"
   }
  ],
- "finished_at": "2026-11-04T06:06:32Z",
+ "finished_at": "2026-11-05T20:01:32Z",
  "fx": {
-  "as_of": "Wed, 04 Nov 2026 00:02:31 +0000",
+  "as_of": "Thu, 05 Nov 2026 00:02:31 +0000",
   "source": "https://open.er-api.com/v6/latest/USD (ExchangeRate-API open access)",
-  "usd_inr": 94.834253
+  "usd_inr": 94.620171
  },
- "id": "20261104T060507Z",
+ "id": "20261105T195945Z",
  "india_checks": {
   "companies": 71,
   "roles_clarified": 2,
@@ -630,17 +539,17 @@
  "kept": 66,
  "new_count": 0,
  "pipeline_version": "2.1.0",
- "raw_count": 884,
+ "raw_count": 860,
  "source_status": {
   "ashby": {
    "boards": 64,
    "errors": 0,
-   "fetched": 31,
+   "fetched": 32,
    "ok": true
   },
   "dribbble": {
-   "fetched": 31,
-   "ms": 18136,
+   "fetched": 30,
+   "ms": 13032,
    "ok": true
   },
   "greenhouse": {
@@ -649,43 +558,43 @@
     "nothing: HTTP 404 for https://boards-api.greenhouse.io/v1/boards/nothing/jobs: b''"
    ],
    "errors": 1,
-   "fetched": 50,
+   "fetched": 48,
    "ok": true
   },
   "himalayas": {
    "fetched": 256,
-   "ms": 49405,
+   "ms": 17989,
    "ok": true
   },
   "hn": {
    "fetched": 1,
-   "ms": 10066,
+   "ms": 7062,
    "ok": true
   },
   "jobicy": {
-   "fetched": 142,
-   "ms": 5636,
+   "fetched": 136,
+   "ms": 5642,
    "ok": true
   },
   "lever": {
    "boards": 10,
    "errors": 0,
-   "fetched": 21,
+   "fetched": 8,
    "ok": true
   },
   "motionographer": {
    "fetched": 1,
-   "ms": 338,
+   "ms": 216,
    "ok": true
   },
   "remoteok": {
-   "fetched": 221,
-   "ms": 7186,
+   "fetched": 219,
+   "ms": 7309,
    "ok": true
   },
   "remotive": {
    "fetched": 10,
-   "ms": 4517,
+   "ms": 5332,
    "ok": true
   },
   "smartrecruiters": {
@@ -695,15 +604,15 @@
    "ok": true
   },
   "workingnomads": {
-   "fetched": 35,
-   "ms": 666,
+   "fetched": 33,
+   "ms": 326,
    "ok": true
   },
   "wwr": {
    "fetched": 17,
-   "ms": 190,
+   "ms": 304,
    "ok": true
   }
  },
- "started_at": "2026-11-04T06:05:07Z"
+ "started_at": "2026-11-05T19:59:45Z"
 }
