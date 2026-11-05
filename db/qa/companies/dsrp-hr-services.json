@@ -3,20 +3,20 @@
  "classification": "Inferred from job description",
  "india_hiring": {
   "board": null,
-  "changed_at": "2026-11-04T10:07:35Z",
+  "changed_at": "2026-11-05T21:27:14Z",
   "evidence": [
    {
-    "detail": "Quality Assurance (QA) Tester — Mumbai City, India",
+    "detail": "Quality Assurance Engineer — Mumbai City, India",
     "kind": "posting",
     "label": "A current posting lists India as a location",
-    "url": "https://www.shine.com/jobs/quality-assurance-qa-tester/dsrp-hr-services/20005313",
+    "url": "https://www.shine.com/jobs/quality-assurance-engineer/dsrp-hr-services/20004972",
     "weight": 5
    }
   ],
   "first_checked_at": "2026-11-04T10:07:35Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "338f32c420",
+  "sig": "70c59ac7d3",
   "summary": "A current posting lists India as a location.",
   "verdict": "yes"
  },
