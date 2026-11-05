@@ -42,17 +42,17 @@
    "restricted_remote": 0,
    "restricted_samples": [],
    "slug": "binance",
-   "total": 229,
+   "total": 228,
    "type": "greenhouse",
    "url": "https://boards.greenhouse.io/binance",
    "worldwide": 0
   },
-  "changed_at": "2026-11-05T15:45:24Z",
+  "changed_at": "2026-11-05T17:18:02Z",
   "evidence": [
    {
     "detail": "Binance Accelerator Program - Ads Implementation (Hong Kong; India; Malaysia; Taiwan; United Arab Emirates); Product Marketing Manager - South Asia (India)",
     "kind": "board",
-    "label": "2 of 229 open roles are located in India",
+    "label": "2 of 228 open roles are located in India",
     "url": "https://boards.greenhouse.io/binance",
     "weight": 5
    },
@@ -81,8 +81,8 @@
   "first_checked_at": "2026-11-05T09:05:09Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "ac47906849",
-  "summary": "2 of 229 open roles are located in India.",
+  "sig": "f73f95edb1",
+  "summary": "2 of 228 open roles are located in India.",
   "verdict": "yes"
  },
  "inferred": true,
