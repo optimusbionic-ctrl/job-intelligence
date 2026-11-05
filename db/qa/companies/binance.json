@@ -1,0 +1,96 @@
+{
+ "ats": {
+  "slug": "binance",
+  "type": "greenhouse"
+ },
+ "category": "Fintech",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": {
+   "apac": 1,
+   "countries": [
+    "Hong Kong",
+    "Singapore",
+    "Taiwan",
+    "UAE",
+    "Malaysia",
+    "Australia",
+    "United Kingdom",
+    "Brazil"
+   ],
+   "india": 2,
+   "india_samples": [
+    {
+     "location": "Hong Kong; India; Malaysia; Taiwan; United Arab Emirates",
+     "title": "Binance Accelerator Program - Ads Implementation",
+     "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002743101"
+    },
+    {
+     "location": "India",
+     "title": "Product Marketing Manager - South Asia",
+     "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002385101"
+    }
+   ],
+   "open_samples": [
+    {
+     "location": "APAC; CIS & CEE; LATAM",
+     "title": "Join Binance's Global Talent Network",
+     "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5028198101"
+    }
+   ],
+   "remote": 0,
+   "restricted_remote": 0,
+   "restricted_samples": [],
+   "slug": "binance",
+   "total": 232,
+   "type": "greenhouse",
+   "url": "https://boards.greenhouse.io/binance",
+   "worldwide": 0
+  },
+  "changed_at": "2026-11-05T09:05:09Z",
+  "evidence": [
+   {
+    "detail": "Binance Accelerator Program - Ads Implementation (Hong Kong; India; Malaysia; Taiwan; United Arab Emirates); Product Marketing Manager - South Asia (India)",
+    "kind": "board",
+    "label": "2 of 232 open roles are located in India",
+    "url": "https://boards.greenhouse.io/binance",
+    "weight": 5
+   },
+   {
+    "detail": "Web/App Test Engineer — Afghanistan, Armenia, Azerbaijan, Bahrain, Bangladesh, Bhutan, Brunei Darussalam, Cambodia, China, Georgia, Hong Kong, India, Indonesia, Iran, Iraq, Israel, Japan, Jordan, Kazakhstan, Kuwait, Kyrg",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://himalayas.app/companies/binance/jobs/web-app-test-engineer?utm_source=api",
+    "weight": 5
+   },
+   {
+    "detail": "Join Binance's Global Talent Network (APAC; CIS & CEE; LATAM)",
+    "kind": "board",
+    "label": "1 open role is open worldwide or to APAC",
+    "url": "https://boards.greenhouse.io/binance",
+    "weight": 3
+   },
+   {
+    "detail": "…ng volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading en…",
+    "kind": "posting",
+    "label": "Posting describes hiring across countries",
+    "url": "https://himalayas.app/companies/binance/jobs/web-app-test-engineer?utm_source=api",
+    "weight": 3
+   }
+  ],
+  "first_checked_at": "2026-11-05T09:05:09Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "210c34c08e",
+  "summary": "2 of 232 open roles are located in India.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "logo": "https://cdn-images.himalayas.app/vkkqp17t4dasbwev5ryj7iw3dtzw",
+ "name": "Binance",
+ "slug": "binance",
+ "tier": 1,
+ "tracks": [
+  "software"
+ ]
+}

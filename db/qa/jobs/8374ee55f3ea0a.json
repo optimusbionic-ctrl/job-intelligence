@@ -13,7 +13,7 @@
   "Reposted / refreshed listing — original posting is older"
  ],
  "contacts_count": 0,
- "content_hash": "00eedf026e70",
+ "content_hash": "4429b2754178",
  "date_quality": "exact",
  "deadline": "2026-11-07T01:23:44Z",
  "employment": "full-time",
@@ -32,12 +32,12 @@
   "visa": false
  },
  "kind": "automation",
- "last_verified": "2026-11-04T03:56:44Z",
+ "last_verified": "2026-11-05T09:05:09Z",
  "location": "India",
  "logo": "https://cdn-images.himalayas.app/9lc6nafazoy08dhh3b539jxnxt0y",
  "needs_review": false,
  "official": false,
- "posted_at": "2026-08-06T08:26:54Z",
+ "posted_at": "2026-10-08T19:30:36Z",
  "repost": true,
  "requirements": [
   "3+ years of experience as a QA Engineer, Software Test Engineer, or Quality Assurance Engineer.",
@@ -78,17 +78,8 @@
    "kind": "board",
    "name": "Himalayas",
    "posted_at": "2026-10-08T19:30:36Z",
-   "seen_at": "2026-11-04T03:56:44Z",
+   "seen_at": "2026-11-05T09:05:09Z",
    "url": "https://himalayas.app/companies/huzzle/jobs/quality-assurance-engineer?utm_source=api"
-  },
-  {
-   "id": "workable",
-   "job_id": "ef30d175-bf72-47fc-84be-2ed0a79d8a3a",
-   "kind": "board",
-   "name": "Workable job marketplace",
-   "posted_at": "2026-08-06T08:26:54Z",
-   "seen_at": "2026-11-04T03:56:44Z",
-   "url": "https://jobs.workable.com/view/vx751k7x7L3eLhqdiUS6dw/remote-quality-assurance-engineer-in-india-at-huzzle"
   }
  ],
  "specializations": [
@@ -113,7 +104,7 @@
   "ISTQB"
  ],
  "track": "software",
- "updated_at": "2026-10-08T19:30:36Z",
+ "updated_at": null,
  "url": "https://himalayas.app/companies/huzzle/jobs/quality-assurance-engineer?utm_source=api",
  "why": [
   "Already on your resume: Regression testing, Smoke testing, Exploratory testing, Usability testing, Test cases & scenarios, Bug reporting",

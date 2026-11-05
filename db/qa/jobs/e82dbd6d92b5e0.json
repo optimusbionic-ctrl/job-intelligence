@@ -1,0 +1,115 @@
+{
+ "apply_url": null,
+ "board_apply": "https://himalayas.app/companies/binance/jobs/web-app-test-engineer?utm_source=api",
+ "category": "Fintech",
+ "comp_potential": "unknown",
+ "company": "Binance",
+ "company_slug": "binance",
+ "concerns": [
+  "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
+  "Also asks for: SQL / databases, Programming, Device logs (ADB/Charles)",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "f3242995abff",
+ "date_quality": "exact",
+ "deadline": "2026-12-10T09:02:16Z",
+ "employment": "full-time",
+ "first_seen": "2026-11-05T09:05:09Z",
+ "fit": 82,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "e82dbd6d92b5e0",
+ "include_reason": "Automation-heavy QA (SDET)",
+ "india": {
+  "cities": [],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "automation",
+ "last_verified": "2026-11-05T09:05:09Z",
+ "location": "Afghanistan, Armenia, Azerbaijan, Bahrain, Bangladesh, Bhutan, Brunei Darussalam, Cambodia, China, Georgia, Hong Kong, India, Indonesia, Iran, Iraq, Israel, Japan, Jordan, Kazakhstan, Kuwait, Kyrgyzstan, Lao People's Democratic Republic, Lebanon, Macao, Malaysia, Maldives, Mongolia, Myanmar, Nepal, Oman, Pakistan, Palestine, State of, Philippines, Qatar, Russian Federation, Saudi Arabia, Singapore, South Korea, Sri Lanka, Syrian Arab Republic, Taiwan, Tajikistan, Thailand, Timor-Leste, Turkey, Turkmenistan, United Arab Emirates, Uzbekistan, Vietnam, Yemen",
+ "logo": "https://cdn-images.himalayas.app/vkkqp17t4dasbwev5ryj7iw3dtzw",
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-11-01T12:21:07Z",
+ "repost": false,
+ "requirements": [
+  "Strong coding ability in at least one of Java, Python, or JavaScript (live coding assessment required)",
+  "Extensive Web/App automation testing experience with tools such as Selenium, Appium, Playwright, etc.",
+  "Solid understanding of Web/App testing methodologies and automation framework design",
+  "Proficiency in SQL for data validation and issue troubleshooting",
+  "Proven root cause analysis ability to solve complex quality problems",
+  "Familiarity with Web front-end technologies (HTML/CSS/JS) and mobile platform fundamentals (Android/iOS architecture and characteristics)",
+  "Experience building testing tools, platforms, or quality infrastructure"
+ ],
+ "responsibilities": [
+  "In one sentence: This role is the quality gatekeeper for Web/App products — someone who can write automation scripts, test interaction experiences, investigate data issues, and use engineering methods to replace manual testing with systematic automated quality coverage. Not a manual tester — a QA engineer with real coding ability.",
+  "Design and maintain comprehensive Web/App test cases and test plans covering functionality, compatibility, and interaction",
+  "Develop and maintain UI/API automated tests using Java, Python, or JavaScript to ensure high coverage and reliability",
+  "Combine automation and manual exploratory testing to validate user scenarios and discover potential experience issues",
+  "Perform root cause analysis on test failures and production issues, and drive fixes to closure",
+  "Identify blind spots in test coverage and continuously improve automation effectiveness",
+  "Participate in testing for new features — define expected behaviors, system impact, and risk points from a user-experience perspective"
+ ],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 84,
+  "comp": 60,
+  "company": 95,
+  "location": 100,
+  "seniority": 100,
+  "skill": 61
+ },
+ "seniority": "unspecified",
+ "snippet": "Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an unmatched portfolio of digital-asset products. Binance offerings range from trading and finance to education, research, ",
+ "source_primary": "Himalayas",
+ "sources": [
+  {
+   "id": "himalayas",
+   "job_id": "https://himalayas.app/companies/binance/jobs/web-app-test-engineer",
+   "kind": "board",
+   "name": "Himalayas",
+   "posted_at": "2026-11-01T12:21:07Z",
+   "seen_at": "2026-11-05T09:05:09Z",
+   "url": "https://himalayas.app/companies/binance/jobs/web-app-test-engineer?utm_source=api"
+  }
+ ],
+ "specializations": [
+  "Android",
+  "iOS",
+  "Mobile apps",
+  "Web apps"
+ ],
+ "status": "active",
+ "tier": 1,
+ "title": "Web/App Test Engineer",
+ "tools": [
+  "Compatibility testing",
+  "Stress / load testing",
+  "Exploratory testing",
+  "Test cases & scenarios",
+  "SQL / databases",
+  "Test automation",
+  "Programming",
+  "Device logs (ADB/Charles)"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://himalayas.app/companies/binance/jobs/web-app-test-engineer?utm_source=api",
+ "why": [
+  "Already on your resume: Compatibility testing, Stress / load testing, Exploratory testing, Test cases & scenarios",
+  "Platforms you test on: Android, iOS, Mobile apps",
+  "Fintech company",
+  "Asks for 1–5 years — you have about 2.5",
+  "Location lists India"
+ ],
+ "work_mode": "remote",
+ "years_max": 5,
+ "years_min": 1
+}

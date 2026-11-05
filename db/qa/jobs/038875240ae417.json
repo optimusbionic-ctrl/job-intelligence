@@ -1,0 +1,108 @@
+{
+ "apply_url": null,
+ "board_apply": "https://jobs.workable.com/view/fJPmPMrpqeBc8V8XYnVVEg/test-engineer-(client-onsite)-in-hyderabad-at-side",
+ "category": "Game studio",
+ "comp_potential": "unknown",
+ "company": "Side",
+ "company_slug": "side",
+ "concerns": [
+  "Also asks for: Test management (TestRail/Zephyr), Localization",
+  "Office outside Mumbai — relocation within India",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "652e8b6c9994",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-05T09:05:09Z",
+ "fit": 82,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "038875240ae417",
+ "include_reason": "Game QA engineer / analyst",
+ "india": {
+  "cities": [
+   "Hyderabad"
+  ],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "game-qa-engineer",
+ "last_verified": "2026-11-05T09:05:09Z",
+ "location": "Hyderabad, Telangana, India",
+ "logo": "https://workablehr.s3.amazonaws.com/uploads/account/logo/302673/logo",
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-11-05T08:29:42Z",
+ "repost": false,
+ "requirements": [
+  "Identify, log, and track defects with clear reproduction steps to support efficient resolution",
+  "Validate gameplay mechanics, UI/UX, performance, and overall player experience",
+  "Follow defined QA processes, test guidelines, and documentation standards",
+  "Support QA activities within the assigned pod by following defined processes and priorities",
+  "Adhere to established QA standards and best practices",
+  "Actively participate in Agile ceremonies such as stand‑ups, sprint reviews, and retrospectives",
+  "Collaborate closely with developers, and QA team members to ensure high‑quality deliverables"
+ ],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 82,
+  "comp": 60,
+  "company": 96,
+  "location": 60,
+  "seniority": 84,
+  "skill": 92
+ },
+ "seniority": "unspecified",
+ "snippet": "Side is looking for a dedicated Test Engineer to join our team. In this role, you will be responsible for executing test cases, identifying defects, and ensuring the quality of our gaming products during nighttime operations. You will work closely with the development and QA teams to maintain rigorous testing standards and timely bug reporting.\n The position requires a detail-oriented individual who can work independ",
+ "source_primary": "Workable job marketplace",
+ "sources": [
+  {
+   "id": "workable",
+   "job_id": "775a5d99-4a34-4c10-b5f5-52c263e298f7",
+   "kind": "board",
+   "name": "Workable job marketplace",
+   "posted_at": "2026-11-05T08:29:42Z",
+   "seen_at": "2026-11-05T09:05:09Z",
+   "url": "https://jobs.workable.com/view/fJPmPMrpqeBc8V8XYnVVEg/test-engineer-(client-onsite)-in-hyderabad-at-side"
+  }
+ ],
+ "specializations": [
+  "Android",
+  "iOS"
+ ],
+ "status": "active",
+ "tier": 1,
+ "title": "Test Engineer (Client Onsite)",
+ "tools": [
+  "Regression testing",
+  "Exploratory testing",
+  "Gameplay testing",
+  "Test cases & scenarios",
+  "Bug reporting",
+  "Jira",
+  "Test management (TestRail/Zephyr)",
+  "Agile / Scrum",
+  "Localization"
+ ],
+ "track": "game",
+ "updated_at": null,
+ "url": "https://jobs.workable.com/view/fJPmPMrpqeBc8V8XYnVVEg/test-engineer-(client-onsite)-in-hyderabad-at-side",
+ "why": [
+  "Game QA role at engineer/analyst level",
+  "Already on your resume: Regression testing, Exploratory testing, Gameplay testing, Test cases & scenarios, Bug reporting, Jira",
+  "Platforms you test on: Android, iOS",
+  "Game studio company",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": 3,
+ "years_min": null
+}
