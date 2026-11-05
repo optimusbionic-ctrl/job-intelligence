@@ -15,11 +15,21 @@
     "Canada",
     "Spain",
     "United Kingdom",
-    "France",
-    "Switzerland"
+    "Germany",
+    "France"
    ],
-   "india": 369,
+   "india": 381,
    "india_samples": [
+    {
+     "location": "India",
+     "title": "(Sr.) QA Automation Engineer",
+     "url": "https://jobs.lever.co/jobgether/26992f37-6692-4f12-a3ce-ddb2d880fbdc"
+    },
+    {
+     "location": "India",
+     "title": "(Sr.) QA Engineer",
+     "url": "https://jobs.lever.co/jobgether/9f607b30-967a-4e0a-873a-7966e0374b39"
+    },
     {
      "location": "India",
      "title": "AI Enablement & Governance Analyst",
@@ -29,21 +39,11 @@
      "location": "India",
      "title": "AI Engineer",
      "url": "https://jobs.lever.co/jobgether/9c435da2-bc0d-42d4-b27a-52de1e89e06b"
-    },
-    {
-     "location": "India",
-     "title": "AI Engineer (LLM Agents & Workflow Automation)",
-     "url": "https://jobs.lever.co/jobgether/00b20ada-2aa0-4230-bca1-0c1d5a6b52ef"
-    },
-    {
-     "location": "India",
-     "title": "AI Research Engineer (Agentic Reinforcement Learning)",
-     "url": "https://jobs.lever.co/jobgether/6b2ef45d-1f71-494c-9b59-9ea39bc34072"
     }
    ],
    "open_samples": [],
-   "remote": 3916,
-   "restricted_remote": 3547,
+   "remote": 4010,
+   "restricted_remote": 3629,
    "restricted_samples": [
     {
      "location": "US",
@@ -67,17 +67,17 @@
     }
    ],
    "slug": "jobgether",
-   "total": 3916,
+   "total": 4010,
    "type": "lever",
    "url": "https://jobs.lever.co/jobgether",
    "worldwide": 0
   },
-  "changed_at": "2026-11-05T01:08:38Z",
+  "changed_at": "2026-11-05T03:00:01Z",
   "evidence": [
    {
-    "detail": "AI Enablement & Governance Analyst (India); AI Engineer (India); AI Engineer (LLM Agents & Workflow Automation) (India)",
+    "detail": "(Sr.) QA Automation Engineer (India); (Sr.) QA Engineer (India); AI Enablement & Governance Analyst (India)",
     "kind": "board",
-    "label": "369 of 3916 open roles are located in India",
+    "label": "381 of 4010 open roles are located in India",
     "url": "https://jobs.lever.co/jobgether",
     "weight": 5
    },
@@ -92,8 +92,8 @@
   "first_checked_at": "2026-10-19T13:24:59Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "ddeec554e9",
-  "summary": "369 of 3916 open roles are located in India.",
+  "sig": "509f707c15",
+  "summary": "381 of 4010 open roles are located in India.",
   "verdict": "yes"
  },
  "inferred": true,
