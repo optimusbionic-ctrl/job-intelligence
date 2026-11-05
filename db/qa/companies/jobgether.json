@@ -11,14 +11,14 @@
    "countries": [
     "United States",
     "India",
-    "Brazil",
     "Canada",
+    "Brazil",
     "Spain",
-    "United Kingdom",
     "France",
+    "United Kingdom",
     "Switzerland"
    ],
-   "india": 426,
+   "india": 363,
    "india_samples": [
     {
      "location": "India",
@@ -37,13 +37,13 @@
     },
     {
      "location": "India",
-     "title": "AI Engineer",
-     "url": "https://jobs.lever.co/jobgether/9c435da2-bc0d-42d4-b27a-52de1e89e06b"
+     "title": "AI Engineer (LLM Agents & Workflow Automation)",
+     "url": "https://jobs.lever.co/jobgether/00b20ada-2aa0-4230-bca1-0c1d5a6b52ef"
     }
    ],
    "open_samples": [],
-   "remote": 4710,
-   "restricted_remote": 4284,
+   "remote": 4201,
+   "restricted_remote": 3838,
    "restricted_samples": [
     {
      "location": "US",
@@ -67,17 +67,17 @@
     }
    ],
    "slug": "jobgether",
-   "total": 4710,
+   "total": 4201,
    "type": "lever",
    "url": "https://jobs.lever.co/jobgether",
    "worldwide": 0
   },
-  "changed_at": "2026-11-05T18:58:29Z",
+  "changed_at": "2026-11-05T20:54:43Z",
   "evidence": [
    {
     "detail": "(Sr.) QA Automation Engineer (India); (Sr.) QA Engineer (India); AI Enablement & Governance Analyst (India)",
     "kind": "board",
-    "label": "426 of 4710 open roles are located in India",
+    "label": "363 of 4201 open roles are located in India",
     "url": "https://jobs.lever.co/jobgether",
     "weight": 5
    },
@@ -92,8 +92,8 @@
   "first_checked_at": "2026-10-19T13:24:59Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "7a5be332e7",
-  "summary": "426 of 4710 open roles are located in India.",
+  "sig": "da58bd069a",
+  "summary": "363 of 4201 open roles are located in India.",
   "verdict": "yes"
  },
  "inferred": true,

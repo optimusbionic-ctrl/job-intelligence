@@ -1,18 +1,20 @@
 {
  "apply_url": null,
- "board_apply": "https://www.shine.com/jobs/testing-engineer/aviyana-ventures-pvt-ltd/19785250",
+ "board_apply": "https://www.shine.com/jobs/testing-engineer/aviyana-ventures-pvt-ltd/19982678",
  "category": "Other",
  "comp_potential": "listed",
  "company": "Aviyana Ventures Pvt. Ltd.",
  "company_slug": "aviyana-ventures-pvt-ltd",
- "concerns": [],
+ "concerns": [
+  "Reposted / refreshed listing — original posting is older"
+ ],
  "contacts_count": 0,
- "content_hash": "7398d6f8b432",
+ "content_hash": "0707a5531568",
  "date_quality": "exact",
  "deadline": null,
  "employment": "full-time",
  "first_seen": "2026-10-23T21:44:08Z",
- "fit": 76,
+ "fit": 69,
  "has_hiring_manager": false,
  "has_named_contact": false,
  "has_public_email": false,
@@ -28,77 +30,67 @@
   "visa": false
  },
  "kind": "qa-engineer",
- "last_verified": "2026-10-28T16:44:03Z",
- "location": "Mumbai City, Dombivali, Kalyan, Bhiwandi, India",
+ "last_verified": "2026-11-05T20:54:43Z",
+ "location": "Mumbai City, Thane, India",
  "logo": null,
  "needs_review": false,
  "official": false,
- "posted_at": "2026-10-09T16:22:52Z",
- "repost": false,
- "requirements": [],
+ "posted_at": "2026-10-31T17:57:26Z",
+ "repost": true,
+ "requirements": [
+  "(Summary from the Shine.com listing; open the posting for the full description.)"
+ ],
  "responsibilities": [],
  "salary": {
   "applies_india": true,
   "basis": "listed",
   "currency": "INR",
-  "fx_at": "Wed, 28 Oct 2026 00:02:31 +0000",
-  "fx_rate": 1,
-  "inr_max": 400000,
-  "inr_min": 300000,
-  "max": 400000,
-  "min": 300000,
+  "fx_at": "Thu, 05 Nov 2026 00:02:31 +0000",
+  "fx_rate": 1.0,
+  "inr_max": 250000,
+  "inr_min": 150000,
+  "max": 250000,
+  "min": 150000,
   "note": "Listed in the posting",
   "original_period": "annual",
   "period": "annual",
   "source_name": "Shine.com",
-  "source_url": "https://www.shine.com/jobs/testing-engineer/aviyana-ventures-pvt-ltd/19785250",
+  "source_url": "https://www.shine.com/jobs/testing-engineer/aviyana-ventures-pvt-ltd/19982678",
   "state": "verified",
-  "verified_at": "2026-10-28T16:44:03Z"
+  "verified_at": "2026-11-05T20:54:43Z"
  },
  "scores": {
   "ai": 58,
-  "comp": 78,
+  "comp": 58,
   "company": 66,
   "location": 100,
   "seniority": 100,
-  "skill": 57
+  "skill": 43
  },
  "seniority": "unspecified",
- "snippet": "Experience: 2 to 5 Yrs\nSkills: troubleshooting, functional testing, electrical panel testing, transformer testing, stabilizer testing\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "snippet": "Experience: 2 to 5 Yrs\nSkills: testing, electrical engineering\n(Summary from the Shine.com listing; open the posting for the full description.)",
  "source_primary": "Shine.com",
  "sources": [
   {
    "id": "shine",
-   "job_id": "19785250",
+   "job_id": "19982678",
    "kind": "board",
    "name": "Shine.com",
-   "posted_at": "2026-10-12T15:38:31Z",
-   "seen_at": "2026-10-28T16:44:03Z",
-   "url": "https://www.shine.com/jobs/testing-engineer/aviyana-ventures-pvt-ltd/19785250"
-  },
-  {
-   "id": "shine",
-   "job_id": "19758058",
-   "kind": "board",
-   "name": "Shine.com",
-   "posted_at": "2026-10-09T16:22:52Z",
-   "seen_at": "2026-10-28T16:44:03Z",
-   "url": "https://www.shine.com/jobs/testing-engineer/aviyana-ventures-pvt-ltd/19758058"
+   "posted_at": "2026-10-31T17:57:26Z",
+   "seen_at": "2026-11-05T20:54:43Z",
+   "url": "https://www.shine.com/jobs/testing-engineer/aviyana-ventures-pvt-ltd/19982678"
   }
  ],
  "specializations": [],
  "status": "active",
  "tier": 3,
  "title": "Testing Engineer",
- "tools": [
-  "Functional testing"
- ],
+ "tools": [],
  "track": "software",
  "updated_at": null,
- "url": "https://www.shine.com/jobs/testing-engineer/aviyana-ventures-pvt-ltd/19785250",
+ "url": "https://www.shine.com/jobs/testing-engineer/aviyana-ventures-pvt-ltd/19982678",
  "why": [
   "QA / test engineer role",
-  "Already on your resume: Functional testing",
   "Asks for 2–5 years — you have about 2.5",
   "Pay is listed in the posting",
   "Location lists India"

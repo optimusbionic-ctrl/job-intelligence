@@ -1,0 +1,98 @@
+{
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/qa-tester-for-hrms/infovision-hr-consulting-services-pvt-ltd/20011176",
+ "category": "Recruiter (client not named)",
+ "comp_potential": "unknown",
+ "company": "Infovision HR Consulting Services Pvt Ltd",
+ "company_slug": "infovision-hr-consulting-services-pvt-ltd",
+ "concerns": [
+  "Pay not disclosed — ask for the range early",
+  "Reposted / refreshed listing — original posting is older"
+ ],
+ "contacts_count": 0,
+ "content_hash": "2f9ad1db9125",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-05T20:54:43Z",
+ "fit": 75,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "86c42f78bc5009",
+ "include_reason": "Manual / functional QA title",
+ "india": {
+  "cities": [
+   "Mumbai"
+  ],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "manual-qa",
+ "last_verified": "2026-11-05T20:54:43Z",
+ "location": "Panvel, Navi Mumbai, Thane, Mumbai City, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-10-31T16:32:29Z",
+ "repost": true,
+ "requirements": [
+  "(Summary from the Shine.com listing; open the posting for the full description.)"
+ ],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 60,
+  "company": 66,
+  "location": 100,
+  "seniority": 94,
+  "skill": 64
+ },
+ "seniority": "unspecified",
+ "snippet": "Experience: 3 to 8 Yrs\nSkills: hrms, testing, qa, test cases, hr domain, modules\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "20011176",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-11-04T21:58:17Z",
+   "seen_at": "2026-11-05T20:54:43Z",
+   "url": "https://www.shine.com/jobs/qa-tester-for-hrms/infovision-hr-consulting-services-pvt-ltd/20011176"
+  },
+  {
+   "id": "shine",
+   "job_id": "19980151",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-10-31T16:32:29Z",
+   "seen_at": "2026-11-05T20:54:43Z",
+   "url": "https://www.shine.com/jobs/hrms-qa-tester/infovision-hr-consulting-services-pvt-ltd/19980151"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 3,
+ "title": "QA Tester for HRMS",
+ "tools": [
+  "Test cases & scenarios"
+ ],
+ "track": "software",
+ "updated_at": "2026-11-04T21:58:17Z",
+ "url": "https://www.shine.com/jobs/qa-tester-for-hrms/infovision-hr-consulting-services-pvt-ltd/20011176",
+ "why": [
+  "Manual / functional QA — the core of your resume",
+  "Already on your resume: Test cases & scenarios",
+  "Asks for 3+ years — you have about 2.5",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": 8,
+ "years_min": 3
+}
