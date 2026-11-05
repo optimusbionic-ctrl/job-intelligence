@@ -26,12 +26,12 @@
     }
    ],
    "slug": "mercor",
-   "total": 91,
+   "total": 90,
    "type": "ashby",
    "url": "https://jobs.ashbyhq.com/mercor",
    "worldwide": 0
   },
-  "changed_at": "2026-11-05T19:57:16Z",
+  "changed_at": "2026-11-05T21:51:29Z",
   "evidence": [
    {
     "detail": "Linguistic QA Expert - Fully Remote | Upto $18/hr — India",
@@ -43,7 +43,7 @@
    {
     "detail": "None are located in India or open worldwide; 1 remote role is limited to named countries",
     "kind": "board",
-    "label": "All 91 open roles are in United States, Mexico and United Kingdom",
+    "label": "All 90 open roles are in United States, Mexico and United Kingdom",
     "url": "https://jobs.ashbyhq.com/mercor",
     "weight": -3
    }
@@ -51,7 +51,7 @@
   "first_checked_at": "2026-10-20T08:44:35Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "b59c505aa9",
+  "sig": "526c168b07",
   "summary": "A current posting lists India as a location.",
   "verdict": "yes"
  },
