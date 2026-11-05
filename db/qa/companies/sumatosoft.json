@@ -1,0 +1,38 @@
+{
+ "category": "Fintech",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-05T00:45:26Z",
+  "evidence": [
+   {
+    "detail": "QA Engineer — Worldwide",
+    "kind": "posting",
+    "label": "A current posting is open worldwide",
+    "url": "https://himalayas.app/companies/sumatosoft/jobs/qa-engineer?utm_source=api",
+    "weight": 3
+   },
+   {
+    "detail": "…Healthcare, FinTech and other industries for more than 100 companies from 25+ countries, including the USA since 2012.  ﻿***You will work in a small team (no…",
+    "kind": "posting",
+    "label": "Posting describes hiring across countries",
+    "url": "https://himalayas.app/companies/sumatosoft/jobs/qa-engineer?utm_source=api",
+    "weight": 3
+   }
+  ],
+  "first_checked_at": "2026-11-05T00:45:26Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "f532f4f461",
+  "summary": "No India-located roles found, but a current posting is open worldwide.",
+  "verdict": "likely"
+ },
+ "inferred": true,
+ "logo": "https://cdn-images.himalayas.app/vuprfrc50ke292oxy8bddthzau1g",
+ "name": "SumatoSoft",
+ "slug": "sumatosoft",
+ "tier": 1,
+ "tracks": [
+  "software"
+ ]
+}

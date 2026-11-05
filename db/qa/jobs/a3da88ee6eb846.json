@@ -1,0 +1,113 @@
+{
+ "apply_url": null,
+ "board_apply": "https://himalayas.app/companies/sumatosoft/jobs/qa-engineer?utm_source=api",
+ "category": "Fintech",
+ "comp_potential": "unknown",
+ "company": "SumatoSoft",
+ "company_slug": "sumatosoft",
+ "concerns": [
+  "Also asks for: Test management (TestRail/Zephyr), API testing, SQL / databases",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "1449f763da20",
+ "date_quality": "exact",
+ "deadline": "2027-01-03T22:19:05Z",
+ "employment": "full-time",
+ "first_seen": "2026-11-05T00:45:26Z",
+ "fit": 82,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "a3da88ee6eb846",
+ "include_reason": "QA / test engineer title",
+ "india": {
+  "cities": [],
+  "company": "likely",
+  "reason": "Worldwide remote",
+  "status": "likely",
+  "visa": false
+ },
+ "kind": "qa-engineer",
+ "last_verified": "2026-11-05T00:45:26Z",
+ "location": "Worldwide",
+ "logo": "https://cdn-images.himalayas.app/vuprfrc50ke292oxy8bddthzau1g",
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-11-04T22:19:07Z",
+ "repost": false,
+ "requirements": [
+  "Communicate with Business Analyst, developers, Product owners and other team members.",
+  "Estimate required testing activities.",
+  "Perform ﻿work progress providing for team members on sprint meeting and by request.",
+  "Work under 2 projects in parallel."
+ ],
+ "responsibilities": [
+  "Plan and run all needed manual functional testing, cross-browser/cross-platforms (mobile devices), acceptance testing. Plan and execute regression testing with reasonable coverage.",
+  "Test strategy preparation and execution (for different phases of the Project) according project goals and resources (with QA Lead helping).",
+  "Create optimal Test Documentation: Test Plans, check-list/test cases, other types of test Documents (tables, MindMaps, Schemas and etc.)",
+  "Make requirements analysis and clarification blank spots.",
+  "Communicate with Business Analyst, developers, Product owners and other team members.",
+  "Estimate required testing activities.",
+  "Perform ﻿work progress providing for team members on sprint meeting and by request."
+ ],
+ "salary": {
+  "context_benchmark": "qa-dataset-remote",
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 84,
+  "comp": 60,
+  "company": 95,
+  "location": 86,
+  "seniority": 84,
+  "skill": 80
+ },
+ "seniority": "unspecified",
+ "snippet": "SumatoSoft is a software development company that focuses on helping businesses to reach their goals and needs, assigns experienced software development teams with the main focus in RoR, React.js and Node.js technologies, guarantees transparent workflows and communication, and uses the best industry practices ensuring continuous value delivery.\n ‍Having developed more than 150 custom solutions in IoT, Healthcare, Fin",
+ "source_primary": "Himalayas",
+ "sources": [
+  {
+   "id": "himalayas",
+   "job_id": "https://himalayas.app/companies/sumatosoft/jobs/qa-engineer",
+   "kind": "board",
+   "name": "Himalayas",
+   "posted_at": "2026-11-04T22:19:07Z",
+   "seen_at": "2026-11-05T00:45:26Z",
+   "url": "https://himalayas.app/companies/sumatosoft/jobs/qa-engineer?utm_source=api"
+  }
+ ],
+ "specializations": [
+  "Android",
+  "Mobile apps",
+  "Web apps"
+ ],
+ "status": "active",
+ "tier": 1,
+ "title": "QA Engineer",
+ "tools": [
+  "Functional testing",
+  "Regression testing",
+  "Compatibility testing",
+  "Test cases & scenarios",
+  "Jira",
+  "Test management (TestRail/Zephyr)",
+  "API testing",
+  "SQL / databases",
+  "Programming",
+  "Agile / Scrum"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://himalayas.app/companies/sumatosoft/jobs/qa-engineer?utm_source=api",
+ "why": [
+  "QA / test engineer role",
+  "Already on your resume: Functional testing, Regression testing, Compatibility testing, Test cases & scenarios, Jira",
+  "Platforms you test on: Android, Mobile apps",
+  "Fintech company",
+  "Worldwide remote"
+ ],
+ "work_mode": "remote",
+ "years_max": null,
+ "years_min": null
+}
