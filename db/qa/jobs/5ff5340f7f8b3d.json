@@ -6,11 +6,10 @@
  "company": "Workwaves",
  "company_slug": "workwaves",
  "concerns": [
-  "Office outside Mumbai — relocation within India",
-  "Reposted / refreshed listing — original posting is older"
+  "Office outside Mumbai — relocation within India"
  ],
  "contacts_count": 0,
- "content_hash": "5199df72a3d5",
+ "content_hash": "cb8fe87a443d",
  "date_quality": "exact",
  "deadline": null,
  "employment": "full-time",
@@ -29,13 +28,13 @@
   "visa": false
  },
  "kind": "manual-qa",
- "last_verified": "2026-11-05T03:58:19Z",
- "location": "Ahmednagar, Bhopal, Bhubaneswar, Asansol, Dhubri, Chandigarh, India",
+ "last_verified": "2026-11-05T05:02:46Z",
+ "location": "Ahmednagar, Bhagalpur, Asansol, Bhopal, Chandigarh, Dhubri, India",
  "logo": null,
  "needs_review": false,
  "official": false,
- "posted_at": "2026-11-04T21:36:22Z",
- "repost": true,
+ "posted_at": "2026-10-30T23:14:14Z",
+ "repost": false,
  "requirements": [
   "(Summary from the Shine.com listing; open the posting for the full description.)"
  ],
@@ -56,7 +55,7 @@
   "source_name": "Shine.com",
   "source_url": "https://www.shine.com/jobs/software-tester/workwaves/19975711",
   "state": "verified",
-  "verified_at": "2026-11-05T03:58:19Z"
+  "verified_at": "2026-11-05T05:02:46Z"
  },
  "scores": {
   "ai": 58,
@@ -75,8 +74,8 @@
    "job_id": "19975711",
    "kind": "board",
    "name": "Shine.com",
-   "posted_at": "2026-11-04T21:36:22Z",
-   "seen_at": "2026-11-05T03:58:19Z",
+   "posted_at": "2026-10-30T23:14:14Z",
+   "seen_at": "2026-11-05T05:02:46Z",
    "url": "https://www.shine.com/jobs/software-tester/workwaves/19975711"
   }
  ],
