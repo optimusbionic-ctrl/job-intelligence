@@ -12,7 +12,7 @@
     "India",
     "United States"
    ],
-   "india": 10,
+   "india": 11,
    "india_samples": [
     {
      "location": "SpotDraft HQ, Bengaluru",
@@ -61,17 +61,17 @@
     }
    ],
    "slug": "spotdraft",
-   "total": 15,
+   "total": 16,
    "type": "ashby",
    "url": "https://jobs.ashbyhq.com/spotdraft",
    "worldwide": 0
   },
-  "changed_at": "2026-11-03T18:34:57Z",
+  "changed_at": "2026-11-05T11:10:21Z",
   "evidence": [
    {
     "detail": "Account Executive - APAC (SpotDraft HQ, Bengaluru); Associate Product Manager (SpotDraft HQ, Bengaluru); Chief Of Staff to the CTO (SpotDraft HQ, Bengaluru)",
     "kind": "board",
-    "label": "10 of 15 open roles are located in India",
+    "label": "11 of 16 open roles are located in India",
     "url": "https://jobs.ashbyhq.com/spotdraft",
     "weight": 5
    },
@@ -86,8 +86,8 @@
   "first_checked_at": "2026-11-03T18:34:57Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "e96c24e4b1",
-  "summary": "10 of 15 open roles are located in India.",
+  "sig": "40393456ef",
+  "summary": "11 of 16 open roles are located in India.",
   "verdict": "yes"
  },
  "inferred": true,
