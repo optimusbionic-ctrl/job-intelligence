@@ -18,7 +18,7 @@
     "France",
     "Switzerland"
    ],
-   "india": 359,
+   "india": 369,
    "india_samples": [
     {
      "location": "India",
@@ -42,8 +42,8 @@
     }
    ],
    "open_samples": [],
-   "remote": 3868,
-   "restricted_remote": 3509,
+   "remote": 3916,
+   "restricted_remote": 3547,
    "restricted_samples": [
     {
      "location": "US",
@@ -67,17 +67,17 @@
     }
    ],
    "slug": "jobgether",
-   "total": 3868,
+   "total": 3916,
    "type": "lever",
    "url": "https://jobs.lever.co/jobgether",
    "worldwide": 0
   },
-  "changed_at": "2026-11-04T21:27:32Z",
+  "changed_at": "2026-11-05T01:08:38Z",
   "evidence": [
    {
     "detail": "AI Enablement & Governance Analyst (India); AI Engineer (India); AI Engineer (LLM Agents & Workflow Automation) (India)",
     "kind": "board",
-    "label": "359 of 3868 open roles are located in India",
+    "label": "369 of 3916 open roles are located in India",
     "url": "https://jobs.lever.co/jobgether",
     "weight": 5
    },
@@ -92,8 +92,8 @@
   "first_checked_at": "2026-10-19T13:24:59Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "d34d8f2f4d",
-  "summary": "359 of 3868 open roles are located in India.",
+  "sig": "ddeec554e9",
+  "summary": "369 of 3916 open roles are located in India.",
   "verdict": "yes"
  },
  "inferred": true,
