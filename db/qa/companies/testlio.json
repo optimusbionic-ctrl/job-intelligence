@@ -1,0 +1,77 @@
+{
+ "aliases": [
+  "Testlio"
+ ],
+ "ats": {
+  "slug": "testlio",
+  "type": "greenhouse"
+ },
+ "careers": "https://job-boards.greenhouse.io/testlio",
+ "category": "Crowd testing platform",
+ "classification": "QA Intelligence registry (curated)",
+ "domain": "testlio.com",
+ "facts_note": "Category from public company information; funding not verified",
+ "india_hiring": {
+  "board": {
+   "apac": 0,
+   "countries": [
+    "France",
+    "Netherlands",
+    "Peru"
+   ],
+   "india": 0,
+   "india_samples": [],
+   "open_samples": [
+    {
+     "location": "Global",
+     "title": "QA Analyst (Future Roles)",
+     "url": "https://job-boards.greenhouse.io/testlio/jobs/6979353"
+    },
+    {
+     "location": "Global",
+     "title": "QA Tester (Future Roles)",
+     "url": "https://job-boards.greenhouse.io/testlio/jobs/6953297"
+    }
+   ],
+   "remote": 10,
+   "restricted_remote": 0,
+   "restricted_samples": [],
+   "slug": "testlio",
+   "total": 16,
+   "type": "greenhouse",
+   "url": "https://boards.greenhouse.io/testlio",
+   "worldwide": 2
+  },
+  "changed_at": "2026-11-05T06:45:35Z",
+  "evidence": [
+   {
+    "detail": "QA Analyst (Future Roles) (Global); QA Tester (Future Roles) (Global)",
+    "kind": "board",
+    "label": "2 open roles are open worldwide or to APAC",
+    "url": "https://boards.greenhouse.io/testlio",
+    "weight": 3
+   },
+   {
+    "detail": "QA Tester (Future Roles) — Anywhere",
+    "kind": "posting",
+    "label": "A current posting is open worldwide",
+    "url": "https://job-boards.greenhouse.io/testlio/jobs/6953297",
+    "weight": 3
+   }
+  ],
+  "first_checked_at": "2026-11-05T06:45:35Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "2bcf5f3992",
+  "summary": "No India-located roles found, but 2 open roles are open worldwide or to APAC.",
+  "verdict": "likely"
+ },
+ "logo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/11024036-221.png",
+ "name": "Testlio",
+ "slug": "testlio",
+ "tier": 2,
+ "tracks": [
+  "software",
+  "game"
+ ]
+}

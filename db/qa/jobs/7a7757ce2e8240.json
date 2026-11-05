@@ -1,0 +1,124 @@
+{
+ "apply_url": "https://job-boards.greenhouse.io/testlio/jobs/6953297",
+ "board_apply": null,
+ "category": "Crowd testing platform",
+ "comp_potential": "unknown",
+ "company": "Testlio",
+ "company_slug": "testlio",
+ "concerns": [
+  "Also asks for: Test management (TestRail/Zephyr), API testing, Device logs (ADB/Charles)",
+  "Pay not disclosed — ask for the range early",
+  "Crowd testing platform company (client projects)",
+  "Contract role",
+  "Reposted / refreshed listing — original posting is older"
+ ],
+ "contacts_count": 1,
+ "content_hash": "db2a614c41bb",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "contract",
+ "first_seen": "2026-11-05T06:45:35Z",
+ "fit": 79,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "7a7757ce2e8240",
+ "include_reason": "Freelance / crowd-testing role",
+ "india": {
+  "cities": [],
+  "company": "likely",
+  "reason": "Worldwide remote",
+  "status": "likely",
+  "visa": false
+ },
+ "kind": "crowd",
+ "last_verified": "2026-11-05T06:45:35Z",
+ "location": "Anywhere",
+ "logo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/11024036-221.png",
+ "needs_review": false,
+ "official": true,
+ "posted_at": "2025-06-11T19:01:01Z",
+ "repost": true,
+ "requirements": [
+  "Internet Connection : A reliable, high-speed internet connection is required for testing and team communications. Mobile hotspots and other unstable or limited connections are not suitable."
+ ],
+ "responsibilities": [
+  "Execute smoke, scripted, and exploratory test cases on mobile, web, and desktop platforms.",
+  "Conduct functional, localization, regression, or payment testing to ensure software applications meet quality standards.",
+  "Reproduce issues found during testing.",
+  "Document and report test results, including bugs and potential risks. Clearly communicate findings to the development team and stakeholders.",
+  "Configure and prepare test environments per the provided instructions.",
+  "Work closely with cross-functional teams to ensure software products are delivered on time and meet customer expectations.",
+  "Design and optimize appropriate test data."
+ ],
+ "salary": {
+  "context_benchmark": "qa-dataset-remote",
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 92,
+  "comp": 60,
+  "company": 76,
+  "location": 86,
+  "seniority": 84,
+  "skill": 77
+ },
+ "seniority": "unspecified",
+ "snippet": "About Testlio\n\n Testlio’s fully managed crowdsourced testing platform, powered by our proprietary intelligence technology – LeoAI Engine TM , integrates expert, on-demand testers directly into your release process. Ship faster and more confidently with global coverage across 600,000+ devices, 800+ payment methods, 150+ countries, and 100+ languages. To learn more, visit www.testlio.com .\n\n This job post is to keep in",
+ "source_primary": "Testlio careers (Greenhouse)",
+ "sources": [
+  {
+   "id": "greenhouse",
+   "job_id": "gh:testlio:6953297",
+   "kind": "ats",
+   "name": "Testlio careers (Greenhouse)",
+   "posted_at": "2025-06-11T19:01:01Z",
+   "seen_at": "2026-11-05T06:45:35Z",
+   "url": "https://job-boards.greenhouse.io/testlio/jobs/6953297"
+  },
+  {
+   "id": "jobicy",
+   "job_id": "152401",
+   "kind": "board",
+   "name": "Jobicy",
+   "posted_at": "2026-11-05T03:10:07Z",
+   "seen_at": "2026-11-05T06:45:35Z",
+   "url": "https://jobicy.com/jobs/152401-qa-tester-future-roles"
+  }
+ ],
+ "specializations": [
+  "Android",
+  "iOS",
+  "Windows / PC",
+  "Mobile apps",
+  "Web apps"
+ ],
+ "status": "verified",
+ "tier": 2,
+ "title": "QA Tester (Future Roles)",
+ "tools": [
+  "Regression testing",
+  "Exploratory testing",
+  "Test cases & scenarios",
+  "Bug reporting",
+  "Jira",
+  "Google Sheets / Excel",
+  "Test management (TestRail/Zephyr)",
+  "API testing",
+  "Agile / Scrum",
+  "Device logs (ADB/Charles)",
+  "Localization"
+ ],
+ "track": "software",
+ "updated_at": "2026-11-05T03:10:07Z",
+ "url": "https://job-boards.greenhouse.io/testlio/jobs/6953297",
+ "why": [
+  "Freelance / crowd testing — paid per test cycle, remote",
+  "Already on your resume: Regression testing, Exploratory testing, Test cases & scenarios, Bug reporting, Jira, Google Sheets / Excel",
+  "Platforms you test on: Android, iOS, Windows / PC, Mobile apps",
+  "Worldwide remote"
+ ],
+ "work_mode": "remote",
+ "years_max": null,
+ "years_min": null
+}
