@@ -1,0 +1,102 @@
+{
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/servicenow-qa-tester/tawade-consultancy-services/20016065",
+ "category": "Recruiter (client not named)",
+ "comp_potential": "listed_good",
+ "company": "Tawade Consultancy services",
+ "company_slug": "tawade-consultancy-services",
+ "concerns": [
+  "Entry-level role — pay may be at the lower end",
+  "Office outside Mumbai — relocation within India"
+ ],
+ "contacts_count": 0,
+ "content_hash": "41aad487797a",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-06T11:56:17Z",
+ "fit": 68,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "f99203953d8bd5",
+ "include_reason": "Manual / functional QA title",
+ "india": {
+  "cities": [
+   "Pune"
+  ],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "manual-qa",
+ "last_verified": "2026-11-06T11:56:17Z",
+ "location": "Pune, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-11-05T20:08:56Z",
+ "repost": false,
+ "requirements": [
+  "(Summary from the Shine.com listing; open the posting for the full description.)"
+ ],
+ "responsibilities": [],
+ "salary": {
+  "applies_india": true,
+  "basis": "listed",
+  "currency": "INR",
+  "fx_at": "Fri, 06 Nov 2026 00:02:31 +0000",
+  "fx_rate": 1.0,
+  "inr_max": 2400000,
+  "inr_min": 1000000,
+  "max": 2400000,
+  "min": 1000000,
+  "note": "Listed in the posting",
+  "original_period": "annual",
+  "period": "annual",
+  "source_name": "Shine.com",
+  "source_url": "https://www.shine.com/jobs/servicenow-qa-tester/tawade-consultancy-services/20016065",
+  "state": "verified",
+  "verified_at": "2026-11-06T11:56:17Z"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 100,
+  "company": 66,
+  "location": 78,
+  "seniority": 80,
+  "skill": 50
+ },
+ "seniority": "unspecified",
+ "snippet": "Experience: 0 Yrs\nSkills: servicenow, qa testing\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "20016065",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-11-05T20:08:56Z",
+   "seen_at": "2026-11-06T11:56:17Z",
+   "url": "https://www.shine.com/jobs/servicenow-qa-tester/tawade-consultancy-services/20016065"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 3,
+ "title": "ServiceNow QA Tester",
+ "tools": [],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/servicenow-qa-tester/tawade-consultancy-services/20016065",
+ "why": [
+  "Manual / functional QA — the core of your resume",
+  "Asks for 0+ years — you have about 2.5",
+  "Pay is listed in the posting",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": null,
+ "years_min": 0
+}

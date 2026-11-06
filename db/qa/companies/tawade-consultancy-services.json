@@ -1,0 +1,30 @@
+{
+ "category": "Recruiter (client not named)",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-06T11:56:17Z",
+  "evidence": [
+   {
+    "detail": "ServiceNow QA Tester — Pune, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/servicenow-qa-tester/tawade-consultancy-services/20016065",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-06T11:56:17Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "abc058ab01",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Tawade Consultancy services",
+ "slug": "tawade-consultancy-services",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}

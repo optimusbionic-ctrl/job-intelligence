@@ -1,0 +1,84 @@
+{
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/qa-engineer/qa-lab-sandbox/19994005",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "QA Lab Sandbox",
+ "company_slug": "qa-lab-sandbox",
+ "concerns": [
+  "Office outside Mumbai — relocation within India",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "55e8391e47dc",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-06T11:56:17Z",
+ "fit": 67,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "d13109fdb9b09e",
+ "include_reason": "QA / test engineer title",
+ "india": {
+  "cities": [],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "qa-engineer",
+ "last_verified": "2026-11-06T11:56:17Z",
+ "location": "Kaithal, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-11-03T05:02:14Z",
+ "repost": false,
+ "requirements": [
+  "(Summary from the Shine.com listing; open the posting for the full description.)"
+ ],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 60,
+  "company": 66,
+  "location": 80,
+  "seniority": 100,
+  "skill": 43
+ },
+ "seniority": "unspecified",
+ "snippet": "Experience: 0 to 4 Yrs\nSkills: RESTful APIs, middleware, aws, FCC integrations, sqlmongo\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "19994005",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-11-03T05:02:14Z",
+   "seen_at": "2026-11-06T11:56:17Z",
+   "url": "https://www.shine.com/jobs/qa-engineer/qa-lab-sandbox/19994005"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 3,
+ "title": "Qa engineer",
+ "tools": [],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/qa-engineer/qa-lab-sandbox/19994005",
+ "why": [
+  "QA / test engineer role",
+  "Asks for 0–4 years — you have about 2.5",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": 4,
+ "years_min": 0
+}

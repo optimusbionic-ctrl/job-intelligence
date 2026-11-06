@@ -1,0 +1,111 @@
+{
+ "apply_url": "https://job-boards.greenhouse.io/scopely/jobs/5425490008?gh_jid=5425490008",
+ "board_apply": null,
+ "category": "Game studio",
+ "comp_potential": "unknown",
+ "company": "Scopely",
+ "company_slug": "scopely",
+ "concerns": [
+  "Also asks for: SQL / databases, Device logs (ADB/Charles)",
+  "Office outside Mumbai — relocation within India",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 2,
+ "content_hash": "309bec4e0ae5",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-06T11:56:17Z",
+ "fit": 87,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": true,
+ "id": "b9c3e7df7dfcbb",
+ "include_reason": "Slot / casino / real-money game QA",
+ "india": {
+  "cities": [
+   "Bengaluru"
+  ],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "slot-qa",
+ "last_verified": "2026-11-06T11:56:17Z",
+ "location": "IN - Bangalore, India",
+ "logo": null,
+ "needs_review": false,
+ "official": true,
+ "posted_at": "2026-11-06T11:45:54Z",
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [
+  "Write, maintain & execute test cases for studio games on mobile (Android/iOS/Kindle) and web platform covering majority of devices & browsers",
+  "Conduct functional and non-function testing of Desktop and Mobile applications, including network data and logs",
+  "Work closely with scrum team, producers and QA lead to make sure submission meets high quality standards",
+  "Actively communicate with developers and business stakeholders for conducting defect triage and reducing defect age",
+  "Provide defects root cause analysis along with corrective & preventive action plan",
+  "Work in agile environment and ensure timely product delivery",
+  "Provides tradeoffs, risks and risk mitigation strategies"
+ ],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 98,
+  "comp": 60,
+  "company": 96,
+  "location": 60,
+  "seniority": 94,
+  "skill": 97
+ },
+ "seniority": "unspecified",
+ "snippet": "Scopely is looking for a QA Engineer to join our Royal lounge Casino team in Bangalore on a hybrid basis!\n\nAt Scopely, we care deeply about what we do and want to inspire play, every day - whether in our work environments alongside our talented colleagues, or through our deep connections with our communities of players. We are a global team of game lovers who are developing, publishing and innovating the mobile games",
+ "source_primary": "Scopely careers (Greenhouse)",
+ "sources": [
+  {
+   "id": "greenhouse",
+   "job_id": "gh:scopely:5425490008",
+   "kind": "ats",
+   "name": "Scopely careers (Greenhouse)",
+   "posted_at": "2026-11-06T11:45:54Z",
+   "seen_at": "2026-11-06T11:56:17Z",
+   "url": "https://job-boards.greenhouse.io/scopely/jobs/5425490008?gh_jid=5425490008"
+  }
+ ],
+ "specializations": [
+  "Android",
+  "iOS",
+  "Windows / PC",
+  "Mobile apps",
+  "Web apps",
+  "Slot / casino games"
+ ],
+ "status": "verified",
+ "tier": 1,
+ "title": "QA Engineer - Royal Lounge Casino",
+ "tools": [
+  "Exploratory testing",
+  "Test cases & scenarios",
+  "Bug reporting",
+  "Jira",
+  "SQL / databases",
+  "Agile / Scrum",
+  "Device logs (ADB/Charles)"
+ ],
+ "track": "game",
+ "updated_at": null,
+ "url": "https://job-boards.greenhouse.io/scopely/jobs/5425490008?gh_jid=5425490008",
+ "why": [
+  "Slot / casino game QA — you have tested slot mechanics, betting, payouts and bonus features (Savannah)",
+  "Already on your resume: Exploratory testing, Test cases & scenarios, Bug reporting, Jira",
+  "Platforms you test on: Android, iOS, Windows / PC, Mobile apps",
+  "Game studio company",
+  "Location lists India",
+  "Asks for 3+ years — you have about 2.5"
+ ],
+ "work_mode": "onsite",
+ "years_max": null,
+ "years_min": 3
+}

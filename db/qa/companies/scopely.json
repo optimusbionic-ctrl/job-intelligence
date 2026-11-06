@@ -1,0 +1,98 @@
+{
+ "aliases": [
+  "Scopely"
+ ],
+ "ats": {
+  "slug": "scopely",
+  "type": "greenhouse"
+ },
+ "careers": "https://job-boards.greenhouse.io/scopely",
+ "category": "Game studio",
+ "classification": "QA Intelligence registry (curated)",
+ "domain": "scopely.com",
+ "facts_note": "Category from public company information; funding not verified",
+ "hq": "Culver City, US",
+ "india_hiring": {
+  "board": {
+   "apac": 0,
+   "countries": [
+    "Spain",
+    "United States",
+    "United Kingdom",
+    "Japan",
+    "India",
+    "Mexico",
+    "Canada",
+    "Ireland"
+   ],
+   "india": 10,
+   "india_samples": [
+    {
+     "location": "IN - Bangalore, India",
+     "title": "  AI  Artist (2D Generalist ) - Bingo Bash",
+     "url": "https://job-boards.greenhouse.io/scopely/jobs/5372414008?gh_jid=5372414008"
+    },
+    {
+     "location": "IN - Bangalore, India",
+     "title": "Director, Corporate Operations - India",
+     "url": "https://job-boards.greenhouse.io/scopely/jobs/5467929008?gh_jid=5467929008"
+    },
+    {
+     "location": "IN - Bangalore, India",
+     "title": "Intern-Technical Artist - Royal Lounge Casino",
+     "url": "https://job-boards.greenhouse.io/scopely/jobs/5440761008?gh_jid=5440761008"
+    },
+    {
+     "location": "IN - Bangalore, India",
+     "title": "Lead QA Engineer",
+     "url": "https://job-boards.greenhouse.io/scopely/jobs/5371149008?gh_jid=5371149008"
+    }
+   ],
+   "open_samples": [],
+   "remote": 0,
+   "restricted_remote": 0,
+   "restricted_samples": [],
+   "slug": "scopely",
+   "total": 165,
+   "type": "greenhouse",
+   "url": "https://boards.greenhouse.io/scopely",
+   "worldwide": 0
+  },
+  "changed_at": "2026-11-06T11:56:17Z",
+  "evidence": [
+   {
+    "detail": "  AI  Artist (2D Generalist ) - Bingo Bash (IN - Bangalore, India); Director, Corporate Operations - India (IN - Bangalore, India); Intern-Technical Artist - Royal Lounge Casino (IN - Bangalore, India)",
+    "kind": "board",
+    "label": "10 of 165 open roles are located in India",
+    "url": "https://boards.greenhouse.io/scopely",
+    "weight": 5
+   },
+   {
+    "detail": "QA Engineer - Royal Lounge Casino — IN - Bangalore, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://job-boards.greenhouse.io/scopely/jobs/5425490008?gh_jid=5425490008",
+    "weight": 5
+   },
+   {
+    "detail": "…hing and innovating the mobile games industry, connecting millions of people around the world daily.   With 30M+ downloads, Grand Casino is home to slots, bingo, c…",
+    "kind": "posting",
+    "label": "Posting describes hiring across countries",
+    "url": "https://job-boards.greenhouse.io/scopely/jobs/5425490008?gh_jid=5425490008",
+    "weight": 3
+   }
+  ],
+  "first_checked_at": "2026-11-06T11:56:17Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "f9b6208f04",
+  "summary": "10 of 165 open roles are located in India.",
+  "verdict": "yes"
+ },
+ "name": "Scopely",
+ "slug": "scopely",
+ "tier": 1,
+ "tracks": [
+  "game"
+ ]
+}
