@@ -1,0 +1,31 @@
+{
+ "category": "Recruiter (client not named)",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-06T12:46:42Z",
+  "evidence": [
+   {
+    "detail": "Quality Assurance Tester — Ahmedabad, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/quality-assurance-tester/evoke-hr-solutions-pvt-ltd/20008764",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-06T12:46:42Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "3392b0bb5d",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "logo": "https://staticrect.shine.com/r/m/images/job_logo/35205cf8c66d42d7a78f567e09a066e2.webp",
+ "name": "Evoke HR Solutions Pvt. Ltd.",
+ "slug": "evoke-hr-solutions-pvt-ltd",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}
