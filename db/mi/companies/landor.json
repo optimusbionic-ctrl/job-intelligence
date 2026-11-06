@@ -36,9 +36,9 @@
      "url": "https://job-boards.greenhouse.io/landor/jobs/7653232"
     },
     {
-     "location": "Mumbai",
+     "location": "Delhi",
      "title": "Designer",
-     "url": "https://job-boards.greenhouse.io/landor/jobs/8166516"
+     "url": "https://job-boards.greenhouse.io/landor/jobs/8121066"
     }
    ],
    "open_samples": [],
@@ -46,17 +46,17 @@
    "restricted_remote": 0,
    "restricted_samples": [],
    "slug": "landor",
-   "total": 53,
+   "total": 52,
    "type": "greenhouse",
    "url": "https://boards.greenhouse.io/landor",
    "worldwide": 0
   },
-  "changed_at": "2026-11-06T15:46:48Z",
+  "changed_at": "2026-11-06T15:55:25Z",
   "evidence": [
    {
     "detail": "Artworker (Mumbai); Client Director (Mumbai); Design Director (Branding & Packaging) (Mumbai)",
     "kind": "board",
-    "label": "17 of 53 open roles are located in India",
+    "label": "17 of 52 open roles are located in India",
     "url": "https://boards.greenhouse.io/landor",
     "weight": 5
    },
@@ -71,8 +71,8 @@
   "first_checked_at": "2026-11-03T18:34:57Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "370e97ce1f",
-  "summary": "17 of 53 open roles are located in India.",
+  "sig": "c4970402f5",
+  "summary": "17 of 52 open roles are located in India.",
   "verdict": "yes"
  },
  "inferred": true,

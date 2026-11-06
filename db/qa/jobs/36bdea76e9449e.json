@@ -1,6 +1,6 @@
 {
  "apply_url": null,
- "board_apply": "https://himalayas.app/companies/tether-operations-limited/jobs/automation-qa-engineer-qvac-100-remote?utm_source=api",
+ "board_apply": "https://himalayas.app/companies/tether-operations-limited/jobs/automation-qa-engineer-qvac-100-remote-1877006373?utm_source=api",
  "category": "Fintech",
  "comp_potential": "unknown",
  "company": "Tether Operations Limited",
@@ -12,12 +12,12 @@
   "Reposted / refreshed listing — original posting is older"
  ],
  "contacts_count": 0,
- "content_hash": "3c44e2a404bd",
+ "content_hash": "5a30a596e8fe",
  "date_quality": "exact",
- "deadline": "2026-12-14T17:59:38Z",
+ "deadline": "2027-01-05T15:15:47Z",
  "employment": "full-time",
  "first_seen": "2026-10-19T13:24:59Z",
- "fit": 80,
+ "fit": 82,
  "has_hiring_manager": false,
  "has_named_contact": false,
  "has_public_email": false,
@@ -25,18 +25,18 @@
  "include_reason": "Automation-heavy QA (SDET)",
  "india": {
   "cities": [],
-  "company": "likely",
-  "reason": "Worldwide remote",
-  "status": "likely",
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
   "visa": false
  },
  "kind": "automation",
- "last_verified": "2026-10-29T10:44:14Z",
- "location": "Worldwide",
+ "last_verified": "2026-11-06T15:54:06Z",
+ "location": "India",
  "logo": "https://cdn-images.himalayas.app/zel05qtfpctrwz9bbjs7cx799p6j",
  "needs_review": false,
  "official": false,
- "posted_at": "2026-10-29T09:16:41Z",
+ "posted_at": "2026-11-06T15:15:48Z",
  "repost": true,
  "requirements": [
   "4+ years in QA automation, plus hands-on manual and exploratory testing experience.",
@@ -51,14 +51,13 @@
   "Investigate failures, fix flaky tests, and manage test data and environments"
  ],
  "salary": {
-  "context_benchmark": "qa-dataset-remote",
   "state": "unavailable"
  },
  "scores": {
   "ai": 92,
   "comp": 60,
   "company": 95,
-  "location": 86,
+  "location": 100,
   "seniority": 84,
   "skill": 70
  },
@@ -68,12 +67,12 @@
  "sources": [
   {
    "id": "himalayas",
-   "job_id": "https://himalayas.app/companies/tether-operations-limited/jobs/automation-qa-engineer-qvac-100-remote",
+   "job_id": "https://himalayas.app/companies/tether-operations-limited/jobs/automation-qa-engineer-qvac-100-remote-1877006373",
    "kind": "board",
    "name": "Himalayas",
-   "posted_at": "2026-10-29T09:16:41Z",
-   "seen_at": "2026-10-29T10:44:14Z",
-   "url": "https://himalayas.app/companies/tether-operations-limited/jobs/automation-qa-engineer-qvac-100-remote?utm_source=api"
+   "posted_at": "2026-11-06T15:15:48Z",
+   "seen_at": "2026-11-06T15:54:06Z",
+   "url": "https://himalayas.app/companies/tether-operations-limited/jobs/automation-qa-engineer-qvac-100-remote-1877006373?utm_source=api"
   }
  ],
  "specializations": [
@@ -96,12 +95,12 @@
  ],
  "track": "software",
  "updated_at": null,
- "url": "https://himalayas.app/companies/tether-operations-limited/jobs/automation-qa-engineer-qvac-100-remote?utm_source=api",
+ "url": "https://himalayas.app/companies/tether-operations-limited/jobs/automation-qa-engineer-qvac-100-remote-1877006373?utm_source=api",
  "why": [
   "Already on your resume: Regression testing, Exploratory testing, Bug reporting, Google Sheets / Excel",
   "Platforms you test on: Android, iOS, Windows / PC, Mobile apps",
   "Fintech company",
-  "Worldwide remote"
+  "Location lists India"
  ],
  "work_mode": "remote",
  "years_max": null,
