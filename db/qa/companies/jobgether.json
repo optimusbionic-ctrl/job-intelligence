@@ -10,15 +10,15 @@
    "apac": 0,
    "countries": [
     "United States",
+    "Canada",
     "India",
     "Brazil",
-    "Canada",
-    "Spain",
     "France",
-    "United Kingdom",
-    "Switzerland"
+    "Spain",
+    "Switzerland",
+    "United Kingdom"
    ],
-   "india": 408,
+   "india": 347,
    "india_samples": [
     {
      "location": "India",
@@ -42,8 +42,8 @@
     }
    ],
    "open_samples": [],
-   "remote": 4903,
-   "restricted_remote": 4495,
+   "remote": 4334,
+   "restricted_remote": 3987,
    "restricted_samples": [
     {
      "location": "Switzerland",
@@ -67,17 +67,17 @@
     }
    ],
    "slug": "jobgether",
-   "total": 4903,
+   "total": 4334,
    "type": "lever",
    "url": "https://jobs.lever.co/jobgether",
    "worldwide": 0
   },
-  "changed_at": "2026-11-06T16:56:23Z",
+  "changed_at": "2026-11-06T20:51:10Z",
   "evidence": [
    {
     "detail": "(Sr.) QA Automation Engineer (India); (Sr.) QA Engineer (India); AI Enablement & Governance Analyst (India)",
     "kind": "board",
-    "label": "408 of 4903 open roles are located in India",
+    "label": "347 of 4334 open roles are located in India",
     "url": "https://jobs.lever.co/jobgether",
     "weight": 5
    },
@@ -92,8 +92,8 @@
   "first_checked_at": "2026-10-19T13:24:59Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "3470fe9437",
-  "summary": "408 of 4903 open roles are located in India.",
+  "sig": "937ae887de",
+  "summary": "347 of 4334 open roles are located in India.",
   "verdict": "yes"
  },
  "inferred": true,
