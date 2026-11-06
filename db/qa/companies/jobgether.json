@@ -11,14 +11,14 @@
    "countries": [
     "United States",
     "India",
-    "Canada",
     "Brazil",
+    "Canada",
     "Spain",
     "France",
     "United Kingdom",
     "Switzerland"
    ],
-   "india": 388,
+   "india": 389,
    "india_samples": [
     {
      "location": "India",
@@ -42,42 +42,42 @@
     }
    ],
    "open_samples": [],
-   "remote": 4657,
-   "restricted_remote": 4269,
+   "remote": 4746,
+   "restricted_remote": 4357,
    "restricted_samples": [
     {
-     "location": "US",
-     "title": "(Senior) Solutions Engineer (f/m/d)",
-     "url": "https://jobs.lever.co/jobgether/a9f25327-def1-46a1-8281-4065c5e97286"
+     "location": "Switzerland",
+     "title": "(Senior) FP&A Manager",
+     "url": "https://jobs.lever.co/jobgether/04fc393a-5bcd-4c2f-84cf-7d7d71d7864d"
     },
     {
-     "location": "Canada",
-     "title": "3D Artist (5-month contract)",
-     "url": "https://jobs.lever.co/jobgether/2840636b-0b34-46c2-b60d-05048efa15b0"
+     "location": "Italy",
+     "title": "(Senior) FP&A Manager",
+     "url": "https://jobs.lever.co/jobgether/25933242-8cc2-4ecf-a242-5dbcb18ae738"
     },
     {
-     "location": "US",
-     "title": "ADMINISTRATIVE SUPPORT-EXEC",
-     "url": "https://jobs.lever.co/jobgether/3890b4e3-f99c-4c66-8071-66f4b7e9ad2c"
+     "location": "Spain",
+     "title": "(Senior) FP&A Manager",
+     "url": "https://jobs.lever.co/jobgether/4fc96530-31cf-4cd0-a5e2-f01e5630cf79"
     },
     {
-     "location": "US",
-     "title": "AI Creative Strategist",
-     "url": "https://jobs.lever.co/jobgether/f27dd063-7901-4349-8820-8a7bcf43aac3"
+     "location": "UK",
+     "title": "(Senior) FP&A Manager",
+     "url": "https://jobs.lever.co/jobgether/6ae08308-fcd4-4e1c-8b05-d0194ea01bf1"
     }
    ],
    "slug": "jobgether",
-   "total": 4657,
+   "total": 4746,
    "type": "lever",
    "url": "https://jobs.lever.co/jobgether",
    "worldwide": 0
   },
-  "changed_at": "2026-11-06T09:00:09Z",
+  "changed_at": "2026-11-06T10:06:44Z",
   "evidence": [
    {
     "detail": "(Sr.) QA Automation Engineer (India); (Sr.) QA Engineer (India); AI Enablement & Governance Analyst (India)",
     "kind": "board",
-    "label": "388 of 4657 open roles are located in India",
+    "label": "389 of 4746 open roles are located in India",
     "url": "https://jobs.lever.co/jobgether",
     "weight": 5
    },
@@ -92,8 +92,8 @@
   "first_checked_at": "2026-10-19T13:24:59Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "465362b2fa",
-  "summary": "388 of 4657 open roles are located in India.",
+  "sig": "f942126137",
+  "summary": "389 of 4746 open roles are located in India.",
   "verdict": "yes"
  },
  "inferred": true,

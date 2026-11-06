@@ -7,7 +7,7 @@
  "label": "Disclosed pay on remote QA postings (any region, this dataset)",
  "low": 4348703,
  "market": "Remote (global)",
- "n": 10,
+ "n": 11,
  "retrieved_at": "2026-11-06",
  "samples": [
   {
@@ -45,6 +45,15 @@
    "min": 46000,
    "title": "Maps Quality Tester- Austin Based",
    "url": "https://himalayas.app/companies/welocalize/jobs/maps-quality-tester-austin-based?utm_source=api"
+  },
+  {
+   "company": "Businessolver",
+   "currency": "USD",
+   "location": "United States",
+   "max": 75000,
+   "min": 45000,
+   "title": "Product Quality Analyst I",
+   "url": "https://himalayas.app/companies/businessolver/jobs/product-quality-analyst-i?utm_source=api"
   },
   {
    "company": "9th Way Insignia",
