@@ -1,0 +1,96 @@
+{
+ "apply_url": null,
+ "board_apply": "https://himalayas.app/companies/mediaradar/jobs/quality-analyst?utm_source=api",
+ "category": "IT services",
+ "comp_potential": "unknown",
+ "company": "MediaRadar",
+ "company_slug": "mediaradar",
+ "concerns": [
+  "Also asks for: SQL / databases",
+  "Pay not disclosed — ask for the range early",
+  "IT services company (client projects)"
+ ],
+ "contacts_count": 0,
+ "content_hash": "8ed3560ce417",
+ "date_quality": "exact",
+ "deadline": "2027-01-05T01:12:00Z",
+ "employment": "full-time",
+ "first_seen": "2026-11-06T03:56:47Z",
+ "fit": 81,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "a6185166bf7b07",
+ "include_reason": "QA / test engineer title",
+ "india": {
+  "cities": [],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "qa-engineer",
+ "last_verified": "2026-11-06T03:56:47Z",
+ "location": "India",
+ "logo": "https://cdn-images.himalayas.app/nwgsaavnxx3vujg0esm10y3a3e4d",
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-11-06T01:12:01Z",
+ "repost": false,
+ "requirements": [
+  "Primary Responsibilities and Impact Drivers: (not limited to)"
+ ],
+ "responsibilities": [
+  "Perform daily quality audits against the relevant SOP across classification, attribution, mapping, and related workflows, meeting defined productivity and quality targets.",
+  "Identify anomalies — SOP defects, process gaps, and recurring error patterns and distinguish a genuine miss from an acceptable judgement call.",
+  "Comprehend and apply SOPs with minimal supervision, and flag where an SOP itself is unclear, outdated, or silent on an edge case.",
+  "Track process SLAs and turnaround commitments, ensuring audit and review queues are closed on time and any slippage is escalated early with context.",
+  "Investigate and help resolve client-raised troubleshooting requests, triaging the issue, identifying whether it stems from a data, process, or model gap, and driving it to closure with the relevant team."
+ ],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 60,
+  "company": 76,
+  "location": 100,
+  "seniority": 84,
+  "skill": 86
+ },
+ "seniority": "unspecified",
+ "snippet": "About MediaRadar :\n MediaRadar , equips marketing, sales and analytics leaders with the intelligence they need to stay ahead. Our platform delivers always-on, AI-enabled Creative, Competitive, Commercial and Market Intelligence—spanning ad strategy, media spend, creative assets and brand messaging across 30+ media channels and five million brands.\n With deep insights into more than 35 million ad and campaign assets a",
+ "source_primary": "Himalayas",
+ "sources": [
+  {
+   "id": "himalayas",
+   "job_id": "https://himalayas.app/companies/mediaradar/jobs/quality-analyst",
+   "kind": "board",
+   "name": "Himalayas",
+   "posted_at": "2026-11-06T01:12:01Z",
+   "seen_at": "2026-11-06T03:56:47Z",
+   "url": "https://himalayas.app/companies/mediaradar/jobs/quality-analyst?utm_source=api"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 2,
+ "title": "Quality Analyst",
+ "tools": [
+  "Bug reporting",
+  "Jira",
+  "Google Sheets / Excel",
+  "SQL / databases"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://himalayas.app/companies/mediaradar/jobs/quality-analyst?utm_source=api",
+ "why": [
+  "QA / test engineer role",
+  "Already on your resume: Bug reporting, Jira, Google Sheets / Excel",
+  "Location lists India"
+ ],
+ "work_mode": "remote",
+ "years_max": null,
+ "years_min": null
+}
