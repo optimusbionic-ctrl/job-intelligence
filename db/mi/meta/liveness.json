@@ -340,6 +340,10 @@
    "at": "2026-11-03T19:58:58Z",
    "ats": null
   },
+  "mandinstudios": {
+   "at": "2026-11-06T18:37:53Z",
+   "ats": null
+  },
   "manmadedesigns": {
    "at": "2026-11-03T20:54:31Z",
    "ats": null
@@ -580,7 +584,7 @@
  "counts": {
   "closed": 9,
   "live": 26,
-  "stale": 131
+  "stale": 132
  },
- "updated_at": "2026-11-06T17:55:07Z"
+ "updated_at": "2026-11-06T18:39:02Z"
 }
