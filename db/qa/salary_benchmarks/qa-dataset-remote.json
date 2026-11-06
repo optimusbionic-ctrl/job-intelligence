@@ -1,5 +1,5 @@
 {
- "avg": 5672222,
+ "avg": 6617592,
  "basis": "Interquartile range of posting midpoints, converted to INR at today's rate",
  "currency": "INR",
  "high": 10871759,
@@ -7,7 +7,7 @@
  "label": "Disclosed pay on remote QA postings (any region, this dataset)",
  "low": 4348703,
  "market": "Remote (global)",
- "n": 10,
+ "n": 11,
  "retrieved_at": "2026-11-06",
  "samples": [
   {
@@ -72,6 +72,15 @@
    "min": 65000,
    "title": "Product Quality Analyst II",
    "url": "https://himalayas.app/companies/businessolver/jobs/product-quality-analyst-ii?utm_source=api"
+  },
+  {
+   "company": "Guidehouse",
+   "currency": "USD",
+   "location": "United States",
+   "max": 141000,
+   "min": 85000,
+   "title": "Quality Assurance System Tester",
+   "url": "https://himalayas.app/companies/guidehouse/jobs/quality-assurance-system-tester-5550669612?utm_source=api"
   },
   {
    "company": "Steampunk",
