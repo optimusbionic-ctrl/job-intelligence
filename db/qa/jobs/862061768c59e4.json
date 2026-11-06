@@ -8,12 +8,13 @@
  "concerns": [
   "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
   "Also asks for: SQL / databases",
-  "Pay not disclosed — ask for the range early"
+  "Pay not disclosed — ask for the range early",
+  "Reposted / refreshed listing — original posting is older"
  ],
  "contacts_count": 0,
- "content_hash": "12eeb622aa7f",
+ "content_hash": "6f1e7900d7f3",
  "date_quality": "exact",
- "deadline": "2026-11-05T20:19:49Z",
+ "deadline": "2027-01-05T18:24:45Z",
  "employment": "full-time",
  "first_seen": "2026-11-03T18:02:49Z",
  "fit": 75,
@@ -30,13 +31,13 @@
   "visa": false
  },
  "kind": "automation",
- "last_verified": "2026-11-03T18:02:49Z",
+ "last_verified": "2026-11-06T21:49:20Z",
  "location": "India",
  "logo": null,
  "needs_review": false,
  "official": false,
- "posted_at": "2026-11-01T13:03:38Z",
- "repost": false,
+ "posted_at": "2026-11-06T18:24:45Z",
+ "repost": true,
  "requirements": [
   "What will you be doing?",
   "Reporting to our Lead QA Engineer. You will be",
@@ -75,8 +76,8 @@
    "job_id": "https://himalayas.app/companies/toku-co/jobs/qa-engineer",
    "kind": "board",
    "name": "Himalayas",
-   "posted_at": "2026-11-01T13:03:38Z",
-   "seen_at": "2026-11-03T18:02:49Z",
+   "posted_at": "2026-11-06T18:24:45Z",
+   "seen_at": "2026-11-06T21:49:20Z",
    "url": "https://himalayas.app/companies/toku-co/jobs/qa-engineer?utm_source=api"
   }
  ],
