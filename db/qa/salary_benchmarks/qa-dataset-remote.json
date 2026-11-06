@@ -1,5 +1,5 @@
 {
- "avg": 6159938,
+ "avg": 6617592,
  "basis": "Interquartile range of posting midpoints, converted to INR at today's rate",
  "currency": "INR",
  "high": 10871759,
@@ -56,15 +56,6 @@
    "url": "https://himalayas.app/companies/businessolver/jobs/product-quality-analyst-i?utm_source=api"
   },
   {
-   "company": "9th Way Insignia",
-   "currency": "USD",
-   "location": "United States",
-   "max": 67500,
-   "min": 62818,
-   "title": "Junior Tester",
-   "url": "https://himalayas.app/companies/9th-way-insignia/jobs/junior-tester?utm_source=api"
-  },
-  {
    "company": "Lifelancer",
    "currency": "USD",
    "location": "United States",
@@ -81,6 +72,15 @@
    "min": 65000,
    "title": "Product Quality Analyst II",
    "url": "https://himalayas.app/companies/businessolver/jobs/product-quality-analyst-ii?utm_source=api"
+  },
+  {
+   "company": "Guidehouse",
+   "currency": "USD",
+   "location": "United States",
+   "max": 141000,
+   "min": 85000,
+   "title": "Quality Assurance System Tester",
+   "url": "https://himalayas.app/companies/guidehouse/jobs/quality-assurance-system-tester-5550669612?utm_source=api"
   },
   {
    "company": "Steampunk",
