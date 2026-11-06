@@ -1,11 +1,11 @@
 {
- "avg": 12312471,
+ "avg": 12293806,
  "basis": "Interquartile range of posting midpoints, converted to INR at today's rate",
  "currency": "INR",
- "high": 17741282,
+ "high": 17725693,
  "id": "mi-dataset-remote",
  "label": "Disclosed pay on remote motion-design postings (any region, this dataset)",
- "low": 9462017,
+ "low": 9453703,
  "market": "Remote (global)",
  "n": 16,
  "retrieved_at": "2026-11-06",
@@ -139,11 +139,11 @@
   {
    "company": "ServiceNow",
    "currency": "USD",
-   "location": "United States",
+   "location": "Denver, COLORADO, United States (Remote)",
    "max": 300800,
    "min": 171900,
    "title": "Sr. Staff Product & Visual Designer, Technology Workflows",
-   "url": "https://himalayas.app/companies/servicenow/jobs/sr-staff-product-visual-designer-technology-workflows?utm_source=api"
+   "url": "https://jobs.smartrecruiters.com/ServiceNow/744000151901141-sr-staff-product-visual-designer-technology-workflows"
   },
   {
    "company": "Pinterest",

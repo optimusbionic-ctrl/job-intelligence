@@ -1,0 +1,103 @@
+{
+ "ats": {
+  "slug": "neuraflash",
+  "type": "greenhouse"
+ },
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": {
+   "apac": 0,
+   "countries": [
+    "United States",
+    "Canada",
+    "India",
+    "Colombia"
+   ],
+   "india": 16,
+   "india_samples": [
+    {
+     "location": "Remote - India (Bengaluru, Chennai, Gurugram, Hyderabad, Noida, or Pune Only)",
+     "title": "AWS Manager",
+     "url": "https://job-boards.greenhouse.io/neuraflash/jobs/5979341004"
+    },
+    {
+     "location": "Remote - India (Bengaluru, Chennai, Gurugram, Hyderabad, Noida, or Pune Only)",
+     "title": "AWS Solution Architect",
+     "url": "https://job-boards.greenhouse.io/neuraflash/jobs/6162090004"
+    },
+    {
+     "location": "Remote - India (Bengaluru, Chennai, Gurugram, Hyderabad, Noida, or Pune Only)",
+     "title": "AWS Technical Architect",
+     "url": "https://job-boards.greenhouse.io/neuraflash/jobs/6200354004"
+    },
+    {
+     "location": "Remote - India (Bengaluru, Chennai, Gurugram, Hyderabad, Noida, or Pune Only)",
+     "title": "Associate QA Consultant, Amazon Connect / Contact Center QA",
+     "url": "https://job-boards.greenhouse.io/neuraflash/jobs/6242370004"
+    }
+   ],
+   "open_samples": [],
+   "remote": 74,
+   "restricted_remote": 58,
+   "restricted_samples": [
+    {
+     "location": "Remote - Canada (Alberta, British Columbia, Ontario Only)",
+     "title": "AI Strategy & Transformation Architect",
+     "url": "https://job-boards.greenhouse.io/neuraflash/jobs/6150548004"
+    },
+    {
+     "location": "Remote - United States",
+     "title": "AI Strategy & Transformation Architect",
+     "url": "https://job-boards.greenhouse.io/neuraflash/jobs/6150542004"
+    },
+    {
+     "location": "Remote - United States",
+     "title": "AWS Engagement Manager",
+     "url": "https://job-boards.greenhouse.io/neuraflash/jobs/6220927004"
+    },
+    {
+     "location": "Remote - Canada (Alberta, British Columbia, Ontario Only)",
+     "title": "AWS Engagement Manager",
+     "url": "https://job-boards.greenhouse.io/neuraflash/jobs/6220929004"
+    }
+   ],
+   "slug": "neuraflash",
+   "total": 76,
+   "type": "greenhouse",
+   "url": "https://boards.greenhouse.io/neuraflash",
+   "worldwide": 0
+  },
+  "changed_at": "2026-11-06T01:12:14Z",
+  "evidence": [
+   {
+    "detail": "AWS Manager (Remote - India (Bengaluru, Chennai, Gurugram, Hyderabad, Noida, or Pune Only)); AWS Solution Architect (Remote - India (Bengaluru, Chennai, Gurugram, Hyderabad, Noida, or Pune Only)); AWS Technical Architect",
+    "kind": "board",
+    "label": "16 of 76 open roles are located in India",
+    "url": "https://boards.greenhouse.io/neuraflash",
+    "weight": 5
+   },
+   {
+    "detail": "Associate QA Consultant, Amazon Connect / Contact Center QA — India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://job-boards.greenhouse.io/neuraflash/jobs/6242370004",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-06T01:12:14Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "6180f17e5f",
+  "summary": "16 of 76 open roles are located in India.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "logo": "https://cdn-images.himalayas.app/jy2iotw0br6s1bvo8l6100hms0wj",
+ "name": "NeuraFlash",
+ "slug": "neuraflash",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}
