@@ -10,7 +10,7 @@
   "Reposted / refreshed listing — original posting is older"
  ],
  "contacts_count": 0,
- "content_hash": "f7652f96323b",
+ "content_hash": "07d202c7234d",
  "date_quality": "exact",
  "deadline": null,
  "employment": "full-time",
@@ -32,12 +32,12 @@
   "visa": false
  },
  "kind": "qa-engineer",
- "last_verified": "2026-11-06T02:17:07Z",
- "location": "Delhi, Noida, Gurugram, Mumbai City, India",
+ "last_verified": "2026-11-06T03:01:53Z",
+ "location": "Mumbai City, Delhi, Noida, Gurugram, India",
  "logo": null,
  "needs_review": false,
  "official": false,
- "posted_at": "2026-10-26T18:36:13Z",
+ "posted_at": "2026-10-29T18:38:34Z",
  "repost": true,
  "requirements": [
   "(Summary from the Shine.com listing; open the posting for the full description.)"
@@ -59,7 +59,7 @@
   "source_name": "Shine.com",
   "source_url": "https://www.shine.com/jobs/qa-consultant/vishwa-karma/19955447",
   "state": "verified",
-  "verified_at": "2026-11-06T02:17:07Z"
+  "verified_at": "2026-11-06T03:01:53Z"
  },
  "scores": {
   "ai": 58,
@@ -79,17 +79,8 @@
    "kind": "board",
    "name": "Shine.com",
    "posted_at": "2026-10-29T18:38:34Z",
-   "seen_at": "2026-11-06T02:17:07Z",
+   "seen_at": "2026-11-06T03:01:53Z",
    "url": "https://www.shine.com/jobs/qa-consultant/vishwa-karma/19955447"
-  },
-  {
-   "id": "shine",
-   "job_id": "19934839",
-   "kind": "board",
-   "name": "Shine.com",
-   "posted_at": "2026-10-26T18:36:13Z",
-   "seen_at": "2026-11-06T02:17:07Z",
-   "url": "https://www.shine.com/jobs/qa-consultant/vishwa-karma/19934839"
   }
  ],
  "specializations": [],
@@ -100,7 +91,7 @@
   "Programming"
  ],
  "track": "software",
- "updated_at": "2026-10-29T18:38:34Z",
+ "updated_at": null,
  "url": "https://www.shine.com/jobs/qa-consultant/vishwa-karma/19955447",
  "why": [
   "QA / test engineer role",

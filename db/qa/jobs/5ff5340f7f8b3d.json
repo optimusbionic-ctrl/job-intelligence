@@ -10,7 +10,7 @@
   "Reposted / refreshed listing — original posting is older"
  ],
  "contacts_count": 0,
- "content_hash": "a30c8d0441a4",
+ "content_hash": "06f8243ecab8",
  "date_quality": "exact",
  "deadline": null,
  "employment": "full-time",
@@ -29,12 +29,12 @@
   "visa": false
  },
  "kind": "manual-qa",
- "last_verified": "2026-11-06T02:17:07Z",
- "location": "Bhopal, Bhubaneswar, Asansol, Dhubri, Chandigarh, Ahmednagar, India",
+ "last_verified": "2026-11-06T03:01:53Z",
+ "location": "Ahmednagar, Bhopal, Bhubaneswar, Asansol, Dhubri, Chandigarh, India",
  "logo": null,
  "needs_review": false,
  "official": false,
- "posted_at": "2026-10-30T23:14:14Z",
+ "posted_at": "2026-11-04T21:36:22Z",
  "repost": true,
  "requirements": [
   "(Summary from the Shine.com listing; open the posting for the full description.)"
@@ -56,7 +56,7 @@
   "source_name": "Shine.com",
   "source_url": "https://www.shine.com/jobs/software-tester/workwaves/20011661",
   "state": "verified",
-  "verified_at": "2026-11-06T02:17:07Z"
+  "verified_at": "2026-11-06T03:01:53Z"
  },
  "scores": {
   "ai": 58,
@@ -76,7 +76,7 @@
    "kind": "board",
    "name": "Shine.com",
    "posted_at": "2026-11-04T22:25:06Z",
-   "seen_at": "2026-11-06T02:17:07Z",
+   "seen_at": "2026-11-06T03:01:53Z",
    "url": "https://www.shine.com/jobs/software-tester/workwaves/20011661"
   },
   {
@@ -84,8 +84,8 @@
    "job_id": "19975711",
    "kind": "board",
    "name": "Shine.com",
-   "posted_at": "2026-10-30T23:14:14Z",
-   "seen_at": "2026-11-06T02:17:07Z",
+   "posted_at": "2026-11-04T21:36:22Z",
+   "seen_at": "2026-11-06T03:01:53Z",
    "url": "https://www.shine.com/jobs/software-tester/workwaves/19975711"
   }
  ],
@@ -95,7 +95,7 @@
  "title": "Software Tester",
  "tools": [],
  "track": "software",
- "updated_at": "2026-11-04T22:25:06Z",
+ "updated_at": null,
  "url": "https://www.shine.com/jobs/software-tester/workwaves/20011661",
  "why": [
   "Manual / functional QA — the core of your resume",
