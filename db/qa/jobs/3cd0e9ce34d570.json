@@ -12,7 +12,7 @@
   "Reposted / refreshed listing — original posting is older"
  ],
  "contacts_count": 0,
- "content_hash": "c693e8e729a8",
+ "content_hash": "6b34a4e0aef6",
  "date_quality": "exact",
  "deadline": null,
  "employment": "full-time",
@@ -31,12 +31,12 @@
   "visa": false
  },
  "kind": "automation",
- "last_verified": "2026-11-05T22:52:29Z",
+ "last_verified": "2026-11-06T00:45:21Z",
  "location": "Ahmednagar, India",
  "logo": "https://staticrect.shine.com/r/m/images/job_logo/7c4a21f5d8e84382a7ca9d468b4859d2.webp",
  "needs_review": false,
  "official": false,
- "posted_at": "2026-10-30T23:25:34Z",
+ "posted_at": "2026-10-30T15:03:53Z",
  "repost": true,
  "requirements": [
   "(Summary from the Shine.com listing; open the posting for the full description.)"
@@ -63,7 +63,7 @@
    "kind": "board",
    "name": "Shine.com",
    "posted_at": "2026-11-04T14:24:53Z",
-   "seen_at": "2026-11-05T22:52:29Z",
+   "seen_at": "2026-11-06T00:45:21Z",
    "url": "https://www.shine.com/jobs/automation-tester/harjai-computers-private-limited/20007899"
   },
   {
@@ -72,8 +72,17 @@
    "kind": "board",
    "name": "Shine.com",
    "posted_at": "2026-10-30T23:25:34Z",
-   "seen_at": "2026-11-05T22:52:29Z",
+   "seen_at": "2026-11-06T00:45:21Z",
    "url": "https://www.shine.com/jobs/automation-tester/harjai-computers-private-limited/19975913"
+  },
+  {
+   "id": "shine",
+   "job_id": "19969841",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-10-30T15:03:53Z",
+   "seen_at": "2026-11-06T00:45:21Z",
+   "url": "https://www.shine.com/jobs/automation-tester/harjai-computers-private-limited/19969841"
   }
  ],
  "specializations": [],
