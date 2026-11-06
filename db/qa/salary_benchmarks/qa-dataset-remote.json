@@ -1,13 +1,13 @@
 {
- "avg": 7752037,
+ "avg": 5672222,
  "basis": "Interquartile range of posting midpoints, converted to INR at today's rate",
  "currency": "INR",
  "high": 10871759,
  "id": "qa-dataset-remote",
  "label": "Disclosed pay on remote QA postings (any region, this dataset)",
- "low": 5672222,
+ "low": 4348703,
  "market": "Remote (global)",
- "n": 9,
+ "n": 10,
  "retrieved_at": "2026-11-06",
  "samples": [
   {
@@ -27,6 +27,24 @@
    "min": 84000,
    "title": "Manual Tester with Linux (QA team)",
    "url": "https://himalayas.app/companies/storware-sp-z-o-o/jobs/manual-tester-with-linux-qa-team?utm_source=api"
+  },
+  {
+   "company": "Welo Global",
+   "currency": "USD",
+   "location": "United States",
+   "max": 46000,
+   "min": 46000,
+   "title": "Maps Quality Tester- English (Austin)",
+   "url": "https://himalayas.app/companies/welo-global/jobs/maps-quality-tester-english-austin?utm_source=api"
+  },
+  {
+   "company": "Welocalize",
+   "currency": "USD",
+   "location": "United States",
+   "max": 46000,
+   "min": 46000,
+   "title": "Maps Quality Tester- Austin Based",
+   "url": "https://himalayas.app/companies/welocalize/jobs/maps-quality-tester-austin-based?utm_source=api"
   },
   {
    "company": "Businessolver",
@@ -54,15 +72,6 @@
    "min": 65000,
    "title": "Product Quality Analyst II",
    "url": "https://himalayas.app/companies/businessolver/jobs/product-quality-analyst-ii?utm_source=api"
-  },
-  {
-   "company": "Guidehouse",
-   "currency": "USD",
-   "location": "United States",
-   "max": 141000,
-   "min": 85000,
-   "title": "Quality Assurance System Tester",
-   "url": "https://himalayas.app/companies/guidehouse/jobs/quality-assurance-system-tester-5550669612?utm_source=api"
   },
   {
    "company": "Steampunk",

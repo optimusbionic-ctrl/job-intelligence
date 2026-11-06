@@ -1,22 +1,22 @@
 {
- "category": "Product / SaaS",
+ "category": "Other",
  "classification": "Inferred from job description",
  "india_hiring": {
   "board": null,
-  "changed_at": "2026-10-27T10:43:30Z",
+  "changed_at": "2026-11-06T06:02:13Z",
   "evidence": [
    {
-    "detail": "QA Engineer| Offshore | Chennai — India",
+    "detail": "QA Lead_Offshore — India",
     "kind": "posting",
     "label": "A current posting lists India as a location",
-    "url": "https://himalayas.app/companies/photon-interactive-uk-limited/jobs/qa-engineer-offshore-chennai?utm_source=api",
+    "url": "https://himalayas.app/companies/photon-interactive-uk-limited/jobs/qa-lead_offshore?utm_source=api",
     "weight": 5
    }
   ],
   "first_checked_at": "2026-10-27T10:43:30Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "9be967b5bb",
+  "sig": "56e22c2d04",
   "summary": "A current posting lists India as a location.",
   "verdict": "yes"
  },
@@ -24,7 +24,7 @@
  "logo": "https://cdn-images.himalayas.app/6uea03ugprm7j1fah48hp1jr6ny6",
  "name": "Photon Interactive UK Limited",
  "slug": "photon-interactive-uk-limited",
- "tier": 1,
+ "tier": 3,
  "tracks": [
   "software"
  ]

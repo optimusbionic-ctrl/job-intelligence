@@ -7,7 +7,7 @@
  "label": "Disclosed pay on remote motion-design postings (any region, this dataset)",
  "low": 9453703,
  "market": "Remote (global)",
- "n": 16,
+ "n": 17,
  "retrieved_at": "2026-11-06",
  "samples": [
   {
@@ -90,6 +90,15 @@
    "min": 92600,
    "title": "Sr. Motion Designer",
    "url": "https://jobs.ashbyhq.com/zapier/c0582311-18cb-4415-9c86-79014f1b74f6"
+  },
+  {
+   "company": "Acumenian (now Consertus)",
+   "currency": "USD",
+   "location": "United States",
+   "max": 145000,
+   "min": 125000,
+   "title": "Multimedia Content Designer",
+   "url": "https://himalayas.app/companies/acumenian-now-consertus/jobs/multimedia-content-designer?utm_source=api"
   },
   {
    "company": "Huckleberry Labs",
