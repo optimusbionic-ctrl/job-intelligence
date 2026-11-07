@@ -2,7 +2,7 @@
  "alerts_count": 0,
  "changed_count": 0,
  "closed_count": 9,
- "duration_s": 81.9,
+ "duration_s": 32.1,
  "enrichment": {
   "careers_emails": 0,
   "dates_estimated": 0,
@@ -11,16 +11,16 @@
   "searches": 0
  },
  "excluded_counts": {
-  "Adjacent title without substantial motion work": 30,
-  "Character / film / game animation": 7,
-  "Generic product/UX designer (no motion specialisation in title)": 51,
+  "Adjacent title without substantial motion work": 34,
+  "Character / film / game animation": 8,
+  "Generic product/UX designer (no motion specialisation in title)": 61,
   "Graphic / illustration role": 39,
-  "Intern / junior / entry level": 15,
+  "Intern / junior / entry level": 16,
   "Junior experience requirement": 1,
-  "Not a design role": 56,
-  "Not a motion role": 254,
+  "Not a design role": 50,
+  "Not a motion role": 249,
   "Not open to India": 71,
-  "Older than window": 210,
+  "Older than window": 204,
   "Pure video editing role": 49,
   "Social content role": 2,
   "Staffing agency listing — employer not identified": 5,
@@ -112,11 +112,25 @@
    "url": "https://himalayas.app/companies/rankings-io/jobs/sr-video-editor-motion-designer-ai-workflows-remote-latam?utm_source=api"
   },
   {
+   "company": "YO AI Labs",
+   "reason": "Character / film / game animation",
+   "source": "Himalayas",
+   "title": "3D Animator  - Remote",
+   "url": "https://himalayas.app/companies/yo-ai-labs/jobs/3d-animator-remote?utm_source=api"
+  },
+  {
    "company": "Hook",
    "reason": "Not open to India: Restricted to United States",
    "source": "Himalayas",
    "title": "Motion Designer II",
    "url": "https://himalayas.app/companies/hook-co/jobs/motion-designer-ii?utm_source=api"
+  },
+  {
+   "company": "Top Notch Consultancy",
+   "reason": "Character / film / game animation",
+   "source": "Himalayas",
+   "title": "3D Animator",
+   "url": "https://himalayas.app/companies/top-notch-consultancy/jobs/3d-animator?utm_source=api"
   },
   {
    "company": "Spot",
@@ -131,6 +145,13 @@
    "source": "Himalayas",
    "title": "Motion Designer",
    "url": "https://himalayas.app/companies/tygrlabs-ltd/jobs/motion-designer?utm_source=api"
+  },
+  {
+   "company": "Bjak",
+   "reason": "Not open to India: Restricted to South Korea",
+   "source": "Himalayas",
+   "title": "Motion Designer (UX/Interface)",
+   "url": "https://himalayas.app/companies/bjak/jobs/motion-designer-ux-interface-5914552737?utm_source=api"
   },
   {
    "company": "Hire Overseas",
@@ -152,20 +173,6 @@
    "source": "Himalayas",
    "title": "Motion Designer",
    "url": "https://himalayas.app/companies/masterworks-llc/jobs/motion-designer?utm_source=api"
-  },
-  {
-   "company": "Bjak",
-   "reason": "Not open to India: Restricted to South Korea",
-   "source": "Himalayas",
-   "title": "Motion Designer (UX/Interface)",
-   "url": "https://himalayas.app/companies/bjak/jobs/motion-designer-ux-interface-5914552737?utm_source=api"
-  },
-  {
-   "company": "Top Notch Consultancy",
-   "reason": "Character / film / game animation",
-   "source": "Himalayas",
-   "title": "3D Animator",
-   "url": "https://himalayas.app/companies/top-notch-consultancy/jobs/3d-animator?utm_source=api"
   },
   {
    "company": "Pavago",
@@ -210,25 +217,11 @@
    "url": "https://himalayas.app/companies/yaqeen-institute/jobs/animator-2d-3d?utm_source=api"
   },
   {
-   "company": "HIGHSCALE",
-   "reason": "Not open to India: Restricted to Colombia",
-   "source": "Himalayas",
-   "title": "Motion Graphics Editor",
-   "url": "https://himalayas.app/companies/highscale/jobs/motion-graphics-editor-195932515?utm_source=api"
-  },
-  {
-   "company": "Urban Ridge Supplies",
-   "reason": "Not open to India: Restricted to Philippines",
-   "source": "Himalayas",
-   "title": "Freelance Creative Designer — Graphic Design, Video & Animation",
-   "url": "https://himalayas.app/companies/urban-ridge-supplies/jobs/freelance-creative-designer-graphic-design-video-animation?utm_source=api"
-  },
-  {
-   "company": "Tamatem",
-   "reason": "Not open to India: Restricted to Jordan",
-   "source": "Himalayas",
-   "title": "Freelance Marketing Artists: Video Ad Producers, Motion Graphics Designers,,Vi",
-   "url": "https://himalayas.app/companies/tamatem/jobs/freelance-marketing-artists-video-ad-producers-motion-graphics-designers-vi?utm_source=api"
+   "company": "Wpromote",
+   "reason": "Not open to India: Restricted to USA",
+   "source": "Jobicy",
+   "title": "Digital & Motion Designer",
+   "url": "https://jobicy.com/jobs/154789-digital-motion-designer-2"
   },
   {
    "company": "Fieldguide",
@@ -238,18 +231,18 @@
    "url": "https://jobicy.com/jobs/158659-senior-motion-designer"
   },
   {
-   "company": "M+C Saatchi World Services",
-   "reason": "Not open to India: On-site outside India (Washington, D. C., United States), no sponsorship stated",
-   "source": "Dribbble Jobs",
-   "title": "Motion Graphics Designer",
-   "url": "https://dribbble.com/jobs/311429-Motion-Graphics-Designer"
-  },
-  {
    "company": "eternal.ag",
    "reason": "Not open to India: On-site outside India (Köln, Germany), no sponsorship stated",
    "source": "Dribbble Jobs",
    "title": "Digital & Motion Designer",
    "url": "https://dribbble.com/jobs/309614-Digital-Motion-Designer"
+  },
+  {
+   "company": "M+C Saatchi World Services",
+   "reason": "Not open to India: On-site outside India (Washington, D. C., United States), no sponsorship stated",
+   "source": "Dribbble Jobs",
+   "title": "Motion Graphics Designer",
+   "url": "https://dribbble.com/jobs/311429-Motion-Graphics-Designer"
   },
   {
    "company": "Stripe",
@@ -284,7 +277,7 @@
    "reason": "Not open to India: Remote but limited to New York City • Remote (United States) • San Franc",
    "source": "Perplexity careers (Ashby)",
    "title": "Motion Designer",
-   "url": "https://jobs.ashbyhq.com/perplexity/39d520eb-6b81-4b61-8b23-5efcdac4cad9"
+   "url": "https://jobs.ashbyhq.com/Perplexity/39d520eb-6b81-4b61-8b23-5efcdac4cad9"
   },
   {
    "company": "Cursor",
@@ -298,7 +291,7 @@
    "reason": "Not open to India: Remote but limited to Remote • Remote (US | EU)",
    "source": "PostHog careers (Ashby)",
    "title": "Animator & Motion Graphics Designer",
-   "url": "https://jobs.ashbyhq.com/posthog/4a8a1ee5-aa45-447e-a438-919b4577f14d"
+   "url": "https://jobs.ashbyhq.com/PostHog/4a8a1ee5-aa45-447e-a438-919b4577f14d"
   },
   {
    "company": "Zapier",
@@ -354,7 +347,7 @@
    "reason": "Not open to India: On-site outside India (San Francisco (United States)), no sponsorship stated",
    "source": "Hyperbound careers (Ashby)",
    "title": "Creative Video Producer / Motion Designer",
-   "url": "https://jobs.ashbyhq.com/hyperbound/1b54759e-17e6-4302-ba42-e2c1c9786c25"
+   "url": "https://jobs.ashbyhq.com/Hyperbound/1b54759e-17e6-4302-ba42-e2c1c9786c25"
   },
   {
    "company": "Active Theory",
@@ -383,6 +376,20 @@
    "source": "Thinkingbox careers (Lever)",
    "title": "Creative Director, Motion - The Heist",
    "url": "https://jobs.lever.co/thinkingbox/40829438-ce46-4d26-8e7d-f6f5a671dfa4"
+  },
+  {
+   "company": "Thinkingbox",
+   "reason": "Not open to India: On-site outside India (Mexico City), no sponsorship stated",
+   "source": "Thinkingbox careers (Lever)",
+   "title": "Creative Director, Motion - The Heist",
+   "url": "https://jobs.lever.co/thinkingbox/48502e6b-834b-4351-ac43-ee7d4ee38e03"
+  },
+  {
+   "company": "Thinkingbox",
+   "reason": "Not open to India: On-site outside India (Chicago), no sponsorship stated",
+   "source": "Thinkingbox careers (Lever)",
+   "title": "Creative Director, Motion - The Heist",
+   "url": "https://jobs.lever.co/thinkingbox/4e8187da-120a-4667-8f61-10ecb6e488b8"
   },
   {
    "company": "Pure",
@@ -455,25 +462,25 @@
    "url": "https://www.foundit.in/job/senior-motion-designer-jobgether-india-60670321"
   }
  ],
- "finished_at": "2026-11-06T15:48:10Z",
+ "finished_at": "2026-11-07T21:49:12Z",
  "fx": {
-  "as_of": "Fri, 06 Nov 2026 00:02:31 +0000",
+  "as_of": "Sat, 07 Nov 2026 00:02:31 +0000",
   "source": "https://open.er-api.com/v6/latest/USD (ExchangeRate-API open access)",
-  "usd_inr": 94.537031
+  "usd_inr": 94.139177
  },
- "id": "20261106T154648Z",
+ "id": "20261107T214840Z",
  "india_checks": {
-  "companies": 70,
+  "companies": 71,
   "roles_clarified": 2,
   "verdicts": {
    "likely": 2,
    "no": 2,
-   "unclear": 30,
+   "unclear": 31,
    "yes": 36
   },
   "web_checked": 0
  },
- "kept": 65,
+ "kept": 66,
  "new_count": 0,
  "pipeline_version": "2.1.0",
  "raw_count": 866,
@@ -481,12 +488,12 @@
   "ashby": {
    "boards": 64,
    "errors": 0,
-   "fetched": 34,
+   "fetched": 32,
    "ok": true
   },
   "dribbble": {
-   "fetched": 30,
-   "ms": 17227,
+   "fetched": 29,
+   "ms": 10704,
    "ok": true
   },
   "greenhouse": {
@@ -495,43 +502,43 @@
     "nothing: HTTP 404 for https://boards-api.greenhouse.io/v1/boards/nothing/jobs: b''"
    ],
    "errors": 1,
-   "fetched": 48,
+   "fetched": 49,
    "ok": true
   },
   "himalayas": {
-   "fetched": 258,
-   "ms": 16012,
+   "fetched": 261,
+   "ms": 13931,
    "ok": true
   },
   "hn": {
    "fetched": 1,
-   "ms": 6893,
+   "ms": 6552,
    "ok": true
   },
   "jobicy": {
-   "fetched": 136,
-   "ms": 6218,
+   "fetched": 148,
+   "ms": 2994,
    "ok": true
   },
   "lever": {
    "boards": 10,
    "errors": 0,
-   "fetched": 7,
+   "fetched": 9,
    "ok": true
   },
   "motionographer": {
    "fetched": 1,
-   "ms": 362,
+   "ms": 111,
    "ok": true
   },
   "remoteok": {
-   "fetched": 220,
-   "ms": 7822,
+   "fetched": 219,
+   "ms": 6736,
    "ok": true
   },
   "remotive": {
    "fetched": 12,
-   "ms": 5153,
+   "ms": 4410,
    "ok": true
   },
   "smartrecruiters": {
@@ -541,15 +548,15 @@
    "ok": true
   },
   "workingnomads": {
-   "fetched": 32,
-   "ms": 475,
+   "fetched": 17,
+   "ms": 108,
    "ok": true
   },
   "wwr": {
    "fetched": 18,
-   "ms": 320,
+   "ms": 161,
    "ok": true
   }
  },
- "started_at": "2026-11-06T15:46:48Z"
+ "started_at": "2026-11-07T21:48:40Z"
 }
