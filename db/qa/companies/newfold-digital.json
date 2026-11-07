@@ -1,0 +1,31 @@
+{
+ "category": "Product / SaaS",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-07T12:54:00Z",
+  "evidence": [
+   {
+    "detail": "Software Development Engineer in Test - AI — India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://himalayas.app/companies/newfold-digital/jobs/software-development-engineer-in-test-ai?utm_source=api",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-07T12:54:00Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "42371c8f87",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "logo": "https://cdn-images.himalayas.app/zatxmg0ucn23bp621zf3lp44kh4j",
+ "name": "Newfold Digital",
+ "slug": "newfold-digital",
+ "tier": 1,
+ "tracks": [
+  "software"
+ ]
+}

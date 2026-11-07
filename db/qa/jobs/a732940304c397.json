@@ -1,0 +1,105 @@
+{
+ "apply_url": null,
+ "board_apply": "https://himalayas.app/companies/newfold-digital/jobs/software-development-engineer-in-test-ai?utm_source=api",
+ "category": "Product / SaaS",
+ "comp_potential": "unknown",
+ "company": "Newfold Digital",
+ "company_slug": "newfold-digital",
+ "concerns": [
+  "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
+  "Also asks for: API testing, SQL / databases, Programming",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "a93fc03a9f76",
+ "date_quality": "exact",
+ "deadline": "2027-01-06T11:11:55Z",
+ "employment": "full-time",
+ "first_seen": "2026-11-07T12:54:00Z",
+ "fit": 74,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "a732940304c397",
+ "include_reason": "Automation-heavy QA (SDET)",
+ "india": {
+  "cities": [],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "automation",
+ "last_verified": "2026-11-07T12:54:00Z",
+ "location": "India",
+ "logo": "https://cdn-images.himalayas.app/zatxmg0ucn23bp621zf3lp44kh4j",
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-11-07T11:11:58Z",
+ "repost": false,
+ "requirements": [
+  "Knowledge of: LangChain, LangGraph, LlamaIndex CrewAI Semantic Kernel MCP (Model Context Protocol)",
+  "Hands-on experience with: Cursor GitHub Copilot Claude Gemini OpenAI APIs"
+ ],
+ "responsibilities": [
+  "1. AI/LLM Quality Engineering",
+  "Design, validate, and optimize testing strategies for AI-powered applications, copilots, chatbots, RAG pipelines, and autonomous AI agents.",
+  "Develop AI evaluation (Evals) frameworks for: Hallucination detection Groundedness Toxicity & bias validation Response quality Context relevance Prompt regression testing Determinism & consistency Safety and guardrail validation",
+  "Build automated validation pipelines for LLM outputs using structured assertions, semantic scoring, embeddings, and evaluation metrics.",
+  "Create synthetic datasets and benchmark datasets for AI testing scenarios.",
+  "Test multi-agent orchestration workflows and agent memory/context retention.",
+  "Validate MCP (Model Context Protocol) integrations and tool interoperability."
+ ],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 68,
+  "comp": 60,
+  "company": 95,
+  "location": 100,
+  "seniority": 84,
+  "skill": 49
+ },
+ "seniority": "unspecified",
+ "snippet": "Who we are. \n Newfold Digital is a leading web technology company serving millions of customers globally. Our customers know us through our robust portfolio of brands. We have some of the industry's most prominent and storied go-to-market brands, including Bluehost, HostGator, Domain.com, Network Solutions, Register.com and Web.com. We help customers of all sizes build a digital presence that delivers results. With o",
+ "source_primary": "Himalayas",
+ "sources": [
+  {
+   "id": "himalayas",
+   "job_id": "https://himalayas.app/companies/newfold-digital/jobs/software-development-engineer-in-test-ai",
+   "kind": "board",
+   "name": "Himalayas",
+   "posted_at": "2026-11-07T11:11:58Z",
+   "seen_at": "2026-11-07T12:54:00Z",
+   "url": "https://himalayas.app/companies/newfold-digital/jobs/software-development-engineer-in-test-ai?utm_source=api"
+  }
+ ],
+ "specializations": [
+  "Web apps"
+ ],
+ "status": "active",
+ "tier": 1,
+ "title": "Software Development Engineer in Test - AI",
+ "tools": [
+  "Regression testing",
+  "Compatibility testing",
+  "Stress / load testing",
+  "API testing",
+  "SQL / databases",
+  "Test automation",
+  "Programming",
+  "Agile / Scrum"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://himalayas.app/companies/newfold-digital/jobs/software-development-engineer-in-test-ai?utm_source=api",
+ "why": [
+  "Already on your resume: Regression testing, Compatibility testing, Stress / load testing",
+  "Product / SaaS company",
+  "Location lists India"
+ ],
+ "work_mode": "remote",
+ "years_max": null,
+ "years_min": null
+}
