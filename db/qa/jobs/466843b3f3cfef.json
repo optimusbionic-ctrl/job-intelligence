@@ -1,0 +1,93 @@
+{
+ "apply_url": null,
+ "board_apply": "https://himalayas.app/companies/lifelancer/jobs/software-qa-engineer?utm_source=api",
+ "category": "Product / SaaS",
+ "comp_potential": "unknown",
+ "company": "Lifelancer",
+ "company_slug": "lifelancer",
+ "concerns": [
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "0c7229a4466b",
+ "date_quality": "exact",
+ "deadline": "2027-01-06T05:24:28Z",
+ "employment": "full-time",
+ "first_seen": "2026-11-07T06:49:53Z",
+ "fit": 79,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "466843b3f3cfef",
+ "include_reason": "QA / test engineer title",
+ "india": {
+  "cities": [],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "qa-engineer",
+ "last_verified": "2026-11-07T06:49:53Z",
+ "location": "India",
+ "logo": "https://cdn-images.himalayas.app/ztdsyzatuliky237a5zq922sir0k",
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-11-07T05:24:29Z",
+ "repost": false,
+ "requirements": [
+  "Carries out procedures to ensure that all information systems products and services meet minimum organization standards and end-user requirements.",
+  "Defines master test plans to document overall testing strategy for a project.",
+  "Executes test scripts to test software, documenting validation of test scenarios, defects, and resolution.",
+  "Analyzes test results; reviews test plans and supporting execution documentation as required.",
+  "Provides risk assessment throughout test cycles and create lessons learned summary upon completion of project.",
+  "Writes test plans for application functionality and software systems using a prescribed style and format.",
+  "Effectively presents information in both written and verbal form to management, customers (internal only), or other technical personnel."
+ ],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 60,
+  "company": 95,
+  "location": 100,
+  "seniority": 84,
+  "skill": 72
+ },
+ "seniority": "unspecified",
+ "snippet": "Job Title: Software QA Engineer\n Job Location: Bengaluru, Karnataka, India\n Job Location Type: Remote\n Job Contract Type: Full-time\n Job Seniority Level: \n Job Overview\n Under broad guidance, executes and verifies software application tests.\n Essential Functions\n\n• Analyzes business and functional requirements for completeness; derives valid test cases.\n\n• Carries out procedures to ensure that all information systems",
+ "source_primary": "Himalayas",
+ "sources": [
+  {
+   "id": "himalayas",
+   "job_id": "https://himalayas.app/companies/lifelancer/jobs/software-qa-engineer",
+   "kind": "board",
+   "name": "Himalayas",
+   "posted_at": "2026-11-07T05:24:29Z",
+   "seen_at": "2026-11-07T06:49:53Z",
+   "url": "https://himalayas.app/companies/lifelancer/jobs/software-qa-engineer?utm_source=api"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 1,
+ "title": "Software QA Engineer",
+ "tools": [
+  "Test cases & scenarios",
+  "Bug reporting"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://himalayas.app/companies/lifelancer/jobs/software-qa-engineer?utm_source=api",
+ "why": [
+  "QA / test engineer role",
+  "Already on your resume: Test cases & scenarios, Bug reporting",
+  "Product / SaaS company",
+  "Location lists India"
+ ],
+ "work_mode": "remote",
+ "years_max": null,
+ "years_min": null
+}
