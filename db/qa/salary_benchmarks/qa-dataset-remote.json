@@ -1,5 +1,5 @@
 {
- "avg": 6589742,
+ "avg": 6134015,
  "basis": "Interquartile range of posting midpoints, converted to INR at today's rate",
  "currency": "INR",
  "high": 10826005,
@@ -7,7 +7,7 @@
  "label": "Disclosed pay on remote QA postings (any region, this dataset)",
  "low": 4330402,
  "market": "Remote (global)",
- "n": 11,
+ "n": 10,
  "retrieved_at": "2026-11-07",
  "samples": [
   {
@@ -63,15 +63,6 @@
    "min": 60000,
    "title": "Digital Operations, Associate Tester- CRG",
    "url": "https://himalayas.app/companies/lifelancer/jobs/digital-operations-associate-tester-crg-3789914971?utm_source=api"
-  },
-  {
-   "company": "YO AI Labs",
-   "currency": "USD",
-   "location": "United States",
-   "max": 120000,
-   "min": 60000,
-   "title": "AI Agent Tester Real-World Tasks  - Remote",
-   "url": "https://himalayas.app/companies/yo-ai-labs/jobs/ai-agent-tester-real-world-tasks-remote?utm_source=api"
   },
   {
    "company": "SpaceCoast AV Consultants, LLC",
