@@ -160,6 +160,14 @@
    "at": "2026-11-03T23:44:21Z",
    "ats": null
   },
+  "cyberinfrastructure": {
+   "at": "2026-11-07T23:40:14Z",
+   "ats": null
+  },
+  "daemonventures": {
+   "at": "2026-11-07T23:40:14Z",
+   "ats": null
+  },
   "decagames": {
    "at": "2026-11-03T18:55:47Z",
    "ats": null
@@ -194,6 +202,10 @@
   },
   "electronicarts": {
    "at": "2026-11-03T18:55:47Z",
+   "ats": null
+  },
+  "emeraldbusinessventures": {
+   "at": "2026-11-07T23:40:14Z",
    "ats": null
   },
   "enterslice": {
@@ -262,6 +274,10 @@
   },
   "gametion": {
    "at": "2026-11-03T18:55:47Z",
+   "ats": null
+  },
+  "gembaconcepts": {
+   "at": "2026-11-07T23:40:14Z",
    "ats": null
   },
   "globant": {
@@ -424,6 +440,10 @@
    "at": "2026-11-03T19:56:44Z",
    "ats": null
   },
+  "nonstopio": {
+   "at": "2026-11-07T23:40:14Z",
+   "ats": null
+  },
   "nubes": {
    "at": "2026-11-03T23:44:21Z",
    "ats": null
@@ -462,6 +482,10 @@
   },
   "planit": {
    "at": "2026-11-03T21:50:10Z",
+   "ats": null
+  },
+  "pointible": {
+   "at": "2026-11-07T23:40:14Z",
    "ats": null
   },
   "pontoonglobal": {
@@ -741,6 +765,10 @@
    "at": "2026-11-03T22:50:01Z",
    "ats": null
   },
+  "worlderteampte": {
+   "at": "2026-11-07T23:40:14Z",
+   "ats": null
+  },
   "xperteez": {
    "at": "2026-11-03T21:33:45Z",
    "ats": null
@@ -756,9 +784,9 @@
  },
  "counts": {
   "closed": 12,
-  "keep": 26,
-  "live": 209,
-  "stale": 71
+  "keep": 22,
+  "live": 220,
+  "stale": 64
  },
- "updated_at": "2026-11-07T22:43:57Z"
+ "updated_at": "2026-11-07T23:41:50Z"
 }
