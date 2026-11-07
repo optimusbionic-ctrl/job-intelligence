@@ -3,20 +3,20 @@
  "classification": "Inferred from job description",
  "india_hiring": {
   "board": null,
-  "changed_at": "2026-11-07T01:59:41Z",
+  "changed_at": "2026-11-07T02:53:06Z",
   "evidence": [
    {
-    "detail": "Automation Tester — Ahmednagar, India",
+    "detail": "Manual and Automation Tester — Mumbai City, Pune, India",
     "kind": "posting",
     "label": "A current posting lists India as a location",
-    "url": "https://www.shine.com/jobs/automation-tester/harjai-computers-private-limited/20007899",
+    "url": "https://www.shine.com/jobs/manual-and-automation-tester/harjai-computers-private-limited/20014969",
     "weight": 5
    }
   ],
   "first_checked_at": "2026-10-19T13:24:59Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "f1c6e2ed6f",
+  "sig": "5c77019c4d",
   "summary": "A current posting lists India as a location.",
   "verdict": "yes"
  },
