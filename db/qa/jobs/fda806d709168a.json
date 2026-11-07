@@ -1,0 +1,85 @@
+{
+ "apply_url": null,
+ "board_apply": "https://himalayas.app/companies/oneforma/jobs/software-test-engineer-3418592534?utm_source=api",
+ "category": "IT services",
+ "comp_potential": "unknown",
+ "company": "OneForma",
+ "company_slug": "oneforma",
+ "concerns": [
+  "Pay not disclosed — ask for the range early",
+  "IT services company (client projects)"
+ ],
+ "contacts_count": 0,
+ "content_hash": "043c393a5bde",
+ "date_quality": "exact",
+ "deadline": "2027-01-06T15:32:48Z",
+ "employment": "full-time",
+ "first_seen": "2026-11-07T17:40:23Z",
+ "fit": 77,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "fda806d709168a",
+ "include_reason": "QA / test engineer title",
+ "india": {
+  "cities": [],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "qa-engineer",
+ "last_verified": "2026-11-07T17:40:23Z",
+ "location": "India",
+ "logo": "https://cdn-images.himalayas.app/nxtd8ulxjpykm09n3fe3sy216edr",
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-11-07T15:32:49Z",
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 60,
+  "company": 76,
+  "location": 100,
+  "seniority": 84,
+  "skill": 72
+ },
+ "seniority": "unspecified",
+ "snippet": "About Centific\n At Centific, people are at the center of our culture.We constantly seek out opportunities for people to enhance their skills,\n and emphasize work-life balance for all our employees.We believe that competition can bring out the very best in people\n\n• from our annual creative film and speech contests to our weekly office game tournaments,we mix work and play to engage our people and help our clients suc",
+ "source_primary": "Himalayas",
+ "sources": [
+  {
+   "id": "himalayas",
+   "job_id": "https://himalayas.app/companies/oneforma/jobs/software-test-engineer-3418592534",
+   "kind": "board",
+   "name": "Himalayas",
+   "posted_at": "2026-11-07T15:32:49Z",
+   "seen_at": "2026-11-07T17:40:23Z",
+   "url": "https://himalayas.app/companies/oneforma/jobs/software-test-engineer-3418592534?utm_source=api"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 2,
+ "title": "Software Test Engineer",
+ "tools": [
+  "Test cases & scenarios",
+  "Bug reporting"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://himalayas.app/companies/oneforma/jobs/software-test-engineer-3418592534?utm_source=api",
+ "why": [
+  "QA / test engineer role",
+  "Already on your resume: Test cases & scenarios, Bug reporting",
+  "Location lists India"
+ ],
+ "work_mode": "remote",
+ "years_max": null,
+ "years_min": null
+}

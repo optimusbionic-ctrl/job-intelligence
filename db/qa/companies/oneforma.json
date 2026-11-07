@@ -1,0 +1,31 @@
+{
+ "category": "IT services",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-07T17:40:23Z",
+  "evidence": [
+   {
+    "detail": "Software Test Engineer — India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://himalayas.app/companies/oneforma/jobs/software-test-engineer-3418592534?utm_source=api",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-07T17:40:23Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "2c7964c42d",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "logo": "https://cdn-images.himalayas.app/nxtd8ulxjpykm09n3fe3sy216edr",
+ "name": "OneForma",
+ "slug": "oneforma",
+ "tier": 2,
+ "tracks": [
+  "software"
+ ]
+}
