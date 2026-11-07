@@ -1,0 +1,30 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-07T12:48:44Z",
+  "evidence": [
+   {
+    "detail": "Test Automation Engineer — Mumbai City, Pune, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/test-automation-engineer/ayurveda/20028692",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-07T12:48:44Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "a9b309c16e",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "AYURVEDA",
+ "slug": "ayurveda",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}
