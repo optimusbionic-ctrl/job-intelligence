@@ -1,0 +1,30 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-07T10:47:41Z",
+  "evidence": [
+   {
+    "detail": "Software Tester — Mumbai City, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/software-tester/suraj-pramod-jha-people-360-services/20021837",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-07T10:47:41Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "f006732a21",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Suraj Pramod Jha (People 360 Services)",
+ "slug": "suraj-pramod-jha-people-360-services",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}

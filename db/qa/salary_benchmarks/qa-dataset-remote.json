@@ -1,5 +1,5 @@
 {
- "avg": 6134015,
+ "avg": 6589742,
  "basis": "Interquartile range of posting midpoints, converted to INR at today's rate",
  "currency": "INR",
  "high": 10826005,
@@ -7,7 +7,7 @@
  "label": "Disclosed pay on remote QA postings (any region, this dataset)",
  "low": 4330402,
  "market": "Remote (global)",
- "n": 10,
+ "n": 11,
  "retrieved_at": "2026-11-07",
  "samples": [
   {
@@ -63,6 +63,15 @@
    "min": 60000,
    "title": "Digital Operations, Associate Tester- CRG",
    "url": "https://himalayas.app/companies/lifelancer/jobs/digital-operations-associate-tester-crg-3789914971?utm_source=api"
+  },
+  {
+   "company": "Businessolver",
+   "currency": "USD",
+   "location": "United States",
+   "max": 99000,
+   "min": 65000,
+   "title": "Product Quality Analyst II",
+   "url": "https://himalayas.app/companies/businessolver/jobs/product-quality-analyst-ii?utm_source=api"
   },
   {
    "company": "SpaceCoast AV Consultants, LLC",
