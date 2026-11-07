@@ -1,0 +1,30 @@
+{
+ "category": "Product / SaaS",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-07T08:04:13Z",
+  "evidence": [
+   {
+    "detail": "Manual Testing Engineer/Sr (India) — Mumbai City, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/manual-testing-engineer-sr-india/trigent-software-private/20019762",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-07T08:04:13Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "84fd3f89ba",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "TRIGENT SOFTWARE PRIVATE",
+ "slug": "trigent-software-private",
+ "tier": 1,
+ "tracks": [
+  "software"
+ ]
+}
