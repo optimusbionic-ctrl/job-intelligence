@@ -9,11 +9,10 @@
   "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
   "Asks for 4+ years — you have about 2.5",
   "Office outside Mumbai — relocation within India",
-  "Pay not disclosed — ask for the range early",
-  "Reposted / refreshed listing — original posting is older"
+  "Pay not disclosed — ask for the range early"
  ],
  "contacts_count": 0,
- "content_hash": "ceccbee03a11",
+ "content_hash": "d16798a4b1b2",
  "date_quality": "exact",
  "deadline": null,
  "employment": "full-time",
@@ -35,13 +34,13 @@
   "visa": false
  },
  "kind": "automation",
- "last_verified": "2026-11-07T08:04:13Z",
+ "last_verified": "2026-11-07T09:30:16Z",
  "location": "Pune, Hyderabad, India",
  "logo": null,
  "needs_review": false,
  "official": false,
- "posted_at": "2026-10-22T15:44:40Z",
- "repost": true,
+ "posted_at": "2026-10-21T16:07:24Z",
+ "repost": false,
  "requirements": [
   "(Summary from the Shine.com listing; open the posting for the full description.)"
  ],
@@ -67,8 +66,17 @@
    "kind": "board",
    "name": "Shine.com",
    "posted_at": "2026-10-22T15:44:40Z",
-   "seen_at": "2026-11-07T08:04:13Z",
+   "seen_at": "2026-11-07T09:30:16Z",
    "url": "https://www.shine.com/jobs/automation-tester/alphacom-systems-and-solutions-pvt-ltd/19895662"
+  },
+  {
+   "id": "shine",
+   "job_id": "19876095",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-10-21T16:07:24Z",
+   "seen_at": "2026-11-07T09:30:16Z",
+   "url": "https://www.shine.com/jobs/automation-tester/alphacom-systems-and-solutions-pvt-ltd/19876095"
   }
  ],
  "specializations": [],
