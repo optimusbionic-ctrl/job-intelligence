@@ -1,15 +1,24 @@
 {
- "avg": 12165046,
+ "avg": 11794745,
  "basis": "Interquartile range of posting midpoints, converted to INR at today's rate",
  "currency": "INR",
  "high": 17651096,
  "id": "mi-dataset-remote",
  "label": "Disclosed pay on remote motion-design postings (any region, this dataset)",
- "low": 9413918,
+ "low": 9037361,
  "market": "Remote (global)",
  "n": 17,
  "retrieved_at": "2026-11-07",
  "samples": [
+  {
+   "company": "Remote Talent LATAM",
+   "currency": "USD",
+   "location": "Argentina, Brazil, Chile, Colombia, Costa Rica, Dominican Republic, Ecuador, El Salvador, Guatemala, Honduras, Mexico, Nicaragua, Panama, Paraguay, Peru, Uruguay, Venezuela",
+   "max": 30000,
+   "min": 30000,
+   "title": "Social Media Motion Graphic Designer | Remote | LATAM Only | 88150",
+   "url": "https://himalayas.app/companies/remote-talent-latam/jobs/social-media-motion-graphic-designer-remote-latam-only-88150?utm_source=api"
+  },
   {
    "company": "Rankings.io",
    "currency": "USD",
@@ -90,15 +99,6 @@
    "min": 92600,
    "title": "Sr. Motion Designer",
    "url": "https://jobs.ashbyhq.com/zapier/c0582311-18cb-4415-9c86-79014f1b74f6"
-  },
-  {
-   "company": "Acumenian (now Consertus)",
-   "currency": "USD",
-   "location": "United States",
-   "max": 145000,
-   "min": 125000,
-   "title": "Multimedia Content Designer",
-   "url": "https://himalayas.app/companies/acumenian-now-consertus/jobs/multimedia-content-designer?utm_source=api"
   },
   {
    "company": "Huckleberry Labs",
