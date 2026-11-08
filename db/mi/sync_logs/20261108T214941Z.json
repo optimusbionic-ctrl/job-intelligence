@@ -2,7 +2,7 @@
  "alerts_count": 0,
  "changed_count": 0,
  "closed_count": 9,
- "duration_s": 38.0,
+ "duration_s": 38.8,
  "enrichment": {
   "careers_emails": 0,
   "dates_estimated": 0,
@@ -11,17 +11,17 @@
   "searches": 0
  },
  "excluded_counts": {
-  "Adjacent title without substantial motion work": 33,
-  "Character / film / game animation": 8,
-  "Generic product/UX designer (no motion specialisation in title)": 58,
-  "Graphic / illustration role": 38,
+  "Adjacent title without substantial motion work": 34,
+  "Character / film / game animation": 7,
+  "Generic product/UX designer (no motion specialisation in title)": 59,
+  "Graphic / illustration role": 40,
   "Intern / junior / entry level": 16,
-  "Junior experience requirement": 1,
-  "Not a design role": 53,
-  "Not a motion role": 257,
-  "Not open to India": 72,
+  "Junior experience requirement": 2,
+  "Not a design role": 51,
+  "Not a motion role": 261,
+  "Not open to India": 74,
   "Older than window": 204,
-  "Pure video editing role": 49,
+  "Pure video editing role": 50,
   "Social content role": 2,
   "Staffing agency listing — employer not identified": 5,
   "Unpaid / volunteer": 3
@@ -110,6 +110,13 @@
    "source": "Himalayas",
    "title": "Sr. Video Editor & Motion Designer – AI Workflows (Remote, LATAM)",
    "url": "https://himalayas.app/companies/rankings-io/jobs/sr-video-editor-motion-designer-ai-workflows-remote-latam?utm_source=api"
+  },
+  {
+   "company": "Hire Overseas",
+   "reason": "Not open to India: Restricted to Anguilla, Antigua and Barbuda, Argentina, Aruba, Bahamas, Ba",
+   "source": "Himalayas",
+   "title": "Creative Designer (Static and Motion) (BBS922)",
+   "url": "https://himalayas.app/companies/hire-overseas/jobs/creative-designer-static-and-motion-bbs922?utm_source=api"
   },
   {
    "company": "YO AI Labs",
@@ -210,13 +217,6 @@
    "url": "https://himalayas.app/companies/highscale/jobs/motion-graphics-editor-5297343700?utm_source=api"
   },
   {
-   "company": "Yaqeen Institute",
-   "reason": "Character / film / game animation",
-   "source": "Himalayas",
-   "title": "Animator (2D & 3D)",
-   "url": "https://himalayas.app/companies/yaqeen-institute/jobs/animator-2d-3d?utm_source=api"
-  },
-  {
    "company": "Wpromote",
    "reason": "Not open to India: Restricted to USA",
    "source": "Jobicy",
@@ -312,14 +312,14 @@
    "reason": "Character / film / game animation",
    "source": "Epic Games careers (Greenhouse)",
    "title": "Lead Technical Animator",
-   "url": "https://epicgames.com/careers/jobs/6203696004?gh_jid=6203696004"
+   "url": "https://epicgames.com/careers/jobs/6203698004?gh_jid=6203698004"
   },
   {
    "company": "Epic Games",
    "reason": "Character / film / game animation",
    "source": "Epic Games careers (Greenhouse)",
    "title": "Lead Technical Animator",
-   "url": "https://epicgames.com/careers/jobs/6203698004?gh_jid=6203698004"
+   "url": "https://epicgames.com/careers/jobs/6203696004?gh_jid=6203696004"
   },
   {
    "company": "Raisin",
@@ -462,28 +462,28 @@
    "url": "https://www.foundit.in/job/senior-motion-designer-jobgether-india-60670321"
   }
  ],
- "finished_at": "2026-11-07T15:50:54Z",
+ "finished_at": "2026-11-08T21:50:19Z",
  "fx": {
-  "as_of": "Sat, 07 Nov 2026 00:02:31 +0000",
+  "as_of": "Sun, 08 Nov 2026 00:02:31 +0000",
   "source": "https://open.er-api.com/v6/latest/USD (ExchangeRate-API open access)",
-  "usd_inr": 94.139177
+  "usd_inr": 94.114483
  },
- "id": "20261107T155016Z",
+ "id": "20261108T214941Z",
  "india_checks": {
-  "companies": 71,
+  "companies": 72,
   "roles_clarified": 2,
   "verdicts": {
    "likely": 2,
    "no": 2,
-   "unclear": 31,
+   "unclear": 32,
    "yes": 36
   },
   "web_checked": 0
  },
- "kept": 66,
+ "kept": 67,
  "new_count": 0,
  "pipeline_version": "2.1.0",
- "raw_count": 873,
+ "raw_count": 883,
  "source_status": {
   "ashby": {
    "boards": 64,
@@ -492,8 +492,8 @@
    "ok": true
   },
   "dribbble": {
-   "fetched": 29,
-   "ms": 11539,
+   "fetched": 28,
+   "ms": 15683,
    "ok": true
   },
   "greenhouse": {
@@ -506,18 +506,18 @@
    "ok": true
   },
   "himalayas": {
-   "fetched": 261,
-   "ms": 14807,
+   "fetched": 265,
+   "ms": 16003,
    "ok": true
   },
   "hn": {
    "fetched": 1,
-   "ms": 7141,
+   "ms": 6733,
    "ok": true
   },
   "jobicy": {
-   "fetched": 141,
-   "ms": 3201,
+   "fetched": 161,
+   "ms": 3113,
    "ok": true
   },
   "lever": {
@@ -528,17 +528,17 @@
   },
   "motionographer": {
    "fetched": 1,
-   "ms": 226,
+   "ms": 295,
    "ok": true
   },
   "remoteok": {
-   "fetched": 219,
-   "ms": 7508,
+   "fetched": 218,
+   "ms": 7250,
    "ok": true
   },
   "remotive": {
-   "fetched": 12,
-   "ms": 4780,
+   "fetched": 13,
+   "ms": 5362,
    "ok": true
   },
   "smartrecruiters": {
@@ -548,15 +548,15 @@
    "ok": true
   },
   "workingnomads": {
-   "fetched": 32,
-   "ms": 491,
+   "fetched": 17,
+   "ms": 468,
    "ok": true
   },
   "wwr": {
-   "fetched": 17,
-   "ms": 502,
+   "fetched": 18,
+   "ms": 418,
    "ok": true
   }
  },
- "started_at": "2026-11-07T15:50:16Z"
+ "started_at": "2026-11-08T21:49:41Z"
 }
