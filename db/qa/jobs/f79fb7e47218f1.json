@@ -1,0 +1,107 @@
+{
+ "apply_url": null,
+ "board_apply": "https://himalayas.app/companies/marcopolo-learning/jobs/qa-automation-engineer-ai-first?utm_source=api",
+ "category": "Product / SaaS",
+ "comp_potential": "unknown",
+ "company": "MarcoPolo Learning",
+ "company_slug": "marcopolo-learning",
+ "concerns": [
+  "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
+  "Also asks for: API testing, SQL / databases, Programming",
+  "Pay not disclosed — ask for the range early",
+  "Contract role"
+ ],
+ "contacts_count": 0,
+ "content_hash": "4fa1dde0406c",
+ "date_quality": "exact",
+ "deadline": "2027-01-07T01:44:20Z",
+ "employment": "contract",
+ "first_seen": "2026-11-08T02:55:35Z",
+ "fit": 81,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "f79fb7e47218f1",
+ "include_reason": "Automation-heavy QA (SDET)",
+ "india": {
+  "cities": [],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": true
+ },
+ "kind": "automation",
+ "last_verified": "2026-11-08T02:55:35Z",
+ "location": "India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-11-08T01:44:20Z",
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [
+  "We ship fast. AI helps our engineers write code quicker than ever, and we’re about to launch two major web platforms used by thousands of educators. Speed only counts if what reaches teachers works beautifully, every time.",
+  "We’re looking for a QA Automation Engineer who wants to own that quality. You’ll learn our products inside out, help us move from manual checks to smart, AI-assisted automated testing, and become the person the team trusts to say “this is ready.”",
+  "You’ll work directly with our technical project manager and engineers, get hands-on with the latest AI testing and agent tools, and have room to grow into a broader engineering role as you prove yourself."
+ ],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 84,
+  "comp": 60,
+  "company": 95,
+  "location": 100,
+  "seniority": 100,
+  "skill": 59
+ },
+ "seniority": "unspecified",
+ "snippet": "QA Automation Engineer (AI-First)\n Location: Bengaluru, India (remote), with daily overlap with our UK team\n Engagement Type: Full-time contract, 3 months then ongoing\n Experience: 2–4 years\n Reports to: Technical Project Manager\n Compensation: India-based, aligned to experience and location\n About MarcoPolo Learning \n\n MarcoPolo Learning is a leading provider of innovative content, technology, and instructional supp",
+ "source_primary": "Himalayas",
+ "sources": [
+  {
+   "id": "himalayas",
+   "job_id": "https://himalayas.app/companies/marcopolo-learning/jobs/qa-automation-engineer-ai-first",
+   "kind": "board",
+   "name": "Himalayas",
+   "posted_at": "2026-11-08T01:44:20Z",
+   "seen_at": "2026-11-08T02:55:35Z",
+   "url": "https://himalayas.app/companies/marcopolo-learning/jobs/qa-automation-engineer-ai-first?utm_source=api"
+  }
+ ],
+ "specializations": [
+  "Android",
+  "iOS",
+  "Mobile apps",
+  "Web apps"
+ ],
+ "status": "active",
+ "tier": 1,
+ "title": "QA Automation Engineer (AI-First)",
+ "tools": [
+  "Regression testing",
+  "Compatibility testing",
+  "Test cases & scenarios",
+  "Bug reporting",
+  "Jira",
+  "API testing",
+  "SQL / databases",
+  "Test automation",
+  "Programming",
+  "Agile / Scrum",
+  "ISTQB"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://himalayas.app/companies/marcopolo-learning/jobs/qa-automation-engineer-ai-first?utm_source=api",
+ "why": [
+  "Already on your resume: Regression testing, Compatibility testing, Test cases & scenarios, Bug reporting, Jira",
+  "Platforms you test on: Android, iOS, Mobile apps",
+  "Product / SaaS company",
+  "Asks for 2–4 years — you have about 2.5",
+  "Location lists India"
+ ],
+ "work_mode": "remote",
+ "years_max": 4,
+ "years_min": 2
+}

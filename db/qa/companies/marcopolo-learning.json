@@ -1,0 +1,30 @@
+{
+ "category": "Product / SaaS",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-08T02:55:35Z",
+  "evidence": [
+   {
+    "detail": "QA Automation Engineer (AI-First) — India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://himalayas.app/companies/marcopolo-learning/jobs/qa-automation-engineer-ai-first?utm_source=api",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-08T02:55:35Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "153ee64df9",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "MarcoPolo Learning",
+ "slug": "marcopolo-learning",
+ "tier": 1,
+ "tracks": [
+  "software"
+ ]
+}
