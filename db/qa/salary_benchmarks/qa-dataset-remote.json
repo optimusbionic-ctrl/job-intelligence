@@ -7,7 +7,7 @@
  "label": "Disclosed pay on remote QA postings (any region, this dataset)",
  "low": 4329266,
  "market": "Remote (global)",
- "n": 9,
+ "n": 11,
  "retrieved_at": "2026-11-08",
  "samples": [
   {
@@ -27,6 +27,15 @@
    "min": 84000,
    "title": "Manual Tester with Linux (QA team)",
    "url": "https://himalayas.app/companies/storware-sp-z-o-o/jobs/manual-tester-with-linux-qa-team?utm_source=api"
+  },
+  {
+   "company": "Welo Global",
+   "currency": "USD",
+   "location": "United States",
+   "max": 46000,
+   "min": 46000,
+   "title": "Maps Quality Tester- English (Austin)",
+   "url": "https://himalayas.app/companies/welo-global/jobs/maps-quality-tester-english-austin?utm_source=api"
   },
   {
    "company": "Welocalize",
@@ -54,6 +63,15 @@
    "min": 60000,
    "title": "Digital Operations, Associate Tester- CRG",
    "url": "https://himalayas.app/companies/lifelancer/jobs/digital-operations-associate-tester-crg-3789914971?utm_source=api"
+  },
+  {
+   "company": "YO AI Labs",
+   "currency": "USD",
+   "location": "United States",
+   "max": 120000,
+   "min": 60000,
+   "title": "AI Agent Tester Real-World Tasks  - Remote",
+   "url": "https://himalayas.app/companies/yo-ai-labs/jobs/ai-agent-tester-real-world-tasks-remote?utm_source=api"
   },
   {
    "company": "SpaceCoast AV Consultants, LLC",
