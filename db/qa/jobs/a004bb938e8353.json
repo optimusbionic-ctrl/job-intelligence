@@ -1,0 +1,82 @@
+{
+ "apply_url": null,
+ "board_apply": "https://app.semesteria.com/jobs/quality-assurance-engineer-remote-semesteria-45f3341a-2e50-4536-abd8-8533a98ef589",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "Semesteria",
+ "company_slug": "semesteria",
+ "concerns": [
+  "Employer has not confirmed hiring from India",
+  "Pay not disclosed — ask for the range early",
+  "Full description not available from this source"
+ ],
+ "contacts_count": 0,
+ "content_hash": "dbb8b7fae4cc",
+ "date_quality": "unknown",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-08T00:48:42Z",
+ "fit": 66,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "a004bb938e8353",
+ "include_reason": "QA / test engineer title",
+ "india": {
+  "cities": [],
+  "company": "unclear",
+  "reason": "Remote, region not stated",
+  "status": "unconfirmed",
+  "visa": false
+ },
+ "kind": "qa-engineer",
+ "last_verified": "2026-11-08T00:48:42Z",
+ "location": "Remote",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": null,
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "context_benchmark": "qa-dataset-remote",
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 55,
+  "comp": 60,
+  "company": 66,
+  "location": 36,
+  "seniority": 84,
+  "skill": 74
+ },
+ "seniority": "unspecified",
+ "snippet": "",
+ "source_primary": "Semesteria (via search index)",
+ "sources": [
+  {
+   "id": "web",
+   "job_id": "https://app.semesteria.com/jobs/quality-assurance-engineer-remote-semesteria-45f3341a-2e50-4536-abd8-8533a98ef589",
+   "kind": "search",
+   "name": "Semesteria (via search index)",
+   "posted_at": null,
+   "seen_at": "2026-11-08T00:48:42Z",
+   "url": "https://app.semesteria.com/jobs/quality-assurance-engineer-remote-semesteria-45f3341a-2e50-4536-abd8-8533a98ef589"
+  }
+ ],
+ "specializations": [],
+ "status": "lead",
+ "tier": 3,
+ "title": "Quality Assurance Engineer (Remote)",
+ "tools": [],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://app.semesteria.com/jobs/quality-assurance-engineer-remote-semesteria-45f3341a-2e50-4536-abd8-8533a98ef589",
+ "why": [
+  "QA / test engineer role"
+ ],
+ "work_mode": "remote",
+ "years_max": null,
+ "years_min": null
+}
