@@ -3,22 +3,14 @@
  "classification": "Inferred from job description",
  "india_hiring": {
   "board": null,
-  "changed_at": "2026-10-17T15:28:24Z",
-  "evidence": [
-   {
-    "detail": "Motion Graphics Artist — Greater Bengaluru Area",
-    "kind": "posting",
-    "label": "A current posting lists India as a location",
-    "url": "https://in.linkedin.com/jobs/view/motion-graphics-artist-at-miles-education-4479333952",
-    "weight": 5
-   }
-  ],
+  "changed_at": "2026-11-08T18:32:40Z",
+  "evidence": [],
   "first_checked_at": "2026-10-17T15:28:24Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "2e73af0416",
-  "summary": "A current posting lists India as a location.",
-  "verdict": "yes"
+  "sig": "54391d7cdf",
+  "summary": "No public evidence yet about hiring from India.",
+  "verdict": "unclear"
  },
  "inferred": true,
  "name": "Miles Education",
