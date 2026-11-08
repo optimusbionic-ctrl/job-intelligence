@@ -1,0 +1,32 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "domain": "99brightminds.com",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-08T10:48:32Z",
+  "evidence": [
+   {
+    "detail": "Salesforce QA / Testing Analyst — Indore, Madhya Pradesh, India (Remote)",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://jobs.workable.com/view/xaG5CgwonmTuqvMoG1DDxA/remote-salesforce-qa-%2F-testing-analyst-in-indore-at-99brightminds",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-08T10:48:32Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "3f1f3c609f",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "logo": "https://workablehr.s3.amazonaws.com/uploads/account/logo/745898/logo",
+ "name": "99brightminds",
+ "slug": "99brightminds",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}

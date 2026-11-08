@@ -1,0 +1,108 @@
+{
+ "apply_url": null,
+ "board_apply": "https://jobs.workable.com/view/xaG5CgwonmTuqvMoG1DDxA/remote-salesforce-qa-%2F-testing-analyst-in-indore-at-99brightminds",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "99brightminds",
+ "company_slug": "99brightminds",
+ "concerns": [
+  "Mentions test automation — be ready to discuss it or show a small script",
+  "Also asks for: Test management (TestRail/Zephyr)",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "ca9f6c6f08b0",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-08T10:48:32Z",
+ "fit": 80,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "a7ad57ed9615b9",
+ "include_reason": "Manual / functional QA title",
+ "india": {
+  "cities": [],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "manual-qa",
+ "last_verified": "2026-11-08T10:48:32Z",
+ "location": "Indore, Madhya Pradesh, India (Remote)",
+ "logo": "https://workablehr.s3.amazonaws.com/uploads/account/logo/745898/logo",
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-11-08T10:28:58Z",
+ "repost": false,
+ "requirements": [
+  "3+ years of experience in software quality assurance and testing.",
+  "Hands-on experience with one or more Salesforce products, including Sales Cloud, Service Cloud, Data Cloud, or Marketing Cloud.",
+  "Experience in both manual and automated testing methodologies.",
+  "Strong understanding of software testing principles, defect management, and test lifecycle processes.",
+  "Experience testing integrated enterprise applications and complex business workflows.",
+  "Experience working in Agile environments, including Scrum and Scaled Agile frameworks.",
+  "Must be based in Jordan, Egypt, or India."
+ ],
+ "responsibilities": [
+  "Design, execute, and maintain comprehensive manual and automated test strategies.",
+  "Develop and manage test cases, test plans, and test scripts for Salesforce applications.",
+  "Test complex user journeys across multiple Salesforce modules and business processes.",
+  "Perform integration, end-to-end, functional, regression, and user acceptance testing.",
+  "Identify, document, and track defects, working closely with development teams to ensure timely resolution.",
+  "Validate integrations between Salesforce and external systems.",
+  "Participate in Agile ceremonies and collaborate with cross-functional teams to ensure quality throughout the development lifecycle."
+ ],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 60,
+  "company": 66,
+  "location": 100,
+  "seniority": 94,
+  "skill": 83
+ },
+ "seniority": "unspecified",
+ "snippet": "99BrightMinds is seeking a Salesforce QA / Testing Analyst to ensure the quality, reliability, and performance of Salesforce solutions across multiple cloud platforms. The ideal candidate will have experience in both manual and automated testing, with a strong understanding of Salesforce ecosystems and Agile delivery practices.\n\n Responsibilities\n\n• Design, execute, and maintain comprehensive manual and automated tes",
+ "source_primary": "Workable job marketplace",
+ "sources": [
+  {
+   "id": "workable",
+   "job_id": "fc65b141-db1b-477f-95d8-268e98072d24",
+   "kind": "board",
+   "name": "Workable job marketplace",
+   "posted_at": "2026-11-08T10:28:58Z",
+   "seen_at": "2026-11-08T10:48:32Z",
+   "url": "https://jobs.workable.com/view/xaG5CgwonmTuqvMoG1DDxA/remote-salesforce-qa-%2F-testing-analyst-in-indore-at-99brightminds"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 3,
+ "title": "Salesforce QA / Testing Analyst",
+ "tools": [
+  "Regression testing",
+  "Test cases & scenarios",
+  "Bug reporting",
+  "Jira",
+  "Test management (TestRail/Zephyr)",
+  "Test automation",
+  "Agile / Scrum"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://jobs.workable.com/view/xaG5CgwonmTuqvMoG1DDxA/remote-salesforce-qa-%2F-testing-analyst-in-indore-at-99brightminds",
+ "why": [
+  "Manual / functional QA — the core of your resume",
+  "Already on your resume: Regression testing, Test cases & scenarios, Bug reporting, Jira",
+  "Asks for 3+ years — you have about 2.5",
+  "Location lists India"
+ ],
+ "work_mode": "remote",
+ "years_max": null,
+ "years_min": 3
+}
