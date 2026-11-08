@@ -373,6 +373,10 @@
    "at": "2026-11-03T22:50:01Z",
    "ats": null
   },
+  "kenshohrsolutions": {
+   "at": "2026-11-08T15:31:22Z",
+   "ats": null
+  },
   "kestra": {
    "at": "2026-11-03T22:50:01Z",
    "ats": {
@@ -787,10 +791,10 @@
   }
  },
  "counts": {
-  "closed": 12,
+  "closed": 13,
   "keep": 23,
-  "live": 203,
-  "stale": 81
+  "live": 205,
+  "stale": 80
  },
- "updated_at": "2026-11-08T14:47:09Z"
+ "updated_at": "2026-11-08T15:32:38Z"
 }
