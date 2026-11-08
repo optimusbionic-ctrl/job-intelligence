@@ -2,7 +2,7 @@
  "alerts_count": 0,
  "changed_count": 0,
  "closed_count": 9,
- "duration_s": 37.7,
+ "duration_s": 51.0,
  "enrichment": {
   "careers_emails": 0,
   "dates_estimated": 0,
@@ -12,17 +12,17 @@
  },
  "excluded_counts": {
   "Adjacent title without substantial motion work": 31,
-  "Character / film / game animation": 7,
-  "Generic product/UX designer (no motion specialisation in title)": 56,
-  "Graphic / illustration role": 38,
-  "Intern / junior / entry level": 17,
+  "Character / film / game animation": 8,
+  "Generic product/UX designer (no motion specialisation in title)": 58,
+  "Graphic / illustration role": 35,
+  "Intern / junior / entry level": 16,
   "Junior experience requirement": 1,
-  "Not a design role": 55,
-  "Not a motion role": 257,
-  "Not open to India": 73,
+  "Not a design role": 48,
+  "Not a motion role": 241,
+  "Not open to India": 72,
   "Older than window": 204,
-  "Pure video editing role": 49,
-  "Social content role": 2,
+  "Pure video editing role": 48,
+  "Social content role": 1,
   "Staffing agency listing — employer not identified": 5,
   "Unpaid / volunteer": 3
  },
@@ -110,6 +110,13 @@
    "source": "Himalayas",
    "title": "Sr. Video Editor & Motion Designer – AI Workflows (Remote, LATAM)",
    "url": "https://himalayas.app/companies/rankings-io/jobs/sr-video-editor-motion-designer-ai-workflows-remote-latam?utm_source=api"
+  },
+  {
+   "company": "YO AI Labs",
+   "reason": "Character / film / game animation",
+   "source": "Himalayas",
+   "title": "3D Animator  - Remote",
+   "url": "https://himalayas.app/companies/yo-ai-labs/jobs/3d-animator-remote?utm_source=api"
   },
   {
    "company": "Hook",
@@ -217,11 +224,11 @@
    "url": "https://himalayas.app/companies/highscale/jobs/motion-graphics-editor-195932515?utm_source=api"
   },
   {
-   "company": "Urban Ridge Supplies",
-   "reason": "Not open to India: Restricted to Philippines",
-   "source": "Himalayas",
-   "title": "Freelance Creative Designer — Graphic Design, Video & Animation",
-   "url": "https://himalayas.app/companies/urban-ridge-supplies/jobs/freelance-creative-designer-graphic-design-video-animation?utm_source=api"
+   "company": "Wpromote",
+   "reason": "Not open to India: Restricted to USA",
+   "source": "Jobicy",
+   "title": "Digital & Motion Designer",
+   "url": "https://jobicy.com/jobs/154789-digital-motion-designer-2"
   },
   {
    "company": "Fieldguide",
@@ -312,14 +319,14 @@
    "reason": "Character / film / game animation",
    "source": "Epic Games careers (Greenhouse)",
    "title": "Lead Technical Animator",
-   "url": "https://epicgames.com/careers/jobs/6203698004?gh_jid=6203698004"
+   "url": "https://epicgames.com/careers/jobs/6203696004?gh_jid=6203696004"
   },
   {
    "company": "Epic Games",
    "reason": "Character / film / game animation",
    "source": "Epic Games careers (Greenhouse)",
    "title": "Lead Technical Animator",
-   "url": "https://epicgames.com/careers/jobs/6203696004?gh_jid=6203696004"
+   "url": "https://epicgames.com/careers/jobs/6203698004?gh_jid=6203698004"
   },
   {
    "company": "Raisin",
@@ -462,13 +469,13 @@
    "url": "https://www.foundit.in/job/senior-motion-designer-jobgether-india-60670321"
   }
  ],
- "finished_at": "2026-11-07T00:32:57Z",
+ "finished_at": "2026-11-08T06:32:00Z",
  "fx": {
-  "as_of": "Fri, 06 Nov 2026 00:02:31 +0000",
+  "as_of": "Sun, 08 Nov 2026 00:02:31 +0000",
   "source": "https://open.er-api.com/v6/latest/USD (ExchangeRate-API open access)",
-  "usd_inr": 94.537031
+  "usd_inr": 94.114483
  },
- "id": "20261107T003220Z",
+ "id": "20261108T063109Z",
  "india_checks": {
   "companies": 71,
   "roles_clarified": 2,
@@ -483,7 +490,7 @@
  "kept": 66,
  "new_count": 0,
  "pipeline_version": "2.1.0",
- "raw_count": 872,
+ "raw_count": 845,
  "source_status": {
   "ashby": {
    "boards": 64,
@@ -492,8 +499,8 @@
    "ok": true
   },
   "dribbble": {
-   "fetched": 30,
-   "ms": 16427,
+   "fetched": 9,
+   "ms": 20841,
    "ok": true
   },
   "greenhouse": {
@@ -506,18 +513,18 @@
    "ok": true
   },
   "himalayas": {
-   "fetched": 259,
-   "ms": 15939,
+   "fetched": 261,
+   "ms": 14613,
    "ok": true
   },
   "hn": {
    "fetched": 1,
-   "ms": 7530,
+   "ms": 8915,
    "ok": true
   },
   "jobicy": {
-   "fetched": 139,
-   "ms": 2912,
+   "fetched": 148,
+   "ms": 2936,
    "ok": true
   },
   "lever": {
@@ -528,17 +535,17 @@
   },
   "motionographer": {
    "fetched": 1,
-   "ms": 238,
+   "ms": 273,
    "ok": true
   },
   "remoteok": {
-   "fetched": 220,
-   "ms": 7197,
+   "fetched": 218,
+   "ms": 7722,
    "ok": true
   },
   "remotive": {
    "fetched": 12,
-   "ms": 5068,
+   "ms": 4592,
    "ok": true
   },
   "smartrecruiters": {
@@ -548,15 +555,15 @@
    "ok": true
   },
   "workingnomads": {
-   "fetched": 32,
-   "ms": 342,
+   "fetched": 17,
+   "ms": 503,
    "ok": true
   },
   "wwr": {
    "fetched": 18,
-   "ms": 197,
+   "ms": 620,
    "ok": true
   }
  },
- "started_at": "2026-11-07T00:32:20Z"
+ "started_at": "2026-11-08T06:31:09Z"
 }

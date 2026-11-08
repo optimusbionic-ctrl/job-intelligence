@@ -1,13 +1,13 @@
 {
- "avg": 6588014,
+ "avg": 6132406,
  "basis": "Interquartile range of posting midpoints, converted to INR at today's rate",
  "currency": "INR",
  "high": 10823166,
  "id": "qa-dataset-remote",
  "label": "Disclosed pay on remote QA postings (any region, this dataset)",
- "low": 4329266,
+ "low": 3414540,
  "market": "Remote (global)",
- "n": 9,
+ "n": 10,
  "retrieved_at": "2026-11-08",
  "samples": [
   {
@@ -27,6 +27,15 @@
    "min": 84000,
    "title": "Manual Tester with Linux (QA team)",
    "url": "https://himalayas.app/companies/storware-sp-z-o-o/jobs/manual-tester-with-linux-qa-team?utm_source=api"
+  },
+  {
+   "company": "Bloomreach",
+   "currency": "EUR",
+   "location": "Slovakia",
+   "max": 39000,
+   "min": 26000,
+   "title": "Quality Assurance Engineer II",
+   "url": "https://jobicy.com/jobs/154875-quality-assurance-engineer-ii"
   },
   {
    "company": "Welocalize",
