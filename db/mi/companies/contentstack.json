@@ -10,8 +10,8 @@
    "apac": 0,
    "countries": [
     "India",
-    "Netherlands",
-    "United States"
+    "United States",
+    "Netherlands"
    ],
    "india": 6,
    "india_samples": [
@@ -37,13 +37,18 @@
     }
    ],
    "open_samples": [],
-   "remote": 4,
-   "restricted_remote": 3,
+   "remote": 5,
+   "restricted_remote": 4,
    "restricted_samples": [
     {
      "location": "Remote - Netherlands or Portgual",
      "title": "Business Intelligence Data Architect",
      "url": "https://www.contentstack.com/company/careers/8045018003?gh_jid=8045018003"
+    },
+    {
+     "location": "Remote - US",
+     "title": "Revenue Operations Leader, Strategy & Planning",
+     "url": "https://www.contentstack.com/company/careers/8198896003?gh_jid=8198896003"
     },
     {
      "location": "Remote - US",
@@ -57,17 +62,17 @@
     }
    ],
    "slug": "contentstack",
-   "total": 11,
+   "total": 12,
    "type": "greenhouse",
    "url": "https://boards.greenhouse.io/contentstack",
    "worldwide": 0
   },
-  "changed_at": "2026-11-03T18:34:57Z",
+  "changed_at": "2026-11-09T15:32:53Z",
   "evidence": [
    {
     "detail": "AI-Native Software Engineer (Chennai); Data Architect - Business Intelligence  (Bangalore (Hybrid)); Principal Engineer - DevOps (India - Pune)",
     "kind": "board",
-    "label": "6 of 11 open roles are located in India",
+    "label": "6 of 12 open roles are located in India",
     "url": "https://boards.greenhouse.io/contentstack",
     "weight": 5
    },
@@ -82,8 +87,8 @@
   "first_checked_at": "2026-11-03T18:34:57Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "252bb078c7",
-  "summary": "6 of 11 open roles are located in India.",
+  "sig": "423810eacc",
+  "summary": "6 of 12 open roles are located in India.",
   "verdict": "yes"
  },
  "inferred": true,

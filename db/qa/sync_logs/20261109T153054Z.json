@@ -1,8 +1,8 @@
 {
  "alerts_count": 0,
- "changed_count": 14,
+ "changed_count": 1,
  "closed_count": 12,
- "duration_s": 100.2,
+ "duration_s": 118.3,
  "enrichment": {
   "careers_emails": 0,
   "dates_estimated": 0,
@@ -14,20 +14,20 @@
   "AI training / data labelling": 1,
   "Asks for 10+ years": 3,
   "Asks for 18+ years": 1,
-  "Asks for 5+ years": 26,
-  "Asks for 6+ years": 24,
+  "Asks for 5+ years": 24,
+  "Asks for 6+ years": 23,
   "Asks for 7+ years": 5,
   "Asks for 8+ years": 3,
   "Call-centre / process quality role": 4,
   "Data / ETL testing (SQL-heavy)": 3,
-  "Hardware / embedded testing": 6,
-  "Internship / trainee": 8,
-  "Needs a language other than English or Hindi": 38,
-  "Not open to India": 94,
+  "Hardware / embedded testing": 7,
+  "Internship / trainee": 7,
+  "Needs a language other than English or Hindi": 35,
+  "Not open to India": 92,
   "Not software QA (manufacturing, pharma, construction…)": 16,
-  "Older than window": 119,
+  "Older than window": 116,
   "Security / penetration testing": 1,
-  "Senior / lead level": 129,
+  "Senior / lead level": 130,
   "Staffing agency listing — employer not identified": 3,
   "Support role": 3
  },
@@ -45,27 +45,6 @@
    "source": "Shine.com",
    "title": "Automation Tester",
    "url": "https://www.shine.com/jobs/automation-tester/harjai-computers-private-limited/20003507"
-  },
-  {
-   "company": "HARJAI COMPUTERS PRIVATE LIMITED",
-   "reason": "Asks for 5+ years",
-   "source": "Shine.com",
-   "title": "Automation Tester",
-   "url": "https://www.shine.com/jobs/automation-tester/harjai-computers-private-limited/19913785"
-  },
-  {
-   "company": "HARJAI COMPUTERS PRIVATE LIMITED",
-   "reason": "Senior / lead level",
-   "source": "Shine.com",
-   "title": "Senior Automation Tester",
-   "url": "https://www.shine.com/jobs/senior-automation-tester/harjai-computers-private-limited/19897291"
-  },
-  {
-   "company": "HARJAI COMPUTERS PRIVATE LIMITED",
-   "reason": "Asks for 6+ years",
-   "source": "Shine.com",
-   "title": "Automation Tester",
-   "url": "https://www.shine.com/jobs/automation-tester/harjai-computers-private-limited/19899792"
   },
   {
    "company": "reliance games",
@@ -89,18 +68,18 @@
    "url": "https://www.shine.com/jobs/qa-manager/md-shakeel-ahamed/20028257"
   },
   {
-   "company": "Infovision HR Consulting Services Pvt Ltd",
-   "reason": "Senior / lead level",
-   "source": "Shine.com",
-   "title": "QA Test Lead",
-   "url": "https://www.shine.com/jobs/qa-test-lead/infovision-hr-consulting-services-pvt-ltd/19988103"
-  },
-  {
    "company": "Yusho Corporation",
    "reason": "Not software QA (manufacturing, pharma, construction…)",
    "source": "Shine.com",
    "title": "QA/QC Inspector",
    "url": "https://www.shine.com/jobs/qa-qc-inspector/yusho-corporation/20011462"
+  },
+  {
+   "company": "Infovision HR Consulting Services Pvt Ltd",
+   "reason": "Senior / lead level",
+   "source": "Shine.com",
+   "title": "QA Test Lead",
+   "url": "https://www.shine.com/jobs/qa-test-lead/infovision-hr-consulting-services-pvt-ltd/19988103"
   },
   {
    "company": "REIS Staffing & HR Services Pvt Ltd",
@@ -187,20 +166,6 @@
    "url": "https://www.shine.com/jobs/qa-qc-engineer/rainbow-hr-consulting-services-private-limited/20000885"
   },
   {
-   "company": "Axycube Solutions Pvt. Ltd.",
-   "reason": "Asks for 6+ years",
-   "source": "Shine.com",
-   "title": "Salesforce QA Engineer",
-   "url": "https://www.shine.com/jobs/salesforce-qa-engineer/axycube-solutions-pvt-ltd/20008078"
-  },
-  {
-   "company": "Axycube Solutions Pvt. Ltd.",
-   "reason": "Asks for 6+ years",
-   "source": "Shine.com",
-   "title": "Salesforce QA Engineer",
-   "url": "https://www.shine.com/jobs/salesforce-qa-engineer/axycube-solutions-pvt-ltd/19984290"
-  },
-  {
    "company": "Right Advisors Private Limited",
    "reason": "Not software QA (manufacturing, pharma, construction…)",
    "source": "Shine.com",
@@ -208,11 +173,11 @@
    "url": "https://www.shine.com/jobs/qa-qc-engineer/right-advisors-private-limited/19928499"
   },
   {
-   "company": "Plus Consultancy",
-   "reason": "Not software QA (manufacturing, pharma, construction…)",
+   "company": "Axycube Solutions Pvt. Ltd.",
+   "reason": "Asks for 6+ years",
    "source": "Shine.com",
-   "title": "Senior QA/QC Engineer - Electrical & Mechanical",
-   "url": "https://www.shine.com/jobs/senior-qa-qc-engineer-electrical-mechanical/plus-consultancy/19944719"
+   "title": "Salesforce QA Engineer",
+   "url": "https://www.shine.com/jobs/salesforce-qa-engineer/axycube-solutions-pvt-ltd/20008078"
   },
   {
    "company": "Rainbow HR Consulting Services Private Limited",
@@ -222,6 +187,13 @@
    "url": "https://www.shine.com/jobs/senior-qa-qc-engineer/rainbow-hr-consulting-services-private-limited/20001774"
   },
   {
+   "company": "Axycube Solutions Pvt. Ltd.",
+   "reason": "Asks for 6+ years",
+   "source": "Shine.com",
+   "title": "Salesforce QA Engineer",
+   "url": "https://www.shine.com/jobs/salesforce-qa-engineer/axycube-solutions-pvt-ltd/19984290"
+  },
+  {
    "company": "REIS Staffing & HR Services Pvt Ltd",
    "reason": "Asks for 5+ years",
    "source": "Shine.com",
@@ -229,11 +201,11 @@
    "url": "https://www.shine.com/jobs/qa-automation-engineer/reis-staffing-hr-services-pvt-ltd/20001791"
   },
   {
-   "company": "NTECH IT SOLUTIONS PRIVATE LIMITED",
-   "reason": "Asks for 5+ years",
+   "company": "Plus Consultancy",
+   "reason": "Not software QA (manufacturing, pharma, construction…)",
    "source": "Shine.com",
-   "title": "QA Engineer",
-   "url": "https://www.shine.com/jobs/qa-engineer/ntech-it-solutions-private-limited/19987017"
+   "title": "Senior QA/QC Engineer - Electrical & Mechanical",
+   "url": "https://www.shine.com/jobs/senior-qa-qc-engineer-electrical-mechanical/plus-consultancy/19944719"
   },
   {
    "company": "Axycube Solutions Pvt. Ltd.",
@@ -243,11 +215,18 @@
    "url": "https://www.shine.com/jobs/salesforce-qa-engineer/axycube-solutions-pvt-ltd/19975925"
   },
   {
-   "company": "CAREERGUIDE",
+   "company": "NTECH IT SOLUTIONS PRIVATE LIMITED",
    "reason": "Asks for 5+ years",
    "source": "Shine.com",
    "title": "QA Engineer",
-   "url": "https://www.shine.com/jobs/qa-engineer/careerguide/19986863"
+   "url": "https://www.shine.com/jobs/qa-engineer/ntech-it-solutions-private-limited/19987017"
+  },
+  {
+   "company": "Right Advisors Private Limited",
+   "reason": "Not software QA (manufacturing, pharma, construction…)",
+   "source": "Shine.com",
+   "title": "Civil QA/QC Engineer",
+   "url": "https://www.shine.com/jobs/civil-qa-qc-engineer/right-advisors-private-limited/20016643"
   },
   {
    "company": "RAJPUT PROTECTION SERVICE PRIVATE LIMITED",
@@ -286,13 +265,6 @@
   },
   {
    "company": "Alphacom Systems and Solutions Pvt Ltd",
-   "reason": "Asks for 6+ years",
-   "source": "Shine.com",
-   "title": "Automation Test Engineer",
-   "url": "https://www.shine.com/jobs/automation-test-engineer/alphacom-systems-and-solutions-pvt-ltd/20015962"
-  },
-  {
-   "company": "Alphacom Systems and Solutions Pvt Ltd",
    "reason": "Not software QA (manufacturing, pharma, construction…)",
    "source": "Shine.com",
    "title": "Senior Automotive Testing Engineer",
@@ -306,13 +278,6 @@
    "url": "https://www.shine.com/jobs/electronics-test-engineer/accelus-robotics-pvt-ltd/19915878"
   },
   {
-   "company": "GEO-CHEM LABORATORIES",
-   "reason": "Not software QA (manufacturing, pharma, construction…)",
-   "source": "Shine.com",
-   "title": "Sr. Testing Engineer (CIVIL) (Mumbai)",
-   "url": "https://www.shine.com/jobs/sr-testing-engineer-civil-mumbai/geo-chem-laboratories/20025793"
-  },
-  {
    "company": "HARJAI COMPUTERS PRIVATE LIMITED",
    "reason": "Asks for 5+ years",
    "source": "Shine.com",
@@ -320,18 +285,18 @@
    "url": "https://www.shine.com/jobs/automation-test-engineer/harjai-computers-private-limited/19974041"
   },
   {
-   "company": "BRAINWORKS BUSINESS SOLUTIONS PRIVATE LIMITED",
-   "reason": "Asks for 5+ years",
+   "company": "Alphacom Systems and Solutions Pvt Ltd",
+   "reason": "Asks for 6+ years",
    "source": "Shine.com",
    "title": "Automation Test Engineer",
-   "url": "https://www.shine.com/jobs/automation-test-engineer/brainworks-business-solutions-private-limited/19913871"
+   "url": "https://www.shine.com/jobs/automation-test-engineer/alphacom-systems-and-solutions-pvt-ltd/20015962"
   },
   {
-   "company": "BRAINWORKS BUSINESS SOLUTIONS PRIVATE LIMITED",
+   "company": "HARJAI COMPUTERS PRIVATE LIMITED",
    "reason": "Asks for 5+ years",
    "source": "Shine.com",
    "title": "Automation Test Engineer",
-   "url": "https://www.shine.com/jobs/automation-test-engineer/brainworks-business-solutions-private-limited/19909871"
+   "url": "https://www.shine.com/jobs/automation-test-engineer/harjai-computers-private-limited/19974307"
   },
   {
    "company": "PureSoftware",
@@ -339,6 +304,13 @@
    "source": "Shine.com",
    "title": "Game Test Architect",
    "url": "https://www.shine.com/jobs/game-test-architect/puresoftware/19680154"
+  },
+  {
+   "company": "HARJAI COMPUTERS PRIVATE LIMITED",
+   "reason": "Asks for 5+ years",
+   "source": "Shine.com",
+   "title": "Automation Tester",
+   "url": "https://www.shine.com/jobs/automation-tester/harjai-computers-private-limited/19913785"
   },
   {
    "company": "Dezire HR Services Hiring For Fintech company",
@@ -411,13 +383,6 @@
    "url": "https://www.shine.com/jobs/senior-qa-engineer/reis-staffing-hr-services-pvt-ltd/19891696"
   },
   {
-   "company": "INTELLICS GLOBAL SERVICES PRIVATE LIMITED",
-   "reason": "Senior / lead level",
-   "source": "Shine.com",
-   "title": "Senior QA Engineer",
-   "url": "https://www.shine.com/jobs/senior-qa-engineer/intellics-global-services-private-limited/20005170"
-  },
-  {
    "company": "BRAINWORKS BUSINESS SOLUTIONS PRIVATE LIMITED",
    "reason": "Asks for 5+ years",
    "source": "Shine.com",
@@ -425,11 +390,11 @@
    "url": "https://www.shine.com/jobs/quality-assurance-tester/brainworks-business-solutions-private-limited/19933801"
   },
   {
-   "company": "REIS Staffing & HR Services Pvt Ltd",
+   "company": "INTELLICS GLOBAL SERVICES PRIVATE LIMITED",
    "reason": "Senior / lead level",
    "source": "Shine.com",
-   "title": "Senior QA Tester",
-   "url": "https://www.shine.com/jobs/senior-qa-tester/reis-staffing-hr-services-pvt-ltd/19897110"
+   "title": "Senior QA Engineer",
+   "url": "https://www.shine.com/jobs/senior-qa-engineer/intellics-global-services-private-limited/20005170"
   },
   {
    "company": "Alphacom Systems and Solutions Pvt Ltd",
@@ -642,18 +607,18 @@
    "url": "https://jobs.workable.com/view/51NXkAGfixCd4kWWvF1BxL/lqa-game-tester-with-dutch-in-warsaw-at-testronic"
   },
   {
-   "company": "Testronic",
-   "reason": "Not open to India: region in title",
-   "source": "Workable job marketplace",
-   "title": "LQA Game Tester with Spanish (LATAM)",
-   "url": "https://jobs.workable.com/view/ezyp2gXeaZ8LY5UBJgc3F6/lqa-game-tester-with-spanish-(latam)-in-warsaw-at-testronic"
-  },
-  {
    "company": "Keywords Studios",
    "reason": "Not open to India: On-site outside India (Montreal, Quebec, Canada), no sponsorship stated",
    "source": "Workable job marketplace",
    "title": "Video Game Tester - On-Site",
    "url": "https://jobs.workable.com/view/efet9Eh2x75xiEywXevBLb/video-game-tester---on-site-in-montreal-at-keywords-studios"
+  },
+  {
+   "company": "Testronic",
+   "reason": "Not open to India: region in title",
+   "source": "Workable job marketplace",
+   "title": "LQA Game Tester with Spanish (LATAM)",
+   "url": "https://jobs.workable.com/view/ezyp2gXeaZ8LY5UBJgc3F6/lqa-game-tester-with-spanish-(latam)-in-warsaw-at-testronic"
   },
   {
    "company": "Side",
@@ -702,6 +667,20 @@
    "reason": "Needs a language other than English or Hindi",
    "source": "Workable job marketplace",
    "title": "LQA Game Tester (LatAm Spanish) - Freelance Remote",
+   "url": "https://jobs.workable.com/view/9WqVe2ExDdMQceJLfo6SCp/lqa-game-tester-(latam-spanish)---freelance-remote-in-hungary-at-side"
+  },
+  {
+   "company": "Side",
+   "reason": "Needs a language other than English or Hindi",
+   "source": "Workable job marketplace",
+   "title": "LQA Game Tester (LatAm Spanish) - Freelance Remote",
+   "url": "https://jobs.workable.com/view/pZeHzRR5QeYDsK9iVuVC2V/lqa-game-tester-(latam-spanish)---freelance-remote-in-malta-at-side"
+  },
+  {
+   "company": "Side",
+   "reason": "Needs a language other than English or Hindi",
+   "source": "Workable job marketplace",
+   "title": "LQA Game Tester (LatAm Spanish) - Freelance Remote",
    "url": "https://jobs.workable.com/view/6gNLNAMyQv69wmzxxuZmj9/lqa-game-tester-(latam-spanish)---freelance-remote-in-estonia-at-side"
   },
   {
@@ -719,27 +698,6 @@
    "url": "https://jobs.workable.com/view/s7zC6dh5Fi5cw9afMczo1w/lqa-game-tester-(latam-spanish)---freelance-remote-in-czechia-at-side"
   },
   {
-   "company": "Side",
-   "reason": "Needs a language other than English or Hindi",
-   "source": "Workable job marketplace",
-   "title": "LQA Game Tester (LatAm Spanish) - Freelance Remote",
-   "url": "https://jobs.workable.com/view/9WqVe2ExDdMQceJLfo6SCp/lqa-game-tester-(latam-spanish)---freelance-remote-in-hungary-at-side"
-  },
-  {
-   "company": "Side",
-   "reason": "Needs a language other than English or Hindi",
-   "source": "Workable job marketplace",
-   "title": "LQA Game Tester (LatAm Spanish) - Freelance Remote",
-   "url": "https://jobs.workable.com/view/pZeHzRR5QeYDsK9iVuVC2V/lqa-game-tester-(latam-spanish)---freelance-remote-in-malta-at-side"
-  },
-  {
-   "company": "Testronic",
-   "reason": "Needs a language other than English or Hindi",
-   "source": "Workable job marketplace",
-   "title": "LQA Game Tester with Brazilian-Portuguese",
-   "url": "https://jobs.workable.com/view/98iHB2BF8cFJXXT92pD1Gk/lqa-game-tester-with-brazilian-portuguese-in-warsaw-at-testronic"
-  },
-  {
    "company": "Risco Group",
    "reason": "Not open to India: On-site outside India (Plovdiv, Plovdiv Province, Bulgaria), no sponsorship stated",
    "source": "Workable job marketplace",
@@ -752,6 +710,34 @@
    "source": "Workable job marketplace",
    "title": "Testeur(euse) logiciel / Software Tester - Appliances Platform (Edge OS)",
    "url": "https://jobs.workable.com/view/8Y81Qt2fr7qRU3k1tWTWVZ/hybrid-testeur(euse)-logiciel-%2F-software-tester---appliances-platform-(edge-os)-in-montreal-at-genetec"
+  },
+  {
+   "company": "CoverGo",
+   "reason": "Not open to India: Restricted to Nepal",
+   "source": "Workable job marketplace",
+   "title": "QA Engineer (Manual Testing)",
+   "url": "https://jobs.workable.com/view/9ZJkzJ1QRK3yUrpFNBgcGN/remote-qa-engineer-(manual-testing)-in-lalitpur-at-covergo"
+  },
+  {
+   "company": "CoverGo",
+   "reason": "Not open to India: Restricted to Nepal",
+   "source": "Workable job marketplace",
+   "title": "QA Engineer (Manual Testing)",
+   "url": "https://jobs.workable.com/view/msyLUcxtzNVtQ1XskVyWKk/remote-qa-engineer-(manual-testing)-in-kathmandu-at-covergo"
+  },
+  {
+   "company": "Maharah Human Resources Company",
+   "reason": "Not open to India: On-site outside India (Riyadh, Riyadh Province, Saudi Arabia), no sponsorship stated",
+   "source": "Workable job marketplace",
+   "title": "QA Analyst",
+   "url": "https://jobs.workable.com/view/wY5HQdzMDPhGGxU53fbaWQ/qa-analyst-in-riyadh-at-maharah-human-resources-company"
+  },
+  {
+   "company": "Sword Services Greece S.A.",
+   "reason": "Not open to India: On-site outside India (Athens, Central Athens, Greece), no sponsorship stated",
+   "source": "Workable job marketplace",
+   "title": "Junior QA Engineer",
+   "url": "https://jobs.workable.com/view/dukASQiRmmoxeBKC7uLn8f/junior-qa-engineer-in-athens-at-sword-services-greece-s.a."
   },
   {
    "company": "EUROPEAN DYNAMICS",
@@ -775,46 +761,46 @@
    "url": "https://jobs.workable.com/view/4wtQHYoVmDbRiMVcam2py4/remote-software-tester%2F-junior-it-consultant-fluent-in-german-in-athens-at-european-dynamics"
   },
   {
-   "company": "EUROPEAN DYNAMICS",
-   "reason": "Needs a language other than English or Hindi",
-   "source": "Workable job marketplace",
-   "title": "Software Tester/ Junior IT Consultant fluent in German",
-   "url": "https://jobs.workable.com/view/6piwB647wqnFGJ43Fkytry/remote-software-tester%2F-junior-it-consultant-fluent-in-german-in-thessaloniki-at-european-dynamics"
-  },
-  {
-   "company": "EUROPEAN DYNAMICS",
-   "reason": "Needs a language other than English or Hindi",
-   "source": "Workable job marketplace",
-   "title": "Junior Business Analyst/Software Tester fluent in French",
-   "url": "https://jobs.workable.com/view/aK3Cs6GEtTVGNeYhp3d6Nq/remote-junior-business-analyst%2Fsoftware-tester-fluent-in-french-in-crete-at-european-dynamics"
-  },
-  {
-   "company": "EUROPEAN DYNAMICS",
-   "reason": "Needs a language other than English or Hindi",
-   "source": "Workable job marketplace",
-   "title": "Junior Business Analyst/Software Tester fluent in French",
-   "url": "https://jobs.workable.com/view/9nx1HGsisyFmqNyg8obeGZ/remote-junior-business-analyst%2Fsoftware-tester-fluent-in-french-in-thessaloniki-at-european-dynamics"
-  },
-  {
-   "company": "EUROPEAN DYNAMICS",
-   "reason": "Needs a language other than English or Hindi",
-   "source": "Workable job marketplace",
-   "title": "Junior Business Analyst/Software Tester fluent in French",
-   "url": "https://jobs.workable.com/view/tdnEJfxBDJJJqdKQB3CGkY/remote-junior-business-analyst%2Fsoftware-tester-fluent-in-french-in-athens-at-european-dynamics"
-  },
-  {
-   "company": "EUROPEAN DYNAMICS",
-   "reason": "Needs a language other than English or Hindi",
-   "source": "Workable job marketplace",
-   "title": "Business Analyst/Software Tester fluent in Spanish",
-   "url": "https://jobs.workable.com/view/syY7xi6rbciPdUdxiergKp/remote-business-analyst%2Fsoftware-tester-fluent-in-spanish-in-athens-at-european-dynamics"
-  },
-  {
    "company": "Murray Company Mechanical Contractors",
    "reason": "Not software QA (manufacturing, pharma, construction…)",
    "source": "Workable job marketplace",
    "title": "QA/QC Manager - Process Piping",
    "url": "https://jobs.workable.com/view/ccvt3GeAuDbAodMRztFZSi/qa%2Fqc-manager---process-piping-in-san-leandro-at-murray-company-mechanical-contractors"
+  },
+  {
+   "company": "Pharmacy2U",
+   "reason": "Senior / lead level",
+   "source": "Workable job marketplace",
+   "title": "Senior QA Engineer",
+   "url": "https://jobs.workable.com/view/7T7T5P8BZJdjyvxGJkPzq5/hybrid-senior-qa-engineer-in-leeds-at-pharmacy2u"
+  },
+  {
+   "company": "CoverGo",
+   "reason": "Senior / lead level",
+   "source": "Workable job marketplace",
+   "title": "Senior Software QA Engineer (Manual Testing)",
+   "url": "https://jobs.workable.com/view/6Bjvq3uqNHHAAp4Szu8MJc/remote-senior-software-qa-engineer-(manual-testing)-in-lalitpur-at-covergo"
+  },
+  {
+   "company": "CoverGo",
+   "reason": "Senior / lead level",
+   "source": "Workable job marketplace",
+   "title": "Senior Software QA Engineer (Manual Testing)",
+   "url": "https://jobs.workable.com/view/7M6R4bbLNEPTBuNnc3crs7/remote-senior-software-qa-engineer-(manual-testing)-in-kathmandu-at-covergo"
+  },
+  {
+   "company": "99brightminds",
+   "reason": "Not open to India: Restricted to Egypt",
+   "source": "Workable job marketplace",
+   "title": "Salesforce QA / Testing Analyst",
+   "url": "https://jobs.workable.com/view/mmdwiebb7v6WtbT7PD638Z/remote-salesforce-qa-%2F-testing-analyst-in-cairo-at-99brightminds"
+  },
+  {
+   "company": "99brightminds",
+   "reason": "Not open to India: Restricted to Jordan",
+   "source": "Workable job marketplace",
+   "title": "Salesforce QA / Testing Analyst",
+   "url": "https://jobs.workable.com/view/gvXqoFepCEG5nJ6oTuXpmz/remote-salesforce-qa-%2F-testing-analyst-in-amman-at-99brightminds"
   },
   {
    "company": "Vouched",
@@ -873,53 +859,39 @@
    "url": "https://jobs.workable.com/view/34oMZw9oDK4S4hceww6wqy/remote-qa-engineer---manual-%26-automated-testing-in-tbilisi-at-the-vault"
   },
   {
-   "company": "COSMO",
-   "reason": "Senior / lead level",
+   "company": "EUROPEAN DYNAMICS",
+   "reason": "Needs a language other than English or Hindi",
    "source": "Workable job marketplace",
-   "title": "Lead QA Engineer",
-   "url": "https://jobs.workable.com/view/9qAc2CqXPfJbPW2XUXByf6/hybrid-lead-qa-engineer-in-toronto-at-cosmo"
+   "title": "Software Tester/ Junior IT Consultant fluent in German",
+   "url": "https://jobs.workable.com/view/6piwB647wqnFGJ43Fkytry/remote-software-tester%2F-junior-it-consultant-fluent-in-german-in-thessaloniki-at-european-dynamics"
   },
   {
-   "company": "Talentgrator",
-   "reason": "Senior / lead level",
+   "company": "EUROPEAN DYNAMICS",
+   "reason": "Needs a language other than English or Hindi",
    "source": "Workable job marketplace",
-   "title": "QA Lead",
-   "url": "https://jobs.workable.com/view/f6HDA8PH3jCJd2Tp8YbvB2/remote-qa-lead-in-prague-at-talentgrator"
+   "title": "Junior Business Analyst/Software Tester fluent in French",
+   "url": "https://jobs.workable.com/view/aK3Cs6GEtTVGNeYhp3d6Nq/remote-junior-business-analyst%2Fsoftware-tester-fluent-in-french-in-crete-at-european-dynamics"
   },
   {
-   "company": "Qode",
-   "reason": "Senior / lead level",
+   "company": "EUROPEAN DYNAMICS",
+   "reason": "Needs a language other than English or Hindi",
    "source": "Workable job marketplace",
-   "title": "Senior QA Engineer (Automation)",
-   "url": "https://jobs.workable.com/view/8ezymmTUgKH7b8sYjafGYa/senior-qa-engineer-(automation)-in-ha-noi-at-qode"
+   "title": "Junior Business Analyst/Software Tester fluent in French",
+   "url": "https://jobs.workable.com/view/9nx1HGsisyFmqNyg8obeGZ/remote-junior-business-analyst%2Fsoftware-tester-fluent-in-french-in-thessaloniki-at-european-dynamics"
   },
   {
-   "company": "Nelson Education LTD",
-   "reason": "Senior / lead level",
+   "company": "EUROPEAN DYNAMICS",
+   "reason": "Needs a language other than English or Hindi",
    "source": "Workable job marketplace",
-   "title": "Senior QA Analyst (12 months Contract)",
-   "url": "https://jobs.workable.com/view/bW1HNA9AxsHRjrRpNWZbg3/remote-senior-qa-analyst-(12-months-contract)-in-toronto-at-nelson-education-ltd"
+   "title": "Junior Business Analyst/Software Tester fluent in French",
+   "url": "https://jobs.workable.com/view/tdnEJfxBDJJJqdKQB3CGkY/remote-junior-business-analyst%2Fsoftware-tester-fluent-in-french-in-athens-at-european-dynamics"
   },
   {
-   "company": "Concord Servicing",
-   "reason": "Not open to India: On-site outside India (Mexico City, Mexico City, Mexico), no sponsorship stated",
+   "company": "EUROPEAN DYNAMICS",
+   "reason": "Needs a language other than English or Hindi",
    "source": "Workable job marketplace",
-   "title": "QA Engineer",
-   "url": "https://jobs.workable.com/view/2Fh3Cdjwoe796KUDe6pWWu/hybrid-qa-engineer-in-mexico-city-at-concord-servicing"
-  },
-  {
-   "company": "March Networks",
-   "reason": "Not open to India: On-site outside India (Ottawa, Ontario, Canada), no sponsorship stated",
-   "source": "Workable job marketplace",
-   "title": "Junior Cloud QA Specialist (SDET) - 13-month term contract (maternity leave)",
-   "url": "https://jobs.workable.com/view/vhPgCJaeidZAVUManuBp5a/hybrid-junior-cloud-qa-specialist-(sdet)---13-month-term-contract-(maternity-leave)-in-ottawa-at-march-networks"
-  },
-  {
-   "company": "Titan OS",
-   "reason": "Internship / trainee",
-   "source": "Workable job marketplace",
-   "title": "QA Automation Intern",
-   "url": "https://jobs.workable.com/view/8T3giaSUcafwD76pFzUKiX/hybrid-qa-automation-intern-in-barcelona-at-titan-os"
+   "title": "Business Analyst/Software Tester fluent in Spanish",
+   "url": "https://jobs.workable.com/view/syY7xi6rbciPdUdxiergKp/remote-business-analyst%2Fsoftware-tester-fluent-in-spanish-in-athens-at-european-dynamics"
   },
   {
    "company": "EUROPEAN DYNAMICS",
@@ -929,13 +901,6 @@
    "url": "https://jobs.workable.com/view/4xJ4BNC3y2qvCRZysDw5A9/remote-business-analyst%2Fsoftware-tester-fluent-in-french-in-athens-at-european-dynamics"
   },
   {
-   "company": "Compass Education",
-   "reason": "Not open to India: On-site outside India (Hawthorn, Victoria, Australia), no sponsorship stated",
-   "source": "Workable job marketplace",
-   "title": "Software Test Engineer",
-   "url": "https://jobs.workable.com/view/2dsSpJGRpwTXDykqHfk5DT/hybrid-software-test-engineer-in-hawthorn-at-compass-education"
-  },
-  {
    "company": "Ace IT Careers",
    "reason": "Not open to India: Restricted to United States",
    "source": "Workable job marketplace",
@@ -943,11 +908,11 @@
    "url": "https://jobs.workable.com/view/mzBMKcRPm2XBqNjkpmfYHk/remote-associate-software-test-analyst-in-nashville-at-ace-it-careers"
   },
   {
-   "company": "Walaris",
-   "reason": "Not open to India: On-site outside India (Zagreb, Grad Zagreb, Croatia), no sponsorship stated",
+   "company": "Compass Education",
+   "reason": "Not open to India: On-site outside India (Hawthorn, Victoria, Australia), no sponsorship stated",
    "source": "Workable job marketplace",
    "title": "Software Test Engineer",
-   "url": "https://jobs.workable.com/view/uAkapoe3rU1FuSVoVSrfDp/hybrid-software-test-engineer-in-zagreb-at-walaris"
+   "url": "https://jobs.workable.com/view/2dsSpJGRpwTXDykqHfk5DT/hybrid-software-test-engineer-in-hawthorn-at-compass-education"
   },
   {
    "company": "TA",
@@ -955,6 +920,13 @@
    "source": "Workable job marketplace",
    "title": "QA Test Engineer",
    "url": "https://jobs.workable.com/view/4P9sZR226LqsurPn4BrrSy/hybrid-qa-test-engineer-in-new-york-at-ta"
+  },
+  {
+   "company": "Walaris",
+   "reason": "Not open to India: On-site outside India (Zagreb, Grad Zagreb, Croatia), no sponsorship stated",
+   "source": "Workable job marketplace",
+   "title": "Software Test Engineer",
+   "url": "https://jobs.workable.com/view/uAkapoe3rU1FuSVoVSrfDp/hybrid-software-test-engineer-in-zagreb-at-walaris"
   },
   {
    "company": "EUROPEAN DYNAMICS",
@@ -992,67 +964,46 @@
    "url": "https://jobs.workable.com/view/r7xf5w3mhJNTwNtxpncUG4/associate-test-lead---gaming-qa-in-mandaluyong-city-at-testronic"
   },
   {
-   "company": "Keywords Studios",
-   "reason": "Needs a language other than English or Hindi",
-   "source": "Workable job marketplace",
-   "title": "Polish QA Proofreader",
-   "url": "https://jobs.workable.com/view/51eiJmEhnid2uNfdSq6xry/polish-qa-proofreader-in-montreal-at-keywords-studios"
-  },
-  {
-   "company": "Keywords Studios",
-   "reason": "Needs a language other than English or Hindi",
-   "source": "Workable job marketplace",
-   "title": "Polish QA Proofreader",
-   "url": "https://jobs.workable.com/view/iBj7bhW9GqzpyT9PrEbMzG/polish-qa-proofreader-in-ottawa-at-keywords-studios"
-  },
-  {
-   "company": "Azumo",
-   "reason": "Not open to India: Restricted to Uruguay",
-   "source": "Workable job marketplace",
-   "title": "QA Manual Engineer",
-   "url": "https://jobs.workable.com/view/nyuXJPAPkz9oZMK7fKeAdw/remote-qa-manual-engineer-in-montevideo-at-azumo"
-  },
-  {
-   "company": "Azumo",
-   "reason": "Not open to India: Restricted to Brazil",
-   "source": "Workable job marketplace",
-   "title": "QA Manual Engineer",
-   "url": "https://jobs.workable.com/view/1kwXfhRRQtmREUzoj9gSWm/remote-qa-manual-engineer-in-s%C3%A3o-paulo-at-azumo"
-  },
-  {
-   "company": "Azumo",
-   "reason": "Not open to India: Restricted to Chile",
-   "source": "Workable job marketplace",
-   "title": "QA Manual Engineer",
-   "url": "https://jobs.workable.com/view/g6qLc3fkPnWbrXEV4m9hgm/remote-qa-manual-engineer-in-santiago-at-azumo"
-  },
-  {
-   "company": "Azumo",
-   "reason": "Not open to India: Restricted to Colombia",
-   "source": "Workable job marketplace",
-   "title": "QA Manual Engineer",
-   "url": "https://jobs.workable.com/view/nzmXowtDWrVW8M2Teq1zRj/remote-qa-manual-engineer-in-bogot%C3%A1-at-azumo"
-  },
-  {
-   "company": "Azumo",
-   "reason": "Not open to India: Restricted to Argentina",
-   "source": "Workable job marketplace",
-   "title": "QA Manual Engineer",
-   "url": "https://jobs.workable.com/view/c8qzgc3HtZ5F3A3wyoEWKp/remote-qa-manual-engineer-in-buenos-aires-at-azumo"
-  },
-  {
-   "company": "Skylight",
+   "company": "Intetics",
    "reason": "Senior / lead level",
    "source": "Workable job marketplace",
-   "title": "Senior QA Engineer",
-   "url": "https://jobs.workable.com/view/9J835H4qv9VxhvepbMuUfn/remote-senior-qa-engineer-in-united-states-at-skylight"
+   "title": "1206 Senior QA Automation Engineer (Mobile | Appium | Python) | Retail Banking",
+   "url": "https://jobs.workable.com/view/59GBGoWA5RbsBbMpQK1KgY/remote-1206-senior-qa-automation-engineer-(mobile-%7C-appium-%7C-python)-%7C-retail-banking-in-slovakia-at-intetics"
   },
   {
-   "company": "Netguru",
+   "company": "Intetics",
    "reason": "Senior / lead level",
    "source": "Workable job marketplace",
-   "title": "Senior QA Engineer - Freelance",
-   "url": "https://jobs.workable.com/view/aX3kf9n8gibdTFB8co7GcX/remote-senior-qa-engineer---freelance-in-pozna%C5%84-at-netguru"
+   "title": "1206 Senior QA Automation Engineer (Mobile | Appium | Python) | Retail Banking",
+   "url": "https://jobs.workable.com/view/4dsNbT8Zdk6SW7iBbSyjbB/remote-1206-senior-qa-automation-engineer-(mobile-%7C-appium-%7C-python)-%7C-retail-banking-in-georgia-at-intetics"
+  },
+  {
+   "company": "Intetics",
+   "reason": "Senior / lead level",
+   "source": "Workable job marketplace",
+   "title": "1206 Senior QA Automation Engineer (Mobile | Appium | Python) | Retail Banking",
+   "url": "https://jobs.workable.com/view/6MG6tjMQeVQzmB65MPRDdU/remote-1206-senior-qa-automation-engineer-(mobile-%7C-appium-%7C-python)-%7C-retail-banking-in-kazakhstan-at-intetics"
+  },
+  {
+   "company": "Intetics",
+   "reason": "Senior / lead level",
+   "source": "Workable job marketplace",
+   "title": "1206 Senior QA Automation Engineer (Mobile | Appium | Python) | Retail Banking",
+   "url": "https://jobs.workable.com/view/gBj2GuAhoRbLyRy5j5RDjQ/remote-1206-senior-qa-automation-engineer-(mobile-%7C-appium-%7C-python)-%7C-retail-banking-in-romania-at-intetics"
+  },
+  {
+   "company": "Intetics",
+   "reason": "Senior / lead level",
+   "source": "Workable job marketplace",
+   "title": "1206 Senior QA Automation Engineer (Mobile | Appium | Python) | Retail Banking",
+   "url": "https://jobs.workable.com/view/cL4A89CLcVDGxfWQTJqkzx/remote-1206-senior-qa-automation-engineer-(mobile-%7C-appium-%7C-python)-%7C-retail-banking-in-poland-at-intetics"
+  },
+  {
+   "company": "Designer Group",
+   "reason": "Not software QA (manufacturing, pharma, construction…)",
+   "source": "Workable job marketplace",
+   "title": "Electrical QA/QC Lead (Power Generation)",
+   "url": "https://jobs.workable.com/view/44wEWyELcXDCwj24cNf3EF/electrical-qa%2Fqc-lead-(power-generation)-in-dublin-at-designer-group"
   },
   {
    "company": "Vrinda International",
@@ -1356,13 +1307,6 @@
    "url": "https://himalayas.app/companies/steer-health/jobs/senior-qa-engineer?utm_source=api"
   },
   {
-   "company": "Fello",
-   "reason": "Senior / lead level",
-   "source": "Himalayas",
-   "title": "Senior QA Engineer",
-   "url": "https://himalayas.app/companies/fello/jobs/senior-qa-engineer?utm_source=api"
-  },
-  {
    "company": "Madello Consulting",
    "reason": "Senior / lead level",
    "source": "Himalayas",
@@ -1375,6 +1319,34 @@
    "source": "Himalayas",
    "title": "Senior QA Engineer- India",
    "url": "https://himalayas.app/companies/nurdsoft/jobs/senior-qa-engineer-india?utm_source=api"
+  },
+  {
+   "company": "micro1",
+   "reason": "Hardware / embedded testing",
+   "source": "Himalayas",
+   "title": "Electronics Assembly Quality Engineer",
+   "url": "https://himalayas.app/companies/micro1/jobs/electronics-assembly-quality-engineer?utm_source=api"
+  },
+  {
+   "company": "Description Ciklum",
+   "reason": "Senior / lead level",
+   "source": "Himalayas",
+   "title": "Senior Full Stack QA Engineer",
+   "url": "https://himalayas.app/companies/description-ciklum/jobs/senior-full-stack-qa-engineer?utm_source=api"
+  },
+  {
+   "company": "Description Ciklum",
+   "reason": "Senior / lead level",
+   "source": "Himalayas",
+   "title": "Senior Automation QA (JavaScript) Engineer",
+   "url": "https://himalayas.app/companies/description-ciklum/jobs/senior-automation-qa-javascript-engineer?utm_source=api"
+  },
+  {
+   "company": "Saaf Finance",
+   "reason": "Senior / lead level",
+   "source": "Himalayas",
+   "title": "Senior Product QA",
+   "url": "https://himalayas.app/companies/saaf-finance/jobs/senior-product-qa-4791350666?utm_source=api"
   },
   {
    "company": "Customertimes",
@@ -1431,29 +1403,57 @@
    "source": "Himalayas",
    "title": "Senior QA Engineer",
    "url": "https://himalayas.app/companies/jeeves/jobs/senior-qa-engineer?utm_source=api"
+  },
+  {
+   "company": "HighLevel",
+   "reason": "Senior / lead level",
+   "source": "Himalayas",
+   "title": "Sr SDET - Performance Testing",
+   "url": "https://himalayas.app/companies/highlevel/jobs/sr-sdet-performance-testing?utm_source=api"
+  },
+  {
+   "company": "Labcorp",
+   "reason": "Asks for 8+ years",
+   "source": "Himalayas",
+   "title": "QA Engineer – Salesforce & Enterprise Applications",
+   "url": "https://himalayas.app/companies/labcorp/jobs/qa-engineer-salesforce-enterprise-applications?utm_source=api"
+  },
+  {
+   "company": "Deque Systems",
+   "reason": "Senior / lead level",
+   "source": "Himalayas",
+   "title": "Senior SDET (Manual + Playwright Automation)",
+   "url": "https://himalayas.app/companies/deque-systems/jobs/senior-sdet-manual-playwright-automation?utm_source=api"
+  },
+  {
+   "company": "HighLevel",
+   "reason": "Senior / lead level",
+   "source": "Himalayas",
+   "title": "Senior SDET Manager",
+   "url": "https://himalayas.app/companies/highlevel/jobs/senior-sdet-manager?utm_source=api"
   }
  ],
- "finished_at": "2026-11-08T08:07:40Z",
+ "finished_at": "2026-11-09T15:32:52Z",
  "fx": {
-  "as_of": "Sun, 08 Nov 2026 00:02:31 +0000",
+  "as_of": "Mon, 09 Nov 2026 00:02:31 +0000",
   "source": "https://open.er-api.com/v6/latest/USD (ExchangeRate-API open access)",
-  "usd_inr": 94.114483
+  "usd_inr": 94.047485
  },
- "id": "20261108T080600Z",
+ "id": "20261109T153054Z",
  "india_checks": {
-  "companies": 219,
+  "companies": 228,
   "roles_clarified": 1,
   "verdicts": {
    "likely": 3,
    "unclear": 14,
-   "yes": 202
+   "yes": 211
   },
   "web_checked": 0
  },
  "kept": 153,
  "new_count": 0,
  "pipeline_version": "1.0.0",
- "raw_count": 704,
+ "raw_count": 696,
  "source_status": {
   "ashby": {
    "boards": 7,
@@ -1463,7 +1463,7 @@
   },
   "cutshort": {
    "fetched": 45,
-   "ms": 38640,
+   "ms": 40420,
    "ok": true
   },
   "greenhouse": {
@@ -1473,18 +1473,18 @@
    "ok": true
   },
   "himalayas": {
-   "fetched": 209,
-   "ms": 16383,
+   "fetched": 212,
+   "ms": 17366,
    "ok": true
   },
   "hn": {
    "fetched": 2,
-   "ms": 7124,
+   "ms": 11392,
    "ok": true
   },
   "jobicy": {
-   "fetched": 13,
-   "ms": 3327,
+   "fetched": 9,
+   "ms": 4953,
    "ok": true
   },
   "lever": {
@@ -1495,17 +1495,17 @@
   },
   "remoteok": {
    "fetched": 7,
-   "ms": 6093,
+   "ms": 5653,
    "ok": true
   },
   "remotive": {
    "fetched": 0,
-   "ms": 2230,
+   "ms": 2351,
    "ok": true
   },
   "shine": {
-   "fetched": 150,
-   "ms": 25031,
+   "fetched": 143,
+   "ms": 17840,
    "ok": true
   },
   "smartrecruiters": {
@@ -1515,15 +1515,15 @@
    "ok": true
   },
   "workable": {
-   "fetched": 147,
-   "ms": 41202,
+   "fetched": 146,
+   "ms": 38755,
    "ok": true
   },
   "workingnomads": {
-   "fetched": 3,
-   "ms": 495,
+   "fetched": 4,
+   "ms": 101,
    "ok": true
   }
  },
- "started_at": "2026-11-08T08:06:00Z"
+ "started_at": "2026-11-09T15:30:54Z"
 }

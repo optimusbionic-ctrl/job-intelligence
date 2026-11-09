@@ -1,64 +1,10 @@
 {
- "ats": {
-  "slug": "pattern",
-  "type": "lever"
- },
  "category": "Other",
  "classification": "Inferred from job description",
  "india_hiring": {
-  "board": {
-   "apac": 0,
-   "countries": [
-    "United States",
-    "India",
-    "United Kingdom",
-    "Australia",
-    "China",
-    "Czechia",
-    "UAE"
-   ],
-   "india": 9,
-   "india_samples": [
-    {
-     "location": "Pune, India",
-     "title": "Associate Manager - Instock",
-     "url": "https://jobs.lever.co/pattern/1a13de64-54c0-4e10-aedf-68a57784a58d"
-    },
-    {
-     "location": "Pune, India",
-     "title": "Digital Advertising Strategist -AU..",
-     "url": "https://jobs.lever.co/pattern/e1ee8a15-b624-439e-bc55-a87a95c7e223"
-    },
-    {
-     "location": "Pune, India",
-     "title": "Digital Advertising Strategist..",
-     "url": "https://jobs.lever.co/pattern/9ac4820b-7452-4ff7-9fa9-fe4cb3c6b680"
-    },
-    {
-     "location": "Pune, India",
-     "title": "Instock Specialist",
-     "url": "https://jobs.lever.co/pattern/b2f8db66-d662-49a7-a8c0-654d68e20a4a"
-    }
-   ],
-   "open_samples": [],
-   "remote": 0,
-   "restricted_remote": 0,
-   "restricted_samples": [],
-   "slug": "pattern",
-   "total": 97,
-   "type": "lever",
-   "url": "https://jobs.lever.co/pattern",
-   "worldwide": 0
-  },
-  "changed_at": "2026-11-09T07:31:50Z",
+  "board": null,
+  "changed_at": "2026-11-09T15:32:53Z",
   "evidence": [
-   {
-    "detail": "Associate Manager - Instock (Pune, India); Digital Advertising Strategist -AU.. (Pune, India); Digital Advertising Strategist.. (Pune, India)",
-    "kind": "board",
-    "label": "9 of 97 open roles are located in India",
-    "url": "https://jobs.lever.co/pattern",
-    "weight": 5
-   },
    {
     "detail": "Senior Motion Designer — Bengaluru",
     "kind": "posting",
@@ -70,8 +16,8 @@
   "first_checked_at": "2026-10-18T18:27:42Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "4d46b1d469",
-  "summary": "9 of 97 open roles are located in India.",
+  "sig": "d919e76059",
+  "summary": "A current posting lists India as a location.",
   "verdict": "yes"
  },
  "inferred": true,
