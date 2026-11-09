@@ -7,10 +7,11 @@
  "company_slug": "acura-solutions",
  "concerns": [
   "Entry-level role — pay may be at the lower end",
-  "Office outside Mumbai — relocation within India"
+  "Office outside Mumbai — relocation within India",
+  "Reposted / refreshed listing — original posting is older"
  ],
  "contacts_count": 0,
- "content_hash": "6143ab281325",
+ "content_hash": "b91a98fb44c5",
  "date_quality": "exact",
  "deadline": null,
  "employment": "full-time",
@@ -31,13 +32,13 @@
   "visa": false
  },
  "kind": "qa-engineer",
- "last_verified": "2026-11-03T18:02:49Z",
+ "last_verified": "2026-11-09T18:31:08Z",
  "location": "Bangalore, India",
  "logo": null,
  "needs_review": false,
  "official": false,
- "posted_at": "2026-11-02T15:26:07Z",
- "repost": false,
+ "posted_at": "2026-11-02T15:32:05Z",
+ "repost": true,
  "requirements": [
   "(Summary from the Shine.com listing; open the posting for the full description.)"
  ],
@@ -46,7 +47,7 @@
   "applies_india": true,
   "basis": "listed",
   "currency": "INR",
-  "fx_at": "Tue, 03 Nov 2026 00:02:31 +0000",
+  "fx_at": "Mon, 09 Nov 2026 00:02:31 +0000",
   "fx_rate": 1.0,
   "inr_max": 1800000,
   "inr_min": 400000,
@@ -58,7 +59,7 @@
   "source_name": "Shine.com",
   "source_url": "https://www.shine.com/jobs/qa-testing-engineer/acura-solutions/19986516",
   "state": "verified",
-  "verified_at": "2026-11-03T18:02:49Z"
+  "verified_at": "2026-11-09T18:31:08Z"
  },
  "scores": {
   "ai": 58,
@@ -78,17 +79,8 @@
    "kind": "board",
    "name": "Shine.com",
    "posted_at": "2026-11-02T15:32:05Z",
-   "seen_at": "2026-11-03T18:02:49Z",
+   "seen_at": "2026-11-09T18:31:08Z",
    "url": "https://www.shine.com/jobs/qa-testing-engineer/acura-solutions/19986516"
-  },
-  {
-   "id": "shine",
-   "job_id": "19986412",
-   "kind": "board",
-   "name": "Shine.com",
-   "posted_at": "2026-11-02T15:26:07Z",
-   "seen_at": "2026-11-03T18:02:49Z",
-   "url": "https://www.shine.com/jobs/qa-testing-engineer/acura-solutions/19986412"
   }
  ],
  "specializations": [],

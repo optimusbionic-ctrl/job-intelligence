@@ -1,0 +1,30 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-09T18:31:08Z",
+  "evidence": [
+   {
+    "detail": "Software Tester / Qa Engineer — Mumbai City, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/software-tester-qa-engineer/tickboxes-management-private-limited/20038473",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-09T18:31:08Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "88981f0fc4",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "TickBoxes Management Private Limited",
+ "slug": "tickboxes-management-private-limited",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}

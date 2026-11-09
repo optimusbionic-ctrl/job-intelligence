@@ -1,29 +1,29 @@
 {
- "category": "Fintech",
+ "category": "Other",
  "classification": "Inferred from job description",
  "india_hiring": {
   "board": null,
-  "changed_at": "2026-11-03T18:02:49Z",
+  "changed_at": "2026-11-09T18:31:08Z",
   "evidence": [
    {
-    "detail": "QA Testing Engineer — Bangalore, India",
+    "detail": "QA Test Engineer — Bangalore, India",
     "kind": "posting",
     "label": "A current posting lists India as a location",
-    "url": "https://www.shine.com/jobs/qa-testing-engineer/acura-solutions/19986516",
+    "url": "https://www.shine.com/jobs/qa-test-engineer/acura-solutions/19981128",
     "weight": 5
    }
   ],
   "first_checked_at": "2026-11-03T18:02:49Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "7ab5dc84bc",
+  "sig": "970d6b0140",
   "summary": "A current posting lists India as a location.",
   "verdict": "yes"
  },
  "inferred": true,
  "name": "Acura Solutions.",
  "slug": "acura-solutions",
- "tier": 1,
+ "tier": 3,
  "tracks": [
   "software"
  ]

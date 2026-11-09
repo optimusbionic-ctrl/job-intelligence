@@ -1,0 +1,85 @@
+{
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/software-tester-qa-engineer/tickboxes-management-private-limited/20038473",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "TickBoxes Management Private Limited",
+ "company_slug": "tickboxes-management-private-limited",
+ "concerns": [
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "3ce96cbe431e",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-09T18:31:08Z",
+ "fit": 72,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "1bcf004dea8f4a",
+ "include_reason": "Manual / functional QA title",
+ "india": {
+  "cities": [
+   "Mumbai"
+  ],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "manual-qa",
+ "last_verified": "2026-11-09T18:31:08Z",
+ "location": "Mumbai City, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-11-08T08:43:09Z",
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 62,
+  "comp": 60,
+  "company": 66,
+  "location": 100,
+  "seniority": 100,
+  "skill": 50
+ },
+ "seniority": "unspecified",
+ "snippet": "Experience: 0 to 4 Yrs\nSkills: Analytical, Quality, Performance, Reliability, Software Tester, QA Engineer, DetailOriented, Functionality, Test Our Web Applications, Identify Bugs\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "20038473",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-11-08T08:43:09Z",
+   "seen_at": "2026-11-09T18:31:08Z",
+   "url": "https://www.shine.com/jobs/software-tester-qa-engineer/tickboxes-management-private-limited/20038473"
+  }
+ ],
+ "specializations": [
+  "Web apps"
+ ],
+ "status": "active",
+ "tier": 3,
+ "title": "Software Tester / Qa Engineer",
+ "tools": [],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/software-tester-qa-engineer/tickboxes-management-private-limited/20038473",
+ "why": [
+  "Manual / functional QA — the core of your resume",
+  "Asks for 0–4 years — you have about 2.5",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": 4,
+ "years_min": 0
+}
