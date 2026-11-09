@@ -1,0 +1,30 @@
+{
+ "category": "iGaming / real-money games",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-09T15:49:16Z",
+  "evidence": [
+   {
+    "detail": "QA Engineer  Slot/Casino Games (24 Years) (Mathikere) — All India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/qa-engineer-slot-casino-games-years-mathikere/zvky-design-studio/20037407",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-09T15:49:16Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "7e6a13bf67",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Zvky Design Studio",
+ "slug": "zvky-design-studio",
+ "tier": 1,
+ "tracks": [
+  "game"
+ ]
+}
