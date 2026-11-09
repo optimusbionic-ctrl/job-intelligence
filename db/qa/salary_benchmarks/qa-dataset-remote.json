@@ -7,7 +7,7 @@
  "label": "Disclosed pay on remote QA postings (any region, this dataset)",
  "low": 3407825,
  "market": "Remote (global)",
- "n": 10,
+ "n": 9,
  "retrieved_at": "2026-11-09",
  "samples": [
   {
@@ -54,15 +54,6 @@
    "min": 62818,
    "title": "Junior Tester",
    "url": "https://himalayas.app/companies/9th-way-insignia/jobs/junior-tester?utm_source=api"
-  },
-  {
-   "company": "Lifelancer",
-   "currency": "USD",
-   "location": "United States",
-   "max": 80000,
-   "min": 60000,
-   "title": "Digital Operations, Associate Tester- CRG",
-   "url": "https://himalayas.app/companies/lifelancer/jobs/digital-operations-associate-tester-crg-3789914971?utm_source=api"
   },
   {
    "company": "SpaceCoast AV Consultants, LLC",
