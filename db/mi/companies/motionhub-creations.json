@@ -1,0 +1,27 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-09T09:32:39Z",
+  "evidence": [
+   {
+    "detail": "Online Motion Graphics Designer – Work Anywhere — India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.twine.net/projects/b95xr0-motionhub-creations-online-motion-graphics-designer-jobs-work-anywhere-motion-graphic-designer-in-india-job",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-09T09:32:39Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "2946f57c17",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "MotionHub Creations",
+ "slug": "motionhub-creations",
+ "tier": 3
+}
