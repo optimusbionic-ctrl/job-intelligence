@@ -1,0 +1,32 @@
+{
+ "category": "IT services",
+ "classification": "Inferred from job description",
+ "domain": "horizontaldigital.com",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-09T03:48:49Z",
+  "evidence": [
+   {
+    "detail": "Salesforce QA | In-Person Hiring Drive - 21 Nov 2026 — Jaipur, Rajasthan, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://jobs.workable.com/view/mA7R9TMnT9zM5ctmWYoKwN/salesforce-qa-%7C-in-person-hiring-drive---21-nov-2026-in-jaipur-at-horizontal-digital",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-09T03:48:49Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "f7978d1efb",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "logo": "https://workablehr.s3.amazonaws.com/uploads/account/logo/579191/logo",
+ "name": "Horizontal Digital",
+ "slug": "horizontal-digital",
+ "tier": 2,
+ "tracks": [
+  "software"
+ ]
+}
