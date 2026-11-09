@@ -244,6 +244,10 @@
    "at": "2026-11-03T20:52:26Z",
    "ats": null
   },
+  "fortanix": {
+   "at": "2026-11-09T13:16:55Z",
+   "ats": null
+  },
   "ftcash": {
    "at": "2026-11-03T18:55:47Z",
    "ats": null
@@ -797,8 +801,8 @@
  "counts": {
   "closed": 12,
   "keep": 23,
-  "live": 216,
-  "stale": 66
+  "live": 217,
+  "stale": 65
  },
- "updated_at": "2026-11-09T12:51:14Z"
+ "updated_at": "2026-11-09T13:18:07Z"
 }

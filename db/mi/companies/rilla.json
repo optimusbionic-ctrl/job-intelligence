@@ -25,17 +25,17 @@
     }
    ],
    "slug": "rilla",
-   "total": 26,
+   "total": 24,
    "type": "ashby",
    "url": "https://jobs.ashbyhq.com/rilla",
    "worldwide": 0
   },
-  "changed_at": "2026-10-21T20:27:02Z",
+  "changed_at": "2026-11-09T13:18:08Z",
   "evidence": [
    {
     "detail": "None are located in India or open worldwide; 1 remote role is limited to named countries",
     "kind": "board",
-    "label": "All 26 open roles are in United States and United Kingdom",
+    "label": "All 24 open roles are in United States and United Kingdom",
     "url": "https://jobs.ashbyhq.com/rilla",
     "weight": -3
    }
@@ -43,8 +43,8 @@
   "first_checked_at": "2026-10-18T15:28:43Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "b0d459a9e6",
-  "summary": "All 26 open roles are in United States and United Kingdom. None are located in India or open worldwide; 1 remote role is limited to named countries.",
+  "sig": "d7ba53cfa7",
+  "summary": "All 24 open roles are in United States and United Kingdom. None are located in India or open worldwide; 1 remote role is limited to named countries.",
   "verdict": "no"
  },
  "inferred": true,
