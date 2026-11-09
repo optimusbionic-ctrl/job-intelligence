@@ -1,0 +1,130 @@
+{
+ "apply_url": null,
+ "board_apply": "https://jobs.workable.com/view/gCNZtPWqfaFBr8AasAKph2/radar-test-engineer-in-bengaluru-at-weekday-ai",
+ "category": "Other",
+ "comp_potential": "listed_good",
+ "company": "Weekday AI",
+ "company_slug": "weekday-ai",
+ "concerns": [
+  "Mentions test automation — be ready to discuss it or show a small script",
+  "Also asks for: Programming",
+  "Office outside Mumbai — relocation within India"
+ ],
+ "contacts_count": 0,
+ "content_hash": "adc7c416014e",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-09T07:30:09Z",
+ "fit": 67,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "db2578254d1652",
+ "include_reason": "QA / test engineer title",
+ "india": {
+  "cities": [
+   "Bengaluru"
+  ],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "qa-engineer",
+ "last_verified": "2026-11-09T07:30:09Z",
+ "location": "Bengaluru, Karnataka, India",
+ "logo": "https://workablehr.s3.amazonaws.com/uploads/account/logo/691818/logo",
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-11-09T07:23:17Z",
+ "repost": false,
+ "requirements": [
+  "Degree in Electrical Engineering, Communications Engineering, Computer Science, Mechatronics, or a related technical field.",
+  "Proficiency in Python for test automation, scripting, and data analysis.",
+  "Practical understanding of hardware testing and software validation.",
+  "Experience working with laboratory equipment and measurement tools.",
+  "Strong analytical and troubleshooting abilities, with an interest in testing complex technical systems.",
+  "Fluency in English, which is the primary working language.",
+  "Willingness to participate in on-site field measurements and testing activities."
+ ],
+ "responsibilities": [
+  "Holistic Testing: Plan, develop, and execute test scenarios covering radar sensor hardware, including RF boards and enclosures, as well as software components such as firmware.",
+  "Test Bench Development: Design and implement automated test environments and Python-based scripts to streamline the validation of algorithms, hardware revisions, and system performance.",
+  "Embedded Testing: Support the verification of hardware-near code written in C, ensuring that signal-processing functionality performs reliably under real-world operating conditions.",
+  "Measurement Campaigns and Field Testing: Conduct measurements in laboratory environments, industrial locations, and during the evaluation of landing systems.",
+  "Test Data Analysis: Analyse raw measurement data, troubleshoot performance issues, and identify opportunities for system and testing optimisation.",
+  "Certification and Compliance: Prepare test documentation, support compliance verification, and assist with audits, qualification activities, and certification processes.",
+  "Cross-functional Collaboration: Work closely with hardware and software development teams to identify, investigate, and resolve bugs and design issues at an early stage."
+ ],
+ "salary": {
+  "applies_india": true,
+  "basis": "listed",
+  "currency": "INR",
+  "fx_at": "Mon, 09 Nov 2026 00:02:31 +0000",
+  "fx_rate": 1.0,
+  "inr_max": 2500000,
+  "inr_min": 500000,
+  "max": 2500000,
+  "min": 500000,
+  "note": "Listed in the posting",
+  "original_period": "annual",
+  "period": "annual",
+  "source_name": "Workable job marketplace",
+  "source_url": "https://jobs.workable.com/view/gCNZtPWqfaFBr8AasAKph2/radar-test-engineer-in-bengaluru-at-weekday-ai",
+  "state": "verified",
+  "verified_at": "2026-11-09T07:30:09Z"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 100,
+  "company": 66,
+  "location": 60,
+  "seniority": 84,
+  "skill": 52
+ },
+ "seniority": "unspecified",
+ "snippet": "This role is for one of Weekday’s clients\nSalary range: Rs 500000 - Rs 2500000 (ie INR 5 - 25 LPA) \n\nMin Experience: 5+ years\nLocation: Bengaluru, Karnataka, India, Chennai, Tamil Nadu, India\nJobType: full-time\n\n We are looking for a skilled Radar Test Engineer to plan, develop, and execute comprehensive testing and validation activities for advanced radar sensor systems. The role involves testing both hardware compo",
+ "source_primary": "Workable job marketplace",
+ "sources": [
+  {
+   "id": "workable",
+   "job_id": "7e9cd09b-67e0-4001-9c9f-ee8ccac6c735",
+   "kind": "board",
+   "name": "Workable job marketplace",
+   "posted_at": "2026-11-09T07:23:17Z",
+   "seen_at": "2026-11-09T07:30:09Z",
+   "url": "https://jobs.workable.com/view/gCNZtPWqfaFBr8AasAKph2/radar-test-engineer-in-bengaluru-at-weekday-ai"
+  },
+  {
+   "id": "workable",
+   "job_id": "8eab522e-b9c7-4590-9315-3ff6286b7d59",
+   "kind": "board",
+   "name": "Workable job marketplace",
+   "posted_at": "2026-11-09T07:23:17Z",
+   "seen_at": "2026-11-09T07:30:09Z",
+   "url": "https://jobs.workable.com/view/iBNWUhpUZMNAcFLok9KWRg/radar-test-engineer-in-chennai-at-weekday-ai"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 3,
+ "title": "Radar Test Engineer",
+ "tools": [
+  "Test cases & scenarios",
+  "Test automation",
+  "Programming"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://jobs.workable.com/view/gCNZtPWqfaFBr8AasAKph2/radar-test-engineer-in-bengaluru-at-weekday-ai",
+ "why": [
+  "QA / test engineer role",
+  "Already on your resume: Test cases & scenarios",
+  "Pay is listed in the posting",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": null,
+ "years_min": null
+}
