@@ -781,6 +781,10 @@
    "at": "2026-11-03T21:33:45Z",
    "ats": null
   },
+  "zecruitersjobconnect": {
+   "at": "2026-11-09T00:29:29Z",
+   "ats": null
+  },
   "zenwork": {
    "at": "2026-11-03T20:52:26Z",
    "ats": null
@@ -791,10 +795,10 @@
   }
  },
  "counts": {
-  "closed": 14,
-  "keep": 20,
-  "live": 217,
+  "closed": 12,
+  "keep": 24,
+  "live": 215,
   "stale": 65
  },
- "updated_at": "2026-11-08T23:42:26Z"
+ "updated_at": "2026-11-09T00:31:11Z"
 }
