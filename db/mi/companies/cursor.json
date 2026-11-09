@@ -25,17 +25,17 @@
     "South Korea",
     "Germany"
    ],
-   "india": 6,
+   "india": 5,
    "india_samples": [
     {
      "location": "Bengaluru • New Delhi • Mumbai",
-     "title": "Ai Deployment Manager - India",
-     "url": "https://jobs.ashbyhq.com/cursor/59d55195-2a9e-4b07-a9fc-b721008bc378"
+     "title": "AI Deployment Manager - India",
+     "url": "https://jobs.ashbyhq.com/cursor/3d35fde4-b950-40ae-8ed8-aaac9f371693"
     },
     {
-     "location": "Bengaluru • Bengaluru • New Delhi • Mumbai",
-     "title": "Field Engineer - India ",
-     "url": "https://jobs.ashbyhq.com/cursor/a6c00f7f-2288-4461-a64d-0f1cd9878909"
+     "location": "Bengaluru • New Delhi • Mumbai",
+     "title": "Field Engineer - India",
+     "url": "https://jobs.ashbyhq.com/cursor/42c030dd-7b5a-4ea1-8627-2052dd89b1d6"
     },
     {
      "location": "Bengaluru • New Delhi • Mumbai",
@@ -49,13 +49,18 @@
     }
    ],
    "open_samples": [],
-   "remote": 57,
-   "restricted_remote": 56,
+   "remote": 58,
+   "restricted_remote": 57,
    "restricted_samples": [
+    {
+     "location": "Remote",
+     "title": "AI Deployment Manager",
+     "url": "https://jobs.ashbyhq.com/cursor/8d4e9639-3e65-46d1-a1e7-e5facaefcb00"
+    },
     {
      "location": "Australia",
      "title": "AI Deployment Manager - Australia",
-     "url": "https://jobs.ashbyhq.com/cursor/a4e8f126-9761-4a01-ab21-84e20c8b5de9"
+     "url": "https://jobs.ashbyhq.com/cursor/45abdab8-6d12-4e46-8108-e23aba34cec1"
     },
     {
      "location": "Japan",
@@ -65,26 +70,21 @@
     {
      "location": "Singapore",
      "title": "AI Deployment Manager - Singapore",
-     "url": "https://jobs.ashbyhq.com/cursor/e3ccb495-a8a3-4ff0-a27b-262188abb9df"
-    },
-    {
-     "location": "Remote",
-     "title": "AI Deployment Manager, Scale (NF)",
-     "url": "https://jobs.ashbyhq.com/cursor/053a8b5a-32bc-4a08-8dad-b4fc20f2883c"
+     "url": "https://jobs.ashbyhq.com/cursor/e5ae8495-1aad-4ac2-ae6f-36c58d936d12"
     }
    ],
    "slug": "cursor",
-   "total": 120,
+   "total": 118,
    "type": "ashby",
    "url": "https://jobs.ashbyhq.com/cursor",
    "worldwide": 0
   },
-  "changed_at": "2026-11-09T14:28:21Z",
+  "changed_at": "2026-11-09T20:58:46Z",
   "evidence": [
    {
-    "detail": "Ai Deployment Manager - India (Bengaluru • New Delhi • Mumbai); Field Engineer - India  (Bengaluru • Bengaluru • New Delhi • Mumbai); Forward Deployed Engineer - India (Bengaluru • New Delhi • Mumbai)",
+    "detail": "AI Deployment Manager - India (Bengaluru • New Delhi • Mumbai); Field Engineer - India (Bengaluru • New Delhi • Mumbai); Forward Deployed Engineer - India (Bengaluru • New Delhi • Mumbai)",
     "kind": "board",
-    "label": "6 of 120 open roles are located in India",
+    "label": "5 of 118 open roles are located in India",
     "url": "https://jobs.ashbyhq.com/cursor",
     "weight": 5
    }
@@ -92,8 +92,8 @@
   "first_checked_at": "2026-11-03T18:34:57Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "e587f5d30a",
-  "summary": "6 of 120 open roles are located in India.",
+  "sig": "61cfd48e85",
+  "summary": "5 of 118 open roles are located in India.",
   "verdict": "yes"
  },
  "maturity": "Late-stage private",
