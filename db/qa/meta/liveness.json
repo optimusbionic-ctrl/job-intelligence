@@ -72,6 +72,13 @@
    "at": "2026-11-03T19:56:44Z",
    "ats": null
   },
+  "binance": {
+   "at": "2026-11-09T16:06:53Z",
+   "ats": {
+    "slug": "binance",
+    "type": "greenhouse"
+   }
+  },
   "binated": {
    "at": "2026-11-03T18:55:47Z",
    "ats": null
@@ -799,10 +806,10 @@
   }
  },
  "counts": {
-  "closed": 12,
-  "keep": 21,
-  "live": 220,
-  "stale": 66
+  "closed": 13,
+  "keep": 23,
+  "live": 218,
+  "stale": 65
  },
- "updated_at": "2026-11-09T15:50:41Z"
+ "updated_at": "2026-11-09T16:08:25Z"
 }
