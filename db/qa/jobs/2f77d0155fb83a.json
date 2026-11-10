@@ -1,6 +1,6 @@
 {
  "apply_url": null,
- "board_apply": "https://www.shine.com/jobs/quality-assurance-engineer/dsrp-hr-services/20004759",
+ "board_apply": "https://www.shine.com/jobs/quality-assurance-engineer/dsrp-hr-services/20004972",
  "category": "Recruiter (client not named)",
  "comp_potential": "unknown",
  "company": "DSRP HR SERVICES",
@@ -10,7 +10,7 @@
   "Pay not disclosed — ask for the range early"
  ],
  "contacts_count": 0,
- "content_hash": "5beb49acace4",
+ "content_hash": "95071ab80ea6",
  "date_quality": "exact",
  "deadline": null,
  "employment": "full-time",
@@ -31,7 +31,7 @@
   "visa": false
  },
  "kind": "qa-engineer",
- "last_verified": "2026-11-10T00:30:50Z",
+ "last_verified": "2026-11-10T02:08:19Z",
  "location": "Mumbai City, India",
  "logo": null,
  "needs_review": false,
@@ -54,16 +54,25 @@
   "skill": 43
  },
  "seniority": "unspecified",
- "snippet": "Experience: 0 to 2 Yrs\nSkills: qa, qc, quality, quality assurance, quality control, quality management\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "snippet": "Experience: 0 to 2 Yrs\nSkills: qa, qc, quality, quality assurance, quality control\n(Summary from the Shine.com listing; open the posting for the full description.)",
  "source_primary": "Shine.com",
  "sources": [
+  {
+   "id": "shine",
+   "job_id": "20004972",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-11-03T22:28:14Z",
+   "seen_at": "2026-11-10T02:08:19Z",
+   "url": "https://www.shine.com/jobs/quality-assurance-engineer/dsrp-hr-services/20004972"
+  },
   {
    "id": "shine",
    "job_id": "20004759",
    "kind": "board",
    "name": "Shine.com",
    "posted_at": "2026-11-03T22:17:26Z",
-   "seen_at": "2026-11-10T00:30:50Z",
+   "seen_at": "2026-11-10T02:08:19Z",
    "url": "https://www.shine.com/jobs/quality-assurance-engineer/dsrp-hr-services/20004759"
   }
  ],
@@ -74,7 +83,7 @@
  "tools": [],
  "track": "software",
  "updated_at": null,
- "url": "https://www.shine.com/jobs/quality-assurance-engineer/dsrp-hr-services/20004759",
+ "url": "https://www.shine.com/jobs/quality-assurance-engineer/dsrp-hr-services/20004972",
  "why": [
   "QA / test engineer role",
   "Asks for 0+ years — you have about 2.5",
