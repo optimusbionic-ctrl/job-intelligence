@@ -1,0 +1,81 @@
+{
+ "apply_url": null,
+ "board_apply": "https://jobs.weekday.works/quality-assurance-engineer-at-aerem-wkdysm0wjl",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "Aerem",
+ "company_slug": "aerem",
+ "concerns": [
+  "Employer has not confirmed hiring from India",
+  "Pay not disclosed — ask for the range early",
+  "Full description not available from this source"
+ ],
+ "contacts_count": 0,
+ "content_hash": "73d1073a745a",
+ "date_quality": "unknown",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-10T22:47:54Z",
+ "fit": 66,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "08e765b797b4fd",
+ "include_reason": "QA / test engineer title",
+ "india": {
+  "cities": [],
+  "company": "unclear",
+  "reason": "Location not stated",
+  "status": "unconfirmed",
+  "visa": false
+ },
+ "kind": "qa-engineer",
+ "last_verified": "2026-11-10T22:47:54Z",
+ "location": "",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": null,
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 55,
+  "comp": 60,
+  "company": 66,
+  "location": 36,
+  "seniority": 84,
+  "skill": 74
+ },
+ "seniority": "unspecified",
+ "snippet": "",
+ "source_primary": "Web (via search index)",
+ "sources": [
+  {
+   "id": "web",
+   "job_id": "https://jobs.weekday.works/quality-assurance-engineer-at-aerem-wkdysm0wjl",
+   "kind": "search",
+   "name": "Web (via search index)",
+   "posted_at": null,
+   "seen_at": "2026-11-10T22:47:54Z",
+   "url": "https://jobs.weekday.works/quality-assurance-engineer-at-aerem-wkdysm0wjl"
+  }
+ ],
+ "specializations": [],
+ "status": "lead",
+ "tier": 3,
+ "title": "Quality Assurance Engineer",
+ "tools": [],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://jobs.weekday.works/quality-assurance-engineer-at-aerem-wkdysm0wjl",
+ "why": [
+  "QA / test engineer role"
+ ],
+ "work_mode": "unspecified",
+ "years_max": null,
+ "years_min": null
+}

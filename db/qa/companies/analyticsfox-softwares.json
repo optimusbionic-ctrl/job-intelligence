@@ -1,0 +1,30 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-10T22:47:54Z",
+  "evidence": [
+   {
+    "detail": "Manual Tester — Navi Mumbai, Mumbai",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://cutshort.io/job/Manual-tester-Navi-Mumbai-Mumbai-AnalyticsFox-Softwares-CJU8uoN7",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-10T22:47:54Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "35bda72aa5",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "AnalyticsFox Softwares",
+ "slug": "analyticsfox-softwares",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}

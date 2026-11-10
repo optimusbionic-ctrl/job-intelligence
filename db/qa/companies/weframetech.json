@@ -1,0 +1,30 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-10T22:47:54Z",
+  "evidence": [
+   {
+    "detail": "Manual QA Tester (2 YOE) — India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.foundit.in/job/manual-qa-tester-2-yoe-weframetech-india-60811217",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-10T22:47:54Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "5baae6120a",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Weframetech",
+ "slug": "weframetech",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}

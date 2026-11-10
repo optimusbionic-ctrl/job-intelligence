@@ -1,0 +1,82 @@
+{
+ "apply_url": null,
+ "board_apply": "https://ats.rippling.com/fountane/jobs/bc7a829c-5bba-4705-8646-d51a0992ee90",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "Fountane",
+ "company_slug": "fountane",
+ "concerns": [
+  "Employer has not confirmed hiring from India",
+  "Entry-level role — pay may be at the lower end",
+  "Pay not disclosed — ask for the range early",
+  "Full description not available from this source"
+ ],
+ "contacts_count": 0,
+ "content_hash": "a4af3f717012",
+ "date_quality": "unknown",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-10T22:47:54Z",
+ "fit": 70,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "9ec1d56f295a89",
+ "include_reason": "Manual / functional QA title",
+ "india": {
+  "cities": [],
+  "company": "unclear",
+  "reason": "Location not stated",
+  "status": "unconfirmed",
+  "visa": false
+ },
+ "kind": "manual-qa",
+ "last_verified": "2026-11-10T22:47:54Z",
+ "location": "",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": null,
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 55,
+  "comp": 60,
+  "company": 66,
+  "location": 36,
+  "seniority": 86,
+  "skill": 86
+ },
+ "seniority": "junior",
+ "snippet": "",
+ "source_primary": "Web (via search index)",
+ "sources": [
+  {
+   "id": "web",
+   "job_id": "https://ats.rippling.com/fountane/jobs/bc7a829c-5bba-4705-8646-d51a0992ee90",
+   "kind": "search",
+   "name": "Web (via search index)",
+   "posted_at": null,
+   "seen_at": "2026-11-10T22:47:54Z",
+   "url": "https://ats.rippling.com/fountane/jobs/bc7a829c-5bba-4705-8646-d51a0992ee90"
+  }
+ ],
+ "specializations": [],
+ "status": "lead",
+ "tier": 3,
+ "title": "Associate Manual Tester",
+ "tools": [],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://ats.rippling.com/fountane/jobs/bc7a829c-5bba-4705-8646-d51a0992ee90",
+ "why": [
+  "Manual / functional QA — the core of your resume"
+ ],
+ "work_mode": "unspecified",
+ "years_max": null,
+ "years_min": null
+}

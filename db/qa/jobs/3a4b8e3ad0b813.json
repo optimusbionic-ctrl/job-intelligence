@@ -1,0 +1,84 @@
+{
+ "apply_url": null,
+ "board_apply": "https://hitmarker.net/jobs/ubisoft-game-tester-pc-console-711860",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "Ubisoft",
+ "company_slug": "ubisoft",
+ "concerns": [
+  "Employer has not confirmed hiring from India",
+  "Pay not disclosed — ask for the range early",
+  "Full description not available from this source"
+ ],
+ "contacts_count": 0,
+ "content_hash": "6aa2bc4e4830",
+ "date_quality": "unknown",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-10T22:47:54Z",
+ "fit": 69,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "3a4b8e3ad0b813",
+ "include_reason": "Game tester title",
+ "india": {
+  "cities": [],
+  "company": "unclear",
+  "reason": "Location not stated",
+  "status": "unconfirmed",
+  "visa": false
+ },
+ "kind": "game-tester",
+ "last_verified": "2026-11-10T22:47:54Z",
+ "location": "",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": null,
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 55,
+  "comp": 60,
+  "company": 66,
+  "location": 36,
+  "seniority": 84,
+  "skill": 86
+ },
+ "seniority": "unspecified",
+ "snippet": "",
+ "source_primary": "Web (via search index)",
+ "sources": [
+  {
+   "id": "web",
+   "job_id": "https://hitmarker.net/jobs/ubisoft-game-tester-pc-console-711860",
+   "kind": "search",
+   "name": "Web (via search index)",
+   "posted_at": null,
+   "seen_at": "2026-11-10T22:47:54Z",
+   "url": "https://hitmarker.net/jobs/ubisoft-game-tester-pc-console-711860"
+  }
+ ],
+ "specializations": [
+  "Windows / PC"
+ ],
+ "status": "lead",
+ "tier": 3,
+ "title": "Game Tester (PC/Console)",
+ "tools": [],
+ "track": "game",
+ "updated_at": null,
+ "url": "https://hitmarker.net/jobs/ubisoft-game-tester-pc-console-711860",
+ "why": [
+  "Game tester role — matches your game QA work at Webmobril and Golden Horde",
+  "Platforms you test on: Windows / PC"
+ ],
+ "work_mode": "unspecified",
+ "years_max": null,
+ "years_min": null
+}

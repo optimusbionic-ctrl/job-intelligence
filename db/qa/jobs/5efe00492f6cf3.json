@@ -1,0 +1,84 @@
+{
+ "apply_url": null,
+ "board_apply": "https://builtinbengaluru.in/job/mobile-game-qa-tester/2319217",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "YallaPlay",
+ "company_slug": "yallaplay",
+ "concerns": [
+  "Office outside Mumbai — relocation within India",
+  "Pay not disclosed — ask for the range early",
+  "Full description not available from this source"
+ ],
+ "contacts_count": 0,
+ "content_hash": "dac231c6a198",
+ "date_quality": "unknown",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-10T22:47:54Z",
+ "fit": 73,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "5efe00492f6cf3",
+ "include_reason": "Game tester title",
+ "india": {
+  "cities": [
+   "Bengaluru"
+  ],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "game-tester",
+ "last_verified": "2026-11-10T22:47:54Z",
+ "location": "Bengaluru",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": null,
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 55,
+  "comp": 60,
+  "company": 66,
+  "location": 60,
+  "seniority": 84,
+  "skill": 86
+ },
+ "seniority": "unspecified",
+ "snippet": "",
+ "source_primary": "Web (via search index)",
+ "sources": [
+  {
+   "id": "web",
+   "job_id": "https://builtinbengaluru.in/job/mobile-game-qa-tester/2319217",
+   "kind": "search",
+   "name": "Web (via search index)",
+   "posted_at": null,
+   "seen_at": "2026-11-10T22:47:54Z",
+   "url": "https://builtinbengaluru.in/job/mobile-game-qa-tester/2319217"
+  }
+ ],
+ "specializations": [],
+ "status": "lead",
+ "tier": 3,
+ "title": "Mobile Game QA Tester",
+ "tools": [],
+ "track": "game",
+ "updated_at": null,
+ "url": "https://builtinbengaluru.in/job/mobile-game-qa-tester/2319217",
+ "why": [
+  "Game tester role — matches your game QA work at Webmobril and Golden Horde",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": null,
+ "years_min": null
+}

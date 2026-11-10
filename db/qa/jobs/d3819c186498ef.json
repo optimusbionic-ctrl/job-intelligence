@@ -1,0 +1,83 @@
+{
+ "apply_url": null,
+ "board_apply": "https://jobs.weekday.works/software-test-engineer-mumbai-at-tss-consultancy-pvt-ltd-wkdy6nd9dn",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "TSS Consultancy Pvt Ltd",
+ "company_slug": "tss-consultancy-pvt-ltd",
+ "concerns": [
+  "Pay not disclosed — ask for the range early",
+  "Full description not available from this source"
+ ],
+ "contacts_count": 0,
+ "content_hash": "000fb70f0174",
+ "date_quality": "unknown",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-10T22:47:54Z",
+ "fit": 75,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "d3819c186498ef",
+ "include_reason": "QA / test engineer title",
+ "india": {
+  "cities": [
+   "Mumbai"
+  ],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "qa-engineer",
+ "last_verified": "2026-11-10T22:47:54Z",
+ "location": "Mumbai",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": null,
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 55,
+  "comp": 60,
+  "company": 66,
+  "location": 100,
+  "seniority": 84,
+  "skill": 74
+ },
+ "seniority": "unspecified",
+ "snippet": "",
+ "source_primary": "Web (via search index)",
+ "sources": [
+  {
+   "id": "web",
+   "job_id": "https://jobs.weekday.works/software-test-engineer-mumbai-at-tss-consultancy-pvt-ltd-wkdy6nd9dn",
+   "kind": "search",
+   "name": "Web (via search index)",
+   "posted_at": null,
+   "seen_at": "2026-11-10T22:47:54Z",
+   "url": "https://jobs.weekday.works/software-test-engineer-mumbai-at-tss-consultancy-pvt-ltd-wkdy6nd9dn"
+  }
+ ],
+ "specializations": [],
+ "status": "lead",
+ "tier": 3,
+ "title": "Software Test Engineer | Mumbai",
+ "tools": [],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://jobs.weekday.works/software-test-engineer-mumbai-at-tss-consultancy-pvt-ltd-wkdy6nd9dn",
+ "why": [
+  "QA / test engineer role",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": null,
+ "years_min": null
+}

@@ -1,0 +1,30 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-10T22:47:54Z",
+  "evidence": [
+   {
+    "detail": "Software Test Engineer | Mumbai — Mumbai",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://jobs.weekday.works/software-test-engineer-mumbai-at-tss-consultancy-pvt-ltd-wkdy6nd9dn",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-10T22:47:54Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "abb9726ba2",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "TSS Consultancy Pvt Ltd",
+ "slug": "tss-consultancy-pvt-ltd",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-10T22:47:54Z",
+  "evidence": [
+   {
+    "detail": "Mobile Game QA Tester — Bengaluru",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://builtinbengaluru.in/job/mobile-game-qa-tester/2319217",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-10T22:47:54Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "3c3d218e97",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "YallaPlay",
+ "slug": "yallaplay",
+ "tier": 3,
+ "tracks": [
+  "game"
+ ]
+}

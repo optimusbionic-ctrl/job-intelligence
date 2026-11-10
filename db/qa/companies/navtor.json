@@ -1,0 +1,30 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-10T22:47:54Z",
+  "evidence": [
+   {
+    "detail": "Software Tester — Navi Mumbai, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://career.io/job/software-tester-navi-mumbai-navtor-72ccf07622618756c63e03a050d9feed",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-10T22:47:54Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "1916c7b5c9",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Navtor",
+ "slug": "navtor",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}

@@ -1,0 +1,81 @@
+{
+ "apply_url": null,
+ "board_apply": "https://www.talentica.com/jobdescription/qa-engineer-2-4-years/",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "Talentica",
+ "company_slug": "talentica",
+ "concerns": [
+  "Employer has not confirmed hiring from India",
+  "Pay not disclosed — ask for the range early",
+  "Full description not available from this source"
+ ],
+ "contacts_count": 0,
+ "content_hash": "28bbef26dfbf",
+ "date_quality": "unknown",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-10T22:47:54Z",
+ "fit": 67,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "450fc4b66b771b",
+ "include_reason": "QA / test engineer title",
+ "india": {
+  "cities": [],
+  "company": "unclear",
+  "reason": "Location not stated",
+  "status": "unconfirmed",
+  "visa": false
+ },
+ "kind": "qa-engineer",
+ "last_verified": "2026-11-10T22:47:54Z",
+ "location": "",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": null,
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 55,
+  "comp": 60,
+  "company": 66,
+  "location": 36,
+  "seniority": 92,
+  "skill": 74
+ },
+ "seniority": "mid",
+ "snippet": "",
+ "source_primary": "Web (via search index)",
+ "sources": [
+  {
+   "id": "web",
+   "job_id": "https://www.talentica.com/jobdescription/qa-engineer-2-4-years/",
+   "kind": "search",
+   "name": "Web (via search index)",
+   "posted_at": null,
+   "seen_at": "2026-11-10T22:47:54Z",
+   "url": "https://www.talentica.com/jobdescription/qa-engineer-2-4-years/"
+  }
+ ],
+ "specializations": [],
+ "status": "lead",
+ "tier": 3,
+ "title": "QA Engineer (2-4 years)",
+ "tools": [],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://www.talentica.com/jobdescription/qa-engineer-2-4-years/",
+ "why": [
+  "QA / test engineer role"
+ ],
+ "work_mode": "unspecified",
+ "years_max": null,
+ "years_min": null
+}

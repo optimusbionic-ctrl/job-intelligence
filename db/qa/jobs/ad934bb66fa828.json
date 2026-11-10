@@ -1,0 +1,83 @@
+{
+ "apply_url": null,
+ "board_apply": "https://www.raftlabs.com/jobs/junior-qa-engineer",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "RaftLabs",
+ "company_slug": "raftlabs",
+ "concerns": [
+  "Employer has not confirmed hiring from India",
+  "Entry-level role — pay may be at the lower end",
+  "Pay not disclosed — ask for the range early",
+  "Full description not available from this source"
+ ],
+ "contacts_count": 0,
+ "content_hash": "31e33a929d70",
+ "date_quality": "unknown",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-10T22:47:54Z",
+ "fit": 66,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "ad934bb66fa828",
+ "include_reason": "QA / test engineer title",
+ "india": {
+  "cities": [],
+  "company": "unclear",
+  "reason": "Remote, region not stated",
+  "status": "unconfirmed",
+  "visa": false
+ },
+ "kind": "qa-engineer",
+ "last_verified": "2026-11-10T22:47:54Z",
+ "location": "Remote",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": null,
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "context_benchmark": "qa-dataset-remote",
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 55,
+  "comp": 60,
+  "company": 66,
+  "location": 36,
+  "seniority": 86,
+  "skill": 74
+ },
+ "seniority": "junior",
+ "snippet": "",
+ "source_primary": "Web (via search index)",
+ "sources": [
+  {
+   "id": "web",
+   "job_id": "https://www.raftlabs.com/jobs/junior-qa-engineer",
+   "kind": "search",
+   "name": "Web (via search index)",
+   "posted_at": null,
+   "seen_at": "2026-11-10T22:47:54Z",
+   "url": "https://www.raftlabs.com/jobs/junior-qa-engineer"
+  }
+ ],
+ "specializations": [],
+ "status": "lead",
+ "tier": 3,
+ "title": "Junior Quality Assurance Engineer",
+ "tools": [],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://www.raftlabs.com/jobs/junior-qa-engineer",
+ "why": [
+  "QA / test engineer role"
+ ],
+ "work_mode": "remote",
+ "years_max": null,
+ "years_min": null
+}
