@@ -15,9 +15,14 @@
    "india": 0,
    "india_samples": [],
    "open_samples": [],
-   "remote": 1,
-   "restricted_remote": 1,
+   "remote": 2,
+   "restricted_remote": 2,
    "restricted_samples": [
+    {
+     "location": "New York City",
+     "title": "Industry Principle, Multifamily",
+     "url": "https://jobs.ashbyhq.com/rilla/54371bdd-ef34-429d-8f27-16e749e27c29"
+    },
     {
      "location": "New York City",
      "title": "Rive Motion Designer and Animator (Contract-to-Hire)",
@@ -25,17 +30,17 @@
     }
    ],
    "slug": "rilla",
-   "total": 24,
+   "total": 25,
    "type": "ashby",
    "url": "https://jobs.ashbyhq.com/rilla",
    "worldwide": 0
   },
-  "changed_at": "2026-11-09T13:18:08Z",
+  "changed_at": "2026-11-10T16:59:11Z",
   "evidence": [
    {
-    "detail": "None are located in India or open worldwide; 1 remote role is limited to named countries",
+    "detail": "None are located in India or open worldwide; 2 remote roles are limited to named countries",
     "kind": "board",
-    "label": "All 24 open roles are in United States and United Kingdom",
+    "label": "All 25 open roles are in United States and United Kingdom",
     "url": "https://jobs.ashbyhq.com/rilla",
     "weight": -3
    }
@@ -43,8 +48,8 @@
   "first_checked_at": "2026-10-18T15:28:43Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "d7ba53cfa7",
-  "summary": "All 24 open roles are in United States and United Kingdom. None are located in India or open worldwide; 1 remote role is limited to named countries.",
+  "sig": "9db25f248c",
+  "summary": "All 25 open roles are in United States and United Kingdom. None are located in India or open worldwide; 2 remote roles are limited to named countries.",
   "verdict": "no"
  },
  "inferred": true,
