@@ -7,7 +7,7 @@
  "label": "Disclosed pay on remote motion-design postings (any region, this dataset)",
  "low": 9017202,
  "market": "Remote (global)",
- "n": 17,
+ "n": 16,
  "retrieved_at": "2026-11-10",
  "samples": [
   {
@@ -108,15 +108,6 @@
    "min": 135000,
    "title": "Senior Brand Designer",
    "url": "https://himalayas.app/companies/huckleberry-labs/jobs/senior-brand-designer?utm_source=api"
-  },
-  {
-   "company": "Fieldguide",
-   "currency": "USD",
-   "location": "USA",
-   "max": 170000,
-   "min": 140000,
-   "title": "Senior Motion Designer",
-   "url": "https://jobicy.com/jobs/158659-senior-motion-designer"
   },
   {
    "company": "Perplexity",
