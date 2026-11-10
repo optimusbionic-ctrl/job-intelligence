@@ -1,0 +1,81 @@
+{
+ "apply_url": null,
+ "board_apply": "https://www.foundit.in/job/motion-designer-talentclub-mumbai-58127819",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "TalentClub",
+ "company_slug": "talentclub",
+ "concerns": [
+  "Compensation not disclosed",
+  "Full description not available from this source"
+ ],
+ "contacts_count": 0,
+ "content_hash": "a53047b7ff10",
+ "date_quality": "unknown",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-10T21:34:53Z",
+ "fit": 57,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "55a29fb0e12832",
+ "include_reason": "Motion design title",
+ "india": {
+  "cities": [
+   "Mumbai"
+  ],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "motion",
+ "last_verified": "2026-11-10T21:34:53Z",
+ "location": "Mumbai",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": null,
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 45,
+  "comp": 48,
+  "company": 40,
+  "location": 64,
+  "seniority": 66,
+  "skill": 69
+ },
+ "seniority": "unspecified",
+ "snippet": "",
+ "source_primary": "foundit (via search index)",
+ "sources": [
+  {
+   "id": "foundit",
+   "job_id": "https://www.foundit.in/job/motion-designer-talentclub-mumbai-58127819",
+   "kind": "search",
+   "name": "foundit (via search index)",
+   "posted_at": null,
+   "seen_at": "2026-11-10T21:34:53Z",
+   "url": "https://www.foundit.in/job/motion-designer-talentclub-mumbai-58127819"
+  }
+ ],
+ "specializations": [],
+ "status": "lead",
+ "tier": 3,
+ "title": "Motion Designer",
+ "tools": [],
+ "updated_at": null,
+ "url": "https://www.foundit.in/job/motion-designer-talentclub-mumbai-58127819",
+ "why": [
+  "Core motion design role",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_min": null
+}

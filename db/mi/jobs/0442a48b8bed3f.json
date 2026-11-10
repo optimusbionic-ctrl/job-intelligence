@@ -1,0 +1,83 @@
+{
+ "apply_url": null,
+ "board_apply": "https://dynamitejobs.com/company/superside/remote-job/creative-motion-design-2",
+ "category": "Agency / studio",
+ "comp_potential": "unknown",
+ "company": "Superside",
+ "company_slug": "superside",
+ "concerns": [
+  "Superside's other roles are limited to named countries; confirm India is eligible",
+  "Employer has not confirmed hiring from India",
+  "Compensation not disclosed",
+  "Agency / studio (Tier 2)",
+  "Full description not available from this source"
+ ],
+ "contacts_count": 1,
+ "content_hash": "fe6667fb1c73",
+ "date_quality": "unknown",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-10T21:34:53Z",
+ "fit": 58,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "0442a48b8bed3f",
+ "include_reason": "Motion design title",
+ "india": {
+  "cities": [],
+  "company": "no",
+  "reason": "Remote, region not stated · Superside hires only in named countries",
+  "status": "unconfirmed",
+  "visa": false
+ },
+ "kind": "motion",
+ "last_verified": "2026-11-10T21:34:53Z",
+ "location": "Remote",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": null,
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "context_benchmark": "mi-dataset-remote",
+  "note": "Not disclosed. Global remote pay context is available, but there is no evidence it applies to this employer or to India-based hires.",
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 45,
+  "comp": 48,
+  "company": 62,
+  "location": 38,
+  "seniority": 66,
+  "skill": 69
+ },
+ "seniority": "unspecified",
+ "snippet": "",
+ "source_primary": "Web job listing (via search index)",
+ "sources": [
+  {
+   "id": "web",
+   "job_id": "https://dynamitejobs.com/company/superside/remote-job/creative-motion-design-2",
+   "kind": "search",
+   "name": "Web job listing (via search index)",
+   "posted_at": null,
+   "seen_at": "2026-11-10T21:34:53Z",
+   "url": "https://dynamitejobs.com/company/superside/remote-job/creative-motion-design-2"
+  }
+ ],
+ "specializations": [],
+ "status": "lead",
+ "tier": 2,
+ "title": "Creative Motion Design",
+ "tools": [],
+ "updated_at": null,
+ "url": "https://dynamitejobs.com/company/superside/remote-job/creative-motion-design-2",
+ "why": [
+  "Core motion design role"
+ ],
+ "work_mode": "remote",
+ "years_min": null
+}

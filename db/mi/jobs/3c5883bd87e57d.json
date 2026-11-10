@@ -1,0 +1,80 @@
+{
+ "apply_url": null,
+ "board_apply": "https://careers.georgian.io/companies/contentstack/jobs/78235072-motion-designer-ii",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "Contentstack",
+ "company_slug": "contentstack",
+ "concerns": [
+  "Employer has not confirmed hiring from India",
+  "Compensation not disclosed",
+  "Full description not available from this source"
+ ],
+ "contacts_count": 0,
+ "content_hash": "379eb2514ead",
+ "date_quality": "unknown",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-10T21:34:53Z",
+ "fit": 59,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "3c5883bd87e57d",
+ "include_reason": "Motion design title",
+ "india": {
+  "cities": [],
+  "company": "yes",
+  "reason": "Location not stated",
+  "status": "unconfirmed",
+  "visa": false
+ },
+ "kind": "motion",
+ "last_verified": "2026-11-10T21:34:53Z",
+ "location": "",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": null,
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 45,
+  "comp": 48,
+  "company": 40,
+  "location": 38,
+  "seniority": 100,
+  "skill": 69
+ },
+ "seniority": "senior",
+ "snippet": "",
+ "source_primary": "Web job listing (via search index)",
+ "sources": [
+  {
+   "id": "web",
+   "job_id": "https://careers.georgian.io/companies/contentstack/jobs/78235072-motion-designer-ii",
+   "kind": "search",
+   "name": "Web job listing (via search index)",
+   "posted_at": null,
+   "seen_at": "2026-11-10T21:34:53Z",
+   "url": "https://careers.georgian.io/companies/contentstack/jobs/78235072-motion-designer-ii"
+  }
+ ],
+ "specializations": [],
+ "status": "lead",
+ "tier": 3,
+ "title": "Motion Designer II",
+ "tools": [],
+ "updated_at": null,
+ "url": "https://careers.georgian.io/companies/contentstack/jobs/78235072-motion-designer-ii",
+ "why": [
+  "Core motion design role",
+  "Contentstack already hires people in India"
+ ],
+ "work_mode": "unspecified",
+ "years_min": null
+}

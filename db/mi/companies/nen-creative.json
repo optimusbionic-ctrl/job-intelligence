@@ -1,0 +1,68 @@
+{
+ "ats": {
+  "slug": "nen-creative",
+  "type": "ashby"
+ },
+ "category": "Agency / studio",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": {
+   "apac": 0,
+   "countries": [
+    "United States"
+   ],
+   "india": 0,
+   "india_samples": [],
+   "open_samples": [],
+   "remote": 17,
+   "restricted_remote": 17,
+   "restricted_samples": [
+    {
+     "location": "San Francisco • New York City • Los Angeles",
+     "title": "Associate Agency Producer",
+     "url": "https://jobs.ashbyhq.com/nen-creative/92e24130-91cc-4634-9afc-131203c34b8d"
+    },
+    {
+     "location": "San Francisco",
+     "title": "Associate Producer",
+     "url": "https://jobs.ashbyhq.com/nen-creative/74cdb466-2e65-4ec5-a282-d5aa5764d2b2"
+    },
+    {
+     "location": "New York City • San Francisco • Los Angeles",
+     "title": "Brand Designer",
+     "url": "https://jobs.ashbyhq.com/nen-creative/a7c735e1-32c4-4c00-871f-ffecbbb38ae8"
+    },
+    {
+     "location": "New York City",
+     "title": "Cinematographer - New York City",
+     "url": "https://jobs.ashbyhq.com/nen-creative/54e7e527-aa26-4e54-8d84-abb4d77007b0"
+    }
+   ],
+   "slug": "nen-creative",
+   "total": 29,
+   "type": "ashby",
+   "url": "https://jobs.ashbyhq.com/nen-creative",
+   "worldwide": 0
+  },
+  "changed_at": "2026-11-10T21:34:53Z",
+  "evidence": [
+   {
+    "detail": "None are located in India or open worldwide; 17 remote roles are limited to named countries",
+    "kind": "board",
+    "label": "All 29 open roles are in United States",
+    "url": "https://jobs.ashbyhq.com/nen-creative",
+    "weight": -3
+   }
+  ],
+  "first_checked_at": "2026-11-10T21:34:53Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "640213260a",
+  "summary": "All 29 open roles are in United States. None are located in India or open worldwide; 17 remote roles are limited to named countries.",
+  "verdict": "no"
+ },
+ "inferred": true,
+ "name": "Nen Creative",
+ "slug": "nen-creative",
+ "tier": 2
+}

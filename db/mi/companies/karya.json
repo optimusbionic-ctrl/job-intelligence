@@ -1,0 +1,68 @@
+{
+ "ats": {
+  "slug": "karya",
+  "type": "greenhouse"
+ },
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": {
+   "apac": 0,
+   "countries": [
+    "India"
+   ],
+   "india": 18,
+   "india_samples": [
+    {
+     "location": "Bengaluru",
+     "title": "Analytics Lead - Data, Measurement & Impact ",
+     "url": "https://job-boards.greenhouse.io/karya/jobs/5215538008"
+    },
+    {
+     "location": "Bengaluru ",
+     "title": "Associate - Founder's Office",
+     "url": "https://job-boards.greenhouse.io/karya/jobs/5464495008"
+    },
+    {
+     "location": "Bengaluru, Karnataka, India, Delhi, India",
+     "title": "Community Coordinator - Work Management",
+     "url": "https://job-boards.greenhouse.io/karya/jobs/5314843008"
+    },
+    {
+     "location": "Bengaluru",
+     "title": "Content Developer - Learning and Curriculum",
+     "url": "https://job-boards.greenhouse.io/karya/jobs/5044438008"
+    }
+   ],
+   "open_samples": [],
+   "remote": 0,
+   "restricted_remote": 0,
+   "restricted_samples": [],
+   "slug": "karya",
+   "total": 19,
+   "type": "greenhouse",
+   "url": "https://boards.greenhouse.io/karya",
+   "worldwide": 0
+  },
+  "changed_at": "2026-11-10T21:34:53Z",
+  "evidence": [
+   {
+    "detail": "Analytics Lead - Data, Measurement & Impact  (Bengaluru); Associate - Founder's Office (Bengaluru ); Community Coordinator - Work Management (Bengaluru, Karnataka, India, Delhi, India)",
+    "kind": "board",
+    "label": "18 of 19 open roles are located in India",
+    "url": "https://boards.greenhouse.io/karya",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-10T21:34:53Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "2e28f835a7",
+  "summary": "18 of 19 open roles are located in India.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Karya",
+ "slug": "karya",
+ "tier": 3
+}

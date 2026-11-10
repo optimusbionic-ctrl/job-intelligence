@@ -1,0 +1,77 @@
+{
+ "apply_url": null,
+ "board_apply": "https://jobs.weekday.works/motion-graphic-designer-at-greyspace-design-studio-wkdy30n8ze",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "GreySpace Design Studio",
+ "company_slug": "greyspace-design-studio",
+ "concerns": [
+  "Employer has not confirmed hiring from India",
+  "Compensation not disclosed",
+  "Full description not available from this source"
+ ],
+ "contacts_count": 0,
+ "content_hash": "6ff345b77043",
+ "date_quality": "unknown",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-10T21:34:53Z",
+ "fit": 46,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "c1d16d11dbc2f7",
+ "include_reason": "Mixed graphic + motion title",
+ "india": {
+  "cities": [],
+  "company": "unclear",
+  "reason": "Location not stated",
+  "status": "unconfirmed",
+  "visa": false
+ },
+ "kind": "graphic-motion",
+ "last_verified": "2026-11-10T21:34:53Z",
+ "location": "",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": null,
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 45,
+  "comp": 48,
+  "company": 40,
+  "location": 38,
+  "seniority": 66,
+  "skill": 42
+ },
+ "seniority": "unspecified",
+ "snippet": "",
+ "source_primary": "Web job listing (via search index)",
+ "sources": [
+  {
+   "id": "web",
+   "job_id": "https://jobs.weekday.works/motion-graphic-designer-at-greyspace-design-studio-wkdy30n8ze",
+   "kind": "search",
+   "name": "Web job listing (via search index)",
+   "posted_at": null,
+   "seen_at": "2026-11-10T21:34:53Z",
+   "url": "https://jobs.weekday.works/motion-graphic-designer-at-greyspace-design-studio-wkdy30n8ze"
+  }
+ ],
+ "specializations": [],
+ "status": "lead",
+ "tier": 3,
+ "title": "Motion Graphic Designer",
+ "tools": [],
+ "updated_at": null,
+ "url": "https://jobs.weekday.works/motion-graphic-designer-at-greyspace-design-studio-wkdy30n8ze",
+ "why": [],
+ "work_mode": "unspecified",
+ "years_min": null
+}

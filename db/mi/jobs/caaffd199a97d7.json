@@ -1,0 +1,77 @@
+{
+ "apply_url": null,
+ "board_apply": "https://wellfound.com/jobs/2845553-motion-graphics-designer",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "Brown Men Marketing",
+ "company_slug": "brown-men-marketing",
+ "concerns": [
+  "Employer has not confirmed hiring from India",
+  "Compensation not disclosed",
+  "Full description not available from this source"
+ ],
+ "contacts_count": 0,
+ "content_hash": "eb2e1d689605",
+ "date_quality": "unknown",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-10T21:34:53Z",
+ "fit": 46,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "caaffd199a97d7",
+ "include_reason": "Mixed graphic + motion title",
+ "india": {
+  "cities": [],
+  "company": "unclear",
+  "reason": "Location not stated",
+  "status": "unconfirmed",
+  "visa": false
+ },
+ "kind": "graphic-motion",
+ "last_verified": "2026-11-10T21:34:53Z",
+ "location": "",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": null,
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 45,
+  "comp": 48,
+  "company": 40,
+  "location": 38,
+  "seniority": 66,
+  "skill": 42
+ },
+ "seniority": "unspecified",
+ "snippet": "",
+ "source_primary": "Wellfound (via search index)",
+ "sources": [
+  {
+   "id": "wellfound",
+   "job_id": "https://wellfound.com/jobs/2845553-motion-graphics-designer",
+   "kind": "search",
+   "name": "Wellfound (via search index)",
+   "posted_at": null,
+   "seen_at": "2026-11-10T21:34:53Z",
+   "url": "https://wellfound.com/jobs/2845553-motion-graphics-designer"
+  }
+ ],
+ "specializations": [],
+ "status": "lead",
+ "tier": 3,
+ "title": "Motion Graphics Designer",
+ "tools": [],
+ "updated_at": null,
+ "url": "https://wellfound.com/jobs/2845553-motion-graphics-designer",
+ "why": [],
+ "work_mode": "unspecified",
+ "years_min": null
+}

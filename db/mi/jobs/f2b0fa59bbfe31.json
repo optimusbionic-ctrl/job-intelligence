@@ -1,0 +1,81 @@
+{
+ "apply_url": null,
+ "board_apply": "https://jobs.freestyle.vc/companies/superside/jobs/63917534-freelance-motion-designers",
+ "category": "Agency / studio",
+ "comp_potential": "unknown",
+ "company": "Superside",
+ "company_slug": "superside",
+ "concerns": [
+  "Superside's other roles are limited to named countries; confirm India is eligible",
+  "Employer has not confirmed hiring from India",
+  "Compensation not disclosed",
+  "Agency / studio (Tier 2)",
+  "Full description not available from this source"
+ ],
+ "contacts_count": 1,
+ "content_hash": "00c663e82688",
+ "date_quality": "unknown",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-10T21:34:53Z",
+ "fit": 58,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "f2b0fa59bbfe31",
+ "include_reason": "Motion design title",
+ "india": {
+  "cities": [],
+  "company": "no",
+  "reason": "Location not stated · Superside hires only in named countries",
+  "status": "unconfirmed",
+  "visa": false
+ },
+ "kind": "motion",
+ "last_verified": "2026-11-10T21:34:53Z",
+ "location": "",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": null,
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 45,
+  "comp": 48,
+  "company": 62,
+  "location": 38,
+  "seniority": 66,
+  "skill": 69
+ },
+ "seniority": "unspecified",
+ "snippet": "",
+ "source_primary": "Web job listing (via search index)",
+ "sources": [
+  {
+   "id": "web",
+   "job_id": "https://jobs.freestyle.vc/companies/superside/jobs/63917534-freelance-motion-designers",
+   "kind": "search",
+   "name": "Web job listing (via search index)",
+   "posted_at": null,
+   "seen_at": "2026-11-10T21:34:53Z",
+   "url": "https://jobs.freestyle.vc/companies/superside/jobs/63917534-freelance-motion-designers"
+  }
+ ],
+ "specializations": [],
+ "status": "lead",
+ "tier": 2,
+ "title": "Freelance Motion Designers",
+ "tools": [],
+ "updated_at": null,
+ "url": "https://jobs.freestyle.vc/companies/superside/jobs/63917534-freelance-motion-designers",
+ "why": [
+  "Core motion design role"
+ ],
+ "work_mode": "unspecified",
+ "years_min": null
+}

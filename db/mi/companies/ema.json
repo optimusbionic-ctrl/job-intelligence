@@ -1,0 +1,92 @@
+{
+ "ats": {
+  "slug": "ema",
+  "type": "ashby"
+ },
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": {
+   "apac": 0,
+   "countries": [
+    "India",
+    "United States",
+    "United Kingdom",
+    "Canada"
+   ],
+   "india": 15,
+   "india_samples": [
+    {
+     "location": "Bengaluru office",
+     "title": " Devops Engineer",
+     "url": "https://jobs.ashbyhq.com/ema/4524951e-f795-49d8-b147-8bcbc46ef534"
+    },
+    {
+     "location": "India - Bengaluru",
+     "title": "Customer Engagement Manager",
+     "url": "https://jobs.ashbyhq.com/ema/ca441c5a-9d87-4432-bdb6-250174b2eded"
+    },
+    {
+     "location": "India - Bengaluru",
+     "title": "Engineering Leader",
+     "url": "https://jobs.ashbyhq.com/ema/47efaac2-be84-47e0-9193-1110d8ab9bd1"
+    },
+    {
+     "location": "India - Bengaluru",
+     "title": "Platform Engineer",
+     "url": "https://jobs.ashbyhq.com/ema/748c829c-cb1d-48cf-90da-780593e89bea"
+    }
+   ],
+   "open_samples": [],
+   "remote": 16,
+   "restricted_remote": 14,
+   "restricted_samples": [
+    {
+     "location": "United Kingdom (Remote)",
+     "title": "AI Resident UK/EMEA",
+     "url": "https://jobs.ashbyhq.com/ema/c6ec72b0-dce1-422c-895f-9f22c4762a76"
+    },
+    {
+     "location": "United Kingdom (Remote)",
+     "title": "AI Strategist - UK",
+     "url": "https://jobs.ashbyhq.com/ema/b4d1709b-f33a-4eb4-b3ec-f5509be8069d"
+    },
+    {
+     "location": "Mountain View (Hybrid) • United States",
+     "title": "Devops Engineer, US",
+     "url": "https://jobs.ashbyhq.com/ema/6f816cca-bf17-4061-b751-033a14e433cb"
+    },
+    {
+     "location": "United Kingdom (Remote)",
+     "title": "Engineering Leader",
+     "url": "https://jobs.ashbyhq.com/ema/6debf9aa-ad1c-4fa8-878f-df222bc789b8"
+    }
+   ],
+   "slug": "ema",
+   "total": 39,
+   "type": "ashby",
+   "url": "https://jobs.ashbyhq.com/ema",
+   "worldwide": 0
+  },
+  "changed_at": "2026-11-10T21:34:53Z",
+  "evidence": [
+   {
+    "detail": " Devops Engineer (Bengaluru office); Customer Engagement Manager (India - Bengaluru); Engineering Leader (India - Bengaluru)",
+    "kind": "board",
+    "label": "15 of 39 open roles are located in India",
+    "url": "https://jobs.ashbyhq.com/ema",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-10T21:34:53Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "ef03e5e77c",
+  "summary": "15 of 39 open roles are located in India.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Ema",
+ "slug": "ema",
+ "tier": 3
+}

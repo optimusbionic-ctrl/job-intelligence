@@ -1,0 +1,80 @@
+{
+ "apply_url": null,
+ "board_apply": "https://builtinbengaluru.in/job/ai-motion-graphic-designer/9786788",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "Influur",
+ "company_slug": "influur",
+ "concerns": [
+  "Compensation not disclosed",
+  "Full description not available from this source"
+ ],
+ "contacts_count": 0,
+ "content_hash": "083d776ce087",
+ "date_quality": "unknown",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-10T21:34:53Z",
+ "fit": 51,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "8f5b76af2633dd",
+ "include_reason": "Mixed graphic + motion title",
+ "india": {
+  "cities": [
+   "Bengaluru"
+  ],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "graphic-motion",
+ "last_verified": "2026-11-10T21:34:53Z",
+ "location": "Bengaluru, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": null,
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 45,
+  "comp": 48,
+  "company": 40,
+  "location": 86,
+  "seniority": 66,
+  "skill": 42
+ },
+ "seniority": "unspecified",
+ "snippet": "",
+ "source_primary": "Web job listing (via search index)",
+ "sources": [
+  {
+   "id": "web",
+   "job_id": "https://builtinbengaluru.in/job/ai-motion-graphic-designer/9786788",
+   "kind": "search",
+   "name": "Web job listing (via search index)",
+   "posted_at": null,
+   "seen_at": "2026-11-10T21:34:53Z",
+   "url": "https://builtinbengaluru.in/job/ai-motion-graphic-designer/9786788"
+  }
+ ],
+ "specializations": [],
+ "status": "lead",
+ "tier": 3,
+ "title": "AI Motion Graphic Designer",
+ "tools": [],
+ "updated_at": null,
+ "url": "https://builtinbengaluru.in/job/ai-motion-graphic-designer/9786788",
+ "why": [
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_min": null
+}

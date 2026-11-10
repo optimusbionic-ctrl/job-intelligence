@@ -1,0 +1,63 @@
+{
+ "ats": {
+  "slug": "capsule",
+  "type": "ashby"
+ },
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": {
+   "apac": 0,
+   "countries": [
+    "United States"
+   ],
+   "india": 0,
+   "india_samples": [],
+   "open_samples": [],
+   "remote": 4,
+   "restricted_remote": 3,
+   "restricted_samples": [
+    {
+     "location": "Los Angeles",
+     "title": "AI Engineer",
+     "url": "https://jobs.ashbyhq.com/capsule/54d99e43-b842-4991-9d0d-7b479b3ce92c"
+    },
+    {
+     "location": "Los Angeles",
+     "title": "Frontend Engineer",
+     "url": "https://jobs.ashbyhq.com/capsule/911f5125-8bc1-4978-9924-ba1f040b4a1e"
+    },
+    {
+     "location": "Los Angeles",
+     "title": "Lead Product Designer",
+     "url": "https://jobs.ashbyhq.com/capsule/93bf612d-6c9f-47d3-b2c6-3a0245e6b9c2"
+    }
+   ],
+   "slug": "capsule",
+   "total": 4,
+   "type": "ashby",
+   "url": "https://jobs.ashbyhq.com/capsule",
+   "worldwide": 0
+  },
+  "changed_at": "2026-11-10T21:34:53Z",
+  "evidence": [
+   {
+    "detail": "None are located in India or open worldwide; 3 remote roles are limited to named countries",
+    "kind": "board",
+    "label": "All 4 open roles are in United States",
+    "url": "https://jobs.ashbyhq.com/capsule",
+    "weight": -3
+   }
+  ],
+  "first_checked_at": "2026-11-10T21:34:53Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "fe86665e96",
+  "summary": "All 4 open roles are in United States. None are located in India or open worldwide; 3 remote roles are limited to named countries.",
+  "verdict": "no"
+ },
+ "inferred": true,
+ "name": "Capsule",
+ "slug": "capsule",
+ "tier": 3
+}

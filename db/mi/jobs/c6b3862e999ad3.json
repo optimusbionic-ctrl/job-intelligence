@@ -1,0 +1,90 @@
+{
+ "apply_url": "https://jobs.ashbyhq.com/MaxBeauty/d70550d4-70e7-4905-ac43-bf0ef9b06e9c/application",
+ "board_apply": null,
+ "category": "AI",
+ "comp_potential": "unknown",
+ "company": "MaxBeauty",
+ "company_slug": "maxbeauty",
+ "concerns": [
+  "Employer has not confirmed hiring from India",
+  "Compensation not disclosed"
+ ],
+ "contacts_count": 0,
+ "content_hash": "131ab03fb475",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-10T21:34:53Z",
+ "fit": 60,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "c6b3862e999ad3",
+ "include_reason": "Motion design title",
+ "india": {
+  "cities": [],
+  "company": "unclear",
+  "reason": "Remote, region not stated",
+  "status": "unconfirmed",
+  "visa": false
+ },
+ "kind": "motion",
+ "last_verified": "2026-11-10T21:34:53Z",
+ "location": "Remote",
+ "logo": null,
+ "needs_review": false,
+ "official": true,
+ "posted_at": "2026-11-02T14:15:08Z",
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "context_benchmark": "mi-dataset-remote",
+  "note": "Not disclosed. Global remote pay context is available, but there is no evidence it applies to this employer or to India-based hires.",
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 48,
+  "company": 98,
+  "location": 38,
+  "seniority": 66,
+  "skill": 47
+ },
+ "seniority": "unspecified",
+ "snippet": "[https://app.ashbyhq.com/api/images/user-content/586ac3cb-f234-40cf-96fd-3daae8c41309/5ee9a0d2-4c5b-4655-83b5-f3004333b7a7/Frame%201171275517.png]\n\nSKELAR — це venture builder, який будує міжнародні продуктові IT-компанії за правилами світу венчурних інвестицій. Разом із ко-фаундерами збираємо сильні команди, щоб запускати продуктові IT-бізнеси та перемагати на глобальних ринках.\n\nСьогодні в SKELAR десяток бізнесів у",
+ "source_primary": "MaxBeauty careers (Ashby)",
+ "sources": [
+  {
+   "id": "ashby",
+   "job_id": "ashby:maxbeauty:d70550d4-70e7-4905-ac43-bf0ef9b06e9c",
+   "kind": "ats",
+   "name": "MaxBeauty careers (Ashby)",
+   "posted_at": "2026-11-02T14:15:08Z",
+   "seen_at": "2026-11-10T21:34:53Z",
+   "url": "https://jobs.ashbyhq.com/MaxBeauty/d70550d4-70e7-4905-ac43-bf0ef9b06e9c"
+  },
+  {
+   "id": "web",
+   "job_id": "https://ixdf.org/jobs/motion-designer-maxbeauty-remote",
+   "kind": "search",
+   "name": "Web job listing (via search index)",
+   "posted_at": null,
+   "seen_at": "2026-11-10T21:34:53Z",
+   "url": "https://ixdf.org/jobs/motion-designer-maxbeauty-remote"
+  }
+ ],
+ "specializations": [],
+ "status": "verified",
+ "tier": 1,
+ "title": "Motion Designer",
+ "tools": [],
+ "updated_at": null,
+ "url": "https://jobs.ashbyhq.com/MaxBeauty/d70550d4-70e7-4905-ac43-bf0ef9b06e9c",
+ "why": [
+  "Core motion design role",
+  "AI company (Tier 1 priority)"
+ ],
+ "work_mode": "remote",
+ "years_min": null
+}

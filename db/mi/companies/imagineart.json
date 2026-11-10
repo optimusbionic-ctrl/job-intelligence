@@ -1,0 +1,73 @@
+{
+ "ats": {
+  "slug": "imagineart",
+  "type": "ashby"
+ },
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": {
+   "apac": 0,
+   "countries": [
+    "Pakistan",
+    "United States",
+    "India"
+   ],
+   "india": 2,
+   "india_samples": [
+    {
+     "location": "India",
+     "title": "Agent Infrastructure Engineer — Core Harness (Superagent)",
+     "url": "https://jobs.ashbyhq.com/imagineart/8c508ce3-ef15-473e-8a55-42e2f23432d7"
+    },
+    {
+     "location": "India",
+     "title": "SEO Lead",
+     "url": "https://jobs.ashbyhq.com/imagineart/900fdc22-08ee-4803-bd4f-a03f2f691276"
+    }
+   ],
+   "open_samples": [],
+   "remote": 3,
+   "restricted_remote": 1,
+   "restricted_samples": [
+    {
+     "location": "San Francisco",
+     "title": "Student Ambassador",
+     "url": "https://jobs.ashbyhq.com/imagineart/952cfc13-b40a-48ce-874f-c922f9b68d97"
+    }
+   ],
+   "slug": "imagineart",
+   "total": 18,
+   "type": "ashby",
+   "url": "https://jobs.ashbyhq.com/imagineart",
+   "worldwide": 0
+  },
+  "changed_at": "2026-11-10T21:34:53Z",
+  "evidence": [
+   {
+    "detail": "Agent Infrastructure Engineer — Core Harness (Superagent) (India); SEO Lead (India)",
+    "kind": "board",
+    "label": "2 of 18 open roles are located in India",
+    "url": "https://jobs.ashbyhq.com/imagineart",
+    "weight": 5
+   },
+   {
+    "detail": "Motion Graphic Designer — Bengaluru, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://builtinbengaluru.in/job/motion-graphic-designer/9293118",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-10T21:34:53Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "f454348442",
+  "summary": "2 of 18 open roles are located in India.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "ImagineArt",
+ "slug": "imagineart",
+ "tier": 3
+}

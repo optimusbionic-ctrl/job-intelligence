@@ -1,0 +1,27 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-10T21:34:53Z",
+  "evidence": [
+   {
+    "detail": "2D Motion Graphic Designer — Noida",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://cutshort.io/job/2D-Motion-Graphic-Designer-Noida-Vapronix-Web-Pvt-Ltd-mMupMg4O",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-10T21:34:53Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "521129d4ff",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Vapronix Web Pvt Ltd",
+ "slug": "vapronix-web-pvt-ltd",
+ "tier": 3
+}

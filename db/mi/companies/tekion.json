@@ -1,0 +1,98 @@
+{
+ "ats": {
+  "slug": "tekion",
+  "type": "ashby"
+ },
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": {
+   "apac": 0,
+   "countries": [
+    "India",
+    "United States",
+    "Canada"
+   ],
+   "india": 66,
+   "india_samples": [
+    {
+     "location": "Bangalore HQ",
+     "title": "Applied Science - Senior Software Development Test Engineer ( SDET ) ",
+     "url": "https://jobs.ashbyhq.com/Tekion/f9e2b20f-90d7-4f02-afbf-df120601e825"
+    },
+    {
+     "location": "Bangalore HQ",
+     "title": "Architect, Software Engineering - Frontend - Integration ",
+     "url": "https://jobs.ashbyhq.com/Tekion/6b7a5781-860e-4a8c-ad2b-b9713cdf2a3b"
+    },
+    {
+     "location": "Bangalore HQ",
+     "title": "Architect, Software Engineering - Integration ",
+     "url": "https://jobs.ashbyhq.com/Tekion/c9eca2e7-075a-4e1e-9697-61f521d48316"
+    },
+    {
+     "location": "Bangalore HQ",
+     "title": "Associate Principal Graphic Designer",
+     "url": "https://jobs.ashbyhq.com/Tekion/1c6ab033-1734-4d45-bcf9-cbedfee319f0"
+    }
+   ],
+   "open_samples": [],
+   "remote": 16,
+   "restricted_remote": 16,
+   "restricted_samples": [
+    {
+     "location": "Virtual - United States",
+     "title": "Account Development Representative I",
+     "url": "https://jobs.ashbyhq.com/Tekion/c7db0289-baa8-490b-9e1f-4e4bae7f18b1"
+    },
+    {
+     "location": "Virtual - United States",
+     "title": "Account Development Representative I",
+     "url": "https://jobs.ashbyhq.com/Tekion/3e72a436-859b-47d9-8911-c53245aadbf5"
+    },
+    {
+     "location": "Virtual - United States",
+     "title": "Automotive Emerging Product Enablement Lead ",
+     "url": "https://jobs.ashbyhq.com/Tekion/15f53638-7d07-4833-9bc6-ee5a4eacfe30"
+    },
+    {
+     "location": "Virtual - Texas",
+     "title": "Customer Value Architect (Retail, CRM, Accounting, Fixed, Analytics)",
+     "url": "https://jobs.ashbyhq.com/Tekion/efe15c5d-721b-4f57-bf11-4d6872a84d09"
+    }
+   ],
+   "slug": "tekion",
+   "total": 90,
+   "type": "ashby",
+   "url": "https://jobs.ashbyhq.com/tekion",
+   "worldwide": 0
+  },
+  "changed_at": "2026-11-10T21:34:53Z",
+  "evidence": [
+   {
+    "detail": "Applied Science - Senior Software Development Test Engineer ( SDET )  (Bangalore HQ); Architect, Software Engineering - Frontend - Integration  (Bangalore HQ); Architect, Software Engineering - Integration  (Bangalore HQ",
+    "kind": "board",
+    "label": "66 of 90 open roles are located in India",
+    "url": "https://jobs.ashbyhq.com/tekion",
+    "weight": 5
+   },
+   {
+    "detail": "Senior Motion Designer — Bengaluru, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://builtinbengaluru.in/job/senior-motion-designer/7826667",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-10T21:34:53Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "83842b010c",
+  "summary": "66 of 90 open roles are located in India.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Tekion",
+ "slug": "tekion",
+ "tier": 3
+}

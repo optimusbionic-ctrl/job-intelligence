@@ -1,0 +1,79 @@
+{
+ "apply_url": null,
+ "board_apply": "https://www.foundit.in/job/motion-designer-doodl-space-india-53308064",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "Doodl Space",
+ "company_slug": "doodl-space",
+ "concerns": [
+  "Compensation not disclosed",
+  "Full description not available from this source"
+ ],
+ "contacts_count": 0,
+ "content_hash": "ed06a22a77ee",
+ "date_quality": "unknown",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-10T21:34:53Z",
+ "fit": 59,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "6f0f6732d46bb5",
+ "include_reason": "Motion design title",
+ "india": {
+  "cities": [],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "motion",
+ "last_verified": "2026-11-10T21:34:53Z",
+ "location": "India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": null,
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 45,
+  "comp": 48,
+  "company": 40,
+  "location": 88,
+  "seniority": 66,
+  "skill": 69
+ },
+ "seniority": "unspecified",
+ "snippet": "",
+ "source_primary": "foundit (via search index)",
+ "sources": [
+  {
+   "id": "foundit",
+   "job_id": "https://www.foundit.in/job/motion-designer-doodl-space-india-53308064",
+   "kind": "search",
+   "name": "foundit (via search index)",
+   "posted_at": null,
+   "seen_at": "2026-11-10T21:34:53Z",
+   "url": "https://www.foundit.in/job/motion-designer-doodl-space-india-53308064"
+  }
+ ],
+ "specializations": [],
+ "status": "lead",
+ "tier": 3,
+ "title": "Motion Designer",
+ "tools": [],
+ "updated_at": null,
+ "url": "https://www.foundit.in/job/motion-designer-doodl-space-india-53308064",
+ "why": [
+  "Core motion design role",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_min": null
+}

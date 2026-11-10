@@ -18,14 +18,20 @@
    "countries": [
     "Colombia",
     "Argentina",
-    "Canada"
+    "Canada",
+    "Spain"
    ],
    "india": 0,
    "india_samples": [],
    "open_samples": [],
-   "remote": 13,
-   "restricted_remote": 13,
+   "remote": 14,
+   "restricted_remote": 14,
    "restricted_samples": [
+    {
+     "location": "EMEA",
+     "title": "AI Creative Technologist",
+     "url": "https://jobs.lever.co/superside/2e3f7ff5-8b1e-45e3-bbdc-65ab16c291e1"
+    },
     {
      "location": "Toronto",
      "title": "AI Solutions Engineer",
@@ -40,49 +46,30 @@
      "location": "Global",
      "title": "Conceptual Art Director",
      "url": "https://jobs.lever.co/superside/a6b28001-e4b7-4253-bb2e-bc0ce8e74f07"
-    },
-    {
-     "location": "LATAM",
-     "title": "Creative (Graphic Designer)",
-     "url": "https://jobs.lever.co/superside/f3d3064a-6df5-4a65-af08-132eeaf3688c"
     }
    ],
    "slug": "superside",
-   "total": 14,
+   "total": 15,
    "type": "lever",
    "url": "https://jobs.lever.co/superside",
    "worldwide": 0
   },
-  "changed_at": "2026-11-03T18:05:53Z",
+  "changed_at": "2026-11-10T21:34:53Z",
   "evidence": [
    {
-    "detail": "None are located in India or open worldwide; 13 remote roles are limited to named countries",
+    "detail": "None are located in India or open worldwide; 14 remote roles are limited to named countries",
     "kind": "board",
-    "label": "All 14 open roles are in Colombia, Argentina and Canada",
+    "label": "All 15 open roles are in Colombia, Argentina, Canada and Spain",
     "url": "https://jobs.lever.co/superside",
     "weight": -3
-   },
-   {
-    "detail": "Creative (Motion Design) — Anywhere",
-    "kind": "posting",
-    "label": "A current posting is open worldwide",
-    "url": "https://jobs.lever.co/superside/b714cc57-df70-483e-be78-5cd898339e9a",
-    "weight": 3
-   },
-   {
-    "detail": "…tie animations, and more, all while collaborating with a world-class, globally distributed team of creatives.   This is a high-ownership role where you’ll contribute…",
-    "kind": "posting",
-    "label": "Posting describes hiring across countries",
-    "url": "https://jobs.lever.co/superside/b714cc57-df70-483e-be78-5cd898339e9a",
-    "weight": 3
    }
   ],
   "first_checked_at": "2026-10-22T09:28:02Z",
   "india_based": false,
   "method": "Careers board, posting text, web search",
-  "sig": "8bd9a3742c",
-  "summary": "No India-located roles found, but a current posting is open worldwide.",
-  "verdict": "likely",
+  "sig": "1775db1c17",
+  "summary": "All 15 open roles are in Colombia, Argentina, Canada and Spain. None are located in India or open worldwide; 14 remote roles are limited to named countries.",
+  "verdict": "no",
   "web": {
    "checked_at": "2026-10-22T10:28:53Z",
    "query": "site:superside.com careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
@@ -120,7 +107,6 @@
    ]
   }
  },
- "logo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2021/01/WRILS-210104060359-501693.jpg",
  "maturity": "Growth-stage private",
  "name": "Superside",
  "slug": "superside",

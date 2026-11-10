@@ -1,0 +1,82 @@
+{
+ "apply_url": null,
+ "board_apply": "https://capsule.video/jobs/motion-design-systems-lead",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "Capsule",
+ "company_slug": "capsule",
+ "concerns": [
+  "Capsule's other roles are limited to named countries; confirm India is eligible",
+  "Employer has not confirmed hiring from India",
+  "Compensation not disclosed",
+  "Full description not available from this source"
+ ],
+ "contacts_count": 0,
+ "content_hash": "390738563987",
+ "date_quality": "unknown",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-10T21:34:53Z",
+ "fit": 50,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "c19618b0185c42",
+ "include_reason": "Mixed graphic + motion title",
+ "india": {
+  "cities": [],
+  "company": "no",
+  "reason": "Location not stated · Capsule hires only in named countries",
+  "status": "unconfirmed",
+  "visa": false
+ },
+ "kind": "graphic-motion",
+ "last_verified": "2026-11-10T21:34:53Z",
+ "location": "",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": null,
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 45,
+  "comp": 48,
+  "company": 40,
+  "location": 38,
+  "seniority": 96,
+  "skill": 42
+ },
+ "seniority": "lead",
+ "snippet": "",
+ "source_primary": "Web job listing (via search index)",
+ "sources": [
+  {
+   "id": "web",
+   "job_id": "https://capsule.video/jobs/motion-design-systems-lead",
+   "kind": "search",
+   "name": "Web job listing (via search index)",
+   "posted_at": null,
+   "seen_at": "2026-11-10T21:34:53Z",
+   "url": "https://capsule.video/jobs/motion-design-systems-lead"
+  }
+ ],
+ "specializations": [
+  "Interaction systems"
+ ],
+ "status": "lead",
+ "tier": 3,
+ "title": "Motion Design Systems Lead",
+ "tools": [],
+ "updated_at": null,
+ "url": "https://capsule.video/jobs/motion-design-systems-lead",
+ "why": [
+  "Specialisations in scope: Interaction systems"
+ ],
+ "work_mode": "unspecified",
+ "years_min": null
+}

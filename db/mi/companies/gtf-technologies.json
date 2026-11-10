@@ -3,20 +3,20 @@
  "classification": "Inferred from job description",
  "india_hiring": {
   "board": null,
-  "changed_at": "2026-10-16T15:28:48Z",
+  "changed_at": "2026-11-10T21:34:53Z",
   "evidence": [
    {
-    "detail": "Motion Graphic Designer — Noida, India",
+    "detail": "Motion Graphic Designer — Noida",
     "kind": "posting",
     "label": "A current posting lists India as a location",
-    "url": "https://www.naukri.com/job-listings-151026031429",
+    "url": "https://cutshort.io/job/motion-graphic-designer-Noida-Gtf-technologies-Wq7SWgzG",
     "weight": 5
    }
   ],
   "first_checked_at": "2026-10-16T15:28:48Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "af16714d00",
+  "sig": "4ea0507074",
   "summary": "A current posting lists India as a location.",
   "verdict": "yes"
  },

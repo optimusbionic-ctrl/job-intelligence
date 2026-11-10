@@ -1,0 +1,27 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-10T21:34:53Z",
+  "evidence": [
+   {
+    "detail": "Motion Graphic Designer — Delhi",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.foundit.in/job/motion-graphic-designer-story-digital-delhi-60477257",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-10T21:34:53Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "362b36e42e",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Story Digital",
+ "slug": "story-digital",
+ "tier": 3
+}

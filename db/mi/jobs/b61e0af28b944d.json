@@ -1,0 +1,82 @@
+{
+ "apply_url": null,
+ "board_apply": "https://remotive.com/remote/jobs/design/senior-motion-designer-4640655",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "Brandtech+",
+ "company_slug": "brandtech",
+ "concerns": [
+  "Compensation not disclosed",
+  "Full description not available from this source"
+ ],
+ "contacts_count": 0,
+ "content_hash": "f1b9b05c41ed",
+ "date_quality": "unknown",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-10T21:34:53Z",
+ "fit": 64,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "b61e0af28b944d",
+ "include_reason": "Motion design title",
+ "india": {
+  "basis": "company",
+  "cities": [],
+  "company": "yes",
+  "reason": "Region not stated; Brandtech+ hires in India",
+  "status": "likely",
+  "visa": false
+ },
+ "kind": "motion",
+ "last_verified": "2026-11-10T21:34:53Z",
+ "location": "Remote",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": null,
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "context_benchmark": "mi-dataset-remote",
+  "note": "Not disclosed. Global remote pay context is available, but there is no evidence it applies to this employer or to India-based hires.",
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 45,
+  "comp": 48,
+  "company": 40,
+  "location": 84,
+  "seniority": 100,
+  "skill": 69
+ },
+ "seniority": "senior",
+ "snippet": "",
+ "source_primary": "Web job listing (via search index)",
+ "sources": [
+  {
+   "id": "web",
+   "job_id": "https://remotive.com/remote/jobs/design/senior-motion-designer-4640655",
+   "kind": "search",
+   "name": "Web job listing (via search index)",
+   "posted_at": null,
+   "seen_at": "2026-11-10T21:34:53Z",
+   "url": "https://remotive.com/remote/jobs/design/senior-motion-designer-4640655"
+  }
+ ],
+ "specializations": [],
+ "status": "lead",
+ "tier": 3,
+ "title": "Senior Motion Designer",
+ "tools": [],
+ "updated_at": null,
+ "url": "https://remotive.com/remote/jobs/design/senior-motion-designer-4640655",
+ "why": [
+  "Core motion design role",
+  "Region not stated; Brandtech+ hires in India"
+ ],
+ "work_mode": "remote",
+ "years_min": null
+}

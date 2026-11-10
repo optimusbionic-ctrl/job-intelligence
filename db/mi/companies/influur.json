@@ -1,0 +1,27 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-10T21:34:53Z",
+  "evidence": [
+   {
+    "detail": "AI Motion Graphic Designer — Bengaluru, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://builtinbengaluru.in/job/ai-motion-graphic-designer/9786788",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-10T21:34:53Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "411a160987",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Influur",
+ "slug": "influur",
+ "tier": 3
+}

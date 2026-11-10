@@ -1,0 +1,75 @@
+{
+ "ats": {
+  "slug": "sarvam",
+  "type": "ashby"
+ },
+ "category": "AI",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": {
+   "apac": 0,
+   "countries": [
+    "India"
+   ],
+   "india": 47,
+   "india_samples": [
+    {
+     "location": "Bengaluru",
+     "title": "Agent Engineer",
+     "url": "https://jobs.ashbyhq.com/sarvam/36f89b00-2010-4d23-aae3-17a2f53d9eaa"
+    },
+    {
+     "location": "Bengaluru",
+     "title": "Data Scientist - Evaluations, Chanakya",
+     "url": "https://jobs.ashbyhq.com/sarvam/7c42207a-bb56-413c-839f-9ad692df840e"
+    },
+    {
+     "location": "Bengaluru",
+     "title": "Deployment Strategist",
+     "url": "https://jobs.ashbyhq.com/sarvam/48c228f1-0762-4d4e-9d83-ae8f751ce19d"
+    },
+    {
+     "location": "Bengaluru",
+     "title": "DevOps Engineer",
+     "url": "https://jobs.ashbyhq.com/sarvam/d2d593e6-be5a-4431-b1fa-86f18d1c7edf"
+    }
+   ],
+   "open_samples": [],
+   "remote": 0,
+   "restricted_remote": 0,
+   "restricted_samples": [],
+   "slug": "sarvam",
+   "total": 47,
+   "type": "ashby",
+   "url": "https://jobs.ashbyhq.com/sarvam",
+   "worldwide": 0
+  },
+  "changed_at": "2026-11-10T21:34:53Z",
+  "evidence": [
+   {
+    "detail": "Agent Engineer (Bengaluru); Data Scientist - Evaluations, Chanakya (Bengaluru); Deployment Strategist (Bengaluru)",
+    "kind": "board",
+    "label": "47 of 47 open roles are located in India",
+    "url": "https://jobs.ashbyhq.com/sarvam",
+    "weight": 5
+   },
+   {
+    "detail": "…team building full-stack AI for India…",
+    "kind": "posting",
+    "label": "Posting mentions an India team or office",
+    "url": "https://jobs.ashbyhq.com/sarvam/9f15eec1-96c9-440f-8baf-dcb8b3d55568",
+    "weight": 4
+   }
+  ],
+  "first_checked_at": "2026-11-10T21:34:53Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "2ef4de32c9",
+  "summary": "47 of 47 open roles are located in India.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Sarvam",
+ "slug": "sarvam",
+ "tier": 1
+}

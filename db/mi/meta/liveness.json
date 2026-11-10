@@ -99,8 +99,16 @@
    "at": "2026-11-03T21:56:26Z",
    "ats": null
   },
+  "bravebison": {
+   "at": "2026-11-10T21:34:53Z",
+   "ats": null
+  },
   "brndwgn": {
    "at": "2026-11-03T21:56:26Z",
+   "ats": null
+  },
+  "brownmenmarketing": {
+   "at": "2026-11-10T21:34:53Z",
    "ats": null
   },
   "catalys": {
@@ -177,6 +185,10 @@
     "type": "lever"
    }
   },
+  "doodlspace": {
+   "at": "2026-11-10T21:34:53Z",
+   "ats": null
+  },
   "dotyeti": {
    "at": "2026-11-03T21:56:26Z",
    "ats": null
@@ -216,6 +228,10 @@
    "at": "2026-11-03T18:58:38Z",
    "ats": null
   },
+  "framer": {
+   "at": "2026-11-10T21:34:53Z",
+   "ats": null
+  },
   "frido": {
    "at": "2026-11-03T19:58:58Z",
    "ats": null
@@ -226,6 +242,10 @@
   },
   "glenhagensenscompany": {
    "at": "2026-11-03T21:37:23Z",
+   "ats": null
+  },
+  "greyspacedesignstudio": {
+   "at": "2026-11-10T21:34:53Z",
    "ats": null
   },
   "gtf": {
@@ -256,8 +276,19 @@
    "at": "2026-11-03T21:37:23Z",
    "ats": null
   },
+  "imagineart": {
+   "at": "2026-11-10T21:34:53Z",
+   "ats": {
+    "slug": "imagineart",
+    "type": "ashby"
+   }
+  },
   "indiefolio": {
    "at": "2026-11-03T21:56:26Z",
+   "ats": null
+  },
+  "influur": {
+   "at": "2026-11-10T21:34:53Z",
    "ats": null
   },
   "infosys": {
@@ -392,6 +423,10 @@
    "at": "2026-11-03T19:58:58Z",
    "ats": null
   },
+  "oliveragency": {
+   "at": "2026-11-10T21:34:53Z",
+   "ats": null
+  },
   "optiondesigns": {
    "at": "2026-11-03T18:58:38Z",
    "ats": null
@@ -430,12 +465,20 @@
    "at": "2026-11-03T18:58:38Z",
    "ats": null
   },
+  "portorocha": {
+   "at": "2026-11-10T21:34:53Z",
+   "ats": null
+  },
   "princekscompany": {
    "at": "2026-11-03T19:58:58Z",
    "ats": null
   },
   "psychx86": {
    "at": "2026-11-03T21:56:26Z",
+   "ats": null
+  },
+  "qeleotechnolabs": {
+   "at": "2026-11-10T21:34:53Z",
    "ats": null
   },
   "realatte": {
@@ -497,8 +540,16 @@
     "type": "ashby"
    }
   },
+  "storydigital": {
+   "at": "2026-11-10T21:34:53Z",
+   "ats": null
+  },
   "swageazy": {
    "at": "2026-11-03T18:58:38Z",
+   "ats": null
+  },
+  "talentclub": {
+   "at": "2026-11-10T21:34:53Z",
    "ats": null
   },
   "talentfied": {
@@ -519,6 +570,17 @@
   },
   "techvantagesoftware": {
    "at": "2026-11-03T22:52:40Z",
+   "ats": null
+  },
+  "tekion": {
+   "at": "2026-11-10T21:34:53Z",
+   "ats": {
+    "slug": "tekion",
+    "type": "ashby"
+   }
+  },
+  "testmuai": {
+   "at": "2026-11-10T21:34:53Z",
    "ats": null
   },
   "thebrandtech": {
@@ -543,6 +605,10 @@
   },
   "ungrammary": {
    "at": "2026-11-03T19:58:58Z",
+   "ats": null
+  },
+  "vapronixweb": {
+   "at": "2026-11-10T21:34:53Z",
    "ats": null
   },
   "venacavadesigns": {
@@ -598,9 +664,9 @@
   }
  },
  "counts": {
-  "closed": 10,
-  "live": 27,
-  "stale": 135
+  "closed": 25,
+  "live": 32,
+  "stale": 147
  },
- "updated_at": "2026-11-10T20:53:57Z"
+ "updated_at": "2026-11-10T21:37:06Z"
 }

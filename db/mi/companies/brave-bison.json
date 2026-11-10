@@ -3,14 +3,22 @@
  "classification": "Inferred from job description",
  "india_hiring": {
   "board": null,
-  "changed_at": "2026-10-30T00:27:41Z",
-  "evidence": [],
+  "changed_at": "2026-11-10T21:34:53Z",
+  "evidence": [
+   {
+    "detail": "Senior Video Editor & Motion Designer — Bengaluru, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://builtinbengaluru.in/job/senior-video-editor-motion-designer/8572000",
+    "weight": 5
+   }
+  ],
   "first_checked_at": "2026-10-30T00:27:41Z",
   "india_based": false,
   "method": "Careers board, posting text, web search",
-  "sig": "54391d7cdf",
-  "summary": "No public evidence yet about hiring from India.",
-  "verdict": "unclear",
+  "sig": "91fb5a2e3b",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes",
   "web": {
    "checked_at": "2026-10-30T02:26:52Z",
    "query": "\"Brave Bison\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",

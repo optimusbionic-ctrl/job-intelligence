@@ -1,0 +1,45 @@
+{
+ "ats": {
+  "slug": "maxbeauty",
+  "type": "ashby"
+ },
+ "category": "AI",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": {
+   "apac": 0,
+   "countries": [
+    "Ukraine"
+   ],
+   "india": 0,
+   "india_samples": [],
+   "open_samples": [],
+   "remote": 1,
+   "restricted_remote": 1,
+   "restricted_samples": [
+    {
+     "location": "Ukraine, Remote",
+     "title": "Mirror Motion Designer - Maxbeauty",
+     "url": "https://jobs.ashbyhq.com/MaxBeauty/d70550d4-70e7-4905-ac43-bf0ef9b06e9c"
+    }
+   ],
+   "slug": "maxbeauty",
+   "total": 1,
+   "type": "ashby",
+   "url": "https://jobs.ashbyhq.com/maxbeauty",
+   "worldwide": 0
+  },
+  "changed_at": "2026-11-10T21:34:53Z",
+  "evidence": [],
+  "first_checked_at": "2026-11-10T21:34:53Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "3ffda22d19",
+  "summary": "Its careers board shows 1 open roles without a clear location pattern.",
+  "verdict": "unclear"
+ },
+ "inferred": true,
+ "name": "MaxBeauty",
+ "slug": "maxbeauty",
+ "tier": 1
+}
