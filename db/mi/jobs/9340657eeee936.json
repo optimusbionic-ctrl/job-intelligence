@@ -1,21 +1,22 @@
 {
- "apply_url": "https://jobs.ashbyhq.com/cursor/364b0b05-47d8-428a-90b5-210d81fbc950/application",
+ "apply_url": "https://jobs.ashbyhq.com/cursor/31d6d54b-87fa-4f48-a3a9-9d46018b8125/application",
  "board_apply": null,
  "category": "Developer tools",
- "comp_potential": "unknown",
+ "comp_potential": "verified35",
  "company": "Cursor",
  "company_slug": "cursor",
  "concerns": [
   "Employer has not confirmed hiring from India",
-  "Compensation not disclosed"
+  "Listed pay is in USD; confirm it applies to India-based hires",
+  "Reposted / refreshed listing — original posting is older"
  ],
  "contacts_count": 1,
- "content_hash": "244e88dbc73e",
+ "content_hash": "cc3694b3e4cb",
  "date_quality": "exact",
  "deadline": null,
  "employment": "full-time",
  "first_seen": "2026-11-03T18:34:57Z",
- "fit": 63,
+ "fit": 71,
  "has_hiring_manager": false,
  "has_named_contact": false,
  "has_public_email": false,
@@ -29,37 +30,46 @@
   "visa": false
  },
  "kind": "motion",
- "last_verified": "2026-11-04T21:46:45Z",
+ "last_verified": "2026-11-10T17:54:19Z",
  "location": "",
  "logo": null,
  "needs_review": false,
  "official": true,
- "posted_at": "2026-11-04T21:46:32Z",
- "repost": false,
+ "posted_at": "2026-11-10T17:31:10Z",
+ "repost": true,
  "requirements": [
-  "6+ years of motion design experience, in-house or at an agency or studio.",
-  "Fluency in AI coding tools, especially Cursor. You can build your own tools, scripts, prototypes, and simple web pages instead of waiting on engineering.",
-  "Hands-on experience with AI video and image generation tools as part of a real production workflow.",
-  "A reel and portfolio that show both motion system work and shipped campaigns. Bonus if they include tools or workflows you built.",
-  "Sharp instincts for timing, rhythm, typography in motion, and storytelling.",
-  "A systems mindset: you naturally turn one-off tasks into reusable processes and think about how creative work scales.",
-  "Conviction in your design decisions and the ability to explain why they matter, to designers, marketers, and leadership alike."
+  "Minimum of 6 years of motion design experience, in-house or at an agency or studio",
+  "Professional experience with After Effects and at least one 3D tool (Cinema 4D or Blender)"
  ],
  "responsibilities": [
-  "This is a hands-on role. Much of the foundation is still being built, so you'll spend real time animating and making things yourself. It also comes with significant ownership: you'll lead projects from first concept through final delivery, and your work will help set the bar for how the brand moves.",
-  "Motion system: Define and extend the brand's motion language (timing, easing, transitions, logo animation, typography in motion, and graphic behaviors) and document it so other teams can apply it correctly.",
-  "Workflows & toolkits: Turn recurring motion work into repeatable, AI-assisted workflows: templates, tools, and generators that let marketing, product, and other teams produce on-brand motion without you in the room.",
-  "Campaigns: Concept and produce motion end to end, from storyboards through final delivery, across launch films, product videos, social, paid, web, and out-of-home.",
-  "Product motion: Partner with product designers and engineers to bring brand motion into product surfaces, from interactions and transitions to onboarding and launch moments.",
-  "Creative direction: Direct agencies, animators, and freelancers with clear briefs and candid feedback so the output meets the bar you'd set yourself.",
-  "Collaboration: Partner with marketing, product, engineering, and leadership; bring a motion point of view to new surfaces as they appear, and present your thinking clearly to senior stakeholders."
+  "Motion system: Define and document the brand's motion language (timing, easing, transitions, logo animation, typography in motion, and graphic behaviors) so other teams can apply it correctly",
+  "Workflows & toolkits: Turn recurring motion work into repeatable, AI-assisted templates, tools, and generators that let marketing, product, and other teams produce on-brand motion without you in the room",
+  "Campaigns: Concept and produce motion end to end, from storyboards through final delivery, across launch films, product videos, social, paid, web, and out-of-home",
+  "Product motion: Partner with product designers and engineers to bring brand motion into product surfaces, from interactions and transitions to onboarding and launch moments",
+  "Creative direction: Direct agencies, animators, and freelancers with clear briefs and candid feedback so the output meets the bar you'd set yourself",
+  "Collaboration at speed: Partner with marketing, product, engineering, and leadership, present your thinking clearly to senior stakeholders, and move between projects quickly while keeping a high bar and improving the process"
  ],
  "salary": {
-  "state": "unavailable"
+  "applies_india": "unconfirmed",
+  "basis": "base",
+  "currency": "USD",
+  "fx_at": "Tue, 10 Nov 2026 00:02:31 +0000",
+  "fx_rate": 93.9292,
+  "inr_max": 23482298,
+  "inr_min": 16155821,
+  "max": 250000,
+  "min": 172000,
+  "note": "Listed for a worldwide-remote role; confirm it applies to India-based hires",
+  "original_period": "annual",
+  "period": "annual",
+  "source_name": "Cursor careers (Ashby)",
+  "source_url": "https://jobs.ashbyhq.com/cursor/31d6d54b-87fa-4f48-a3a9-9d46018b8125",
+  "state": "verified",
+  "verified_at": "2026-11-10T17:54:19Z"
  },
  "scores": {
   "ai": 86,
-  "comp": 48,
+  "comp": 100,
   "company": 98,
   "location": 38,
   "seniority": 66,
@@ -71,12 +81,12 @@
  "sources": [
   {
    "id": "ashby",
-   "job_id": "ashby:cursor:364b0b05-47d8-428a-90b5-210d81fbc950",
+   "job_id": "ashby:cursor:31d6d54b-87fa-4f48-a3a9-9d46018b8125",
    "kind": "ats",
    "name": "Cursor careers (Ashby)",
-   "posted_at": "2026-11-04T21:46:32Z",
-   "seen_at": "2026-11-04T21:46:45Z",
-   "url": "https://jobs.ashbyhq.com/cursor/364b0b05-47d8-428a-90b5-210d81fbc950"
+   "posted_at": "2026-11-10T17:31:10Z",
+   "seen_at": "2026-11-10T17:54:19Z",
+   "url": "https://jobs.ashbyhq.com/cursor/31d6d54b-87fa-4f48-a3a9-9d46018b8125"
   },
   {
    "id": "web",
@@ -84,7 +94,7 @@
    "kind": "search",
    "name": "Web job listing (via search index)",
    "posted_at": null,
-   "seen_at": "2026-11-04T21:46:45Z",
+   "seen_at": "2026-11-10T17:54:19Z",
    "url": "https://resuminder.com/jobs/290785-motion-designer-at-cursor"
   }
  ],
@@ -94,10 +104,11 @@
  "title": "Motion Designer",
  "tools": [],
  "updated_at": null,
- "url": "https://jobs.ashbyhq.com/cursor/364b0b05-47d8-428a-90b5-210d81fbc950",
+ "url": "https://jobs.ashbyhq.com/cursor/31d6d54b-87fa-4f48-a3a9-9d46018b8125",
  "why": [
   "Core motion design role",
   "Developer tools company (Tier 1 priority)",
+  "Listed pay clears your ₹35 LPA target",
   "Cursor already hires people in India"
  ],
  "work_mode": "unspecified",
