@@ -15,14 +15,14 @@
    "india": 4,
    "india_samples": [
     {
-     "location": "Bengalura, India",
-     "title": "Senior Software Developer in Test (SDET)  ",
-     "url": "https://job-boards.greenhouse.io/akko/jobs/4607748005"
-    },
-    {
      "location": "Pune, India",
      "title": "Senior Software Developer in Test (SDET)  ",
      "url": "https://job-boards.greenhouse.io/akko/jobs/4607753005"
+    },
+    {
+     "location": "Bengalura, India",
+     "title": "Senior Software Developer in Test (SDET)  ",
+     "url": "https://job-boards.greenhouse.io/akko/jobs/4607748005"
     },
     {
      "location": "Bengalura, India",
@@ -51,10 +51,10 @@
    "url": "https://boards.greenhouse.io/akko",
    "worldwide": 0
   },
-  "changed_at": "2026-11-10T21:33:14Z",
+  "changed_at": "2026-11-10T21:46:28Z",
   "evidence": [
    {
-    "detail": "Senior Software Developer in Test (SDET)   (Bengalura, India); Senior Software Developer in Test (SDET)   (Pune, India); Software Developer in Test (SDET)   (Bengalura, India)",
+    "detail": "Senior Software Developer in Test (SDET)   (Pune, India); Senior Software Developer in Test (SDET)   (Bengalura, India); Software Developer in Test (SDET)   (Bengalura, India)",
     "kind": "board",
     "label": "4 of 8 open roles are located in India",
     "url": "https://boards.greenhouse.io/akko",
@@ -64,14 +64,14 @@
     "detail": "Software Developer in Test (SDET) — India",
     "kind": "posting",
     "label": "A current posting lists India as a location",
-    "url": "https://job-boards.greenhouse.io/akko/jobs/4607748005",
+    "url": "https://job-boards.greenhouse.io/akko/jobs/4607753005",
     "weight": 5
    }
   ],
   "first_checked_at": "2026-10-19T13:24:59Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "f957e4e578",
+  "sig": "630da661fc",
   "summary": "4 of 8 open roles are located in India.",
   "verdict": "yes"
  },

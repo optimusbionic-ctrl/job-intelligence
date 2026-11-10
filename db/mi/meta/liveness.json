@@ -99,6 +99,10 @@
    "at": "2026-11-03T21:56:26Z",
    "ats": null
   },
+  "brandtech": {
+   "at": "2026-11-10T21:48:09Z",
+   "ats": null
+  },
   "bravebison": {
    "at": "2026-11-10T21:34:53Z",
    "ats": null
@@ -110,6 +114,13 @@
   "brownmenmarketing": {
    "at": "2026-11-10T21:34:53Z",
    "ats": null
+  },
+  "capsule": {
+   "at": "2026-11-10T21:48:09Z",
+   "ats": {
+    "slug": "capsule",
+    "type": "ashby"
+   }
   },
   "catalys": {
    "at": "2026-11-03T18:58:38Z",
@@ -220,12 +231,23 @@
    "at": "2026-11-03T21:37:23Z",
    "ats": null
   },
+  "ema": {
+   "at": "2026-11-10T21:48:09Z",
+   "ats": {
+    "slug": "ema",
+    "type": "ashby"
+   }
+  },
   "emergent": {
    "at": "2026-11-03T22:52:40Z",
    "ats": null
   },
   "f22labsglobal": {
    "at": "2026-11-03T18:58:38Z",
+   "ats": null
+  },
+  "feazer": {
+   "at": "2026-11-10T21:48:09Z",
    "ats": null
   },
   "framer": {
@@ -266,6 +288,10 @@
   },
   "hmxmedia": {
    "at": "2026-11-03T21:37:23Z",
+   "ats": null
+  },
+  "hogarth": {
+   "at": "2026-11-10T21:48:09Z",
    "ats": null
   },
   "humanx": {
@@ -331,6 +357,13 @@
    "at": "2026-11-03T21:56:26Z",
    "ats": null
   },
+  "karya": {
+   "at": "2026-11-10T21:48:09Z",
+   "ats": {
+    "slug": "karya",
+    "type": "greenhouse"
+   }
+  },
   "kheewaincorporation": {
    "at": "2026-11-03T19:58:58Z",
    "ats": null
@@ -387,8 +420,16 @@
    "at": "2026-11-03T20:54:31Z",
    "ats": null
   },
+  "martech": {
+   "at": "2026-11-10T21:48:09Z",
+   "ats": null
+  },
   "maximuslabsai": {
    "at": "2026-11-03T18:58:38Z",
+   "ats": null
+  },
+  "mcsaatchi": {
+   "at": "2026-11-10T21:48:09Z",
    "ats": null
   },
   "mcsaatchiperformance": {
@@ -405,6 +446,10 @@
   },
   "motionhubcreations": {
    "at": "2026-11-09T09:55:09Z",
+   "ats": null
+  },
+  "motto": {
+   "at": "2026-11-10T21:48:09Z",
    "ats": null
   },
   "nathabit": {
@@ -664,9 +709,9 @@
   }
  },
  "counts": {
-  "closed": 25,
-  "live": 32,
-  "stale": 147
+  "closed": 18,
+  "live": 33,
+  "stale": 152
  },
- "updated_at": "2026-11-10T21:37:06Z"
+ "updated_at": "2026-11-10T21:49:30Z"
 }
