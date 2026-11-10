@@ -10,7 +10,7 @@
   "Also asks for: Programming"
  ],
  "contacts_count": 0,
- "content_hash": "08792739331e",
+ "content_hash": "f89f08ec2f33",
  "date_quality": "exact",
  "deadline": null,
  "employment": "full-time",
@@ -33,8 +33,8 @@
   "visa": false
  },
  "kind": "automation",
- "last_verified": "2026-11-07T09:49:22Z",
- "location": "Mumbai City, Chennai, Hyderabad, India",
+ "last_verified": "2026-11-10T03:31:00Z",
+ "location": "Mumbai City, Hyderabad, Chennai, India",
  "logo": null,
  "needs_review": false,
  "official": false,
@@ -48,7 +48,7 @@
   "applies_india": true,
   "basis": "listed",
   "currency": "INR",
-  "fx_at": "Sat, 07 Nov 2026 00:02:31 +0000",
+  "fx_at": "Tue, 10 Nov 2026 00:02:31 +0000",
   "fx_rate": 1.0,
   "inr_max": 1200000,
   "inr_min": 600000,
@@ -60,7 +60,7 @@
   "source_name": "Shine.com",
   "source_url": "https://www.shine.com/jobs/automation-tester/vishwa-karma/19955827",
   "state": "verified",
-  "verified_at": "2026-11-07T09:49:22Z"
+  "verified_at": "2026-11-10T03:31:00Z"
  },
  "scores": {
   "ai": 58,
@@ -80,7 +80,7 @@
    "kind": "board",
    "name": "Shine.com",
    "posted_at": "2026-10-29T21:49:10Z",
-   "seen_at": "2026-11-07T09:49:22Z",
+   "seen_at": "2026-11-10T03:31:00Z",
    "url": "https://www.shine.com/jobs/automation-tester/vishwa-karma/19955827"
   },
   {
@@ -89,7 +89,7 @@
    "kind": "board",
    "name": "Shine.com",
    "posted_at": "2026-10-29T18:47:30Z",
-   "seen_at": "2026-11-07T09:49:22Z",
+   "seen_at": "2026-11-10T03:31:00Z",
    "url": "https://www.shine.com/jobs/playwright-automation-tester/vishwa-karma/19955831"
   }
  ],

@@ -483,6 +483,10 @@
    "at": "2026-11-03T21:50:10Z",
    "ats": null
   },
+  "patrasolutions": {
+   "at": "2026-11-10T03:31:00Z",
+   "ats": null
+  },
   "peractoinfotech": {
    "at": "2026-11-03T18:55:47Z",
    "ats": null
@@ -807,9 +811,9 @@
  },
  "counts": {
   "closed": 12,
-  "keep": 16,
-  "live": 208,
-  "stale": 82
+  "keep": 15,
+  "live": 213,
+  "stale": 78
  },
- "updated_at": "2026-11-10T02:56:01Z"
+ "updated_at": "2026-11-10T03:32:38Z"
 }
