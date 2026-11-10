@@ -353,6 +353,10 @@
    "at": "2026-11-03T18:55:47Z",
    "ats": null
   },
+  "integratedpersonnelservices": {
+   "at": "2026-11-10T15:48:46Z",
+   "ats": null
+  },
   "irissoftware": {
    "at": "2026-11-03T21:33:45Z",
    "ats": null
@@ -674,6 +678,10 @@
    "at": "2026-11-03T22:50:01Z",
    "ats": null
   },
+  "tekitsoftwaresolutions": {
+   "at": "2026-11-10T15:48:46Z",
+   "ats": null
+  },
   "tekskills": {
    "at": "2026-11-03T21:50:10Z",
    "ats": null
@@ -814,10 +822,10 @@
   }
  },
  "counts": {
-  "closed": 16,
-  "keep": 10,
-  "live": 185,
-  "stale": 108
+  "closed": 12,
+  "keep": 15,
+  "live": 214,
+  "stale": 78
  },
- "updated_at": "2026-11-10T15:33:34Z"
+ "updated_at": "2026-11-10T15:50:50Z"
 }
