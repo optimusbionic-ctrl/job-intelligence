@@ -1,8 +1,8 @@
 {
  "alerts_count": 0,
  "changed_count": 0,
- "closed_count": 9,
- "duration_s": 48.7,
+ "closed_count": 10,
+ "duration_s": 66.8,
  "enrichment": {
   "careers_emails": 0,
   "dates_estimated": 0,
@@ -11,19 +11,19 @@
   "searches": 0
  },
  "excluded_counts": {
-  "Adjacent title without substantial motion work": 33,
+  "Adjacent title without substantial motion work": 34,
   "Character / film / game animation": 8,
-  "Generic product/UX designer (no motion specialisation in title)": 61,
-  "Graphic / illustration role": 38,
-  "Intern / junior / entry level": 16,
-  "Junior experience requirement": 1,
-  "Not a design role": 50,
-  "Not a motion role": 262,
-  "Not open to India": 72,
-  "Older than window": 204,
-  "Pure video editing role": 51,
-  "Social content role": 2,
-  "Staffing agency listing — employer not identified": 5,
+  "Generic product/UX designer (no motion specialisation in title)": 59,
+  "Graphic / illustration role": 37,
+  "Intern / junior / entry level": 14,
+  "Junior experience requirement": 2,
+  "Not a design role": 60,
+  "Not a motion role": 284,
+  "Not open to India": 75,
+  "Older than window": 202,
+  "Pure video editing role": 50,
+  "Social content role": 3,
+  "Staffing agency listing — employer not identified": 7,
   "Unpaid / volunteer": 3
  },
  "excluded_samples": [
@@ -112,6 +112,20 @@
    "url": "https://himalayas.app/companies/rankings-io/jobs/sr-video-editor-motion-designer-ai-workflows-remote-latam?utm_source=api"
   },
   {
+   "company": "Hire Overseas",
+   "reason": "Not open to India: Restricted to Anguilla, Antigua and Barbuda, Argentina, Aruba, Bahamas, Ba",
+   "source": "Himalayas",
+   "title": "Creative Designer (Static and Motion) (BBS935)",
+   "url": "https://himalayas.app/companies/hire-overseas/jobs/creative-designer-static-and-motion-bbs935?utm_source=api"
+  },
+  {
+   "company": "Hire Overseas",
+   "reason": "Not open to India: Restricted to Anguilla, Antigua and Barbuda, Argentina, Aruba, Bahamas, Ba",
+   "source": "Himalayas",
+   "title": "Creative Designer (Static and Motion) (BBS922)",
+   "url": "https://himalayas.app/companies/hire-overseas/jobs/creative-designer-static-and-motion-bbs922?utm_source=api"
+  },
+  {
    "company": "YO AI Labs",
    "reason": "Character / film / game animation",
    "source": "Himalayas",
@@ -140,18 +154,18 @@
    "url": "https://himalayas.app/companies/wearespot/jobs/freelance-motion-designer-video-editor?utm_source=api"
   },
   {
-   "company": "TygrLabs Ltd",
-   "reason": "Not open to India: Restricted to Bangladesh",
-   "source": "Himalayas",
-   "title": "Motion Designer",
-   "url": "https://himalayas.app/companies/tygrlabs-ltd/jobs/motion-designer?utm_source=api"
-  },
-  {
    "company": "Bjak",
    "reason": "Not open to India: Restricted to South Korea",
    "source": "Himalayas",
    "title": "Motion Designer (UX/Interface)",
    "url": "https://himalayas.app/companies/bjak/jobs/motion-designer-ux-interface-5914552737?utm_source=api"
+  },
+  {
+   "company": "TygrLabs Ltd",
+   "reason": "Not open to India: Restricted to Bangladesh",
+   "source": "Himalayas",
+   "title": "Motion Designer",
+   "url": "https://himalayas.app/companies/tygrlabs-ltd/jobs/motion-designer?utm_source=api"
   },
   {
    "company": "Hire Overseas",
@@ -210,11 +224,11 @@
    "url": "https://himalayas.app/companies/highscale/jobs/motion-graphics-editor-5297343700?utm_source=api"
   },
   {
-   "company": "Yaqeen Institute",
+   "company": "HyperHug",
    "reason": "Character / film / game animation",
-   "source": "Himalayas",
-   "title": "Animator (2D & 3D)",
-   "url": "https://himalayas.app/companies/yaqeen-institute/jobs/animator-2d-3d?utm_source=api"
+   "source": "Jobicy",
+   "title": "Senior 3D Animator",
+   "url": "https://jobicy.com/jobs/160275-senior-3d-animator"
   },
   {
    "company": "Wpromote",
@@ -333,7 +347,7 @@
    "reason": "Not open to India: Remote but limited to United States/Canada",
    "source": "Pogo careers (Ashby)",
    "title": "Motion Designer & Video Editor",
-   "url": "https://jobs.ashbyhq.com/joinpogo/92531cb7-1c7f-411e-b2e7-25c93ef669d8"
+   "url": "https://jobs.ashbyhq.com/joinpogo/0359d49f-749b-4f2d-b252-4577161f02c3"
   },
   {
    "company": "Story",
@@ -341,13 +355,6 @@
    "source": "Story careers (Ashby)",
    "title": "Motion Designer",
    "url": "https://jobs.ashbyhq.com/story/0dfa122b-8302-4397-94ce-59db05ffa26d"
-  },
-  {
-   "company": "Hyperbound",
-   "reason": "Not open to India: On-site outside India (San Francisco (United States)), no sponsorship stated",
-   "source": "Hyperbound careers (Ashby)",
-   "title": "Creative Video Producer / Motion Designer",
-   "url": "https://jobs.ashbyhq.com/Hyperbound/1b54759e-17e6-4302-ba42-e2c1c9786c25"
   },
   {
    "company": "Active Theory",
@@ -460,40 +467,54 @@
    "source": "foundit (via search index)",
    "title": "Senior Motion Designer",
    "url": "https://www.foundit.in/job/senior-motion-designer-jobgether-india-60670321"
+  },
+  {
+   "company": "Linda Werner & Associates",
+   "reason": "Staffing agency listing — employer not identified",
+   "source": "Web (via search index)",
+   "title": "Designer III, Motion Designer (Creative Tools)",
+   "url": "https://www.marketingmonk.so/jobboard/jobs/designer-iii-motion-designer-creative-tools-at-linda-werner-and-associates-nxwi6t"
+  },
+  {
+   "company": "Weekday AI",
+   "reason": "Staffing agency listing — employer not identified",
+   "source": "Web (via search index)",
+   "title": "Motion Graphic Designer",
+   "url": "https://designproject.io/jobs/motion-graphic-designer-at-weekday-ai-to53qx"
   }
  ],
- "finished_at": "2026-11-08T15:51:05Z",
+ "finished_at": "2026-11-10T00:34:24Z",
  "fx": {
-  "as_of": "Sun, 08 Nov 2026 00:02:31 +0000",
+  "as_of": "Mon, 09 Nov 2026 00:02:31 +0000",
   "source": "https://open.er-api.com/v6/latest/USD (ExchangeRate-API open access)",
-  "usd_inr": 94.114483
+  "usd_inr": 94.047485
  },
- "id": "20261108T155016Z",
+ "id": "20261110T003317Z",
  "india_checks": {
-  "companies": 71,
+  "companies": 74,
   "roles_clarified": 2,
   "verdicts": {
    "likely": 2,
    "no": 2,
-   "unclear": 31,
-   "yes": 36
+   "unclear": 33,
+   "yes": 37
   },
   "web_checked": 0
  },
- "kept": 66,
- "new_count": 0,
+ "kept": 69,
+ "new_count": 1,
  "pipeline_version": "2.1.0",
- "raw_count": 880,
+ "raw_count": 915,
  "source_status": {
   "ashby": {
    "boards": 64,
    "errors": 0,
-   "fetched": 32,
+   "fetched": 30,
    "ok": true
   },
   "dribbble": {
-   "fetched": 29,
-   "ms": 14494,
+   "fetched": 28,
+   "ms": 14962,
    "ok": true
   },
   "greenhouse": {
@@ -502,22 +523,22 @@
     "nothing: HTTP 404 for https://boards-api.greenhouse.io/v1/boards/nothing/jobs: b''"
    ],
    "errors": 1,
-   "fetched": 49,
+   "fetched": 52,
    "ok": true
   },
   "himalayas": {
-   "fetched": 262,
-   "ms": 14064,
+   "fetched": 267,
+   "ms": 16981,
    "ok": true
   },
   "hn": {
    "fetched": 1,
-   "ms": 7013,
+   "ms": 7446,
    "ok": true
   },
   "jobicy": {
-   "fetched": 161,
-   "ms": 2847,
+   "fetched": 170,
+   "ms": 3205,
    "ok": true
   },
   "lever": {
@@ -528,17 +549,17 @@
   },
   "motionographer": {
    "fetched": 1,
-   "ms": 267,
+   "ms": 397,
    "ok": true
   },
   "remoteok": {
    "fetched": 218,
-   "ms": 7018,
+   "ms": 7536,
    "ok": true
   },
   "remotive": {
-   "fetched": 13,
-   "ms": 4435,
+   "fetched": 12,
+   "ms": 5195,
    "ok": true
   },
   "smartrecruiters": {
@@ -548,15 +569,15 @@
    "ok": true
   },
   "workingnomads": {
-   "fetched": 17,
-   "ms": 231,
+   "fetched": 35,
+   "ms": 310,
    "ok": true
   },
   "wwr": {
-   "fetched": 18,
-   "ms": 219,
+   "fetched": 17,
+   "ms": 269,
    "ok": true
   }
  },
- "started_at": "2026-11-08T15:50:16Z"
+ "started_at": "2026-11-10T00:33:17Z"
 }

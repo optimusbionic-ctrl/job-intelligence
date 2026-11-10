@@ -1,0 +1,77 @@
+{
+ "apply_url": null,
+ "board_apply": "https://twine.net/projects/b8apf0",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "1G4T",
+ "company_slug": "1g4t",
+ "concerns": [
+  "Employer has not confirmed hiring from India",
+  "Compensation not disclosed",
+  "Full description not available from this source"
+ ],
+ "contacts_count": 0,
+ "content_hash": "a558937e7397",
+ "date_quality": "unknown",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-10T00:33:17Z",
+ "fit": 46,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "2bca14d42f16b9",
+ "include_reason": "Mixed graphic + motion title",
+ "india": {
+  "cities": [],
+  "company": "unclear",
+  "reason": "Location not stated",
+  "status": "unconfirmed",
+  "visa": false
+ },
+ "kind": "graphic-motion",
+ "last_verified": "2026-11-10T00:33:17Z",
+ "location": "",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": null,
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 45,
+  "comp": 48,
+  "company": 40,
+  "location": 38,
+  "seniority": 66,
+  "skill": 42
+ },
+ "seniority": "unspecified",
+ "snippet": "",
+ "source_primary": "Job board (via search index)",
+ "sources": [
+  {
+   "id": "web",
+   "job_id": "https://twine.net/projects/b8apf0",
+   "kind": "search",
+   "name": "Job board (via search index)",
+   "posted_at": null,
+   "seen_at": "2026-11-10T00:33:17Z",
+   "url": "https://twine.net/projects/b8apf0"
+  }
+ ],
+ "specializations": [],
+ "status": "lead",
+ "tier": 3,
+ "title": "Motion Graphic Designer",
+ "tools": [],
+ "updated_at": null,
+ "url": "https://twine.net/projects/b8apf0",
+ "why": [],
+ "work_mode": "unspecified",
+ "years_min": null
+}
