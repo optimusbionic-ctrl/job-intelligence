@@ -49,8 +49,8 @@
     }
    ],
    "open_samples": [],
-   "remote": 53,
-   "restricted_remote": 52,
+   "remote": 52,
+   "restricted_remote": 51,
    "restricted_samples": [
     {
      "location": "Remote",
@@ -74,17 +74,17 @@
     }
    ],
    "slug": "cursor",
-   "total": 98,
+   "total": 96,
    "type": "ashby",
    "url": "https://jobs.ashbyhq.com/cursor",
    "worldwide": 0
   },
-  "changed_at": "2026-11-10T00:33:17Z",
+  "changed_at": "2026-11-10T02:56:02Z",
   "evidence": [
    {
     "detail": "AI Deployment Manager - India (Bengaluru • New Delhi • Mumbai); Field Engineer - India (Bengaluru • New Delhi • Mumbai); Forward Deployed Engineer - India (Bengaluru • New Delhi • Mumbai)",
     "kind": "board",
-    "label": "5 of 98 open roles are located in India",
+    "label": "5 of 96 open roles are located in India",
     "url": "https://jobs.ashbyhq.com/cursor",
     "weight": 5
    }
@@ -92,8 +92,8 @@
   "first_checked_at": "2026-11-03T18:34:57Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "afae1a3c74",
-  "summary": "5 of 98 open roles are located in India.",
+  "sig": "9ccfcf1adc",
+  "summary": "5 of 96 open roles are located in India.",
   "verdict": "yes"
  },
  "maturity": "Late-stage private",
