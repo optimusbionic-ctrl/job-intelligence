@@ -1,0 +1,88 @@
+{
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/qa-analyst-tester-mumbai-india/neuiq-technologies/20038479",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "Neuiq Technologies",
+ "company_slug": "neuiq-technologies",
+ "concerns": [
+  "Also asks for: SQL / databases",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "c9787d9774fa",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-11T09:31:45Z",
+ "fit": 77,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "29af7ebcfab94a",
+ "include_reason": "Manual / functional QA title",
+ "india": {
+  "cities": [
+   "Mumbai"
+  ],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "manual-qa",
+ "last_verified": "2026-11-11T09:31:45Z",
+ "location": "Mumbai City, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-11-08T08:43:14Z",
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 60,
+  "company": 66,
+  "location": 100,
+  "seniority": 84,
+  "skill": 79
+ },
+ "seniority": "unspecified",
+ "snippet": "Experience: 24 to >25 Yrs\nSkills: QA, data validation, Power BI, Tableau, Jira, SQL querying, dashboard testing, AIMLbased products, ClickUp, test case management\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "20038479",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-11-08T08:43:14Z",
+   "seen_at": "2026-11-11T09:31:45Z",
+   "url": "https://www.shine.com/jobs/qa-analyst-tester-mumbai-india/neuiq-technologies/20038479"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 3,
+ "title": "Qa Analyst / Tester Mumbai (India)",
+ "tools": [
+  "Test cases & scenarios",
+  "Jira",
+  "SQL / databases"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/qa-analyst-tester-mumbai-india/neuiq-technologies/20038479",
+ "why": [
+  "Manual / functional QA — the core of your resume",
+  "Already on your resume: Test cases & scenarios, Jira",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": null,
+ "years_min": null
+}
