@@ -16,8 +16,7 @@
    "apac": 0,
    "countries": [
     "France",
-    "Netherlands",
-    "Peru"
+    "Netherlands"
    ],
    "india": 0,
    "india_samples": [],
@@ -37,12 +36,12 @@
    "restricted_remote": 0,
    "restricted_samples": [],
    "slug": "testlio",
-   "total": 16,
+   "total": 15,
    "type": "greenhouse",
    "url": "https://boards.greenhouse.io/testlio",
    "worldwide": 2
   },
-  "changed_at": "2026-11-05T06:45:35Z",
+  "changed_at": "2026-11-11T20:03:57Z",
   "evidence": [
    {
     "detail": "QA Analyst (Future Roles) (Global); QA Tester (Future Roles) (Global)",
@@ -62,7 +61,7 @@
   "first_checked_at": "2026-11-05T06:45:35Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "2bcf5f3992",
+  "sig": "eb6a3640da",
   "summary": "No India-located roles found, but 2 open roles are open worldwide or to APAC.",
   "verdict": "likely"
  },

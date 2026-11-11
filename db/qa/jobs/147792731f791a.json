@@ -10,7 +10,7 @@
   "Reposted / refreshed listing — original posting is older"
  ],
  "contacts_count": 0,
- "content_hash": "49759e0294be",
+ "content_hash": "f9768b897be5",
  "date_quality": "exact",
  "deadline": null,
  "employment": "full-time",
@@ -31,12 +31,12 @@
   "visa": false
  },
  "kind": "manual-qa",
- "last_verified": "2026-11-11T12:49:02Z",
+ "last_verified": "2026-11-11T20:03:57Z",
  "location": "Navi Mumbai, Kalyan, Panvel, Thane, India",
  "logo": null,
  "needs_review": false,
  "official": false,
- "posted_at": "2026-10-31T13:39:03Z",
+ "posted_at": "2026-10-26T12:11:05Z",
  "repost": true,
  "requirements": [
   "(Summary from the Shine.com listing; open the posting for the full description.)"
@@ -63,7 +63,7 @@
    "kind": "board",
    "name": "Shine.com",
    "posted_at": "2026-10-31T14:58:46Z",
-   "seen_at": "2026-11-11T12:49:02Z",
+   "seen_at": "2026-11-11T20:03:57Z",
    "url": "https://www.shine.com/jobs/software-tester/infovision-hr-consulting-services-pvt-ltd/19979812"
   },
   {
@@ -72,7 +72,7 @@
    "kind": "board",
    "name": "Shine.com",
    "posted_at": "2026-10-31T13:39:34Z",
-   "seen_at": "2026-11-11T12:49:02Z",
+   "seen_at": "2026-11-11T20:03:57Z",
    "url": "https://www.shine.com/jobs/software-tester/infovision-hr-consulting-services-pvt-ltd/19977387"
   },
   {
@@ -81,8 +81,17 @@
    "kind": "board",
    "name": "Shine.com",
    "posted_at": "2026-10-31T13:39:03Z",
-   "seen_at": "2026-11-11T12:49:02Z",
+   "seen_at": "2026-11-11T20:03:57Z",
    "url": "https://www.shine.com/jobs/software-tester/infovision-hr-consulting-services-pvt-ltd/19977369"
+  },
+  {
+   "id": "shine",
+   "job_id": "19932365",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-10-26T12:11:05Z",
+   "seen_at": "2026-11-11T20:03:57Z",
+   "url": "https://www.shine.com/jobs/software-tester/infovision-hr-consulting-services-pvt-ltd/19932365"
   }
  ],
  "specializations": [
@@ -93,7 +102,7 @@
  "title": "Software Tester",
  "tools": [],
  "track": "software",
- "updated_at": null,
+ "updated_at": "2026-10-31T14:58:46Z",
  "url": "https://www.shine.com/jobs/software-tester/infovision-hr-consulting-services-pvt-ltd/19979812",
  "why": [
   "Manual / functional QA — the core of your resume",
