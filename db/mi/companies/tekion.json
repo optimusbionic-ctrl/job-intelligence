@@ -13,7 +13,7 @@
     "United States",
     "Canada"
    ],
-   "india": 66,
+   "india": 65,
    "india_samples": [
     {
      "location": "Bangalore HQ",
@@ -62,17 +62,17 @@
     }
    ],
    "slug": "tekion",
-   "total": 90,
+   "total": 89,
    "type": "ashby",
    "url": "https://jobs.ashbyhq.com/tekion",
    "worldwide": 0
   },
-  "changed_at": "2026-11-10T21:34:53Z",
+  "changed_at": "2026-11-11T07:19:28Z",
   "evidence": [
    {
     "detail": "Applied Science - Senior Software Development Test Engineer ( SDET )  (Bangalore HQ); Architect, Software Engineering - Frontend - Integration  (Bangalore HQ); Architect, Software Engineering - Integration  (Bangalore HQ",
     "kind": "board",
-    "label": "66 of 90 open roles are located in India",
+    "label": "65 of 89 open roles are located in India",
     "url": "https://jobs.ashbyhq.com/tekion",
     "weight": 5
    },
@@ -87,8 +87,8 @@
   "first_checked_at": "2026-11-10T21:34:53Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "83842b010c",
-  "summary": "66 of 90 open roles are located in India.",
+  "sig": "3fb1d47d8b",
+  "summary": "65 of 89 open roles are located in India.",
   "verdict": "yes"
  },
  "inferred": true,

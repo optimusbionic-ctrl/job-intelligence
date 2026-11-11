@@ -20,6 +20,10 @@
    "at": "2026-11-03T19:56:44Z",
    "ats": null
   },
+  "aithonsolutions": {
+   "at": "2026-11-11T07:18:14Z",
+   "ats": null
+  },
   "ajnalens": {
    "at": "2026-11-03T18:55:47Z",
    "ats": null
@@ -555,6 +559,10 @@
    "at": "2026-11-04T00:28:15Z",
    "ats": null
   },
+  "pitchnhire": {
+   "at": "2026-11-11T07:18:14Z",
+   "ats": null
+  },
   "planit": {
    "at": "2026-11-03T21:50:10Z",
    "ats": null
@@ -833,6 +841,10 @@
    "at": "2026-11-03T23:44:21Z",
    "ats": null
   },
+  "tvsd": {
+   "at": "2026-11-11T07:18:14Z",
+   "ats": null
+  },
   "ubisoft": {
    "at": "2026-11-03T21:33:45Z",
    "ats": null
@@ -922,10 +934,10 @@
   }
  },
  "counts": {
-  "closed": 15,
+  "closed": 12,
   "keep": 11,
-  "live": 227,
-  "stale": 90
+  "live": 195,
+  "stale": 125
  },
- "updated_at": "2026-11-11T06:50:48Z"
+ "updated_at": "2026-11-11T07:19:27Z"
 }
