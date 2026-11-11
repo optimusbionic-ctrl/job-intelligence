@@ -1,0 +1,81 @@
+{
+ "apply_url": null,
+ "board_apply": "https://expleo-jobs-in-en.icims.com/jobs/47300/software-testing-analyst/job",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "Expleo",
+ "company_slug": "expleo",
+ "concerns": [
+  "Employer has not confirmed hiring from India",
+  "Pay not disclosed — ask for the range early",
+  "Full description not available from this source"
+ ],
+ "contacts_count": 0,
+ "content_hash": "54ff91778476",
+ "date_quality": "unknown",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-11T00:49:58Z",
+ "fit": 69,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "75fe690ba2cbb4",
+ "include_reason": "Manual / functional QA title",
+ "india": {
+  "cities": [],
+  "company": "unclear",
+  "reason": "Location not stated",
+  "status": "unconfirmed",
+  "visa": false
+ },
+ "kind": "manual-qa",
+ "last_verified": "2026-11-11T00:49:58Z",
+ "location": "",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": null,
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 55,
+  "comp": 60,
+  "company": 66,
+  "location": 36,
+  "seniority": 84,
+  "skill": 86
+ },
+ "seniority": "unspecified",
+ "snippet": "",
+ "source_primary": "Web (via search index)",
+ "sources": [
+  {
+   "id": "web",
+   "job_id": "https://expleo-jobs-in-en.icims.com/jobs/47300/software-testing-analyst/job",
+   "kind": "search",
+   "name": "Web (via search index)",
+   "posted_at": null,
+   "seen_at": "2026-11-11T00:49:58Z",
+   "url": "https://expleo-jobs-in-en.icims.com/jobs/47300/software-testing-analyst/job"
+  }
+ ],
+ "specializations": [],
+ "status": "lead",
+ "tier": 3,
+ "title": "Software Testing Analyst",
+ "tools": [],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://expleo-jobs-in-en.icims.com/jobs/47300/software-testing-analyst/job",
+ "why": [
+  "Manual / functional QA — the core of your resume"
+ ],
+ "work_mode": "unspecified",
+ "years_max": null,
+ "years_min": null
+}
