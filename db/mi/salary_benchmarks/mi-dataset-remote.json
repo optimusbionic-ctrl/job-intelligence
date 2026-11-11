@@ -1,5 +1,5 @@
 {
- "avg": 11771770,
+ "avg": 11274697,
  "basis": "Interquartile range of posting midpoints, converted to INR at today's rate",
  "currency": "INR",
  "high": 17616713,
@@ -7,7 +7,7 @@
  "label": "Disclosed pay on remote motion-design postings (any region, this dataset)",
  "low": 9019757,
  "market": "Remote (global)",
- "n": 16,
+ "n": 15,
  "retrieved_at": "2026-11-11",
  "samples": [
   {
@@ -90,15 +90,6 @@
    "min": 81921,
    "title": "Motion Designer, PPM SMB",
    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8268342"
-  },
-  {
-   "company": "Zapier",
-   "currency": "EUR",
-   "location": "EMEA",
-   "max": 139000,
-   "min": 92600,
-   "title": "Sr. Motion Designer",
-   "url": "https://jobs.ashbyhq.com/zapier/c0582311-18cb-4415-9c86-79014f1b74f6"
   },
   {
    "company": "Huckleberry Labs",
