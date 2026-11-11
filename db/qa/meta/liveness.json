@@ -171,6 +171,10 @@
    "at": "2026-11-03T23:44:21Z",
    "ats": null
   },
+  "cscoracletest": {
+   "at": "2026-11-11T06:49:33Z",
+   "ats": null
+  },
   "cxm": {
    "at": "2026-11-03T21:33:45Z",
    "ats": null
@@ -918,10 +922,10 @@
   }
  },
  "counts": {
-  "closed": 12,
-  "keep": 10,
-  "live": 196,
-  "stale": 121
+  "closed": 15,
+  "keep": 11,
+  "live": 227,
+  "stale": 90
  },
- "updated_at": "2026-11-11T06:33:22Z"
+ "updated_at": "2026-11-11T06:50:48Z"
 }

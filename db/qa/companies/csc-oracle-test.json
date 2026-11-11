@@ -1,0 +1,30 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-11T06:49:33Z",
+  "evidence": [
+   {
+    "detail": "Software Quality Assurance Analyst — Bengaluru, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://develop.builtinbengaluru.in/job/software-quality-assurance-analyst/749961",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-11T06:49:33Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "510300365f",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "CSC - Oracle TEST",
+ "slug": "csc-oracle-test",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}

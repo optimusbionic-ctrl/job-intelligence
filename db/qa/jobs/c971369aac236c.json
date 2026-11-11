@@ -1,0 +1,84 @@
+{
+ "apply_url": null,
+ "board_apply": "https://develop.builtinbengaluru.in/job/software-quality-assurance-analyst/749961",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "CSC - Oracle TEST",
+ "company_slug": "csc-oracle-test",
+ "concerns": [
+  "Office outside Mumbai — relocation within India",
+  "Pay not disclosed — ask for the range early",
+  "Full description not available from this source"
+ ],
+ "contacts_count": 0,
+ "content_hash": "08c1614a1625",
+ "date_quality": "unknown",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-11T06:49:33Z",
+ "fit": 73,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "c971369aac236c",
+ "include_reason": "Manual / functional QA title",
+ "india": {
+  "cities": [
+   "Bengaluru"
+  ],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "manual-qa",
+ "last_verified": "2026-11-11T06:49:33Z",
+ "location": "Bengaluru, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": null,
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 55,
+  "comp": 60,
+  "company": 66,
+  "location": 60,
+  "seniority": 84,
+  "skill": 86
+ },
+ "seniority": "unspecified",
+ "snippet": "",
+ "source_primary": "Web (via search index)",
+ "sources": [
+  {
+   "id": "web",
+   "job_id": "https://develop.builtinbengaluru.in/job/software-quality-assurance-analyst/749961",
+   "kind": "search",
+   "name": "Web (via search index)",
+   "posted_at": null,
+   "seen_at": "2026-11-11T06:49:33Z",
+   "url": "https://develop.builtinbengaluru.in/job/software-quality-assurance-analyst/749961"
+  }
+ ],
+ "specializations": [],
+ "status": "lead",
+ "tier": 3,
+ "title": "Software Quality Assurance Analyst",
+ "tools": [],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://develop.builtinbengaluru.in/job/software-quality-assurance-analyst/749961",
+ "why": [
+  "Manual / functional QA — the core of your resume",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": null,
+ "years_min": null
+}

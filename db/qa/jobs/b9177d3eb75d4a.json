@@ -1,0 +1,82 @@
+{
+ "apply_url": null,
+ "board_apply": "https://jobs.pitchnhire.com/pitchnhire.com/associate-qa-test-engineer/019e1c88-99f4-7ed2-9732-6bf9f04583d9",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "Pitch N Hire",
+ "company_slug": "pitch-n-hire",
+ "concerns": [
+  "Employer has not confirmed hiring from India",
+  "Entry-level role — pay may be at the lower end",
+  "Pay not disclosed — ask for the range early",
+  "Full description not available from this source"
+ ],
+ "contacts_count": 0,
+ "content_hash": "224ed183ac35",
+ "date_quality": "unknown",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-11T06:49:33Z",
+ "fit": 66,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "b9177d3eb75d4a",
+ "include_reason": "QA / test engineer title",
+ "india": {
+  "cities": [],
+  "company": "unclear",
+  "reason": "Location not stated",
+  "status": "unconfirmed",
+  "visa": false
+ },
+ "kind": "qa-engineer",
+ "last_verified": "2026-11-11T06:49:33Z",
+ "location": "",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": null,
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 55,
+  "comp": 60,
+  "company": 66,
+  "location": 36,
+  "seniority": 86,
+  "skill": 74
+ },
+ "seniority": "junior",
+ "snippet": "",
+ "source_primary": "Web (via search index)",
+ "sources": [
+  {
+   "id": "web",
+   "job_id": "https://jobs.pitchnhire.com/pitchnhire.com/associate-qa-test-engineer/019e1c88-99f4-7ed2-9732-6bf9f04583d9",
+   "kind": "search",
+   "name": "Web (via search index)",
+   "posted_at": null,
+   "seen_at": "2026-11-11T06:49:33Z",
+   "url": "https://jobs.pitchnhire.com/pitchnhire.com/associate-qa-test-engineer/019e1c88-99f4-7ed2-9732-6bf9f04583d9"
+  }
+ ],
+ "specializations": [],
+ "status": "lead",
+ "tier": 3,
+ "title": "Associate QA Test Engineer",
+ "tools": [],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://jobs.pitchnhire.com/pitchnhire.com/associate-qa-test-engineer/019e1c88-99f4-7ed2-9732-6bf9f04583d9",
+ "why": [
+  "QA / test engineer role"
+ ],
+ "work_mode": "unspecified",
+ "years_max": null,
+ "years_min": null
+}

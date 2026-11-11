@@ -1,0 +1,82 @@
+{
+ "apply_url": null,
+ "board_apply": "https://aithonsolutions.com/?p=6334",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "Aithon Solutions",
+ "company_slug": "aithon-solutions",
+ "concerns": [
+  "Employer has not confirmed hiring from India",
+  "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
+  "Pay not disclosed — ask for the range early",
+  "Full description not available from this source"
+ ],
+ "contacts_count": 0,
+ "content_hash": "5b4e84141e1d",
+ "date_quality": "unknown",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-11T06:49:33Z",
+ "fit": 56,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "e250c10df2f8d7",
+ "include_reason": "Automation-heavy QA (SDET)",
+ "india": {
+  "cities": [],
+  "company": "unclear",
+  "reason": "Location not stated",
+  "status": "unconfirmed",
+  "visa": false
+ },
+ "kind": "automation",
+ "last_verified": "2026-11-11T06:49:33Z",
+ "location": "",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": null,
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 55,
+  "comp": 60,
+  "company": 66,
+  "location": 36,
+  "seniority": 84,
+  "skill": 41
+ },
+ "seniority": "unspecified",
+ "snippet": "",
+ "source_primary": "Web (via search index)",
+ "sources": [
+  {
+   "id": "web",
+   "job_id": "https://aithonsolutions.com/?p=6334",
+   "kind": "search",
+   "name": "Web (via search index)",
+   "posted_at": null,
+   "seen_at": "2026-11-11T06:49:33Z",
+   "url": "https://aithonsolutions.com/?p=6334"
+  }
+ ],
+ "specializations": [],
+ "status": "lead",
+ "tier": 3,
+ "title": "QA Tester - Test Automation Engineer",
+ "tools": [
+  "Test automation"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://aithonsolutions.com/?p=6334",
+ "why": [],
+ "work_mode": "unspecified",
+ "years_max": null,
+ "years_min": null
+}

@@ -1,0 +1,22 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-11T06:49:33Z",
+  "evidence": [],
+  "first_checked_at": "2026-11-11T06:49:33Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "54391d7cdf",
+  "summary": "No public evidence yet about hiring from India.",
+  "verdict": "unclear"
+ },
+ "inferred": true,
+ "name": "Pitch N Hire",
+ "slug": "pitch-n-hire",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}
