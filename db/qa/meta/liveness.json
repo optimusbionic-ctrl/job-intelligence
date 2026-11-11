@@ -243,6 +243,10 @@
    "at": "2026-11-03T21:33:45Z",
    "ats": null
   },
+  "expleo": {
+   "at": "2026-11-11T01:08:08Z",
+   "ats": null
+  },
   "fasttrackjobsconsultancy": {
    "at": "2026-11-03T19:56:44Z",
    "ats": null
@@ -886,10 +890,10 @@
   }
  },
  "counts": {
-  "closed": 14,
-  "keep": 15,
-  "live": 227,
-  "stale": 82
+  "closed": 12,
+  "keep": 16,
+  "live": 190,
+  "stale": 120
  },
- "updated_at": "2026-11-11T00:51:20Z"
+ "updated_at": "2026-11-11T01:14:48Z"
 }
