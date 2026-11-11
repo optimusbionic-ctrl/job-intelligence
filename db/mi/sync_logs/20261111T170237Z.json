@@ -1,8 +1,8 @@
 {
  "alerts_count": 0,
  "changed_count": 0,
- "closed_count": 9,
- "duration_s": 64.7,
+ "closed_count": 20,
+ "duration_s": 100.1,
  "enrichment": {
   "careers_emails": 0,
   "dates_estimated": 0,
@@ -12,19 +12,19 @@
  },
  "excluded_counts": {
   "Adjacent title without substantial motion work": 34,
-  "Character / film / game animation": 8,
-  "Generic product/UX designer (no motion specialisation in title)": 58,
-  "Graphic / illustration role": 37,
-  "Intern / junior / entry level": 13,
-  "Junior experience requirement": 2,
-  "Not a design role": 62,
-  "Not a motion role": 281,
-  "Not open to India": 76,
-  "Older than window": 202,
+  "Character / film / game animation": 7,
+  "Generic product/UX designer (no motion specialisation in title)": 41,
+  "Graphic / illustration role": 35,
+  "Intern / junior / entry level": 10,
+  "Junior experience requirement": 1,
+  "Not a design role": 60,
+  "Not a motion role": 275,
+  "Not open to India": 64,
+  "Older than window": 201,
   "Pure video editing role": 52,
   "Social content role": 3,
-  "Staffing agency listing — employer not identified": 10,
-  "Unpaid / volunteer": 3
+  "Staffing agency listing — employer not identified": 17,
+  "Unpaid / volunteer": 1
  },
  "excluded_samples": [
   {
@@ -147,83 +147,6 @@
    "url": "https://himalayas.app/companies/top-notch-consultancy/jobs/3d-animator?utm_source=api"
   },
   {
-   "company": "Spot",
-   "reason": "Not open to India: Restricted to United Kingdom",
-   "source": "Himalayas",
-   "title": "FREELANCE MOTION DESIGNER / VIDEO EDITOR",
-   "url": "https://himalayas.app/companies/wearespot/jobs/freelance-motion-designer-video-editor?utm_source=api"
-  },
-  {
-   "company": "Bjak",
-   "reason": "Not open to India: Restricted to South Korea",
-   "source": "Himalayas",
-   "title": "Motion Designer (UX/Interface)",
-   "url": "https://himalayas.app/companies/bjak/jobs/motion-designer-ux-interface-5914552737?utm_source=api"
-  },
-  {
-   "company": "TygrLabs Ltd",
-   "reason": "Not open to India: Restricted to Bangladesh",
-   "source": "Himalayas",
-   "title": "Motion Designer",
-   "url": "https://himalayas.app/companies/tygrlabs-ltd/jobs/motion-designer?utm_source=api"
-  },
-  {
-   "company": "Hire Overseas",
-   "reason": "Not open to India: Restricted to Philippines",
-   "source": "Himalayas",
-   "title": "Creative Designer (Static and Motion) (PCS909)",
-   "url": "https://himalayas.app/companies/hire-overseas/jobs/creative-designer-static-and-motion-pcs909?utm_source=api"
-  },
-  {
-   "company": "Remote Talent LATAM",
-   "reason": "Not open to India: Restricted to Argentina, Brazil, Chile, Colombia, Costa Rica, Dominican Re",
-   "source": "Himalayas",
-   "title": "Social Media Motion Graphic Designer | Remote | LATAM Only | 88150",
-   "url": "https://himalayas.app/companies/remote-talent-latam/jobs/social-media-motion-graphic-designer-remote-latam-only-88150?utm_source=api"
-  },
-  {
-   "company": "Masterworks, LLC",
-   "reason": "Junior experience requirement",
-   "source": "Himalayas",
-   "title": "Motion Designer",
-   "url": "https://himalayas.app/companies/masterworks-llc/jobs/motion-designer?utm_source=api"
-  },
-  {
-   "company": "Pavago",
-   "reason": "Character / film / game animation",
-   "source": "Himalayas",
-   "title": "Animator / Motion Graphics Designer",
-   "url": "https://himalayas.app/companies/pavago/jobs/animator-motion-graphics-designer-2329885192?utm_source=api"
-  },
-  {
-   "company": "Paired",
-   "reason": "Not open to India: region in title",
-   "source": "Himalayas",
-   "title": "In-House 3D Motion Graphics Artist (US-Based, Remote)",
-   "url": "https://himalayas.app/companies/paired-so/jobs/in-house-3d-motion-graphics-artist-us-based-remote?utm_source=api"
-  },
-  {
-   "company": "Hire Overseas",
-   "reason": "Not open to India: Restricted to Philippines",
-   "source": "Himalayas",
-   "title": "Motion Graphics Designer (BBS899)",
-   "url": "https://himalayas.app/companies/hire-overseas/jobs/motion-graphics-designer-bbs899?utm_source=api"
-  },
-  {
-   "company": "BetterMe",
-   "reason": "Intern / junior / entry level",
-   "source": "Himalayas",
-   "title": "Trainee Motion Designer",
-   "url": "https://himalayas.app/companies/betterme/jobs/trainee-motion-designer?utm_source=api"
-  },
-  {
-   "company": "HIGHSCALE",
-   "reason": "Not open to India: Restricted to Argentina",
-   "source": "Himalayas",
-   "title": "Motion Graphics Editor",
-   "url": "https://himalayas.app/companies/highscale/jobs/motion-graphics-editor-5297343700?utm_source=api"
-  },
-  {
    "company": "HyperHug",
    "reason": "Character / film / game animation",
    "source": "Jobicy",
@@ -236,13 +159,6 @@
    "source": "Jobicy",
    "title": "Digital & Motion Designer",
    "url": "https://jobicy.com/jobs/154789-digital-motion-designer-2"
-  },
-  {
-   "company": "Fieldguide",
-   "reason": "Not open to India: Restricted to USA",
-   "source": "Jobicy",
-   "title": "Senior Motion Designer",
-   "url": "https://jobicy.com/jobs/158659-senior-motion-designer"
   },
   {
    "company": "eternal.ag",
@@ -295,10 +211,10 @@
   },
   {
    "company": "Cursor",
-   "reason": "Not open to India: On-site outside India (San Francisco, CA • New York, NY (United), no sponsorship stated",
+   "reason": "Not open to India: On-site outside India (New York, NY • San Francisco, CA (United), no sponsorship stated",
    "source": "Cursor careers (Ashby)",
-   "title": "Senior Motion Designer",
-   "url": "https://jobs.ashbyhq.com/cursor/364b0b05-47d8-428a-90b5-210d81fbc950"
+   "title": "Sr. Motion Designer",
+   "url": "https://jobs.ashbyhq.com/cursor/31d6d54b-87fa-4f48-a3a9-9d46018b8125"
   },
   {
    "company": "PostHog",
@@ -306,13 +222,6 @@
    "source": "PostHog careers (Ashby)",
    "title": "Animator & Motion Graphics Designer",
    "url": "https://jobs.ashbyhq.com/PostHog/4a8a1ee5-aa45-447e-a438-919b4577f14d"
-  },
-  {
-   "company": "Zapier",
-   "reason": "Not open to India: Remote but limited to EMEA",
-   "source": "Zapier careers (Ashby)",
-   "title": "Sr. Motion Designer",
-   "url": "https://jobs.ashbyhq.com/zapier/c0582311-18cb-4415-9c86-79014f1b74f6"
   },
   {
    "company": "Krea",
@@ -326,14 +235,14 @@
    "reason": "Character / film / game animation",
    "source": "Epic Games careers (Greenhouse)",
    "title": "Lead Technical Animator",
-   "url": "https://epicgames.com/careers/jobs/6203696004?gh_jid=6203696004"
+   "url": "https://epicgames.com/careers/jobs/6203698004?gh_jid=6203698004"
   },
   {
    "company": "Epic Games",
    "reason": "Character / film / game animation",
    "source": "Epic Games careers (Greenhouse)",
    "title": "Lead Technical Animator",
-   "url": "https://epicgames.com/careers/jobs/6203698004?gh_jid=6203698004"
+   "url": "https://epicgames.com/careers/jobs/6203696004?gh_jid=6203696004"
   },
   {
    "company": "Raisin",
@@ -347,7 +256,7 @@
    "reason": "Not open to India: Remote but limited to United States/Canada",
    "source": "Pogo careers (Ashby)",
    "title": "Motion Designer & Video Editor",
-   "url": "https://jobs.ashbyhq.com/joinpogo/0359d49f-749b-4f2d-b252-4577161f02c3"
+   "url": "https://jobs.ashbyhq.com/joinpogo/982d8b87-316d-437c-92f3-6ae4bf7740b9"
   },
   {
    "company": "Story",
@@ -509,40 +418,110 @@
    "source": "Web job listing (via search index)",
    "title": "Motion Designer",
    "url": "https://careers-page.com/sourcein/job/W333YXV9"
+  },
+  {
+   "company": "Weekday AI",
+   "reason": "Staffing agency listing — employer not identified",
+   "source": "Web job listing (via search index)",
+   "title": "Motion Graphic Designer",
+   "url": "https://startup.jobs/motion-graphic-designer-weekday-ai-8023162"
+  },
+  {
+   "company": "ownpath",
+   "reason": "Intern / junior / entry level",
+   "source": "Wellfound (via search index)",
+   "title": "Associate Motion Designer",
+   "url": "https://wellfound.com/jobs/4307434-associate-motion-designer"
+  },
+  {
+   "company": "Triangulas HR Solutions LLP",
+   "reason": "Staffing agency listing — employer not identified",
+   "source": "Web job listing (via search index)",
+   "title": "Video and Motion Graphic Designer",
+   "url": "https://www.marketingmonk.so/jobboard/jobs/video-and-motion-graphic-designer-at-triangulas-hr-solutions-llp-pwa3me"
+  },
+  {
+   "company": "Awesomic",
+   "reason": "Not open to India: On-site outside India (United States), no sponsorship stated",
+   "source": "Web job listing (via search index)",
+   "title": "Motion Designer",
+   "url": "https://resumegeni.com/jobs/motion-designer-at-awesomic-united-states"
+  },
+  {
+   "company": "Jobgether",
+   "reason": "Staffing agency listing — employer not identified",
+   "source": "Web job listing (via search index)",
+   "title": "Motion Graphics Designer (India)",
+   "url": "https://pitchmeai.com/companies/jobgether/jobs/motion-graphics-designer-india-2130998"
+  },
+  {
+   "company": "The Heist",
+   "reason": "Not open to India: On-site outside India (United States), no sponsorship stated",
+   "source": "Web job listing (via search index)",
+   "title": "Motion Designer",
+   "url": "https://jobright.ai/jobs/info/69715d06333b6343a14de80a"
+  },
+  {
+   "company": "Jobgether",
+   "reason": "Staffing agency listing — employer not identified",
+   "source": "Web job listing (via search index)",
+   "title": "Motion Graphic Designer",
+   "url": "https://designproject.io/jobs/motion-graphic-designer-at-jobgether-wqmnwf"
+  },
+  {
+   "company": "Apex Systems",
+   "reason": "Staffing agency listing — employer not identified",
+   "source": "Web job listing (via search index)",
+   "title": "Technical Motion Designer",
+   "url": "https://www.mediabistro.com/jobs/3539271934-apex-systems-is-hiring-technical-motion-designer-in-seattle"
+  },
+  {
+   "company": "24 Seven Talent",
+   "reason": "Staffing agency listing — employer not identified",
+   "source": "Web search (via search index)",
+   "title": "Motion Designer",
+   "url": "https://www.24seventalent.com/en/job/motion-designer-11"
+  },
+  {
+   "company": "JobTarget",
+   "reason": "Staffing agency listing — employer not identified",
+   "source": "Web job listing (via search index)",
+   "title": "Senior Motion Designer",
+   "url": "https://www.jobtarget.com/jobs/jt-foehbw1qz7/senior-motion-designer-india"
   }
  ],
- "finished_at": "2026-11-10T09:52:52Z",
+ "finished_at": "2026-11-11T17:04:17Z",
  "fx": {
-  "as_of": "Tue, 10 Nov 2026 00:02:31 +0000",
+  "as_of": "Wed, 11 Nov 2026 00:02:32 +0000",
   "source": "https://open.er-api.com/v6/latest/USD (ExchangeRate-API open access)",
-  "usd_inr": 93.929192
+  "usd_inr": 93.955805
  },
- "id": "20261110T095148Z",
+ "id": "20261111T170237Z",
  "india_checks": {
-  "companies": 75,
-  "roles_clarified": 2,
+  "companies": 104,
+  "roles_clarified": 4,
   "verdicts": {
    "likely": 2,
-   "no": 2,
-   "unclear": 34,
-   "yes": 37
+   "no": 5,
+   "unclear": 48,
+   "yes": 49
   },
   "web_checked": 0
  },
- "kept": 70,
+ "kept": 105,
  "new_count": 0,
  "pipeline_version": "2.1.0",
- "raw_count": 920,
+ "raw_count": 925,
  "source_status": {
   "ashby": {
    "boards": 64,
    "errors": 0,
-   "fetched": 31,
+   "fetched": 30,
    "ok": true
   },
   "dribbble": {
-   "fetched": 28,
-   "ms": 15931,
+   "fetched": 29,
+   "ms": 14894,
    "ok": true
   },
   "greenhouse": {
@@ -555,39 +534,39 @@
    "ok": true
   },
   "himalayas": {
-   "fetched": 268,
-   "ms": 14722,
+   "fetched": 213,
+   "ms": 25670,
    "ok": true
   },
   "hn": {
    "fetched": 1,
-   "ms": 6550,
+   "ms": 8028,
    "ok": true
   },
   "jobicy": {
-   "fetched": 167,
-   "ms": 4493,
+   "fetched": 162,
+   "ms": 4811,
    "ok": true
   },
   "lever": {
    "boards": 10,
    "errors": 0,
-   "fetched": 9,
+   "fetched": 10,
    "ok": true
   },
   "motionographer": {
    "fetched": 1,
-   "ms": 505,
+   "ms": 241,
    "ok": true
   },
   "remoteok": {
-   "fetched": 218,
-   "ms": 7502,
+   "fetched": 220,
+   "ms": 7722,
    "ok": true
   },
   "remotive": {
-   "fetched": 12,
-   "ms": 4743,
+   "fetched": 14,
+   "ms": 5352,
    "ok": true
   },
   "smartrecruiters": {
@@ -597,15 +576,15 @@
    "ok": true
   },
   "workingnomads": {
-   "fetched": 35,
-   "ms": 449,
+   "fetched": 37,
+   "ms": 299,
    "ok": true
   },
   "wwr": {
-   "fetched": 17,
-   "ms": 339,
+   "fetched": 18,
+   "ms": 243,
    "ok": true
   }
  },
- "started_at": "2026-11-10T09:51:48Z"
+ "started_at": "2026-11-11T17:02:37Z"
 }

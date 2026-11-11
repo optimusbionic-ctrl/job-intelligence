@@ -1,24 +1,15 @@
 {
- "avg": 11274697,
+ "avg": 11771770,
  "basis": "Interquartile range of posting midpoints, converted to INR at today's rate",
  "currency": "INR",
- "high": 17616713,
+ "high": 18321382,
  "id": "mi-dataset-remote",
  "label": "Disclosed pay on remote motion-design postings (any region, this dataset)",
- "low": 9019757,
+ "low": 9395580,
  "market": "Remote (global)",
- "n": 15,
+ "n": 12,
  "retrieved_at": "2026-11-11",
  "samples": [
-  {
-   "company": "Remote Talent LATAM",
-   "currency": "USD",
-   "location": "Argentina, Brazil, Chile, Colombia, Costa Rica, Dominican Republic, Ecuador, El Salvador, Guatemala, Honduras, Mexico, Nicaragua, Panama, Paraguay, Peru, Uruguay, Venezuela",
-   "max": 30000,
-   "min": 30000,
-   "title": "Social Media Motion Graphic Designer | Remote | LATAM Only | 88150",
-   "url": "https://himalayas.app/companies/remote-talent-latam/jobs/social-media-motion-graphic-designer-remote-latam-only-88150?utm_source=api"
-  },
   {
    "company": "Rankings.io",
    "currency": "USD",
@@ -36,15 +27,6 @@
    "min": 74000,
    "title": "Digital & Motion Designer",
    "url": "https://jobicy.com/jobs/154789-digital-motion-designer-2"
-  },
-  {
-   "company": "Affirm",
-   "currency": "CAD",
-   "location": "Canada",
-   "max": 151000,
-   "min": 101000,
-   "title": "Visual Designer II",
-   "url": "https://himalayas.app/companies/affirm/jobs/visual-designer-ii?utm_source=api"
   },
   {
    "company": "College Board",
@@ -92,15 +74,6 @@
    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8268342"
   },
   {
-   "company": "Huckleberry Labs",
-   "currency": "USD",
-   "location": "United States",
-   "max": 160000,
-   "min": 135000,
-   "title": "Senior Brand Designer",
-   "url": "https://himalayas.app/companies/huckleberry-labs/jobs/senior-brand-designer?utm_source=api"
-  },
-  {
    "company": "Perplexity",
    "currency": "USD",
    "location": "San Francisco • New York City (United States)",
@@ -130,11 +103,11 @@
   {
    "company": "ServiceNow",
    "currency": "USD",
-   "location": "United States",
+   "location": "Denver, COLORADO, United States (Remote)",
    "max": 300800,
    "min": 171900,
    "title": "Sr. Staff Product & Visual Designer, Technology Workflows",
-   "url": "https://himalayas.app/companies/servicenow/jobs/sr-staff-product-visual-designer-technology-workflows?utm_source=api"
+   "url": "https://jobs.smartrecruiters.com/ServiceNow/744000151901141-sr-staff-product-visual-designer-technology-workflows"
   },
   {
    "company": "Pinterest",

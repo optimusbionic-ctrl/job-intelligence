@@ -3,20 +3,20 @@
  "classification": "Inferred from job description",
  "india_hiring": {
   "board": null,
-  "changed_at": "2026-11-11T15:56:27Z",
+  "changed_at": "2026-11-11T16:59:46Z",
   "evidence": [
    {
-    "detail": "Automation Testing Java, Playwright Bangalore East (Attibele) — Bangalore, India",
+    "detail": "Automation Tester — Mumbai City, India",
     "kind": "posting",
     "label": "A current posting lists India as a location",
-    "url": "https://www.shine.com/jobs/automation-testing-java-playwright-bangalore-east-attibele/infosys/19885873",
+    "url": "https://www.shine.com/jobs/automation-tester/infosys/19555308",
     "weight": 5
    }
   ],
   "first_checked_at": "2026-10-19T13:24:59Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "d312e3266f",
+  "sig": "058730e4d6",
   "summary": "A current posting lists India as a location.",
   "verdict": "yes"
  },
