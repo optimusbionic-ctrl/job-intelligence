@@ -7,7 +7,7 @@
  "label": "Disclosed pay on remote QA postings (any region, this dataset)",
  "low": 3415898,
  "market": "Remote (global)",
- "n": 9,
+ "n": 10,
  "retrieved_at": "2026-11-11",
  "samples": [
   {
@@ -54,6 +54,15 @@
    "min": 62818,
    "title": "Junior Tester",
    "url": "https://himalayas.app/companies/9th-way-insignia/jobs/junior-tester?utm_source=api"
+  },
+  {
+   "company": "Labelmaster",
+   "currency": "USD",
+   "location": "United States",
+   "max": 80000,
+   "min": 68000,
+   "title": "Manual Software Tester",
+   "url": "https://himalayas.app/companies/labelmaster/jobs/manual-software-tester?utm_source=api"
   },
   {
    "company": "SpaceCoast AV Consultants, LLC",
