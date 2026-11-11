@@ -1,6 +1,6 @@
 {
- "apply_url": null,
- "board_apply": "https://himalayas.app/companies/neuraflash/jobs/associate-qa-consultant-amazon-connect-contact-center-qa-5889957209?utm_source=api",
+ "apply_url": "https://job-boards.greenhouse.io/neuraflash/jobs/6242370004",
+ "board_apply": null,
  "category": "Other",
  "comp_potential": "unknown",
  "company": "NeuraFlash",
@@ -8,11 +8,10 @@
  "concerns": [
   "Also asks for: Test management (TestRail/Zephyr), API testing, SQL / databases",
   "Entry-level role — pay may be at the lower end",
-  "Pay not disclosed — ask for the range early",
-  "Reposted / refreshed listing — original posting is older"
+  "Pay not disclosed — ask for the range early"
  ],
  "contacts_count": 0,
- "content_hash": "9bb0b17dcabc",
+ "content_hash": "26c2cfaaab14",
  "date_quality": "exact",
  "deadline": "2027-01-04T23:14:20Z",
  "employment": "full-time",
@@ -31,13 +30,13 @@
   "visa": false
  },
  "kind": "qa-engineer",
- "last_verified": "2026-11-11T09:48:44Z",
+ "last_verified": "2026-11-11T10:02:35Z",
  "location": "India",
  "logo": "https://cdn-images.himalayas.app/jy2iotw0br6s1bvo8l6100hms0wj",
  "needs_review": false,
- "official": false,
- "posted_at": "2026-11-05T23:14:21Z",
- "repost": true,
+ "official": true,
+ "posted_at": "2026-11-03T17:38:03Z",
+ "repost": false,
  "requirements": [
   "1–2 years of QA/testing experience OR minimum 6 months of paid QA internship experience.",
   "Strong understanding of software testing fundamentals, including functional, regression, integration, and end-to-end testing.",
@@ -66,20 +65,29 @@
  },
  "seniority": "junior",
  "snippet": "Why NeuraFlash , Part of Accenture:\n\n At NeuraFlash , Part of Accenture, we are redefining the future of business through the power of AI and groundbreaking technologies like Agentforce. As a trusted leader in AI, AWS, and Salesforce innovation, we craft intelligent solutions—integrating Salesforce Einstein, Service Cloud Voice, Amazon Connect, Agentforce and more—to revolutionize workflows, elevate customer experien",
- "source_primary": "Himalayas",
+ "source_primary": "NeuraFlash careers (Greenhouse)",
  "sources": [
+  {
+   "id": "greenhouse",
+   "job_id": "gh:neuraflash:6242370004",
+   "kind": "ats",
+   "name": "NeuraFlash careers (Greenhouse)",
+   "posted_at": "2026-11-03T17:38:03Z",
+   "seen_at": "2026-11-11T10:02:35Z",
+   "url": "https://job-boards.greenhouse.io/neuraflash/jobs/6242370004"
+  },
   {
    "id": "himalayas",
    "job_id": "https://himalayas.app/companies/neuraflash/jobs/associate-qa-consultant-amazon-connect-contact-center-qa-5889957209",
    "kind": "board",
    "name": "Himalayas",
    "posted_at": "2026-11-05T23:14:21Z",
-   "seen_at": "2026-11-11T09:48:44Z",
+   "seen_at": "2026-11-11T10:02:35Z",
    "url": "https://himalayas.app/companies/neuraflash/jobs/associate-qa-consultant-amazon-connect-contact-center-qa-5889957209?utm_source=api"
   }
  ],
  "specializations": [],
- "status": "active",
+ "status": "verified",
  "tier": 3,
  "title": "Associate QA Consultant, Amazon Connect / Contact Center QA",
  "tools": [
@@ -96,7 +104,7 @@
  ],
  "track": "software",
  "updated_at": null,
- "url": "https://himalayas.app/companies/neuraflash/jobs/associate-qa-consultant-amazon-connect-contact-center-qa-5889957209?utm_source=api",
+ "url": "https://job-boards.greenhouse.io/neuraflash/jobs/6242370004",
  "why": [
   "QA / test engineer role",
   "Already on your resume: Functional testing, Regression testing, Stress / load testing, Test cases & scenarios, Bug reporting, Jira",
