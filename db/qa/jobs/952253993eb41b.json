@@ -1,0 +1,82 @@
+{
+ "apply_url": null,
+ "board_apply": "https://cutshort.io/job/Quality-Analyst-Tester-Fresher-SDS-softwares-h41Z3eYW",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "SDS Softwares",
+ "company_slug": "sds-softwares",
+ "concerns": [
+  "Employer has not confirmed hiring from India",
+  "Entry-level role — pay may be at the lower end",
+  "Pay not disclosed — ask for the range early",
+  "Full description not available from this source"
+ ],
+ "contacts_count": 0,
+ "content_hash": "1ccc3b0b0ba7",
+ "date_quality": "unknown",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-11T03:53:42Z",
+ "fit": 70,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "952253993eb41b",
+ "include_reason": "Manual / functional QA title",
+ "india": {
+  "cities": [],
+  "company": "unclear",
+  "reason": "Location not stated",
+  "status": "unconfirmed",
+  "visa": false
+ },
+ "kind": "manual-qa",
+ "last_verified": "2026-11-11T03:53:42Z",
+ "location": "",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": null,
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 55,
+  "comp": 60,
+  "company": 66,
+  "location": 36,
+  "seniority": 86,
+  "skill": 86
+ },
+ "seniority": "junior",
+ "snippet": "",
+ "source_primary": "Job listing (via search index)",
+ "sources": [
+  {
+   "id": "web",
+   "job_id": "https://cutshort.io/job/Quality-Analyst-Tester-Fresher-SDS-softwares-h41Z3eYW",
+   "kind": "search",
+   "name": "Job listing (via search index)",
+   "posted_at": null,
+   "seen_at": "2026-11-11T03:53:42Z",
+   "url": "https://cutshort.io/job/Quality-Analyst-Tester-Fresher-SDS-softwares-h41Z3eYW"
+  }
+ ],
+ "specializations": [],
+ "status": "lead",
+ "tier": 3,
+ "title": "Quality Analyst / Tester (Fresher)",
+ "tools": [],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://cutshort.io/job/Quality-Analyst-Tester-Fresher-SDS-softwares-h41Z3eYW",
+ "why": [
+  "Manual / functional QA — the core of your resume"
+ ],
+ "work_mode": "unspecified",
+ "years_max": null,
+ "years_min": null
+}

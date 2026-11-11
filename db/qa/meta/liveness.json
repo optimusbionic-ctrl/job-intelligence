@@ -646,6 +646,10 @@
    "at": "2026-11-03T21:50:10Z",
    "ats": null
   },
+  "sdssoftwares": {
+   "at": "2026-11-11T03:53:42Z",
+   "ats": null
+  },
   "semesteria": {
    "at": "2026-11-08T00:48:42Z",
    "ats": null
@@ -891,9 +895,9 @@
  },
  "counts": {
   "closed": 12,
-  "keep": 16,
-  "live": 226,
-  "stale": 84
+  "keep": 17,
+  "live": 189,
+  "stale": 121
  },
- "updated_at": "2026-11-11T03:34:08Z"
+ "updated_at": "2026-11-11T03:54:57Z"
 }
