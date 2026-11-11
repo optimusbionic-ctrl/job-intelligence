@@ -1,5 +1,5 @@
 {
- "avg": 6122066,
+ "avg": 6388995,
  "basis": "Interquartile range of posting midpoints, converted to INR at today's rate",
  "currency": "INR",
  "high": 10804918,
@@ -7,7 +7,7 @@
  "label": "Disclosed pay on remote QA postings (any region, this dataset)",
  "low": 3415898,
  "market": "Remote (global)",
- "n": 10,
+ "n": 11,
  "retrieved_at": "2026-11-11",
  "samples": [
   {
@@ -54,6 +54,15 @@
    "min": 62818,
    "title": "Junior Tester",
    "url": "https://himalayas.app/companies/9th-way-insignia/jobs/junior-tester?utm_source=api"
+  },
+  {
+   "company": "Crash Champions",
+   "currency": "USD",
+   "location": "United States",
+   "max": 75000,
+   "min": 61000,
+   "title": "QA Tester",
+   "url": "https://himalayas.app/companies/crash-champions/jobs/qa-tester?utm_source=api"
   },
   {
    "company": "Labelmaster",
