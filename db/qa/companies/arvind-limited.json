@@ -1,0 +1,30 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-11T15:56:27Z",
+  "evidence": [
+   {
+    "detail": "Tester — Pune, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/tester/arvind-limited/20022390",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-11T15:56:27Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "64cd9afe8a",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Arvind Limited",
+ "slug": "arvind-limited",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}
