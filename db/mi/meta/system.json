@@ -19,8 +19,8 @@
  "last_run": {
   "alerts_count": 0,
   "closed_count": 18,
-  "finished_at": "2026-11-11T03:55:44Z",
-  "id": "20261111T035458Z",
+  "finished_at": "2026-11-11T04:02:08Z",
+  "id": "20261111T040010Z",
   "kept": 104,
   "new_count": 0,
   "raw_count": 973
@@ -37,5 +37,5 @@
   "trigger_id": "trig_01AcYzMU7L1j3u73f9kfZhgY"
  },
  "pipeline_version": "2.1.0",
- "updated_at": "2026-11-11T03:55:44Z"
+ "updated_at": "2026-11-11T04:02:08Z"
 }
