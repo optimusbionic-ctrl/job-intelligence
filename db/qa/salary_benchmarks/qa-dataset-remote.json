@@ -1,14 +1,14 @@
 {
- "avg": 6122066,
+ "avg": 6115277,
  "basis": "Interquartile range of posting midpoints, converted to INR at today's rate",
  "currency": "INR",
- "high": 10804918,
+ "high": 10792934,
  "id": "qa-dataset-remote",
  "label": "Disclosed pay on remote QA postings (any region, this dataset)",
- "low": 3415898,
+ "low": 3389594,
  "market": "Remote (global)",
  "n": 10,
- "retrieved_at": "2026-11-11",
+ "retrieved_at": "2026-11-12",
  "samples": [
   {
    "company": "Study Now",

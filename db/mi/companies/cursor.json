@@ -49,8 +49,8 @@
     }
    ],
    "open_samples": [],
-   "remote": 51,
-   "restricted_remote": 50,
+   "remote": 50,
+   "restricted_remote": 49,
    "restricted_samples": [
     {
      "location": "Remote",
@@ -68,23 +68,23 @@
      "url": "https://jobs.ashbyhq.com/cursor/18d5d868-a393-4a94-b65b-01c89eee26d2"
     },
     {
-     "location": "Singapore",
-     "title": "AI Deployment Manager - Singapore",
-     "url": "https://jobs.ashbyhq.com/cursor/e5ae8495-1aad-4ac2-ae6f-36c58d936d12"
+     "location": "Remote",
+     "title": "AI Deployment Manager, Scale",
+     "url": "https://jobs.ashbyhq.com/cursor/053a8b5a-32bc-4a08-8dad-b4fc20f2883c"
     }
    ],
    "slug": "cursor",
-   "total": 115,
+   "total": 114,
    "type": "ashby",
    "url": "https://jobs.ashbyhq.com/cursor",
    "worldwide": 0
   },
-  "changed_at": "2026-11-11T18:00:40Z",
+  "changed_at": "2026-11-12T01:18:00Z",
   "evidence": [
    {
     "detail": "AI Deployment Manager - India (Bengaluru • New Delhi • Mumbai); Field Engineer - India (Bengaluru • New Delhi • Mumbai); Forward Deployed Engineer - India (Bengaluru • New Delhi • Mumbai)",
     "kind": "board",
-    "label": "5 of 115 open roles are located in India",
+    "label": "5 of 114 open roles are located in India",
     "url": "https://jobs.ashbyhq.com/cursor",
     "weight": 5
    }
@@ -92,8 +92,8 @@
   "first_checked_at": "2026-11-03T18:34:57Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "388b72da92",
-  "summary": "5 of 115 open roles are located in India.",
+  "sig": "d841f33330",
+  "summary": "5 of 114 open roles are located in India.",
   "verdict": "yes"
  },
  "maturity": "Late-stage private",

@@ -1,14 +1,14 @@
 {
- "avg": 11771770,
+ "avg": 11758714,
  "basis": "Interquartile range of posting midpoints, converted to INR at today's rate",
  "currency": "INR",
- "high": 22079614,
+ "high": 22055127,
  "id": "mi-dataset-remote",
  "label": "Disclosed pay on remote motion-design postings (any region, this dataset)",
- "low": 9395580,
+ "low": 9385160,
  "market": "Remote (global)",
  "n": 11,
- "retrieved_at": "2026-11-11",
+ "retrieved_at": "2026-11-12",
  "samples": [
   {
    "company": "Wpromote",
