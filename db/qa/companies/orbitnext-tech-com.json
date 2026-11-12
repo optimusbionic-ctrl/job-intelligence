@@ -1,0 +1,30 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-12T05:04:23Z",
+  "evidence": [
+   {
+    "detail": "Software Test Engineer Manual-automation-mern Stack (Ghansoli) — Navi Mumbai, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/software-test-engineer-manual-automation-mern-stack-ghansoli/orbitnext-techcom/20051674",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-12T05:04:23Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "e23ab28e3b",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "orbitnext-tech.com",
+ "slug": "orbitnext-tech-com",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}

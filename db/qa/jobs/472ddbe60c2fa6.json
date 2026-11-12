@@ -1,0 +1,87 @@
+{
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/software-test-engineer-manual-automation-mern-stack-ghansoli/orbitnext-techcom/20051674",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "orbitnext-tech.com",
+ "company_slug": "orbitnext-tech-com",
+ "concerns": [
+  "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
+  "Also asks for: SQL / databases",
+  "Asks for 4+ years — you have about 2.5",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "39054eb20014",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-12T05:04:23Z",
+ "fit": 58,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "472ddbe60c2fa6",
+ "include_reason": "Automation-heavy QA (SDET)",
+ "india": {
+  "cities": [
+   "Mumbai"
+  ],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "automation",
+ "last_verified": "2026-11-12T05:04:23Z",
+ "location": "Navi Mumbai, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-11-11T05:40:53Z",
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 60,
+  "company": 66,
+  "location": 100,
+  "seniority": 72,
+  "skill": 24
+ },
+ "seniority": "unspecified",
+ "snippet": "Experience: 4 to 8 Yrs\nSkills: Manual Testing, Automation Testing, Cypress, Selenium WebDriver, Mocha, MongoDB, Playwright, Jest, Expressjs, Reactjs\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "20051674",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-11-11T05:40:53Z",
+   "seen_at": "2026-11-12T05:04:23Z",
+   "url": "https://www.shine.com/jobs/software-test-engineer-manual-automation-mern-stack-ghansoli/orbitnext-techcom/20051674"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 3,
+ "title": "Software Test Engineer Manual-automation-mern Stack (Ghansoli)",
+ "tools": [
+  "SQL / databases",
+  "Test automation"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/software-test-engineer-manual-automation-mern-stack-ghansoli/orbitnext-techcom/20051674",
+ "why": [
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": 8,
+ "years_min": 4
+}
