@@ -1,0 +1,30 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-12T22:52:24Z",
+  "evidence": [
+   {
+    "detail": "Automation Tester - Playwright, Automation Testing, Manual Testing — Pune, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/automation-tester-playwright-automation-testing-manual-testing/meeden-labs-private-limited/20063460",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-12T22:52:24Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "5a4d737304",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "MEEDEN LABS PRIVATE LIMITED",
+ "slug": "meeden-labs-private-limited",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}

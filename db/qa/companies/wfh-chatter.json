@@ -1,0 +1,30 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-12T22:52:24Z",
+  "evidence": [
+   {
+    "detail": "Entry Level Game Testing Work from Phone — All India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/entry-level-game-testing-work-from-phone-job/wfh-chatter/20055026",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-12T22:52:24Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "55b262c29d",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "WFH Chatter",
+ "slug": "wfh-chatter",
+ "tier": 3,
+ "tracks": [
+  "game"
+ ]
+}

@@ -1,0 +1,83 @@
+{
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/entry-level-game-testing-work-from-phone-job/wfh-chatter/20055026",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "WFH Chatter",
+ "company_slug": "wfh-chatter",
+ "concerns": [
+  "Entry-level role — pay may be at the lower end",
+  "Office outside Mumbai — relocation within India",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "6cc904d3986d",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-12T22:52:24Z",
+ "fit": 69,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "742b543f308ad3",
+ "include_reason": "Game tester title",
+ "india": {
+  "cities": [],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "game-tester",
+ "last_verified": "2026-11-12T22:52:24Z",
+ "location": "All India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-11-11T06:54:30Z",
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 60,
+  "company": 66,
+  "location": 80,
+  "seniority": 100,
+  "skill": 50
+ },
+ "seniority": "junior",
+ "snippet": "Experience: 0 to 4 Yrs\nSkills: writing skills, tablet, access to a smartphone, know how to install, use apps, ability to closely follow provided steps, instructions, reliable internet connection\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "20055026",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-11-11T06:54:30Z",
+   "seen_at": "2026-11-12T22:52:24Z",
+   "url": "https://www.shine.com/jobs/entry-level-game-testing-work-from-phone-job/wfh-chatter/20055026"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 3,
+ "title": "Entry Level Game Testing Work from Phone",
+ "tools": [],
+ "track": "game",
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/entry-level-game-testing-work-from-phone-job/wfh-chatter/20055026",
+ "why": [
+  "Game tester role — matches your game QA work at Webmobril and Golden Horde",
+  "Asks for 0–4 years — you have about 2.5",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": 4,
+ "years_min": 0
+}

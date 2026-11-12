@@ -1,0 +1,92 @@
+{
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/automation-tester-playwright-automation-testing-manual-testing/meeden-labs-private-limited/20063460",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "MEEDEN LABS PRIVATE LIMITED",
+ "company_slug": "meeden-labs-private-limited",
+ "concerns": [
+  "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
+  "Also asks for: API testing",
+  "Asks for 4+ years — you have about 2.5",
+  "Office outside Mumbai — relocation within India",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "2921c00529d3",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-12T22:52:24Z",
+ "fit": 59,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "f908c34f0a70ca",
+ "include_reason": "Automation-heavy QA (SDET)",
+ "india": {
+  "cities": [
+   "Pune"
+  ],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "automation",
+ "last_verified": "2026-11-12T22:52:24Z",
+ "location": "Pune, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-11-12T12:28:55Z",
+ "repost": false,
+ "requirements": [
+  "(Summary from the Shine.com listing; open the posting for the full description.)"
+ ],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 60,
+  "company": 66,
+  "location": 78,
+  "seniority": 72,
+  "skill": 38
+ },
+ "seniority": "unspecified",
+ "snippet": "Experience: 4 to 6 Yrs\nSkills: automation testing, manual testing, api testing, performance testing, playwright\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "20063460",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-11-12T12:28:55Z",
+   "seen_at": "2026-11-12T22:52:24Z",
+   "url": "https://www.shine.com/jobs/automation-tester-playwright-automation-testing-manual-testing/meeden-labs-private-limited/20063460"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 3,
+ "title": "Automation Tester - Playwright, Automation Testing, Manual Testing",
+ "tools": [
+  "Stress / load testing",
+  "API testing",
+  "Test automation"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/automation-tester-playwright-automation-testing-manual-testing/meeden-labs-private-limited/20063460",
+ "why": [
+  "Already on your resume: Stress / load testing",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": 6,
+ "years_min": 4
+}
