@@ -1,22 +1,23 @@
 {
  "apply_url": null,
- "board_apply": "https://himalayas.app/companies/akamai-technologies/jobs/software-development-engineer-in-test-ii-7238697166?utm_source=api",
+ "board_apply": "https://himalayas.app/companies/akamai-technologies/jobs/software-development-engineer-in-test-ii-9524361389?utm_source=api",
  "category": "Product / SaaS",
  "comp_potential": "unknown",
  "company": "Akamai Technologies",
  "company_slug": "akamai-technologies",
  "concerns": [
   "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
-  "Also asks for: SQL / databases, Programming",
-  "Pay not disclosed — ask for the range early"
+  "Also asks for: API testing, Programming",
+  "Pay not disclosed — ask for the range early",
+  "Reposted / refreshed listing — original posting is older"
  ],
  "contacts_count": 0,
- "content_hash": "6da14424961d",
+ "content_hash": "ffd1afa077e0",
  "date_quality": "exact",
- "deadline": "2026-12-28T12:50:58Z",
+ "deadline": "2027-01-11T12:56:46Z",
  "employment": "full-time",
  "first_seen": "2026-10-29T14:02:12Z",
- "fit": 80,
+ "fit": 76,
  "has_hiring_manager": false,
  "has_named_contact": false,
  "has_public_email": false,
@@ -30,75 +31,71 @@
   "visa": false
  },
  "kind": "automation",
- "last_verified": "2026-10-29T14:02:12Z",
+ "last_verified": "2026-11-12T13:16:03Z",
  "location": "India",
  "logo": "https://cdn-images.himalayas.app/lb8259c8ijm7nvddhbhfm13hy13d",
  "needs_review": false,
  "official": false,
- "posted_at": "2026-10-29T12:51:00Z",
- "repost": false,
+ "posted_at": "2026-11-12T12:57:46Z",
+ "repost": true,
  "requirements": [],
  "responsibilities": [
-  "Bachelor's degree in Computer Science, Engineering, or a related technical discipline with 3–5+ years of software testing/SDET experience, preferably in endpoint security or cybersecurity products.",
-  "Hands-on experience testing endpoint security, EDR/XDR, antivirus, DLP, device control, or security management platforms.",
-  "Experience with SentinelOne, CrowdStrike, Proofpoint or similar endpoint security products is highly desirable.",
-  "Strong experience developing automated test scripts/frameworks using Python or Java.",
-  "Strong understanding of Windows, macOS, and/or Linux/Unix operating systems and endpoint troubleshooting.",
-  "Experience with REST APIs, SQL, Jenkins, Git, shell scripting, and CI/CD practices.",
-  "Good understanding of SDLC, STLC, QA methodologies, defect management, and test automation best practices."
+  "Building test strategy and automation for products of Next generation Micro segmentation and threat protection solutions",
+  "Taking ownership for test execution, test automation, identify and bring in tools to assist the testing goal",
+  "Collaborating with engineering teams in an Agile environment on code, design, test plan and automation framework review",
+  "Working closely with development team to enhance new releases, testing process",
+  "Coordinating and participating in customer installs, demos to team",
+  "Hold qualifications in Computer Science, Engineering, or a related field, or possess equivalent practical experience in these domains.",
+  "3+ years of experience in software testing / QA automation, with at least 2 years testing applications on AWS"
  ],
  "salary": {
   "state": "unavailable"
  },
  "scores": {
-  "ai": 72,
+  "ai": 58,
   "comp": 60,
   "company": 95,
   "location": 100,
   "seniority": 94,
-  "skill": 62
+  "skill": 53
  },
  "seniority": "mid",
- "snippet": "Are you interested in how software can be made what customer \n wants with zero defects? \n Would you like to validate complex integrated systems and \n applications? \n Join our IT SDET Team\n The Enterprise Infrastructure Services SDT team within IT is responsible for the comprehensive, end-to-end validation of security controls and deployment pipelines across Akamai’s IT Division. We focus on real-world integration tes",
+ "snippet": "Are you excited to work with innovative security products? \n Do you relish the prospect of working with cutting-edge network security systems? \n Join our world-class Zero Trust Security Team\n Our Team builds and delivers 'zero trust security solutions' for enterprise customers. Our mission is to provide Micro Segmentation and Threat protection solutions. We provide the simplest, fastest, and most intuitive way to enf",
  "source_primary": "Himalayas",
  "sources": [
   {
    "id": "himalayas",
-   "job_id": "https://himalayas.app/companies/akamai-technologies/jobs/software-development-engineer-in-test-ii-7238697166",
+   "job_id": "https://himalayas.app/companies/akamai-technologies/jobs/software-development-engineer-in-test-ii-9524361389",
    "kind": "board",
    "name": "Himalayas",
-   "posted_at": "2026-10-29T12:51:00Z",
-   "seen_at": "2026-10-29T14:02:12Z",
-   "url": "https://himalayas.app/companies/akamai-technologies/jobs/software-development-engineer-in-test-ii-7238697166?utm_source=api"
+   "posted_at": "2026-11-12T12:57:46Z",
+   "seen_at": "2026-11-12T13:16:03Z",
+   "url": "https://himalayas.app/companies/akamai-technologies/jobs/software-development-engineer-in-test-ii-9524361389?utm_source=api"
   }
  ],
- "specializations": [
-  "Windows / PC"
- ],
+ "specializations": [],
  "status": "active",
  "tier": 1,
  "title": "Software Development Engineer in Test II",
  "tools": [
-  "Functional testing",
-  "Compatibility testing",
-  "Stress / load testing",
   "Test cases & scenarios",
   "Bug reporting",
-  "SQL / databases",
+  "Jira",
+  "API testing",
   "Test automation",
-  "Programming"
+  "Programming",
+  "Agile / Scrum"
  ],
  "track": "software",
  "updated_at": null,
- "url": "https://himalayas.app/companies/akamai-technologies/jobs/software-development-engineer-in-test-ii-7238697166?utm_source=api",
+ "url": "https://himalayas.app/companies/akamai-technologies/jobs/software-development-engineer-in-test-ii-9524361389?utm_source=api",
  "why": [
-  "Already on your resume: Functional testing, Compatibility testing, Stress / load testing, Test cases & scenarios, Bug reporting",
-  "Platforms you test on: Windows / PC",
+  "Already on your resume: Test cases & scenarios, Bug reporting, Jira",
   "Product / SaaS company",
   "Asks for 3+ years — you have about 2.5",
   "Location lists India"
  ],
  "work_mode": "remote",
- "years_max": 5,
+ "years_max": null,
  "years_min": 3
 }

@@ -3,14 +3,22 @@
  "classification": "Inferred from job description",
  "india_hiring": {
   "board": null,
-  "changed_at": "2026-11-12T12:48:57Z",
-  "evidence": [],
+  "changed_at": "2026-11-12T13:16:03Z",
+  "evidence": [
+   {
+    "detail": "QA Tester — Bangalore, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/qa-tester/uplers/19580138",
+    "weight": 5
+   }
+  ],
   "first_checked_at": "2026-10-20T17:43:38Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "54391d7cdf",
-  "summary": "No public evidence yet about hiring from India.",
-  "verdict": "unclear"
+  "sig": "b385d74aa4",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
  },
  "inferred": true,
  "name": "Uplers",
