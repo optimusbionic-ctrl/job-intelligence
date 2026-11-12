@@ -6,32 +6,32 @@
  "company": "Uplers",
  "company_slug": "uplers",
  "concerns": [
+  "Employer has not confirmed hiring from India",
   "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
   "Pay not disclosed — ask for the range early",
   "Full description not available from this source"
  ],
  "contacts_count": 0,
- "content_hash": "816fdd7892f0",
+ "content_hash": "c9dad0ae952b",
  "date_quality": "unknown",
  "deadline": null,
  "employment": "full-time",
  "first_seen": "2026-11-11T00:49:58Z",
- "fit": 63,
+ "fit": 56,
  "has_hiring_manager": false,
  "has_named_contact": false,
  "has_public_email": false,
  "id": "5ae6ac1f64867a",
  "include_reason": "Automation-heavy QA (SDET)",
  "india": {
-  "basis": "company",
   "cities": [],
-  "company": "yes",
-  "reason": "Region not stated; Uplers hires in India",
-  "status": "likely",
+  "company": "unclear",
+  "reason": "Remote, region not stated",
+  "status": "unconfirmed",
   "visa": false
  },
  "kind": "automation",
- "last_verified": "2026-11-12T09:32:29Z",
+ "last_verified": "2026-11-12T09:51:44Z",
  "location": "Remote",
  "logo": null,
  "needs_review": false,
@@ -48,7 +48,7 @@
   "ai": 55,
   "comp": 60,
   "company": 66,
-  "location": 82,
+  "location": 36,
   "seniority": 84,
   "skill": 41
  },
@@ -62,7 +62,7 @@
    "kind": "search",
    "name": "Web (via search index)",
    "posted_at": null,
-   "seen_at": "2026-11-12T09:32:29Z",
+   "seen_at": "2026-11-12T09:51:44Z",
    "url": "https://qajobsboard.jobboardly.com/jobs/qa-engineer-manual-focus-with-automation-ambition-remote-a450bf9e"
   }
  ],
@@ -74,9 +74,7 @@
  "track": "software",
  "updated_at": null,
  "url": "https://qajobsboard.jobboardly.com/jobs/qa-engineer-manual-focus-with-automation-ambition-remote-a450bf9e",
- "why": [
-  "Region not stated; Uplers hires in India"
- ],
+ "why": [],
  "work_mode": "remote",
  "years_max": null,
  "years_min": null

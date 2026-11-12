@@ -1,0 +1,94 @@
+{
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/automation-test-engineer-java-selenium-api-automation/br-raysoft-global-private-limited/20062381",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "BR RAYSOFT GLOBAL PRIVATE LIMITED",
+ "company_slug": "br-raysoft-global-private-limited",
+ "concerns": [
+  "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
+  "Also asks for: API testing, Programming",
+  "Entry-level role — pay may be at the lower end",
+  "Office outside Mumbai — relocation within India",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "8311c93785e8",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-12T09:51:44Z",
+ "fit": 57,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "46f7f1a0b48faa",
+ "include_reason": "Automation-heavy QA (SDET)",
+ "india": {
+  "cities": [
+   "Pune",
+   "Bengaluru",
+   "Chennai"
+  ],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "automation",
+ "last_verified": "2026-11-12T09:51:44Z",
+ "location": "Pune, Chennai, Bangalore, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-11-12T08:07:13Z",
+ "repost": false,
+ "requirements": [
+  "(Summary from the Shine.com listing; open the posting for the full description.)"
+ ],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 60,
+  "company": 66,
+  "location": 78,
+  "seniority": 80,
+  "skill": 24
+ },
+ "seniority": "unspecified",
+ "snippet": "Experience: 0 Yrs\nSkills: testng, java, selenium, automation framework, restassured, api automation\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "20062381",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-11-12T08:07:13Z",
+   "seen_at": "2026-11-12T09:51:44Z",
+   "url": "https://www.shine.com/jobs/automation-test-engineer-java-selenium-api-automation/br-raysoft-global-private-limited/20062381"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 3,
+ "title": "Automation Test Engineer - Java, Selenium, API Automation",
+ "tools": [
+  "API testing",
+  "Test automation",
+  "Programming"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/automation-test-engineer-java-selenium-api-automation/br-raysoft-global-private-limited/20062381",
+ "why": [
+  "Asks for 0+ years — you have about 2.5",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": null,
+ "years_min": 0
+}

@@ -1,0 +1,30 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-12T09:51:44Z",
+  "evidence": [
+   {
+    "detail": "Automation Test Engineer - Java, Selenium, API Automation — Pune, Chennai, Bangalore, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/automation-test-engineer-java-selenium-api-automation/br-raysoft-global-private-limited/20062381",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-12T09:51:44Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "2b20044a52",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "BR RAYSOFT GLOBAL PRIVATE LIMITED",
+ "slug": "br-raysoft-global-private-limited",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}

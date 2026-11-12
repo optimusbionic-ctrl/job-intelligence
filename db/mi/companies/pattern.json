@@ -17,7 +17,7 @@
     "Czechia",
     "UAE"
    ],
-   "india": 9,
+   "india": 8,
    "india_samples": [
     {
      "location": "Pune, India",
@@ -45,17 +45,17 @@
    "restricted_remote": 0,
    "restricted_samples": [],
    "slug": "pattern",
-   "total": 96,
+   "total": 95,
    "type": "lever",
    "url": "https://jobs.lever.co/pattern",
    "worldwide": 0
   },
-  "changed_at": "2026-11-12T09:07:53Z",
+  "changed_at": "2026-11-12T09:52:59Z",
   "evidence": [
    {
     "detail": "Associate Manager - Instock (Pune, India); Digital Advertising Strategist -AU.. (Pune, India); Digital Advertising Strategist.. (Pune, India)",
     "kind": "board",
-    "label": "9 of 96 open roles are located in India",
+    "label": "8 of 95 open roles are located in India",
     "url": "https://jobs.lever.co/pattern",
     "weight": 5
    },
@@ -70,8 +70,8 @@
   "first_checked_at": "2026-10-18T18:27:42Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "5667d707fb",
-  "summary": "9 of 96 open roles are located in India.",
+  "sig": "cd196e9609",
+  "summary": "8 of 95 open roles are located in India.",
   "verdict": "yes"
  },
  "inferred": true,

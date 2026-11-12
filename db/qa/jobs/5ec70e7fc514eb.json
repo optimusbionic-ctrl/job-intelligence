@@ -1,0 +1,92 @@
+{
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/certified-game-tester-chhattisgarh/tact4tech-infosystems/20054996",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "tact4tech infosystems",
+ "company_slug": "tact4tech-infosystems",
+ "concerns": [
+  "Office outside Mumbai — relocation within India",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "578b1476e717",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-12T09:51:44Z",
+ "fit": 86,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "5ec70e7fc514eb",
+ "include_reason": "Game tester title",
+ "india": {
+  "cities": [],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "game-tester",
+ "last_verified": "2026-11-12T09:51:44Z",
+ "location": "All India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-11-11T06:54:08Z",
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 82,
+  "comp": 60,
+  "company": 66,
+  "location": 80,
+  "seniority": 100,
+  "skill": 100
+ },
+ "seniority": "unspecified",
+ "snippet": "Experience: 1 to 5 Yrs\nSkills: JIRA, Trello, UI testing, Android, iOS, bug tracking tools, gameplay mechanics, UIUX flow, user behavior, multiplayer testing\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "20054996",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-11-11T06:54:08Z",
+   "seen_at": "2026-11-12T09:51:44Z",
+   "url": "https://www.shine.com/jobs/certified-game-tester-chhattisgarh/tact4tech-infosystems/20054996"
+  }
+ ],
+ "specializations": [
+  "Android",
+  "iOS"
+ ],
+ "status": "active",
+ "tier": 3,
+ "title": "Certified Game Tester (Chhattisgarh)",
+ "tools": [
+  "UI testing",
+  "Gameplay testing",
+  "Bug reporting",
+  "Jira"
+ ],
+ "track": "game",
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/certified-game-tester-chhattisgarh/tact4tech-infosystems/20054996",
+ "why": [
+  "Game tester role — matches your game QA work at Webmobril and Golden Horde",
+  "Already on your resume: UI testing, Gameplay testing, Bug reporting, Jira",
+  "Platforms you test on: Android, iOS",
+  "Asks for 1–5 years — you have about 2.5",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": 5,
+ "years_min": 1
+}
