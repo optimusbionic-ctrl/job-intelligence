@@ -7,11 +7,10 @@
  "company_slug": "babou-ai",
  "concerns": [
   "Listed pay is in USD; confirm it applies to India-based hires",
-  "Contract role",
-  "Reposted / refreshed listing — original posting is older"
+  "Contract role"
  ],
  "contacts_count": 0,
- "content_hash": "ec2d7c4cb7c8",
+ "content_hash": "46582e459a47",
  "date_quality": "exact",
  "deadline": "2026-12-02T17:32:46Z",
  "employment": "contract",
@@ -30,13 +29,13 @@
   "visa": false
  },
  "kind": "motion",
- "last_verified": "2026-11-11T22:57:23Z",
+ "last_verified": "2026-11-12T03:33:09Z",
  "location": "Worldwide",
  "logo": "https://cdn-images.himalayas.app/83zf1biu1x3uu7cgmj7vs7c2356g",
  "needs_review": false,
  "official": false,
- "posted_at": "2026-11-04T04:32:22Z",
- "repost": true,
+ "posted_at": "2026-11-04T04:32:17Z",
+ "repost": false,
  "requirements": [
   "After Effects is your main tool. Motion graphics on your reel, not only editing, 3D, or illustrated explainers.",
   "A good design eye: type, layout, spacing, color. You know why something looks right.",
@@ -51,10 +50,10 @@
   "applies_india": "unconfirmed",
   "basis": "listed",
   "currency": "USD",
-  "fx_at": "Wed, 11 Nov 2026 00:02:32 +0000",
-  "fx_rate": 93.9558,
-  "inr_max": 5637348,
-  "inr_min": 2818674,
+  "fx_at": "Thu, 12 Nov 2026 00:02:31 +0000",
+  "fx_rate": 93.8516,
+  "inr_max": 5631096,
+  "inr_min": 2815548,
   "max": 60000,
   "min": 30000,
   "note": "Listed for a worldwide-remote role; confirm it applies to India-based hires",
@@ -63,7 +62,7 @@
   "source_name": "Himalayas",
   "source_url": "https://himalayas.app/companies/babou-ai/jobs/freelance-after-effects-motion-designer-flexible-hours?utm_source=api",
   "state": "verified",
-  "verified_at": "2026-11-11T22:57:23Z"
+  "verified_at": "2026-11-12T03:33:09Z"
  },
  "scores": {
   "ai": 44,
@@ -83,8 +82,17 @@
    "kind": "board",
    "name": "Himalayas",
    "posted_at": "2026-11-04T04:32:22Z",
-   "seen_at": "2026-11-11T22:57:23Z",
+   "seen_at": "2026-11-12T03:33:09Z",
    "url": "https://himalayas.app/companies/babou-ai/jobs/freelance-after-effects-motion-designer-flexible-hours?utm_source=api"
+  },
+  {
+   "id": "himalayas",
+   "job_id": "https://himalayas.app/companies/babou-ai/jobs/freelance-after-effects-motion-designer-us-pacific-hours",
+   "kind": "board",
+   "name": "Himalayas",
+   "posted_at": "2026-11-04T04:32:17Z",
+   "seen_at": "2026-11-12T03:33:09Z",
+   "url": "https://himalayas.app/companies/babou-ai/jobs/freelance-after-effects-motion-designer-us-pacific-hours?utm_source=api"
   }
  ],
  "specializations": [

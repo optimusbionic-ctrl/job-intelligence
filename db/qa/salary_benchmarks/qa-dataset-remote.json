@@ -2,12 +2,12 @@
  "avg": 6115277,
  "basis": "Interquartile range of posting midpoints, converted to INR at today's rate",
  "currency": "INR",
- "high": 10792934,
+ "high": 8915902,
  "id": "qa-dataset-remote",
  "label": "Disclosed pay on remote QA postings (any region, this dataset)",
  "low": 3389594,
  "market": "Remote (global)",
- "n": 10,
+ "n": 9,
  "retrieved_at": "2026-11-12",
  "samples": [
   {
@@ -72,15 +72,6 @@
    "min": 85000,
    "title": "Quality Assurance Analyst",
    "url": "https://himalayas.app/companies/spacecoast-av-consultants-llc/jobs/quality-assurance-analyst?utm_source=api"
-  },
-  {
-   "company": "Steampunk",
-   "currency": "USD",
-   "location": "United States",
-   "max": 150000,
-   "min": 80000,
-   "title": "Salesforce Functional Analyst/QA",
-   "url": "https://himalayas.app/companies/steampunk/jobs/salesforce-functional-analyst-qa?utm_source=api"
   },
   {
    "company": "OpenDataJobs",
