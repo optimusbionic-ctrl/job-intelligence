@@ -1,0 +1,39 @@
+[
+ {
+  "period": "2026-10",
+  "source": "Naukri JobSpeak",
+  "metric": "Software engineering and QA roles, all industries (India)",
+  "yoy": 1,
+  "quote": "Broad software engineering and QA across all sectors rose 1 per cent.",
+  "source_url": "https://www.aninews.in/news/business/indias-white-collar-hiring-rises-14-in-october-manufacturing-leads-with-39-growth-report16020261103142217",
+  "note": "October 2025 base was lowered by Diwali, so October 2026 year-on-year figures read high.",
+  "retrieved_at": "2026-11-12"
+ },
+ {
+  "period": "2026-10",
+  "source": "Naukri JobSpeak",
+  "metric": "AI/ML roles in IT (India)",
+  "yoy": 32,
+  "quote": "IT and software services grew 5 per cent, but AI and machine learning positions rose 32 per cent",
+  "source_url": "https://www.aninews.in/news/business/indias-white-collar-hiring-rises-14-in-october-manufacturing-leads-with-39-growth-report16020261103142217",
+  "retrieved_at": "2026-11-12"
+ },
+ {
+  "period": "2026-10",
+  "source": "Naukri JobSpeak",
+  "metric": "Fresher hiring, 0-3 years (India)",
+  "yoy": 15,
+  "quote": "Fresher hiring grew 15 per cent.",
+  "source_url": "https://www.aninews.in/news/business/indias-white-collar-hiring-rises-14-in-october-manufacturing-leads-with-39-growth-report16020261103142217",
+  "retrieved_at": "2026-11-12"
+ },
+ {
+  "period": "2026-09",
+  "source": "foundit Insights Tracker",
+  "metric": "All white-collar job postings (India)",
+  "yoy": -11,
+  "quote": "overall white-collar hiring moderated 11 per cent YoY in September",
+  "source_url": "https://www.hrkatha.com/recruitment/70-festive-jobs-go-to-talent-with-up-to-6-years-of-experience/",
+  "retrieved_at": "2026-11-12"
+ }
+]

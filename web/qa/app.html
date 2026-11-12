@@ -727,6 +727,13 @@ table.jobs.dense td{padding-block:8px}
 .newfeat b{display:block;font-family:var(--f-display);font-size:16px;font-weight:650;letter-spacing:-.015em;line-height:1.3}
 .newfeat p{font-size:13px;color:var(--fg-2);margin-top:3px}
 .newfeat .eyebrow{color:var(--accent-text)}
+.tr-live .kpi .v.up{color:var(--good)}.tr-live .kpi .v.dn{color:var(--bad)}.tr-live .kpi .v.flat{color:var(--fg)}
+.tr-live .kpi .s.src a{color:var(--fg-2);text-decoration:underline;text-underline-offset:2px}
+.tr-pick{display:flex;flex-wrap:wrap;align-items:center;gap:10px}.tr-pick select{min-width:260px;max-width:100%}
+.tr-live-t td{vertical-align:top}.tr-live-t td:first-child{white-space:normal;color:var(--fg)}
+@media (max-width:640px){.tr-live-t thead{display:none}.tr-live-t,.tr-live-t tbody{display:block}.tr-live-t tr{display:flex;flex-wrap:wrap;align-items:baseline;gap:4px 12px;padding:10px 0;border-bottom:1px solid var(--line)}.tr-tbl.tr-live-t td{display:block;border:0;padding:0;text-align:left!important}.tr-live-t td:first-child{flex:1 0 100%}.tr-live-t tr.grp{padding:8px 6px;background:var(--surface-2)}.tr-live-t tr.grp td{background:none}.tr-live-t td.c-mom{display:none}.tr-live-t td.c-now::before{content:'Now ';color:var(--mute)}.tr-live-t td.c-ago::before{content:'Year earlier ';color:var(--mute)}.tr-live-t td.c-chg{font-weight:600}.tr-live-t td.c-src{margin-left:auto}.tr-live-t td:first-child .muted{max-width:none}}.tr-live-t td .muted{display:block;font-size:11px;margin-top:2px;max-width:420px}
+.tr-live-t td.up{color:var(--good);font-weight:600}.tr-live-t td.dn{color:var(--bad);font-weight:600}
+.tr-live-t tr.grp td{background:var(--surface-2);font-weight:600;font-size:11px;letter-spacing:.02em;text-transform:uppercase;color:var(--fg-2)}
 .tr-kpis{grid-template-columns:repeat(4,minmax(0,1fr))}
 .tr-kpis .kpi{cursor:default}
 .tr-kpis .kpi .v{font-size:30px}
@@ -2889,6 +2896,10 @@ const TR_S = {
 const trLink = k => { const s = TR_S[k]; return s ? `<a href="${esc(s[1])}" target="_blank" rel="noopener">${esc(s[0])}</a>` : ''; };
 const trPct = v => `${v > 0 ? '+' : v < 0 ? '−' : ''}${Math.abs(v).toFixed(0)}%`;
 /* each month vs that year's monthly average, averaged over the years we have */
+function trUseLive() {
+  const ov = S.meta?.trends?.jobspeak?.overall; if (!ov) return;
+  for (const [m, v] of Object.entries(ov)) { const [y, mo] = m.split('-').map(Number); if (y < 2025) continue; (TR_NJS[y] = TR_NJS[y] || Array(12).fill(null))[mo - 1] = v; if (TR_NJS_EST[y]) TR_NJS_EST[y] = TR_NJS_EST[y].filter(i => i !== mo - 1); }
+}
 function trSeason() {
   const per = TR_M.map(() => []);
   for (const y of Object.keys(TR_NJS)) {
@@ -2899,8 +2910,10 @@ function trSeason() {
 }
 function trYtd() {
   let a = 0, b = 0, n = 0;
-  TR_NJS[2026].forEach((v, i) => { const p = TR_NJS[2025][i]; if (v != null && p != null) { a += v; b += p; n++; } });
-  return { pct: (a / b - 1) * 100, n };
+  let last = 0; const ch = [];
+  TR_NJS[2026].forEach((v, i) => { const p = TR_NJS[2025][i]; if (v != null && p != null) { a += v; b += p; n++; last = i; ch.push([i, (v / p - 1) * 100]); } });
+  ch.sort((x, y) => x[1] - y[1]);
+  return { pct: (a / b - 1) * 100, n, last, lo: ch[0], hi: ch[ch.length - 1], allUp: ch.every(c => c[1] > 0) };
 }
 function trMonthChart() {
   const s = trSeason(); const mx = Math.max(10, ...s.map(Math.abs)); const cur = new Date().getMonth();
@@ -2970,7 +2983,94 @@ const TR_GAMES = [
   { y: '2024', v: 15650, lab: '15.7k', note: 'About 15,650 — the peak' },
   { y: '2025', v: 9200, lab: '9.2k', note: 'About 9,200' },
 ];
+const APP_TREND = { roleRx: /QA|quality|test/i, fieldRx: /^IT-Software/, abroadRx: /Software development.*· US/ };
+/* ---------------- Live trends: refreshed daily from published data (meta/trends) ---------------- */
+const trShift = (m, n) => { let [y, mo] = m.split('-').map(Number); mo += n; while (mo < 1) { mo += 12; y--; } while (mo > 12) { mo -= 12; y++; } return `${y}-${String(mo).padStart(2, '0')}`; };
+const trMon = m => { if (!m) return '—'; const [y, mo] = m.split('-').map(Number); return `${TR_M[mo - 1]} ${y}`; };
+const trYoY = (a, b) => (a != null && b) ? (a / b - 1) * 100 : null;
+const trCls = v => v == null ? '' : v >= 2 ? 'up' : v <= -2 ? 'dn' : 'flat';
+const trFmt = v => v == null ? '—' : Math.abs(v) < 0.5 ? '0%' : trPct(v);
+const IH_SECT = { 'Arts & Entertainment': 'Arts & entertainment (designers, artists)', 'Media & Communications': 'Media & communications', 'Software Development': 'Software development' };
+const IH_CTRY = { US: 'US', GB: 'UK', CA: 'Canada', AU: 'Australia', DE: 'Germany', FR: 'France' };
+function trLiveRows(T) {
+  const rows = []; const js = T.jobspeak || {}; const ov = js.overall || {};
+  const last = Object.keys(ov).sort().pop();
+  const add = (grp, label, what, series, src, srcName) => {
+    const ks = Object.keys(series || {}).sort(); if (!ks.length) return;
+    const m = ks[ks.length - 1]; const now = series[m], ago = series[trShift(m, -12)], prev = series[trShift(m, -1)];
+    rows.push({ grp, label, what, period: trMon(m), m, now, ago, yoy: trYoY(now, ago), mom: trYoY(now, prev), series, src, srcName });
+  };
+  const jsSrc = (js.reports || []).slice(-1)[0]?.url || js.page;
+  if (last) add('India · Naukri JobSpeak', 'All white-collar hiring', 'Index of new job postings and recruiter searches on Naukri (Jul 2008 = 1,000)', ov, jsSrc, 'Info Edge report');
+  for (const [k, s] of Object.entries(js.industries || {})) add('India · Naukri JobSpeak', k, 'Industry hiring index', s, jsSrc, 'Info Edge report');
+  for (const [k, s] of Object.entries(js.cities || {})) add('India · Naukri JobSpeak', k.replace('Bangalore/Bengaluru', 'Bengaluru').replace('Hyderabad/Secunderabad', 'Hyderabad'), 'City hiring index (all roles)', s, jsSrc, 'Info Edge report');
+  for (const s of Object.values(T.indeed || {})) {
+    rows.push({ grp: 'Abroad · Indeed job postings', label: `${IH_SECT[s.sector] || s.sector} · ${IH_CTRY[s.country] || s.country}`, what: 'Indeed postings index, seasonally adjusted (1 Feb 2020 = 100)',
+      period: new Date(s.last_date + 'T00:00:00Z').toLocaleDateString('en-GB', { day: 'numeric', month: 'short', year: 'numeric' }), now: s.last, ago: s.year_ago, yoy: s.yoy, mom: s.mom, series: s.monthly, src: s.source, srcName: 'Hiring Lab data' });
+  }
+  const hn = T.hn || {}; const hk = Object.keys(hn.total || {}).sort(); const hm = hk[hk.length - 1];
+  if (hm) {
+    const thr = (hn.threads || {})[hm];
+    rows.push({ grp: 'Startups · Hacker News “Who is hiring?”', label: 'All companies posting', what: 'Companies posting in the monthly thread (exact count)', period: trMon(hm), now: hn.total[hm], ago: hn.total[trShift(hm, -12)], yoy: trYoY(hn.total[hm], hn.total[trShift(hm, -12)]), series: hn.total, src: thr, srcName: 'HN thread', count: true });
+    for (const [g, s] of Object.entries(hn.groups || {})) rows.push({ grp: 'Startups · Hacker News “Who is hiring?”', label: g, what: 'Companies whose post mentions the role (exact count; small numbers swing a lot)', period: trMon(hm), now: s[hm], ago: s[trShift(hm, -12)], yoy: trYoY(s[hm], s[trShift(hm, -12)]), series: s, src: thr, srcName: 'HN thread', count: true });
+  }
+  return rows;
+}
+function trLiveChart(row) {
+  if (!row || !row.series) return '';
+  const ks = Object.keys(row.series).sort(); const end = ks[ks.length - 1]; if (!end) return '';
+  const months = Array.from({ length: 12 }, (_, i) => trShift(end, i - 11));
+  const cur = months.map(m => row.series[m] ?? null), prev = months.map(m => row.series[trShift(m, -12)] ?? null);
+  const vals = [...cur, ...prev].filter(v => v != null); if (!vals.length) return '';
+  const lo = Math.min(...vals), hi = Math.max(...vals), pad = (hi - lo) * 0.12 || 1; const y0 = Math.max(0, lo - pad), y1 = hi + pad;
+  const W = 680, H = 230, L = 46, R = 16, T = 16, B = 30; const X = i => L + i * (W - L - R) / 11; const Y = v => T + (1 - (v - y0) / (y1 - y0)) * (H - T - B);
+  const path = arr => arr.map((v, i) => v == null ? null : `${X(i).toFixed(1)},${Y(v).toFixed(1)}`).filter(Boolean).map((p, i) => (i ? 'L' : 'M') + p).join(' ');
+  const dots = (arr, c, lab) => arr.map((v, i) => v == null ? '' : `<circle cx="${X(i).toFixed(1)}" cy="${Y(v).toFixed(1)}" r="3.4" fill="${c}" stroke="var(--surface)" stroke-width="1.5"><title>${lab} ${trMon(lab === 'This year' ? months[i] : trShift(months[i], -12))}: ${Number(v).toLocaleString('en-IN')}</title></circle>`).join('');
+  const grid = [0, .25, .5, .75, 1].map(f => { const v = y0 + f * (y1 - y0); return `<line x1="${L}" x2="${W - R}" y1="${Y(v)}" y2="${Y(v)}" stroke="var(--line)"/><text x="${L - 6}" y="${Y(v) + 4}" text-anchor="end">${Math.round(v).toLocaleString('en-IN')}</text>`; }).join('');
+  const xl = months.map((m, i) => `<text x="${X(i)}" y="${H - 9}" text-anchor="middle">${TR_M[+m.split('-')[1] - 1]}</text>`).join('');
+  return `<div class="trc-wrap"><svg class="trc" viewBox="0 0 ${W} ${H}" role="img" aria-label="${esc(row.label)}: last 12 months compared with the same months a year earlier">${grid}${xl}
+    <path d="${path(prev)}" fill="none" stroke="var(--faint)" stroke-width="2" stroke-dasharray="5 4"/>${dots(prev, 'var(--faint)', 'Year before')}
+    <path d="${path(cur)}" fill="none" stroke="var(--accent-2)" stroke-width="2.6" stroke-linejoin="round"/>${dots(cur, 'var(--accent-2)', 'This year')}</svg></div>
+    <div class="tr-legend"><span><i class="ln" style="background:var(--accent-2)"></i>${trMon(months[0])} – ${trMon(end)}</span><span><i class="ln" style="background:var(--faint)"></i>Same months a year earlier</span></div>`;
+}
+function trLive() {
+  const T = S.meta?.trends;
+  if (!T || !T.jobspeak) return `<section class="panel"><div class="panel-b"><div class="callout"><b>Live trends are on their way</b><span>Month-by-month figures from Naukri JobSpeak, Indeed and Hacker News load after the next feed run.</span></div></div></section>`;
+  const rows = trLiveRows(T); const role = T.role || 'your role';
+  const pick = (re, grp) => rows.find(r => (!grp || r.grp.startsWith(grp)) && re.test(r.label));
+  const rep = (T.reports || []).slice().sort((a, b) => (b.period || '').localeCompare(a.period || ''));
+  const repRole = rep.find(r => APP_TREND.roleRx.test(r.metric));
+  const overall = pick(/^All white-collar/); const field = pick(APP_TREND.fieldRx, 'India'); const abroad = pick(APP_TREND.abroadRx, 'Abroad');
+  const tb = (T.tracker || {}).by_month || {}; const tm = new Date().toISOString().slice(0, 7); const tPrev = trShift(tm, -1);
+  const kpi = (k, v, cls, sub, src) => `<div class="kpi tr-live-k"><span class="k">${k}</span><span class="v ${cls}">${v}</span><span class="s">${sub}</span>${src ? `<span class="s src">${src}</span>` : ''}</div>`;
+  const a = (u, t) => u ? `<a href="${esc(u)}" target="_blank" rel="noopener">${esc(t)}</a>` : esc(t);
+  const sel = S.trSel && rows.find(r => r.grp + '|' + r.label === S.trSel) || field || overall;
+  const groups = [...new Set(rows.map(r => r.grp))];
+  const upd = T.updated_at ? new Date(T.updated_at).toLocaleDateString('en-GB', { day: 'numeric', month: 'short', year: 'numeric' }) : '—';
+  return `<section class="panel tr-live"><div class="panel-h"><div><span class="eyebrow">Live · checked ${upd} · refreshes daily</span><h2>Hiring now vs the same month last year</h2></div></div>
+  <div class="panel-b" style="display:flex;flex-direction:column;gap:16px">
+    <div class="kpis tr-kpis">
+      ${repRole ? kpi(esc(repRole.metric), trFmt(repRole.yoy), trCls(repRole.yoy), `${trMon(repRole.period)} vs a year earlier · ${esc(repRole.source)}`, a(repRole.source_url, 'source'))
+               : field ? kpi(`${esc(field.label)} · India`, trFmt(field.yoy), trCls(field.yoy), `${field.period} vs a year earlier`, a(field.src, field.srcName)) : ''}
+      ${field && repRole ? kpi(`${esc(field.label)} · India`, trFmt(field.yoy), trCls(field.yoy), `${field.period} vs a year earlier · Naukri JobSpeak`, a(field.src, field.srcName)) : ''}
+      ${overall ? kpi('All white-collar hiring · India', trFmt(overall.yoy), trCls(overall.yoy), `${overall.period}: ${overall.now?.toLocaleString('en-IN')} vs ${overall.ago?.toLocaleString('en-IN')} a year earlier`, a(overall.src, overall.srcName)) : ''}
+      ${abroad ? kpi(esc(abroad.label), trFmt(abroad.yoy), trCls(abroad.yoy), `${abroad.period} vs a year earlier · Indeed`, a(abroad.src, abroad.srcName)) : ''}
+      ${!(field && repRole) ? kpi('Roles in this tracker', String(tb[tm] || 0), '', `posted in ${trMon(tm)} so far · ${tb[tPrev] || 0} in ${trMon(tPrev)}`, '') : ''}
+    </div>
+    <div class="tr-pick"><label for="trSel" class="eyebrow">Compare this year with last year</label>
+      <select id="trSel" data-change="tr-sel">${groups.map(g => `<optgroup label="${esc(g)}">${rows.filter(r => r.grp === g && r.series && Object.keys(r.series).length > 12).map(r => `<option value="${esc(r.grp + '|' + r.label)}" ${r === sel ? 'selected' : ''}>${esc(r.label)}</option>`).join('')}</optgroup>`).join('')}</select></div>
+    ${trLiveChart(sel)}
+    <div class="scroll-x"><table class="tr-tbl tr-live-t"><thead><tr><th>Measure</th><th>Latest</th><th>Now</th><th>Year earlier</th><th>Change</th><th>vs last month</th><th>Source</th></tr></thead><tbody>
+      ${groups.map(g => `<tr class="grp"><td colspan="7">${esc(g)}</td></tr>${rows.filter(r => r.grp === g).map(r => `<tr><td><b>${esc(r.label)}</b><span class="muted">${esc(r.what)}</span></td><td class="c-per">${esc(r.period)}</td><td class="c-now">${r.now == null ? '—' : Number(r.now).toLocaleString('en-IN')}</td><td class="c-ago">${r.ago == null ? '—' : Number(r.ago).toLocaleString('en-IN')}</td><td class="c-chg ${trCls(r.yoy)}">${trFmt(r.yoy)}</td><td class="c-mom ${trCls(r.mom)}">${trFmt(r.mom)}</td><td class="c-src">${a(r.src, r.srcName)}</td></tr>`).join('')}`).join('')}
+      ${rep.length ? `<tr class="grp"><td colspan="7">Role-level figures quoted from published reports</td></tr>${rep.map(r => `<tr><td><b>${esc(r.metric)}</b><span class="muted">“${esc(r.quote)}”${r.note ? ` ${esc(r.note)}` : ''}</span></td><td class="c-per">${trMon(r.period)}</td><td colspan="2" class="c-org muted">${esc(r.source)}</td><td class="c-chg ${trCls(r.yoy)}">${trFmt(r.yoy)}</td><td class="c-mom">—</td><td class="c-src">${a(r.source_url, 'source')}</td></tr>`).join('')}` : ''}
+      <tr class="grp"><td colspan="7">This tracker (exact role, counted by posting date)</td></tr>
+      <tr><td><b>Roles posted this month</b><span class="muted">${esc(role)} roles with a posting date. Year-on-year starts once a full year has been tracked.</span></td><td class="c-per">${trMon(tm)} so far</td><td class="c-now">${tb[tm] || 0}</td><td class="c-ago">${tb[trShift(tm, -12)] ?? '—'}</td><td class="c-chg">—</td><td class="c-mom muted">${tb[tPrev] || 0} last month</td><td class="c-src">—</td></tr>
+    </tbody></table></div>
+    <p class="tr-note">No public source counts ${esc(role)} vacancies alone each month, so this combines: India's official industry and city indices from Naukri JobSpeak (each report carries 13 months, so year-on-year values are exact); Indeed's daily postings index for the closest occupation (Indeed files designers under “Arts & entertainment”, testers under “Software development”); the exact number of companies hiring in each Hacker News “Who is hiring?” thread; and role-level figures that reports state in text, quoted word for word. Missing values are left blank, never estimated. Year-on-year compares the same month, or the same weekday 52 weeks earlier for daily data. Festivals can shift between months: Diwali fell in October 2025 and in November 2026.</p>
+  </div></section>`;
+}
 function viewTrends() {
+  trUseLive();
   const s = trSeason(); const ytd = trYtd(); const t = S.track;
   const showGame = t !== 'software', showSoft = t !== 'game';
   const rank = TR_M.map((m, i) => [m, s[i]]).sort((a, b) => b[1] - a[1]);
@@ -2979,10 +3079,11 @@ function viewTrends() {
   return `${head(`Hiring trends · ${TRACK_LABEL[t]} · researched ${TR_ASOF}`, 'When QA teams <em class="ser">hire</em>, and where testing jobs are heading',
     'Which months bring the most openings, what drives the slow months, how tech and games hiring moved since COVID, whether 2026 is a normal year, and how AI is changing testing work — each number linked to its source. Use the Section switch to focus on Game QA or Software QA.',
     `<a class="btn" href="#explorer">${ico('i-jobs')} Explore roles</a>`)}
+  ${trLive()}
   <div class="kpis tr-kpis">
     ${kpi('Busiest months', best.join(' · '), 'India white-collar hiring, 2025–26', true)}
     ${kpi('Quietest months', worst.join(' · '), 'Festive season, new-year restart, fiscal year-end', true)}
-    ${kpi('2026 vs 2025', trPct(ytd.pct), `India hiring, same ${ytd.n} months Jan–Sep`)}
+    ${kpi('2026 vs 2025', trPct(ytd.pct), `India hiring, ${ytd.n} months Jan–${TR_M[ytd.last]}`)}
     ${showGame && !showSoft ? kpi('Real-money gaming ban', '6,500+', 'Jobs lost within a month of Aug 2025') : kpi('Fresher & junior hiring', '+17%', '0–3 years, Feb 2026 vs Feb 2025')}
   </div>
   <section class="panel"><div class="panel-h"><div><span class="eyebrow">Seasonality · each month vs the year's average</span><h2>Which months hire the most</h2></div><div class="tr-legend"><span><i style="background:var(--good)"></i>Above average</span><span><i style="background:var(--warn)"></i>Below average</span></div></div>
@@ -3025,7 +3126,7 @@ function viewTrends() {
   </div></section>` : ''}
   <section class="panel"><div class="panel-h"><div><span class="eyebrow">Is 2026 a normal year?</span><h2>More jobs in India overall, but testing is flat</h2></div></div><div class="panel-b" style="display:flex;flex-direction:column;gap:14px">
     <div class="tr-verdict">
-      <div class="tr-v"><div class="vt"><span class="pill good">Above 2025</span><span class="eyebrow">India, all white-collar</span></div><span class="big">${trPct(ytd.pct)}</span><p>Jan–Sep 2026 versus the same months of 2025. Every published month of 2026 was up on 2025, from +2% (Sep) to +14% (Aug). ${trLink('njs_sep26')}</p></div>
+      <div class="tr-v"><div class="vt"><span class="pill good">Above 2025</span><span class="eyebrow">India, all white-collar</span></div><span class="big">${trPct(ytd.pct)}</span><p>Jan–${TR_M[ytd.last]} 2026 versus the same months of 2025. ${ytd.allUp ? 'Every published month of 2026 was up on 2025' : 'Month by month the change ranged'}, from ${trPct(ytd.lo[1])} (${TR_M[ytd.lo[0]]}) to ${trPct(ytd.hi[1])} (${TR_M[ytd.hi[0]]}). ${S.meta?.trends?.jobspeak?.page ? `<a href="${esc(S.meta.trends.jobspeak.page)}" target="_blank" rel="noopener">Naukri JobSpeak reports</a>` : trLink('njs_sep26')}</p></div>
       <div class="tr-v"><div class="vt"><span class="pill good">Good for you</span><span class="eyebrow">Early-career hiring</span></div><span class="big">+17%</span><p>Hiring for 0–3 years of experience rose 17% in Feb 2026; foundit counted +19% for 0–3 years and +15% for 4–6 years across 2025. ${trLink('njs_feb26')} · ${trLink('foundit25')}</p></div>
       <div class="tr-v"><div class="vt"><span class="pill warn">Flat</span><span class="eyebrow">Testing jobs in India</span></div><span class="big">&lt;1%</span><p>Net growth in India’s pool of about 375,000 testing and QA professionals over the latest year, while IT services hiring was −2% to +6% month to month in 2026. ${trLink('xpheno')} · ${trLink('njs_jan26')}</p></div>
     </div>
@@ -3185,6 +3286,7 @@ document.addEventListener('change', async e => {
   if (el.dataset.rule) { settingsPatch({ alerts: { ...alertRules(), [el.dataset.rule]: el.checked } }); return; }
   switch (el.dataset.change) {
     case 'sort': S.sort = el.value; withTransition(render); break;
+    case 'tr-sel': S.trSel = el.value; render(); break;
     case 'minFit': setFilter(f => f.minFit = +el.value); break;
     case 'stage': await setStage(el.dataset.id, el.value); break;
     case 'findCo': S.findCo = el.value; render(); break;
