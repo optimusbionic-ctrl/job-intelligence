@@ -1,0 +1,20 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-12T14:27:31Z",
+  "evidence": [],
+  "first_checked_at": "2026-11-12T14:27:31Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "54391d7cdf",
+  "summary": "No public evidence yet about hiring from India.",
+  "verdict": "unclear"
+ },
+ "inferred": true,
+ "logo": "https://cdn.dribbble.com/userupload/49602832/file/99e7537c554cf0424976f1db146b8b91.png?resize=24x24",
+ "name": "AllFeams",
+ "slug": "allfeams",
+ "tier": 3
+}
