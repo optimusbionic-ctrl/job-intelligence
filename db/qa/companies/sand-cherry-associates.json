@@ -1,0 +1,32 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "domain": "sandcherryassociates.com",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-12T17:07:44Z",
+  "evidence": [
+   {
+    "detail": "candidates MUST reside in these areas and be authorized to work in the United States",
+    "kind": "posting",
+    "label": "Posting limits where candidates can live",
+    "url": "https://jobs.workable.com/view/dDJqgehKtyZc7coRhsMpS2/hybrid-lab-testing-qa-analyst-in-mount-airy-at-sand-cherry-associates",
+    "weight": -2
+   }
+  ],
+  "first_checked_at": "2026-11-12T17:07:44Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "4b86d47193",
+  "summary": "Posting limits where candidates can live: “candidates MUST reside in these areas and be authorized to work in the United States”",
+  "verdict": "no"
+ },
+ "inferred": true,
+ "logo": "https://workablehr.s3.amazonaws.com/uploads/account/logo/523772/logo",
+ "name": "Sand Cherry Associates",
+ "slug": "sand-cherry-associates",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}

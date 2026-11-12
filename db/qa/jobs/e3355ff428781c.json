@@ -1,5 +1,5 @@
 {
- "apply_url": "https://job-boards.greenhouse.io/akko/jobs/4607748005",
+ "apply_url": "https://job-boards.greenhouse.io/akko/jobs/4607753005",
  "board_apply": null,
  "category": "Fintech",
  "comp_potential": "unknown",
@@ -13,7 +13,7 @@
   "Reposted / refreshed listing — original posting is older"
  ],
  "contacts_count": 0,
- "content_hash": "7aee5770dfa6",
+ "content_hash": "afbeb52b5510",
  "date_quality": "exact",
  "deadline": "2026-12-16T11:18:19Z",
  "employment": "contract",
@@ -32,12 +32,12 @@
   "visa": false
  },
  "kind": "automation",
- "last_verified": "2026-11-12T16:06:20Z",
+ "last_verified": "2026-11-12T17:07:44Z",
  "location": "India",
  "logo": "https://cdn-images.himalayas.app/hnbqz8d7xt3u7dnr6ql9gympwycl",
  "needs_review": false,
  "official": true,
- "posted_at": "2025-09-10T21:36:20Z",
+ "posted_at": "2025-09-10T21:36:21Z",
  "repost": true,
  "requirements": [],
  "responsibilities": [],
@@ -58,12 +58,12 @@
  "sources": [
   {
    "id": "greenhouse",
-   "job_id": "gh:akko:4607748005",
+   "job_id": "gh:akko:4607753005",
    "kind": "ats",
    "name": "AKKO careers (Greenhouse)",
-   "posted_at": "2025-09-10T21:36:20Z",
-   "seen_at": "2026-11-12T16:06:20Z",
-   "url": "https://job-boards.greenhouse.io/akko/jobs/4607748005"
+   "posted_at": "2025-09-10T21:36:21Z",
+   "seen_at": "2026-11-12T17:07:44Z",
+   "url": "https://job-boards.greenhouse.io/akko/jobs/4607753005"
   },
   {
    "id": "himalayas",
@@ -71,7 +71,7 @@
    "kind": "board",
    "name": "Himalayas",
    "posted_at": "2026-10-17T11:18:20Z",
-   "seen_at": "2026-11-12T16:06:20Z",
+   "seen_at": "2026-11-12T17:07:44Z",
    "url": "https://himalayas.app/companies/akko/jobs/software-developer-in-test-sdet?utm_source=api"
   }
  ],
@@ -96,7 +96,7 @@
  ],
  "track": "software",
  "updated_at": "2026-10-17T11:18:20Z",
- "url": "https://job-boards.greenhouse.io/akko/jobs/4607748005",
+ "url": "https://job-boards.greenhouse.io/akko/jobs/4607753005",
  "why": [
   "Already on your resume: Regression testing, Smoke testing, Compatibility testing, Exploratory testing, Test cases & scenarios, Bug reporting",
   "Platforms you test on: Mobile apps",

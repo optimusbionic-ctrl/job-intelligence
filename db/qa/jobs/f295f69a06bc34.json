@@ -1,0 +1,126 @@
+{
+ "apply_url": null,
+ "board_apply": "https://jobs.workable.com/view/dDJqgehKtyZc7coRhsMpS2/hybrid-lab-testing-qa-analyst-in-mount-airy-at-sand-cherry-associates",
+ "category": "Other",
+ "comp_potential": "listed_global",
+ "company": "Sand Cherry Associates",
+ "company_slug": "sand-cherry-associates",
+ "concerns": [
+  "Requires relocation abroad",
+  "Listed range is for another country",
+  "Contract role"
+ ],
+ "contacts_count": 0,
+ "content_hash": "0914e183f09a",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "contract",
+ "first_seen": "2026-11-12T17:07:44Z",
+ "fit": 74,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "f295f69a06bc34",
+ "include_reason": "Manual / functional QA title",
+ "india": {
+  "cities": [],
+  "company": "no",
+  "reason": "Overseas office; mentions visa/relocation support",
+  "status": "relocation",
+  "visa": true
+ },
+ "kind": "manual-qa",
+ "last_verified": "2026-11-12T17:07:44Z",
+ "location": "Mount Airy, Maryland, United States",
+ "logo": "https://workablehr.s3.amazonaws.com/uploads/account/logo/523772/logo",
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-11-12T16:07:53Z",
+ "repost": false,
+ "requirements": [
+  "Previous QA or software/hardware testing experience in telecommunications, satellite, RF, video processing, or IP-based video distribution environments.",
+  "Experience developing test plans, test cases, acceptance criteria, and other QA documentation.",
+  "Ability to interpret engineering requirements and technical specifications and translate them into structured testing activities.",
+  "Experience validating test results, managing defects, and coordinating retesting efforts.",
+  "Familiarity with test management and defect tracking tools preferred.",
+  "Ability to work collaboratively with engineering and cross-functional technical teams."
+ ],
+ "responsibilities": [
+  "Develop and maintain test plans, test cases, acceptance criteria, and QA documentation based on engineering requirements and technical specifications.",
+  "Validate test coverage, execution results, technical specifications, and overall system readiness.",
+  "Track, document, and manage defects throughout the testing lifecycle, coordinating with engineering teams to support resolution.",
+  "Verify defect fixes through retesting and ensure all testing results are accurately documented.",
+  "Maintain test evidence, requirements traceability, quality metrics, and reporting to support system validation and acceptance.",
+  "Identify gaps in test coverage and recommend improvements to testing processes and quality standards.",
+  "Collaborate with engineering and technical teams to ensure testing activities meet project requirements and quality expectations."
+ ],
+ "salary": {
+  "applies_india": false,
+  "basis": "listed",
+  "currency": "USD",
+  "fx_at": "Thu, 12 Nov 2026 00:02:31 +0000",
+  "fx_rate": 93.8516,
+  "inr_max": 7977386,
+  "inr_min": 5161838,
+  "max": 85000,
+  "min": 55000,
+  "note": "Range listed for a non-India location",
+  "original_period": "annual",
+  "period": "annual",
+  "source_name": "Workable job marketplace",
+  "source_url": "https://jobs.workable.com/view/dDJqgehKtyZc7coRhsMpS2/hybrid-lab-testing-qa-analyst-in-mount-airy-at-sand-cherry-associates",
+  "state": "verified",
+  "verified_at": "2026-11-12T17:07:44Z"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 96,
+  "company": 66,
+  "location": 30,
+  "seniority": 84,
+  "skill": 93
+ },
+ "seniority": "unspecified",
+ "snippet": "Company Profile  \n\n At Sand Cherry Associates, we excel in the design and delivery of strategic customer-centric initiatives through digitally native, data-empowered solutions.  Our client’s confidence in us is centered on exceptionally skilled, high-energy talent working with the support of the full Sand Cherry team.  Finding the right match for this role is a critical aspect of continuing that success.   \n\n Overvie",
+ "source_primary": "Workable job marketplace",
+ "sources": [
+  {
+   "id": "workable",
+   "job_id": "6672531a-da62-4ee6-aa67-677f3f417479",
+   "kind": "board",
+   "name": "Workable job marketplace",
+   "posted_at": "2026-11-12T16:07:53Z",
+   "seen_at": "2026-11-12T17:07:44Z",
+   "url": "https://jobs.workable.com/view/dDJqgehKtyZc7coRhsMpS2/hybrid-lab-testing-qa-analyst-in-mount-airy-at-sand-cherry-associates"
+  },
+  {
+   "id": "workable",
+   "job_id": "11869824-270b-4a3a-b836-63db3d6066c1",
+   "kind": "board",
+   "name": "Workable job marketplace",
+   "posted_at": "2026-11-12T16:07:53Z",
+   "seen_at": "2026-11-12T17:07:44Z",
+   "url": "https://jobs.workable.com/view/3awdGkKHQPWBcocw162cTP/hybrid-lab-testing-qa-analyst-in-brewster-at-sand-cherry-associates"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 3,
+ "title": "Lab Testing QA Analyst",
+ "tools": [
+  "Test cases & scenarios",
+  "Bug reporting",
+  "Google Sheets / Excel"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://jobs.workable.com/view/dDJqgehKtyZc7coRhsMpS2/hybrid-lab-testing-qa-analyst-in-mount-airy-at-sand-cherry-associates",
+ "why": [
+  "Manual / functional QA — the core of your resume",
+  "Already on your resume: Test cases & scenarios, Bug reporting, Google Sheets / Excel",
+  "Pay is listed in the posting"
+ ],
+ "work_mode": "hybrid",
+ "years_max": null,
+ "years_min": null
+}
