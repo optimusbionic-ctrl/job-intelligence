@@ -3,20 +3,20 @@
  "classification": "Inferred from job description",
  "india_hiring": {
   "board": null,
-  "changed_at": "2026-11-12T17:07:44Z",
+  "changed_at": "2026-11-12T20:55:10Z",
   "evidence": [
    {
-    "detail": "QA Automation Engineer (AI/Agentic Testing) (Delhi) — Delhi, India",
+    "detail": "QA Automation Engineer (AI/Agentic Testing) (Noida) — Noida, India",
     "kind": "posting",
     "label": "A current posting lists India as a location",
-    "url": "https://www.shine.com/jobs/qa-automation-engineer-ai-agentic-testing-delhi/tekskills/20052913",
+    "url": "https://www.shine.com/jobs/qa-automation-engineer-ai-agentic-testing-noida/tekskills/19885807",
     "weight": 5
    }
   ],
   "first_checked_at": "2026-10-23T14:44:10Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "6ce0611d94",
+  "sig": "3746a5e744",
   "summary": "A current posting lists India as a location.",
   "verdict": "yes"
  },
