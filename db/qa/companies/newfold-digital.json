@@ -3,20 +3,20 @@
  "classification": "Inferred from job description",
  "india_hiring": {
   "board": null,
-  "changed_at": "2026-11-12T18:48:22Z",
+  "changed_at": "2026-11-12T18:59:18Z",
   "evidence": [
    {
-    "detail": "Software Development Engineer in Test - AI — India",
+    "detail": "AI - Software Development Engineer in Test (AI - SDET) — Argentina, India",
     "kind": "posting",
     "label": "A current posting lists India as a location",
-    "url": "https://himalayas.app/companies/newfold-digital/jobs/software-development-engineer-in-test-ai?utm_source=api",
+    "url": "https://himalayas.app/companies/newfold-digital/jobs/ai-software-development-engineer-in-test-ai-sdet?utm_source=api",
     "weight": 5
    }
   ],
   "first_checked_at": "2026-11-07T12:54:00Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "42371c8f87",
+  "sig": "623cbfaa06",
   "summary": "A current posting lists India as a location.",
   "verdict": "yes"
  },

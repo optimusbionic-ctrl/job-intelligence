@@ -37,8 +37,8 @@
     }
    ],
    "open_samples": [],
-   "remote": 17,
-   "restricted_remote": 17,
+   "remote": 18,
+   "restricted_remote": 18,
    "restricted_samples": [
     {
      "location": "Virtual - United States",
@@ -51,28 +51,28 @@
      "url": "https://jobs.ashbyhq.com/Tekion/3e72a436-859b-47d9-8911-c53245aadbf5"
     },
     {
+     "location": "Virtual - California (Bay Area)",
+     "title": "Account Solutions Architect I",
+     "url": "https://jobs.ashbyhq.com/Tekion/0c9474b3-8763-4eef-9a0b-20fda60f7a33"
+    },
+    {
      "location": "Virtual - United States",
      "title": "Automotive Emerging Product Enablement Lead ",
      "url": "https://jobs.ashbyhq.com/Tekion/15f53638-7d07-4833-9bc6-ee5a4eacfe30"
-    },
-    {
-     "location": "Virtual - Texas",
-     "title": "Customer Value Architect (Retail, CRM, Accounting, Fixed, Analytics)",
-     "url": "https://jobs.ashbyhq.com/Tekion/efe15c5d-721b-4f57-bf11-4d6872a84d09"
     }
    ],
    "slug": "tekion",
-   "total": 91,
+   "total": 92,
    "type": "ashby",
    "url": "https://jobs.ashbyhq.com/tekion",
    "worldwide": 0
   },
-  "changed_at": "2026-11-11T21:38:26Z",
+  "changed_at": "2026-11-12T19:02:32Z",
   "evidence": [
    {
     "detail": "Architect, Software Engineering - Frontend - Integration  (Bangalore HQ); Architect, Software Engineering - Integration  (Bangalore HQ); Associate Principal Graphic Designer (Bangalore HQ)",
     "kind": "board",
-    "label": "66 of 91 open roles are located in India",
+    "label": "66 of 92 open roles are located in India",
     "url": "https://jobs.ashbyhq.com/tekion",
     "weight": 5
    },
@@ -87,8 +87,8 @@
   "first_checked_at": "2026-11-10T21:34:53Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "2ec98e1827",
-  "summary": "66 of 91 open roles are located in India.",
+  "sig": "b06f42ff3e",
+  "summary": "66 of 92 open roles are located in India.",
   "verdict": "yes"
  },
  "inferred": true,
