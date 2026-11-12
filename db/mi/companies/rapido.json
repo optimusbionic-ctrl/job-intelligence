@@ -1,0 +1,27 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-12T21:33:56Z",
+  "evidence": [
+   {
+    "detail": "Motion Designer — Bengaluru, Karnataka, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://outscal.com/job/motion-designer-at-rapido-in-bengaluru-karnataka-india-1",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-12T21:33:56Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "8c0669a54c",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Rapido",
+ "slug": "rapido",
+ "tier": 3
+}

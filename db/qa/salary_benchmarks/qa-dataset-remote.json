@@ -1,13 +1,13 @@
 {
- "avg": 6945019,
+ "avg": 6115277,
  "basis": "Interquartile range of posting midpoints, converted to INR at today's rate",
  "currency": "INR",
  "high": 8915902,
  "id": "qa-dataset-remote",
  "label": "Disclosed pay on remote QA postings (any region, this dataset)",
- "low": 3389594,
+ "low": 2920266,
  "market": "Remote (global)",
- "n": 8,
+ "n": 9,
  "retrieved_at": "2026-11-12",
  "samples": [
   {
@@ -27,6 +27,15 @@
    "min": 84000,
    "title": "Manual Tester with Linux (QA team)",
    "url": "https://himalayas.app/companies/storware-sp-z-o-o/jobs/manual-tester-with-linux-qa-team?utm_source=api"
+  },
+  {
+   "company": "TECDATA ENGINEERING",
+   "currency": "EUR",
+   "location": "Spain",
+   "max": 28000,
+   "min": 28000,
+   "title": "QA Tester / Analista Funcional",
+   "url": "https://himalayas.app/companies/tecdata-engineering/jobs/qa-tester-analista-funcional?utm_source=api"
   },
   {
    "company": "Bloomreach",

@@ -3,20 +3,20 @@
  "classification": "Inferred from job description",
  "india_hiring": {
   "board": null,
-  "changed_at": "2026-11-12T20:55:10Z",
+  "changed_at": "2026-11-12T21:32:34Z",
   "evidence": [
    {
-    "detail": "Test Engineer  Wealth Operations | 26 Years | Mumbai | Manual Testing — Mumbai City, India",
+    "detail": "Software Tester  Capital Markets — Mumbai City, India",
     "kind": "posting",
     "label": "A current posting lists India as a location",
-    "url": "https://www.shine.com/jobs/test-engineer-wealth-operations-years-mumbai-manual-testing/aqm-technologies/19556737",
+    "url": "https://www.shine.com/jobs/software-tester-capital-markets/aqm-technologies/19864301",
     "weight": 5
    }
   ],
   "first_checked_at": "2026-10-19T13:24:59Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "73834466ea",
+  "sig": "c16029a1a2",
   "summary": "A current posting lists India as a location.",
   "verdict": "yes"
  },

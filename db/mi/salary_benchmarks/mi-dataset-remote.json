@@ -1,15 +1,24 @@
 {
- "avg": 11758714,
+ "avg": 11262192,
  "basis": "Interquartile range of posting midpoints, converted to INR at today's rate",
  "currency": "INR",
- "high": 22055127,
+ "high": 18301063,
  "id": "mi-dataset-remote",
  "label": "Disclosed pay on remote motion-design postings (any region, this dataset)",
- "low": 9385160,
+ "low": 9009754,
  "market": "Remote (global)",
- "n": 11,
+ "n": 14,
  "retrieved_at": "2026-11-12",
  "samples": [
+  {
+   "company": "Rankings.io",
+   "currency": "USD",
+   "location": "Anguilla, Antigua and Barbuda, Argentina, Aruba, Bahamas, Barbados, Belize, Bermuda, Bolivia, Bonaire, Sint Eustatius and Saba, Brazil, Cayman Islands, Chile, Colombia, Costa Rica, Cuba, Dominica, Dominican Republic, Ecuador, El Salvador, Falkland Islands (Malvinas), Grenada, Guatemala, Guyana, Haiti, Honduras, Jamaica, Mexico, Montserrat, Nicaragua, Panama, Paraguay, Peru, Puerto Rico, Saint Kitts and Nevis, Saint Lucia, Saint Vincent and the Grenadines, South Georgia and the South Sandwich Islands, Suriname, Trinidad and Tobago, Turks and Caicos Islands, Uruguay, Venezuela, Virgin Islands, British, Virgin Islands, U.S.",
+   "max": 42000,
+   "min": 30000,
+   "title": "Sr. Video Editor & Motion Designer – AI Workflows (Remote, LATAM)",
+   "url": "https://himalayas.app/companies/rankings-io/jobs/sr-video-editor-motion-designer-ai-workflows-remote-latam?utm_source=api"
+  },
   {
    "company": "Wpromote",
    "currency": "USD",
@@ -18,6 +27,15 @@
    "min": 74000,
    "title": "Digital & Motion Designer",
    "url": "https://jobicy.com/jobs/154789-digital-motion-designer-2"
+  },
+  {
+   "company": "Affirm",
+   "currency": "CAD",
+   "location": "Canada",
+   "max": 151000,
+   "min": 101000,
+   "title": "Visual Designer II",
+   "url": "https://himalayas.app/companies/affirm/jobs/visual-designer-ii?utm_source=api"
   },
   {
    "company": "College Board",
@@ -63,6 +81,15 @@
    "min": 81921,
    "title": "Motion Designer, PPM SMB",
    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8268342"
+  },
+  {
+   "company": "Huckleberry Labs",
+   "currency": "USD",
+   "location": "United States",
+   "max": 160000,
+   "min": 135000,
+   "title": "Senior Brand Designer",
+   "url": "https://himalayas.app/companies/huckleberry-labs/jobs/senior-brand-designer?utm_source=api"
   },
   {
    "company": "Perplexity",

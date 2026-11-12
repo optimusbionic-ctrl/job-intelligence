@@ -526,6 +526,10 @@
    "at": "2026-11-10T21:34:53Z",
    "ats": null
   },
+  "rapido": {
+   "at": "2026-11-12T21:33:56Z",
+   "ats": null
+  },
   "realatte": {
    "at": "2026-11-03T21:56:26Z",
    "ats": null
@@ -710,8 +714,8 @@
  },
  "counts": {
   "closed": 19,
-  "live": 34,
+  "live": 35,
   "stale": 152
  },
- "updated_at": "2026-11-12T21:02:03Z"
+ "updated_at": "2026-11-12T21:35:21Z"
 }
