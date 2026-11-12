@@ -1,8 +1,8 @@
 {
  "alerts_count": 0,
- "changed_count": 3,
- "closed_count": 12,
- "duration_s": 98.2,
+ "changed_count": 14,
+ "closed_count": 11,
+ "duration_s": 99.6,
  "enrichment": {
   "careers_emails": 0,
   "dates_estimated": 0,
@@ -13,22 +13,21 @@
  "excluded_counts": {
   "AI training / data labelling": 1,
   "Asks for 10+ years": 3,
-  "Asks for 18+ years": 1,
-  "Asks for 5+ years": 21,
+  "Asks for 5+ years": 23,
   "Asks for 6+ years": 23,
   "Asks for 7+ years": 6,
   "Asks for 8+ years": 3,
   "Call-centre / process quality role": 4,
-  "Data / ETL testing (SQL-heavy)": 3,
+  "Data / ETL testing (SQL-heavy)": 5,
   "Hardware / embedded testing": 7,
   "Internship / trainee": 10,
-  "Needs a language other than English or Hindi": 31,
-  "Not open to India": 87,
+  "Needs a language other than English or Hindi": 29,
+  "Not open to India": 91,
   "Not software QA (manufacturing, pharma, construction…)": 15,
-  "Older than window": 131,
+  "Older than window": 126,
   "Security / penetration testing": 1,
-  "Senior / lead level": 119,
-  "Staffing agency listing — employer not identified": 3,
+  "Senior / lead level": 123,
+  "Staffing agency listing — employer not identified": 4,
   "Support role": 3
  },
  "excluded_samples": [
@@ -103,13 +102,6 @@
    "url": "https://www.shine.com/jobs/qa-engineer/reis-staffing-hr-services-pvt-ltd/20000000"
   },
   {
-   "company": "Vishwa karma",
-   "reason": "Not software QA (manufacturing, pharma, construction…)",
-   "source": "Shine.com",
-   "title": "QA Consultant",
-   "url": "https://www.shine.com/jobs/qa-consultant/vishwa-karma/19934830"
-  },
-  {
    "company": "Quality Kiosk Software Llp",
    "reason": "Senior / lead level",
    "source": "Shine.com",
@@ -143,13 +135,6 @@
    "source": "Shine.com",
    "title": "Senior Software Testing Engineer",
    "url": "https://www.shine.com/jobs/senior-software-testing-engineer/sky-shine-edge/19971343"
-  },
-  {
-   "company": "Shine Demo Account",
-   "reason": "Senior / lead level",
-   "source": "Shine.com",
-   "title": "Senior Tester",
-   "url": "https://www.shine.com/jobs/senior-tester/shine-demo-account/19932223"
   },
   {
    "company": "Shine.com",
@@ -243,11 +228,11 @@
    "url": "https://www.shine.com/jobs/architect-quality-engineering-pune/recognized/20036781"
   },
   {
-   "company": "Right Advisors Private Limited",
-   "reason": "Not software QA (manufacturing, pharma, construction…)",
+   "company": "CAREERGUIDE",
+   "reason": "Asks for 5+ years",
    "source": "Shine.com",
-   "title": "Civil QA/QC Engineer",
-   "url": "https://www.shine.com/jobs/civil-qa-qc-engineer/right-advisors-private-limited/20016643"
+   "title": "QA Engineer",
+   "url": "https://www.shine.com/jobs/qa-engineer/careerguide/19986863"
   },
   {
    "company": "RAJPUT PROTECTION SERVICE PRIVATE LIMITED",
@@ -304,6 +289,13 @@
    "source": "Shine.com",
    "title": "Automation Test Engineer",
    "url": "https://www.shine.com/jobs/automation-test-engineer/harjai-computers-private-limited/19974041"
+  },
+  {
+   "company": "Vishwa karma",
+   "reason": "Not software QA (manufacturing, pharma, construction…)",
+   "source": "Shine.com",
+   "title": "QA Consultant",
+   "url": "https://www.shine.com/jobs/qa-consultant/vishwa-karma/19934830"
   },
   {
    "company": "PureSoftware",
@@ -381,13 +373,6 @@
    "source": "Shine.com",
    "title": "SFDC QA",
    "url": "https://www.shine.com/jobs/sfdc-qa/virtusa/19795567"
-  },
-  {
-   "company": "BRAINWORKS BUSINESS SOLUTIONS PRIVATE LIMITED",
-   "reason": "Asks for 5+ years",
-   "source": "Shine.com",
-   "title": "Quality Assurance Tester",
-   "url": "https://www.shine.com/jobs/quality-assurance-tester/brainworks-business-solutions-private-limited/19933801"
   },
   {
    "company": "INTELLICS GLOBAL SERVICES PRIVATE LIMITED",
@@ -502,6 +487,13 @@
    "url": "https://jobs.workable.com/view/vxR8hP6utB8L6mbM7cNGnp/remote-senior-qa-automation-engineer-in-india-at-crop.photo"
   },
   {
+   "company": "Zyte",
+   "reason": "Data / ETL testing (SQL-heavy)",
+   "source": "Workable job marketplace",
+   "title": "Data QA Engineer - Remote",
+   "url": "https://jobs.workable.com/view/pwYmTmSgAcMs8njEoKTZiB/data-qa-engineer---remote-in-bengaluru-at-zyte"
+  },
+  {
    "company": "Anaqua",
    "reason": "Asks for 5+ years",
    "source": "Workable job marketplace",
@@ -551,11 +543,11 @@
    "url": "https://jobs.workable.com/view/mAvwEUCyzBw7xA6Z8P4ks6/qa-automation-3%2F-sdet3-in-gurugram-at-weekday-ai"
   },
   {
-   "company": "D2R AI LABS",
+   "company": "LRN Corporation",
    "reason": "Senior / lead level",
    "source": "Workable job marketplace",
-   "title": "Lead QA",
-   "url": "https://jobs.workable.com/view/3iTNkG9iB6vgUFCrWafksh/hybrid-lead-qa-in-chennai-at-d2r-ai-labs"
+   "title": "Director- Content QA (E Learning)",
+   "url": "https://jobs.workable.com/view/8WgGmbRRz5szZe5xaAGSLK/director--content-qa-(e-learning)-in-mumbai-at-lrn-corporation"
   },
   {
    "company": "SAP Fioneer",
@@ -570,6 +562,13 @@
    "source": "Workable job marketplace",
    "title": "Deputy Manager - Quality Assurance Operations",
    "url": "https://jobs.workable.com/view/hHfVnV6vDJhnLqx12JoRSH/deputy-manager---quality-assurance-operations-in-taunsa-at-centrient-pharmaceuticals-netherlands"
+  },
+  {
+   "company": "Weekday AI",
+   "reason": "Senior / lead level",
+   "source": "Workable job marketplace",
+   "title": "Director Quality Engineering",
+   "url": "https://jobs.workable.com/view/2f3AEXGLJnuBbj2NvEACLG/director-quality-engineering-in-bengaluru-at-weekday-ai"
   },
   {
    "company": "Unison Group",
@@ -605,6 +604,13 @@
    "source": "Workable job marketplace",
    "title": "Trainee Test Engineer (HYD)",
    "url": "https://jobs.workable.com/view/qK5fU9YkY9tZSv7zXW9qge/trainee-test-engineer-(hyd)-in-hyderabad-at-side"
+  },
+  {
+   "company": "Weekday AI",
+   "reason": "Senior / lead level",
+   "source": "Workable job marketplace",
+   "title": "Senior Test Automation Engineer",
+   "url": "https://jobs.workable.com/view/9ufcMVdsYScpq95V8FpTgu/senior-test-automation-engineer-in-chennai-at-weekday-ai"
   },
   {
    "company": "Unison Group",
@@ -684,6 +690,13 @@
    "url": "https://jobs.workable.com/view/pq9WTJntkottLZ3xVGuU5G/remote-community-game-tester-(paid%2C-on-call)-in-japan-at-keywords-studios"
   },
   {
+   "company": "Risco Group",
+   "reason": "Not open to India: On-site outside India (Plovdiv, Plovdiv Province, Bulgaria), no sponsorship stated",
+   "source": "Workable job marketplace",
+   "title": "QA Tester for IP Cameras & NVR Systems",
+   "url": "https://jobs.workable.com/view/3nMtthrPJCYYpWUuDP37PP/qa-tester-for-ip-cameras-%26-nvr-systems-in-plovdiv-at-risco-group"
+  },
+  {
    "company": "Side",
    "reason": "Needs a language other than English or Hindi",
    "source": "Workable job marketplace",
@@ -698,25 +711,25 @@
    "url": "https://jobs.workable.com/view/bk5SW541YU9wJ3H9ryqFeX/lqa-game-tester-(turkish)---freelance-remote-in-braga-at-side"
   },
   {
-   "company": "Risco Group",
-   "reason": "Not open to India: On-site outside India (Plovdiv, Plovdiv Province, Bulgaria), no sponsorship stated",
-   "source": "Workable job marketplace",
-   "title": "QA Tester for IP Cameras & NVR Systems",
-   "url": "https://jobs.workable.com/view/3nMtthrPJCYYpWUuDP37PP/qa-tester-for-ip-cameras-%26-nvr-systems-in-plovdiv-at-risco-group"
-  },
-  {
-   "company": "Testronic",
-   "reason": "Needs a language other than English or Hindi",
-   "source": "Workable job marketplace",
-   "title": "LQA Game Tester with Brazilian-Portuguese",
-   "url": "https://jobs.workable.com/view/98iHB2BF8cFJXXT92pD1Gk/lqa-game-tester-with-brazilian-portuguese-in-warsaw-at-testronic"
-  },
-  {
    "company": "Genetec",
    "reason": "Not open to India: On-site outside India (Montreal, Quebec, Canada), no sponsorship stated",
    "source": "Workable job marketplace",
    "title": "Testeur(euse) logiciel / Software Tester - Appliances Platform (Edge OS)",
    "url": "https://jobs.workable.com/view/8Y81Qt2fr7qRU3k1tWTWVZ/hybrid-testeur(euse)-logiciel-%2F-software-tester---appliances-platform-(edge-os)-in-montreal-at-genetec"
+  },
+  {
+   "company": "Tecsys Inc.",
+   "reason": "Not open to India: On-site outside India (Montreal, Quebec, Canada), no sponsorship stated",
+   "source": "Workable job marketplace",
+   "title": "QA Analyst",
+   "url": "https://jobs.workable.com/view/5wJUmc9tPJcSctVCK95dqA/hybrid-qa-analyst-in-montreal-at-tecsys-inc."
+  },
+  {
+   "company": "HICX",
+   "reason": "Not open to India: Restricted to Romania",
+   "source": "Workable job marketplace",
+   "title": "QA Analyst",
+   "url": "https://jobs.workable.com/view/tCxRrPppLHpximKmFsFeQk/remote-qa-analyst-in-bucharest-at-hicx"
   },
   {
    "company": "Maharah Human Resources Company",
@@ -733,25 +746,39 @@
    "url": "https://jobs.workable.com/view/dukASQiRmmoxeBKC7uLn8f/junior-qa-engineer-in-athens-at-sword-services-greece-s.a."
   },
   {
-   "company": "EUROPEAN DYNAMICS",
-   "reason": "Not open to India: On-site outside India (Athens, Attica, Greece), no sponsorship stated",
-   "source": "Workable job marketplace",
-   "title": "Software Tester",
-   "url": "https://jobs.workable.com/view/w8FTvoC1fUbsKngKhgW9wp/software-tester-in-athens-at-european-dynamics"
-  },
-  {
-   "company": "EUROPEAN DYNAMICS",
-   "reason": "Needs a language other than English or Hindi",
-   "source": "Workable job marketplace",
-   "title": "Software Tester/ Junior IT Consultant fluent in German",
-   "url": "https://jobs.workable.com/view/sPFyoERE4YyWKTpTmV15Qe/remote-software-tester%2F-junior-it-consultant-fluent-in-german-in-cyprus-at-european-dynamics"
-  },
-  {
    "company": "Murray Company Mechanical Contractors",
    "reason": "Not software QA (manufacturing, pharma, construction…)",
    "source": "Workable job marketplace",
    "title": "QA/QC Manager - Process Piping",
    "url": "https://jobs.workable.com/view/ccvt3GeAuDbAodMRztFZSi/qa%2Fqc-manager---process-piping-in-san-leandro-at-murray-company-mechanical-contractors"
+  },
+  {
+   "company": "Zyte",
+   "reason": "Data / ETL testing (SQL-heavy)",
+   "source": "Workable job marketplace",
+   "title": "Data QA Engineer - Remote",
+   "url": "https://jobs.workable.com/view/bHGNQPXmDmzUpycgqqyEqJ/data-qa-engineer---remote-in-lahore-at-zyte"
+  },
+  {
+   "company": "Bionic Services Ltd",
+   "reason": "Not open to India: On-site outside India (London, England, United Kingdom), no sponsorship stated",
+   "source": "Workable job marketplace",
+   "title": "Mid-Level QA Engineer",
+   "url": "https://jobs.workable.com/view/i1oJW1tzvJSxcamoJVY9f1/hybrid-mid-level-qa-engineer-in-london-at-bionic-services-ltd"
+  },
+  {
+   "company": "ITRex Group",
+   "reason": "Not open to India: Restricted to Serbia",
+   "source": "Workable job marketplace",
+   "title": "QA Engineer",
+   "url": "https://jobs.workable.com/view/xiomsKwpFc9vwcgZZ6eDtG/remote-qa-engineer-in-serbia-at-itrex-group"
+  },
+  {
+   "company": "ITRex Group",
+   "reason": "Not open to India: Restricted to Poland",
+   "source": "Workable job marketplace",
+   "title": "QA Engineer",
+   "url": "https://jobs.workable.com/view/ih8TjkEZoekozewCUUT8KH/remote-qa-engineer-in-poland-at-itrex-group"
   },
   {
    "company": "Emerging Travel Group",
@@ -782,11 +809,18 @@
    "url": "https://jobs.workable.com/view/uDXxQgC7MupVz6hGHB3YRJ/associate-qa-engineer-in-rawalpindi-at-9d-technologies"
   },
   {
-   "company": "Hyprwork",
-   "reason": "Not software QA (manufacturing, pharma, construction…)",
+   "company": "EUROPEAN DYNAMICS",
+   "reason": "Not open to India: On-site outside India (Athens, Attica, Greece), no sponsorship stated",
    "source": "Workable job marketplace",
-   "title": "QA Team Lead, Customer Experience",
-   "url": "https://jobs.workable.com/view/mXopoYbbhboGZysXAuE3NA/remote-qa-team-lead%2C-customer-experience-in-peru-at-hyprwork"
+   "title": "Software Tester",
+   "url": "https://jobs.workable.com/view/w8FTvoC1fUbsKngKhgW9wp/software-tester-in-athens-at-european-dynamics"
+  },
+  {
+   "company": "EUROPEAN DYNAMICS",
+   "reason": "Needs a language other than English or Hindi",
+   "source": "Workable job marketplace",
+   "title": "Software Tester/ Junior IT Consultant fluent in German",
+   "url": "https://jobs.workable.com/view/sPFyoERE4YyWKTpTmV15Qe/remote-software-tester%2F-junior-it-consultant-fluent-in-german-in-cyprus-at-european-dynamics"
   },
   {
    "company": "EUROPEAN DYNAMICS",
@@ -866,20 +900,6 @@
    "url": "https://jobs.workable.com/view/4P9sZR226LqsurPn4BrrSy/hybrid-qa-test-engineer-in-new-york-at-ta"
   },
   {
-   "company": "EUROPEAN DYNAMICS",
-   "reason": "Needs a language other than English or Hindi",
-   "source": "Workable job marketplace",
-   "title": "Software Test Automation Engineer with German",
-   "url": "https://jobs.workable.com/view/gkcnQZ3DG1oUrBQ243TK7K/remote-software-test-automation-engineer-with-german-in-thessaloniki-at-european-dynamics"
-  },
-  {
-   "company": "Advansys",
-   "reason": "Not open to India: On-site outside India (Nasr City, Al Manteqah Al Oula, Egypt), no sponsorship stated",
-   "source": "Workable job marketplace",
-   "title": "Junior Software Tester",
-   "url": "https://jobs.workable.com/view/vWcMTP5CMZ113YgSzUQF3o/hybrid-junior-software-tester-in-nasr-city-at-advansys"
-  },
-  {
    "company": "FuturLab Ltd",
    "reason": "Senior / lead level",
    "source": "Workable job marketplace",
@@ -894,18 +914,60 @@
    "url": "https://jobs.workable.com/view/r7xf5w3mhJNTwNtxpncUG4/associate-test-lead---gaming-qa-in-mandaluyong-city-at-testronic"
   },
   {
-   "company": "Allshore",
-   "reason": "Not open to India: Restricted to Colombia",
-   "source": "Workable job marketplace",
-   "title": "QA Automation Engineer",
-   "url": "https://jobs.workable.com/view/h72YHVWcS3vV74jnbp5tM2/remote-qa-automation-engineer-in-colombia-at-allshore"
-  },
-  {
-   "company": "Meraki Integrated Contracting LLC",
+   "company": "EC Electric",
    "reason": "Not software QA (manufacturing, pharma, construction…)",
    "source": "Workable job marketplace",
-   "title": "Facade QA/QC Engineer",
-   "url": "https://jobs.workable.com/view/x6Tor4zUh6HvhEujVecCho/facade-qa%2Fqc-engineer-in-dubai-at-meraki-integrated-contracting-llc"
+   "title": "QA/QC Specialist",
+   "url": "https://jobs.workable.com/view/vcXAbarjJEre8418UwQNhG/qa%2Fqc-specialist-in-boise-at-ec-electric"
+  },
+  {
+   "company": "BlackStone eIT",
+   "reason": "Not software QA (manufacturing, pharma, construction…)",
+   "source": "Workable job marketplace",
+   "title": "QA/QC Engineer",
+   "url": "https://jobs.workable.com/view/1tUCyBgVak61iD2yu3Yuvb/qa%2Fqc-engineer-in-abu-dhabi-at-blackstone-eit"
+  },
+  {
+   "company": "Symphony Solutions",
+   "reason": "Senior / lead level",
+   "source": "Workable job marketplace",
+   "title": "Senior QA Automation Engineer",
+   "url": "https://jobs.workable.com/view/b412tJw2zAAmQnWsdJKCPp/remote-senior-qa-automation-engineer-in-turkey-at-symphony-solutions"
+  },
+  {
+   "company": "Symphony Solutions",
+   "reason": "Senior / lead level",
+   "source": "Workable job marketplace",
+   "title": "Senior QA Automation Engineer",
+   "url": "https://jobs.workable.com/view/5JY2eJVtn6nLcG255RxYzC/remote-senior-qa-automation-engineer-in-albania-at-symphony-solutions"
+  },
+  {
+   "company": "Symphony Solutions",
+   "reason": "Senior / lead level",
+   "source": "Workable job marketplace",
+   "title": "Senior QA Automation Engineer",
+   "url": "https://jobs.workable.com/view/2w6s37P3xcs9x9uJeW2iot/remote-senior-qa-automation-engineer-in-north-macedonia-at-symphony-solutions"
+  },
+  {
+   "company": "Symphony Solutions",
+   "reason": "Senior / lead level",
+   "source": "Workable job marketplace",
+   "title": "Senior QA Automation Engineer",
+   "url": "https://jobs.workable.com/view/9WLifiBrrWXvadgfDQoJYF/remote-senior-qa-automation-engineer-in-bulgaria-at-symphony-solutions"
+  },
+  {
+   "company": "Symphony Solutions",
+   "reason": "Senior / lead level",
+   "source": "Workable job marketplace",
+   "title": "Senior QA Automation Engineer",
+   "url": "https://jobs.workable.com/view/35BHQfgWbxxxjwapekJn2G/remote-senior-qa-automation-engineer-in-ukraine-at-symphony-solutions"
+  },
+  {
+   "company": "Symphony Solutions",
+   "reason": "Senior / lead level",
+   "source": "Workable job marketplace",
+   "title": "Senior QA Automation Engineer",
+   "url": "https://jobs.workable.com/view/xgJwAqpM8z65AY2YWNosUp/remote-senior-qa-automation-engineer-in-poland-at-symphony-solutions"
   },
   {
    "company": "Vrinda International",
@@ -1202,6 +1264,20 @@
    "url": "https://himalayas.app/companies/paralucent/jobs/qa-analyst-software-tester-tier-2-support-release-defect-validation-pl?utm_source=api"
   },
   {
+   "company": "Crop.photo",
+   "reason": "Senior / lead level",
+   "source": "Himalayas",
+   "title": "Senior QA Automation Engineer",
+   "url": "https://himalayas.app/companies/crop-photo/jobs/senior-qa-automation-engineer-3441727937?utm_source=api"
+  },
+  {
+   "company": "Steer Health",
+   "reason": "Senior / lead level",
+   "source": "Himalayas",
+   "title": "Senior QA Engineer",
+   "url": "https://himalayas.app/companies/steer-health/jobs/senior-qa-engineer?utm_source=api"
+  },
+  {
    "company": "Fello",
    "reason": "Senior / lead level",
    "source": "Himalayas",
@@ -1354,137 +1430,60 @@
    "source": "Himalayas",
    "title": "Salesforce QA Lead",
    "url": "https://himalayas.app/companies/felsen-software-solutions/jobs/salesforce-qa-lead?utm_source=api"
-  },
-  {
-   "company": "Zyte",
-   "reason": "Data / ETL testing (SQL-heavy)",
-   "source": "Himalayas",
-   "title": "Data QA Engineer - Remote",
-   "url": "https://himalayas.app/companies/zyte/jobs/data-qa-engineer-remote?utm_source=api"
-  },
-  {
-   "company": "Spotter Labs",
-   "reason": "Senior / lead level",
-   "source": "Himalayas",
-   "title": "Quality Assurance Engineer -- Junior Product Manager | AI / Trucking",
-   "url": "https://himalayas.app/companies/spotter-labs/jobs/quality-assurance-engineer-junior-product-manager-ai-trucking-8479776582?utm_source=api"
-  },
-  {
-   "company": "CAMP Systems",
-   "reason": "Senior / lead level",
-   "source": "Himalayas",
-   "title": "Senior Quality Assurance Engineer",
-   "url": "https://himalayas.app/companies/camp-systems/jobs/senior-quality-assurance-engineer?utm_source=api"
-  },
-  {
-   "company": "Integrate",
-   "reason": "Senior / lead level",
-   "source": "Himalayas",
-   "title": "Associate Technical Lead, QA",
-   "url": "https://himalayas.app/companies/integrate/jobs/associate-technical-lead-qa?utm_source=api"
-  },
-  {
-   "company": "PradeepIT Consulting Services Pvt Ltd",
-   "reason": "Asks for 6+ years",
-   "source": "Himalayas",
-   "title": "Automation QA Engineer",
-   "url": "https://himalayas.app/companies/pradeepit-consulting-services-pvt-ltd/jobs/automation-qa-engineer?utm_source=api"
-  },
-  {
-   "company": "PradeepIT Consulting Services Pvt Ltd",
-   "reason": "Senior / lead level",
-   "source": "Himalayas",
-   "title": "Senior Quality Engineer",
-   "url": "https://himalayas.app/companies/pradeepit-consulting-services-pvt-ltd/jobs/senior-quality-engineer?utm_source=api"
-  },
-  {
-   "company": "Drivetrain",
-   "reason": "Internship / trainee",
-   "source": "Himalayas",
-   "title": "Quality Assurance Engineering (QAE) - Intern",
-   "url": "https://himalayas.app/companies/drivetrain/jobs/quality-assurance-engineering-qae-intern?utm_source=api"
-  },
-  {
-   "company": "Drivetrain",
-   "reason": "Senior / lead level",
-   "source": "Himalayas",
-   "title": "Lead - Software Development Engineer in Test (SDET) /  QA Manager",
-   "url": "https://himalayas.app/companies/drivetrain/jobs/lead-software-development-engineer-in-test-sdet-qa-manager?utm_source=api"
-  },
-  {
-   "company": "InTalent Asia",
-   "reason": "Senior / lead level",
-   "source": "Himalayas",
-   "title": "Senior QA Engineer – Remote (Asia Pacific)",
-   "url": "https://himalayas.app/companies/intalentglobal/jobs/senior-qa-engineer-remote-asia-pacific?utm_source=api"
-  },
-  {
-   "company": "Parexel",
-   "reason": "Senior / lead level",
-   "source": "Himalayas",
-   "title": "Senior Salesforce Functional Analyst(QA)",
-   "url": "https://himalayas.app/companies/parexel/jobs/senior-salesforce-functional-analyst-qa?utm_source=api"
-  },
-  {
-   "company": "Cloud Counselage Pvt Ltd",
-   "reason": "Internship / trainee",
-   "source": "Himalayas",
-   "title": "Quality Assurance Intern",
-   "url": "https://himalayas.app/companies/cloud-counselage-pvt-ltd/jobs/quality-assurance-intern?utm_source=api"
   }
  ],
- "finished_at": "2026-11-10T21:34:52Z",
+ "finished_at": "2026-11-12T06:33:21Z",
  "fx": {
-  "as_of": "Tue, 10 Nov 2026 00:02:31 +0000",
+  "as_of": "Thu, 12 Nov 2026 00:02:31 +0000",
   "source": "https://open.er-api.com/v6/latest/USD (ExchangeRate-API open access)",
-  "usd_inr": 93.929192
+  "usd_inr": 93.851604
  },
- "id": "20261110T213314Z",
+ "id": "20261112T063142Z",
  "india_checks": {
-  "companies": 228,
-  "roles_clarified": 1,
+  "companies": 233,
+  "roles_clarified": 2,
   "verdicts": {
-   "likely": 2,
-   "unclear": 14,
-   "yes": 212
+   "likely": 1,
+   "unclear": 29,
+   "yes": 203
   },
   "web_checked": 0
  },
- "kept": 157,
+ "kept": 182,
  "new_count": 0,
  "pipeline_version": "1.0.0",
- "raw_count": 695,
+ "raw_count": 731,
  "source_status": {
   "ashby": {
    "boards": 7,
    "errors": 0,
-   "fetched": 12,
+   "fetched": 13,
    "ok": true
   },
   "cutshort": {
    "fetched": 45,
-   "ms": 41143,
+   "ms": 46640,
    "ok": true
   },
   "greenhouse": {
    "boards": 19,
    "errors": 0,
-   "fetched": 30,
+   "fetched": 28,
    "ok": true
   },
   "himalayas": {
    "fetched": 211,
-   "ms": 16787,
+   "ms": 19830,
    "ok": true
   },
   "hn": {
    "fetched": 2,
-   "ms": 6847,
+   "ms": 6437,
    "ok": true
   },
   "jobicy": {
-   "fetched": 7,
-   "ms": 4425,
+   "fetched": 4,
+   "ms": 4787,
    "ok": true
   },
   "lever": {
@@ -1495,35 +1494,35 @@
   },
   "remoteok": {
    "fetched": 7,
-   "ms": 6366,
+   "ms": 5770,
    "ok": true
   },
   "remotive": {
    "fetched": 0,
-   "ms": 2261,
+   "ms": 2286,
    "ok": true
   },
   "shine": {
-   "fetched": 144,
-   "ms": 22231,
+   "fetched": 146,
+   "ms": 17629,
    "ok": true
   },
   "smartrecruiters": {
    "boards": 10,
    "errors": 0,
-   "fetched": 20,
+   "fetched": 19,
    "ok": true
   },
   "workable": {
-   "fetched": 145,
-   "ms": 42300,
+   "fetched": 149,
+   "ms": 40001,
    "ok": true
   },
   "workingnomads": {
    "fetched": 4,
-   "ms": 538,
+   "ms": 338,
    "ok": true
   }
  },
- "started_at": "2026-11-10T21:33:14Z"
+ "started_at": "2026-11-12T06:31:42Z"
 }

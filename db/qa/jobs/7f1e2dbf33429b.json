@@ -12,7 +12,7 @@
   "IT services company (client projects)"
  ],
  "contacts_count": 0,
- "content_hash": "310a56017c98",
+ "content_hash": "0e7530ca12ae",
  "date_quality": "exact",
  "deadline": null,
  "employment": "full-time",
@@ -31,7 +31,7 @@
   "visa": false
  },
  "kind": "manual-qa",
- "last_verified": "2026-11-12T06:08:02Z",
+ "last_verified": "2026-11-12T06:31:42Z",
  "location": "Remote",
  "logo": null,
  "needs_review": false,
@@ -41,6 +41,7 @@
  "requirements": [],
  "responsibilities": [],
  "salary": {
+  "context_benchmark": "qa-dataset-remote",
   "state": "unavailable"
  },
  "scores": {
@@ -52,7 +53,7 @@
   "skill": 50
  },
  "seniority": "junior",
- "snippet": "Looking to start or restart your career in Software Quality Assurance?Ace IT Careers is reviewing candidates for QA Tester and QA Analyst opportunities with employers and staffing partners across the United States.This opportunity may be suitable for r...\n\nPlease mention the word **SMOOTHES** and tag RNC4xNDkuMjM4LjE2 when applying to show you read the job post completely (#RNC4xNDkuMjM4LjE2). This is a beta feature ",
+ "snippet": "Looking to start or restart your career in Software Quality Assurance?Ace IT Careers is reviewing candidates for QA Tester and QA Analyst opportunities with employers and staffing partners across the United States.This opportunity may be suitable for r...\n\nPlease mention the word **SMOOTHES** and tag RNDAuODMuMy4xMzk= when applying to show you read the job post completely (#RNDAuODMuMy4xMzk=). This is a beta feature ",
  "source_primary": "Remote OK",
  "sources": [
   {
@@ -61,7 +62,7 @@
    "kind": "board",
    "name": "Remote OK",
    "posted_at": "2026-08-15T00:00:25Z",
-   "seen_at": "2026-11-12T06:08:02Z",
+   "seen_at": "2026-11-12T06:31:42Z",
    "url": "https://remoteOK.com/remote-jobs/remote-qa-tester-entry-level-ace-it-careers-1136701"
   }
  ],

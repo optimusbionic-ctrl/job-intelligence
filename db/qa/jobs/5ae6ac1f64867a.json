@@ -6,32 +6,32 @@
  "company": "Uplers",
  "company_slug": "uplers",
  "concerns": [
-  "Employer has not confirmed hiring from India",
   "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
   "Pay not disclosed — ask for the range early",
   "Full description not available from this source"
  ],
  "contacts_count": 0,
- "content_hash": "c9dad0ae952b",
+ "content_hash": "816fdd7892f0",
  "date_quality": "unknown",
  "deadline": null,
  "employment": "full-time",
  "first_seen": "2026-11-11T00:49:58Z",
- "fit": 56,
+ "fit": 63,
  "has_hiring_manager": false,
  "has_named_contact": false,
  "has_public_email": false,
  "id": "5ae6ac1f64867a",
  "include_reason": "Automation-heavy QA (SDET)",
  "india": {
+  "basis": "company",
   "cities": [],
-  "company": "unclear",
-  "reason": "Remote, region not stated",
-  "status": "unconfirmed",
+  "company": "yes",
+  "reason": "Region not stated; Uplers hires in India",
+  "status": "likely",
   "visa": false
  },
  "kind": "automation",
- "last_verified": "2026-11-12T06:08:02Z",
+ "last_verified": "2026-11-12T06:31:42Z",
  "location": "Remote",
  "logo": null,
  "needs_review": false,
@@ -41,13 +41,14 @@
  "requirements": [],
  "responsibilities": [],
  "salary": {
+  "context_benchmark": "qa-dataset-remote",
   "state": "unavailable"
  },
  "scores": {
   "ai": 55,
   "comp": 60,
   "company": 66,
-  "location": 36,
+  "location": 82,
   "seniority": 84,
   "skill": 41
  },
@@ -61,7 +62,7 @@
    "kind": "search",
    "name": "Web (via search index)",
    "posted_at": null,
-   "seen_at": "2026-11-12T06:08:02Z",
+   "seen_at": "2026-11-12T06:31:42Z",
    "url": "https://qajobsboard.jobboardly.com/jobs/qa-engineer-manual-focus-with-automation-ambition-remote-a450bf9e"
   }
  ],
@@ -73,7 +74,9 @@
  "track": "software",
  "updated_at": null,
  "url": "https://qajobsboard.jobboardly.com/jobs/qa-engineer-manual-focus-with-automation-ambition-remote-a450bf9e",
- "why": [],
+ "why": [
+  "Region not stated; Uplers hires in India"
+ ],
  "work_mode": "remote",
  "years_max": null,
  "years_min": null
