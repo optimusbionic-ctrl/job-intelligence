@@ -1,0 +1,107 @@
+{
+ "apply_url": null,
+ "board_apply": "https://himalayas.app/companies/tilda-research/jobs/automation-engineer-sdet?utm_source=api",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "Tilda Research",
+ "company_slug": "tilda-research",
+ "concerns": [
+  "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
+  "Also asks for: API testing, Programming",
+  "Asks for 4+ years — you have about 2.5",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "799e651a0e69",
+ "date_quality": "exact",
+ "deadline": "2027-01-11T07:36:50Z",
+ "employment": "full-time",
+ "first_seen": "2026-11-12T09:05:57Z",
+ "fit": 66,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "dbe7067c6066a1",
+ "include_reason": "Automation-heavy QA (SDET)",
+ "india": {
+  "cities": [],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "automation",
+ "last_verified": "2026-11-12T09:05:57Z",
+ "location": "India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-11-12T07:36:50Z",
+ "repost": false,
+ "requirements": [
+  "4–10 years of experience as an Automation Engineer, SDET, QA Automation Engineer, or similar role.",
+  "Hands-on experience with WebdriverIO, Playwright, Pytest, or similar modern automation frameworks .",
+  "Proven experience designing and building automation frameworks from the ground up .",
+  "Strong experience with API testing and automation .",
+  "Experience integrating automated testing into CI/CD pipelines using GitHub Actions, GitLab CI, Jenkins, or similar tools.",
+  "Demonstrated experience using AI-assisted development/testing tools to improve automation, testing, debugging, or engineering productivity.",
+  "Strong understanding of software testing methodologies, debugging, and root-cause analysis."
+ ],
+ "responsibilities": [
+  "Tilda Research is looking for an experienced Automation Engineer / SDET with 4–10 years of experience to help improve the quality, reliability, and speed of our software delivery.",
+  "We’re looking for someone who is highly technical, hands-on, and experienced in building automation frameworks—not simply using existing ones . This person will also actively use AI-assisted engineering and testing tools to improve automation, test coverage, troubleshooting, and overall QA efficiency.",
+  "Design, build, and maintain scalable automation frameworks for web applications, APIs, and backend services.",
+  "Develop automated functional, integration, regression, API, and end-to-end testing using tools such as WebdriverIO, Playwright, and Pytest .",
+  "Integrate automated testing into CI/CD pipelines , improving test coverage, release quality, and deployment confidence.",
+  "Use AI tools to accelerate test creation, identify edge cases, analyze failures, debug automation, and reduce repetitive QA work.",
+  "Partner closely with Engineering and Product to identify quality risks, troubleshoot complex issues, and ensure quality throughout the development lifecycle."
+ ],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 62,
+  "comp": 60,
+  "company": 66,
+  "location": 100,
+  "seniority": 72,
+  "skill": 47
+ },
+ "seniority": "unspecified",
+ "snippet": "About Tilda Research , Inc. \n\n About Tilda \n\n Tilda Research is reimagining how clinical trials are run by bringing AI-native tools and AI teammates into clinical research operations. Our technology works alongside sponsor, CRO, and research teams to simplify study management, improve data quality, support real-time oversight, and help accelerate trial timelines.\n\n We are building the future of clinical trial executi",
+ "source_primary": "Himalayas",
+ "sources": [
+  {
+   "id": "himalayas",
+   "job_id": "https://himalayas.app/companies/tilda-research/jobs/automation-engineer-sdet",
+   "kind": "board",
+   "name": "Himalayas",
+   "posted_at": "2026-11-12T07:36:50Z",
+   "seen_at": "2026-11-12T09:05:57Z",
+   "url": "https://himalayas.app/companies/tilda-research/jobs/automation-engineer-sdet?utm_source=api"
+  }
+ ],
+ "specializations": [
+  "Web apps"
+ ],
+ "status": "active",
+ "tier": 3,
+ "title": "Automation Engineer — SDET",
+ "tools": [
+  "Regression testing",
+  "Test cases & scenarios",
+  "API testing",
+  "Test automation",
+  "Programming"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://himalayas.app/companies/tilda-research/jobs/automation-engineer-sdet?utm_source=api",
+ "why": [
+  "Already on your resume: Regression testing, Test cases & scenarios",
+  "Location lists India"
+ ],
+ "work_mode": "remote",
+ "years_max": 10,
+ "years_min": 4
+}
