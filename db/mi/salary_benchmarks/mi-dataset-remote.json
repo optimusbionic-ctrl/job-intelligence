@@ -2,12 +2,12 @@
  "avg": 11262192,
  "basis": "Interquartile range of posting midpoints, converted to INR at today's rate",
  "currency": "INR",
- "high": 17597176,
+ "high": 18301063,
  "id": "mi-dataset-remote",
  "label": "Disclosed pay on remote motion-design postings (any region, this dataset)",
  "low": 9009754,
  "market": "Remote (global)",
- "n": 15,
+ "n": 14,
  "retrieved_at": "2026-11-12",
  "samples": [
   {
@@ -18,15 +18,6 @@
    "min": 30000,
    "title": "Social Media Motion Graphic Designer | Remote | LATAM Only | 88150",
    "url": "https://himalayas.app/companies/remote-talent-latam/jobs/social-media-motion-graphic-designer-remote-latam-only-88150?utm_source=api"
-  },
-  {
-   "company": "Rankings.io",
-   "currency": "USD",
-   "location": "Anguilla, Antigua and Barbuda, Argentina, Aruba, Bahamas, Barbados, Belize, Bermuda, Bolivia, Bonaire, Sint Eustatius and Saba, Brazil, Cayman Islands, Chile, Colombia, Costa Rica, Cuba, Dominica, Dominican Republic, Ecuador, El Salvador, Falkland Islands (Malvinas), Grenada, Guatemala, Guyana, Haiti, Honduras, Jamaica, Mexico, Montserrat, Nicaragua, Panama, Paraguay, Peru, Puerto Rico, Saint Kitts and Nevis, Saint Lucia, Saint Vincent and the Grenadines, South Georgia and the South Sandwich Islands, Suriname, Trinidad and Tobago, Turks and Caicos Islands, Uruguay, Venezuela, Virgin Islands, British, Virgin Islands, U.S.",
-   "max": 42000,
-   "min": 30000,
-   "title": "Sr. Video Editor & Motion Designer – AI Workflows (Remote, LATAM)",
-   "url": "https://himalayas.app/companies/rankings-io/jobs/sr-video-editor-motion-designer-ai-workflows-remote-latam?utm_source=api"
   },
   {
    "company": "Wpromote",

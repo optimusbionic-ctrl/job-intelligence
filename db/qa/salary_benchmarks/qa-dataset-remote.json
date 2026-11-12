@@ -1,5 +1,5 @@
 {
- "avg": 6115277,
+ "avg": 6945019,
  "basis": "Interquartile range of posting midpoints, converted to INR at today's rate",
  "currency": "INR",
  "high": 8915902,
@@ -7,7 +7,7 @@
  "label": "Disclosed pay on remote QA postings (any region, this dataset)",
  "low": 3389594,
  "market": "Remote (global)",
- "n": 9,
+ "n": 8,
  "retrieved_at": "2026-11-12",
  "samples": [
   {
@@ -36,15 +36,6 @@
    "min": 26000,
    "title": "Quality Assurance Engineer II",
    "url": "https://jobicy.com/jobs/154875-quality-assurance-engineer-ii"
-  },
-  {
-   "company": "Welocalize",
-   "currency": "USD",
-   "location": "United States",
-   "max": 46000,
-   "min": 46000,
-   "title": "Maps Quality Tester- Austin Based",
-   "url": "https://himalayas.app/companies/welocalize/jobs/maps-quality-tester-austin-based?utm_source=api"
   },
   {
    "company": "9th Way Insignia",
