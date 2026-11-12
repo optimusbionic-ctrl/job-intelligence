@@ -3,20 +3,20 @@
  "classification": "Inferred from job description",
  "india_hiring": {
   "board": null,
-  "changed_at": "2026-10-20T17:43:38Z",
+  "changed_at": "2026-11-12T18:48:22Z",
   "evidence": [
    {
-    "detail": "Mulesoft QA Engineer — Pune, Bangalore, Coimbatore, Chennai, India",
+    "detail": "QA Engineer - QA Testing, Manual Testing, Integration Testing — Hyderabad, India",
     "kind": "posting",
     "label": "A current posting lists India as a location",
-    "url": "https://www.shine.com/jobs/mulesoft-qa-engineer/intellics-global-services-private-limited/19723991",
+    "url": "https://www.shine.com/jobs/qa-engineer-qa-testing-manual-testing-integration-testing/intellics-global-services-private-limited/20059178",
     "weight": 5
    }
   ],
   "first_checked_at": "2026-10-20T17:43:38Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "774935025a",
+  "sig": "128c9cc18c",
   "summary": "A current posting lists India as a location.",
   "verdict": "yes"
  },

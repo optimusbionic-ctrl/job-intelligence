@@ -1,0 +1,30 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-12T18:48:22Z",
+  "evidence": [
+   {
+    "detail": "Software Tester / QA Engineer (Coimbatore) — Coimbatore, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/software-tester-qa-engineer-coimbatore/ardhas/20053910",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-12T18:48:22Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "0ef2d20b2f",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Ardhas",
+ "slug": "ardhas",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}
