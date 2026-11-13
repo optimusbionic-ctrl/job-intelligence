@@ -1,13 +1,13 @@
 {
- "avg": 6130558,
+ "avg": 3384427,
  "basis": "Interquartile range of posting midpoints, converted to INR at today's rate",
  "currency": "INR",
- "high": 8938182,
+ "high": 3384427,
  "id": "qa-dataset-remote",
  "label": "Disclosed pay on remote QA postings (any region, this dataset)",
  "low": 2915814,
  "market": "Remote (global)",
- "n": 9,
+ "n": 4,
  "retrieved_at": "2026-11-13",
  "samples": [
   {
@@ -18,15 +18,6 @@
    "min": 9360,
    "title": "QA ENGINEERING (AUTOMATIONS)",
    "url": "https://himalayas.app/companies/study-now/jobs/qa-engineering-automations-4056876587?utm_source=api"
-  },
-  {
-   "company": "Storware Sp. z o.o.",
-   "currency": "PLN",
-   "location": "Poland",
-   "max": 108000,
-   "min": 84000,
-   "title": "Manual Tester with Linux (QA team)",
-   "url": "https://himalayas.app/companies/storware-sp-z-o-o/jobs/manual-tester-with-linux-qa-team?utm_source=api"
   },
   {
    "company": "TECDATA ENGINEERING",
@@ -47,15 +38,6 @@
    "url": "https://jobicy.com/jobs/154875-quality-assurance-engineer-ii"
   },
   {
-   "company": "9th Way Insignia",
-   "currency": "USD",
-   "location": "United States",
-   "max": 67500,
-   "min": 62818,
-   "title": "Junior Tester",
-   "url": "https://himalayas.app/companies/9th-way-insignia/jobs/junior-tester?utm_source=api"
-  },
-  {
    "company": "Labelmaster",
    "currency": "USD",
    "location": "United States",
@@ -63,33 +45,6 @@
    "min": 68000,
    "title": "Manual Software Tester",
    "url": "https://himalayas.app/companies/labelmaster/jobs/manual-software-tester?utm_source=api"
-  },
-  {
-   "company": "SpaceCoast AV Consultants, LLC",
-   "currency": "USD",
-   "location": "United States",
-   "max": 105000,
-   "min": 85000,
-   "title": "Quality Assurance Analyst",
-   "url": "https://himalayas.app/companies/spacecoast-av-consultants-llc/jobs/quality-assurance-analyst?utm_source=api"
-  },
-  {
-   "company": "OpenDataJobs",
-   "currency": "USD",
-   "location": "United States",
-   "max": 140000,
-   "min": 100000,
-   "title": "QA Tester",
-   "url": "https://himalayas.app/companies/opendatajobs/jobs/qa-tester?utm_source=api"
-  },
-  {
-   "company": "Xperteez Technology",
-   "currency": "USD",
-   "location": "United States",
-   "max": 140000,
-   "min": 100000,
-   "title": "QA Engineer",
-   "url": "https://himalayas.app/companies/xperteez-technology/jobs/qa-engineer?utm_source=api"
   }
  ],
  "source_name": "QA Intelligence dataset",
