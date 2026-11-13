@@ -19,11 +19,11 @@
  "last_run": {
   "alerts_count": 0,
   "closed_count": 19,
-  "finished_at": "2026-11-13T13:15:13Z",
-  "id": "20261113T131413Z",
+  "finished_at": "2026-11-13T14:25:16Z",
+  "id": "20261113T142408Z",
   "kept": 107,
   "new_count": 0,
-  "raw_count": 872
+  "raw_count": 903
  },
  "monitor": {
   "cadence": "every 3 hours",
@@ -37,5 +37,5 @@
   "trigger_id": "trig_01AcYzMU7L1j3u73f9kfZhgY"
  },
  "pipeline_version": "2.1.0",
- "updated_at": "2026-11-13T13:15:13Z"
+ "updated_at": "2026-11-13T14:25:16Z"
 }
