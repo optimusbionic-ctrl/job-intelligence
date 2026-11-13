@@ -590,6 +590,10 @@
    "at": "2026-11-03T21:50:10Z",
    "ats": null
   },
+  "qalabsandbox": {
+   "at": "2026-11-13T21:31:07Z",
+   "ats": null
+  },
   "qapitolqa": {
    "at": "2026-11-03T21:33:45Z",
    "ats": null
@@ -936,8 +940,8 @@
  "counts": {
   "closed": 10,
   "keep": 16,
-  "live": 207,
-  "stale": 120
+  "live": 204,
+  "stale": 123
  },
- "updated_at": "2026-11-13T21:02:45Z"
+ "updated_at": "2026-11-13T21:32:26Z"
 }
