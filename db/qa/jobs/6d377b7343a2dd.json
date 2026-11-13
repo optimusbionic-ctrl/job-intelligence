@@ -2,21 +2,19 @@
  "apply_url": null,
  "board_apply": "https://www.shine.com/jobs/automation-tester/team-ace-hr-llp/19956951",
  "category": "Other",
- "comp_potential": "unknown",
+ "comp_potential": "listed_good",
  "company": "Team Ace HR LLP",
  "company_slug": "team-ace-hr-llp",
  "concerns": [
-  "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
-  "Pay not disclosed — ask for the range early",
-  "Reposted / refreshed listing — original posting is older"
+  "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet"
  ],
  "contacts_count": 0,
- "content_hash": "3fc9029f315f",
+ "content_hash": "11751a4cfbca",
  "date_quality": "exact",
  "deadline": null,
  "employment": "full-time",
  "first_seen": "2026-10-29T11:44:56Z",
- "fit": 63,
+ "fit": 66,
  "has_hiring_manager": false,
  "has_named_contact": false,
  "has_public_email": false,
@@ -32,23 +30,38 @@
   "visa": false
  },
  "kind": "automation",
- "last_verified": "2026-11-13T17:55:31Z",
+ "last_verified": "2026-11-13T18:48:29Z",
  "location": "Mumbai City, India",
  "logo": null,
  "needs_review": false,
  "official": false,
- "posted_at": "2026-10-29T21:25:23Z",
- "repost": true,
+ "posted_at": "2026-10-28T18:04:44Z",
+ "repost": false,
  "requirements": [
   "(Summary from the Shine.com listing; open the posting for the full description.)"
  ],
  "responsibilities": [],
  "salary": {
-  "state": "unavailable"
+  "applies_india": true,
+  "basis": "listed",
+  "currency": "INR",
+  "fx_at": "Fri, 13 Nov 2026 00:02:31 +0000",
+  "fx_rate": 1.0,
+  "inr_max": 500000,
+  "inr_min": 350000,
+  "max": 500000,
+  "min": 350000,
+  "note": "Listed in the posting",
+  "original_period": "annual",
+  "period": "annual",
+  "source_name": "Shine.com",
+  "source_url": "https://www.shine.com/jobs/automation-tester/team-ace-hr-llp/19956951",
+  "state": "verified",
+  "verified_at": "2026-11-13T18:48:29Z"
  },
  "scores": {
   "ai": 58,
-  "comp": 60,
+  "comp": 90,
   "company": 66,
   "location": 100,
   "seniority": 94,
@@ -64,8 +77,17 @@
    "kind": "board",
    "name": "Shine.com",
    "posted_at": "2026-10-29T21:25:23Z",
-   "seen_at": "2026-11-13T17:55:31Z",
+   "seen_at": "2026-11-13T18:48:29Z",
    "url": "https://www.shine.com/jobs/automation-tester/team-ace-hr-llp/19956951"
+  },
+  {
+   "id": "shine",
+   "job_id": "19950666",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-10-28T18:04:44Z",
+   "seen_at": "2026-11-13T18:48:29Z",
+   "url": "https://www.shine.com/jobs/automation-tester/team-ace-hr-llp/19950666"
   }
  ],
  "specializations": [],
@@ -80,6 +102,7 @@
  "url": "https://www.shine.com/jobs/automation-tester/team-ace-hr-llp/19956951",
  "why": [
   "Asks for 3+ years — you have about 2.5",
+  "Pay is listed in the posting",
   "Location lists India"
  ],
  "work_mode": "onsite",
