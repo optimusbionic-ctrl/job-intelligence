@@ -1,5 +1,5 @@
 {
- "avg": 13877704,
+ "avg": 11788098,
  "basis": "Interquartile range of posting midpoints, converted to INR at today's rate",
  "currency": "INR",
  "high": 18346795,
@@ -7,7 +7,7 @@
  "label": "Disclosed pay on remote motion-design postings (any region, this dataset)",
  "low": 9032268,
  "market": "Remote (global)",
- "n": 16,
+ "n": 17,
  "retrieved_at": "2026-11-13",
  "samples": [
   {
@@ -54,6 +54,15 @@
    "min": 72000,
    "title": "Senior Visual Designer",
    "url": "https://himalayas.app/companies/college-board/jobs/senior-visual-designer?utm_source=api"
+  },
+  {
+   "company": "Silverback Strategies",
+   "currency": "USD",
+   "location": "United States",
+   "max": 110000,
+   "min": 90000,
+   "title": "Senior Motion & Graphic Designer",
+   "url": "https://himalayas.app/companies/silverback-strategies/jobs/senior-motion-graphic-designer-4714827467?utm_source=api"
   },
   {
    "company": "Red Door Collaborative",

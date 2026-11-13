@@ -3,20 +3,20 @@
  "classification": "Inferred from job description",
  "india_hiring": {
   "board": null,
-  "changed_at": "2026-11-05T20:54:43Z",
+  "changed_at": "2026-11-13T11:04:31Z",
   "evidence": [
    {
-    "detail": "Testing Engineer — Mumbai City, Thane, India",
+    "detail": "Compliance Quality Assurance Inspector - QA, QC, Documentation — Navi Mumbai, Mumbai City, Panvel, Kalyan, Vasai, Thane, India",
     "kind": "posting",
     "label": "A current posting lists India as a location",
-    "url": "https://www.shine.com/jobs/testing-engineer/aviyana-ventures-pvt-ltd/19982678",
+    "url": "https://www.shine.com/jobs/compliance-quality-assurance-inspector-qa-qc-documentation/aviyana-ventures-pvt-ltd/20067124",
     "weight": 5
    }
   ],
   "first_checked_at": "2026-10-23T21:44:08Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "c1ef38aa66",
+  "sig": "48b5ffac08",
   "summary": "A current posting lists India as a location.",
   "verdict": "yes"
  },
