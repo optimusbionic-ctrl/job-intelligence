@@ -53,17 +53,17 @@
    "restricted_remote": 0,
    "restricted_samples": [],
    "slug": "scopely",
-   "total": 178,
+   "total": 179,
    "type": "greenhouse",
    "url": "https://boards.greenhouse.io/scopely",
    "worldwide": 0
   },
-  "changed_at": "2026-11-13T16:58:47Z",
+  "changed_at": "2026-11-13T19:58:14Z",
   "evidence": [
    {
     "detail": "  AI  Artist (2D Generalist ) - Bingo Bash (IN - Bangalore, India); Director, Corporate Operations - India (IN - Bangalore, India); Intern - QA Engineer - Royal Lounge Casino (IN - Bangalore, India)",
     "kind": "board",
-    "label": "10 of 178 open roles are located in India",
+    "label": "10 of 179 open roles are located in India",
     "url": "https://boards.greenhouse.io/scopely",
     "weight": 5
    },
@@ -85,8 +85,8 @@
   "first_checked_at": "2026-11-06T11:56:17Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "562090f87b",
-  "summary": "10 of 178 open roles are located in India.",
+  "sig": "168013eae9",
+  "summary": "10 of 179 open roles are located in India.",
   "verdict": "yes"
  },
  "name": "Scopely",

@@ -37,8 +37,8 @@
     }
    ],
    "open_samples": [],
-   "remote": 18,
-   "restricted_remote": 18,
+   "remote": 17,
+   "restricted_remote": 17,
    "restricted_samples": [
     {
      "location": "Virtual - United States",
@@ -62,17 +62,17 @@
     }
    ],
    "slug": "tekion",
-   "total": 90,
+   "total": 89,
    "type": "ashby",
    "url": "https://jobs.ashbyhq.com/tekion",
    "worldwide": 0
   },
-  "changed_at": "2026-11-13T15:45:44Z",
+  "changed_at": "2026-11-13T19:59:36Z",
   "evidence": [
    {
     "detail": "Architect, Software Engineering - Frontend - Integration  (Bangalore HQ); Architect, Software Engineering - Integration  (Bangalore HQ); Associate Principal Graphic Designer (Bangalore HQ)",
     "kind": "board",
-    "label": "65 of 90 open roles are located in India",
+    "label": "65 of 89 open roles are located in India",
     "url": "https://jobs.ashbyhq.com/tekion",
     "weight": 5
    },
@@ -87,8 +87,8 @@
   "first_checked_at": "2026-11-10T21:34:53Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "829b333fb5",
-  "summary": "65 of 90 open roles are located in India.",
+  "sig": "3fb1d47d8b",
+  "summary": "65 of 89 open roles are located in India.",
   "verdict": "yes"
  },
  "inferred": true,
