@@ -9,7 +9,7 @@
   "Office outside Mumbai — relocation within India"
  ],
  "contacts_count": 0,
- "content_hash": "0cf86a6595c6",
+ "content_hash": "d94bf22b8299",
  "date_quality": "exact",
  "deadline": null,
  "employment": "full-time",
@@ -28,8 +28,8 @@
   "visa": false
  },
  "kind": "manual-qa",
- "last_verified": "2026-11-12T21:52:29Z",
- "location": "Ahmednagar, Ahmedabad, Bhopal, Bhagalpur, Dhubri, Chandigarh, India",
+ "last_verified": "2026-11-13T03:49:18Z",
+ "location": "Ahmednagar, Bhagalpur, Dhubri, Ahmedabad, Bhubaneswar, Chandigarh, India",
  "logo": null,
  "needs_review": false,
  "official": false,
@@ -43,7 +43,7 @@
   "applies_india": true,
   "basis": "listed",
   "currency": "INR",
-  "fx_at": "Thu, 12 Nov 2026 00:02:31 +0000",
+  "fx_at": "Fri, 13 Nov 2026 00:02:31 +0000",
   "fx_rate": 1.0,
   "inr_max": 400000,
   "inr_min": 100000,
@@ -55,7 +55,7 @@
   "source_name": "Shine.com",
   "source_url": "https://www.shine.com/jobs/software-tester/workwaves/20011661",
   "state": "verified",
-  "verified_at": "2026-11-12T21:52:29Z"
+  "verified_at": "2026-11-13T03:49:18Z"
  },
  "scores": {
   "ai": 58,
@@ -75,7 +75,7 @@
    "kind": "board",
    "name": "Shine.com",
    "posted_at": "2026-11-04T22:25:06Z",
-   "seen_at": "2026-11-12T21:52:29Z",
+   "seen_at": "2026-11-13T03:49:18Z",
    "url": "https://www.shine.com/jobs/software-tester/workwaves/20011661"
   },
   {
@@ -84,7 +84,7 @@
    "kind": "board",
    "name": "Shine.com",
    "posted_at": "2026-11-04T21:36:22Z",
-   "seen_at": "2026-11-12T21:52:29Z",
+   "seen_at": "2026-11-13T03:49:18Z",
    "url": "https://www.shine.com/jobs/software-tester/workwaves/19975711"
   }
  ],
