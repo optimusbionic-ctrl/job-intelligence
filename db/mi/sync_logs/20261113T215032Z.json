@@ -1,8 +1,8 @@
 {
  "alerts_count": 0,
  "changed_count": 0,
- "closed_count": 26,
- "duration_s": 69.4,
+ "closed_count": 19,
+ "duration_s": 49.2,
  "enrichment": {
   "careers_emails": 0,
   "dates_estimated": 0,
@@ -11,18 +11,18 @@
   "searches": 0
  },
  "excluded_counts": {
-  "Adjacent title without substantial motion work": 35,
+  "Adjacent title without substantial motion work": 36,
   "Character / film / game animation": 8,
-  "Generic product/UX designer (no motion specialisation in title)": 58,
-  "Graphic / illustration role": 36,
-  "Intern / junior / entry level": 14,
+  "Generic product/UX designer (no motion specialisation in title)": 55,
+  "Graphic / illustration role": 39,
+  "Intern / junior / entry level": 15,
   "Junior experience requirement": 3,
   "Not a design role": 60,
-  "Not a motion role": 286,
-  "Not open to India": 70,
-  "Older than window": 200,
-  "Pure video editing role": 54,
-  "Social content role": 3,
+  "Not a motion role": 276,
+  "Not open to India": 72,
+  "Older than window": 199,
+  "Pure video editing role": 52,
+  "Social content role": 6,
   "Staffing agency listing — employer not identified": 17,
   "Unpaid / volunteer": 3
  },
@@ -47,13 +47,6 @@
    "source": "Himalayas",
    "title": "Freelance Senior Animator",
    "url": "https://himalayas.app/companies/outpost-vfx-com/jobs/freelance-senior-animator?utm_source=api"
-  },
-  {
-   "company": "Silverback Strategies",
-   "reason": "Not open to India: Restricted to United States",
-   "source": "Himalayas",
-   "title": "Senior Motion & Graphic Designer",
-   "url": "https://himalayas.app/companies/silverback-strategies/jobs/senior-motion-graphic-designer-4714827467?utm_source=api"
   },
   {
    "company": "Bjak",
@@ -110,6 +103,20 @@
    "source": "Himalayas",
    "title": "Sr. Video Editor & Motion Designer – AI Workflows (Remote, LATAM)",
    "url": "https://himalayas.app/companies/rankings-io/jobs/sr-video-editor-motion-designer-ai-workflows-remote-latam?utm_source=api"
+  },
+  {
+   "company": "Remote VA",
+   "reason": "Character / film / game animation",
+   "source": "Himalayas",
+   "title": "Video Animator",
+   "url": "https://himalayas.app/companies/remote-va/jobs/video-animator?utm_source=api"
+  },
+  {
+   "company": "Clinch",
+   "reason": "Not open to India: Restricted to Philippines",
+   "source": "Himalayas",
+   "title": "Motion Designer",
+   "url": "https://himalayas.app/companies/clinch/jobs/motion-designer?utm_source=api"
   },
   {
    "company": "Creatio",
@@ -187,13 +194,6 @@
    "source": "Himalayas",
    "title": "Motion Designer",
    "url": "https://himalayas.app/companies/masterworks-llc/jobs/motion-designer?utm_source=api"
-  },
-  {
-   "company": "Pavago",
-   "reason": "Character / film / game animation",
-   "source": "Himalayas",
-   "title": "Animator / Motion Graphics Designer",
-   "url": "https://himalayas.app/companies/pavago/jobs/animator-motion-graphics-designer-2329885192?utm_source=api"
   },
   {
    "company": "Playson",
@@ -291,14 +291,14 @@
    "reason": "Character / film / game animation",
    "source": "Epic Games careers (Greenhouse)",
    "title": "Lead Technical Animator",
-   "url": "https://epicgames.com/careers/jobs/6203696004?gh_jid=6203696004"
+   "url": "https://epicgames.com/careers/jobs/6203698004?gh_jid=6203698004"
   },
   {
    "company": "Epic Games",
    "reason": "Character / film / game animation",
    "source": "Epic Games careers (Greenhouse)",
    "title": "Lead Technical Animator",
-   "url": "https://epicgames.com/careers/jobs/6203698004?gh_jid=6203698004"
+   "url": "https://epicgames.com/careers/jobs/6203696004?gh_jid=6203696004"
   },
   {
    "company": "Raisin",
@@ -348,13 +348,6 @@
    "source": "Thinkingbox careers (Lever)",
    "title": "Creative Director, Motion - The Heist",
    "url": "https://jobs.lever.co/thinkingbox/40829438-ce46-4d26-8e7d-f6f5a671dfa4"
-  },
-  {
-   "company": "Thinkingbox",
-   "reason": "Not open to India: On-site outside India (Mexico City), no sponsorship stated",
-   "source": "Thinkingbox careers (Lever)",
-   "title": "Creative Director, Motion - The Heist",
-   "url": "https://jobs.lever.co/thinkingbox/48502e6b-834b-4351-ac43-ee7d4ee38e03"
   },
   {
    "company": "Thinkingbox",
@@ -539,38 +532,38 @@
    "url": "https://www.jobtarget.com/jobs/jt-foehbw1qz7/senior-motion-designer-india"
   }
  ],
- "finished_at": "2026-11-12T14:28:41Z",
+ "finished_at": "2026-11-13T21:51:21Z",
  "fx": {
-  "as_of": "Thu, 12 Nov 2026 00:02:31 +0000",
+  "as_of": "Fri, 13 Nov 2026 00:02:31 +0000",
   "source": "https://open.er-api.com/v6/latest/USD (ExchangeRate-API open access)",
-  "usd_inr": 93.851604
+  "usd_inr": 94.086126
  },
- "id": "20261112T142731Z",
+ "id": "20261113T215032Z",
  "india_checks": {
-  "companies": 105,
+  "companies": 106,
   "roles_clarified": 4,
   "verdicts": {
    "likely": 2,
    "no": 5,
    "unclear": 49,
-   "yes": 49
+   "yes": 50
   },
   "web_checked": 0
  },
- "kept": 106,
- "new_count": 1,
+ "kept": 107,
+ "new_count": 0,
  "pipeline_version": "2.1.0",
- "raw_count": 972,
+ "raw_count": 968,
  "source_status": {
   "ashby": {
    "boards": 64,
    "errors": 0,
-   "fetched": 30,
+   "fetched": 32,
    "ok": true
   },
   "dribbble": {
-   "fetched": 30,
-   "ms": 18320,
+   "fetched": 33,
+   "ms": 15159,
    "ok": true
   },
   "greenhouse": {
@@ -584,38 +577,38 @@
   },
   "himalayas": {
    "fetched": 263,
-   "ms": 14311,
+   "ms": 15564,
    "ok": true
   },
   "hn": {
    "fetched": 1,
-   "ms": 6983,
+   "ms": 6984,
    "ok": true
   },
   "jobicy": {
-   "fetched": 159,
-   "ms": 5012,
+   "fetched": 151,
+   "ms": 4931,
    "ok": true
   },
   "lever": {
    "boards": 10,
    "errors": 0,
-   "fetched": 10,
+   "fetched": 8,
    "ok": true
   },
   "motionographer": {
    "fetched": 1,
-   "ms": 227,
+   "ms": 125,
    "ok": true
   },
   "remoteok": {
    "fetched": 220,
-   "ms": 8039,
+   "ms": 7136,
    "ok": true
   },
   "remotive": {
-   "fetched": 14,
-   "ms": 4549,
+   "fetched": 16,
+   "ms": 4860,
    "ok": true
   },
   "smartrecruiters": {
@@ -625,15 +618,15 @@
    "ok": true
   },
   "workingnomads": {
-   "fetched": 37,
-   "ms": 518,
+   "fetched": 36,
+   "ms": 116,
    "ok": true
   },
   "wwr": {
-   "fetched": 18,
-   "ms": 261,
+   "fetched": 16,
+   "ms": 637,
    "ok": true
   }
  },
- "started_at": "2026-11-12T14:27:31Z"
+ "started_at": "2026-11-13T21:50:32Z"
 }
