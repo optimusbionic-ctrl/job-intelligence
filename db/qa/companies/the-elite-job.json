@@ -3,20 +3,20 @@
  "classification": "Inferred from job description",
  "india_hiring": {
   "board": null,
-  "changed_at": "2026-11-13T21:52:44Z",
+  "changed_at": "2026-11-13T23:45:09Z",
   "evidence": [
    {
-    "detail": "QA Tester - Work From Home Testing — All India",
+    "detail": "Entry level Software Tester/ QA Tester — All India",
     "kind": "posting",
     "label": "A current posting lists India as a location",
-    "url": "https://www.shine.com/jobs/qa-tester-work-from-home-testing-job/the-elite-job/19679729",
+    "url": "https://www.shine.com/jobs/entry-level-software-tester-qa-tester/the-elite-job/19573506",
     "weight": 5
    }
   ],
   "first_checked_at": "2026-10-19T13:24:59Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "c50900be31",
+  "sig": "c94eab873a",
   "summary": "A current posting lists India as a location.",
   "verdict": "yes"
  },
