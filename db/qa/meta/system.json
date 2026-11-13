@@ -1,29 +1,29 @@
 {
  "first_run_at": "2026-10-19T13:24:59Z",
  "fx": {
-  "as_of": "Thu, 12 Nov 2026 00:02:31 +0000",
+  "as_of": "Fri, 13 Nov 2026 00:02:31 +0000",
   "source": "https://open.er-api.com/v6/latest/USD (ExchangeRate-API open access)",
-  "usd_inr": 93.851604
+  "usd_inr": 94.086126
  },
  "india_checks": {
-  "companies": 229,
-  "roles_clarified": 1,
+  "companies": 235,
+  "roles_clarified": 2,
   "verdicts": {
    "likely": 1,
    "no": 1,
-   "unclear": 30,
-   "yes": 197
+   "unclear": 29,
+   "yes": 204
   },
   "web_checked": 0
  },
  "last_run": {
   "alerts_count": 0,
-  "closed_count": 13,
-  "finished_at": "2026-11-12T23:51:28Z",
-  "id": "20261112T234953Z",
-  "kept": 188,
+  "closed_count": 10,
+  "finished_at": "2026-11-13T00:33:41Z",
+  "id": "20261113T003207Z",
+  "kept": 187,
   "new_count": 0,
-  "raw_count": 737
+  "raw_count": 662
  },
  "monitor": {
   "cadence": "every 3 hours",
@@ -34,5 +34,5 @@
   "trigger_id": "trig_01HmgCSJ1LCpNdrkynfN4Y7h"
  },
  "pipeline_version": "1.0.0",
- "updated_at": "2026-11-12T23:51:28Z"
+ "updated_at": "2026-11-13T00:33:41Z"
 }
