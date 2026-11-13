@@ -11,7 +11,7 @@
    "countries": [
     "India"
    ],
-   "india": 49,
+   "india": 50,
    "india_samples": [
     {
      "location": "Bengaluru",
@@ -39,17 +39,17 @@
    "restricted_remote": 0,
    "restricted_samples": [],
    "slug": "sarvam",
-   "total": 49,
+   "total": 50,
    "type": "ashby",
    "url": "https://jobs.ashbyhq.com/sarvam",
    "worldwide": 0
   },
-  "changed_at": "2026-11-12T09:34:03Z",
+  "changed_at": "2026-11-13T12:51:45Z",
   "evidence": [
    {
     "detail": "Agent Engineer (Bengaluru); Data Scientist - Evaluations, Chanakya (Bengaluru); Deployment Strategist (Bengaluru)",
     "kind": "board",
-    "label": "49 of 49 open roles are located in India",
+    "label": "50 of 50 open roles are located in India",
     "url": "https://jobs.ashbyhq.com/sarvam",
     "weight": 5
    },
@@ -64,8 +64,8 @@
   "first_checked_at": "2026-11-10T21:34:53Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "9c2a2159d0",
-  "summary": "49 of 49 open roles are located in India.",
+  "sig": "49f549f38a",
+  "summary": "50 of 50 open roles are located in India.",
   "verdict": "yes"
  },
  "inferred": true,
