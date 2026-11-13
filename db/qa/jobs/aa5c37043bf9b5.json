@@ -1,0 +1,105 @@
+{
+ "apply_url": "https://job-boards.eu.greenhouse.io/valtech/jobs/5025604101",
+ "board_apply": null,
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "Valtech",
+ "company_slug": "valtech",
+ "concerns": [
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "4ddcce837a21",
+ "date_quality": "exact",
+ "deadline": "2027-01-12T13:26:54Z",
+ "employment": "full-time",
+ "first_seen": "2026-11-13T15:44:28Z",
+ "fit": 66,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "aa5c37043bf9b5",
+ "include_reason": "QA / test engineer title",
+ "india": {
+  "cities": [],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "qa-engineer",
+ "last_verified": "2026-11-13T15:44:28Z",
+ "location": "India",
+ "logo": null,
+ "needs_review": false,
+ "official": true,
+ "posted_at": "2026-11-11T10:06:17Z",
+ "repost": false,
+ "requirements": [
+  "This should just be what’s absolutely necessary to perform the role responsibilities",
+  "Example includes: Upper-intermediate English level",
+  "Nice-to-haves but not disqualifiers",
+  "Example includes: Strong desire to learn more about business every day",
+  "If you do not meet all the listed qualifications or have gaps in your experience, we still encourage you to apply. At Valtech, we recognize that talent comes in many forms, and we value diverse perspectives and a willingness to learn."
+ ],
+ "responsibilities": [
+  "As a [JOB TITLE] , you are passionate about experience innovation and eager to push the boundaries of what’s possible. You bring [X YEARS] of experience, a growth mindset and a drive to make a lasting impact.",
+  "A curious problem solver who challenges the status quo",
+  "A collaborator who values teamwork and knowledge-sharing",
+  "Excited by the intersection of technology, creativity and data",
+  "Experienced in Agile methodologies and consulting (a plus)",
+  "Avoid terms such as “rockstar”, “superstar” or anything which may deter people who do not resonate with this type of language.",
+  "Be mindful of descriptive words. According to research , the following words import ‘masculine’ characteristics, and are likely to deter female applicants: independent, lead, competitive, assertive, determined, analytical. Those words generally increasing the female response rate: responsible, connect, dedicated, support, sociable, conscientious"
+ ],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 60,
+  "company": 66,
+  "location": 100,
+  "seniority": 84,
+  "skill": 43
+ },
+ "seniority": "unspecified",
+ "snippet": "Why Valtech? We’re the experience innovation company - a trusted partner to the world’s most recognized brands. To our people we offer growth opportunities, a values -driven culture, international careers and the chance to shape the future of experience. \n\n The opportunity \n\n At Valtech, you’ll find an environment designed for continuous learning, meaningful impact, and professional growth. Whether you're pioneering ",
+ "source_primary": "Valtech careers (Greenhouse)",
+ "sources": [
+  {
+   "id": "greenhouse",
+   "job_id": "gh:valtech:5025604101",
+   "kind": "ats",
+   "name": "Valtech careers (Greenhouse)",
+   "posted_at": "2026-11-11T10:06:17Z",
+   "seen_at": "2026-11-13T15:44:28Z",
+   "url": "https://job-boards.eu.greenhouse.io/valtech/jobs/5025604101"
+  },
+  {
+   "id": "himalayas",
+   "job_id": "https://himalayas.app/companies/valtech-us/jobs/software-test-engineer",
+   "kind": "board",
+   "name": "Himalayas",
+   "posted_at": "2026-11-13T13:26:54Z",
+   "seen_at": "2026-11-13T15:44:28Z",
+   "url": "https://himalayas.app/companies/valtech-us/jobs/software-test-engineer?utm_source=api"
+  }
+ ],
+ "specializations": [],
+ "status": "verified",
+ "tier": 3,
+ "title": "Software Test Engineer",
+ "tools": [
+  "Agile / Scrum"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://job-boards.eu.greenhouse.io/valtech/jobs/5025604101",
+ "why": [
+  "QA / test engineer role",
+  "Location lists India"
+ ],
+ "work_mode": "remote",
+ "years_max": null,
+ "years_min": null
+}

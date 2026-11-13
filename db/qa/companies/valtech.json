@@ -1,0 +1,106 @@
+{
+ "ats": {
+  "slug": "valtech",
+  "type": "greenhouse"
+ },
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": {
+   "apac": 0,
+   "countries": [
+    "India",
+    "France",
+    "Canada",
+    "United Kingdom",
+    "United States",
+    "Germany",
+    "Brazil",
+    "Portugal"
+   ],
+   "india": 25,
+   "india_samples": [
+    {
+     "location": "Bengaluru",
+     "title": " Akeneo PIM & SFCC L2 Support",
+     "url": "https://job-boards.eu.greenhouse.io/valtech/jobs/4958966101"
+    },
+    {
+     "location": "Bengaluru",
+     "title": ".NET Architect",
+     "url": "https://job-boards.eu.greenhouse.io/valtech/jobs/5026823101"
+    },
+    {
+     "location": "Bengaluru",
+     "title": ".Net - Associate Technical Architect",
+     "url": "https://job-boards.eu.greenhouse.io/valtech/jobs/5001730101"
+    },
+    {
+     "location": "Bengaluru",
+     "title": "AEM - Developer / Senior Developer",
+     "url": "https://job-boards.eu.greenhouse.io/valtech/jobs/5001679101"
+    }
+   ],
+   "open_samples": [],
+   "remote": 49,
+   "restricted_remote": 37,
+   "restricted_samples": [
+    {
+     "location": "Brazil - Remote",
+     "title": " CRM & Marketing Automation Consultant (Temporária)",
+     "url": "https://job-boards.eu.greenhouse.io/valtech/jobs/5015276101"
+    },
+    {
+     "location": "United States - Remote",
+     "title": "Client Partner (IMDA) - Grand Rapids",
+     "url": "https://job-boards.eu.greenhouse.io/valtech/jobs/5021067101"
+    },
+    {
+     "location": "Mexico - Remote",
+     "title": "Copywriter",
+     "url": "https://job-boards.eu.greenhouse.io/valtech/jobs/5035292101"
+    },
+    {
+     "location": "United States - Remote",
+     "title": "Data & AI Director",
+     "url": "https://job-boards.eu.greenhouse.io/valtech/jobs/5023999101"
+    }
+   ],
+   "slug": "valtech",
+   "total": 128,
+   "type": "greenhouse",
+   "url": "https://boards.greenhouse.io/valtech",
+   "worldwide": 0
+  },
+  "changed_at": "2026-11-13T15:44:28Z",
+  "evidence": [
+   {
+    "detail": " Akeneo PIM & SFCC L2 Support (Bengaluru); .NET Architect (Bengaluru); .Net - Associate Technical Architect (Bengaluru)",
+    "kind": "board",
+    "label": "25 of 128 open roles are located in India",
+    "url": "https://boards.greenhouse.io/valtech",
+    "weight": 5
+   },
+   {
+    "detail": "Software Test Engineer — India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://job-boards.eu.greenhouse.io/valtech/jobs/5025604101",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-13T15:44:28Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "3256208f52",
+  "summary": "25 of 128 open roles are located in India.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Valtech",
+ "slug": "valtech",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}
