@@ -3,20 +3,20 @@
  "classification": "Inferred from job description",
  "india_hiring": {
   "board": null,
-  "changed_at": "2026-11-13T19:58:14Z",
+  "changed_at": "2026-11-13T20:56:53Z",
   "evidence": [
    {
-    "detail": "QA Engineer – Test Automation (Katalon) — Bangladesh, India",
+    "detail": "QA Automation Engineer (Playwright) — India",
     "kind": "posting",
     "label": "A current posting lists India as a location",
-    "url": "https://himalayas.app/companies/all-generation-tech/jobs/qa-engineer-test-automation-katalon?utm_source=api",
+    "url": "https://himalayas.app/companies/all-generation-tech/jobs/qa-automation-engineer-playwright-2622946752?utm_source=api",
     "weight": 5
    }
   ],
   "first_checked_at": "2026-10-19T19:47:20Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "919e69886b",
+  "sig": "c21cbb0335",
   "summary": "A current posting lists India as a location.",
   "verdict": "yes"
  },
