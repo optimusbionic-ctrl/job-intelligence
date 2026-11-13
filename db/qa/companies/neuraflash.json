@@ -38,18 +38,18 @@
     }
    ],
    "open_samples": [],
-   "remote": 73,
-   "restricted_remote": 58,
+   "remote": 72,
+   "restricted_remote": 57,
    "restricted_samples": [
-    {
-     "location": "Remote - United States",
-     "title": "AI Strategy & Transformation Architect",
-     "url": "https://job-boards.greenhouse.io/neuraflash/jobs/6150542004"
-    },
     {
      "location": "Remote - Canada (Alberta, British Columbia, Ontario Only)",
      "title": "AI Strategy & Transformation Architect",
      "url": "https://job-boards.greenhouse.io/neuraflash/jobs/6150548004"
+    },
+    {
+     "location": "Remote - United States",
+     "title": "AI Strategy & Transformation Architect",
+     "url": "https://job-boards.greenhouse.io/neuraflash/jobs/6150542004"
     },
     {
      "location": "Remote - United States",
@@ -63,17 +63,17 @@
     }
    ],
    "slug": "neuraflash",
-   "total": 75,
+   "total": 74,
    "type": "greenhouse",
    "url": "https://boards.greenhouse.io/neuraflash",
    "worldwide": 0
   },
-  "changed_at": "2026-11-11T23:52:44Z",
+  "changed_at": "2026-11-13T17:55:31Z",
   "evidence": [
    {
     "detail": "AWS Manager (Remote - India (Bengaluru, Chennai, Gurugram, Hyderabad, Noida, or Pune Only)); AWS Solution Architect (Remote - India (Bengaluru, Chennai, Gurugram, Hyderabad, Noida, or Pune Only)); AWS Technical Architect",
     "kind": "board",
-    "label": "15 of 75 open roles are located in India",
+    "label": "15 of 74 open roles are located in India",
     "url": "https://boards.greenhouse.io/neuraflash",
     "weight": 5
    },
@@ -88,8 +88,8 @@
   "first_checked_at": "2026-11-06T01:12:14Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "a19e83ea0f",
-  "summary": "15 of 75 open roles are located in India.",
+  "sig": "213ea082f9",
+  "summary": "15 of 74 open roles are located in India.",
   "verdict": "yes"
  },
  "inferred": true,
