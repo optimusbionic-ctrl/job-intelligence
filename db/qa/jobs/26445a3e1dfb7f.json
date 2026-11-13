@@ -1,6 +1,6 @@
 {
  "apply_url": null,
- "board_apply": "https://www.shine.com/jobs/qa-automation-engineer-ai-agentic-testing-noida/tekskills/19885807",
+ "board_apply": "https://www.shine.com/jobs/qa-automation-engineer-ai-agentic-testing-delhi/tekskills/20052913",
  "category": "Other",
  "comp_potential": "unknown",
  "company": "Tekskills",
@@ -9,10 +9,11 @@
   "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
   "Also asks for: API testing, Programming",
   "Office outside Mumbai — relocation within India",
-  "Pay not disclosed — ask for the range early"
+  "Pay not disclosed — ask for the range early",
+  "Reposted / refreshed listing — original posting is older"
  ],
  "contacts_count": 0,
- "content_hash": "f90efd308a53",
+ "content_hash": "b95f13cce520",
  "date_quality": "exact",
  "deadline": null,
  "employment": "full-time",
@@ -33,13 +34,13 @@
   "visa": false
  },
  "kind": "automation",
- "last_verified": "2026-11-13T02:10:58Z",
- "location": "Noida, India",
+ "last_verified": "2026-11-13T02:53:18Z",
+ "location": "Delhi, India",
  "logo": null,
  "needs_review": false,
  "official": false,
  "posted_at": "2026-10-22T10:05:51Z",
- "repost": false,
+ "repost": true,
  "requirements": [],
  "responsibilities": [],
  "salary": {
@@ -59,26 +60,35 @@
  "sources": [
   {
    "id": "shine",
+   "job_id": "20052913",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-11-11T06:21:06Z",
+   "seen_at": "2026-11-13T02:53:18Z",
+   "url": "https://www.shine.com/jobs/qa-automation-engineer-ai-agentic-testing-delhi/tekskills/20052913"
+  },
+  {
+   "id": "shine",
    "job_id": "19885807",
    "kind": "board",
    "name": "Shine.com",
    "posted_at": "2026-10-22T10:05:51Z",
-   "seen_at": "2026-11-13T02:10:58Z",
+   "seen_at": "2026-11-13T02:53:18Z",
    "url": "https://www.shine.com/jobs/qa-automation-engineer-ai-agentic-testing-noida/tekskills/19885807"
   }
  ],
  "specializations": [],
  "status": "active",
  "tier": 3,
- "title": "QA Automation Engineer (AI/Agentic Testing) (Noida)",
+ "title": "QA Automation Engineer (AI/Agentic Testing) (Delhi)",
  "tools": [
   "API testing",
   "Test automation",
   "Programming"
  ],
  "track": "software",
- "updated_at": null,
- "url": "https://www.shine.com/jobs/qa-automation-engineer-ai-agentic-testing-noida/tekskills/19885807",
+ "updated_at": "2026-11-11T06:21:06Z",
+ "url": "https://www.shine.com/jobs/qa-automation-engineer-ai-agentic-testing-delhi/tekskills/20052913",
  "why": [
   "Asks for 0–4 years — you have about 2.5",
   "Location lists India"
