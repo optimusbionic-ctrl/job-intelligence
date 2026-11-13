@@ -1,0 +1,30 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-13T06:04:33Z",
+  "evidence": [
+   {
+    "detail": "QA Tester - QA Testing, Postman, Testing — Pune, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/qa-tester-qa-testing-postman-testing/corporatehunt-private-limited/20064830",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-13T06:04:33Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "625552bfe2",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "CORPORATEHUNT PRIVATE LIMITED",
+ "slug": "corporatehunt-private-limited",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}
