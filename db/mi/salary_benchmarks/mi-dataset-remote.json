@@ -1,13 +1,13 @@
 {
- "avg": 13877704,
+ "avg": 11788098,
  "basis": "Interquartile range of posting midpoints, converted to INR at today's rate",
  "currency": "INR",
- "high": 18346795,
+ "high": 22110240,
  "id": "mi-dataset-remote",
  "label": "Disclosed pay on remote motion-design postings (any region, this dataset)",
  "low": 9408613,
  "market": "Remote (global)",
- "n": 16,
+ "n": 14,
  "retrieved_at": "2026-11-13",
  "samples": [
   {
@@ -27,15 +27,6 @@
    "min": 74000,
    "title": "Digital & Motion Designer",
    "url": "https://jobicy.com/jobs/154789-digital-motion-designer-2"
-  },
-  {
-   "company": "Affirm",
-   "currency": "CAD",
-   "location": "Canada",
-   "max": 151000,
-   "min": 101000,
-   "title": "Visual Designer II",
-   "url": "https://himalayas.app/companies/affirm/jobs/visual-designer-ii?utm_source=api"
   },
   {
    "company": "College Board",
@@ -81,15 +72,6 @@
    "min": 81921,
    "title": "Motion Designer, PPM SMB",
    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8268342"
-  },
-  {
-   "company": "Huckleberry Labs",
-   "currency": "USD",
-   "location": "United States",
-   "max": 160000,
-   "min": 135000,
-   "title": "Senior Brand Designer",
-   "url": "https://himalayas.app/companies/huckleberry-labs/jobs/senior-brand-designer?utm_source=api"
   },
   {
    "company": "Render",
@@ -150,7 +132,7 @@
    "currency": "USD",
    "location": "Remote: United States",
    "max": 268000,
-   "min": 218400,
+   "min": 218000,
    "title": "Staff Brand Designer",
    "url": "https://jobs.ashbyhq.com/render/5a36070b-69a7-49c4-a955-8d4447b7d7b4"
   }
