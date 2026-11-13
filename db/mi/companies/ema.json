@@ -38,8 +38,8 @@
     }
    ],
    "open_samples": [],
-   "remote": 16,
-   "restricted_remote": 14,
+   "remote": 15,
+   "restricted_remote": 13,
    "restricted_samples": [
     {
      "location": "United Kingdom (Remote)",
@@ -63,17 +63,17 @@
     }
    ],
    "slug": "ema",
-   "total": 39,
+   "total": 38,
    "type": "ashby",
    "url": "https://jobs.ashbyhq.com/ema",
    "worldwide": 0
   },
-  "changed_at": "2026-11-10T21:34:53Z",
+  "changed_at": "2026-11-13T09:07:39Z",
   "evidence": [
    {
     "detail": " Devops Engineer (Bengaluru office); Customer Engagement Manager (India - Bengaluru); Engineering Leader (India - Bengaluru)",
     "kind": "board",
-    "label": "15 of 39 open roles are located in India",
+    "label": "15 of 38 open roles are located in India",
     "url": "https://jobs.ashbyhq.com/ema",
     "weight": 5
    }
@@ -81,8 +81,8 @@
   "first_checked_at": "2026-11-10T21:34:53Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "ef03e5e77c",
-  "summary": "15 of 39 open roles are located in India.",
+  "sig": "25b5fa3211",
+  "summary": "15 of 38 open roles are located in India.",
   "verdict": "yes"
  },
  "inferred": true,
