@@ -6,10 +6,11 @@
  "company": "Infovision HR Consulting Services Pvt Ltd",
  "company_slug": "infovision-hr-consulting-services-pvt-ltd",
  "concerns": [
-  "Pay not disclosed — ask for the range early"
+  "Pay not disclosed — ask for the range early",
+  "Reposted / refreshed listing — original posting is older"
  ],
  "contacts_count": 0,
- "content_hash": "2a7a99ca4976",
+ "content_hash": "d2f67f50696b",
  "date_quality": "exact",
  "deadline": null,
  "employment": "full-time",
@@ -30,13 +31,13 @@
   "visa": false
  },
  "kind": "manual-qa",
- "last_verified": "2026-11-14T03:49:06Z",
+ "last_verified": "2026-11-14T22:44:29Z",
  "location": "Navi Mumbai, Thane, Panvel, Kalyan, India",
  "logo": null,
  "needs_review": false,
  "official": false,
- "posted_at": "2026-10-28T18:29:07Z",
- "repost": false,
+ "posted_at": "2026-10-30T23:14:57Z",
+ "repost": true,
  "requirements": [],
  "responsibilities": [],
  "salary": {
@@ -60,17 +61,8 @@
    "kind": "board",
    "name": "Shine.com",
    "posted_at": "2026-10-30T23:14:57Z",
-   "seen_at": "2026-11-14T03:49:06Z",
+   "seen_at": "2026-11-14T22:44:29Z",
    "url": "https://www.shine.com/jobs/manual-testing-engineer/infovision-hr-consulting-services-pvt-ltd/19975723"
-  },
-  {
-   "id": "shine",
-   "job_id": "19951445",
-   "kind": "board",
-   "name": "Shine.com",
-   "posted_at": "2026-10-28T18:29:07Z",
-   "seen_at": "2026-11-14T03:49:06Z",
-   "url": "https://www.shine.com/jobs/manual-testing-engineer/infovision-hr-consulting-services-pvt-ltd/19951445"
   }
  ],
  "specializations": [
