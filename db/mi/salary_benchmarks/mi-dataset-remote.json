@@ -1,14 +1,14 @@
 {
- "avg": 13877704,
+ "avg": 13907732,
  "basis": "Interquartile range of posting midpoints, converted to INR at today's rate",
  "currency": "INR",
- "high": 18346795,
+ "high": 18386493,
  "id": "mi-dataset-remote",
  "label": "Disclosed pay on remote motion-design postings (any region, this dataset)",
- "low": 9032268,
+ "low": 9051812,
  "market": "Remote (global)",
  "n": 16,
- "retrieved_at": "2026-11-13",
+ "retrieved_at": "2026-11-14",
  "samples": [
   {
    "company": "Remote Talent LATAM",
