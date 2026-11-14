@@ -2,23 +2,14 @@
  "avg": 13907732,
  "basis": "Interquartile range of posting midpoints, converted to INR at today's rate",
  "currency": "INR",
- "high": 18386493,
+ "high": 22158081,
  "id": "mi-dataset-remote",
  "label": "Disclosed pay on remote motion-design postings (any region, this dataset)",
  "low": 10607592,
  "market": "Remote (global)",
- "n": 15,
+ "n": 14,
  "retrieved_at": "2026-11-14",
  "samples": [
-  {
-   "company": "Remote Talent LATAM",
-   "currency": "USD",
-   "location": "Argentina, Brazil, Chile, Colombia, Costa Rica, Dominican Republic, Ecuador, El Salvador, Guatemala, Honduras, Mexico, Nicaragua, Panama, Paraguay, Peru, Uruguay, Venezuela",
-   "max": 30000,
-   "min": 30000,
-   "title": "Social Media Motion Graphic Designer | Remote | LATAM Only | 88150",
-   "url": "https://himalayas.app/companies/remote-talent-latam/jobs/social-media-motion-graphic-designer-remote-latam-only-88150?utm_source=api"
-  },
   {
    "company": "Rankings.io",
    "currency": "USD",
