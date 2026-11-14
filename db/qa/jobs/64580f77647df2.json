@@ -1,0 +1,105 @@
+{
+ "apply_url": "https://job-boards.eu.greenhouse.io/valtech/jobs/5017425101",
+ "board_apply": null,
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "Valtech",
+ "company_slug": "valtech",
+ "concerns": [
+  "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "da7bcec50d6e",
+ "date_quality": "exact",
+ "deadline": "2027-01-13T02:59:07Z",
+ "employment": "full-time",
+ "first_seen": "2026-11-14T03:56:13Z",
+ "fit": 61,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "64580f77647df2",
+ "include_reason": "Automation-heavy QA (SDET)",
+ "india": {
+  "cities": [],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "automation",
+ "last_verified": "2026-11-14T03:56:13Z",
+ "location": "India",
+ "logo": null,
+ "needs_review": false,
+ "official": true,
+ "posted_at": "2026-11-11T10:02:10Z",
+ "repost": false,
+ "requirements": [
+  "This should just be what’s absolutely necessary to perform the role responsibilities",
+  "Example includes: Upper-intermediate English level",
+  "Nice-to-haves but not disqualifiers",
+  "Example includes: Strong desire to learn more about business every day",
+  "If you do not meet all the listed qualifications or have gaps in your experience, we still encourage you to apply. At Valtech, we recognize that talent comes in many forms, and we value diverse perspectives and a willingness to learn."
+ ],
+ "responsibilities": [
+  "As a [JOB TITLE] , you are passionate about experience innovation and eager to push the boundaries of what’s possible. You bring [X YEARS] of experience, a growth mindset and a drive to make a lasting impact.",
+  "A curious problem solver who challenges the status quo",
+  "A collaborator who values teamwork and knowledge-sharing",
+  "Excited by the intersection of technology, creativity and data",
+  "Experienced in Agile methodologies and consulting (a plus)",
+  "Avoid terms such as “rockstar”, “superstar” or anything which may deter people who do not resonate with this type of language.",
+  "Be mindful of descriptive words. According to research , the following words import ‘masculine’ characteristics, and are likely to deter female applicants: independent, lead, competitive, assertive, determined, analytical. Those words generally increasing the female response rate: responsible, connect, dedicated, support, sociable, conscientious"
+ ],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 60,
+  "company": 66,
+  "location": 100,
+  "seniority": 84,
+  "skill": 24
+ },
+ "seniority": "unspecified",
+ "snippet": "Why Valtech? We’re the experience innovation company - a trusted partner to the world’s most recognized brands. To our people we offer growth opportunities, a values -driven culture, international careers and the chance to shape the future of experience. \n\n The opportunity \n\n At Valtech, you’ll find an environment designed for continuous learning, meaningful impact, and professional growth. Whether you're pioneering ",
+ "source_primary": "Valtech careers (Greenhouse)",
+ "sources": [
+  {
+   "id": "greenhouse",
+   "job_id": "gh:valtech:5017425101",
+   "kind": "ats",
+   "name": "Valtech careers (Greenhouse)",
+   "posted_at": "2026-11-11T10:02:10Z",
+   "seen_at": "2026-11-14T03:56:13Z",
+   "url": "https://job-boards.eu.greenhouse.io/valtech/jobs/5017425101"
+  },
+  {
+   "id": "himalayas",
+   "job_id": "https://himalayas.app/companies/valtech-us/jobs/qa-automation-engineer",
+   "kind": "board",
+   "name": "Himalayas",
+   "posted_at": "2026-11-14T02:59:08Z",
+   "seen_at": "2026-11-14T03:56:13Z",
+   "url": "https://himalayas.app/companies/valtech-us/jobs/qa-automation-engineer?utm_source=api"
+  }
+ ],
+ "specializations": [],
+ "status": "verified",
+ "tier": 3,
+ "title": "QA Automation Engineer",
+ "tools": [
+  "Agile / Scrum"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://job-boards.eu.greenhouse.io/valtech/jobs/5017425101",
+ "why": [
+  "Location lists India"
+ ],
+ "work_mode": "remote",
+ "years_max": null,
+ "years_min": null
+}
