@@ -3,20 +3,20 @@
  "classification": "Inferred from job description",
  "india_hiring": {
   "board": null,
-  "changed_at": "2026-11-14T00:30:55Z",
+  "changed_at": "2026-11-14T00:57:07Z",
   "evidence": [
    {
-    "detail": "Automation Tester 2 To 3yrs (Pune) — Pune, India",
+    "detail": "Automation Tester — Mumbai City, India",
     "kind": "posting",
     "label": "A current posting lists India as a location",
-    "url": "https://www.shine.com/jobs/automation-tester-2-to-3yrs-pune/infosys/19579009",
+    "url": "https://www.shine.com/jobs/automation-tester/infosys/19555308",
     "weight": 5
    }
   ],
   "first_checked_at": "2026-10-19T13:24:59Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "4c676117a7",
+  "sig": "058730e4d6",
   "summary": "A current posting lists India as a location.",
   "verdict": "yes"
  },
