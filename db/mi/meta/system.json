@@ -18,12 +18,12 @@
  },
  "last_run": {
   "alerts_count": 0,
-  "closed_count": 19,
-  "finished_at": "2026-11-14T04:59:57Z",
-  "id": "20261114T045915Z",
+  "closed_count": 20,
+  "finished_at": "2026-11-14T05:58:59Z",
+  "id": "20261114T055821Z",
   "kept": 107,
   "new_count": 0,
-  "raw_count": 964
+  "raw_count": 967
  },
  "monitor": {
   "cadence": "every 3 hours",
@@ -37,5 +37,5 @@
   "trigger_id": "trig_01AcYzMU7L1j3u73f9kfZhgY"
  },
  "pipeline_version": "2.1.0",
- "updated_at": "2026-11-14T04:59:57Z"
+ "updated_at": "2026-11-14T05:59:00Z"
 }
