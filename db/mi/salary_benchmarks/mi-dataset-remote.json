@@ -5,9 +5,9 @@
  "high": 18386493,
  "id": "mi-dataset-remote",
  "label": "Disclosed pay on remote motion-design postings (any region, this dataset)",
- "low": 9051812,
+ "low": 10607592,
  "market": "Remote (global)",
- "n": 16,
+ "n": 15,
  "retrieved_at": "2026-11-14",
  "samples": [
   {
@@ -27,15 +27,6 @@
    "min": 30000,
    "title": "Sr. Video Editor & Motion Designer – AI Workflows (Remote, LATAM)",
    "url": "https://himalayas.app/companies/rankings-io/jobs/sr-video-editor-motion-designer-ai-workflows-remote-latam?utm_source=api"
-  },
-  {
-   "company": "Wpromote",
-   "currency": "USD",
-   "location": "USA",
-   "max": 95000,
-   "min": 74000,
-   "title": "Digital & Motion Designer",
-   "url": "https://jobicy.com/jobs/154789-digital-motion-designer-2"
   },
   {
    "company": "Affirm",
