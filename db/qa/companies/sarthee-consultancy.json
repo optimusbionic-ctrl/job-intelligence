@@ -3,20 +3,20 @@
  "classification": "Inferred from job description",
  "india_hiring": {
   "board": null,
-  "changed_at": "2026-11-14T09:30:52Z",
+  "changed_at": "2026-11-14T09:51:49Z",
   "evidence": [
    {
-    "detail": "Junior Qa Qc (Mumbai) — Mumbai City, India",
+    "detail": "Qa Qc Officer Navi Mumbai (India) — Navi Mumbai, India",
     "kind": "posting",
     "label": "A current posting lists India as a location",
-    "url": "https://www.shine.com/jobs/junior-qa-qc-mumbai/sarthee-consultancy/19568658",
+    "url": "https://www.shine.com/jobs/qa-qc-officer-navi-mumbai-india/sarthee-consultancy/19579227",
     "weight": 5
    }
   ],
   "first_checked_at": "2026-10-20T23:43:22Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "c4e4624389",
+  "sig": "868ccbe484",
   "summary": "A current posting lists India as a location.",
   "verdict": "yes"
  },
