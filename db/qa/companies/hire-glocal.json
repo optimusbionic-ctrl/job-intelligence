@@ -1,0 +1,30 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-14T20:44:57Z",
+  "evidence": [
+   {
+    "detail": "Quality Engineer - QA, QC, Earthworks — Mumbai City, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/quality-engineer-qa-qc-earthworks/hire-glocal/20071519",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-14T20:44:57Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "7cb14974a3",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Hire Glocal",
+ "slug": "hire-glocal",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}
