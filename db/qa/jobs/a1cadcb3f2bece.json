@@ -11,27 +11,29 @@
   "Pay not disclosed — ask for the range early"
  ],
  "contacts_count": 0,
- "content_hash": "22c56f697a64",
+ "content_hash": "c66935733da3",
  "date_quality": "exact",
  "deadline": null,
  "employment": "full-time",
  "first_seen": "2026-11-13T11:04:31Z",
- "fit": 63,
+ "fit": 60,
  "has_hiring_manager": false,
  "has_named_contact": false,
  "has_public_email": false,
  "id": "a1cadcb3f2bece",
  "include_reason": "Manual / functional QA title",
  "india": {
-  "cities": [],
+  "cities": [
+   "Delhi NCR"
+  ],
   "company": "yes",
   "reason": "Location lists India",
   "status": "confirmed",
   "visa": false
  },
  "kind": "manual-qa",
- "last_verified": "2026-11-15T13:57:42Z",
- "location": "Bhagalpur, Ahmedabad, Ambala, Bokaro, Ajmer, Baddi, India",
+ "last_verified": "2026-11-15T21:44:43Z",
+ "location": "Bhillai, Delhi, Ambala, Agra, Baddi, Bokaro, India",
  "logo": null,
  "needs_review": false,
  "official": false,
@@ -48,7 +50,7 @@
   "ai": 58,
   "comp": 60,
   "company": 66,
-  "location": 80,
+  "location": 60,
   "seniority": 72,
   "skill": 50
  },
@@ -62,7 +64,7 @@
    "kind": "board",
    "name": "Shine.com",
    "posted_at": "2026-11-13T03:01:41Z",
-   "seen_at": "2026-11-15T13:57:42Z",
+   "seen_at": "2026-11-15T21:44:43Z",
    "url": "https://www.shine.com/jobs/software-tester-software-testing/x-perts-solutions/20067142"
   }
  ],
