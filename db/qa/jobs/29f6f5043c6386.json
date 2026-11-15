@@ -1,0 +1,92 @@
+{
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/qa-tester/craftnotion/20072757",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "Craftnotion",
+ "company_slug": "craftnotion",
+ "concerns": [
+  "Also asks for: API testing",
+  "Office outside Mumbai — relocation within India",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "fa05a76ed1b0",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-15T18:50:28Z",
+ "fit": 75,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "29f6f5043c6386",
+ "include_reason": "Manual / functional QA title",
+ "india": {
+  "cities": [
+   "Hyderabad"
+  ],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "manual-qa",
+ "last_verified": "2026-11-15T18:50:28Z",
+ "location": "Hyderabad, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-11-13T20:28:44Z",
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 62,
+  "comp": 60,
+  "company": 66,
+  "location": 60,
+  "seniority": 100,
+  "skill": 79
+ },
+ "seniority": "unspecified",
+ "snippet": "Experience: 0 to 4 Yrs\nSkills: manual testing, test cases, bug reporting, attention to detail, browser developer tools, Postman, bug tracker\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "20072757",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-11-13T20:28:44Z",
+   "seen_at": "2026-11-15T18:50:28Z",
+   "url": "https://www.shine.com/jobs/qa-tester/craftnotion/20072757"
+  }
+ ],
+ "specializations": [
+  "Web apps"
+ ],
+ "status": "active",
+ "tier": 3,
+ "title": "QA Tester",
+ "tools": [
+  "Test cases & scenarios",
+  "Bug reporting",
+  "API testing"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/qa-tester/craftnotion/20072757",
+ "why": [
+  "Manual / functional QA — the core of your resume",
+  "Already on your resume: Test cases & scenarios, Bug reporting",
+  "Asks for 0–4 years — you have about 2.5",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": 4,
+ "years_min": 0
+}

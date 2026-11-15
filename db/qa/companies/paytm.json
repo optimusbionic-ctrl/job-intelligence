@@ -21,7 +21,7 @@
     "UAE",
     "Indonesia"
    ],
-   "india": 193,
+   "india": 194,
    "india_samples": [
     {
      "location": "Noida, Uttar Pradesh",
@@ -39,9 +39,9 @@
      "url": "https://jobs.lever.co/paytm/9eed4fec-73f7-4114-a5d3-b2f689c92e8c"
     },
     {
-     "location": "Noida, Uttar Pradesh",
-     "title": "Analytics Lead- User Growth I Exp- 8- 10 Years",
-     "url": "https://jobs.lever.co/paytm/4c41d1d2-ed6b-4726-95b8-beb76999ee26"
+     "location": "Bangalore, Karnataka",
+     "title": "Ad Sales (KAM) -Manager/ Senior Manager - Paytm Ads - Bangalore",
+     "url": "https://jobs.lever.co/paytm/552abb0b-e76d-4902-aedb-ca2290536744"
     }
    ],
    "open_samples": [],
@@ -49,17 +49,17 @@
    "restricted_remote": 0,
    "restricted_samples": [],
    "slug": "paytm",
-   "total": 202,
+   "total": 203,
    "type": "lever",
    "url": "https://jobs.lever.co/paytm",
    "worldwide": 0
   },
-  "changed_at": "2026-11-13T09:05:32Z",
+  "changed_at": "2026-11-15T18:50:28Z",
   "evidence": [
    {
     "detail": "AM/Manager– Procurement (Admin, Real Estate & HR) (Noida, Uttar Pradesh); AVP - Business Management (Mumbai, Maharashtra); Account Executive/ Director - AI Agentic Enterprise Sales (Dubai • Noida, Uttar Pradesh • Mumbai,",
     "kind": "board",
-    "label": "193 of 202 open roles are located in India",
+    "label": "194 of 203 open roles are located in India",
     "url": "https://jobs.lever.co/paytm",
     "weight": 5
    },
@@ -74,7 +74,7 @@
   "first_checked_at": "2026-10-19T15:45:44Z",
   "india_based": true,
   "method": "Careers board, posting text",
-  "sig": "f7457da222",
+  "sig": "e0b25a6b55",
   "summary": "Paytm is headquartered in India.",
   "verdict": "yes"
  },
