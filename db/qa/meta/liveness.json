@@ -72,6 +72,10 @@
    "at": "2026-11-03T18:55:47Z",
    "ats": null
   },
+  "arvind": {
+   "at": "2026-11-15T19:48:30Z",
+   "ats": null
+  },
   "aspiresoftserv": {
    "at": "2026-11-03T21:33:45Z",
    "ats": null
@@ -942,10 +946,10 @@
   }
  },
  "counts": {
-  "closed": 15,
-  "keep": 12,
-  "live": 205,
-  "stale": 123
+  "closed": 12,
+  "keep": 14,
+  "live": 193,
+  "stale": 136
  },
- "updated_at": "2026-11-15T18:52:09Z"
+ "updated_at": "2026-11-15T19:50:21Z"
 }
