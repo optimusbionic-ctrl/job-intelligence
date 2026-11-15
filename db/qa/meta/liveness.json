@@ -251,6 +251,10 @@
    "at": "2026-11-03T20:52:26Z",
    "ats": null
   },
+  "evertzmicrosystems": {
+   "at": "2026-11-15T15:46:00Z",
+   "ats": null
+  },
   "excelonsolutions": {
    "at": "2026-11-03T21:33:45Z",
    "ats": null
@@ -940,8 +944,8 @@
  "counts": {
   "closed": 10,
   "keep": 12,
-  "live": 202,
-  "stale": 127
+  "live": 194,
+  "stale": 135
  },
- "updated_at": "2026-11-15T14:50:56Z"
+ "updated_at": "2026-11-15T15:48:47Z"
 }
