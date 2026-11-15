@@ -7,7 +7,7 @@
  "label": "Disclosed pay on remote QA postings (any region, this dataset)",
  "low": 2913228,
  "market": "Remote (global)",
- "n": 8,
+ "n": 7,
  "retrieved_at": "2026-11-15",
  "samples": [
   {
@@ -36,15 +36,6 @@
    "min": 28000,
    "title": "QA Tester / Analista Funcional",
    "url": "https://himalayas.app/companies/tecdata-engineering/jobs/qa-tester-analista-funcional?utm_source=api"
-  },
-  {
-   "company": "Bloomreach",
-   "currency": "EUR",
-   "location": "Slovakia",
-   "max": 39000,
-   "min": 26000,
-   "title": "Quality Assurance Engineer II",
-   "url": "https://jobicy.com/jobs/154875-quality-assurance-engineer-ii"
   },
   {
    "company": "9th Way Insignia",
