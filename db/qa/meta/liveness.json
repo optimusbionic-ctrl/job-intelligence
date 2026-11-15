@@ -698,6 +698,10 @@
    "at": "2026-11-03T23:44:21Z",
    "ats": null
   },
+  "shuru": {
+   "at": "2026-11-15T22:47:36Z",
+   "ats": null
+  },
   "sitexora": {
    "at": "2026-11-03T19:56:44Z",
    "ats": null
@@ -946,10 +950,10 @@
   }
  },
  "counts": {
-  "closed": 11,
-  "keep": 14,
-  "live": 192,
-  "stale": 140
+  "closed": 10,
+  "keep": 17,
+  "live": 201,
+  "stale": 127
  },
- "updated_at": "2026-11-15T21:47:50Z"
+ "updated_at": "2026-11-15T22:49:26Z"
 }
