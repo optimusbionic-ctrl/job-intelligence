@@ -1,0 +1,30 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-15T13:57:42Z",
+  "evidence": [
+   {
+    "detail": "Quality Assurance Tester — Mumbai City, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/quality-assurance-tester/nihay-ayurvedic/20072061",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-15T13:57:42Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "7aeabecf08",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "NIHAY Ayurvedic",
+ "slug": "nihay-ayurvedic",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}
