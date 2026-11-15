@@ -1,0 +1,30 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-15T16:48:49Z",
+  "evidence": [
+   {
+    "detail": "QA Engineer (Mobile Games) — All India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/qa-engineer-mobile-games/commit/20079787",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-15T16:48:49Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "1e39a32a76",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Commit",
+ "slug": "commit",
+ "tier": 3,
+ "tracks": [
+  "game"
+ ]
+}

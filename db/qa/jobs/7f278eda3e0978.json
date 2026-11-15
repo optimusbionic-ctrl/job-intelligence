@@ -8,11 +8,10 @@
  "concerns": [
   "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
   "Also asks for: API testing, SQL / databases, Programming",
-  "Pay not disclosed — ask for the range early",
-  "Reposted / refreshed listing — original posting is older"
+  "Pay not disclosed — ask for the range early"
  ],
  "contacts_count": 0,
- "content_hash": "480ada3edc16",
+ "content_hash": "197d8ef1a9b0",
  "date_quality": "exact",
  "deadline": "2026-12-21T00:09:56Z",
  "employment": "full-time",
@@ -31,13 +30,13 @@
   "visa": false
  },
  "kind": "automation",
- "last_verified": "2026-11-15T15:46:00Z",
+ "last_verified": "2026-11-15T16:48:49Z",
  "location": "India",
  "logo": null,
  "needs_review": false,
  "official": false,
- "posted_at": "2026-10-22T00:09:57Z",
- "repost": true,
+ "posted_at": "2026-10-20T12:19:33Z",
+ "repost": false,
  "requirements": [
   "Agent-driven QA workflows"
  ],
@@ -71,8 +70,17 @@
    "kind": "board",
    "name": "Himalayas",
    "posted_at": "2026-10-22T00:09:57Z",
-   "seen_at": "2026-11-15T15:46:00Z",
+   "seen_at": "2026-11-15T16:48:49Z",
    "url": "https://himalayas.app/companies/zenara-health/jobs/ai-native-software-engineer-qa-automation?utm_source=api"
+  },
+  {
+   "id": "workable",
+   "job_id": "334d7c67-a441-4d5b-ba9c-354701d81ee6",
+   "kind": "board",
+   "name": "Workable job marketplace",
+   "posted_at": "2026-10-20T12:19:33Z",
+   "seen_at": "2026-11-15T16:48:49Z",
+   "url": "https://jobs.workable.com/view/7krbSReJ8oJW49Hce3MAcq/remote-ai-native-software-engineer%2C-qa-automation-in-india-at-zenara-health"
   }
  ],
  "specializations": [

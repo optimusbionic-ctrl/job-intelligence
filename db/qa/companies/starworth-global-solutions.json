@@ -1,0 +1,30 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-15T16:48:49Z",
+  "evidence": [
+   {
+    "detail": "Automation Test Engineer - Selenium, Java — Pune, Chennai, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/automation-test-engineer-selenium-java/starworth-global-solutions/20083310",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-15T16:48:49Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "fb637a20f5",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Starworth Global Solutions",
+ "slug": "starworth-global-solutions",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}

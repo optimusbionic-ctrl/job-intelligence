@@ -1,0 +1,91 @@
+{
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/automation-test-engineer-selenium-java/starworth-global-solutions/20083310",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "Starworth Global Solutions",
+ "company_slug": "starworth-global-solutions",
+ "concerns": [
+  "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
+  "Also asks for: Programming",
+  "Office outside Mumbai — relocation within India",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "f7e7e5c3a89b",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-15T16:48:49Z",
+ "fit": 59,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "de0a337a0a56bc",
+ "include_reason": "Automation-heavy QA (SDET)",
+ "india": {
+  "cities": [
+   "Pune",
+   "Chennai"
+  ],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "automation",
+ "last_verified": "2026-11-15T16:48:49Z",
+ "location": "Pune, Chennai, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-11-14T18:17:01Z",
+ "repost": false,
+ "requirements": [
+  "(Summary from the Shine.com listing; open the posting for the full description.)"
+ ],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 60,
+  "company": 66,
+  "location": 78,
+  "seniority": 94,
+  "skill": 24
+ },
+ "seniority": "unspecified",
+ "snippet": "Experience: 3 to 5 Yrs\nSkills: selenium, java\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "20083310",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-11-14T18:17:01Z",
+   "seen_at": "2026-11-15T16:48:49Z",
+   "url": "https://www.shine.com/jobs/automation-test-engineer-selenium-java/starworth-global-solutions/20083310"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 3,
+ "title": "Automation Test Engineer - Selenium, Java",
+ "tools": [
+  "Test automation",
+  "Programming"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/automation-test-engineer-selenium-java/starworth-global-solutions/20083310",
+ "why": [
+  "Asks for 3+ years — you have about 2.5",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": 5,
+ "years_min": 3
+}
