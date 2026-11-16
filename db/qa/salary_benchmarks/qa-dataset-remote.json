@@ -1,5 +1,5 @@
 {
- "avg": 6150985,
+ "avg": 8495966,
  "basis": "Interquartile range of posting midpoints, converted to INR at today's rate",
  "currency": "INR",
  "high": 8967964,
@@ -7,7 +7,7 @@
  "label": "Disclosed pay on remote QA postings (any region, this dataset)",
  "low": 2915423,
  "market": "Remote (global)",
- "n": 7,
+ "n": 8,
  "retrieved_at": "2026-11-16",
  "samples": [
   {
@@ -45,6 +45,15 @@
    "min": 62818,
    "title": "Junior Tester",
    "url": "https://himalayas.app/companies/9th-way-insignia/jobs/junior-tester?utm_source=api"
+  },
+  {
+   "company": "Clera",
+   "currency": "USD",
+   "location": "Worldwide",
+   "max": 120000,
+   "min": 60000,
+   "title": "Safety Testing Associate",
+   "url": "https://himalayas.app/companies/clera/jobs/safety-testing-associate?utm_source=api"
   },
   {
    "company": "SpaceCoast AV Consultants, LLC",
