@@ -5,20 +5,11 @@
  "high": 22183912,
  "id": "mi-dataset-remote",
  "label": "Disclosed pay on remote motion-design postings (any region, this dataset)",
- "low": 11327955,
+ "low": 11827376,
  "market": "Remote (global)",
  "n": 12,
  "retrieved_at": "2026-11-16",
  "samples": [
-  {
-   "company": "Rankings.io",
-   "currency": "USD",
-   "location": "Anguilla, Antigua and Barbuda, Argentina, Aruba, Bahamas, Barbados, Belize, Bermuda, Bolivia, Bonaire, Sint Eustatius and Saba, Brazil, Cayman Islands, Chile, Colombia, Costa Rica, Cuba, Dominica, Dominican Republic, Ecuador, El Salvador, Falkland Islands (Malvinas), Grenada, Guatemala, Guyana, Haiti, Honduras, Jamaica, Mexico, Montserrat, Nicaragua, Panama, Paraguay, Peru, Puerto Rico, Saint Kitts and Nevis, Saint Lucia, Saint Vincent and the Grenadines, South Georgia and the South Sandwich Islands, Suriname, Trinidad and Tobago, Turks and Caicos Islands, Uruguay, Venezuela, Virgin Islands, British, Virgin Islands, U.S.",
-   "max": 42000,
-   "min": 30000,
-   "title": "Sr. Video Editor & Motion Designer – AI Workflows (Remote, LATAM)",
-   "url": "https://himalayas.app/companies/rankings-io/jobs/sr-video-editor-motion-designer-ai-workflows-remote-latam?utm_source=api"
-  },
   {
    "company": "College Board",
    "currency": "USD",
@@ -54,6 +45,15 @@
    "min": 81921,
    "title": "Motion Designer, PPM SMB",
    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8268342"
+  },
+  {
+   "company": "Acoustic",
+   "currency": "USD",
+   "location": "United States",
+   "max": 145000,
+   "min": 120000,
+   "title": "Senior Brand Designer",
+   "url": "https://himalayas.app/companies/acoustic/jobs/senior-brand-designer?utm_source=api"
   },
   {
    "company": "Render",
