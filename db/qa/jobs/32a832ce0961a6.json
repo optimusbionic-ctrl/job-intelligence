@@ -10,7 +10,7 @@
   "Reposted / refreshed listing — original posting is older"
  ],
  "contacts_count": 0,
- "content_hash": "be6add16bfa3",
+ "content_hash": "2972a85dea33",
  "date_quality": "exact",
  "deadline": null,
  "employment": "full-time",
@@ -31,12 +31,12 @@
   "visa": false
  },
  "kind": "manual-qa",
- "last_verified": "2026-11-15T20:44:49Z",
+ "last_verified": "2026-11-16T01:28:40Z",
  "location": "Mumbai City, India",
  "logo": "https://staticrect.shine.com/r/m/images/job_logo/7c4a21f5d8e84382a7ca9d468b4859d2.webp",
  "needs_review": false,
  "official": false,
- "posted_at": "2026-10-30T21:02:18Z",
+ "posted_at": "2026-11-03T15:26:16Z",
  "repost": true,
  "requirements": [
   "(Summary from the Shine.com listing; open the posting for the full description.)"
@@ -63,7 +63,7 @@
    "kind": "board",
    "name": "Shine.com",
    "posted_at": "2026-11-03T16:36:13Z",
-   "seen_at": "2026-11-15T20:44:49Z",
+   "seen_at": "2026-11-16T01:28:40Z",
    "url": "https://www.shine.com/jobs/manual-tester/harjai-computers-private-limited/20001255"
   },
   {
@@ -72,7 +72,7 @@
    "kind": "board",
    "name": "Shine.com",
    "posted_at": "2026-11-03T15:27:23Z",
-   "seen_at": "2026-11-15T20:44:49Z",
+   "seen_at": "2026-11-16T01:28:40Z",
    "url": "https://www.shine.com/jobs/manual-tester/harjai-computers-private-limited/19999386"
   },
   {
@@ -81,17 +81,8 @@
    "kind": "board",
    "name": "Shine.com",
    "posted_at": "2026-11-03T15:26:16Z",
-   "seen_at": "2026-11-15T20:44:49Z",
+   "seen_at": "2026-11-16T01:28:40Z",
    "url": "https://www.shine.com/jobs/manual-tester/harjai-computers-private-limited/19999352"
-  },
-  {
-   "id": "shine",
-   "job_id": "19973580",
-   "kind": "board",
-   "name": "Shine.com",
-   "posted_at": "2026-10-30T21:02:18Z",
-   "seen_at": "2026-11-15T20:44:49Z",
-   "url": "https://www.shine.com/jobs/manual-tester/harjai-computers-private-limited/19973580"
   }
  ],
  "specializations": [],
@@ -100,7 +91,7 @@
  "title": "Manual Tester",
  "tools": [],
  "track": "software",
- "updated_at": "2026-11-03T16:36:13Z",
+ "updated_at": null,
  "url": "https://www.shine.com/jobs/manual-tester/harjai-computers-private-limited/20001255",
  "why": [
   "Manual / functional QA — the core of your resume",

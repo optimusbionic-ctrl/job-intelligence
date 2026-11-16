@@ -6,10 +6,11 @@
  "company": "Acura Solutions.",
  "company_slug": "acura-solutions",
  "concerns": [
-  "Office outside Mumbai — relocation within India"
+  "Office outside Mumbai — relocation within India",
+  "Reposted / refreshed listing — original posting is older"
  ],
  "contacts_count": 0,
- "content_hash": "b5c4887047e1",
+ "content_hash": "62c0551ddeb9",
  "date_quality": "exact",
  "deadline": null,
  "employment": "full-time",
@@ -30,13 +31,13 @@
   "visa": false
  },
  "kind": "qa-engineer",
- "last_verified": "2026-11-15T23:50:45Z",
+ "last_verified": "2026-11-16T01:28:40Z",
  "location": "Bangalore, India",
  "logo": null,
  "needs_review": false,
  "official": false,
- "posted_at": "2026-10-30T19:50:48Z",
- "repost": false,
+ "posted_at": "2026-10-31T17:06:00Z",
+ "repost": true,
  "requirements": [
   "(Summary from the Shine.com listing; open the posting for the full description.)"
  ],
@@ -45,7 +46,7 @@
   "applies_india": true,
   "basis": "listed",
   "currency": "INR",
-  "fx_at": "Sun, 15 Nov 2026 00:02:32 +0000",
+  "fx_at": "Mon, 16 Nov 2026 00:02:31 +0000",
   "fx_rate": 1.0,
   "inr_max": 2200000,
   "inr_min": 400000,
@@ -57,7 +58,7 @@
   "source_name": "Shine.com",
   "source_url": "https://www.shine.com/jobs/qa-test-engineer/acura-solutions/19981128",
   "state": "verified",
-  "verified_at": "2026-11-15T23:50:45Z"
+  "verified_at": "2026-11-16T01:28:40Z"
  },
  "scores": {
   "ai": 58,
@@ -77,53 +78,8 @@
    "kind": "board",
    "name": "Shine.com",
    "posted_at": "2026-10-31T17:06:00Z",
-   "seen_at": "2026-11-15T23:50:45Z",
+   "seen_at": "2026-11-16T01:28:40Z",
    "url": "https://www.shine.com/jobs/qa-test-engineer/acura-solutions/19981128"
-  },
-  {
-   "id": "shine",
-   "job_id": "19976075",
-   "kind": "board",
-   "name": "Shine.com",
-   "posted_at": "2026-10-30T23:36:00Z",
-   "seen_at": "2026-11-15T23:50:45Z",
-   "url": "https://www.shine.com/jobs/qa-test-engineer/acura-solutions/19976075"
-  },
-  {
-   "id": "shine",
-   "job_id": "19972939",
-   "kind": "board",
-   "name": "Shine.com",
-   "posted_at": "2026-10-30T20:24:35Z",
-   "seen_at": "2026-11-15T23:50:45Z",
-   "url": "https://www.shine.com/jobs/qa-test-engineer/acura-solutions/19972939"
-  },
-  {
-   "id": "shine",
-   "job_id": "19972676",
-   "kind": "board",
-   "name": "Shine.com",
-   "posted_at": "2026-10-30T20:06:01Z",
-   "seen_at": "2026-11-15T23:50:45Z",
-   "url": "https://www.shine.com/jobs/qa-test-engineer/acura-solutions/19972676"
-  },
-  {
-   "id": "shine",
-   "job_id": "19972644",
-   "kind": "board",
-   "name": "Shine.com",
-   "posted_at": "2026-10-30T20:04:04Z",
-   "seen_at": "2026-11-15T23:50:45Z",
-   "url": "https://www.shine.com/jobs/qa-test-engineer/acura-solutions/19972644"
-  },
-  {
-   "id": "shine",
-   "job_id": "19972422",
-   "kind": "board",
-   "name": "Shine.com",
-   "posted_at": "2026-10-30T19:50:48Z",
-   "seen_at": "2026-11-15T23:50:45Z",
-   "url": "https://www.shine.com/jobs/qa-test-engineer/acura-solutions/19972422"
   }
  ],
  "specializations": [],
