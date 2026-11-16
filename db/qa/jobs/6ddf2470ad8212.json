@@ -1,15 +1,16 @@
 {
- "apply_url": "https://jobs.ashbyhq.com/Clera/36c18af3-d3fe-4748-b5b0-f35b7bb38d0a/application",
+ "apply_url": "https://jobs.ashbyhq.com/Clera/05b49675-1360-40d6-8d2f-20b6a9d89a76/application",
  "board_apply": null,
  "category": "Other",
  "comp_potential": "listed_global",
  "company": "Clera",
  "company_slug": "clera",
  "concerns": [
-  "Entry-level role — pay may be at the lower end"
+  "Entry-level role — pay may be at the lower end",
+  "Reposted / refreshed listing — original posting is older"
  ],
  "contacts_count": 0,
- "content_hash": "d8619cec88ca",
+ "content_hash": "c83c60b7fe64",
  "date_quality": "exact",
  "deadline": "2027-01-15T02:13:55Z",
  "employment": "full-time",
@@ -28,13 +29,13 @@
   "visa": false
  },
  "kind": "manual-qa",
- "last_verified": "2026-11-16T02:59:52Z",
+ "last_verified": "2026-11-16T23:49:08Z",
  "location": "Worldwide",
  "logo": null,
  "needs_review": false,
  "official": true,
- "posted_at": "2026-11-15T15:02:05Z",
- "repost": false,
+ "posted_at": "2026-11-16T02:13:55Z",
+ "repost": true,
  "requirements": [
   "Zero to five years of professional experience; prior AI data work is not required.",
   "Experience testing software, systems, or models by attempting to break them and documenting steps and results.",
@@ -66,9 +67,9 @@
   "original_period": "hourly",
   "period": "annual",
   "source_name": "Clera careers (Ashby)",
-  "source_url": "https://jobs.ashbyhq.com/Clera/36c18af3-d3fe-4748-b5b0-f35b7bb38d0a",
+  "source_url": "https://jobs.ashbyhq.com/Clera/05b49675-1360-40d6-8d2f-20b6a9d89a76",
   "state": "verified",
-  "verified_at": "2026-11-16T02:59:52Z"
+  "verified_at": "2026-11-16T23:49:08Z"
  },
  "scores": {
   "ai": 62,
@@ -84,12 +85,12 @@
  "sources": [
   {
    "id": "ashby",
-   "job_id": "ashby:clera:36c18af3-d3fe-4748-b5b0-f35b7bb38d0a",
+   "job_id": "ashby:clera:05b49675-1360-40d6-8d2f-20b6a9d89a76",
    "kind": "ats",
    "name": "Clera careers (Ashby)",
-   "posted_at": "2026-11-15T15:02:05Z",
-   "seen_at": "2026-11-16T02:59:52Z",
-   "url": "https://jobs.ashbyhq.com/Clera/36c18af3-d3fe-4748-b5b0-f35b7bb38d0a"
+   "posted_at": "2026-11-16T23:20:41Z",
+   "seen_at": "2026-11-16T23:49:08Z",
+   "url": "https://jobs.ashbyhq.com/Clera/05b49675-1360-40d6-8d2f-20b6a9d89a76"
   },
   {
    "id": "himalayas",
@@ -97,7 +98,7 @@
    "kind": "board",
    "name": "Himalayas",
    "posted_at": "2026-11-16T02:13:55Z",
-   "seen_at": "2026-11-16T02:59:52Z",
+   "seen_at": "2026-11-16T23:49:08Z",
    "url": "https://himalayas.app/companies/clera/jobs/safety-testing-associate?utm_source=api"
   }
  ],
@@ -110,7 +111,7 @@
  "tools": [],
  "track": "software",
  "updated_at": null,
- "url": "https://jobs.ashbyhq.com/Clera/36c18af3-d3fe-4748-b5b0-f35b7bb38d0a",
+ "url": "https://jobs.ashbyhq.com/Clera/05b49675-1360-40d6-8d2f-20b6a9d89a76",
  "why": [
   "Manual / functional QA — the core of your resume",
   "Pay is listed in the posting",

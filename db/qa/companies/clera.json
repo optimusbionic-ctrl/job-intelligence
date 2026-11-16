@@ -51,7 +51,7 @@
    "url": "https://jobs.ashbyhq.com/clera",
    "worldwide": 0
   },
-  "changed_at": "2026-11-16T20:00:40Z",
+  "changed_at": "2026-11-16T23:49:08Z",
   "evidence": [
    {
     "detail": "None are located in India or open worldwide; 47 remote roles are limited to named countries",
@@ -64,14 +64,14 @@
     "detail": "Safety Testing Associate — Worldwide",
     "kind": "posting",
     "label": "A current posting is open worldwide",
-    "url": "https://jobs.ashbyhq.com/Clera/36c18af3-d3fe-4748-b5b0-f35b7bb38d0a",
+    "url": "https://jobs.ashbyhq.com/Clera/05b49675-1360-40d6-8d2f-20b6a9d89a76",
     "weight": 3
    }
   ],
   "first_checked_at": "2026-11-16T02:59:52Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "94b17416f4",
+  "sig": "4f41b08f0a",
   "summary": "No India-located roles found, but a current posting is open worldwide.",
   "verdict": "likely"
  },

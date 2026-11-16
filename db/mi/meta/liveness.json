@@ -714,8 +714,9 @@
  },
  "counts": {
   "closed": 19,
-  "live": 35,
+  "keep": 1,
+  "live": 34,
   "stale": 152
  },
- "updated_at": "2026-11-16T22:55:50Z"
+ "updated_at": "2026-11-16T23:51:35Z"
 }
