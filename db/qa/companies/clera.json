@@ -12,17 +12,17 @@
     "United States",
     "Germany",
     "Singapore",
-    "Canada",
     "Spain",
-    "Argentina",
     "Austria",
-    "Brazil"
+    "Canada",
+    "Argentina",
+    "Switzerland"
    ],
    "india": 0,
    "india_samples": [],
    "open_samples": [],
-   "remote": 81,
-   "restricted_remote": 48,
+   "remote": 84,
+   "restricted_remote": 47,
    "restricted_samples": [
     {
      "location": "Salt Lake City",
@@ -46,17 +46,17 @@
     }
    ],
    "slug": "clera",
-   "total": 273,
+   "total": 274,
    "type": "ashby",
    "url": "https://jobs.ashbyhq.com/clera",
    "worldwide": 0
   },
-  "changed_at": "2026-11-16T02:59:52Z",
+  "changed_at": "2026-11-16T18:06:23Z",
   "evidence": [
    {
-    "detail": "None are located in India or open worldwide; 48 remote roles are limited to named countries",
+    "detail": "None are located in India or open worldwide; 47 remote roles are limited to named countries",
     "kind": "board",
-    "label": "All 273 open roles are in United States, Germany, Singapore, Canada and 4 more",
+    "label": "All 274 open roles are in United States, Germany, Singapore, Spain and 4 more",
     "url": "https://jobs.ashbyhq.com/clera",
     "weight": -3
    },
@@ -71,7 +71,7 @@
   "first_checked_at": "2026-11-16T02:59:52Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "aae6410654",
+  "sig": "beda27d759",
   "summary": "No India-located roles found, but a current posting is open worldwide.",
   "verdict": "likely"
  },

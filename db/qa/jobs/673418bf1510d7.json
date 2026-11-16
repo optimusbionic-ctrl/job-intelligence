@@ -1,6 +1,6 @@
 {
  "apply_url": null,
- "board_apply": "https://www.shine.com/jobs/qa-analyst/infovision-hr-consulting-services-pvt-ltd/19977327",
+ "board_apply": "https://www.shine.com/jobs/qa-analyst/infovision-hr-consulting-services-pvt-ltd/19977348",
  "category": "Recruiter (client not named)",
  "comp_potential": "unknown",
  "company": "Infovision HR Consulting Services Pvt Ltd",
@@ -10,7 +10,7 @@
   "Pay not disclosed — ask for the range early"
  ],
  "contacts_count": 0,
- "content_hash": "6727cc0087ef",
+ "content_hash": "58dbcd1d59c2",
  "date_quality": "exact",
  "deadline": null,
  "employment": "full-time",
@@ -31,8 +31,8 @@
   "visa": false
  },
  "kind": "manual-qa",
- "last_verified": "2026-11-16T15:10:27Z",
- "location": "Navi Mumbai, Kalyan, Thane, Panvel, India",
+ "last_verified": "2026-11-16T18:06:23Z",
+ "location": "Thane, Navi Mumbai, Kalyan, Panvel, India",
  "logo": null,
  "needs_review": false,
  "official": false,
@@ -54,16 +54,25 @@
   "skill": 50
  },
  "seniority": "unspecified",
- "snippet": "Experience: 4 Yrs\nSkills: hrms, software testing, qa analyst\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "snippet": "Experience: 4 Yrs\nSkills: hrms, qa analyst\n(Summary from the Shine.com listing; open the posting for the full description.)",
  "source_primary": "Shine.com",
  "sources": [
+  {
+   "id": "shine",
+   "job_id": "19977348",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-10-31T13:38:15Z",
+   "seen_at": "2026-11-16T18:06:23Z",
+   "url": "https://www.shine.com/jobs/qa-analyst/infovision-hr-consulting-services-pvt-ltd/19977348"
+  },
   {
    "id": "shine",
    "job_id": "19977327",
    "kind": "board",
    "name": "Shine.com",
    "posted_at": "2026-10-31T13:37:32Z",
-   "seen_at": "2026-11-16T15:10:27Z",
+   "seen_at": "2026-11-16T18:06:23Z",
    "url": "https://www.shine.com/jobs/qa-analyst/infovision-hr-consulting-services-pvt-ltd/19977327"
   },
   {
@@ -72,7 +81,7 @@
    "kind": "board",
    "name": "Shine.com",
    "posted_at": "2026-10-31T13:37:19Z",
-   "seen_at": "2026-11-16T15:10:27Z",
+   "seen_at": "2026-11-16T18:06:23Z",
    "url": "https://www.shine.com/jobs/qa-analyst/infovision-hr-consulting-services-pvt-ltd/19977320"
   }
  ],
@@ -83,7 +92,7 @@
  "tools": [],
  "track": "software",
  "updated_at": null,
- "url": "https://www.shine.com/jobs/qa-analyst/infovision-hr-consulting-services-pvt-ltd/19977327",
+ "url": "https://www.shine.com/jobs/qa-analyst/infovision-hr-consulting-services-pvt-ltd/19977348",
  "why": [
   "Manual / functional QA — the core of your resume",
   "Location lists India"
