@@ -1,0 +1,118 @@
+{
+ "apply_url": "https://job-boards.greenhouse.io/canonical/jobs/7965671",
+ "board_apply": null,
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "Canonical",
+ "company_slug": "canonical",
+ "concerns": [
+  "Mentions test automation — be ready to discuss it or show a small script",
+  "Also asks for: Programming",
+  "Pay not disclosed — ask for the range early",
+  "Reposted / refreshed listing — original posting is older"
+ ],
+ "contacts_count": 0,
+ "content_hash": "f1e92584f196",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-16T06:20:39Z",
+ "fit": 74,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "3d2e48bd2adcb5",
+ "include_reason": "QA / test engineer title",
+ "india": {
+  "cities": [],
+  "company": "likely",
+  "reason": "Open to APAC, China",
+  "status": "likely",
+  "visa": false
+ },
+ "kind": "qa-engineer",
+ "last_verified": "2026-11-16T06:20:39Z",
+ "location": "APAC,  China",
+ "logo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/b4d068a9-221-1.png",
+ "needs_review": false,
+ "official": true,
+ "posted_at": "2026-05-29T12:41:14Z",
+ "repost": true,
+ "requirements": [
+  "Ability to travel twice a year, for company events up to two weeks each",
+  "Familiarity with kernel fuzzing tools and techniques (e.g. syzkaller, Trinity, AFL, or custom harnesses)",
+  "Experience with code coverage instrumentation (e.g. gcov, kcov, LLVM source-based coverage)",
+  "Knowledge of kernel tracing and observability tools (e.g. ftrace, perf, bpftrace, eBPF)",
+  "Familiarity with static analysis tools (e.g. sparse, smatch, Coccinelle) as part of a testing workflow",
+  "Experience with fault injection frameworks (e.g. failslab, fail_make_request) for reliability testing",
+  "Prior experience with test infrastructure at scale (provisioning, orchestration, result aggregation)"
+ ],
+ "responsibilities": [
+  "Design, develop, and maintain comprehensive test plans covering functional correctness, stability, performance, and security for Ubuntu Linux kernels",
+  "Build and improve automated test infrastructure for continuous kernel quality validation across multiple kernel versions and architectures",
+  "Maintain long-lived test suites that evolve alongside Ubuntu’s many concurrently supported kernel versions spanning years of maintenance",
+  "Develop and maintain CI/CD pipelines for continuous kernel quality validation",
+  "Conduct performance benchmarking and regression detection across kernel releases",
+  "Measure and improve kernel code coverage, identifying gaps in test coverage and creating tests to address them",
+  "Execute and analyze stress tests covering CPU scheduling, memory management, I/O subsystems, networking, and filesystem workloads"
+ ],
+ "salary": {
+  "context_benchmark": "qa-dataset-remote",
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 60,
+  "company": 66,
+  "location": 86,
+  "seniority": 84,
+  "skill": 76
+ },
+ "seniority": "unspecified",
+ "snippet": "Ubuntu is the most widely used Linux distribution in the world, delivering kernels across a vast matrix of versions, architectures, and configurations – with up to 15 years of security and maintenance commitments for Long Term Support (LTS) releases. Ensuring the quality and reliability of these kernels demands a dedicated, systematic approach to testing at scale.\n\n The Canonical Kernel Team is looking for a Test Eng",
+ "source_primary": "Canonical careers (Greenhouse)",
+ "sources": [
+  {
+   "id": "greenhouse",
+   "job_id": "gh:canonical:7965671",
+   "kind": "ats",
+   "name": "Canonical careers (Greenhouse)",
+   "posted_at": "2026-05-29T12:41:14Z",
+   "seen_at": "2026-11-16T06:20:39Z",
+   "url": "https://job-boards.greenhouse.io/canonical/jobs/7965671"
+  },
+  {
+   "id": "jobicy",
+   "job_id": "145995",
+   "kind": "board",
+   "name": "Jobicy",
+   "posted_at": "2026-11-16T03:11:35Z",
+   "seen_at": "2026-11-16T06:20:39Z",
+   "url": "https://jobicy.com/jobs/145995-ubuntu-linux-kernel-test-engineer"
+  }
+ ],
+ "specializations": [],
+ "status": "verified",
+ "tier": 3,
+ "title": "Ubuntu Linux Kernel Test Engineer",
+ "tools": [
+  "Regression testing",
+  "Stress / load testing",
+  "Test cases & scenarios",
+  "Google Sheets / Excel",
+  "Test automation",
+  "Programming",
+  "Agile / Scrum"
+ ],
+ "track": "software",
+ "updated_at": "2026-11-16T03:11:35Z",
+ "url": "https://job-boards.greenhouse.io/canonical/jobs/7965671",
+ "why": [
+  "QA / test engineer role",
+  "Already on your resume: Regression testing, Stress / load testing, Test cases & scenarios, Google Sheets / Excel",
+  "Open to APAC, China"
+ ],
+ "work_mode": "remote",
+ "years_max": null,
+ "years_min": null
+}

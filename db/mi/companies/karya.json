@@ -11,7 +11,7 @@
    "countries": [
     "India"
    ],
-   "india": 18,
+   "india": 17,
    "india_samples": [
     {
      "location": "Bengaluru",
@@ -39,17 +39,17 @@
    "restricted_remote": 0,
    "restricted_samples": [],
    "slug": "karya",
-   "total": 19,
+   "total": 18,
    "type": "greenhouse",
    "url": "https://boards.greenhouse.io/karya",
    "worldwide": 0
   },
-  "changed_at": "2026-11-10T21:34:53Z",
+  "changed_at": "2026-11-16T06:22:07Z",
   "evidence": [
    {
     "detail": "Analytics Lead - Data, Measurement & Impact  (Bengaluru); Associate - Founder's Office (Bengaluru ); Community Coordinator - Work Management (Bengaluru, Karnataka, India, Delhi, India)",
     "kind": "board",
-    "label": "18 of 19 open roles are located in India",
+    "label": "17 of 18 open roles are located in India",
     "url": "https://boards.greenhouse.io/karya",
     "weight": 5
    }
@@ -57,8 +57,8 @@
   "first_checked_at": "2026-11-10T21:34:53Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "2e28f835a7",
-  "summary": "18 of 19 open roles are located in India.",
+  "sig": "3845fad5bd",
+  "summary": "17 of 18 open roles are located in India.",
   "verdict": "yes"
  },
  "inferred": true,

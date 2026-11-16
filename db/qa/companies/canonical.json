@@ -1,0 +1,90 @@
+{
+ "ats": {
+  "slug": "canonical",
+  "type": "greenhouse"
+ },
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": {
+   "apac": 31,
+   "countries": [
+    "United Kingdom",
+    "Taiwan",
+    "China",
+    "Canada",
+    "Japan"
+   ],
+   "india": 0,
+   "india_samples": [],
+   "open_samples": [
+    {
+     "location": "Home Based - Americas; Home based - EMEA; Home based - Worldwide",
+     "title": "Alliances & Channels Leader",
+     "url": "https://job-boards.greenhouse.io/canonical/jobs/8002334"
+    },
+    {
+     "location": "Home based - Worldwide",
+     "title": "Alliances Field Engineer",
+     "url": "https://job-boards.greenhouse.io/canonical/jobs/3433732"
+    },
+    {
+     "location": "Home based - Worldwide",
+     "title": "Associate Linux Support Engineer",
+     "url": "https://job-boards.greenhouse.io/canonical/jobs/6448444"
+    },
+    {
+     "location": "Home based - Worldwide",
+     "title": "Business Development Representative",
+     "url": "https://job-boards.greenhouse.io/canonical/jobs/6713184"
+    }
+   ],
+   "remote": 0,
+   "restricted_remote": 0,
+   "restricted_samples": [],
+   "slug": "canonical",
+   "total": 316,
+   "type": "greenhouse",
+   "url": "https://boards.greenhouse.io/canonical",
+   "worldwide": 94
+  },
+  "changed_at": "2026-11-16T06:20:39Z",
+  "evidence": [
+   {
+    "detail": "Alliances & Channels Leader (Home Based - Americas; Home based - EMEA; Home based - Worldwide); Alliances Field Engineer (Home based - Worldwide); Associate Linux Support Engineer (Home based - Worldwide)",
+    "kind": "board",
+    "label": "125 open roles are open worldwide or to APAC",
+    "url": "https://boards.greenhouse.io/canonical",
+    "weight": 3
+   },
+   {
+    "detail": "Ubuntu Linux Kernel Test Engineer — APAC,  China",
+    "kind": "posting",
+    "label": "A current posting is open worldwide",
+    "url": "https://job-boards.greenhouse.io/canonical/jobs/7965671",
+    "weight": 3
+   },
+   {
+    "detail": "…ty, or custom fuzzers  • Collaborate regularly and proactively with a globally distributed team  • Contribute to upstream test suites and testing frameworks  • Docum…",
+    "kind": "posting",
+    "label": "Posting describes hiring across countries",
+    "url": "https://job-boards.greenhouse.io/canonical/jobs/7965671",
+    "weight": 3
+   }
+  ],
+  "first_checked_at": "2026-11-16T06:20:39Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "fa21d9cafb",
+  "summary": "No India-located roles found, but 125 open roles are open worldwide or to APAC.",
+  "verdict": "likely"
+ },
+ "inferred": true,
+ "logo": "https://jobicy.com/data/server-nyc0409/galaxy/mercury/2025/06/b4d068a9-221-1.png",
+ "name": "Canonical",
+ "slug": "canonical",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}
