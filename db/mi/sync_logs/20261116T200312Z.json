@@ -2,7 +2,7 @@
  "alerts_count": 0,
  "changed_count": 1,
  "closed_count": 19,
- "duration_s": 62.1,
+ "duration_s": 67.1,
  "enrichment": {
   "careers_emails": 0,
   "dates_estimated": 0,
@@ -11,20 +11,20 @@
   "searches": 0
  },
  "excluded_counts": {
-  "Adjacent title without substantial motion work": 34,
-  "Character / film / game animation": 8,
-  "Generic product/UX designer (no motion specialisation in title)": 59,
-  "Graphic / illustration role": 38,
-  "Intern / junior / entry level": 17,
+  "Adjacent title without substantial motion work": 29,
+  "Character / film / game animation": 6,
+  "Generic product/UX designer (no motion specialisation in title)": 45,
+  "Graphic / illustration role": 32,
+  "Intern / junior / entry level": 16,
   "Junior experience requirement": 2,
-  "Not a design role": 62,
-  "Not a motion role": 277,
-  "Not open to India": 72,
-  "Older than window": 197,
-  "Pure video editing role": 53,
-  "Social content role": 6,
+  "Not a design role": 53,
+  "Not a motion role": 249,
+  "Not open to India": 69,
+  "Older than window": 200,
+  "Pure video editing role": 62,
+  "Social content role": 2,
   "Staffing agency listing — employer not identified": 17,
-  "Unpaid / volunteer": 3
+  "Unpaid / volunteer": 2
  },
  "excluded_samples": [
   {
@@ -112,6 +112,13 @@
    "url": "https://himalayas.app/companies/rankings-io/jobs/sr-video-editor-motion-designer-ai-workflows-remote-latam?utm_source=api"
   },
   {
+   "company": "Pavago",
+   "reason": "Not open to India: Restricted to Pakistan",
+   "source": "Himalayas",
+   "title": "Animator / Motion Graphics Designer",
+   "url": "https://himalayas.app/companies/pavago/jobs/animator-motion-graphics-designer-9945445038?utm_source=api"
+  },
+  {
    "company": "Remote VA",
    "reason": "Not open to India: Restricted to Philippines",
    "source": "Himalayas",
@@ -161,53 +168,11 @@
    "url": "https://himalayas.app/companies/hook-co/jobs/motion-designer-ii?utm_source=api"
   },
   {
-   "company": "Bjak",
-   "reason": "Not open to India: Restricted to South Korea",
-   "source": "Himalayas",
-   "title": "Motion Designer (UX/Interface)",
-   "url": "https://himalayas.app/companies/bjak/jobs/motion-designer-ux-interface-5914552737?utm_source=api"
-  },
-  {
-   "company": "Top Notch Consultancy",
-   "reason": "Character / film / game animation",
-   "source": "Himalayas",
-   "title": "3D Animator",
-   "url": "https://himalayas.app/companies/top-notch-consultancy/jobs/3d-animator?utm_source=api"
-  },
-  {
-   "company": "Spot",
-   "reason": "Not open to India: Restricted to United Kingdom",
-   "source": "Himalayas",
-   "title": "FREELANCE MOTION DESIGNER / VIDEO EDITOR",
-   "url": "https://himalayas.app/companies/wearespot/jobs/freelance-motion-designer-video-editor?utm_source=api"
-  },
-  {
-   "company": "TygrLabs Ltd",
-   "reason": "Not open to India: Restricted to Bangladesh",
-   "source": "Himalayas",
-   "title": "Motion Designer",
-   "url": "https://himalayas.app/companies/tygrlabs-ltd/jobs/motion-designer?utm_source=api"
-  },
-  {
-   "company": "Hire Overseas",
-   "reason": "Not open to India: Restricted to Philippines",
-   "source": "Himalayas",
-   "title": "Creative Designer (Static and Motion) (PCS909)",
-   "url": "https://himalayas.app/companies/hire-overseas/jobs/creative-designer-static-and-motion-pcs909?utm_source=api"
-  },
-  {
    "company": "Playson",
    "reason": "Character / film / game animation",
    "source": "Jobicy",
    "title": "Senior 2D Animator",
    "url": "https://jobicy.com/jobs/155155-senior-2d-animator"
-  },
-  {
-   "company": "HyperHug",
-   "reason": "Character / film / game animation",
-   "source": "Jobicy",
-   "title": "Senior 3D Animator",
-   "url": "https://jobicy.com/jobs/160275-senior-3d-animator"
   },
   {
    "company": "eternal.ag",
@@ -525,13 +490,13 @@
    "url": "https://www.jobtarget.com/jobs/jt-foehbw1qz7/senior-motion-designer-india"
   }
  ],
- "finished_at": "2026-11-14T12:33:44Z",
+ "finished_at": "2026-11-16T20:04:19Z",
  "fx": {
-  "as_of": "Sat, 14 Nov 2026 00:02:31 +0000",
+  "as_of": "Mon, 16 Nov 2026 00:02:31 +0000",
   "source": "https://open.er-api.com/v6/latest/USD (ExchangeRate-API open access)",
-  "usd_inr": 94.289707
+  "usd_inr": 94.399626
  },
- "id": "20261114T123242Z",
+ "id": "20261116T200312Z",
  "india_checks": {
   "companies": 106,
   "roles_clarified": 4,
@@ -546,17 +511,17 @@
  "kept": 107,
  "new_count": 0,
  "pipeline_version": "2.1.0",
- "raw_count": 972,
+ "raw_count": 910,
  "source_status": {
   "ashby": {
    "boards": 64,
    "errors": 0,
-   "fetched": 32,
+   "fetched": 31,
    "ok": true
   },
   "dribbble": {
-   "fetched": 33,
-   "ms": 18349,
+   "fetched": 31,
+   "ms": 14899,
    "ok": true
   },
   "greenhouse": {
@@ -565,43 +530,43 @@
     "nothing: HTTP 404 for https://boards-api.greenhouse.io/v1/boards/nothing/jobs: b''"
    ],
    "errors": 1,
-   "fetched": 51,
+   "fetched": 52,
    "ok": true
   },
   "himalayas": {
-   "fetched": 265,
-   "ms": 17538,
+   "fetched": 211,
+   "ms": 36529,
    "ok": true
   },
   "hn": {
    "fetched": 1,
-   "ms": 6910,
+   "ms": 7989,
    "ok": true
   },
   "jobicy": {
-   "fetched": 153,
-   "ms": 2719,
+   "fetched": 146,
+   "ms": 8055,
    "ok": true
   },
   "lever": {
    "boards": 10,
    "errors": 0,
-   "fetched": 9,
+   "fetched": 10,
    "ok": true
   },
   "motionographer": {
    "fetched": 1,
-   "ms": 273,
+   "ms": 294,
    "ok": true
   },
   "remoteok": {
    "fetched": 219,
-   "ms": 7481,
+   "ms": 8117,
    "ok": true
   },
   "remotive": {
-   "fetched": 16,
-   "ms": 4539,
+   "fetched": 17,
+   "ms": 8700,
    "ok": true
   },
   "smartrecruiters": {
@@ -611,15 +576,15 @@
    "ok": true
   },
   "workingnomads": {
-   "fetched": 36,
-   "ms": 508,
+   "fetched": 35,
+   "ms": 303,
    "ok": true
   },
   "wwr": {
    "fetched": 16,
-   "ms": 261,
+   "ms": 330,
    "ok": true
   }
  },
- "started_at": "2026-11-14T12:32:42Z"
+ "started_at": "2026-11-16T20:03:12Z"
 }

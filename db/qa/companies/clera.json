@@ -46,17 +46,17 @@
     }
    ],
    "slug": "clera",
-   "total": 274,
+   "total": 273,
    "type": "ashby",
    "url": "https://jobs.ashbyhq.com/clera",
    "worldwide": 0
   },
-  "changed_at": "2026-11-16T18:06:23Z",
+  "changed_at": "2026-11-16T20:00:40Z",
   "evidence": [
    {
     "detail": "None are located in India or open worldwide; 47 remote roles are limited to named countries",
     "kind": "board",
-    "label": "All 274 open roles are in United States, Germany, Singapore, Spain and 4 more",
+    "label": "All 273 open roles are in United States, Germany, Singapore, Spain and 4 more",
     "url": "https://jobs.ashbyhq.com/clera",
     "weight": -3
    },
@@ -71,7 +71,7 @@
   "first_checked_at": "2026-11-16T02:59:52Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "beda27d759",
+  "sig": "94b17416f4",
   "summary": "No India-located roles found, but a current posting is open worldwide.",
   "verdict": "likely"
  },
