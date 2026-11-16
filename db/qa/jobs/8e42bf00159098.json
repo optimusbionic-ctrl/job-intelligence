@@ -7,10 +7,11 @@
  "company_slug": "vishwa-karma",
  "concerns": [
   "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
-  "Also asks for: Programming"
+  "Also asks for: Programming",
+  "Reposted / refreshed listing — original posting is older"
  ],
  "contacts_count": 0,
- "content_hash": "f89f08ec2f33",
+ "content_hash": "4f0417a5369e",
  "date_quality": "exact",
  "deadline": null,
  "employment": "full-time",
@@ -33,13 +34,13 @@
   "visa": false
  },
  "kind": "automation",
- "last_verified": "2026-11-10T12:32:15Z",
+ "last_verified": "2026-11-16T09:44:50Z",
  "location": "Mumbai City, Hyderabad, Chennai, India",
  "logo": null,
  "needs_review": false,
  "official": false,
- "posted_at": "2026-10-29T18:47:30Z",
- "repost": false,
+ "posted_at": "2026-10-29T21:49:10Z",
+ "repost": true,
  "requirements": [
   "(Summary from the Shine.com listing; open the posting for the full description.)"
  ],
@@ -48,7 +49,7 @@
   "applies_india": true,
   "basis": "listed",
   "currency": "INR",
-  "fx_at": "Tue, 10 Nov 2026 00:02:31 +0000",
+  "fx_at": "Mon, 16 Nov 2026 00:02:31 +0000",
   "fx_rate": 1.0,
   "inr_max": 1200000,
   "inr_min": 600000,
@@ -60,7 +61,7 @@
   "source_name": "Shine.com",
   "source_url": "https://www.shine.com/jobs/automation-tester/vishwa-karma/19955827",
   "state": "verified",
-  "verified_at": "2026-11-10T12:32:15Z"
+  "verified_at": "2026-11-16T09:44:50Z"
  },
  "scores": {
   "ai": 58,
@@ -80,17 +81,8 @@
    "kind": "board",
    "name": "Shine.com",
    "posted_at": "2026-10-29T21:49:10Z",
-   "seen_at": "2026-11-10T12:32:15Z",
+   "seen_at": "2026-11-16T09:44:50Z",
    "url": "https://www.shine.com/jobs/automation-tester/vishwa-karma/19955827"
-  },
-  {
-   "id": "shine",
-   "job_id": "19955831",
-   "kind": "board",
-   "name": "Shine.com",
-   "posted_at": "2026-10-29T18:47:30Z",
-   "seen_at": "2026-11-10T12:32:15Z",
-   "url": "https://www.shine.com/jobs/playwright-automation-tester/vishwa-karma/19955831"
   }
  ],
  "specializations": [],

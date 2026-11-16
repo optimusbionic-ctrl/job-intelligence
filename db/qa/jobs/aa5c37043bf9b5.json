@@ -1,15 +1,16 @@
 {
- "apply_url": "https://job-boards.eu.greenhouse.io/valtech/jobs/5025604101",
- "board_apply": null,
+ "apply_url": null,
+ "board_apply": "https://himalayas.app/companies/valtech-us/jobs/software-test-engineer?utm_source=api",
  "category": "Other",
  "comp_potential": "unknown",
  "company": "Valtech",
  "company_slug": "valtech",
  "concerns": [
-  "Pay not disclosed — ask for the range early"
+  "Pay not disclosed — ask for the range early",
+  "Reposted / refreshed listing — original posting is older"
  ],
  "contacts_count": 0,
- "content_hash": "4ddcce837a21",
+ "content_hash": "29e00be1d5ea",
  "date_quality": "exact",
  "deadline": "2027-01-12T13:26:54Z",
  "employment": "full-time",
@@ -28,19 +29,19 @@
   "visa": false
  },
  "kind": "qa-engineer",
- "last_verified": "2026-11-13T15:44:28Z",
+ "last_verified": "2026-11-16T09:44:50Z",
  "location": "India",
  "logo": null,
  "needs_review": false,
- "official": true,
- "posted_at": "2026-11-11T10:06:17Z",
- "repost": false,
+ "official": false,
+ "posted_at": "2026-11-13T13:26:54Z",
+ "repost": true,
  "requirements": [
   "This should just be what’s absolutely necessary to perform the role responsibilities",
   "Example includes: Upper-intermediate English level",
   "Nice-to-haves but not disqualifiers",
   "Example includes: Strong desire to learn more about business every day",
-  "If you do not meet all the listed qualifications or have gaps in your experience, we still encourage you to apply. At Valtech, we recognize that talent comes in many forms, and we value diverse perspectives and a willingness to learn."
+  "If you do not meet all the listed qualifications or have gaps in your experience, we still encourage you to apply. At Valtech , we recognize that talent comes in many forms, and we value diverse perspectives and a willingness to learn."
  ],
  "responsibilities": [
   "As a [JOB TITLE] , you are passionate about experience innovation and eager to push the boundaries of what’s possible. You bring [X YEARS] of experience, a growth mindset and a drive to make a lasting impact.",
@@ -49,7 +50,7 @@
   "Excited by the intersection of technology, creativity and data",
   "Experienced in Agile methodologies and consulting (a plus)",
   "Avoid terms such as “rockstar”, “superstar” or anything which may deter people who do not resonate with this type of language.",
-  "Be mindful of descriptive words. According to research , the following words import ‘masculine’ characteristics, and are likely to deter female applicants: independent, lead, competitive, assertive, determined, analytical. Those words generally increasing the female response rate: responsible, connect, dedicated, support, sociable, conscientious"
+  "Be mindful of descriptive words. According to research, the following words import ‘masculine’ characteristics, and are likely to deter female applicants: independent, lead, competitive, assertive, determined, analytical. Those words generally increasing the female response rate: responsible, connect, dedicated, support, sociable, conscientious"
  ],
  "salary": {
   "state": "unavailable"
@@ -63,30 +64,21 @@
   "skill": 43
  },
  "seniority": "unspecified",
- "snippet": "Why Valtech? We’re the experience innovation company - a trusted partner to the world’s most recognized brands. To our people we offer growth opportunities, a values -driven culture, international careers and the chance to shape the future of experience. \n\n The opportunity \n\n At Valtech, you’ll find an environment designed for continuous learning, meaningful impact, and professional growth. Whether you're pioneering ",
- "source_primary": "Valtech careers (Greenhouse)",
+ "snippet": "Why Valtech ? We’retheexperience innovation company - a trusted partner to the world’s most recognized brands. To our people we offer growth opportunities, a values-driven culture, international careers and the chance to shape the future of experience.\n The opportunity \n At Valtech , you’ll find an environment designed for continuous learning, meaningful impact, and professional growth. Whether you're pioneering new ",
+ "source_primary": "Himalayas",
  "sources": [
-  {
-   "id": "greenhouse",
-   "job_id": "gh:valtech:5025604101",
-   "kind": "ats",
-   "name": "Valtech careers (Greenhouse)",
-   "posted_at": "2026-11-11T10:06:17Z",
-   "seen_at": "2026-11-13T15:44:28Z",
-   "url": "https://job-boards.eu.greenhouse.io/valtech/jobs/5025604101"
-  },
   {
    "id": "himalayas",
    "job_id": "https://himalayas.app/companies/valtech-us/jobs/software-test-engineer",
    "kind": "board",
    "name": "Himalayas",
    "posted_at": "2026-11-13T13:26:54Z",
-   "seen_at": "2026-11-13T15:44:28Z",
+   "seen_at": "2026-11-16T09:44:50Z",
    "url": "https://himalayas.app/companies/valtech-us/jobs/software-test-engineer?utm_source=api"
   }
  ],
  "specializations": [],
- "status": "verified",
+ "status": "active",
  "tier": 3,
  "title": "Software Test Engineer",
  "tools": [
@@ -94,7 +86,7 @@
  ],
  "track": "software",
  "updated_at": null,
- "url": "https://job-boards.eu.greenhouse.io/valtech/jobs/5025604101",
+ "url": "https://himalayas.app/companies/valtech-us/jobs/software-test-engineer?utm_source=api",
  "why": [
   "QA / test engineer role",
   "Location lists India"
