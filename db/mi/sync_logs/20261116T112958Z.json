@@ -1,8 +1,8 @@
 {
  "alerts_count": 0,
- "changed_count": 0,
- "closed_count": 19,
- "duration_s": 42.8,
+ "changed_count": 1,
+ "closed_count": 20,
+ "duration_s": 90.5,
  "enrichment": {
   "careers_emails": 0,
   "dates_estimated": 0,
@@ -11,20 +11,20 @@
   "searches": 0
  },
  "excluded_counts": {
-  "Adjacent title without substantial motion work": 35,
-  "Character / film / game animation": 8,
-  "Generic product/UX designer (no motion specialisation in title)": 59,
-  "Graphic / illustration role": 39,
-  "Intern / junior / entry level": 17,
+  "Adjacent title without substantial motion work": 23,
+  "Character / film / game animation": 7,
+  "Generic product/UX designer (no motion specialisation in title)": 47,
+  "Graphic / illustration role": 33,
+  "Intern / junior / entry level": 15,
   "Junior experience requirement": 2,
-  "Not a design role": 62,
-  "Not a motion role": 273,
-  "Not open to India": 71,
-  "Older than window": 197,
-  "Pure video editing role": 54,
-  "Social content role": 6,
+  "Not a design role": 53,
+  "Not a motion role": 238,
+  "Not open to India": 68,
+  "Older than window": 199,
+  "Pure video editing role": 61,
+  "Social content role": 2,
   "Staffing agency listing — employer not identified": 17,
-  "Unpaid / volunteer": 3
+  "Unpaid / volunteer": 2
  },
  "excluded_samples": [
   {
@@ -47,6 +47,13 @@
    "source": "Himalayas",
    "title": "Freelance Senior Animator",
    "url": "https://himalayas.app/companies/outpost-vfx-com/jobs/freelance-senior-animator?utm_source=api"
+  },
+  {
+   "company": "dentsu international",
+   "reason": "Not open to India: Restricted to United States",
+   "source": "Himalayas",
+   "title": "Designer & Motion Designer – Temporary Worker",
+   "url": "https://himalayas.app/companies/dentsu-international/jobs/designer-motion-designer-temporary-worker?utm_source=api"
   },
   {
    "company": "Bjak",
@@ -105,6 +112,13 @@
    "url": "https://himalayas.app/companies/rankings-io/jobs/sr-video-editor-motion-designer-ai-workflows-remote-latam?utm_source=api"
   },
   {
+   "company": "Pavago",
+   "reason": "Not open to India: Restricted to Pakistan",
+   "source": "Himalayas",
+   "title": "Animator / Motion Graphics Designer",
+   "url": "https://himalayas.app/companies/pavago/jobs/animator-motion-graphics-designer-9945445038?utm_source=api"
+  },
+  {
    "company": "Remote VA",
    "reason": "Not open to India: Restricted to Philippines",
    "source": "Himalayas",
@@ -152,41 +166,6 @@
    "source": "Himalayas",
    "title": "Motion Designer II",
    "url": "https://himalayas.app/companies/hook-co/jobs/motion-designer-ii?utm_source=api"
-  },
-  {
-   "company": "Bjak",
-   "reason": "Not open to India: Restricted to South Korea",
-   "source": "Himalayas",
-   "title": "Motion Designer (UX/Interface)",
-   "url": "https://himalayas.app/companies/bjak/jobs/motion-designer-ux-interface-5914552737?utm_source=api"
-  },
-  {
-   "company": "Top Notch Consultancy",
-   "reason": "Character / film / game animation",
-   "source": "Himalayas",
-   "title": "3D Animator",
-   "url": "https://himalayas.app/companies/top-notch-consultancy/jobs/3d-animator?utm_source=api"
-  },
-  {
-   "company": "Spot",
-   "reason": "Not open to India: Restricted to United Kingdom",
-   "source": "Himalayas",
-   "title": "FREELANCE MOTION DESIGNER / VIDEO EDITOR",
-   "url": "https://himalayas.app/companies/wearespot/jobs/freelance-motion-designer-video-editor?utm_source=api"
-  },
-  {
-   "company": "TygrLabs Ltd",
-   "reason": "Not open to India: Restricted to Bangladesh",
-   "source": "Himalayas",
-   "title": "Motion Designer",
-   "url": "https://himalayas.app/companies/tygrlabs-ltd/jobs/motion-designer?utm_source=api"
-  },
-  {
-   "company": "Hire Overseas",
-   "reason": "Not open to India: Restricted to Philippines",
-   "source": "Himalayas",
-   "title": "Creative Designer (Static and Motion) (PCS909)",
-   "url": "https://himalayas.app/companies/hire-overseas/jobs/creative-designer-static-and-motion-pcs909?utm_source=api"
   },
   {
    "company": "Playson",
@@ -518,13 +497,13 @@
    "url": "https://www.jobtarget.com/jobs/jt-foehbw1qz7/senior-motion-designer-india"
   }
  ],
- "finished_at": "2026-11-14T08:58:07Z",
+ "finished_at": "2026-11-16T11:31:28Z",
  "fx": {
-  "as_of": "Sat, 14 Nov 2026 00:02:31 +0000",
+  "as_of": "Mon, 16 Nov 2026 00:02:31 +0000",
   "source": "https://open.er-api.com/v6/latest/USD (ExchangeRate-API open access)",
-  "usd_inr": 94.289707
+  "usd_inr": 94.399626
  },
- "id": "20261114T085724Z",
+ "id": "20261116T112958Z",
  "india_checks": {
   "companies": 106,
   "roles_clarified": 4,
@@ -539,17 +518,17 @@
  "kept": 107,
  "new_count": 0,
  "pipeline_version": "2.1.0",
- "raw_count": 970,
+ "raw_count": 893,
  "source_status": {
   "ashby": {
    "boards": 64,
    "errors": 0,
-   "fetched": 32,
+   "fetched": 31,
    "ok": true
   },
   "dribbble": {
-   "fetched": 33,
-   "ms": 10977,
+   "fetched": 32,
+   "ms": 16504,
    "ok": true
   },
   "greenhouse": {
@@ -562,18 +541,18 @@
    "ok": true
   },
   "himalayas": {
-   "fetched": 262,
-   "ms": 17596,
+   "fetched": 199,
+   "ms": 37651,
    "ok": true
   },
   "hn": {
-   "fetched": 1,
-   "ms": 7871,
+   "fetched": 0,
+   "ms": 24342,
    "ok": true
   },
   "jobicy": {
-   "fetched": 153,
-   "ms": 5007,
+   "fetched": 145,
+   "ms": 6501,
    "ok": true
   },
   "lever": {
@@ -584,35 +563,35 @@
   },
   "motionographer": {
    "fetched": 1,
-   "ms": 271,
+   "ms": 230,
    "ok": true
   },
   "remoteok": {
    "fetched": 219,
-   "ms": 7525,
+   "ms": 7276,
    "ok": true
   },
   "remotive": {
    "fetched": 16,
-   "ms": 5140,
+   "ms": 4655,
    "ok": true
   },
   "smartrecruiters": {
    "boards": 4,
    "errors": 0,
-   "fetched": 5,
+   "fetched": 4,
    "ok": true
   },
   "workingnomads": {
-   "fetched": 36,
-   "ms": 329,
+   "fetched": 34,
+   "ms": 274,
    "ok": true
   },
   "wwr": {
    "fetched": 16,
-   "ms": 337,
+   "ms": 672,
    "ok": true
   }
  },
- "started_at": "2026-11-14T08:57:24Z"
+ "started_at": "2026-11-16T11:29:58Z"
 }

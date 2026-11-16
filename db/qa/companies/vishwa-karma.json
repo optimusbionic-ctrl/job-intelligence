@@ -3,20 +3,20 @@
  "classification": "Inferred from job description",
  "india_hiring": {
   "board": null,
-  "changed_at": "2026-11-16T09:44:50Z",
+  "changed_at": "2026-11-16T11:28:35Z",
   "evidence": [
    {
-    "detail": "Automation Tester — Mumbai City, Hyderabad, Chennai, India",
+    "detail": "Automation Test Engineer — Mumbai City, Bangalore, Hyderabad, Chennai, India",
     "kind": "posting",
     "label": "A current posting lists India as a location",
-    "url": "https://www.shine.com/jobs/automation-tester/vishwa-karma/19955827",
+    "url": "https://www.shine.com/jobs/automation-test-engineer/vishwa-karma/20001939",
     "weight": 5
    }
   ],
   "first_checked_at": "2026-10-19T13:24:59Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "6aaa1a6209",
+  "sig": "4e156eef07",
   "summary": "A current posting lists India as a location.",
   "verdict": "yes"
  },
