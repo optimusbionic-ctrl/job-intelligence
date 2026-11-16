@@ -1,0 +1,101 @@
+{
+ "apply_url": null,
+ "board_apply": "https://himalayas.app/companies/micro1/jobs/ai-agent-tester?utm_source=api",
+ "category": "Other",
+ "comp_potential": "listed_global",
+ "company": "micro1",
+ "company_slug": "micro1",
+ "concerns": [
+  "Contract role"
+ ],
+ "contacts_count": 0,
+ "content_hash": "6ea72246dd57",
+ "date_quality": "exact",
+ "deadline": "2027-01-15T16:20:47Z",
+ "employment": "contract",
+ "first_seen": "2026-11-16T16:45:02Z",
+ "fit": 73,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "e21c2f441079ee",
+ "include_reason": "Manual / functional QA title",
+ "india": {
+  "cities": [],
+  "company": "likely",
+  "reason": "Worldwide remote",
+  "status": "likely",
+  "visa": false
+ },
+ "kind": "manual-qa",
+ "last_verified": "2026-11-16T16:45:02Z",
+ "location": "Worldwide",
+ "logo": "https://cdn-images.himalayas.app/91oa56akgt3qjqc1nh3uoruub40c",
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-11-16T16:20:47Z",
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [
+  "AI agents are starting to handle real-life errands: paying bills, booking trips, doing the groceries. We want to know how well they actually do it, from the point of view of a real user. That’s you.",
+  "You’ll test two AI agents side by side, using your own accounts on your phone, and tell us what worked, what didn’t, and how it felt.",
+  "Run real-life scenarios: bills, returns, email follow-ups, bookings, shopping, groceries, travel, family logistics, outings, and forms"
+ ],
+ "salary": {
+  "applies_india": "unconfirmed",
+  "basis": "listed",
+  "currency": "USD",
+  "fx_at": "Mon, 16 Nov 2026 00:02:31 +0000",
+  "fx_rate": 94.3996,
+  "inr_max": 8495966,
+  "inr_min": 4719981,
+  "max": 90000,
+  "min": 50000,
+  "note": "Listed for a worldwide-remote role; confirm it applies to India-based hires",
+  "original_period": "hourly",
+  "period": "annual",
+  "source_name": "Himalayas",
+  "source_url": "https://himalayas.app/companies/micro1/jobs/ai-agent-tester?utm_source=api",
+  "state": "verified",
+  "verified_at": "2026-11-16T16:45:02Z"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 96,
+  "company": 66,
+  "location": 86,
+  "seniority": 100,
+  "skill": 50
+ },
+ "seniority": "unspecified",
+ "snippet": "Role Title: AI Agent Tester \n Role Type: Contractor\n Location: Remote — Europe\n Opportunity Snapshot\n Pay: $25-45/hour\n Time per task: ~1.5 hours per run (evidence and scoring included)\n Onboarding: Once you are presented to the hiring manager, onboarding typically takes 24–48 hours before you can start tasking.\n You’ll need: An active personal popular AI account (Free, Go, or Plus, Pro), an active personal and a sma",
+ "source_primary": "Himalayas",
+ "sources": [
+  {
+   "id": "himalayas",
+   "job_id": "https://himalayas.app/companies/micro1/jobs/ai-agent-tester",
+   "kind": "board",
+   "name": "Himalayas",
+   "posted_at": "2026-11-16T16:20:47Z",
+   "seen_at": "2026-11-16T16:45:02Z",
+   "url": "https://himalayas.app/companies/micro1/jobs/ai-agent-tester?utm_source=api"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 3,
+ "title": "AI Agent Tester",
+ "tools": [],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://himalayas.app/companies/micro1/jobs/ai-agent-tester?utm_source=api",
+ "why": [
+  "Manual / functional QA — the core of your resume",
+  "Asks for 2–3 years — you have about 2.5",
+  "Pay is listed in the posting",
+  "Worldwide remote"
+ ],
+ "work_mode": "remote",
+ "years_max": 3,
+ "years_min": 2
+}
