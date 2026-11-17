@@ -29,6 +29,11 @@
 "checked_at": "2026-11-17T14:19:36+00:00",
 "name": "Ace IT Careers"
 },
+"acetglobal": {
+"board": null,
+"checked_at": "2026-11-17T17:37:23+00:00",
+"name": "ACET Global"
+},
 "activision": {
 "board": null,
 "checked_at": "2026-11-17T12:28:17+00:00",
@@ -43,6 +48,11 @@
 "board": null,
 "checked_at": "2026-11-17T16:35:14+00:00",
 "name": "Acura Solutions."
+},
+"adwebtechnologiesprivatelimited": {
+"board": null,
+"checked_at": "2026-11-17T17:37:23+00:00",
+"name": "ADWEB TECHNOLOGIES PRIVATE LIMITED"
 },
 "aerem": {
 "board": null,
@@ -78,6 +88,20 @@
 "board": null,
 "checked_at": "2026-11-17T12:37:28+00:00",
 "name": "Akamai Technologies"
+},
+"akko": {
+"board": {
+"jobs": 8,
+"slug": "akko",
+"type": "greenhouse"
+},
+"checked_at": "2026-11-17T17:37:23+00:00",
+"name": "AKKO"
+},
+"alfalabstechnologiesllp": {
+"board": null,
+"checked_at": "2026-11-17T17:37:23+00:00",
+"name": "Alfa Labs Technologies LLP"
 },
 "allgenerationtech": {
 "board": null,
@@ -148,6 +172,11 @@
 "checked_at": "2026-11-17T12:28:17+00:00",
 "name": "Aristocrat"
 },
+"aristocrattechnologiesindia": {
+"board": null,
+"checked_at": "2026-11-17T17:37:23+00:00",
+"name": "Aristocrat Technologies India"
+},
 "arrisesolutionsindiapvtltd": {
 "board": null,
 "checked_at": "2026-11-17T12:49:27+00:00",
@@ -202,6 +231,11 @@
 "board": null,
 "checked_at": "2026-11-17T12:28:17+00:00",
 "name": "Baazi Games"
+},
+"bacancytechnology": {
+"board": null,
+"checked_at": "2026-11-17T17:37:23+00:00",
+"name": "Bacancy Technology"
 },
 "bandainamco": {
 "board": null,
@@ -262,6 +296,11 @@
 "checked_at": "2026-11-17T12:28:17+00:00",
 "name": "Blizzard"
 },
+"bluerayautomationpvtltd": {
+"board": null,
+"checked_at": "2026-11-17T17:37:23+00:00",
+"name": "Blueray Automation Pvt Ltd"
+},
 "bmcodertechnologies": {
 "board": null,
 "checked_at": "2026-11-17T16:35:14+00:00",
@@ -306,6 +345,11 @@
 "board": null,
 "checked_at": "2026-11-17T12:37:28+00:00",
 "name": "BuildBear Labs"
+},
+"bytesedge": {
+"board": null,
+"checked_at": "2026-11-17T17:37:23+00:00",
+"name": "BytesEdge"
 },
 "canarayanbhargavagroup": {
 "board": null,
@@ -418,6 +462,11 @@
 "board": null,
 "checked_at": "2026-11-17T15:29:28+00:00",
 "name": "Commit"
+},
+"confidential": {
+"board": null,
+"checked_at": "2026-11-17T17:37:23+00:00",
+"name": "confidential"
 },
 "conviction": {
 "board": null,
@@ -559,6 +608,11 @@
 "checked_at": "2026-11-17T15:29:28+00:00",
 "name": "DSHINE PRO SOLUTIONS"
 },
+"dsrphrservices": {
+"board": null,
+"checked_at": "2026-11-17T17:37:23+00:00",
+"name": "DSRP HR SERVICES"
+},
 "dumrooai": {
 "board": null,
 "checked_at": "2026-11-17T16:35:14+00:00",
@@ -667,6 +721,11 @@
 "checked_at": "2026-11-17T14:19:36+00:00",
 "name": "Expleo"
 },
+"exponentenergy": {
+"board": null,
+"checked_at": "2026-11-17T17:37:23+00:00",
+"name": "Exponent Energy"
+},
 "fasttrackjobsconsultancy": {
 "board": null,
 "checked_at": "2026-11-17T12:37:28+00:00",
@@ -697,6 +756,11 @@
 "checked_at": "2026-11-17T15:29:28+00:00",
 "name": "FlexBoard"
 },
+"flexday": {
+"board": null,
+"checked_at": "2026-11-17T17:37:23+00:00",
+"name": "Flexday"
+},
 "flexiple": {
 "board": null,
 "checked_at": "2026-11-17T14:19:36+00:00",
@@ -706,6 +770,16 @@
 "board": null,
 "checked_at": "2026-11-17T12:28:17+00:00",
 "name": "Flipkart"
+},
+"fogtecfireprotection": {
+"board": null,
+"checked_at": "2026-11-17T17:37:23+00:00",
+"name": "Fogtec Fire Protection"
+},
+"fortanix": {
+"board": null,
+"checked_at": "2026-11-17T17:37:23+00:00",
+"name": "Fortanix"
 },
 "fountane": {
 "board": null,
@@ -949,6 +1023,11 @@
 "checked_at": "2026-11-17T12:49:27+00:00",
 "name": "IndieKidz"
 },
+"indium": {
+"board": null,
+"checked_at": "2026-11-17T17:37:23+00:00",
+"name": "Indium"
+},
 "indiumsoftware": {
 "board": null,
 "checked_at": "2026-11-17T12:28:17+00:00",
@@ -963,6 +1042,11 @@
 "board": null,
 "checked_at": "2026-11-17T12:49:27+00:00",
 "name": "InEight"
+},
+"infomediji": {
+"board": null,
+"checked_at": "2026-11-17T17:37:23+00:00",
+"name": "Infomediji"
 },
 "infosys": {
 "board": null,
@@ -1004,6 +1088,11 @@
 "checked_at": "2026-11-17T15:29:28+00:00",
 "name": "IQuest Management Consultants Pvt Ltd."
 },
+"irisbusinessserviceslimited": {
+"board": null,
+"checked_at": "2026-11-17T17:37:23+00:00",
+"name": "IRIS Business Services Limited"
+},
 "irissoftware": {
 "board": null,
 "checked_at": "2026-11-17T12:49:27+00:00",
@@ -1037,6 +1126,11 @@
 },
 "checked_at": "2026-11-17T12:28:17+00:00",
 "name": "Jam City"
+},
+"jerotechnologies": {
+"board": null,
+"checked_at": "2026-11-17T17:37:23+00:00",
+"name": "Jero Technologies"
 },
 "jioplatforms": {
 "board": null,
@@ -1092,6 +1186,15 @@
 "checked_at": "2026-11-17T12:28:17+00:00",
 "name": "Kensho HR Solutions"
 },
+"kestratechnologies": {
+"board": {
+"jobs": 4,
+"slug": "kestra",
+"type": "ashby"
+},
+"checked_at": "2026-11-17T17:37:23+00:00",
+"name": "Kestra Technologies"
+},
 "kingentertainmentcorp": {
 "board": null,
 "checked_at": "2026-11-17T15:29:28+00:00",
@@ -1116,6 +1219,11 @@
 "board": null,
 "checked_at": "2026-11-17T12:28:17+00:00",
 "name": "Kotak Securities"
+},
+"kphrandinfraservices": {
+"board": null,
+"checked_at": "2026-11-17T17:37:23+00:00",
+"name": "KP HR AND INFRA SERVICES"
 },
 "kukufm": {
 "board": null,
@@ -1147,10 +1255,20 @@
 "checked_at": "2026-11-17T12:28:17+00:00",
 "name": "Lenskart"
 },
+"levelvirtualmobilegametester": {
+"board": null,
+"checked_at": "2026-11-17T17:37:23+00:00",
+"name": "Level Virtual Mobile Game Tester"
+},
 "lifelancer": {
 "board": null,
 "checked_at": "2026-11-17T14:19:36+00:00",
 "name": "Lifelancer"
+},
+"lighthousegames": {
+"board": null,
+"checked_at": "2026-11-17T17:37:23+00:00",
+"name": "Lighthouse Games"
 },
 "lightwonder": {
 "board": null,
@@ -1212,10 +1330,20 @@
 "checked_at": "2026-11-17T12:49:27+00:00",
 "name": "Makoto HR Solutions"
 },
+"marcopololearning": {
+"board": null,
+"checked_at": "2026-11-17T17:37:23+00:00",
+"name": "MarcoPolo Learning"
+},
 "mastek": {
 "board": null,
 "checked_at": "2026-11-17T12:28:17+00:00",
 "name": "Mastek"
+},
+"maziktechsolutions": {
+"board": null,
+"checked_at": "2026-11-17T17:37:23+00:00",
+"name": "Mazik Tech Solutions"
 },
 "medianet": {
 "board": null,
@@ -1301,6 +1429,11 @@
 "checked_at": "2026-11-17T12:28:17+00:00",
 "name": "Mphasis"
 },
+"msctransformerspvtltd": {
+"board": null,
+"checked_at": "2026-11-17T17:37:23+00:00",
+"name": "MSC Transformers Pvt Ltd"
+},
 "mswipe": {
 "board": null,
 "checked_at": "2026-11-17T12:28:17+00:00",
@@ -1346,10 +1479,24 @@
 "checked_at": "2026-11-17T16:35:14+00:00",
 "name": "NeoGenCode Technologies Pvt Ltd"
 },
+"netomi": {
+"board": {
+"jobs": 21,
+"slug": "netomi",
+"type": "lever"
+},
+"checked_at": "2026-11-17T17:37:23+00:00",
+"name": "Netomi"
+},
 "neuiqtechnologies": {
 "board": null,
 "checked_at": "2026-11-17T14:19:36+00:00",
 "name": "Neuiq Technologies"
+},
+"neuraflash": {
+"board": null,
+"checked_at": "2026-11-17T17:37:23+00:00",
+"name": "NeuraFlash"
 },
 "newfolddigital": {
 "board": null,
@@ -1375,6 +1522,11 @@
 "board": null,
 "checked_at": "2026-11-17T12:28:17+00:00",
 "name": "Niantic"
+},
+"nihayayurvedic": {
+"board": null,
+"checked_at": "2026-11-17T17:37:23+00:00",
+"name": "NIHAY Ayurvedic"
 },
 "nobroker": {
 "board": null,
@@ -1430,6 +1582,11 @@
 "board": null,
 "checked_at": "2026-11-17T12:28:17+00:00",
 "name": "orbitnext-tech.com"
+},
+"orcapodconsultingservices": {
+"board": null,
+"checked_at": "2026-11-17T17:37:23+00:00",
+"name": "Orcapod Consulting Services"
 },
 "origin": {
 "board": null,
@@ -1591,6 +1748,11 @@
 "checked_at": "2026-11-17T16:35:14+00:00",
 "name": "Porch Group"
 },
+"postaresume": {
+"board": null,
+"checked_at": "2026-11-17T17:37:23+00:00",
+"name": "POST A RESUME"
+},
 "postman": {
 "board": null,
 "checked_at": "2026-11-17T12:28:17+00:00",
@@ -1620,6 +1782,11 @@
 "board": null,
 "checked_at": "2026-11-17T12:28:17+00:00",
 "name": "PRIMOHUNT GLOBAL SERVICES"
+},
+"proarch": {
+"board": null,
+"checked_at": "2026-11-17T17:37:23+00:00",
+"name": "ProArch"
 },
 "productmadness": {
 "board": null,
@@ -1680,6 +1847,11 @@
 "board": null,
 "checked_at": "2026-11-17T14:19:36+00:00",
 "name": "Quinstreet Software India"
+},
+"radhikamanpowerservices": {
+"board": null,
+"checked_at": "2026-11-17T17:37:23+00:00",
+"name": "Radhika Manpower Services"
 },
 "raftlabs": {
 "board": null,
@@ -1789,6 +1961,11 @@
 "checked_at": "2026-11-17T12:28:17+00:00",
 "name": "Room 8 Studio"
 },
+"roongtadeveloper": {
+"board": null,
+"checked_at": "2026-11-17T17:37:23+00:00",
+"name": "Roongta Developer"
+},
 "rovio": {
 "board": null,
 "checked_at": "2026-11-17T12:28:17+00:00",
@@ -1879,6 +2056,11 @@
 "checked_at": "2026-11-17T12:49:27+00:00",
 "name": "Shine.com"
 },
+"shrihrconsultants": {
+"board": null,
+"checked_at": "2026-11-17T17:37:23+00:00",
+"name": "Shri H R Consultants"
+},
 "shurutechnologiesprivatelimited": {
 "board": null,
 "checked_at": "2026-11-17T12:37:28+00:00",
@@ -1928,6 +2110,16 @@
 "checked_at": "2026-11-17T14:19:36+00:00",
 "name": "Smart Working"
 },
+"snowrelic": {
+"board": null,
+"checked_at": "2026-11-17T17:37:23+00:00",
+"name": "Snowrelic"
+},
+"sourcemindmanagementpvtltd": {
+"board": null,
+"checked_at": "2026-11-17T17:37:23+00:00",
+"name": "Sourcemind Management Pvt. Ltd"
+},
 "sperasoft": {
 "board": null,
 "checked_at": "2026-11-17T12:28:17+00:00",
@@ -1942,6 +2134,16 @@
 "board": null,
 "checked_at": "2026-11-17T12:28:17+00:00",
 "name": "Square Enix"
+},
+"srivyn": {
+"board": null,
+"checked_at": "2026-11-17T17:37:23+00:00",
+"name": "Srivyn"
+},
+"ssterlingworkforceenterprisesmumbai": {
+"board": null,
+"checked_at": "2026-11-17T17:37:23+00:00",
+"name": "Ssterling Workforce Enterprises Mumbai"
 },
 "standardinsights": {
 "board": null,
@@ -1958,10 +2160,25 @@
 "checked_at": "2026-11-17T12:49:27+00:00",
 "name": "Stellar Tech"
 },
+"stradit": {
+"board": null,
+"checked_at": "2026-11-17T17:37:23+00:00",
+"name": "StradIT"
+},
 "stratacent": {
 "board": null,
 "checked_at": "2026-11-17T16:35:14+00:00",
 "name": "Stratacent"
+},
+"studynow": {
+"board": null,
+"checked_at": "2026-11-17T17:37:23+00:00",
+"name": "Study Now"
+},
+"sumatosoft": {
+"board": null,
+"checked_at": "2026-11-17T17:37:23+00:00",
+"name": "SumatoSoft"
 },
 "sumodigital": {
 "board": null,
@@ -1988,6 +2205,11 @@
 "checked_at": "2026-11-17T15:29:28+00:00",
 "name": "Sword Edge Commercial"
 },
+"synaxatechnologies": {
+"board": null,
+"checked_at": "2026-11-17T17:37:23+00:00",
+"name": "Synaxa Technologies"
+},
 "synechron": {
 "board": null,
 "checked_at": "2026-11-17T12:28:17+00:00",
@@ -2008,10 +2230,20 @@
 "checked_at": "2026-11-17T12:28:17+00:00",
 "name": "Take-Two Interactive"
 },
+"talentica": {
+"board": null,
+"checked_at": "2026-11-17T17:37:23+00:00",
+"name": "Talentica"
+},
 "talentola": {
 "board": null,
 "checked_at": "2026-11-17T12:49:27+00:00",
 "name": "TalentOla"
+},
+"talentpace": {
+"board": null,
+"checked_at": "2026-11-17T17:37:23+00:00",
+"name": "Talentpace"
 },
 "talentstocksolutions": {
 "board": null,
@@ -2027,6 +2259,11 @@
 "board": null,
 "checked_at": "2026-11-17T12:28:17+00:00",
 "name": "Tata Digital"
+},
+"tawadeconsultancyservices": {
+"board": null,
+"checked_at": "2026-11-17T17:37:23+00:00",
+"name": "Tawade Consultancy services"
 },
 "teamacehrllp": {
 "board": null,
@@ -2083,6 +2320,16 @@
 "checked_at": "2026-11-17T12:37:28+00:00",
 "name": "Tether Operations Limited"
 },
+"tgctechnologiesprivatelimited": {
+"board": null,
+"checked_at": "2026-11-17T17:37:23+00:00",
+"name": "TGC Technologies Private Limited"
+},
+"thaliatechnologies": {
+"board": null,
+"checked_at": "2026-11-17T17:37:23+00:00",
+"name": "Thalia Technologies"
+},
 "theacareer": {
 "board": null,
 "checked_at": "2026-11-17T16:35:14+00:00",
@@ -2136,6 +2383,11 @@
 "board": null,
 "checked_at": "2026-11-17T12:28:17+00:00",
 "name": "Toppr"
+},
+"topsyringemfgcopvtltd": {
+"board": null,
+"checked_at": "2026-11-17T17:37:23+00:00",
+"name": "Top Syringe Mfg. Co. Pvt. Ltd"
 },
 "tothr": {
 "board": null,
@@ -2210,6 +2462,11 @@
 "board": null,
 "checked_at": "2026-11-17T12:28:17+00:00",
 "name": "Ubisoft"
+},
+"uisdigital": {
+"board": null,
+"checked_at": "2026-11-17T17:37:23+00:00",
+"name": "UIS Digital"
 },
 "unisongroup": {
 "board": null,
@@ -2304,6 +2561,11 @@
 "board": null,
 "checked_at": "2026-11-17T12:37:28+00:00",
 "name": "VLS Bestsoft"
+},
+"vrindainternational": {
+"board": null,
+"checked_at": "2026-11-17T17:37:23+00:00",
+"name": "Vrinda International"
 },
 "w3softechindia": {
 "board": null,
@@ -2403,6 +2665,11 @@
 "checked_at": "2026-11-17T12:49:27+00:00",
 "name": "XL Dynamics"
 },
+"xoppleinfotechpvtltd": {
+"board": null,
+"checked_at": "2026-11-17T17:37:23+00:00",
+"name": "Xopple Infotech Pvt. Ltd."
+},
 "xoriant": {
 "board": null,
 "checked_at": "2026-11-17T12:28:17+00:00",
@@ -2417,6 +2684,11 @@
 "board": null,
 "checked_at": "2026-11-17T16:35:14+00:00",
 "name": "X PERTS SOLUTIONS."
+},
+"yallaplay": {
+"board": null,
+"checked_at": "2026-11-17T17:37:23+00:00",
+"name": "YallaPlay"
 },
 "zecruitersjobconnectprivatelimited": {
 "board": null,
@@ -2442,6 +2714,11 @@
 "checked_at": "2026-11-17T12:28:17+00:00",
 "name": "Zensar"
 },
+"zenworkinc": {
+"board": null,
+"checked_at": "2026-11-17T17:37:23+00:00",
+"name": "zenwork, inc"
+},
 "zepto": {
 "board": null,
 "checked_at": "2026-11-17T12:28:17+00:00",
@@ -2456,6 +2733,11 @@
 "board": null,
 "checked_at": "2026-11-17T12:28:17+00:00",
 "name": "Zupee"
+},
+"zvkydesignstudio": {
+"board": null,
+"checked_at": "2026-11-17T17:37:23+00:00",
+"name": "Zvky Design Studio"
 },
 "zynga": {
 "board": null,

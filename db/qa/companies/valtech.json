@@ -42,8 +42,8 @@
     }
    ],
    "open_samples": [],
-   "remote": 48,
-   "restricted_remote": 37,
+   "remote": 46,
+   "restricted_remote": 35,
    "restricted_samples": [
     {
      "location": "Brazil - Remote",
@@ -61,23 +61,23 @@
      "url": "https://job-boards.eu.greenhouse.io/valtech/jobs/5035292101"
     },
     {
-     "location": "Canada - Remote",
-     "title": "Data & AI Director",
-     "url": "https://job-boards.eu.greenhouse.io/valtech/jobs/5027910101"
+     "location": "Germany - Remote",
+     "title": "FR - Coremedia Architect",
+     "url": "https://job-boards.eu.greenhouse.io/valtech/jobs/5001540101"
     }
    ],
    "slug": "valtech",
-   "total": 127,
+   "total": 125,
    "type": "greenhouse",
    "url": "https://boards.greenhouse.io/valtech",
    "worldwide": 0
   },
-  "changed_at": "2026-11-17T14:23:00Z",
+  "changed_at": "2026-11-17T17:40:43Z",
   "evidence": [
    {
     "detail": " Akeneo PIM & SFCC L2 Support (Bengaluru); .NET Architect (Bengaluru); AEM - Developer / Senior Developer (Bengaluru)",
     "kind": "board",
-    "label": "25 of 127 open roles are located in India",
+    "label": "25 of 125 open roles are located in India",
     "url": "https://boards.greenhouse.io/valtech",
     "weight": 5
    },
@@ -92,8 +92,8 @@
   "first_checked_at": "2026-11-13T15:44:28Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "8ddc8ba670",
-  "summary": "25 of 127 open roles are located in India.",
+  "sig": "b102e9427f",
+  "summary": "25 of 125 open roles are located in India.",
   "verdict": "yes"
  },
  "inferred": true,

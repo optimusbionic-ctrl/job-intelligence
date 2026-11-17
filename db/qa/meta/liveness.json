@@ -678,6 +678,10 @@
    "at": "2026-11-03T20:52:26Z",
    "ats": null
   },
+  "sandcherryassociates": {
+   "at": "2026-11-17T17:40:43Z",
+   "ats": null
+  },
   "sartheeconsultancy": {
    "at": "2026-11-03T19:56:44Z",
    "ats": null
@@ -962,10 +966,10 @@
   }
  },
  "counts": {
-  "closed": 13,
-  "keep": 19,
-  "live": 181,
-  "stale": 128
+  "closed": 12,
+  "keep": 18,
+  "live": 193,
+  "stale": 117
  },
- "updated_at": "2026-11-17T16:40:59Z"
+ "updated_at": "2026-11-17T17:42:51Z"
 }

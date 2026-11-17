@@ -1,5 +1,13 @@
 [
 {
+"name": "AKKO",
+"ats": {
+"type": "greenhouse",
+"slug": "akko"
+},
+"found_by": "board lookup"
+},
+{
 "name": "Animoca Brands",
 "ats": {
 "type": "lever",
@@ -96,10 +104,26 @@
 "found_by": "board lookup"
 },
 {
+"name": "Kestra Technologies",
+"ats": {
+"type": "ashby",
+"slug": "kestra"
+},
+"found_by": "board lookup"
+},
+{
 "name": "mercor",
 "ats": {
 "type": "ashby",
 "slug": "mercor"
+},
+"found_by": "board lookup"
+},
+{
+"name": "Netomi",
+"ats": {
+"type": "lever",
+"slug": "netomi"
 },
 "found_by": "board lookup"
 },
