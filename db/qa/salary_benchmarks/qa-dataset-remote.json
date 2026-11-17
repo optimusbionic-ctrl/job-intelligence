@@ -1,24 +1,15 @@
 {
- "avg": 6607974,
+ "avg": 6577190,
  "basis": "Interquartile range of posting midpoints, converted to INR at today's rate",
  "currency": "INR",
- "high": 8967964,
+ "high": 8926186,
  "id": "qa-dataset-remote",
  "label": "Disclosed pay on remote QA postings (any region, this dataset)",
- "low": 2915423,
+ "low": 6122330,
  "market": "Remote (global)",
- "n": 9,
- "retrieved_at": "2026-11-16",
+ "n": 7,
+ "retrieved_at": "2026-11-17",
  "samples": [
-  {
-   "company": "Study Now",
-   "currency": "GBP",
-   "location": "India",
-   "max": 15600,
-   "min": 9360,
-   "title": "QA ENGINEERING (AUTOMATIONS)",
-   "url": "https://himalayas.app/companies/study-now/jobs/qa-engineering-automations-4056876587?utm_source=api"
-  },
   {
    "company": "Storware Sp. z o.o.",
    "currency": "PLN",
@@ -54,15 +45,6 @@
    "min": 50000,
    "title": "AI Agent Tester",
    "url": "https://himalayas.app/companies/micro1/jobs/ai-agent-tester?utm_source=api"
-  },
-  {
-   "company": "Clera",
-   "currency": "USD",
-   "location": "Worldwide",
-   "max": 120000,
-   "min": 60000,
-   "title": "Safety Testing Associate",
-   "url": "https://himalayas.app/companies/clera/jobs/safety-testing-associate?utm_source=api"
   },
   {
    "company": "SpaceCoast AV Consultants, LLC",
