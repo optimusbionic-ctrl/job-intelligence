@@ -1,6 +1,6 @@
 {
  "apply_url": null,
- "board_apply": "https://jobs.workable.com/view/fJPmPMrpqeBc8V8XYnVVEg/test-engineer-(hyderabad)-in-hyderabad-at-side",
+ "board_apply": "https://jobs.workable.com/view/fJPmPMrpqeBc8V8XYnVVEg/test-engineer-(hyd%2Fclient)-in-hyderabad-at-side",
  "category": "Game studio",
  "comp_potential": "unknown",
  "company": "Side",
@@ -8,10 +8,11 @@
  "concerns": [
   "Also asks for: Test management (TestRail/Zephyr), Localization",
   "Office outside Mumbai — relocation within India",
-  "Pay not disclosed — ask for the range early"
+  "Pay not disclosed — ask for the range early",
+  "Reposted / refreshed listing — original posting is older"
  ],
  "contacts_count": 0,
- "content_hash": "c31f6c21d814",
+ "content_hash": "4cced8b19206",
  "date_quality": "exact",
  "deadline": null,
  "employment": "full-time",
@@ -32,13 +33,13 @@
   "visa": false
  },
  "kind": "game-qa-engineer",
- "last_verified": "2026-11-17T07:24:44Z",
+ "last_verified": "2026-11-17T09:08:03Z",
  "location": "Hyderabad, Telangana, India",
  "logo": "https://workablehr.s3.amazonaws.com/uploads/account/logo/302673/logo",
  "needs_review": false,
  "official": false,
- "posted_at": "2026-11-05T08:29:42Z",
- "repost": false,
+ "posted_at": "2026-11-17T07:49:35Z",
+ "repost": true,
  "requirements": [
   "Identify, log, and track defects with clear reproduction steps to support efficient resolution",
   "Validate gameplay mechanics, UI/UX, performance, and overall player experience",
@@ -69,9 +70,9 @@
    "job_id": "775a5d99-4a34-4c10-b5f5-52c263e298f7",
    "kind": "board",
    "name": "Workable job marketplace",
-   "posted_at": "2026-11-05T08:29:42Z",
-   "seen_at": "2026-11-17T07:24:44Z",
-   "url": "https://jobs.workable.com/view/fJPmPMrpqeBc8V8XYnVVEg/test-engineer-(hyderabad)-in-hyderabad-at-side"
+   "posted_at": "2026-11-17T07:49:35Z",
+   "seen_at": "2026-11-17T09:08:03Z",
+   "url": "https://jobs.workable.com/view/fJPmPMrpqeBc8V8XYnVVEg/test-engineer-(hyd%2Fclient)-in-hyderabad-at-side"
   }
  ],
  "specializations": [
@@ -80,7 +81,7 @@
  ],
  "status": "active",
  "tier": 1,
- "title": "Test Engineer (Hyderabad)",
+ "title": "Test Engineer (HYD/Client)",
  "tools": [
   "Regression testing",
   "Exploratory testing",
@@ -94,7 +95,7 @@
  ],
  "track": "game",
  "updated_at": null,
- "url": "https://jobs.workable.com/view/fJPmPMrpqeBc8V8XYnVVEg/test-engineer-(hyderabad)-in-hyderabad-at-side",
+ "url": "https://jobs.workable.com/view/fJPmPMrpqeBc8V8XYnVVEg/test-engineer-(hyd%2Fclient)-in-hyderabad-at-side",
  "why": [
   "Game QA role at engineer/analyst level",
   "Already on your resume: Regression testing, Exploratory testing, Gameplay testing, Test cases & scenarios, Bug reporting, Jira",

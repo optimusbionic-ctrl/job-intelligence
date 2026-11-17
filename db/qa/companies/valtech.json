@@ -18,7 +18,7 @@
     "Brazil",
     "Portugal"
    ],
-   "india": 24,
+   "india": 25,
    "india_samples": [
     {
      "location": "Bengaluru",
@@ -61,23 +61,23 @@
      "url": "https://job-boards.eu.greenhouse.io/valtech/jobs/5035292101"
     },
     {
-     "location": "United States - Remote",
+     "location": "Canada - Remote",
      "title": "Data & AI Director",
-     "url": "https://job-boards.eu.greenhouse.io/valtech/jobs/5023999101"
+     "url": "https://job-boards.eu.greenhouse.io/valtech/jobs/5027910101"
     }
    ],
    "slug": "valtech",
-   "total": 126,
+   "total": 127,
    "type": "greenhouse",
    "url": "https://boards.greenhouse.io/valtech",
    "worldwide": 0
   },
-  "changed_at": "2026-11-16T20:00:40Z",
+  "changed_at": "2026-11-17T09:08:03Z",
   "evidence": [
    {
     "detail": " Akeneo PIM & SFCC L2 Support (Bengaluru); .NET Architect (Bengaluru); AEM - Developer / Senior Developer (Bengaluru)",
     "kind": "board",
-    "label": "24 of 126 open roles are located in India",
+    "label": "25 of 127 open roles are located in India",
     "url": "https://boards.greenhouse.io/valtech",
     "weight": 5
    },
@@ -92,8 +92,8 @@
   "first_checked_at": "2026-11-13T15:44:28Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "a6e302ec01",
-  "summary": "24 of 126 open roles are located in India.",
+  "sig": "8ddc8ba670",
+  "summary": "25 of 127 open roles are located in India.",
   "verdict": "yes"
  },
  "inferred": true,
