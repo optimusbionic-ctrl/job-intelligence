@@ -1,0 +1,27 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-17T12:43:13Z",
+  "evidence": [
+   {
+    "detail": "Senior Motion Designer/Video Editor — Bangalore, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/senior-motion-designer-video-editor/delight-hr/20054342",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-17T12:43:13Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "a813f0cefe",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Delight HR",
+ "slug": "delight-hr",
+ "tier": 3
+}

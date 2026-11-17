@@ -1,0 +1,27 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-17T12:43:13Z",
+  "evidence": [
+   {
+    "detail": "Motion Graphics Designer(Exp2-5years) — Ernakulam, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/motion-graphics-designerexp2-5years/infopark/20056898",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-17T12:43:13Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "d9ec4479bd",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Infopark",
+ "slug": "infopark",
+ "tier": 3
+}

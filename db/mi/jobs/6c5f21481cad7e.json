@@ -1,0 +1,82 @@
+{
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/creative-director-motion-graphic/whizz-hr/19966927",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "Whizz HR",
+ "company_slug": "whizz-hr",
+ "concerns": [
+  "Compensation not disclosed"
+ ],
+ "contacts_count": 0,
+ "content_hash": "d4abf11f3d27",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-17T12:43:13Z",
+ "fit": 48,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "6c5f21481cad7e",
+ "include_reason": "Mixed graphic + motion title",
+ "india": {
+  "cities": [
+   "Mumbai"
+  ],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "graphic-motion",
+ "last_verified": "2026-11-17T12:43:13Z",
+ "location": "Mumbai City, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-10-30T06:05:16Z",
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 30,
+  "comp": 48,
+  "company": 40,
+  "location": 64,
+  "seniority": 75,
+  "skill": 39
+ },
+ "seniority": "head",
+ "snippet": "Experience: 5 to 9 Yrs\nSkills: motion design, visual storytelling, animation, creative vision, video content, creative concepts, visual styles, motion design strategies\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "19966927",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-10-30T06:05:16Z",
+   "seen_at": "2026-11-17T12:43:13Z",
+   "url": "https://www.shine.com/jobs/creative-director-motion-graphic/whizz-hr/19966927"
+  }
+ ],
+ "specializations": [
+  "Technical storytelling"
+ ],
+ "status": "active",
+ "tier": 3,
+ "title": "Creative Director -  Motion Graphic",
+ "tools": [],
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/creative-director-motion-graphic/whizz-hr/19966927",
+ "why": [
+  "Specialisations in scope: Technical storytelling",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_min": null
+}

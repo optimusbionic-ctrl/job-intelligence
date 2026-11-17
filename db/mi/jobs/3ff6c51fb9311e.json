@@ -1,0 +1,98 @@
+{
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/require-a-motion-designer-in-bangalore/testhiring/19938858",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "TestHiring",
+ "company_slug": "testhiring",
+ "concerns": [
+  "Compensation not disclosed",
+  "Reposted / refreshed listing — original posting is older"
+ ],
+ "contacts_count": 0,
+ "content_hash": "c9bd4f13cd65",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-17T12:43:13Z",
+ "fit": 62,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "3ff6c51fb9311e",
+ "include_reason": "Motion design title",
+ "india": {
+  "cities": [
+   "Bengaluru"
+  ],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "motion",
+ "last_verified": "2026-11-17T12:43:13Z",
+ "location": "Bangalore, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-09-29T09:57:33Z",
+ "repost": true,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 30,
+  "comp": 48,
+  "company": 40,
+  "location": 86,
+  "seniority": 66,
+  "skill": 84
+ },
+ "seniority": "unspecified",
+ "snippet": "Experience: 2 to 6 Yrs\nSkills: motion graphics, Adobe After Effects, Cinema 4D, visual storytelling, communication skills, color theory, typography, composition, animations, 3D animations\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "19938858",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-10-27T04:30:21Z",
+   "seen_at": "2026-11-17T12:43:13Z",
+   "url": "https://www.shine.com/jobs/require-a-motion-designer-in-bangalore/testhiring/19938858"
+  },
+  {
+   "id": "shine",
+   "job_id": "19635836",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-09-29T09:57:33Z",
+   "seen_at": "2026-11-17T12:43:13Z",
+   "url": "https://www.shine.com/jobs/require-a-motion-designer-in-bangalore-bengaluru/testhiring/19635836"
+  }
+ ],
+ "specializations": [
+  "3D motion",
+  "Technical storytelling"
+ ],
+ "status": "active",
+ "tier": 3,
+ "title": "Require a Motion designer in Bangalore",
+ "tools": [
+  "After Effects",
+  "Cinema 4D"
+ ],
+ "updated_at": "2026-10-27T04:30:21Z",
+ "url": "https://www.shine.com/jobs/require-a-motion-designer-in-bangalore/testhiring/19938858",
+ "why": [
+  "Core motion design role",
+  "Tools you already use: After Effects, Cinema 4D",
+  "Specialisations in scope: 3D motion, Technical storytelling",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_min": null
+}

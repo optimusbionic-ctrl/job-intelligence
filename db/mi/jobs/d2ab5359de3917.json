@@ -1,0 +1,118 @@
+{
+ "apply_url": null,
+ "board_apply": "https://jobs.workable.com/view/bnk1TaRPKg1K7rs9bTzWe2/remote-video-editor-%26-motion-designer-in-india-at-weekday-ai",
+ "category": "Agency / studio",
+ "comp_potential": "below",
+ "company": "Weekday AI",
+ "company_slug": "weekday-ai",
+ "concerns": [
+  "Pay evidence suggests below ₹35 LPA",
+  "Agency / studio (Tier 2)"
+ ],
+ "contacts_count": 0,
+ "content_hash": "840268f4cb15",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-17T12:43:13Z",
+ "fit": 67,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "d2ab5359de3917",
+ "include_reason": "Motion title with video scope",
+ "india": {
+  "cities": [],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "video-motion",
+ "last_verified": "2026-11-17T12:43:13Z",
+ "location": "India (Remote)",
+ "logo": "https://workablehr.s3.amazonaws.com/uploads/account/logo/691818/logo",
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-08-31T09:18:37Z",
+ "repost": false,
+ "requirements": [
+  "A strong portfolio that proves you can edit diverse content into short-form video with excellent animation.",
+  "Real command of Adobe Premiere Pro and After Effects, with solid motion graphics chops. Final Cut, Descript, or similar are a bonus.",
+  "Hands-on understanding of leading AI image and video models (Seedance, ChatGPT Image 2.0, Gemini Nano Banana Pro) and tools like Higgsfield, including how to prompt them well for on-brand, high-quality output.",
+  "An eye for detail, a sense for visual storytelling, and the creativity to make both craft and AI sing.",
+  "The ability to own your work, manage multiple projects, and thrive in a fast-paced, dynamic environment.",
+  "Sharp communication and a finger firmly on the pulse of the latest editing, animation, and AI trends."
+ ],
+ "responsibilities": [
+  "Direct AI-generated video and image assets using Seedance, Image 2.0, Nano Banana Pro, and Higgsfield, to a professional, on-brand standard that holds up next to anything cut by hand.",
+  "Design eye-catching covers, thumbnails, and social posts that earn the click.",
+  "Turn master content like podcasts into compelling short-form videos with high-quality animation.",
+  "Edit and assemble raw footage with special effects, animation, and sound into polished, finished work.",
+  "Work across podcasts, events, original social content, and showreels.",
+  "Help shape the tools and workflows our team is building, your instincts will directly influence what we make next.",
+  "Keep everything aligned to brand, on deadline, and at a quality bar you're proud of."
+ ],
+ "salary": {
+  "applies_india": true,
+  "basis": "listed",
+  "currency": "INR",
+  "fx_at": "Tue, 17 Nov 2026 00:02:31 +0000",
+  "fx_rate": 1.0,
+  "inr_max": 700000,
+  "inr_min": 500000,
+  "max": 700000,
+  "min": 500000,
+  "note": "Listed in the posting",
+  "original_period": "annual",
+  "period": "annual",
+  "source_name": "Workable job marketplace",
+  "source_url": "https://jobs.workable.com/view/bnk1TaRPKg1K7rs9bTzWe2/remote-video-editor-%26-motion-designer-in-india-at-weekday-ai",
+  "state": "verified",
+  "verified_at": "2026-11-17T12:43:13Z"
+ },
+ "scores": {
+  "ai": 72,
+  "comp": 22,
+  "company": 62,
+  "location": 100,
+  "seniority": 66,
+  "skill": 81
+ },
+ "seniority": "unspecified",
+ "snippet": "This role is for one of Weekday’s clients\nSalary range: Rs 500000 - Rs 700000 (ie INR 5 - 7 LPA) \n\nMin Experience: 2+ years\nLocation: Remote (India)\nJobType: full-time\n\n Our internal team builds its own production tools, co-creates tools with clients, and runs real research into what AI-native production can actually do. We're not following the playbook. We're writing it.\n And we need an editor who can live in both w",
+ "source_primary": "Workable job marketplace",
+ "sources": [
+  {
+   "id": "workable",
+   "job_id": "53f5b96c-6273-4884-8c43-8410539a4e23",
+   "kind": "board",
+   "name": "Workable job marketplace",
+   "posted_at": "2026-08-31T09:18:37Z",
+   "seen_at": "2026-11-17T12:43:13Z",
+   "url": "https://jobs.workable.com/view/bnk1TaRPKg1K7rs9bTzWe2/remote-video-editor-%26-motion-designer-in-india-at-weekday-ai"
+  }
+ ],
+ "specializations": [
+  "AI-generated video",
+  "Interaction systems",
+  "Technical storytelling"
+ ],
+ "status": "active",
+ "tier": 2,
+ "title": "Video Editor & Motion Designer",
+ "tools": [
+  "After Effects",
+  "Premiere Pro",
+  "Generative video (Veo/Sora/Kling)"
+ ],
+ "updated_at": null,
+ "url": "https://jobs.workable.com/view/bnk1TaRPKg1K7rs9bTzWe2/remote-video-editor-%26-motion-designer-in-india-at-weekday-ai",
+ "why": [
+  "Tools you already use: After Effects, Premiere Pro, Generative video (Veo/Sora/Kling)",
+  "Specialisations in scope: AI-generated video, Interaction systems, Technical storytelling",
+  "Location lists India"
+ ],
+ "work_mode": "remote",
+ "years_min": null
+}

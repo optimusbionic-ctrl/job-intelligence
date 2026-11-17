@@ -1,0 +1,27 @@
+{
+ "category": "AI",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-17T12:43:13Z",
+  "evidence": [
+   {
+    "detail": "After Effects Artist (Cinematic Motion Graphics & Advanced AI Workflows) — Delhi, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/after-effects-artist-cinematic-motion-graphics-advanced-ai-workflows/cs-direkt-events-exhibitons/19569490",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-17T12:43:13Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "a5d8b06e20",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "CS Direkt Events & Exhibitons",
+ "slug": "cs-direkt-events-exhibitons",
+ "tier": 1
+}

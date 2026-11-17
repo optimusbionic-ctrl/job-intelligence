@@ -1,0 +1,28 @@
+{
+ "category": "Agency / studio",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-17T12:43:13Z",
+  "evidence": [
+   {
+    "detail": "Senior Motion Artist / Video Editor — Gurugram, Haryana, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://jobs.workable.com/view/oR58mHhoAX8LCQkCLjKxMD/senior-motion-artist-%2F-video-editor-in-gurugram-at-weekday-ai",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-17T12:43:13Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "7762e36cac",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "logo": "https://workablehr.s3.amazonaws.com/uploads/account/logo/691818/logo",
+ "name": "Weekday AI",
+ "slug": "weekday-ai",
+ "tier": 2
+}

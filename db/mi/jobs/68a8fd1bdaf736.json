@@ -1,0 +1,86 @@
+{
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/motion-graphics-artist-gen-ai-expert/creative-code/20020457",
+ "category": "AI",
+ "comp_potential": "unknown",
+ "company": "Creative Code",
+ "company_slug": "creative-code",
+ "concerns": [
+  "Compensation not disclosed"
+ ],
+ "contacts_count": 0,
+ "content_hash": "fa3a4636ba69",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-17T12:43:13Z",
+ "fit": 69,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "68a8fd1bdaf736",
+ "include_reason": "Mixed graphic + motion title",
+ "india": {
+  "cities": [
+   "Bengaluru"
+  ],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "graphic-motion",
+ "last_verified": "2026-11-17T12:43:13Z",
+ "location": "Bangalore, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-11-06T02:27:28Z",
+ "repost": false,
+ "requirements": [
+  "(Summary from the Shine.com listing; open the posting for the full description.)"
+ ],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 86,
+  "comp": 48,
+  "company": 98,
+  "location": 86,
+  "seniority": 66,
+  "skill": 49
+ },
+ "seniority": "unspecified",
+ "snippet": "Experience: 3 to 7 Yrs\nSkills: motion design, animation, Generative AI, AIdriven creativity\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "20020457",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-11-06T02:27:28Z",
+   "seen_at": "2026-11-17T12:43:13Z",
+   "url": "https://www.shine.com/jobs/motion-graphics-artist-gen-ai-expert/creative-code/20020457"
+  }
+ ],
+ "specializations": [
+  "AI-generated video",
+  "Interaction systems"
+ ],
+ "status": "active",
+ "tier": 1,
+ "title": "Motion Graphics Artist/ Gen AI Expert",
+ "tools": [],
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/motion-graphics-artist-gen-ai-expert/creative-code/20020457",
+ "why": [
+  "Specialisations in scope: AI-generated video, Interaction systems",
+  "AI company (Tier 1 priority)",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_min": null
+}

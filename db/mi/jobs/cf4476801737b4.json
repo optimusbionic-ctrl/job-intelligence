@@ -1,0 +1,88 @@
+{
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/sr-2d-spine-animator/bonanza-interactive/19962105",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "Bonanza Interactive",
+ "company_slug": "bonanza-interactive",
+ "concerns": [
+  "Compensation not disclosed"
+ ],
+ "contacts_count": 0,
+ "content_hash": "ec308a8a527b",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-17T12:43:13Z",
+ "fit": 57,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "cf4476801737b4",
+ "include_reason": "Animator title — needs scope review",
+ "india": {
+  "cities": [
+   "Delhi NCR"
+  ],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "animator",
+ "last_verified": "2026-11-17T12:43:13Z",
+ "location": "Noida, India",
+ "logo": null,
+ "needs_review": true,
+ "official": false,
+ "posted_at": "2026-10-30T04:54:22Z",
+ "repost": false,
+ "requirements": [
+  "(Summary from the Shine.com listing; open the posting for the full description.)"
+ ],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 30,
+  "comp": 48,
+  "company": 40,
+  "location": 64,
+  "seniority": 100,
+  "skill": 59
+ },
+ "seniority": "senior",
+ "snippet": "Experience: 4 to 8 Yrs\nSkills: Spine, Photoshop, After Effects, visual storytelling, 2D animation principles\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "19962105",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-10-30T04:54:22Z",
+   "seen_at": "2026-11-17T12:43:13Z",
+   "url": "https://www.shine.com/jobs/sr-2d-spine-animator/bonanza-interactive/19962105"
+  }
+ ],
+ "specializations": [
+  "Technical storytelling"
+ ],
+ "status": "active",
+ "tier": 3,
+ "title": "Sr. 2D Spine Animator",
+ "tools": [
+  "After Effects",
+  "Photoshop"
+ ],
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/sr-2d-spine-animator/bonanza-interactive/19962105",
+ "why": [
+  "Tools you already use: After Effects, Photoshop",
+  "Specialisations in scope: Technical storytelling",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_min": null
+}

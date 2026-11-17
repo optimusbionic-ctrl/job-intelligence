@@ -1,5 +1,5 @@
 {
- "avg": 16536934,
+ "avg": 13859079,
  "basis": "Interquartile range of posting midpoints, converted to INR at today's rate",
  "currency": "INR",
  "high": 20530228,
@@ -7,7 +7,7 @@
  "label": "Disclosed pay on remote motion-design postings (any region, this dataset)",
  "low": 11275183,
  "market": "Remote (global)",
- "n": 16,
+ "n": 17,
  "retrieved_at": "2026-11-17",
  "samples": [
   {
@@ -72,6 +72,15 @@
    "min": 120000,
    "title": "Senior Brand Designer",
    "url": "https://himalayas.app/companies/acoustic/jobs/senior-brand-designer?utm_source=api"
+  },
+  {
+   "company": "Luma AI",
+   "currency": "USD",
+   "location": "Los Angeles, CA (United States)",
+   "max": 147000,
+   "min": 126000,
+   "title": "Editor + Motion Graphics",
+   "url": "https://jobs.ashbyhq.com/lumaai/6e7d4b86-b359-43a7-bd75-c9efce10d5ad"
   },
   {
    "company": "Huckleberry Labs",

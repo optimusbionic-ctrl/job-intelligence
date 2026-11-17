@@ -11,13 +11,13 @@
  "hq": "India",
  "india_hiring": {
   "board": null,
-  "changed_at": "2026-10-15T16:19:24Z",
+  "changed_at": "2026-11-17T12:43:13Z",
   "evidence": [
    {
-    "detail": "Motion Graphics Designer (Product and Brand) — India",
+    "detail": "Motion Graphics Designer – Product Videos & UI Animation — Hyderabad, India",
     "kind": "posting",
     "label": "A current posting lists India as a location",
-    "url": "https://in.linkedin.com/jobs/view/motion-graphics-designer-product-and-brand-at-credx-4472906878",
+    "url": "https://cutshort.io/job/Motion-Graphics-Designer-Product-Videos-UI-Animation-Hyderabad-CredX-B4D38zol",
     "weight": 5
    },
    {
@@ -31,7 +31,7 @@
   "first_checked_at": "2026-10-15T16:19:24Z",
   "india_based": true,
   "method": "Careers board, posting text",
-  "sig": "954ec65e03",
+  "sig": "25dfc7fd45",
   "summary": "CredX is headquartered in India.",
   "verdict": "yes"
  },

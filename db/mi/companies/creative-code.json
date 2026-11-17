@@ -1,0 +1,27 @@
+{
+ "category": "AI",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-17T12:43:13Z",
+  "evidence": [
+   {
+    "detail": "Motion Graphics Artist/ Gen AI Expert — Bangalore, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/motion-graphics-artist-gen-ai-expert/creative-code/20020457",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-17T12:43:13Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "8e359185af",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Creative Code",
+ "slug": "creative-code",
+ "tier": 1
+}

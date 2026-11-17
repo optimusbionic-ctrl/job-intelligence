@@ -1,12 +1,12 @@
 {
- "category": "Other",
+ "category": "AI",
  "classification": "Inferred from job description",
  "india_hiring": {
   "board": null,
   "changed_at": "2026-10-20T09:28:06Z",
   "evidence": [
    {
-    "detail": "Motion Graphic Designer — Gurugram",
+    "detail": "Motion Graphic Designer — Gurugram, India",
     "kind": "posting",
     "label": "A current posting lists India as a location",
     "url": "https://cutshort.io/job/Motion-Graphic-Designer-Gurugram-The-supreme-consultancy-Jef9LB20",
@@ -21,7 +21,7 @@
   "verdict": "yes"
  },
  "inferred": true,
- "name": "The Supreme Consultancy",
+ "name": "The supreme consultancy",
  "slug": "the-supreme-consultancy",
- "tier": 3
+ "tier": 1
 }

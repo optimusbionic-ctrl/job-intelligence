@@ -1,0 +1,86 @@
+{
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/senior-animator/arrise-solutions-india-pvt-ltd/20052059",
+ "category": "SaaS",
+ "comp_potential": "unknown",
+ "company": "Arrise Solutions (India) Pvt. Ltd.",
+ "company_slug": "arrise-solutions-india-pvt-ltd",
+ "concerns": [
+  "Compensation not disclosed"
+ ],
+ "contacts_count": 0,
+ "content_hash": "944fe24de03c",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-17T12:43:13Z",
+ "fit": 73,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "3275b70c1359f8",
+ "include_reason": "Motion design title",
+ "india": {
+  "cities": [
+   "Delhi NCR"
+  ],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "motion",
+ "last_verified": "2026-11-17T12:43:13Z",
+ "location": "Noida, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-11-11T06:04:36Z",
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 30,
+  "comp": 48,
+  "company": 98,
+  "location": 64,
+  "seniority": 100,
+  "skill": 72
+ },
+ "seniority": "senior",
+ "snippet": "Experience: 6 to 10 Yrs\nSkills: Adobe After Effects, Photoshop, Illustrator, Spine animation software, animation principles, 2D skeleton rigging, mesh weighting, deformation\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "20052059",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-11-11T06:04:36Z",
+   "seen_at": "2026-11-17T12:43:13Z",
+   "url": "https://www.shine.com/jobs/senior-animator/arrise-solutions-india-pvt-ltd/20052059"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 1,
+ "title": "Senior Animator",
+ "tools": [
+  "After Effects",
+  "Illustrator",
+  "Photoshop"
+ ],
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/senior-animator/arrise-solutions-india-pvt-ltd/20052059",
+ "why": [
+  "Core motion design role",
+  "Tools you already use: After Effects, Illustrator, Photoshop",
+  "SaaS company (Tier 1 priority)",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_min": null
+}

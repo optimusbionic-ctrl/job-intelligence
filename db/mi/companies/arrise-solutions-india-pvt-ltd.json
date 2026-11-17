@@ -1,0 +1,27 @@
+{
+ "category": "SaaS",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-17T12:43:13Z",
+  "evidence": [
+   {
+    "detail": "Senior Animator — Noida, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/senior-animator/arrise-solutions-india-pvt-ltd/20052059",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-17T12:43:13Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "e4df46e7f9",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Arrise Solutions (India) Pvt. Ltd.",
+ "slug": "arrise-solutions-india-pvt-ltd",
+ "tier": 1
+}

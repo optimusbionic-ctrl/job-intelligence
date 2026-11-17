@@ -1,42 +1,16 @@
 {
- "ats": {
-  "slug": "boldin",
-  "type": "greenhouse"
- },
  "category": "Agency / studio",
  "classification": "Inferred from job description",
  "india_hiring": {
-  "board": {
-   "apac": 0,
-   "countries": [],
-   "india": 0,
-   "india_samples": [],
-   "open_samples": [],
-   "remote": 5,
-   "restricted_remote": 0,
-   "restricted_samples": [],
-   "slug": "boldin",
-   "total": 5,
-   "type": "greenhouse",
-   "url": "https://boards.greenhouse.io/boldin",
-   "worldwide": 0
-  },
-  "changed_at": "2026-10-16T20:34:11Z",
-  "evidence": [
-   {
-    "detail": "Senior Brand Designer — Worldwide",
-    "kind": "posting",
-    "label": "A current posting is open worldwide",
-    "url": "https://job-boards.greenhouse.io/boldin/jobs/4420462009",
-    "weight": 3
-   }
-  ],
+  "board": null,
+  "changed_at": "2026-11-17T12:43:13Z",
+  "evidence": [],
   "first_checked_at": "2026-10-15T16:19:24Z",
   "india_based": false,
   "method": "Careers board, posting text, web search",
-  "sig": "80623b36ab",
-  "summary": "No India-located roles found, but a current posting is open worldwide.",
-  "verdict": "likely",
+  "sig": "54391d7cdf",
+  "summary": "No public evidence yet about hiring from India.",
+  "verdict": "unclear",
   "web": {
    "checked_at": "2026-10-29T19:26:56Z",
    "query": "\"Boldin\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
