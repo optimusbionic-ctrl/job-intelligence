@@ -13,15 +13,63 @@
  "facts_note": "HQ and maturity from public company information; funding not verified",
  "hq": "Remote-first (global)",
  "india_hiring": {
-  "board": null,
-  "changed_at": "2026-11-17T11:27:04Z",
-  "evidence": [],
+  "board": {
+   "apac": 0,
+   "countries": [
+    "Colombia",
+    "Argentina",
+    "Canada",
+    "Spain"
+   ],
+   "india": 0,
+   "india_samples": [],
+   "open_samples": [],
+   "remote": 16,
+   "restricted_remote": 16,
+   "restricted_samples": [
+    {
+     "location": "EMEA",
+     "title": "AI Creative Technologist",
+     "url": "https://jobs.lever.co/superside/2e3f7ff5-8b1e-45e3-bbdc-65ab16c291e1"
+    },
+    {
+     "location": "Toronto",
+     "title": "AI Solutions Engineer",
+     "url": "https://jobs.lever.co/superside/67c7a33f-b655-4c8a-b2e1-c9958231f35b"
+    },
+    {
+     "location": "Global",
+     "title": "Account Director",
+     "url": "https://jobs.lever.co/superside/164e09f2-41db-469a-ac65-c9036247a3a3"
+    },
+    {
+     "location": "Global",
+     "title": "Conceptual Art Director",
+     "url": "https://jobs.lever.co/superside/a6b28001-e4b7-4253-bb2e-bc0ce8e74f07"
+    }
+   ],
+   "slug": "superside",
+   "total": 17,
+   "type": "lever",
+   "url": "https://jobs.lever.co/superside",
+   "worldwide": 0
+  },
+  "changed_at": "2026-11-17T11:58:41Z",
+  "evidence": [
+   {
+    "detail": "None are located in India or open worldwide; 16 remote roles are limited to named countries",
+    "kind": "board",
+    "label": "All 17 open roles are in Colombia, Argentina, Canada and Spain",
+    "url": "https://jobs.lever.co/superside",
+    "weight": -3
+   }
+  ],
   "first_checked_at": "2026-10-22T09:28:02Z",
   "india_based": false,
   "method": "Careers board, posting text, web search",
-  "sig": "54391d7cdf",
-  "summary": "No public evidence yet about hiring from India.",
-  "verdict": "unclear",
+  "sig": "4b0648f74d",
+  "summary": "All 17 open roles are in Colombia, Argentina, Canada and Spain. None are located in India or open worldwide; 16 remote roles are limited to named countries.",
+  "verdict": "no",
   "web": {
    "checked_at": "2026-10-22T10:28:53Z",
    "query": "site:superside.com careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",

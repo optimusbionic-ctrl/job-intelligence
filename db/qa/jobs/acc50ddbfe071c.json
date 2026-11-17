@@ -8,16 +8,15 @@
  "concerns": [
   "Office outside Mumbai — relocation within India",
   "Pay not disclosed — ask for the range early",
-  "Game services / QA company (client projects)",
-  "Full description not available from this source"
+  "Game services / QA company (client projects)"
  ],
  "contacts_count": 1,
- "content_hash": "588cb2b0df50",
- "date_quality": "unknown",
+ "content_hash": "025f9ad6e017",
+ "date_quality": "exact",
  "deadline": null,
  "employment": "full-time",
  "first_seen": "2026-11-03T18:50:05Z",
- "fit": 78,
+ "fit": 67,
  "has_hiring_manager": false,
  "has_named_contact": false,
  "has_public_email": false,
@@ -33,28 +32,44 @@
   "visa": false
  },
  "kind": "game-tester",
- "last_verified": "2026-11-03T18:50:05Z",
+ "last_verified": "2026-11-17T11:56:10Z",
  "location": "Gurgaon",
- "logo": null,
+ "logo": "https://workablehr.s3.amazonaws.com/uploads/account/logo/239938/logo",
  "needs_review": false,
  "official": true,
- "posted_at": null,
+ "posted_at": "2026-11-17T11:45:12Z",
  "repost": false,
- "requirements": [],
- "responsibilities": [],
+ "requirements": [
+  "Test and report issues using JIRA, an issue tracking system used by the company.",
+  "Work with the production team on prioritizing the issues.",
+  "Work closely with product team and designers to understand requirements for quality assurance.",
+  "Work independently with minimum guidance.",
+  "Video game enthusiast with a knack for finding bugs.",
+  "Work as member of team assigned to a project for testing a specific game.",
+  "Execute and update Test cases assigned as per instructions and timelines."
+ ],
+ "responsibilities": [
+  "Review game design and requirements documents and develop test plans.",
+  "Test and report issues using JIRA, an issue tracking system used by the company.",
+  "Work with the production team on prioritizing the issues.",
+  "Work closely with product team and designers to understand requirements for quality assurance.",
+  "Work independently with minimum guidance.",
+  "Video game enthusiast with a knack for finding bugs.",
+  "Work as member of team assigned to a project for testing a specific game."
+ ],
  "salary": {
   "state": "unavailable"
  },
  "scores": {
-  "ai": 55,
+  "ai": 58,
   "comp": 60,
   "company": 96,
   "location": 60,
   "seniority": 84,
-  "skill": 86
+  "skill": 50
  },
  "seniority": "unspecified",
- "snippet": "",
+ "snippet": "Behind every great game is a team powering the quest. Keywords Studios partners with the world’s leading game developers to create, test, and support incredible gaming experiences for players everywhere. We are looking for game testers to help us fulfill that quest, and we can do it together! \n\nAction Required: Join us as a Video Game Tester!\n\nYou will be searching for bugs by playing pre-release and live op’s video ",
  "source_primary": "Workable (via search index)",
  "sources": [
   {
@@ -63,8 +78,44 @@
    "kind": "search",
    "name": "Workable (via search index)",
    "posted_at": null,
-   "seen_at": "2026-11-03T18:50:05Z",
+   "seen_at": "2026-11-17T11:56:10Z",
    "url": "https://apply.workable.com/keywords-intl1/jobs/view/32B10AE4F9.md"
+  },
+  {
+   "id": "workable",
+   "job_id": "https://apply.workable.com/keywords-intl1/jobs/view/32B10AE4F9",
+   "kind": "search",
+   "name": "Workable",
+   "posted_at": null,
+   "seen_at": "2026-11-17T11:56:10Z",
+   "url": "https://apply.workable.com/keywords-intl1/jobs/view/32B10AE4F9"
+  },
+  {
+   "id": "workable",
+   "job_id": "https://apply.workable.com/keywords-intl1/jobs/view/5ED9F71BC6.md",
+   "kind": "search",
+   "name": "Workable (via search index)",
+   "posted_at": null,
+   "seen_at": "2026-11-17T11:56:10Z",
+   "url": "https://apply.workable.com/keywords-intl1/jobs/view/5ED9F71BC6.md"
+  },
+  {
+   "id": "workable",
+   "job_id": "https://apply.workable.com/keywords-intl1/jobs/view/5ED9F71BC6",
+   "kind": "search",
+   "name": "Workable (via search index)",
+   "posted_at": null,
+   "seen_at": "2026-11-17T11:56:10Z",
+   "url": "https://apply.workable.com/keywords-intl1/jobs/view/5ED9F71BC6"
+  },
+  {
+   "id": "workable",
+   "job_id": "d4e90b87-bb94-4fcf-bd7b-fa9f40a14e39",
+   "kind": "board",
+   "name": "Workable job marketplace",
+   "posted_at": "2026-11-17T11:45:12Z",
+   "seen_at": "2026-11-17T11:56:10Z",
+   "url": "https://jobs.workable.com/view/shTbjLZJmMmfgC8XBQkCG2/video-game-tester---gurgaon-in-gurgaon-at-keywords-studios"
   },
   {
    "id": "web",
@@ -72,8 +123,53 @@
    "kind": "search",
    "name": "Web (via search index)",
    "posted_at": null,
-   "seen_at": "2026-11-03T18:50:05Z",
+   "seen_at": "2026-11-17T11:56:10Z",
    "url": "https://startup.jobs/video-game-tester-bengaluru-keywords-studios-8645484"
+  },
+  {
+   "id": "web",
+   "job_id": "https://jobs.workable.com/jobs/a739bbc3-e976-4548-8cba-081757c4f13d.md",
+   "kind": "search",
+   "name": "Web (via search index)",
+   "posted_at": null,
+   "seen_at": "2026-11-17T11:56:10Z",
+   "url": "https://jobs.workable.com/jobs/a739bbc3-e976-4548-8cba-081757c4f13d.md"
+  },
+  {
+   "id": "workable",
+   "job_id": "https://jobs.workable.com/jobs/a739bbc3-e976-4548-8cba-081757c4f13d",
+   "kind": "search",
+   "name": "Workable (via search index)",
+   "posted_at": null,
+   "seen_at": "2026-11-17T11:56:10Z",
+   "url": "https://jobs.workable.com/jobs/a739bbc3-e976-4548-8cba-081757c4f13d"
+  },
+  {
+   "id": "web",
+   "job_id": "https://hitmarker.net/jobs/keywords-studios-video-game-tester-gurgaon-4500183",
+   "kind": "search",
+   "name": "Web (via search index)",
+   "posted_at": null,
+   "seen_at": "2026-11-17T11:56:10Z",
+   "url": "https://hitmarker.net/jobs/keywords-studios-video-game-tester-gurgaon-4500183"
+  },
+  {
+   "id": "web",
+   "job_id": "https://startup.jobs/video-game-tester-gurgaon-keywords-studios-8645485",
+   "kind": "search",
+   "name": "Web (via search index)",
+   "posted_at": null,
+   "seen_at": "2026-11-17T11:56:10Z",
+   "url": "https://startup.jobs/video-game-tester-gurgaon-keywords-studios-8645485"
+  },
+  {
+   "id": "web",
+   "job_id": "https://swooped.co/job-postings/game-tester-fresher-gurgaon-keywords-studios-a400b",
+   "kind": "search",
+   "name": "Job listing (via search index)",
+   "posted_at": null,
+   "seen_at": "2026-11-17T11:56:10Z",
+   "url": "https://swooped.co/job-postings/game-tester-fresher-gurgaon-keywords-studios-a400b"
   }
  ],
  "specializations": [],

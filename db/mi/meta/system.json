@@ -10,20 +10,20 @@
   "roles_clarified": 4,
   "verdicts": {
    "likely": 2,
-   "no": 4,
-   "unclear": 52,
+   "no": 5,
+   "unclear": 51,
    "yes": 50
   },
   "web_checked": 0
  },
  "last_run": {
   "alerts_count": 0,
-  "closed_count": 33,
-  "finished_at": "2026-11-17T11:39:40Z",
-  "id": "20261117T112704Z",
-  "kept": 108,
-  "new_count": 2,
-  "raw_count": 937
+  "closed_count": 22,
+  "finished_at": "2026-11-17T11:59:47Z",
+  "id": "20261117T115841Z",
+  "kept": 106,
+  "new_count": 0,
+  "raw_count": 949
  },
  "monitor": {
   "cadence": "every 3 hours",
@@ -37,5 +37,5 @@
   "trigger_id": "trig_01AcYzMU7L1j3u73f9kfZhgY"
  },
  "pipeline_version": "2.1.0",
- "updated_at": "2026-11-17T11:39:40Z"
+ "updated_at": "2026-11-17T11:59:48Z"
 }
