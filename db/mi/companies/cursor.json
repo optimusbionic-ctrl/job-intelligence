@@ -22,8 +22,8 @@
     "Japan",
     "India",
     "United Kingdom",
-    "South Korea",
-    "Germany"
+    "Brazil",
+    "South Korea"
    ],
    "india": 4,
    "india_samples": [
@@ -49,8 +49,8 @@
     }
    ],
    "open_samples": [],
-   "remote": 47,
-   "restricted_remote": 46,
+   "remote": 46,
+   "restricted_remote": 45,
    "restricted_samples": [
     {
      "location": "Remote",
