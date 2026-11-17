@@ -6,20 +6,23 @@
  "company": "Valtech",
  "company_slug": "valtech",
  "concerns": [
-  "Pay not disclosed — ask for the range early"
+  "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
+  "Also asks for: Test management (TestRail/Zephyr), API testing, Programming",
+  "Pay not disclosed — ask for the range early",
+  "Reposted / refreshed listing — original posting is older"
  ],
  "contacts_count": 0,
- "content_hash": "1228395ca82b",
+ "content_hash": "611a4d237f72",
  "date_quality": "exact",
  "deadline": "2027-01-12T13:26:54Z",
  "employment": "full-time",
  "first_seen": "2026-11-13T15:44:28Z",
- "fit": 71,
+ "fit": 80,
  "has_hiring_manager": false,
  "has_named_contact": false,
  "has_public_email": false,
  "id": "aa5c37043bf9b5",
- "include_reason": "QA / test engineer title",
+ "include_reason": "Automation-heavy QA (SDET)",
  "india": {
   "cities": [],
   "company": "yes",
@@ -27,14 +30,14 @@
   "status": "confirmed",
   "visa": false
  },
- "kind": "qa-engineer",
- "last_verified": "2026-11-16T15:10:27Z",
- "location": "India",
+ "kind": "automation",
+ "last_verified": "2026-11-17T12:52:22Z",
+ "location": "India - Remote",
  "logo": null,
  "needs_review": false,
  "official": true,
  "posted_at": "2026-11-11T10:06:17Z",
- "repost": false,
+ "repost": true,
  "requirements": [
   "3–4 years of experience in software testing, with strong hands-on expertise in manual testing",
   "Working knowledge of the Retail domain (POS, order management, inventory, pricing/promotions, e-commerce, omnichannel flows)",
@@ -57,12 +60,12 @@
   "state": "unavailable"
  },
  "scores": {
-  "ai": 58,
+  "ai": 68,
   "comp": 60,
   "company": 95,
   "location": 100,
-  "seniority": 84,
-  "skill": 43
+  "seniority": 100,
+  "skill": 61
  },
  "seniority": "unspecified",
  "snippet": "Why Valtech? We’re the experience innovation company - a trusted partner to the world’s most recognized brands. To our people we offer growth opportunities, a values-driven culture, international careers and the chance to shape the future of experience. \n\n The Opportunity \n\n At Valtech, you’ll find an environment designed for continuous learning, meaningful impact, and professional growth. Whether you're pioneering n",
@@ -74,7 +77,7 @@
    "kind": "ats",
    "name": "Valtech careers (Greenhouse)",
    "posted_at": "2026-11-11T10:06:17Z",
-   "seen_at": "2026-11-16T15:10:27Z",
+   "seen_at": "2026-11-17T12:52:22Z",
    "url": "https://job-boards.eu.greenhouse.io/valtech/jobs/5025604101"
   },
   {
@@ -83,26 +86,40 @@
    "kind": "board",
    "name": "Himalayas",
    "posted_at": "2026-11-13T13:26:54Z",
-   "seen_at": "2026-11-16T15:10:27Z",
+   "seen_at": "2026-11-17T12:52:22Z",
    "url": "https://himalayas.app/companies/valtech-us/jobs/software-test-engineer?utm_source=api"
   }
  ],
- "specializations": [],
+ "specializations": [
+  "Web apps"
+ ],
  "status": "verified",
  "tier": 1,
  "title": "Software Test Engineer",
  "tools": [
+  "Regression testing",
+  "Sanity testing",
+  "Exploratory testing",
+  "Test cases & scenarios",
+  "Bug reporting",
+  "Jira",
+  "Google Sheets / Excel",
+  "Test management (TestRail/Zephyr)",
+  "API testing",
+  "Test automation",
+  "Programming",
   "Agile / Scrum"
  ],
  "track": "software",
- "updated_at": null,
+ "updated_at": "2026-11-16T12:06:54Z",
  "url": "https://job-boards.eu.greenhouse.io/valtech/jobs/5025604101",
  "why": [
-  "QA / test engineer role",
+  "Already on your resume: Regression testing, Sanity testing, Exploratory testing, Test cases & scenarios, Bug reporting, Jira",
   "Product / SaaS company",
+  "Asks for 2–4 years — you have about 2.5",
   "Location lists India"
  ],
  "work_mode": "remote",
- "years_max": null,
- "years_min": null
+ "years_max": 4,
+ "years_min": 2
 }

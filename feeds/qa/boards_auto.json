@@ -8,6 +8,14 @@
 "found_by": "board lookup"
 },
 {
+"name": "Canonical",
+"ats": {
+"type": "greenhouse",
+"slug": "canonical"
+},
+"found_by": "board lookup"
+},
+{
 "name": "Endava",
 "ats": {
 "type": "smartrecruiters",
@@ -76,6 +84,22 @@
 "ats": {
 "type": "greenhouse",
 "slug": "thoughtworks"
+},
+"found_by": "board lookup"
+},
+{
+"name": "Valtech",
+"ats": {
+"type": "greenhouse",
+"slug": "valtech"
+},
+"found_by": "board lookup"
+},
+{
+"name": "Welo Global",
+"ats": {
+"type": "lever",
+"slug": "weloglobal"
 },
 "found_by": "board lookup"
 },
