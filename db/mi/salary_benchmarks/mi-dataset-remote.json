@@ -1,42 +1,15 @@
 {
- "avg": 16536934,
+ "avg": 18322172,
  "basis": "Interquartile range of posting midpoints, converted to INR at today's rate",
  "currency": "INR",
- "high": 20530228,
+ "high": 22207412,
  "id": "mi-dataset-remote",
  "label": "Disclosed pay on remote motion-design postings (any region, this dataset)",
- "low": 11772277,
+ "low": 12449681,
  "market": "Remote (global)",
- "n": 15,
+ "n": 11,
  "retrieved_at": "2026-11-17",
  "samples": [
-  {
-   "company": "Affirm",
-   "currency": "CAD",
-   "location": "Canada",
-   "max": 151000,
-   "min": 101000,
-   "title": "Visual Designer II",
-   "url": "https://himalayas.app/companies/affirm/jobs/visual-designer-ii?utm_source=api"
-  },
-  {
-   "company": "College Board",
-   "currency": "USD",
-   "location": "United States",
-   "max": 120000,
-   "min": 72000,
-   "title": "Senior Visual Designer",
-   "url": "https://himalayas.app/companies/college-board/jobs/senior-visual-designer?utm_source=api"
-  },
-  {
-   "company": "Red Door Collaborative",
-   "currency": "USD",
-   "location": "United States",
-   "max": 120000,
-   "min": 105000,
-   "title": "Senior Lead Motion Designer",
-   "url": "https://himalayas.app/companies/red-door-collaborative/jobs/senior-lead-motion-designer?utm_source=api"
-  },
   {
    "company": "Pogo",
    "currency": "USD",
@@ -63,15 +36,6 @@
    "min": 120000,
    "title": "Senior Brand Designer",
    "url": "https://himalayas.app/companies/acoustic/jobs/senior-brand-designer?utm_source=api"
-  },
-  {
-   "company": "Huckleberry Labs",
-   "currency": "USD",
-   "location": "United States",
-   "max": 160000,
-   "min": 135000,
-   "title": "Senior Brand Designer",
-   "url": "https://himalayas.app/companies/huckleberry-labs/jobs/senior-brand-designer?utm_source=api"
   },
   {
    "company": "Render",
@@ -130,11 +94,11 @@
   {
    "company": "Pinterest",
    "currency": "USD",
-   "location": "United States",
+   "location": "San Francisco, CA, US; Remote, US",
    "max": 326870,
    "min": 158765,
    "title": "Staff Motion Designer, Design Innovation",
-   "url": "https://himalayas.app/companies/pinterestcareers/jobs/staff-motion-designer-design-innovation-4550058863?utm_source=api"
+   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8302281"
   },
   {
    "company": "Render",

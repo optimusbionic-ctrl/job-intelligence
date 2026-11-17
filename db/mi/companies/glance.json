@@ -20,7 +20,7 @@
     "Japan",
     "United States"
    ],
-   "india": 20,
+   "india": 17,
    "india_samples": [
     {
      "location": "Bangalore",
@@ -48,17 +48,17 @@
    "restricted_remote": 0,
    "restricted_samples": [],
    "slug": "glance",
-   "total": 33,
+   "total": 30,
    "type": "greenhouse",
    "url": "https://boards.greenhouse.io/glance",
    "worldwide": 0
   },
-  "changed_at": "2026-11-17T03:59:37Z",
+  "changed_at": "2026-11-17T06:07:33Z",
   "evidence": [
    {
     "detail": "Applied Scientist II - Recommendation (Bangalore); Applied Scientist III - Recommendation Systems  (Bangalore); Applied Scientist III - Recommendations (Bangalore)",
     "kind": "board",
-    "label": "20 of 33 open roles are located in India",
+    "label": "17 of 30 open roles are located in India",
     "url": "https://boards.greenhouse.io/glance",
     "weight": 5
    },
@@ -80,7 +80,7 @@
   "first_checked_at": "2026-10-15T16:19:24Z",
   "india_based": true,
   "method": "Careers board, posting text",
-  "sig": "2139306fa0",
+  "sig": "abe9a115ef",
   "summary": "Glance is headquartered in India.",
   "verdict": "yes"
  },

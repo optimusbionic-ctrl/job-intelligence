@@ -1,0 +1,30 @@
+{
+ "category": "Game studio",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-17T06:06:21Z",
+  "evidence": [
+   {
+    "detail": "Game Tester / Community Moderator — All India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/game-tester-community-moderator/remote-quest-jobs/20095423",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-17T06:06:21Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "410e565879",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "remote quest jobs",
+ "slug": "remote-quest-jobs",
+ "tier": 1,
+ "tracks": [
+  "game"
+ ]
+}
