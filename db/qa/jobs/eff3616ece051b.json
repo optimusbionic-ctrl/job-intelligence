@@ -1,0 +1,119 @@
+{
+ "apply_url": "https://jobs.ashbyhq.com/Clera/dbe2db17-9662-4d1f-8d1e-63224c829a52/application",
+ "board_apply": null,
+ "category": "Product / SaaS",
+ "comp_potential": "listed_global",
+ "company": "Clera",
+ "company_slug": "clera",
+ "concerns": [
+  "Mentions test automation — be ready to discuss it or show a small script",
+  "Requires relocation abroad",
+  "Listed range is for another country"
+ ],
+ "contacts_count": 0,
+ "content_hash": "a687088b809a",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-17T16:38:51Z",
+ "fit": 73,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "eff3616ece051b",
+ "include_reason": "QA / test engineer title",
+ "india": {
+  "cities": [],
+  "company": "likely",
+  "reason": "Overseas office; mentions visa/relocation support",
+  "status": "relocation",
+  "visa": true
+ },
+ "kind": "qa-engineer",
+ "last_verified": "2026-11-17T16:38:51Z",
+ "location": "San Francisco (United States)",
+ "logo": null,
+ "needs_review": false,
+ "official": true,
+ "posted_at": "2026-11-16T17:32:58Z",
+ "repost": false,
+ "requirements": [
+  "At least 3 years of experience in QA, SDET, or test automation, building or delivering test suites and automation frameworks.",
+  "Strong Go experience writing integration tests or backend test automation, plus experience creating end-to-end tests for web UIs.",
+  "Hands-on experience with Kubernetes, React, RPC protocols such as gRPC, CI/CD systems, and Linux fundamentals.",
+  "Familiarity with observability tools such as Prometheus, Alertmanager, or Grafana.",
+  "Experience with LLM-powered or conversational products, agent evaluations, multicluster tooling, Kubernetes testing, or chaos engineering is helpful.",
+  "Exposure to Playwright or similar frameworks, Slack apps, GPU or bare-metal infrastructure, and building test infrastructure from scratch is a plus."
+ ],
+ "responsibilities": [
+  "Join an early-stage AI infrastructure company as its first QA engineer, owning quality across a GPU fleet management platform. You will help ensure that conversational and web interfaces, along with the underlying Kubernetes systems, handle infrastructure changes safely and reliably.",
+  "Test conversational workflows end to end, including command accuracy and actions performed on live clusters.",
+  "Build evaluations for agent behavior, checking answer quality, safe actions, and handling of ambiguous or invalid requests.",
+  "Create end-to-end tests for the web interface and verify consistent behavior across interfaces.",
+  "Write Go integration tests for backend workflows, including installation, upgrades, and failover.",
+  "Provision and tear down Kubernetes test clusters to validate controllers, operators, and CRDs across Kubernetes versions.",
+  "Verify alert delivery to collaboration tools and the user interface, and confirm alerts fire under the right conditions."
+ ],
+ "salary": {
+  "applies_india": false,
+  "basis": "base",
+  "currency": "USD",
+  "fx_at": "Tue, 17 Nov 2026 00:02:31 +0000",
+  "fx_rate": 93.9599,
+  "inr_max": 18791971,
+  "inr_min": 16912774,
+  "max": 200000,
+  "min": 180000,
+  "note": "Range listed for a non-India location",
+  "original_period": "annual",
+  "period": "annual",
+  "source_name": "Clera careers (Ashby)",
+  "source_url": "https://jobs.ashbyhq.com/Clera/dbe2db17-9662-4d1f-8d1e-63224c829a52",
+  "state": "verified",
+  "verified_at": "2026-11-17T16:38:51Z"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 96,
+  "company": 95,
+  "location": 30,
+  "seniority": 94,
+  "skill": 67
+ },
+ "seniority": "unspecified",
+ "snippet": "ABOUT THE ROLE\n\nJoin an early-stage AI infrastructure company as its first QA engineer, owning quality across a GPU fleet management platform. You will help ensure that conversational and web interfaces, along with the underlying Kubernetes systems, handle infrastructure changes safely and reliably.\n\n\nWHAT YOU'LL DO\n\n - Test conversational workflows end to end, including command accuracy and actions performed on live",
+ "source_primary": "Clera careers (Ashby)",
+ "sources": [
+  {
+   "id": "ashby",
+   "job_id": "ashby:clera:dbe2db17-9662-4d1f-8d1e-63224c829a52",
+   "kind": "ats",
+   "name": "Clera careers (Ashby)",
+   "posted_at": "2026-11-16T17:32:58Z",
+   "seen_at": "2026-11-17T16:38:51Z",
+   "url": "https://jobs.ashbyhq.com/Clera/dbe2db17-9662-4d1f-8d1e-63224c829a52"
+  }
+ ],
+ "specializations": [],
+ "status": "verified",
+ "tier": 1,
+ "title": "QA Engineer",
+ "tools": [
+  "Regression testing",
+  "UI testing",
+  "Test automation"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://jobs.ashbyhq.com/Clera/dbe2db17-9662-4d1f-8d1e-63224c829a52",
+ "why": [
+  "QA / test engineer role",
+  "Already on your resume: Regression testing, UI testing",
+  "Product / SaaS company",
+  "Asks for 3+ years — you have about 2.5",
+  "Pay is listed in the posting"
+ ],
+ "work_mode": "onsite",
+ "years_max": null,
+ "years_min": 3
+}

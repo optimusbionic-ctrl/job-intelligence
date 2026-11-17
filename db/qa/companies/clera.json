@@ -1,65 +1,10 @@
 {
- "ats": {
-  "slug": "clera",
-  "type": "ashby"
- },
- "category": "Other",
+ "category": "Product / SaaS",
  "classification": "Inferred from job description",
  "india_hiring": {
-  "board": {
-   "apac": 0,
-   "countries": [
-    "United States",
-    "Germany",
-    "Singapore",
-    "Spain",
-    "Austria",
-    "Canada",
-    "Argentina",
-    "Switzerland"
-   ],
-   "india": 0,
-   "india_samples": [],
-   "open_samples": [],
-   "remote": 87,
-   "restricted_remote": 49,
-   "restricted_samples": [
-    {
-     "location": "Salt Lake City",
-     "title": "Account Executive",
-     "url": "https://jobs.ashbyhq.com/Clera/bdcb4d48-4b24-4ade-834f-78bfedd4ec2b"
-    },
-    {
-     "location": "New York",
-     "title": "Applied AI Researcher",
-     "url": "https://jobs.ashbyhq.com/Clera/1f997a2f-7131-4daa-b648-df06cc1d9927"
-    },
-    {
-     "location": "Los Angeles",
-     "title": "B2C Marketing (part-time) Intern",
-     "url": "https://jobs.ashbyhq.com/Clera/5280779a-bcd0-499c-9c3b-41e5dc493092"
-    },
-    {
-     "location": "New York",
-     "title": "Computational and Experimental Scientist",
-     "url": "https://jobs.ashbyhq.com/Clera/381a648d-666c-45d2-b707-ab8c2c935fd5"
-    }
-   ],
-   "slug": "clera",
-   "total": 276,
-   "type": "ashby",
-   "url": "https://jobs.ashbyhq.com/clera",
-   "worldwide": 0
-  },
-  "changed_at": "2026-11-17T14:23:00Z",
+  "board": null,
+  "changed_at": "2026-11-17T16:38:51Z",
   "evidence": [
-   {
-    "detail": "None are located in India or open worldwide; 49 remote roles are limited to named countries",
-    "kind": "board",
-    "label": "All 276 open roles are in United States, Germany, Singapore, Spain and 4 more",
-    "url": "https://jobs.ashbyhq.com/clera",
-    "weight": -3
-   },
    {
     "detail": "Safety Testing Associate — Worldwide",
     "kind": "posting",
@@ -71,14 +16,14 @@
   "first_checked_at": "2026-11-16T02:59:52Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "6b73899c78",
+  "sig": "f589a5bd7d",
   "summary": "No India-located roles found, but a current posting is open worldwide.",
   "verdict": "likely"
  },
  "inferred": true,
  "name": "Clera",
  "slug": "clera",
- "tier": 3,
+ "tier": 1,
  "tracks": [
   "software"
  ]

@@ -32,6 +32,14 @@
 "found_by": "board lookup"
 },
 {
+"name": "Clera",
+"ats": {
+"type": "ashby",
+"slug": "clera"
+},
+"found_by": "board lookup"
+},
+{
 "name": "Endava",
 "ats": {
 "type": "smartrecruiters",
@@ -56,6 +64,14 @@
 "found_by": "board lookup"
 },
 {
+"name": "Green Fields Ltd",
+"ats": {
+"type": "greenhouse",
+"slug": "greenfields"
+},
+"found_by": "board lookup"
+},
+{
 "name": "Immutable",
 "ats": {
 "type": "lever",
@@ -76,6 +92,14 @@
 "ats": {
 "type": "lever",
 "slug": "kabam"
+},
+"found_by": "board lookup"
+},
+{
+"name": "mercor",
+"ats": {
+"type": "ashby",
+"slug": "mercor"
 },
 "found_by": "board lookup"
 },
