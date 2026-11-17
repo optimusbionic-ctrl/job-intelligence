@@ -9,6 +9,11 @@
 "checked_at": "2026-11-17T12:28:17+00:00",
 "name": "99Games"
 },
+"aceitcareers": {
+"board": null,
+"checked_at": "2026-11-17T14:19:36+00:00",
+"name": "Ace IT Careers"
+},
 "activision": {
 "board": null,
 "checked_at": "2026-11-17T12:28:17+00:00",
@@ -23,6 +28,11 @@
 "board": null,
 "checked_at": "2026-11-17T12:49:27+00:00",
 "name": "Aerem"
+},
+"affideabv": {
+"board": null,
+"checked_at": "2026-11-17T14:19:36+00:00",
+"name": "Affidea BV"
 },
 "agilewatersconsulting": {
 "board": null,
@@ -88,6 +98,11 @@
 "checked_at": "2026-11-17T12:49:27+00:00",
 "name": "Arbelos Solutions"
 },
+"ardhas": {
+"board": null,
+"checked_at": "2026-11-17T14:19:36+00:00",
+"name": "Ardhas"
+},
 "aristocrat": {
 "board": null,
 "checked_at": "2026-11-17T12:28:17+00:00",
@@ -123,6 +138,11 @@
 "checked_at": "2026-11-17T12:37:28+00:00",
 "name": "Aviyana Ventures Pvt. Ltd."
 },
+"ayurveda": {
+"board": null,
+"checked_at": "2026-11-17T14:19:36+00:00",
+"name": "AYURVEDA"
+},
 "baazigames": {
 "board": null,
 "checked_at": "2026-11-17T12:28:17+00:00",
@@ -152,6 +172,16 @@
 "board": null,
 "checked_at": "2026-11-17T12:28:17+00:00",
 "name": "Big Fish Games"
+},
+"binarystream": {
+"board": null,
+"checked_at": "2026-11-17T14:19:36+00:00",
+"name": "Binary Stream"
+},
+"binated": {
+"board": null,
+"checked_at": "2026-11-17T14:19:36+00:00",
+"name": "Binated"
 },
 "birlasoft": {
 "board": null,
@@ -201,6 +231,20 @@
 "board": null,
 "checked_at": "2026-11-17T12:28:17+00:00",
 "name": "Capcom"
+},
+"capgemini": {
+"board": null,
+"checked_at": "2026-11-17T14:19:36+00:00",
+"name": "Capgemini"
+},
+"careersolutions": {
+"board": {
+"jobs": 1,
+"slug": "career",
+"type": "lever"
+},
+"checked_at": "2026-11-17T14:19:36+00:00",
+"name": "Career Solutions."
 },
 "carnivalgamesindia": {
 "board": null,
@@ -272,6 +316,11 @@
 "checked_at": "2026-11-17T12:49:27+00:00",
 "name": "Cravingcode Technologies Pvt Ltd"
 },
+"creatigritytechnologiespvtltd": {
+"board": null,
+"checked_at": "2026-11-17T14:19:36+00:00",
+"name": "Creatigrity Technologies Pvt Ltd"
+},
 "creativeclicksbv": {
 "board": null,
 "checked_at": "2026-11-17T12:37:28+00:00",
@@ -302,6 +351,11 @@
 "checked_at": "2026-11-17T12:49:27+00:00",
 "name": "Cyber Infrastructure"
 },
+"daemonventures": {
+"board": null,
+"checked_at": "2026-11-17T14:19:36+00:00",
+"name": "Daemon Ventures"
+},
 "datamarkinc": {
 "board": null,
 "checked_at": "2026-11-17T12:37:28+00:00",
@@ -311,6 +365,11 @@
 "board": null,
 "checked_at": "2026-11-17T12:28:17+00:00",
 "name": "Datamatics"
+},
+"decagames": {
+"board": null,
+"checked_at": "2026-11-17T14:19:36+00:00",
+"name": "DECA Games"
 },
 "delhivery": {
 "board": null,
@@ -341,6 +400,11 @@
 "board": null,
 "checked_at": "2026-11-17T12:28:17+00:00",
 "name": "Dream Sports"
+},
+"eclerx": {
+"board": null,
+"checked_at": "2026-11-17T14:19:36+00:00",
+"name": "eClerx"
 },
 "edelweissfinancialservices": {
 "board": null,
@@ -410,6 +474,11 @@
 "checked_at": "2026-11-17T12:28:17+00:00",
 "name": "Exotel"
 },
+"expleo": {
+"board": null,
+"checked_at": "2026-11-17T14:19:36+00:00",
+"name": "Expleo"
+},
 "fasttrackjobsconsultancy": {
 "board": null,
 "checked_at": "2026-11-17T12:37:28+00:00",
@@ -419,6 +488,11 @@
 "board": null,
 "checked_at": "2026-11-17T12:28:17+00:00",
 "name": "Felicity Games"
+},
+"flexiple": {
+"board": null,
+"checked_at": "2026-11-17T14:19:36+00:00",
+"name": "Flexiple"
 },
 "flipkart": {
 "board": null,
@@ -439,6 +513,16 @@
 "board": null,
 "checked_at": "2026-11-17T12:28:17+00:00",
 "name": "Fusemachines"
+},
+"galentictechnologies": {
+"board": null,
+"checked_at": "2026-11-17T14:19:36+00:00",
+"name": "Galentic Technologies"
+},
+"galentictechnologiesprivatelimited": {
+"board": null,
+"checked_at": "2026-11-17T14:19:36+00:00",
+"name": "Galentic Technologies Private Limited"
 },
 "gameberrylabs": {
 "board": null,
@@ -468,6 +552,11 @@
 "board": null,
 "checked_at": "2026-11-17T12:28:17+00:00",
 "name": "Games2win"
+},
+"games2winindiapvtltd": {
+"board": null,
+"checked_at": "2026-11-17T14:19:36+00:00",
+"name": "Games2win India Pvt Ltd"
 },
 "gameskraft": {
 "board": null,
@@ -564,6 +653,11 @@
 "checked_at": "2026-11-17T12:28:17+00:00",
 "name": "Huuuge Games"
 },
+"huzzle": {
+"board": null,
+"checked_at": "2026-11-17T14:19:36+00:00",
+"name": "Huzzle"
+},
 "idfy": {
 "board": null,
 "checked_at": "2026-11-17T12:28:17+00:00",
@@ -577,6 +671,11 @@
 },
 "checked_at": "2026-11-17T12:28:17+00:00",
 "name": "Immutable"
+},
+"importantbusiness": {
+"board": null,
+"checked_at": "2026-11-17T14:19:36+00:00",
+"name": "Important Business"
 },
 "indiekidz": {
 "board": null,
@@ -592,6 +691,16 @@
 "board": null,
 "checked_at": "2026-11-17T12:49:27+00:00",
 "name": "InEight"
+},
+"infosys": {
+"board": null,
+"checked_at": "2026-11-17T14:19:36+00:00",
+"name": "Infosys"
+},
+"infracloud": {
+"board": null,
+"checked_at": "2026-11-17T14:19:36+00:00",
+"name": "InfraCloud"
 },
 "innovaccer": {
 "board": null,
@@ -662,6 +771,11 @@
 "checked_at": "2026-11-17T12:49:27+00:00",
 "name": "JoVE"
 },
+"joyfulcraftsmenag": {
+"board": null,
+"checked_at": "2026-11-17T14:19:36+00:00",
+"name": "Joyful Craftsmen AG"
+},
 "jungleegames": {
 "board": null,
 "checked_at": "2026-11-17T12:28:17+00:00",
@@ -695,6 +809,11 @@
 "board": null,
 "checked_at": "2026-11-17T12:28:17+00:00",
 "name": "Kissflow"
+},
+"knickglobalpvtltd": {
+"board": null,
+"checked_at": "2026-11-17T14:19:36+00:00",
+"name": "Knick Global Pvt Ltd"
 },
 "kombatindia": {
 "board": null,
@@ -735,6 +854,11 @@
 "board": null,
 "checked_at": "2026-11-17T12:28:17+00:00",
 "name": "Lenskart"
+},
+"lifelancer": {
+"board": null,
+"checked_at": "2026-11-17T14:19:36+00:00",
+"name": "Lifelancer"
 },
 "lightwonder": {
 "board": null,
@@ -785,6 +909,11 @@
 "board": null,
 "checked_at": "2026-11-17T12:28:17+00:00",
 "name": "Media.net"
+},
+"medpace": {
+"board": null,
+"checked_at": "2026-11-17T14:19:36+00:00",
+"name": "Medpace"
 },
 "micro1": {
 "board": null,
@@ -861,6 +990,11 @@
 "checked_at": "2026-11-17T12:28:17+00:00",
 "name": "Nazara"
 },
+"neuiqtechnologies": {
+"board": null,
+"checked_at": "2026-11-17T14:19:36+00:00",
+"name": "Neuiq Technologies"
+},
 "nexthire": {
 "board": null,
 "checked_at": "2026-11-17T12:37:28+00:00",
@@ -891,6 +1025,11 @@
 "checked_at": "2026-11-17T12:28:17+00:00",
 "name": "Octro"
 },
+"olbuz": {
+"board": null,
+"checked_at": "2026-11-17T14:19:36+00:00",
+"name": "olbuz"
+},
 "omtech": {
 "board": null,
 "checked_at": "2026-11-17T12:28:17+00:00",
@@ -910,6 +1049,21 @@
 "board": null,
 "checked_at": "2026-11-17T12:49:27+00:00",
 "name": "PaperPlane"
+},
+"parexel": {
+"board": null,
+"checked_at": "2026-11-17T14:19:36+00:00",
+"name": "Parexel"
+},
+"pavago": {
+"board": null,
+"checked_at": "2026-11-17T14:19:36+00:00",
+"name": "Pavago"
+},
+"peractoinfotechpvtltd": {
+"board": null,
+"checked_at": "2026-11-17T14:19:36+00:00",
+"name": "Peracto Infotech Pvt Ltd"
 },
 "perfios": {
 "board": null,
@@ -936,6 +1090,11 @@
 "checked_at": "2026-11-17T12:28:17+00:00",
 "name": "PharmEasy"
 },
+"phicommerce": {
+"board": null,
+"checked_at": "2026-11-17T14:19:36+00:00",
+"name": "Phi Commerce"
+},
 "phonepe": {
 "board": null,
 "checked_at": "2026-11-17T12:28:17+00:00",
@@ -961,10 +1120,20 @@
 "checked_at": "2026-11-17T12:28:17+00:00",
 "name": "Pine Labs"
 },
+"pitchnhire": {
+"board": null,
+"checked_at": "2026-11-17T14:19:36+00:00",
+"name": "Pitch N Hire"
+},
 "pitechniquespvtltd": {
 "board": null,
 "checked_at": "2026-11-17T12:49:27+00:00",
 "name": "Pi Techniques Pvt. Ltd."
+},
+"planit": {
+"board": null,
+"checked_at": "2026-11-17T14:19:36+00:00",
+"name": "Planit"
 },
 "plarium": {
 "board": null,
@@ -1006,6 +1175,11 @@
 "checked_at": "2026-11-17T12:28:17+00:00",
 "name": "Practo"
 },
+"pradeepitconsultingservicespvtltd": {
+"board": null,
+"checked_at": "2026-11-17T14:19:36+00:00",
+"name": "PradeepIT Consulting Services Pvt Ltd"
+},
 "pragmaticplay": {
 "board": null,
 "checked_at": "2026-11-17T12:28:17+00:00",
@@ -1021,10 +1195,20 @@
 "checked_at": "2026-11-17T12:28:17+00:00",
 "name": "Product Madness"
 },
+"propjinitechnologiesprivatelimited": {
+"board": null,
+"checked_at": "2026-11-17T14:19:36+00:00",
+"name": "Propjini Technologies Private Limited"
+},
 "purplle": {
 "board": null,
 "checked_at": "2026-11-17T12:28:17+00:00",
 "name": "Purplle"
+},
+"qalabsandbox": {
+"board": null,
+"checked_at": "2026-11-17T14:19:36+00:00",
+"name": "QA Lab Sandbox"
 },
 "qapitolqa": {
 "board": null,
@@ -1036,6 +1220,11 @@
 "checked_at": "2026-11-17T12:28:17+00:00",
 "name": "Qualitest"
 },
+"qualitykiosktechnologies": {
+"board": null,
+"checked_at": "2026-11-17T14:19:36+00:00",
+"name": "QualityKiosk Technologies"
+},
 "quantbot": {
 "board": null,
 "checked_at": "2026-11-17T12:28:17+00:00",
@@ -1045,6 +1234,11 @@
 "board": null,
 "checked_at": "2026-11-17T12:28:17+00:00",
 "name": "Quantiphi"
+},
+"quinstreetsoftwareindia": {
+"board": null,
+"checked_at": "2026-11-17T14:19:36+00:00",
+"name": "Quinstreet Software India"
 },
 "raftlabs": {
 "board": null,
@@ -1075,6 +1269,20 @@
 "board": null,
 "checked_at": "2026-11-17T12:28:17+00:00",
 "name": "Reliance Games"
+},
+"reliancegameszapak": {
+"board": null,
+"checked_at": "2026-11-17T14:19:36+00:00",
+"name": "Reliance Games (Zapak)"
+},
+"remotepeople": {
+"board": {
+"jobs": 15,
+"slug": "remotepeople",
+"type": "greenhouse"
+},
+"checked_at": "2026-11-17T14:19:36+00:00",
+"name": "Remote People"
 },
 "remotepromsp": {
 "board": null,
@@ -1120,6 +1328,11 @@
 "checked_at": "2026-11-17T12:28:17+00:00",
 "name": "Riot Games"
 },
+"rohiniitconsultingllp": {
+"board": null,
+"checked_at": "2026-11-17T14:19:36+00:00",
+"name": "Rohini IT Consulting LLP"
+},
 "room8studio": {
 "board": null,
 "checked_at": "2026-11-17T12:28:17+00:00",
@@ -1129,6 +1342,11 @@
 "board": null,
 "checked_at": "2026-11-17T12:28:17+00:00",
 "name": "Rovio"
+},
+"rtpldigital": {
+"board": null,
+"checked_at": "2026-11-17T14:19:36+00:00",
+"name": "Rtpl Digital"
 },
 "rupeexpertarservices": {
 "board": null,
@@ -1140,10 +1358,20 @@
 "checked_at": "2026-11-17T12:49:27+00:00",
 "name": "RxCloud"
 },
+"saarthi": {
+"board": null,
+"checked_at": "2026-11-17T14:19:36+00:00",
+"name": "Saarthi"
+},
 "samodernsolutions": {
 "board": null,
 "checked_at": "2026-11-17T12:49:27+00:00",
 "name": "Sa Modern Solutions"
+},
+"samvadsocialtechnologies": {
+"board": null,
+"checked_at": "2026-11-17T14:19:36+00:00",
+"name": "SamvadSocial Technologies"
 },
 "sartheeconsultancy": {
 "board": null,
@@ -1208,6 +1436,16 @@
 },
 "checked_at": "2026-11-17T12:28:17+00:00",
 "name": "Sky Mavis"
+},
+"sleekinfo": {
+"board": null,
+"checked_at": "2026-11-17T14:19:36+00:00",
+"name": "SLEEK INFO"
+},
+"smartworking": {
+"board": null,
+"checked_at": "2026-11-17T14:19:36+00:00",
+"name": "Smart Working"
 },
 "sperasoft": {
 "board": null,
@@ -1274,6 +1512,26 @@
 "checked_at": "2026-11-17T12:28:17+00:00",
 "name": "Tata Digital"
 },
+"teamacehrllp": {
+"board": null,
+"checked_at": "2026-11-17T14:19:36+00:00",
+"name": "Team Ace HR LLP"
+},
+"teamified": {
+"board": null,
+"checked_at": "2026-11-17T14:19:36+00:00",
+"name": "Teamified"
+},
+"teamleaseedtech": {
+"board": null,
+"checked_at": "2026-11-17T14:19:36+00:00",
+"name": "TeamLease Edtech"
+},
+"techbizglobal": {
+"board": null,
+"checked_at": "2026-11-17T14:19:36+00:00",
+"name": "TechBiz Global"
+},
 "technicolorgames": {
 "board": null,
 "checked_at": "2026-11-17T12:28:17+00:00",
@@ -1299,6 +1557,11 @@
 "checked_at": "2026-11-17T12:37:28+00:00",
 "name": "Tether Operations Limited"
 },
+"theelitejob": {
+"board": null,
+"checked_at": "2026-11-17T14:19:36+00:00",
+"name": "The Elite Job"
+},
 "theglove": {
 "board": null,
 "checked_at": "2026-11-17T12:37:28+00:00",
@@ -1323,6 +1586,11 @@
 "checked_at": "2026-11-17T12:37:28+00:00",
 "name": "TickBoxes Management Private Limited"
 },
+"tokupteltd": {
+"board": null,
+"checked_at": "2026-11-17T14:19:36+00:00",
+"name": "Toku Pte Ltd"
+},
 "toppr": {
 "board": null,
 "checked_at": "2026-11-17T12:28:17+00:00",
@@ -1343,10 +1611,24 @@
 "checked_at": "2026-11-17T12:37:28+00:00",
 "name": "Trigent Software"
 },
+"trigentsoftwareprivate": {
+"board": null,
+"checked_at": "2026-11-17T14:19:36+00:00",
+"name": "TRIGENT SOFTWARE PRIVATE"
+},
 "truetechprofessionals": {
 "board": null,
 "checked_at": "2026-11-17T12:28:17+00:00",
 "name": "True Tech Professionals"
+},
+"tssconsultancypvtltd": {
+"board": {
+"jobs": 7,
+"slug": "tssconsultancypvtltd",
+"type": "smartrecruiters"
+},
+"checked_at": "2026-11-17T14:19:36+00:00",
+"name": "TSS Consultancy Pvt Ltd"
 },
 "turtlemint": {
 "board": null,
@@ -1407,25 +1689,50 @@
 "checked_at": "2026-11-17T12:49:27+00:00",
 "name": "Valtech"
 },
+"vantum": {
+"board": null,
+"checked_at": "2026-11-17T14:19:36+00:00",
+"name": "Vantum"
+},
 "vdsinnovation": {
 "board": null,
 "checked_at": "2026-11-17T12:49:27+00:00",
 "name": "VDS INNOVATION"
+},
+"virallens": {
+"board": null,
+"checked_at": "2026-11-17T14:19:36+00:00",
+"name": "Virallens"
 },
 "virtuos": {
 "board": null,
 "checked_at": "2026-11-17T12:28:17+00:00",
 "name": "Virtuos"
 },
+"vishwakarma": {
+"board": null,
+"checked_at": "2026-11-17T14:19:36+00:00",
+"name": "Vishwa karma"
+},
 "vlsbestsoft": {
 "board": null,
 "checked_at": "2026-11-17T12:37:28+00:00",
 "name": "VLS Bestsoft"
 },
+"w3softechindia": {
+"board": null,
+"checked_at": "2026-11-17T14:19:36+00:00",
+"name": "W3Softech India"
+},
 "wargaming": {
 "board": null,
 "checked_at": "2026-11-17T12:28:17+00:00",
 "name": "Wargaming"
+},
+"way2society": {
+"board": null,
+"checked_at": "2026-11-17T14:19:36+00:00",
+"name": "way2society"
 },
 "weekdayai": {
 "board": null,
@@ -1479,6 +1786,11 @@
 "board": null,
 "checked_at": "2026-11-17T12:49:27+00:00",
 "name": "Work Force Nexus"
+},
+"worlderteampteltd": {
+"board": null,
+"checked_at": "2026-11-17T14:19:36+00:00",
+"name": "Worlder TEAM Pte Ltd"
 },
 "xldynamics": {
 "board": null,

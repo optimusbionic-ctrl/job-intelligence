@@ -1,6 +1,6 @@
 {
  "apply_url": null,
- "board_apply": "https://jobs.workable.com/view/xaG5CgwonmTuqvMoG1DDxA/remote-salesforce-qa-%2F-testing-analyst-in-indore-at-99brightminds",
+ "board_apply": "https://himalayas.app/companies/99brightminds/jobs/salesforce-qa-testing-analyst?utm_source=api",
  "category": "Other",
  "comp_potential": "unknown",
  "company": "99brightminds",
@@ -8,12 +8,13 @@
  "concerns": [
   "Mentions test automation — be ready to discuss it or show a small script",
   "Also asks for: Test management (TestRail/Zephyr)",
-  "Pay not disclosed — ask for the range early"
+  "Pay not disclosed — ask for the range early",
+  "Reposted / refreshed listing — original posting is older"
  ],
  "contacts_count": 0,
- "content_hash": "ca9f6c6f08b0",
+ "content_hash": "f838dd439d41",
  "date_quality": "exact",
- "deadline": null,
+ "deadline": "2027-01-16T11:58:33Z",
  "employment": "full-time",
  "first_seen": "2026-11-08T10:48:32Z",
  "fit": 80,
@@ -30,21 +31,21 @@
   "visa": false
  },
  "kind": "manual-qa",
- "last_verified": "2026-11-08T10:48:32Z",
- "location": "Indore, Madhya Pradesh, India (Remote)",
- "logo": "https://workablehr.s3.amazonaws.com/uploads/account/logo/745898/logo",
+ "last_verified": "2026-11-17T14:23:00Z",
+ "location": "Egypt, India, Jordan",
+ "logo": "https://cdn-images.himalayas.app/xlayncl85dv5ghfc9ndld6xt2lpo",
  "needs_review": false,
  "official": false,
  "posted_at": "2026-11-08T10:28:58Z",
- "repost": false,
+ "repost": true,
  "requirements": [
-  "3+ years of experience in software quality assurance and testing.",
-  "Hands-on experience with one or more Salesforce products, including Sales Cloud, Service Cloud, Data Cloud, or Marketing Cloud.",
-  "Experience in both manual and automated testing methodologies.",
-  "Strong understanding of software testing principles, defect management, and test lifecycle processes.",
-  "Experience testing integrated enterprise applications and complex business workflows.",
-  "Experience working in Agile environments, including Scrum and Scaled Agile frameworks.",
-  "Must be based in Jordan, Egypt, or India."
+  "Design, execute, and maintain comprehensive manual and automated test strategies.",
+  "Develop and manage test cases, test plans, and test scripts for Salesforce applications.",
+  "Test complex user journeys across multiple Salesforce modules and business processes.",
+  "Perform integration, end-to-end, functional, regression, and user acceptance testing.",
+  "Identify, document, and track defects, working closely with development teams to ensure timely resolution.",
+  "Validate integrations between Salesforce and external systems.",
+  "Participate in Agile ceremonies and collaborate with cross-functional teams to ensure quality throughout the development lifecycle."
  ],
  "responsibilities": [
   "Design, execute, and maintain comprehensive manual and automated test strategies.",
@@ -67,16 +68,25 @@
   "skill": 83
  },
  "seniority": "unspecified",
- "snippet": "99BrightMinds is seeking a Salesforce QA / Testing Analyst to ensure the quality, reliability, and performance of Salesforce solutions across multiple cloud platforms. The ideal candidate will have experience in both manual and automated testing, with a strong understanding of Salesforce ecosystems and Agile delivery practices.\n\n Responsibilities\n\n• Design, execute, and maintain comprehensive manual and automated tes",
- "source_primary": "Workable job marketplace",
+ "snippet": "99BrightMinds is seeking a Salesforce QA / Testing Analyst to ensure the quality, reliability, and performance of Salesforce solutions across multiple cloud platforms. The ideal candidate will have experience in both manual and automated testing, with a strong understanding of Salesforce ecosystems and Agile delivery practices.\n Requirements\n Responsibilities\n\n• Design, execute, and maintain comprehensive manual and ",
+ "source_primary": "Himalayas",
  "sources": [
+  {
+   "id": "himalayas",
+   "job_id": "https://himalayas.app/companies/99brightminds/jobs/salesforce-qa-testing-analyst",
+   "kind": "board",
+   "name": "Himalayas",
+   "posted_at": "2026-11-17T11:58:34Z",
+   "seen_at": "2026-11-17T14:23:00Z",
+   "url": "https://himalayas.app/companies/99brightminds/jobs/salesforce-qa-testing-analyst?utm_source=api"
+  },
   {
    "id": "workable",
    "job_id": "fc65b141-db1b-477f-95d8-268e98072d24",
    "kind": "board",
    "name": "Workable job marketplace",
    "posted_at": "2026-11-08T10:28:58Z",
-   "seen_at": "2026-11-08T10:48:32Z",
+   "seen_at": "2026-11-17T14:23:00Z",
    "url": "https://jobs.workable.com/view/xaG5CgwonmTuqvMoG1DDxA/remote-salesforce-qa-%2F-testing-analyst-in-indore-at-99brightminds"
   }
  ],
@@ -94,8 +104,8 @@
   "Agile / Scrum"
  ],
  "track": "software",
- "updated_at": null,
- "url": "https://jobs.workable.com/view/xaG5CgwonmTuqvMoG1DDxA/remote-salesforce-qa-%2F-testing-analyst-in-indore-at-99brightminds",
+ "updated_at": "2026-11-17T11:58:34Z",
+ "url": "https://himalayas.app/companies/99brightminds/jobs/salesforce-qa-testing-analyst?utm_source=api",
  "why": [
   "Manual / functional QA — the core of your resume",
   "Already on your resume: Regression testing, Test cases & scenarios, Bug reporting, Jira",

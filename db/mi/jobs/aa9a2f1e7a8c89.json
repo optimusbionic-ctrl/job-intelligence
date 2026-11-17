@@ -1,0 +1,78 @@
+{
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/ai-animator/home-revise-education-pvt-ltd/20087144",
+ "category": "AI",
+ "comp_potential": "unknown",
+ "company": "Home Revise Education Pvt. Ltd.",
+ "company_slug": "home-revise-education-pvt-ltd",
+ "concerns": [
+  "Compensation not disclosed"
+ ],
+ "contacts_count": 0,
+ "content_hash": "39d98086c839",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-17T14:25:32Z",
+ "fit": 60,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "aa9a2f1e7a8c89",
+ "include_reason": "Animator title — needs scope review",
+ "india": {
+  "cities": [],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "animator",
+ "last_verified": "2026-11-17T14:25:32Z",
+ "location": "Thane, India",
+ "logo": null,
+ "needs_review": true,
+ "official": false,
+ "posted_at": "2026-11-16T18:52:42Z",
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 44,
+  "comp": 48,
+  "company": 98,
+  "location": 88,
+  "seniority": 66,
+  "skill": 32
+ },
+ "seniority": "unspecified",
+ "snippet": "Experience: 2 to 6 Yrs\nSkills: Ai Platforms, Chatgpt, Google Flow, Animated Images, Videos, Educational Visual Content\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "20087144",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-11-16T18:52:42Z",
+   "seen_at": "2026-11-17T14:25:32Z",
+   "url": "https://www.shine.com/jobs/ai-animator/home-revise-education-pvt-ltd/20087144"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 1,
+ "title": "Ai Animator",
+ "tools": [],
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/ai-animator/home-revise-education-pvt-ltd/20087144",
+ "why": [
+  "AI company (Tier 1 priority)",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_min": null
+}

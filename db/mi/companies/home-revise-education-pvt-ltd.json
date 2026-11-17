@@ -1,0 +1,27 @@
+{
+ "category": "AI",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-17T14:25:32Z",
+  "evidence": [
+   {
+    "detail": "Ai Animator — Thane, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/ai-animator/home-revise-education-pvt-ltd/20087144",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-17T14:25:32Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "523460f41f",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Home Revise Education Pvt. Ltd.",
+ "slug": "home-revise-education-pvt-ltd",
+ "tier": 1
+}

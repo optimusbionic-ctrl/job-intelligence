@@ -16,6 +16,14 @@
 "found_by": "board lookup"
 },
 {
+"name": "Career Solutions.",
+"ats": {
+"type": "lever",
+"slug": "career"
+},
+"found_by": "board lookup"
+},
+{
 "name": "Endava",
 "ats": {
 "type": "smartrecruiters",
@@ -64,6 +72,14 @@
 "found_by": "board lookup"
 },
 {
+"name": "Remote People",
+"ats": {
+"type": "greenhouse",
+"slug": "remotepeople"
+},
+"found_by": "board lookup"
+},
+{
 "name": "Riot Games",
 "ats": {
 "type": "greenhouse",
@@ -84,6 +100,14 @@
 "ats": {
 "type": "greenhouse",
 "slug": "thoughtworks"
+},
+"found_by": "board lookup"
+},
+{
+"name": "TSS Consultancy Pvt Ltd",
+"ats": {
+"type": "smartrecruiters",
+"slug": "tssconsultancypvtltd"
 },
 "found_by": "board lookup"
 },

@@ -24,8 +24,8 @@
    "india": 0,
    "india_samples": [],
    "open_samples": [],
-   "remote": 16,
-   "restricted_remote": 16,
+   "remote": 15,
+   "restricted_remote": 15,
    "restricted_samples": [
     {
      "location": "EMEA",
@@ -49,17 +49,17 @@
     }
    ],
    "slug": "superside",
-   "total": 17,
+   "total": 16,
    "type": "lever",
    "url": "https://jobs.lever.co/superside",
    "worldwide": 0
   },
-  "changed_at": "2026-11-17T11:58:41Z",
+  "changed_at": "2026-11-17T14:25:32Z",
   "evidence": [
    {
-    "detail": "None are located in India or open worldwide; 16 remote roles are limited to named countries",
+    "detail": "None are located in India or open worldwide; 15 remote roles are limited to named countries",
     "kind": "board",
-    "label": "All 17 open roles are in Colombia, Argentina, Canada and Spain",
+    "label": "All 16 open roles are in Colombia, Argentina, Canada and Spain",
     "url": "https://jobs.lever.co/superside",
     "weight": -3
    }
@@ -67,8 +67,8 @@
   "first_checked_at": "2026-10-22T09:28:02Z",
   "india_based": false,
   "method": "Careers board, posting text, web search",
-  "sig": "4b0648f74d",
-  "summary": "All 17 open roles are in Colombia, Argentina, Canada and Spain. None are located in India or open worldwide; 16 remote roles are limited to named countries.",
+  "sig": "ef27abaeab",
+  "summary": "All 16 open roles are in Colombia, Argentina, Canada and Spain. None are located in India or open worldwide; 15 remote roles are limited to named countries.",
   "verdict": "no",
   "web": {
    "checked_at": "2026-10-22T10:28:53Z",
