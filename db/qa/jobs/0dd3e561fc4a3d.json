@@ -12,7 +12,7 @@
   "Reposted / refreshed listing — original posting is older"
  ],
  "contacts_count": 0,
- "content_hash": "493ef20a917d",
+ "content_hash": "47f8194b7dd2",
  "date_quality": "exact",
  "deadline": "2027-01-11T14:30:36Z",
  "employment": "full-time",
@@ -31,12 +31,12 @@
   "visa": false
  },
  "kind": "automation",
- "last_verified": "2026-11-17T09:08:03Z",
+ "last_verified": "2026-11-17T10:12:50Z",
  "location": "Argentina, India",
  "logo": "https://cdn-images.himalayas.app/zatxmg0ucn23bp621zf3lp44kh4j",
  "needs_review": false,
  "official": false,
- "posted_at": "2026-11-12T14:30:36Z",
+ "posted_at": "2026-11-07T11:11:58Z",
  "repost": true,
  "requirements": [
   "Strong understanding of Software Testing & Quality Engineering principles",
@@ -73,8 +73,17 @@
    "kind": "board",
    "name": "Himalayas",
    "posted_at": "2026-11-12T14:30:36Z",
-   "seen_at": "2026-11-17T09:08:03Z",
+   "seen_at": "2026-11-17T10:12:50Z",
    "url": "https://himalayas.app/companies/newfold-digital/jobs/ai-software-development-engineer-in-test-ai-sdet?utm_source=api"
+  },
+  {
+   "id": "himalayas",
+   "job_id": "https://himalayas.app/companies/newfold-digital/jobs/software-development-engineer-in-test-ai",
+   "kind": "board",
+   "name": "Himalayas",
+   "posted_at": "2026-11-07T11:11:58Z",
+   "seen_at": "2026-11-17T10:12:50Z",
+   "url": "https://himalayas.app/companies/newfold-digital/jobs/software-development-engineer-in-test-ai?utm_source=api"
   }
  ],
  "specializations": [
@@ -95,7 +104,7 @@
   "Agile / Scrum"
  ],
  "track": "software",
- "updated_at": null,
+ "updated_at": "2026-11-12T14:30:36Z",
  "url": "https://himalayas.app/companies/newfold-digital/jobs/ai-software-development-engineer-in-test-ai-sdet?utm_source=api",
  "why": [
   "Already on your resume: Regression testing, Compatibility testing, Stress / load testing, Google Sheets / Excel",

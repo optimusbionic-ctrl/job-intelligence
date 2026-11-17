@@ -1,0 +1,30 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-17T10:12:50Z",
+  "evidence": [
+   {
+    "detail": "QA Testing with a Leading FIntech (Navi Mumbai) — Navi Mumbai, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/qa-testing-with-a-leading-fintech-navi-mumbai/acura-solution/20093939",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-17T10:12:50Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "ab73e167cd",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Acura Solution",
+ "slug": "acura-solution",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}
