@@ -1,0 +1,28 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-17T21:56:18Z",
+  "evidence": [
+   {
+    "detail": "Motion Designer/ rotoscoping — India (Remote)",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://jobs.workable.com/view/7mSjF5RqetUfGd25XTjGJU/remote-motion-designer%2F-rotoscoping-in-india-at-cavalry-freelancing",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-17T21:56:18Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "1c3d679377",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "logo": "https://workablehr.s3.amazonaws.com/uploads/account/logo/734521/logo",
+ "name": "Cavalry freelancing",
+ "slug": "cavalry-freelancing",
+ "tier": 3
+}
