@@ -920,6 +920,10 @@
     "type": "lever"
    }
   },
+  "whitehorsemanpowerconsultancyp": {
+   "at": "2026-11-17T11:10:20Z",
+   "ats": null
+  },
   "winsoft": {
    "at": "2026-11-03T21:33:45Z",
    "ats": null
@@ -958,10 +962,10 @@
   }
  },
  "counts": {
-  "closed": 12,
+  "closed": 10,
   "keep": 18,
-  "live": 191,
-  "stale": 119
+  "live": 182,
+  "stale": 130
  },
- "updated_at": "2026-11-17T10:15:06Z"
+ "updated_at": "2026-11-17T11:27:03Z"
 }

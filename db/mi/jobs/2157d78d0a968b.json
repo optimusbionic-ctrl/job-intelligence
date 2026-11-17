@@ -1,0 +1,79 @@
+{
+ "apply_url": "https://jobs.lever.co/terrahq/2c0a545c-a99d-447f-8a2a-4015f2a65a6f",
+ "board_apply": null,
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "Terra",
+ "company_slug": "terra",
+ "concerns": [
+  "Employer has not confirmed hiring from India",
+  "Compensation not disclosed",
+  "Full description not available from this source"
+ ],
+ "contacts_count": 0,
+ "content_hash": "89851dcb2d82",
+ "date_quality": "unknown",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-17T11:27:04Z",
+ "fit": 54,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "2157d78d0a968b",
+ "include_reason": "Motion design title",
+ "india": {
+  "cities": [],
+  "company": "unclear",
+  "reason": "Location not stated",
+  "status": "unconfirmed",
+  "visa": false
+ },
+ "kind": "motion",
+ "last_verified": "2026-11-17T11:27:04Z",
+ "location": "",
+ "logo": null,
+ "needs_review": false,
+ "official": true,
+ "posted_at": null,
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 45,
+  "comp": 48,
+  "company": 40,
+  "location": 38,
+  "seniority": 66,
+  "skill": 69
+ },
+ "seniority": "unspecified",
+ "snippet": "",
+ "source_primary": "Lever",
+ "sources": [
+  {
+   "id": "lever",
+   "job_id": "https://jobs.lever.co/terrahq/2c0a545c-a99d-447f-8a2a-4015f2a65a6f",
+   "kind": "search",
+   "name": "Lever",
+   "posted_at": null,
+   "seen_at": "2026-11-17T11:27:04Z",
+   "url": "https://jobs.lever.co/terrahq/2c0a545c-a99d-447f-8a2a-4015f2a65a6f"
+  }
+ ],
+ "specializations": [],
+ "status": "verified",
+ "tier": 3,
+ "title": "Motion Designer",
+ "tools": [],
+ "updated_at": null,
+ "url": "https://jobs.lever.co/terrahq/2c0a545c-a99d-447f-8a2a-4015f2a65a6f",
+ "why": [
+  "Core motion design role"
+ ],
+ "work_mode": "unspecified",
+ "years_min": null
+}

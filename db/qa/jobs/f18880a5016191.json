@@ -12,7 +12,7 @@
   "Reposted / refreshed listing — original posting is older"
  ],
  "contacts_count": 0,
- "content_hash": "b88d8c5089e0",
+ "content_hash": "d207873ef82d",
  "date_quality": "exact",
  "deadline": null,
  "employment": "full-time",
@@ -33,12 +33,12 @@
   "visa": false
  },
  "kind": "qa-engineer",
- "last_verified": "2026-11-17T10:12:50Z",
+ "last_verified": "2026-11-17T11:10:20Z",
  "location": "Mumbai City, Thane, India",
  "logo": "https://staticrect.shine.com/r/m/images/job_logo/7c4a21f5d8e84382a7ca9d468b4859d2.webp",
  "needs_review": false,
  "official": false,
- "posted_at": "2026-11-05T19:58:31Z",
+ "posted_at": "2026-10-30T20:16:18Z",
  "repost": true,
  "requirements": [
   "(Summary from the Shine.com listing; open the posting for the full description.)"
@@ -65,8 +65,17 @@
    "kind": "board",
    "name": "Shine.com",
    "posted_at": "2026-11-05T19:58:31Z",
-   "seen_at": "2026-11-17T10:12:50Z",
+   "seen_at": "2026-11-17T11:10:20Z",
    "url": "https://www.shine.com/jobs/qa-engineer/harjai-computers-private-limited/20015894"
+  },
+  {
+   "id": "shine",
+   "job_id": "19972859",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-10-30T20:16:18Z",
+   "seen_at": "2026-11-17T11:10:20Z",
+   "url": "https://www.shine.com/jobs/qa-automation-engineer/harjai-computers-private-limited/19972859"
   }
  ],
  "specializations": [],
@@ -78,7 +87,7 @@
   "Programming"
  ],
  "track": "software",
- "updated_at": null,
+ "updated_at": "2026-11-05T19:58:31Z",
  "url": "https://www.shine.com/jobs/qa-engineer/harjai-computers-private-limited/20015894",
  "why": [
   "QA / test engineer role",

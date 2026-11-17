@@ -6,14 +6,13 @@
  "company": "Superside",
  "company_slug": "superside",
  "concerns": [
-  "Superside's other roles are limited to named countries; confirm India is eligible",
   "Employer has not confirmed hiring from India",
   "Compensation not disclosed",
   "Agency / studio (Tier 2)",
   "Full description not available from this source"
  ],
  "contacts_count": 1,
- "content_hash": "fe6667fb1c73",
+ "content_hash": "8970cc25a1b0",
  "date_quality": "unknown",
  "deadline": null,
  "employment": "full-time",
@@ -26,13 +25,13 @@
  "include_reason": "Motion design title",
  "india": {
   "cities": [],
-  "company": "no",
-  "reason": "Remote, region not stated · Superside hires only in named countries",
+  "company": "unclear",
+  "reason": "Remote, region not stated",
   "status": "unconfirmed",
   "visa": false
  },
  "kind": "motion",
- "last_verified": "2026-11-10T21:34:53Z",
+ "last_verified": "2026-11-17T11:27:04Z",
  "location": "Remote",
  "logo": null,
  "needs_review": false,
@@ -64,7 +63,7 @@
    "kind": "search",
    "name": "Web job listing (via search index)",
    "posted_at": null,
-   "seen_at": "2026-11-10T21:34:53Z",
+   "seen_at": "2026-11-17T11:27:04Z",
    "url": "https://dynamitejobs.com/company/superside/remote-job/creative-motion-design-2"
   }
  ],

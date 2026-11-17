@@ -1,8 +1,8 @@
 {
  "alerts_count": 0,
- "changed_count": 1,
- "closed_count": 19,
- "duration_s": 56.0,
+ "changed_count": 3,
+ "closed_count": 33,
+ "duration_s": 756.1,
  "enrichment": {
   "careers_emails": 0,
   "dates_estimated": 0,
@@ -11,20 +11,20 @@
   "searches": 0
  },
  "excluded_counts": {
-  "Adjacent title without substantial motion work": 33,
-  "Character / film / game animation": 8,
-  "Generic product/UX designer (no motion specialisation in title)": 58,
-  "Graphic / illustration role": 38,
-  "Intern / junior / entry level": 17,
+  "Adjacent title without substantial motion work": 29,
+  "Character / film / game animation": 7,
+  "Generic product/UX designer (no motion specialisation in title)": 61,
+  "Graphic / illustration role": 32,
+  "Intern / junior / entry level": 19,
   "Junior experience requirement": 2,
-  "Not a design role": 57,
-  "Not a motion role": 269,
-  "Not open to India": 73,
-  "Older than window": 197,
-  "Pure video editing role": 54,
-  "Social content role": 6,
-  "Staffing agency listing — employer not identified": 17,
-  "Unpaid / volunteer": 3
+  "Not a design role": 49,
+  "Not a motion role": 257,
+  "Not open to India": 67,
+  "Older than window": 196,
+  "Pure video editing role": 60,
+  "Social content role": 2,
+  "Staffing agency listing — employer not identified": 24,
+  "Unpaid / volunteer": 4
  },
  "excluded_samples": [
   {
@@ -89,27 +89,6 @@
    "source": "Himalayas",
    "title": "Staff Motion Designer, Design Innovation",
    "url": "https://himalayas.app/companies/pinterestcareers/jobs/staff-motion-designer-design-innovation-4550058863?utm_source=api"
-  },
-  {
-   "company": "Wolf Games",
-   "reason": "Not open to India: Restricted to United States",
-   "source": "Himalayas",
-   "title": "Senior Video Editor & AI Motion Designer",
-   "url": "https://himalayas.app/companies/wolf-games/jobs/senior-video-editor-ai-motion-designer?utm_source=api"
-  },
-  {
-   "company": "WorkStaff360",
-   "reason": "Not open to India: Restricted to Pakistan",
-   "source": "Himalayas",
-   "title": "URGENT: Video Editor and Motion Graphics Artist",
-   "url": "https://himalayas.app/companies/workstaff360/jobs/urgent-video-editor-and-motion-graphics-artist?utm_source=api"
-  },
-  {
-   "company": "Rankings.io",
-   "reason": "Not open to India: Restricted to Anguilla, Antigua and Barbuda, Argentina, Aruba, Bahamas, Ba",
-   "source": "Himalayas",
-   "title": "Sr. Video Editor & Motion Designer – AI Workflows (Remote, LATAM)",
-   "url": "https://himalayas.app/companies/rankings-io/jobs/sr-video-editor-motion-designer-ai-workflows-remote-latam?utm_source=api"
   },
   {
    "company": "Pavago",
@@ -189,25 +168,11 @@
    "url": "https://himalayas.app/companies/wearespot/jobs/freelance-motion-designer-video-editor?utm_source=api"
   },
   {
-   "company": "TygrLabs Ltd",
-   "reason": "Not open to India: Restricted to Bangladesh",
-   "source": "Himalayas",
-   "title": "Motion Designer",
-   "url": "https://himalayas.app/companies/tygrlabs-ltd/jobs/motion-designer?utm_source=api"
-  },
-  {
    "company": "Playson",
    "reason": "Character / film / game animation",
    "source": "Jobicy",
    "title": "Senior 2D Animator",
    "url": "https://jobicy.com/jobs/155155-senior-2d-animator"
-  },
-  {
-   "company": "HyperHug",
-   "reason": "Character / film / game animation",
-   "source": "Jobicy",
-   "title": "Senior 3D Animator",
-   "url": "https://jobicy.com/jobs/160275-senior-3d-animator"
   },
   {
    "company": "eternal.ag",
@@ -252,6 +217,13 @@
    "url": "https://jobs.ashbyhq.com/openai/30b0a80b-8421-4847-a670-5bd09920c4ce"
   },
   {
+   "company": "OpenAI",
+   "reason": "Not open to India: Remote but limited to San Francisco (United States)",
+   "source": "OpenAI careers (Ashby)",
+   "title": "Motion Design Producer",
+   "url": "https://jobs.ashbyhq.com/openai/db31bc85-f5ea-4703-ab78-46fcd67ac3a1"
+  },
+  {
    "company": "Perplexity",
    "reason": "Not open to India: Remote but limited to New York City • Remote (United States) • San Franc",
    "source": "Perplexity careers (Ashby)",
@@ -284,14 +256,14 @@
    "reason": "Character / film / game animation",
    "source": "Epic Games careers (Greenhouse)",
    "title": "Lead Technical Animator",
-   "url": "https://epicgames.com/careers/jobs/6203696004?gh_jid=6203696004"
+   "url": "https://epicgames.com/careers/jobs/6203698004?gh_jid=6203698004"
   },
   {
    "company": "Epic Games",
    "reason": "Character / film / game animation",
    "source": "Epic Games careers (Greenhouse)",
    "title": "Lead Technical Animator",
-   "url": "https://epicgames.com/careers/jobs/6203698004?gh_jid=6203698004"
+   "url": "https://epicgames.com/careers/jobs/6203696004?gh_jid=6203696004"
   },
   {
    "company": "Raisin",
@@ -313,41 +285,6 @@
    "source": "Story careers (Ashby)",
    "title": "Motion Designer",
    "url": "https://jobs.ashbyhq.com/story/0dfa122b-8302-4397-94ce-59db05ffa26d"
-  },
-  {
-   "company": "Active Theory",
-   "reason": "Not open to India: Remote but limited to The Americas",
-   "source": "Active Theory careers (Lever)",
-   "title": "Motion Designer",
-   "url": "https://jobs.lever.co/activetheory/bac456c8-71b8-4119-9161-951a6390ab10"
-  },
-  {
-   "company": "Thinkingbox",
-   "reason": "Not open to India: On-site outside India (Vancouver), no sponsorship stated",
-   "source": "Thinkingbox careers (Lever)",
-   "title": "Art Director, Motion - The Heist",
-   "url": "https://jobs.lever.co/thinkingbox/99dffe00-de83-4ffd-b562-f82fdeb89ceb"
-  },
-  {
-   "company": "Thinkingbox",
-   "reason": "Not open to India: On-site outside India (Toronto), no sponsorship stated",
-   "source": "Thinkingbox careers (Lever)",
-   "title": "Creative Director, Motion - The Heist",
-   "url": "https://jobs.lever.co/thinkingbox/20d54305-88fb-480f-83c5-119bbfdc6827"
-  },
-  {
-   "company": "Thinkingbox",
-   "reason": "Not open to India: On-site outside India (Vancouver), no sponsorship stated",
-   "source": "Thinkingbox careers (Lever)",
-   "title": "Creative Director, Motion - The Heist",
-   "url": "https://jobs.lever.co/thinkingbox/40829438-ce46-4d26-8e7d-f6f5a671dfa4"
-  },
-  {
-   "company": "Thinkingbox",
-   "reason": "Not open to India: On-site outside India (Chicago), no sponsorship stated",
-   "source": "Thinkingbox careers (Lever)",
-   "title": "Creative Director, Motion - The Heist",
-   "url": "https://jobs.lever.co/thinkingbox/4e8187da-120a-4667-8f61-10ecb6e488b8"
   },
   {
    "company": "Pure",
@@ -376,6 +313,41 @@
    "source": "Web job listing (via search index)",
    "title": "Motion Designer",
    "url": "https://jobs.weekday.works/motion-designer-at-tigi-hr-4387329678"
+  },
+  {
+   "company": "Jobgether",
+   "reason": "Staffing agency listing — employer not identified",
+   "source": "Lever",
+   "title": "Senior Motion Graphics Designer",
+   "url": "https://jobs.lever.co/jobgether/38baa307-e9fa-4246-ad6d-0b08685736a9"
+  },
+  {
+   "company": "Jobgether",
+   "reason": "Staffing agency listing — employer not identified",
+   "source": "Lever",
+   "title": "Senior Motion Designer- Temporary",
+   "url": "https://jobs.lever.co/jobgether/2438e865-a8de-41d4-888f-b21dd3d192d8"
+  },
+  {
+   "company": "Jobgether",
+   "reason": "Staffing agency listing — employer not identified",
+   "source": "Lever",
+   "title": "Motion Graphics Designer",
+   "url": "https://jobs.lever.co/jobgether/57218df7-044a-43df-928d-11a29f0094eb"
+  },
+  {
+   "company": "Jobgether",
+   "reason": "Staffing agency listing — employer not identified",
+   "source": "Lever",
+   "title": "Motion Graphics Designer",
+   "url": "https://jobs.lever.co/jobgether/2e240a10-14d1-43f0-aff0-712948d51d2a"
+  },
+  {
+   "company": "Jobgether",
+   "reason": "Staffing agency listing — employer not identified",
+   "source": "Lever",
+   "title": "Motion Graphic Designer",
+   "url": "https://jobs.lever.co/jobgether/5334a66e-fd9d-48ab-8b21-e8cdbac9469e"
   },
   {
    "company": "Plum",
@@ -411,6 +383,13 @@
    "source": "foundit (via search index)",
    "title": "Senior Motion Designer",
    "url": "https://www.foundit.in/job/senior-motion-designer-jobgether-india-60670321"
+  },
+  {
+   "company": "Jobgether",
+   "reason": "Staffing agency listing — employer not identified",
+   "source": "Lever (via search index)",
+   "title": "Integrated Designer (Digital & Motion)",
+   "url": "https://jobs.lever.co/jobgether/2de6332f-4b98-40dc-836e-af4057e068c8"
   },
   {
    "company": "Linda Werner & Associates",
@@ -485,6 +464,13 @@
   {
    "company": "Jobgether",
    "reason": "Staffing agency listing — employer not identified",
+   "source": "Lever (via search index)",
+   "title": "Digital & Motion Designer",
+   "url": "https://jobs.lever.co/jobgether/8cb10975-e9c8-40d4-ad7a-4b3344d55554/apply"
+  },
+  {
+   "company": "Jobgether",
+   "reason": "Staffing agency listing — employer not identified",
    "source": "Web job listing (via search index)",
    "title": "Motion Graphics Designer (India)",
    "url": "https://pitchmeai.com/companies/jobgether/jobs/motion-graphics-designer-india-2130998"
@@ -525,28 +511,28 @@
    "url": "https://www.jobtarget.com/jobs/jt-foehbw1qz7/senior-motion-designer-india"
   }
  ],
- "finished_at": "2026-11-14T23:43:22Z",
+ "finished_at": "2026-11-17T11:39:40Z",
  "fx": {
-  "as_of": "Sat, 14 Nov 2026 00:02:31 +0000",
+  "as_of": "Tue, 17 Nov 2026 00:02:31 +0000",
   "source": "https://open.er-api.com/v6/latest/USD (ExchangeRate-API open access)",
-  "usd_inr": 94.289707
+  "usd_inr": 93.959855
  },
- "id": "20261114T234226Z",
+ "id": "20261117T112704Z",
  "india_checks": {
-  "companies": 106,
+  "companies": 108,
   "roles_clarified": 4,
   "verdicts": {
    "likely": 2,
-   "no": 5,
-   "unclear": 49,
+   "no": 4,
+   "unclear": 52,
    "yes": 50
   },
   "web_checked": 0
  },
- "kept": 107,
- "new_count": 0,
+ "kept": 108,
+ "new_count": 2,
  "pipeline_version": "2.1.0",
- "raw_count": 959,
+ "raw_count": 937,
  "source_status": {
   "ashby": {
    "boards": 64,
@@ -555,8 +541,8 @@
    "ok": true
   },
   "dribbble": {
-   "fetched": 32,
-   "ms": 11975,
+   "fetched": 30,
+   "ms": 9938,
    "ok": true
   },
   "greenhouse": {
@@ -565,43 +551,55 @@
     "nothing: HTTP 404 for https://boards-api.greenhouse.io/v1/boards/nothing/jobs: b''"
    ],
    "errors": 1,
-   "fetched": 51,
+   "fetched": 50,
    "ok": true
   },
   "himalayas": {
-   "fetched": 261,
-   "ms": 15411,
+   "fetched": 240,
+   "ms": 18679,
    "ok": true
   },
   "hn": {
    "fetched": 1,
-   "ms": 6419,
+   "ms": 6294,
    "ok": true
   },
   "jobicy": {
    "fetched": 147,
-   "ms": 4624,
+   "ms": 3903,
    "ok": true
   },
   "lever": {
    "boards": 10,
-   "errors": 0,
-   "fetched": 9,
-   "ok": true
+   "error_samples": [
+    "spotify: HTTP 0 for https://api.lever.co/v0/postings/spotify?mode=json: b'The read operation timed out'",
+    "cred: HTTP 0 for https://api.lever.co/v0/postings/cred?mode=json: b'The read operation timed out'",
+    "meesho: HTTP 0 for https://api.lever.co/v0/postings/meesho?mode=json: b'The read operation timed out'",
+    "moonpay: HTTP 0 for https://api.lever.co/v0/postings/moonpay?mode=json: b'The read operation timed out'",
+    "activetheory: HTTP 0 for https://api.lever.co/v0/postings/activetheory?mode=json: b'The read operation timed out'",
+    "mistplay: HTTP 0 for https://api.lever.co/v0/postings/mistplay?mode=json: b'The read operation timed out'",
+    "insiderone: HTTP 0 for https://api.lever.co/v0/postings/insiderone?mode=json: b'The read operation timed out'",
+    "thinkingbox: HTTP 0 for https://api.lever.co/v0/postings/thinkingbox?mode=json: b'The read operation timed out'",
+    "superside: HTTP 0 for https://api.lever.co/v0/postings/superside?mode=json: b'The read operation timed out'",
+    "acceldata: HTTP 0 for https://api.lever.co/v0/postings/acceldata?mode=json: b'The read operation timed out'"
+   ],
+   "errors": 10,
+   "fetched": 0,
+   "ok": false
   },
   "motionographer": {
    "fetched": 1,
-   "ms": 180,
+   "ms": 87,
    "ok": true
   },
   "remoteok": {
    "fetched": 219,
-   "ms": 6899,
+   "ms": 6803,
    "ok": true
   },
   "remotive": {
-   "fetched": 16,
-   "ms": 4556,
+   "fetched": 17,
+   "ms": 4350,
    "ok": true
   },
   "smartrecruiters": {
@@ -611,15 +609,15 @@
    "ok": true
   },
   "workingnomads": {
-   "fetched": 34,
-   "ms": 129,
+   "fetched": 35,
+   "ms": 119,
    "ok": true
   },
   "wwr": {
    "fetched": 16,
-   "ms": 175,
+   "ms": 149,
    "ok": true
   }
  },
- "started_at": "2026-11-14T23:42:26Z"
+ "started_at": "2026-11-17T11:27:04Z"
 }
