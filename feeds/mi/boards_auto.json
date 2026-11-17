@@ -1,0 +1,538 @@
+[
+{
+"name": "Babbel",
+"ats": {
+"type": "ashby",
+"slug": "babbel"
+},
+"found_by": "board lookup"
+},
+{
+"name": "Binance",
+"ats": {
+"type": "greenhouse",
+"slug": "binance"
+},
+"found_by": "board lookup"
+},
+{
+"name": "Boldin",
+"ats": {
+"type": "greenhouse",
+"slug": "boldin"
+},
+"found_by": "board lookup"
+},
+{
+"name": "Brave",
+"ats": {
+"type": "greenhouse",
+"slug": "brave"
+},
+"found_by": "board lookup"
+},
+{
+"name": "Braze",
+"ats": {
+"type": "greenhouse",
+"slug": "braze"
+},
+"found_by": "board lookup"
+},
+{
+"name": "Brilliant",
+"ats": {
+"type": "lever",
+"slug": "brilliant"
+},
+"found_by": "board lookup"
+},
+{
+"name": "Capsule",
+"ats": {
+"type": "ashby",
+"slug": "capsule"
+},
+"found_by": "board lookup"
+},
+{
+"name": "Careem",
+"ats": {
+"type": "greenhouse",
+"slug": "careem"
+},
+"found_by": "board lookup"
+},
+{
+"name": "Contentful",
+"ats": {
+"type": "greenhouse",
+"slug": "contentful"
+},
+"found_by": "board lookup"
+},
+{
+"name": "Contentsquare",
+"ats": {
+"type": "lever",
+"slug": "contentsquare"
+},
+"found_by": "board lookup"
+},
+{
+"name": "Contentstack",
+"ats": {
+"type": "greenhouse",
+"slug": "contentstack"
+},
+"found_by": "board lookup"
+},
+{
+"name": "Coursera",
+"ats": {
+"type": "greenhouse",
+"slug": "coursera"
+},
+"found_by": "board lookup"
+},
+{
+"name": "DigitalFish, Inc",
+"ats": {
+"type": "lever",
+"slug": "digitalfish"
+},
+"found_by": "board lookup"
+},
+{
+"name": "Druva",
+"ats": {
+"type": "greenhouse",
+"slug": "druva"
+},
+"found_by": "board lookup"
+},
+{
+"name": "Easyship",
+"ats": {
+"type": "greenhouse",
+"slug": "easyship"
+},
+"found_by": "board lookup"
+},
+{
+"name": "Ghost",
+"ats": {
+"type": "greenhouse",
+"slug": "ghost"
+},
+"found_by": "board lookup"
+},
+{
+"name": "Grab",
+"ats": {
+"type": "smartrecruiters",
+"slug": "grab"
+},
+"found_by": "board lookup"
+},
+{
+"name": "Grafana Labs",
+"ats": {
+"type": "greenhouse",
+"slug": "grafanalabs"
+},
+"found_by": "board lookup"
+},
+{
+"name": "HackerRank",
+"ats": {
+"type": "smartrecruiters",
+"slug": "hackerrank"
+},
+"found_by": "board lookup"
+},
+{
+"name": "Hevo Data",
+"ats": {
+"type": "lever",
+"slug": "hevodata"
+},
+"found_by": "board lookup"
+},
+{
+"name": "ImagineArt",
+"ats": {
+"type": "ashby",
+"slug": "imagineart"
+},
+"found_by": "board lookup"
+},
+{
+"name": "Karya",
+"ats": {
+"type": "greenhouse",
+"slug": "karya"
+},
+"found_by": "board lookup"
+},
+{
+"name": "Khan Academy",
+"ats": {
+"type": "greenhouse",
+"slug": "khanacademy"
+},
+"found_by": "board lookup"
+},
+{
+"name": "Landor",
+"ats": {
+"type": "greenhouse",
+"slug": "landor"
+},
+"found_by": "board lookup"
+},
+{
+"name": "LEVEL Studios",
+"ats": {
+"type": "ashby",
+"slug": "level"
+},
+"found_by": "board lookup"
+},
+{
+"name": "Luma AI",
+"ats": {
+"type": "ashby",
+"slug": "lumaai"
+},
+"found_by": "board lookup"
+},
+{
+"name": "Lumin Digital",
+"ats": {
+"type": "ashby",
+"slug": "lumin-digital"
+},
+"found_by": "board lookup"
+},
+{
+"name": "MaxBeauty",
+"ats": {
+"type": "ashby",
+"slug": "maxbeauty"
+},
+"found_by": "board lookup"
+},
+{
+"name": "Medium",
+"ats": {
+"type": "greenhouse",
+"slug": "medium"
+},
+"found_by": "board lookup"
+},
+{
+"name": "MetaLab",
+"ats": {
+"type": "greenhouse",
+"slug": "metalab"
+},
+"found_by": "board lookup"
+},
+{
+"name": "Mindtickle",
+"ats": {
+"type": "lever",
+"slug": "mindtickle"
+},
+"found_by": "board lookup"
+},
+{
+"name": "Monzo",
+"ats": {
+"type": "greenhouse",
+"slug": "monzo"
+},
+"found_by": "board lookup"
+},
+{
+"name": "Mozilla",
+"ats": {
+"type": "greenhouse",
+"slug": "mozilla"
+},
+"found_by": "board lookup"
+},
+{
+"name": "Nen Creative",
+"ats": {
+"type": "ashby",
+"slug": "nen-creative"
+},
+"found_by": "board lookup"
+},
+{
+"name": "Observe.AI",
+"ats": {
+"type": "greenhouse",
+"slug": "observeai"
+},
+"found_by": "board lookup"
+},
+{
+"name": "Oura",
+"ats": {
+"type": "greenhouse",
+"slug": "oura"
+},
+"found_by": "board lookup"
+},
+{
+"name": "Oyster",
+"ats": {
+"type": "ashby",
+"slug": "oyster"
+},
+"found_by": "board lookup"
+},
+{
+"name": "Patreon",
+"ats": {
+"type": "ashby",
+"slug": "patreon"
+},
+"found_by": "board lookup"
+},
+{
+"name": "Pattern",
+"ats": {
+"type": "lever",
+"slug": "pattern"
+},
+"found_by": "board lookup"
+},
+{
+"name": "Paytm",
+"ats": {
+"type": "lever",
+"slug": "paytm"
+},
+"found_by": "board lookup"
+},
+{
+"name": "Pearmill",
+"ats": {
+"type": "ashby",
+"slug": "pearmill"
+},
+"found_by": "board lookup"
+},
+{
+"name": "Photoroom",
+"ats": {
+"type": "ashby",
+"slug": "photoroom"
+},
+"found_by": "board lookup"
+},
+{
+"name": "Picsart",
+"ats": {
+"type": "greenhouse",
+"slug": "picsart"
+},
+"found_by": "board lookup"
+},
+{
+"name": "PlayQ",
+"ats": {
+"type": "greenhouse",
+"slug": "playq"
+},
+"found_by": "board lookup"
+},
+{
+"name": "Pocket FM",
+"ats": {
+"type": "lever",
+"slug": "pocketfm"
+},
+"found_by": "board lookup"
+},
+{
+"name": "Polygon Labs",
+"ats": {
+"type": "ashby",
+"slug": "polygon-labs"
+},
+"found_by": "board lookup"
+},
+{
+"name": "Pragmatike",
+"ats": {
+"type": "ashby",
+"slug": "pragmatike"
+},
+"found_by": "board lookup"
+},
+{
+"name": "Preply",
+"ats": {
+"type": "ashby",
+"slug": "preply"
+},
+"found_by": "board lookup"
+},
+{
+"name": "Proton",
+"ats": {
+"type": "greenhouse",
+"slug": "proton"
+},
+"found_by": "board lookup"
+},
+{
+"name": "Rilla",
+"ats": {
+"type": "ashby",
+"slug": "rilla"
+},
+"found_by": "board lookup"
+},
+{
+"name": "Ruby Labs",
+"ats": {
+"type": "ashby",
+"slug": "ruby-labs"
+},
+"found_by": "board lookup"
+},
+{
+"name": "Sanity",
+"ats": {
+"type": "ashby",
+"slug": "sanity"
+},
+"found_by": "board lookup"
+},
+{
+"name": "SpotDraft",
+"ats": {
+"type": "ashby",
+"slug": "spotdraft"
+},
+"found_by": "board lookup"
+},
+{
+"name": "Storyblok",
+"ats": {
+"type": "greenhouse",
+"slug": "storyblok"
+},
+"found_by": "board lookup"
+},
+{
+"name": "Substack",
+"ats": {
+"type": "ashby",
+"slug": "substack"
+},
+"found_by": "board lookup"
+},
+{
+"name": "Tamara",
+"ats": {
+"type": "greenhouse",
+"slug": "tamara"
+},
+"found_by": "board lookup"
+},
+{
+"name": "Tekion",
+"ats": {
+"type": "ashby",
+"slug": "tekion"
+},
+"found_by": "board lookup"
+},
+{
+"name": "Terra",
+"ats": {
+"type": "ashby",
+"slug": "terra"
+},
+"found_by": "board lookup"
+},
+{
+"name": "Thinkific",
+"ats": {
+"type": "ashby",
+"slug": "thinkific"
+},
+"found_by": "board lookup"
+},
+{
+"name": "Turing",
+"ats": {
+"type": "greenhouse",
+"slug": "turing"
+},
+"found_by": "board lookup"
+},
+{
+"name": "Udemy",
+"ats": {
+"type": "greenhouse",
+"slug": "udemy"
+},
+"found_by": "board lookup"
+},
+{
+"name": "Universe",
+"ats": {
+"type": "ashby",
+"slug": "universe"
+},
+"found_by": "board lookup"
+},
+{
+"name": "WAYNE ENTERPRISES",
+"ats": {
+"type": "greenhouse",
+"slug": "wayneenterprises"
+},
+"found_by": "board lookup"
+},
+{
+"name": "Whoop",
+"ats": {
+"type": "ashby",
+"slug": "whoop"
+},
+"found_by": "board lookup"
+},
+{
+"name": "Wise",
+"ats": {
+"type": "smartrecruiters",
+"slug": "wise"
+},
+"found_by": "board lookup"
+},
+{
+"name": "Zenoti",
+"ats": {
+"type": "greenhouse",
+"slug": "zenoti"
+},
+"found_by": "board lookup"
+},
+{
+"name": "Zeta",
+"ats": {
+"type": "lever",
+"slug": "zeta"
+},
+"found_by": "board lookup"
+}
+]

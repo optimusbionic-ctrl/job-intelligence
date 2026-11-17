@@ -1,12 +1,13 @@
-# Job Intelligence: free hourly feeds
+# Job Intelligence: free feeds that run by themselves
 
 Free, Claude-independent copies of **QA Intelligence** (Siddhant) and **Motion Intelligence** (Prashant).
 
-A GitHub Action runs every hour, even when no Claude subscription or credits are active. It:
+A GitHub Action runs every 30 minutes, with no Claude subscription or credits. Claude is only used when you press **Fetch with Claude** in the app. Each run:
 
-1. pulls fresh roles from the same official job-board and employer ATS APIs the Claude monitors use (Shine, Workable, Cutshort, Himalayas, Remotive, RemoteOK, Working Nomads, Jobicy, HN Who's Hiring, Greenhouse, Ashby, Lever, SmartRecruiters);
-2. applies the same filters, fit scores, India-hiring checks, deduplication and alert rules;
-3. saves the results in `db/` and publishes both apps on GitHub Pages.
+1. pulls fresh roles from the same official job-board and employer ATS APIs the Claude monitors use (Shine, Workable, Cutshort, Himalayas, Remotive, RemoteOK, Working Nomads, Jobicy, HN Who's Hiring, Dribbble, Motionographer, Greenhouse, Ashby, Lever, SmartRecruiters);
+2. looks up more employers' own job boards by name (`scripts/discover_boards.py`, candidates in `research/candidates_<app>.txt`) and reads every board it finds on each run;
+3. applies the same filters, fit scores, India-hiring checks, deduplication and alert rules;
+4. saves the results in `db/` and publishes both apps on GitHub Pages.
 
 Everything runs on GitHub's free plan. Public repositories get unlimited Actions minutes and free Pages hosting.
 
@@ -38,7 +39,7 @@ New finds are also written to `export/<app>_leads.json`, which Claude's monitor 
    - `https://<you>.github.io/job-intelligence/qa/` (QA Intelligence)
    - `https://<you>.github.io/job-intelligence/mi/` (Motion Intelligence)
 
-From then on it refreshes at about :17 past every hour. GitHub can start scheduled runs a few minutes late when it's busy. Each run commits the updated data, which also stops GitHub from pausing the schedule for inactivity.
+From then on it refreshes at about :07 and :37 past every hour. GitHub can start scheduled runs a few minutes late when it's busy. Each run commits the updated data, which also stops GitHub from pausing the schedule for inactivity.
 
 ## What's the same, and what needs Claude
 
@@ -64,7 +65,7 @@ The two versions keep separate databases. The Claude apps and their scheduled mo
 ## Files
 
 ```
-.github/workflows/feeds.yml   hourly schedule + Pages deploy
+.github/workflows/feeds.yml   30-minute schedule + Pages deploy
 feeds/qa, feeds/mi            pipeline.py (fetch + score), sync.py (diff + alerts), companies.json, benchmarks.json
 scripts/run_feed.py           runs one feed and applies the changes to db/
 scripts/build_pages.py        builds site/ from web/ (adds the standalone runtime)

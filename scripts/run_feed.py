@@ -49,6 +49,13 @@ def run_feed(app, db, work):
         cmd += ["--leads", leads]
     except Exception as e:
         log(f"extra sources skipped: {e!r}")
+    try:  # employers' own boards found by name lookup (scripts/discover_boards.py); read on every run
+        subprocess.run([sys.executable, os.path.join(ROOT, "scripts", "discover_boards.py"), app], check=True, timeout=10 * 60)
+    except Exception as e:
+        log(f"board lookup skipped: {e!r}")
+    auto = os.path.join(feed, "boards_auto.json")
+    if os.path.exists(auto):
+        cmd += ["--watchlist", auto]
     log("pipeline:", app)
     subprocess.run(cmd, check=True, timeout=40 * 60)
     log("sync:", app)

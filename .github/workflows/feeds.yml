@@ -1,8 +1,8 @@
-name: Hourly job feeds
+name: Job feeds (every 30 minutes)
 
 on:
   schedule:
-    - cron: "17 * * * *"      # every hour at :17 UTC (GitHub may start scheduled runs a few minutes late)
+    - cron: "7,37 * * * *"    # every 30 minutes (GitHub may start scheduled runs a few minutes late)
   workflow_dispatch:           # "Run workflow" button for a manual refresh
   push:
     branches: [main]
@@ -60,7 +60,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add db export research
+          git add db export research feeds/*/boards_auto.json
           if git diff --cached --quiet; then
             echo "No changes"
           else

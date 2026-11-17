@@ -212,6 +212,14 @@ ul.list.con li::marker{content:"◆  ";color:var(--warn);font-size:9px}
 .tabs button .n{font-family:var(--f-mono);font-size:10.5px;color:var(--faint);margin-left:5px}
 
 /* ---------- KPI strip ---------- */
+.engine{display:flex;align-items:center;gap:14px;flex-wrap:wrap;padding:12px 16px;border:1px solid var(--line);border-radius:var(--r-lg);background:var(--surface)}
+.engine.late{border-color:var(--warn)}
+.engine .eg-t{display:flex;flex-direction:column;gap:2px;flex:1 1 320px;min-width:0;font-size:13px;color:var(--fg-2)}
+.engine .eg-t b{color:var(--fg);font-weight:600;font-size:14px}
+.engine .eg-s{font-size:12px;color:var(--mute)}
+.engine .eg-a{display:flex;gap:8px;flex-wrap:wrap}
+.justin h2 .count{font:500 12px/1 var(--f-mono);color:var(--mute);margin-left:6px;vertical-align:middle}
+@media (max-width:640px){.engine .eg-a{width:100%}.engine .eg-a .btn{flex:1;justify-content:center}}
 .kpis{display:grid;grid-template-columns:repeat(6,minmax(0,1fr));border:1px solid var(--line);border-radius:var(--r-lg);background:var(--surface);overflow:hidden}
 .kpi{all:unset;box-sizing:border-box;display:flex;flex-direction:column;gap:6px;padding:18px 20px 20px;cursor:pointer;border-right:1px solid var(--line);position:relative;transition:background .25s var(--ease-std)}
 .kpi:last-child{border-right:0}
@@ -1471,6 +1479,36 @@ function viewLoading() {
 }
 
 /* ---------- Overview ---------- */
+/* ---------- Engine status: the free feed runs by itself; Claude fetches only on request ---------- */
+const APP_LINKS = { claude: 'https://claude.ai/artifact/QnWjsKvbvwNwva9Vhb64sw', free: 'https://optimusbionic-ctrl.github.io/job-intelligence/mi/' };
+const IS_FREE = !!(window.claude && window.claude.standalone);
+const FREE_EVERY_MIN = 30;
+function engineStrip() {
+  const last = S.logs[0]; const sys = S.meta.system || {};
+  const lastAt = ts(last?.finished_at || sys.last_run?.finished_at);
+  const ss = last?.source_status || {}; const total = Object.keys(ss).length; const okN = Object.values(ss).filter(x => x.ok).length;
+  const fresh = [...S.jobs.values()].filter(j => isOpen(j) && (ts(j.first_seen) || 0) > NOW() - DAY).length;
+  const src = total ? `${okN} of ${total} sources answered` : '';
+  const found = `${fresh} new role${fresh === 1 ? '' : 's'} in the last 24 hours`;
+  if (IS_FREE) {
+    const late = lastAt ? (NOW() - lastAt) > 100 * 60000 : true;
+    const next = lastAt ? new Date(lastAt + FREE_EVERY_MIN * 60000).toISOString() : null;
+    return `<section class="engine ${late ? 'late' : ''}" aria-label="Auto-fetch status"><span class="pulse ${late ? 'off' : ''}"></span>
+      <div class="eg-t"><b>${late ? 'Auto-fetch is running late' : 'Auto-fetch is on'}</b><span>Runs by itself every ${FREE_EVERY_MIN} minutes. Claude is not needed.</span>
+        <span class="eg-s">${lastAt ? `Checked ${ago(new Date(lastAt).toISOString())}` : 'Waiting for the first check'}${next && !late ? ` · next ≈ ${until(next)}` : ''}${src ? ` · ${src}` : ''} · ${found}</span></div>
+      <div class="eg-a"><button class="btn sm" data-act="reload-data">${ico('i-refresh', 12)} Refresh</button><a class="btn sm primary" href="${APP_LINKS.claude}" target="_blank" rel="noopener">${ico('i-spark', 12)} Fetch with Claude</a></div></section>`;
+  }
+  return `<section class="engine" aria-label="Fetch status"><span class="pulse off"></span>
+    <div class="eg-t"><b>Claude fetches only when you ask</b><span>The free copy keeps checking every ${FREE_EVERY_MIN} minutes by itself, and a Claude fetch brings in what it found.</span>
+      <span class="eg-s">${lastAt ? `Last Claude fetch ${ago(new Date(lastAt).toISOString())}` : 'No Claude fetch yet'} · ${found}${S.monitor.err ? ` · <span style="color:var(--bad)">${esc(S.monitor.err)}</span>` : ''}</span></div>
+    <div class="eg-a"><a class="btn sm" href="${APP_LINKS.free}" target="_blank" rel="noopener">${ico('i-ext', 12)} Open the free copy</a><button class="btn sm primary" data-act="run-now" ${S.monitor.loading ? 'disabled' : ''}>${ico('i-spark', 12)} ${S.monitor.loading ? 'Starting…' : 'Fetch with Claude'}</button></div></section>`;
+}
+function justIn(open, fit) {
+  const rows = open.filter(j => (ts(j.first_seen) || 0) > NOW() - 3 * DAY).sort((a, b) => (ts(b.first_seen) || 0) - (ts(a.first_seen) || 0) || fit.get(b.id) - fit.get(a.id));
+  const top = rows.slice(0, 6);
+  return `<section class="panel justin"><div class="panel-h"><div><span class="eyebrow">Found in the last 3 days · newest first</span><h2>Just in${rows.length ? ` <span class="count">${rows.length}</span>` : ''}</h2></div><a class="btn sm ghost" href="#explorer">All roles ${ico('i-chev', 12)}</a></div>
+    <div class="panel-b"><div class="list-rows">${top.length ? top.map(j => listRow(j, fit.get(j.id))).join('') : `<p class="note" style="padding:6px 0">${ico('i-info')}<span>Nothing new in the last 3 days. ${IS_FREE ? `The feed checks every ${FREE_EVERY_MIN} minutes; new roles that fit your lens appear here first.` : 'Press “Fetch with Claude” to check now, or open the free copy, which checks by itself.'}</span></p>`}</div></div></section>`;
+}
 function viewOverview() {
   const lens = DEFAULT_FILTERS(); const all = [...S.jobs.values()];
   const open = all.filter(j => matchFilters(j, lens));
@@ -1497,6 +1535,7 @@ function viewOverview() {
   ${head(`${new Date().toLocaleDateString('en-IN', { weekday: 'long', day: 'numeric', month: 'long' })} · ${S.jobs.size} roles tracked`, `Good ${greet()}, <em class="ser">${first}</em>.`,
     `${open.length} open roles fit your lens: senior motion and creative-technology work from the last 30 days, open to candidates in India.${hidden ? ` ${hidden} more are hidden because the employer has not shown it hires from India.` : ''}`,
     `<a class="btn" href="#companies">${ico('i-globe')} India hiring check</a><a class="btn primary" href="#explorer">${ico('i-jobs')} Explore roles</a>`, 'hero')}
+  ${engineStrip()}
   ${trendsBanner()}
   <div class="kpis">
     ${kpi('New this week', wk.length, 'Posted in the last 7 days', ['go-filter', 'days7'])}
@@ -1506,9 +1545,10 @@ function viewOverview() {
     ${kpi('Hiring contacts', named.length, `${S.contacts.size - named.length} official channels`, ['go', 'people'])}
     ${kpi('In your tracker', apps.length, `${applied} applied or further`, ['go', 'tracker'])}
   </div>
+  ${justIn(open, fit)}
   <div class="two">
     <section class="panel"><div class="panel-h"><div><span class="eyebrow">Ranked by your fit weights</span><h2>Top matches right now</h2></div><a class="btn sm ghost" href="#explorer">All roles ${ico('i-chev', 12)}</a></div>
-      <div class="panel-b"><div class="list-rows">${top.length ? top.map(j => listRow(j, fit.get(j.id))).join('') : emptyBox('No matching roles yet', 'The monitor checks sources every hour. New roles appear here as they are found.')}</div></div></section>
+      <div class="panel-b"><div class="list-rows">${top.length ? top.map(j => listRow(j, fit.get(j.id))).join('') : emptyBox('No matching roles yet', 'New roles appear here as they are found.')}</div></div></section>
     <div class="grid">
       ${indiaSummaryPanel()}
       <section class="panel"><div class="panel-h"><div><span class="eyebrow">Live</span><h2>Monitor</h2></div>${monitorBadge()}</div><div class="panel-b">${monitorSummary(last, sys)}</div></section>
@@ -1581,13 +1621,12 @@ function alertRow(a) {
 function monitorState() {
   const sys = S.meta.system || {}; const last = S.logs[0];
   const lastAt = ts(last?.finished_at || sys.last_run?.finished_at);
-  const stale = lastAt ? (NOW() - lastAt) > 2.5 * 3600e3 : true;
-  const trig = S.monitor.trig;
-  const cadence = sys.monitor?.cadence || 'every hour';
-  const step = /6 hours/.test(cadence) ? 6 : 1;
-  return { sys, last, lastAt, stale, cadence, active: !!sys.monitor?.trigger_id && (trig ? trig.enabled !== false : true), next: trig?.next_run_at || (lastAt ? new Date(lastAt + step * 3600e3).toISOString() : null), nextExact: !!trig?.next_run_at };
+  const trig = S.monitor.trig; const onDemand = !IS_FREE;
+  const cadence = IS_FREE ? `every ${FREE_EVERY_MIN} minutes` : 'when you ask';
+  const stale = onDemand ? false : (lastAt ? (NOW() - lastAt) > 100 * 60000 : true);
+  return { sys, last, lastAt, stale, cadence, onDemand, active: IS_FREE ? true : !!sys.monitor?.trigger_id, next: onDemand || !lastAt ? null : new Date(lastAt + FREE_EVERY_MIN * 60000).toISOString(), nextExact: false };
 }
-function monitorBadge() { const m = monitorState(); return m.active ? `<span class="pill ${m.stale ? 'warn' : 'good'}">${m.stale ? 'Overdue' : 'Active'} · ${esc(m.cadence.replace('every ', ''))}</span>` : `<span class="pill plain">Not scheduled</span>`; }
+function monitorBadge() { const m = monitorState(); if (m.onDemand) return `<span class="pill plain">Claude · on demand</span>`; return m.active ? `<span class="pill ${m.stale ? 'warn' : 'good'}">${m.stale ? 'Overdue' : 'Active'} · ${esc(m.cadence.replace('every ', ''))}</span>` : `<span class="pill plain">Not scheduled</span>`; }
 function monitorSummary(last, sys) {
   const m = monitorState(); const ss = last?.source_status || {};
   const live = Object.values(ss).filter(x => x.ok).length, failed = Object.entries(ss).filter(([, x]) => !x.ok);
@@ -1603,7 +1642,7 @@ function renderMonitorMini() {
   const el = $('#monitorMini'); if (!el) return;
   if (S.status !== 'ready') { el.innerHTML = `<div class="row"><span class="pulse off"></span><b>Monitor</b></div><span class="muted">${S.status === 'nodb' ? 'Offline' : 'Connecting…'}</span>`; return; }
   const m = monitorState();
-  el.innerHTML = `<div class="row"><span class="pulse ${m.active && !m.stale ? '' : 'off'}"></span><b>${m.active ? 'Monitoring' : 'Monitor off'}</b></div><span class="muted">Last ${m.lastAt ? ago(new Date(m.lastAt).toISOString()) : '—'} · next ${m.next ? until(m.next) : '—'}</span>`;
+  el.innerHTML = `<div class="row"><span class="pulse ${m.active && !m.stale ? '' : 'off'}"></span><b>${m.onDemand ? 'Claude on demand' : 'Auto-fetch on'}</b></div><span class="muted">Last ${m.lastAt ? ago(new Date(m.lastAt).toISOString()) : '—'}${m.next ? ` · next ${until(m.next)}` : ''}</span>`;
 }
 
 /* ---------- Explorer ---------- */
@@ -1865,13 +1904,13 @@ function viewMonitor() {
   const m = monitorState(); const last = m.last; const rules = alertRules();
   const ss = last?.source_status || {};
   const u = unread();
-  return `${head('Monitor & alerts', 'What the monitor is <em class="ser">watching</em>', 'A scheduled task checks every live source every hour, deduplicates new roles, verifies existing ones, re-checks whether overseas employers hire from India, and notifies you. Sources without an API are covered through search indexing and stay labelled as leads.', `<a class="btn" href="#profile">${ico('i-user')} Profile & matching</a>`)}
+  return `${head('Monitor & alerts', 'What the monitor is <em class="ser">watching</em>', 'Every check reads each live source, deduplicates new roles, verifies existing ones, re-checks whether overseas employers hire from India, and lists what is new. The free copy does this by itself every 30 minutes; Claude does it when you press “Fetch with Claude” and adds search-index leads, which stay labelled as leads.', `<a class="btn" href="#profile">${ico('i-user')} Profile & matching</a>`)}
   <div class="two">
     <section class="panel"><div class="panel-h"><h2>Scheduled monitor</h2>${monitorBadge()}</div><div class="panel-b" style="display:flex;flex-direction:column;gap:14px">
       ${monitorSummary(last, m.sys)}
-      <div class="dr-actions"><button class="btn primary" data-act="run-now" ${S.monitor.loading ? 'disabled' : ''}>${ico('i-play', 12)} ${S.monitor.loading ? 'Starting…' : 'Run a check now'}</button><button class="btn" data-act="refresh-trigger">${ico('i-refresh')} Refresh status</button></div>
+      <div class="dr-actions"><button class="btn primary" data-act="run-now" ${S.monitor.loading ? 'disabled' : ''}>${ico('i-play', 12)} ${S.monitor.loading ? 'Starting…' : 'Fetch with Claude'}</button><button class="btn" data-act="refresh-trigger">${ico('i-refresh')} Refresh status</button></div>
       ${S.monitor.err ? `<div class="callout warn">${esc(S.monitor.err)}</div>` : ''}
-      <p class="note">${ico('i-info')}<span>Checks run every hour, not continuously. A run takes a few minutes; new roles and notifications appear in this page the moment it finishes, without reloading. Phone alerts arrive through the Claude app after a run that finds something.</span></p>
+      <p class="note">${ico('i-info')}<span>The free copy checks every 30 minutes by itself; Claude checks only when you ask. A run takes a few minutes; new roles and notifications appear in this page the moment it finishes, without reloading. Phone alerts arrive through the Claude app after a run that finds something.</span></p>
     </div></section>
     <section class="panel"><div class="panel-h"><h2>Alert rules</h2></div><div class="panel-b" style="display:flex;flex-direction:column;gap:10px">
       <label class="field" for="ruleFit">Alert me about new roles with fit of at least <b class="num" id="ruleFitOut">${rules.minFit}</b><input type="range" id="ruleFit" min="60" max="95" step="5" value="${rules.minFit}" data-change="rule-minFit"></label>
@@ -2061,7 +2100,7 @@ function tabCompany(j, inCompanyDrawer = false) {
     <dt>Careers</dt><dd>${careersLink(c)}</dd>${careersEmailRows(c.slug)}
     ${c.domain ? `<dt>Website</dt><dd><a href="https://${esc(c.domain)}" target="_blank" rel="noopener">${esc(c.domain)}</a></dd>` : ''}
   </dl><p class="note">${ico('i-info')}<span>${[!c.hq && 'headquarters', !c.maturity && 'maturity', 'funding'].filter(Boolean).join(', ').replace(/^./, x => x.toUpperCase())} not verified yet.${c.facts_note ? ` ${esc(c.facts_note)}.` : ''}</span></p></div>
-  <div class="sec"><h3>Hiring signals</h3><ul class="list"><li>${others.length + 1} qualifying role${others.length ? 's' : ''} found</li>${c.ats ? `<li>Official ${esc(c.ats.type)} board checked every hour</li>` : '<li>No official job board found yet; roles come from job boards or leads</li>'}${[...S.contacts.values()].some(x => x.company_slug === c.slug && x.named) ? '<li>A named hiring contact posted publicly</li>' : ''}</ul></div>
+  <div class="sec"><h3>Hiring signals</h3><ul class="list"><li>${others.length + 1} qualifying role${others.length ? 's' : ''} found</li>${c.ats ? `<li>Official ${esc(c.ats.type)} board checked on every run</li>` : '<li>No official job board found yet; roles come from job boards or leads</li>'}${[...S.contacts.values()].some(x => x.company_slug === c.slug && x.named) ? '<li>A named hiring contact posted publicly</li>' : ''}</ul></div>
   ${others.length && !inCompanyDrawer ? `<div class="sec"><h3>Other roles here</h3><div class="list-rows">${others.map(x => listRow(x)).join('')}</div></div>` : ''}
   <div><button class="btn" data-act="${watching ? 'unwatch' : 'watch-company'}" data-v="${esc(c.slug)}">${watching ? `${ico('i-check')} Watching` : `${ico('i-plus')} Watch for new roles`}</button></div>`;
 }
@@ -2414,7 +2453,7 @@ async function runNow() {
   if (!id) { S.monitor.err = 'No scheduled task is registered yet.'; scheduleRender(); return; }
   if (!S.caps.mcp) { S.monitor.err = 'Running a check from here needs the page to be opened in Claude.'; scheduleRender(); return; }
   S.monitor.loading = true; S.monitor.err = null; scheduleRender();
-  try { await S.caps.mcp.callTool('Claude Code Remote', 'fire_trigger', { trigger_id: id, text: 'Manual run requested from the Motion Intelligence app.' }); toast(`${ico('i-check')} Check started. New roles appear here when it finishes, usually within 10 minutes.`, 6000); }
+  try { await S.caps.mcp.callTool('Claude Code Remote', 'fire_trigger', { trigger_id: id, text: 'Manual run requested from the Motion Intelligence app with the Fetch with Claude button. Run every step now, including the step 4 searches, whatever the current UTC hour is.' }); toast(`${ico('i-check')} Claude is fetching. New roles appear here when it finishes, usually within 10 minutes.`, 6000); }
   catch (e) { S.monitor.err = MCP_ERR(e?.code); }
   S.monitor.loading = false; scheduleRender();
 }
@@ -3149,6 +3188,7 @@ document.addEventListener('click', async e => {
     case 'watch-company': { if (!requireWs()) break; const c = S.companies.get(v); const rec = { name: c?.name || v, slug: v, ats: c?.ats || null, careers: c?.careers || null, added_at: new Date().toISOString() }; S.ws.watch.set(v, rec); await saveDoc(wsCol('watchlist').doc(v), rec, `Watching ${rec.name}`); if (S.drawer) renderDrawer(false); break; }
     case 'unwatch': { if (!requireWs()) break; S.ws.watch.delete(v); render(); try { await wsCol('watchlist').doc(v).delete(); toast('Removed from watchlist'); } catch { } if (S.drawer) renderDrawer(false); break; }
     case 'run-now': runNow(); break;
+    case 'reload-data': if (window.standaloneReload) { el.disabled = true; window.standaloneReload().then(() => toast(`${ico('i-check')} Up to date.`, 2500), () => toast('Could not refresh. Check your connection.', 4000)).finally(() => { el.disabled = false; }); } break;
     case 'refresh-trigger': refreshTrigger(true); break;
     case 'alerts-read': settingsPatch({ alerts_seen_at: new Date().toISOString(), read_alerts: [] }); break;
     case 'weights-reset': settingsPatch({ weights: { ...DEFAULT_WEIGHTS } }); break;
@@ -3240,7 +3280,7 @@ const trigWatch = setInterval(() => { if (S.meta.system?.monitor?.trigger_id && 
 
 window.__MI = { S, results, fitOf, nlSearch, localParse, openDrawer, renderDrawer, render };
 /* ---------- quick guide ---------- */
-const GUIDE = [{"icon": "i-spark", "title": "Welcome to Motion Intelligence", "go": null, "p": "It collects senior motion, product-motion and creative-technology roles every hour, removes duplicates, checks India eligibility and ranks each role against your profile.", "li": ["Roles open to India come first: India-based, worldwide remote, or employers that hire in India.", "Every overseas employer is checked for whether it hires people based in India.", "Pay is shown only when the posting lists it or a salary site reports it for that employer, with the link. Otherwise it says Undisclosed; nothing is estimated."]}, {"icon": "i-home", "title": "Start on the Overview", "go": "overview", "p": "Your daily summary: top matches, what is new, pay reality and overseas employers.", "li": ["Click any number to open exactly those roles.", "<b>Top matches</b> are ranked by fit score out of 100.", "The Monitor panel shows when the last check ran and when the next one is due."]}, {"icon": "i-trend", "title": "Hiring trends (new)", "go": "trends", "p": "A dashboard of when hiring is busy or quiet through the year, how hiring and layoffs moved since COVID, whether 2026 is a normal year, and what AI is changing.", "li": ["The month chart shows each month against a normal month: green is busier, amber is quieter.", "Every number links to its source, with the research date shown.", "Open it from the highlighted <b>Hiring trends</b> button at the top of the sidebar."]}, {"icon": "i-jobs", "title": "Find roles", "go": "explorer", "p": "Roles is the full list. Narrow it with the filter pills, then open any role.", "li": ["Filters: <b>Open to India</b>, <b>Employer hires from India</b>, <b>Posted</b> (30 days by default, up to 45), <b>Arrangement</b>, <b>Company</b>, <b>Pay</b> and <b>Fit</b>.", "Open a role to see why it fits, concerns, pay evidence, contacts and the company.", "<b>Official · verified</b> comes from the employer’s own board; <b>Lead</b> was found through search, so confirm it first.", "Press the <b>star</b> to mark a favourite and the <b>remove</b> button to hide a role you don’t want. Switch between <b>All</b>, <b>Starred</b> and <b>Removed</b> above the list; Undo or Restore any time."]}, {"icon": "i-kf", "title": "Save and track applications", "go": "tracker", "p": "Press the diamond on any role to save it. Saved roles appear in the Tracker.", "li": ["Drag cards from Saved to Preparing, Applied, Interview, Assignment and Offer.", "The Tracking tab inside a role holds notes, reminders, interviews and portfolio links.", "Export your tracker as CSV or JSON any time."]}, {"icon": "i-co", "title": "Companies and the India check", "go": "companies", "p": "See who is hiring and whether each employer hires people based in India.", "li": ["Tabs split employers into Hires in India, Hires globally, Own region only and Not yet clear.", "Open a company for its evidence, open roles, pay figures and LinkedIn links.", "Run a web check on any company whose status is not yet clear.", "Each employer shows its size band (Startup, Small, Mid-size, Large, Enterprise) and employee count, linked to where it was published."]}, {"icon": "i-people", "title": "Find the right people", "go": "people", "p": "Pick one company at a time and search for design leaders, recruiters, hiring posts and published careers emails.", "li": ["Results are limited to people who list that company as their current employer.", "Only contacts a company published itself are shown. Nothing is guessed.", "Use <b>Draft message</b> to write a short outreach note with Claude, then edit and send it yourself."]}, {"icon": "i-radar", "title": "Alerts and notifications", "go": "monitor", "p": "A check runs every hour. New matching roles appear in the bell at the top and on your phone through the Claude app.", "li": ["Set the minimum fit and which alerts you want in <b>Monitor & alerts</b>.", "Press <b>Run a check now</b> if you do not want to wait.", "Each role is alerted once, even if it appears on several job boards."]}, {"icon": "i-user", "title": "Tune your profile", "go": "profile", "p": "Profile & matching controls how roles are scored.", "li": ["Edit your tools and specialisations, or update them from a resume.", "Adjust the six fit weights to change what matters most.", "Saved searches reopen a filter set in one click and show what is new since you last looked."]}];
+const GUIDE = [{"icon": "i-spark", "title": "Welcome to Motion Intelligence", "go": null, "p": "It collects senior motion, product-motion and creative-technology roles automatically, removes duplicates, checks India eligibility and ranks each role against your profile.", "li": ["Roles open to India come first: India-based, worldwide remote, or employers that hire in India.", "Every overseas employer is checked for whether it hires people based in India.", "Pay is shown only when the posting lists it or a salary site reports it for that employer, with the link. Otherwise it says Undisclosed; nothing is estimated."]}, {"icon": "i-home", "title": "Start on the Overview", "go": "overview", "p": "Your daily summary: top matches, what is new, pay reality and overseas employers.", "li": ["Click any number to open exactly those roles.", "<b>Top matches</b> are ranked by fit score out of 100.", "The Monitor panel shows when the last check ran and when the next one is due."]}, {"icon": "i-trend", "title": "Hiring trends (new)", "go": "trends", "p": "A dashboard of when hiring is busy or quiet through the year, how hiring and layoffs moved since COVID, whether 2026 is a normal year, and what AI is changing.", "li": ["The month chart shows each month against a normal month: green is busier, amber is quieter.", "Every number links to its source, with the research date shown.", "Open it from the highlighted <b>Hiring trends</b> button at the top of the sidebar."]}, {"icon": "i-jobs", "title": "Find roles", "go": "explorer", "p": "Roles is the full list. Narrow it with the filter pills, then open any role.", "li": ["Filters: <b>Open to India</b>, <b>Employer hires from India</b>, <b>Posted</b> (30 days by default, up to 45), <b>Arrangement</b>, <b>Company</b>, <b>Pay</b> and <b>Fit</b>.", "Open a role to see why it fits, concerns, pay evidence, contacts and the company.", "<b>Official · verified</b> comes from the employer’s own board; <b>Lead</b> was found through search, so confirm it first.", "Press the <b>star</b> to mark a favourite and the <b>remove</b> button to hide a role you don’t want. Switch between <b>All</b>, <b>Starred</b> and <b>Removed</b> above the list; Undo or Restore any time."]}, {"icon": "i-kf", "title": "Save and track applications", "go": "tracker", "p": "Press the diamond on any role to save it. Saved roles appear in the Tracker.", "li": ["Drag cards from Saved to Preparing, Applied, Interview, Assignment and Offer.", "The Tracking tab inside a role holds notes, reminders, interviews and portfolio links.", "Export your tracker as CSV or JSON any time."]}, {"icon": "i-co", "title": "Companies and the India check", "go": "companies", "p": "See who is hiring and whether each employer hires people based in India.", "li": ["Tabs split employers into Hires in India, Hires globally, Own region only and Not yet clear.", "Open a company for its evidence, open roles, pay figures and LinkedIn links.", "Run a web check on any company whose status is not yet clear.", "Each employer shows its size band (Startup, Small, Mid-size, Large, Enterprise) and employee count, linked to where it was published."]}, {"icon": "i-people", "title": "Find the right people", "go": "people", "p": "Pick one company at a time and search for design leaders, recruiters, hiring posts and published careers emails.", "li": ["Results are limited to people who list that company as their current employer.", "Only contacts a company published itself are shown. Nothing is guessed.", "Use <b>Draft message</b> to write a short outreach note with Claude, then edit and send it yourself."]}, {"icon": "i-radar", "title": "Alerts and notifications", "go": "monitor", "p": "A check runs every hour. New matching roles appear in the bell at the top and on your phone through the Claude app.", "li": ["Set the minimum fit and which alerts you want in <b>Monitor & alerts</b>.", "Press <b>Run a check now</b> if you do not want to wait.", "Each role is alerted once, even if it appears on several job boards."]}, {"icon": "i-user", "title": "Tune your profile", "go": "profile", "p": "Profile & matching controls how roles are scored.", "li": ["Edit your tools and specialisations, or update them from a resume.", "Adjust the six fit weights to change what matters most.", "Saved searches reopen a filter set in one click and show what is new since you last looked."]}];
 const GUIDE_VIEW = {"overview": "Overview", "trends": "Hiring trends", "explorer": "Roles", "tracker": "Tracker", "people": "People", "companies": "Companies", "monitor": "Monitor & alerts", "profile": "Profile & matching"};
 function openGuide(i = 0) {
   const n = GUIDE.length; i = Math.max(0, Math.min(n - 1, i)); const s = GUIDE[i];

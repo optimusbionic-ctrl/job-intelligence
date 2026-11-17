@@ -12,14 +12,14 @@ APPS = {
 
 # Wording that describes the Claude-hosted monitor, adjusted for this copy.
 REWORD = [
-    ("This page, live · phone push after each run", "This page · refreshed every hour, no phone alerts"),
-    ("A scheduled task checks every live source every hour", "A GitHub Action checks every live source every hour"),
+    ("This page, live · phone push after each run", "This page · refreshed every 30 minutes, no phone alerts"),
+    ("A scheduled task checks every live source every hour", "A free GitHub Action checks every live source every 30 minutes, without Claude,"),
     ("and notifies you. Sources without an API are covered through search indexing and stay labelled as leads.",
      "and lists new roles here. Search-index leads found earlier by the Claude monitor are kept and labelled as leads."),
     ("Phone alerts arrive through the Claude app after a run that finds something.",
      "This free copy sends no phone alerts; new roles show up here and in the bell."),
     ("Email delivery is off; Slack or Telegram need a connector.",
-     "In this free copy the hourly feed always uses the default rules."),
+     "In this free copy the feed always uses the default rules."),
 ]
 
 BADGE = """
@@ -35,29 +35,13 @@ BADGE = """
 .sa-dot{width:7px;height:7px;border-radius:50%;background:#3FB27F;flex:none}
 @media (max-width:900px){.sa-badge{bottom:calc(76px + env(safe-area-inset-bottom));right:10px}.sa-badge .sa-long{display:none}}
 </style>
-<div class="sa-badge" id="saBadge" role="note" hidden>
-  <span class="sa-dot" aria-hidden="true"></span>
-  <span><span class="sa-long">Free copy · </span>updated hourly<span id="saWhen"></span></span>
-  <a href="__CLAUDE__" target="_blank" rel="noopener">AI tools in Claude ↗</a>
-  <button type="button" aria-label="Hide" id="saHide">✕</button>
-</div>
 <script>
 (function(){
-  var b=document.getElementById('saBadge'); var k='standalone:badge-hidden';
-  try{ if(sessionStorage.getItem(k)) return; }catch(e){}
-  b.hidden=false;
-  document.getElementById('saHide').onclick=function(){ b.hidden=true; try{sessionStorage.setItem(k,'1');}catch(e){} };
-  function when(){ var i=window.standaloneInfo&&window.standaloneInfo(); if(!i||!i.builtAt) return;
-    var m=Math.round((Date.now()-Date.parse(i.builtAt))/60000);
-    document.getElementById('saWhen').textContent=' · built '+(m<1?'just now':m<60?m+' min ago':Math.round(m/60)+' h ago'); }
-  setTimeout(when,1500); setInterval(when,60000);
-  // "Run a check now" opens the workflow page on GitHub, where "Run workflow" starts a refresh.
+  // "Fetch with Claude" opens the Claude copy, where the same button starts a Claude fetch.
   document.addEventListener('click',function(e){
     var t=e.target.closest&&e.target.closest('[data-act="run-now"]'); if(!t) return;
     e.preventDefault(); e.stopImmediatePropagation();
-    var h=location.hostname.split('.'), seg=location.pathname.split('/').filter(Boolean);
-    var url=h.slice(-2).join('.')==='github.io'&&seg.length>1?'https://github.com/'+h[0]+'/'+seg[0]+'/actions/workflows/feeds.yml':'https://github.com';
-    window.open(url,'_blank','noopener');
+    window.open('__CLAUDE__','_blank','noopener');
   },true);
 })();
 </script>
@@ -102,7 +86,7 @@ main{{max-width:760px;margin:0 auto;padding:56px 16px}}h1{{font-size:28px;margin
 small{{display:block;margin-top:28px;color:var(--mute)}}
 </style></head><body><main>
 <h1>Job Intelligence</h1>
-<p>Free copies of both job portals. A GitHub Action refreshes the roles every hour, with or without Claude.</p>
+<p>Free copies of both job portals. A free GitHub Action refreshes the roles every 30 minutes by itself. Claude is only used when you press “Fetch with Claude”.</p>
 <div class="grid">{cards}</div>
 <small>Roles come from official job-board and employer ATS APIs. Your tracker and notes stay in this browser.</small>
 </main></body></html>

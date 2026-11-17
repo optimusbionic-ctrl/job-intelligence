@@ -354,6 +354,9 @@ def make_record(**kw):
 
 # ---------------------------------------------------------------- connectors
 SOURCES = {
+    "cutshort": dict(name="Cutshort", kind="board", method="Public category pages + JSON-LD (robots.txt allows)", url="https://cutshort.io/jobs", cadence="1h", region="India"),
+    "shine": dict(name="Shine.com", kind="board", method="Public search pages (robots.txt allows)", url="https://www.shine.com/job-search", cadence="1h", region="India"),
+    "workable": dict(name="Workable job marketplace", kind="board", method="Public job search API", url="https://jobs.workable.com/api/v1/jobs", cadence="1h", region="India · Worldwide"),
     "remotive": dict(name="Remotive", kind="board", method="Official public API", url="https://remotive.com/api/remote-jobs", cadence="1h", region="Worldwide remote"),
     "himalayas": dict(name="Himalayas", kind="board", method="Official public API", url="https://himalayas.app/jobs/api", cadence="1h", region="Worldwide remote"),
     "remoteok": dict(name="Remote OK", kind="board", method="Official public API", url="https://remoteok.com/api", cadence="1h", region="Worldwide remote"),
@@ -368,6 +371,162 @@ SOURCES = {
     "lever": dict(name="Lever (employer boards)", kind="ats", method="Official Postings API", url="https://api.lever.co/v0/postings", cadence="1h", region="Employer"),
     "smartrecruiters": dict(name="SmartRecruiters (employer boards)", kind="ats", method="Official Posting API", url="https://api.smartrecruiters.com/v1", cadence="1h", region="Employer"),
 }
+
+# ---- India-focused boards (same connectors the QA tracker uses, with motion queries)
+MOTION_PRE = re.compile("(?i)" + TITLE_PRIMARY.pattern.replace("(?i)", "") + "|" + TITLE_SECONDARY.pattern.replace("(?i)", ""))
+MOTION_QUERIES = ["motion designer", "motion graphics designer", "motion graphic designer", "motion design", "animator", "2d animator", "ui animation", "creative technologist"]
+CUTSHORT_PAGES = ["motion-graphics-jobs", "motion-design-jobs", "animation-jobs", "motion-graphics-jobs-in-bangalore-bengaluru", "adobe-after-effects-jobs"]
+SHINE_PAGES = ["motion-graphic-designer-jobs", "motion-graphics-designer-jobs", "motion-designer-jobs", "motion-graphics-jobs", "motion-graphic-designer-jobs-in-bangalore",
+               "motion-graphics-jobs-in-bangalore", "motion-graphic-designer-jobs-in-mumbai", "animator-jobs", "2d-animator-jobs", "after-effects-jobs"]
+def _wk_loc(j):
+    L = j.get("location") or {}
+    parts = [L.get("city"), L.get("subregion"), L.get("countryName")]
+    s = ", ".join(x for x in parts if x)
+    return s or ", ".join(j.get("locations") or [])
+
+
+def c_workable():
+    out, seen = [], set()
+    plans = [(q, "India") for q in MOTION_QUERIES] + [(q, None) for q in ["motion designer remote", "senior motion designer", "motion design lead", "product motion designer", "creative technologist"]]
+    for q, loc in plans:
+        url = "https://jobs.workable.com/api/v1/jobs?query=" + urllib.parse.quote(q) + (f"&location={urllib.parse.quote(loc)}" if loc else "")
+        for page in range(2 if loc else 1):
+            try:
+                d = get_json(url)
+            except Exception as e:
+                log("workable", q, e); break
+            for j in d.get("jobs", []):
+                if j.get("id") in seen or j.get("state", "published") != "published": continue
+                seen.add(j.get("id"))
+                if not MOTION_PRE.search(j.get("title", "")): continue
+                wp = (j.get("workplace") or "").lower()
+                loc_s = _wk_loc(j)
+                remote = wp == "remote"
+                desc = strip_html((j.get("description") or "") + "\n" + (j.get("requirementsSection") or "") + "\n" + (j.get("benefitsSection") or ""))
+                co = (j.get("company") or {})
+                out.append(make_record(title=j["title"], company=co.get("title"), logo=co.get("image"), url=j.get("url"), apply_url=None,
+                    source_id="workable", source_name="Workable job marketplace", source_job_id=j.get("id"), posted_at=parse_date(j.get("created")),
+                    updated_at=parse_date(j.get("updated")), location=(loc_s + (" (Remote)" if remote else "")).strip(),
+                    restrictions=[] if not remote else ([L.get("countryName")] if (L := (j.get("location") or {})).get("countryName") else []),
+                    remote=remote, workplace={"remote": "Remote", "hybrid": "Hybrid", "on_site": "OnSite"}.get(wp), employment=j.get("employmentType") or "",
+                    desc=desc, salary=parse_salary_text(desc), board_apply=j.get("url")))
+                out[-1]["company_site"] = co.get("website")
+            tok = d.get("nextPageToken")
+            if not tok: break
+            url = url.split("&pageToken=")[0] + "&pageToken=" + urllib.parse.quote(tok)
+            time.sleep(0.8)
+        time.sleep(0.8)
+    return out
+
+
+def _next_jobs(t):
+    m = re.search(r'<script id="__NEXT_DATA__" type="application/json">(.*?)</script>', t, re.S)
+    if not m: return []
+    def find(o):
+        if isinstance(o, dict):
+            pd_ = o.get("pageData")
+            if isinstance(pd_, dict) and isinstance(pd_.get("jobs"), list): return pd_["jobs"]
+            for v in o.values():
+                r = find(v)
+                if r is not None: return r
+        elif isinstance(o, list):
+            for v in o:
+                r = find(v)
+                if r is not None: return r
+        return None
+    try: return find(json.loads(m.group(1))) or []
+    except Exception: return []
+
+
+def c_cutshort():
+    """Cutshort category pages (robots.txt allows /jobs/ and /job/); each motion posting's own page carries JSON-LD with its date and text."""
+    cands, seen = [], set()
+    for slug in CUTSHORT_PAGES:
+        s_, b = http_get(f"https://cutshort.io/jobs/{slug}", accept="text/html")
+        if s_ != 200: continue
+        for j in _next_jobs(b.decode("utf-8", "ignore")):
+            u = j.get("publicUrl") or ""
+            if not u.startswith("https://cutshort.io/job/") or u in seen: continue
+            seen.add(u)
+            if MOTION_PRE.search(j.get("headline") or ""): cands.append(j)
+        time.sleep(0.8)
+    out = []
+    for j in cands[:45]:
+        s_, b = http_get(j["publicUrl"], accept="text/html")
+        if s_ != 200: continue
+        t = b.decode("utf-8", "ignore"); jp = None
+        for m in re.finditer(r'<script type="application/ld\+json">(.*?)</script>', t, re.S):
+            if '"JobPosting"' in m.group(1):
+                try: jp = json.loads(m.group(1)); break
+                except Exception: pass
+        if not jp: continue
+        vt = parse_date(jp.get("validThrough"))
+        if vt and vt < NOW: continue
+        locs = j.get("locations") or []
+        remote = bool(re.search(r"(?i)remote", json.dumps(j.get("remoteType") or "") + " " + (j.get("locationsText") or "")))
+        bs = ((jp.get("baseSalary") or {}).get("value") or {})
+        sal = None
+        if bs.get("maxValue") and 1e5 <= float(bs["maxValue"]) <= 6e6:
+            sal = dict(currency=(jp.get("baseSalary") or {}).get("currency") or "INR", min=float(bs.get("minValue") or bs["maxValue"]), max=float(bs["maxValue"]), period="annual")
+        months = ((jp.get("experienceRequirements") or {}).get("monthsOfExperience"))
+        desc = strip_html(jp.get("description") or "")
+        if months and not re.search(r"\d+\s*\+?\s*(?:-|to)?\s*\d*\s*years?", desc[:3000]):
+            desc = f"Experience: {int(months) // 12} years\n" + desc
+        co = (j.get("companyDetails") or {}).get("name") or ((jp.get("hiringOrganization") or {}).get("name"))
+        rec = make_record(title=jp.get("title") or j.get("headline"), company=co, url=j["publicUrl"], apply_url=None, source_id="cutshort", source_name="Cutshort",
+            source_job_id=j.get("_id") or j["publicUrl"], posted_at=parse_date(jp.get("datePosted")), location=", ".join(locs) + (", India" if locs else "India"),
+            remote=remote, employment=", ".join(jp.get("employmentType") or []) if isinstance(jp.get("employmentType"), list) else str(jp.get("employmentType") or ""),
+            desc=desc, salary=sal, deadline=iso(vt) if vt else None, board_apply=j["publicUrl"])
+        if j.get("hiringForClient"): rec["recruiter"] = (jp.get("hiringOrganization") or {}).get("name")
+        out.append(rec)
+        time.sleep(0.7)
+    return out
+
+
+RECRUITER_NAME = re.compile(r"(?i)consult|staffing|hr solutions|hr services|placement|manpower|recruit|talent (stock|solutions)|hiring for|jobs consultancy|outsourc|human resource|career(s)? (point|zone)")
+
+def _shine_jobs(t):
+    s = ""
+    for c in re.findall(r'self\.__next_f\.push\(\[1,"((?:[^"\\]|\\.)*)"\]\)', t):
+        try: s += json.loads('"' + c + '"')
+        except Exception: pass
+    out, dec = [], json.JSONDecoder()
+    for m in re.finditer(r'\{"badges":', s):
+        try:
+            o, _ = dec.raw_decode(s, m.start())
+            if o.get("detailUrl") and o.get("title"): out.append(o)
+        except Exception: pass
+    return out
+
+
+def c_shine():
+    """Shine.com search pages (robots.txt allows /job-search/<slug>); listings carry title, company, experience, locations, date and pay label."""
+    out, seen = [], set()
+    for slug in SHINE_PAGES:
+        s_, b = http_get(f"https://www.shine.com/job-search/{slug}", accept="text/html")
+        if s_ != 200: continue
+        for o in _shine_jobs(b.decode("utf-8", "ignore")):
+            jid = str(o.get("id") or o["detailUrl"])
+            if jid in seen: continue
+            seen.add(jid)
+            if not MOTION_PRE.search(o["title"]): continue
+            # this tracker is for senior work: keep a Shine listing only when its experience range reaches 6+ years or the title says senior/lead
+            yrs = [int(x) for x in re.findall(r"\d+", o.get("experienceLabel") or "")]
+            if not (re.search(r"(?i)\b(senior|sr\.?|lead|principal|head|director|manager)\b", o["title"]) or (yrs and max(yrs) >= 6)): continue
+            locs = [l for l in (o.get("locations") or []) if l]
+            wfh = any(re.search(r"(?i)work from home|remote", l) for l in locs)
+            loc = ", ".join(locs[:6]) + (", India" if locs and not any(re.search(r"(?i)india", l) for l in locs) else ("India" if not locs else ""))
+            skills = ", ".join(o.get("skills") or [])
+            desc = f"Experience: {o.get('experienceLabel') or 'not stated'}\nSkills: {skills}\n(Summary from the Shine.com listing; open the posting for the full description.)"
+            sal = parse_salary_text(o.get("salaryLabel") or "") if re.search(r"\d", o.get("salaryLabel") or "") else None
+            rec = make_record(title=o["title"], company=o.get("companyName"), logo=o.get("listingUrl") if (o.get("listingUrl") or "").startswith("https://") else None,
+                url="https://www.shine.com" + o["detailUrl"], apply_url=None, source_id="shine", source_name="Shine.com", source_job_id=jid,
+                posted_at=parse_date(o.get("postedAt")), location=loc, remote=wfh, desc=desc, salary=sal, board_apply="https://www.shine.com" + o["detailUrl"])
+            if RECRUITER_NAME.search(o.get("companyName") or ""): rec["recruiter"] = o.get("companyName")
+            out.append(rec)
+        time.sleep(1.0)
+    return out
+
 
 def c_remotive():
     out, seen = [], set()
@@ -1474,7 +1633,8 @@ def build_contacts(docs, comp_docs, raw_contacts):
 def run_connectors(companies, watchlist):
     raw, status = [], {}
     simple = [("remotive", c_remotive), ("himalayas", c_himalayas), ("remoteok", c_remoteok), ("wwr", c_wwr),
-              ("workingnomads", c_workingnomads), ("jobicy", c_jobicy), ("hn", c_hn), ("dribbble", c_dribbble), ("motionographer", c_motionographer)]
+              ("workingnomads", c_workingnomads), ("jobicy", c_jobicy), ("hn", c_hn), ("dribbble", c_dribbble), ("motionographer", c_motionographer),
+              ("workable", c_workable), ("shine", c_shine), ("cutshort", c_cutshort)]
     def runone(item):
         sid, fn = item
         t0 = time.time()

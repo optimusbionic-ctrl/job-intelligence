@@ -1,7 +1,7 @@
 /* Standalone runtime for the free GitHub Pages copy.
    In Claude the app gets its database and tools from window.claude. Here, the same
-   interface is served from data.json, which a GitHub Action rebuilds every hour.
-   - Shared data (roles, companies, alerts, run logs) is read-only and refreshed every 10 minutes.
+   interface is served from data.json, which a GitHub Action rebuilds every 30 minutes.
+   - Shared data (roles, companies, alerts, run logs) is read-only and refreshed every 5 minutes.
    - Your own changes (tracker, notes, saved views, settings) stay in this browser (localStorage).
    - Claude-only features (AI analysis, drafts, resume reading, web finders, Run now) are not available. */
 (function () {
@@ -101,7 +101,7 @@
     }
   };
   ready = load().catch(function (e) { console.error(e); throw e; });
-  setInterval(function () { if (!document.hidden) load().catch(function () {}); }, 10 * 60 * 1000);
+  setInterval(function () { if (!document.hidden) load().catch(function () {}); }, 5 * 60 * 1000);
   document.addEventListener('visibilitychange', function () { if (!document.hidden) load().catch(function () {}); });
 
   window.claude = {
@@ -114,4 +114,5 @@
     }
   };
   window.standaloneInfo = function () { return { builtAt: builtAt }; };
+  window.standaloneReload = load;
 })();
