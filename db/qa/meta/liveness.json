@@ -215,6 +215,10 @@
    "at": "2026-11-10T23:41:41Z",
    "ats": null
   },
+  "diraahrserviceshiringforclientcompanies": {
+   "at": "2026-11-17T05:03:31Z",
+   "ats": null
+  },
   "dmacqsoftware": {
    "at": "2026-11-03T21:50:10Z",
    "ats": null
@@ -955,9 +959,9 @@
  },
  "counts": {
   "closed": 11,
-  "keep": 16,
-  "live": 179,
-  "stale": 131
+  "keep": 18,
+  "live": 190,
+  "stale": 118
  },
- "updated_at": "2026-11-17T03:59:36Z"
+ "updated_at": "2026-11-17T05:05:39Z"
 }
