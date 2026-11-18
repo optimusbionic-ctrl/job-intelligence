@@ -2,7 +2,7 @@
  "avg": 16458375,
  "basis": "Interquartile range of posting midpoints, converted to INR at today's rate",
  "currency": "INR",
- "high": 21975671,
+ "high": 20900266,
  "id": "mi-dataset-remote",
  "label": "Disclosed pay on remote motion-design postings (any region, this dataset)",
  "low": 11221619,
@@ -103,9 +103,9 @@
   {
    "company": "OpenAI",
    "currency": "USD",
-   "location": "San Francisco (United States)",
+   "location": "San Francisco • US - Remote (United States)",
    "max": 247000,
-   "min": 223000,
+   "min": 200000,
    "title": "Motion Designer",
    "url": "https://jobs.ashbyhq.com/openai/30b0a80b-8421-4847-a670-5bd09920c4ce"
   },
