@@ -1,14 +1,14 @@
 {
- "avg": 6577190,
+ "avg": 6545945,
  "basis": "Interquartile range of posting midpoints, converted to INR at today's rate",
  "currency": "INR",
- "high": 8926186,
+ "high": 8883782,
  "id": "qa-dataset-remote",
  "label": "Disclosed pay on remote QA postings (any region, this dataset)",
- "low": 6122330,
+ "low": 6093246,
  "market": "Remote (global)",
  "n": 7,
- "retrieved_at": "2026-11-17",
+ "retrieved_at": "2026-11-18",
  "samples": [
   {
    "company": "Storware Sp. z o.o.",
