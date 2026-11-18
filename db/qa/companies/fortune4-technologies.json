@@ -1,0 +1,30 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-18T13:11:04Z",
+  "evidence": [
+   {
+    "detail": "Manual Tester — Navi Mumbai, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/manual-tester/fortune4-technologies/19568650",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-18T13:11:04Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "f20f26e414",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Fortune4 Technologies",
+ "slug": "fortune4-technologies",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}

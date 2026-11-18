@@ -1,22 +1,23 @@
 {
  "apply_url": null,
- "board_apply": "https://www.shine.com/jobs/software-testing-manual-automation/way2society/19593545",
+ "board_apply": "https://www.shine.com/jobs/software-testing-manual-automation-goregaon/way2society/19885925",
  "category": "Other",
  "comp_potential": "unknown",
- "company": "way2society",
+ "company": "Way2Society",
  "company_slug": "way2society",
  "concerns": [
   "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
-  "Also asks for: API testing",
-  "Pay not disclosed — ask for the range early"
+  "Also asks for: API testing, SQL / databases",
+  "Pay not disclosed — ask for the range early",
+  "Reposted / refreshed listing — original posting is older"
  ],
  "contacts_count": 0,
- "content_hash": "2e820f23fc5c",
+ "content_hash": "49273ef327dd",
  "date_quality": "exact",
  "deadline": null,
  "employment": "full-time",
  "first_seen": "2026-10-24T18:44:21Z",
- "fit": 78,
+ "fit": 68,
  "has_hiring_manager": false,
  "has_named_contact": false,
  "has_public_email": false,
@@ -32,13 +33,13 @@
   "visa": false
  },
  "kind": "automation",
- "last_verified": "2026-10-24T18:44:21Z",
+ "last_verified": "2026-11-18T13:11:04Z",
  "location": "Mumbai City, India",
  "logo": null,
  "needs_review": false,
  "official": false,
  "posted_at": "2026-09-26T04:54:57Z",
- "repost": false,
+ "repost": true,
  "requirements": [],
  "responsibilities": [],
  "salary": {
@@ -50,38 +51,46 @@
   "company": 66,
   "location": 100,
   "seniority": 100,
-  "skill": 70
+  "skill": 38
  },
  "seniority": "unspecified",
- "snippet": "Experience: 0 to 4 Yrs\nSkills: Manual Testing, Automation Testing, Functional Testing, Regression Testing, Smoke Testing, Sanity Testing, Integration Testing, System Testing, API Testing, Postman\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "snippet": "Experience: 0 to 4 Yrs\nSkills: Automation Testing, System Testing, API Testing, SQL, Jira, SDLC, STLC, Appium, Postman, Flutter automation frameworks\n(Summary from the Shine.com listing; open the posting for the full description.)",
  "source_primary": "Shine.com",
  "sources": [
+  {
+   "id": "shine",
+   "job_id": "19885925",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-10-22T10:07:17Z",
+   "seen_at": "2026-11-18T13:11:04Z",
+   "url": "https://www.shine.com/jobs/software-testing-manual-automation-goregaon/way2society/19885925"
+  },
   {
    "id": "shine",
    "job_id": "19593545",
    "kind": "board",
    "name": "Shine.com",
    "posted_at": "2026-09-26T04:54:57Z",
-   "seen_at": "2026-10-24T18:44:21Z",
+   "seen_at": "2026-11-18T13:11:04Z",
    "url": "https://www.shine.com/jobs/software-testing-manual-automation/way2society/19593545"
   }
  ],
  "specializations": [],
  "status": "active",
  "tier": 3,
- "title": "Software Testing (Manual & Automation)",
+ "title": "Software Testing (Manual & Automation) (Goregaon)",
  "tools": [
-  "Functional testing",
-  "Regression testing",
-  "Smoke testing",
-  "Sanity testing",
-  "API testing"
+  "Jira",
+  "API testing",
+  "SQL / databases",
+  "Test automation"
  ],
  "track": "software",
- "updated_at": null,
- "url": "https://www.shine.com/jobs/software-testing-manual-automation/way2society/19593545",
+ "updated_at": "2026-10-22T10:07:17Z",
+ "url": "https://www.shine.com/jobs/software-testing-manual-automation-goregaon/way2society/19885925",
  "why": [
-  "Already on your resume: Functional testing, Regression testing, Smoke testing, Sanity testing",
+  "Already on your resume: Jira",
   "Asks for 0–4 years — you have about 2.5",
   "Location lists India"
  ],

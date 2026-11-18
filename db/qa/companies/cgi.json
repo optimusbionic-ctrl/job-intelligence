@@ -1,0 +1,30 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-18T13:11:04Z",
+  "evidence": [
+   {
+    "detail": "Automation Testing Play wright — Hyderabad, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/automation-testing-play-wright/cgi/20091901",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-18T13:11:04Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "71ea53c4fa",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "CGI",
+ "slug": "cgi",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}

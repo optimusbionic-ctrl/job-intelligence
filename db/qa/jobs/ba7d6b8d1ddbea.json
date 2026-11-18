@@ -1,0 +1,89 @@
+{
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/manual-tester/fortune4-technologies/19568650",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "Fortune4 Technologies",
+ "company_slug": "fortune4-technologies",
+ "concerns": [
+  "Also asks for: API testing, SQL / databases",
+  "Asks for 4+ years — you have about 2.5",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "78f6d93f2dfa",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-18T13:11:04Z",
+ "fit": 70,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "ba7d6b8d1ddbea",
+ "include_reason": "Manual / functional QA title",
+ "india": {
+  "cities": [
+   "Mumbai"
+  ],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "manual-qa",
+ "last_verified": "2026-11-18T13:11:04Z",
+ "location": "Navi Mumbai, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-09-21T06:12:43Z",
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 60,
+  "company": 66,
+  "location": 100,
+  "seniority": 72,
+  "skill": 64
+ },
+ "seniority": "unspecified",
+ "snippet": "Experience: 4 to 8 Yrs\nSkills: manual testing, SQL queries, API testing, SQL database testing, issue tracking systems, test documentation, test plans, test reports, RESTful API principles\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "19568650",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-09-21T06:12:43Z",
+   "seen_at": "2026-11-18T13:11:04Z",
+   "url": "https://www.shine.com/jobs/manual-tester/fortune4-technologies/19568650"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 3,
+ "title": "Manual Tester",
+ "tools": [
+  "Test cases & scenarios",
+  "API testing",
+  "SQL / databases"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/manual-tester/fortune4-technologies/19568650",
+ "why": [
+  "Manual / functional QA — the core of your resume",
+  "Already on your resume: Test cases & scenarios",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": 8,
+ "years_min": 4
+}
