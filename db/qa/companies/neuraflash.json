@@ -38,8 +38,8 @@
     }
    ],
    "open_samples": [],
-   "remote": 70,
-   "restricted_remote": 56,
+   "remote": 68,
+   "restricted_remote": 54,
    "restricted_samples": [
     {
      "location": "Remote - Canada (Alberta, British Columbia, Ontario Only)",
@@ -63,17 +63,17 @@
     }
    ],
    "slug": "neuraflash",
-   "total": 72,
+   "total": 70,
    "type": "greenhouse",
    "url": "https://boards.greenhouse.io/neuraflash",
    "worldwide": 0
   },
-  "changed_at": "2026-11-16T16:45:02Z",
+  "changed_at": "2026-11-18T23:25:22Z",
   "evidence": [
    {
     "detail": "AWS Manager (Remote - India (Bengaluru, Chennai, Gurugram, Hyderabad, Noida, or Pune Only)); AWS Technical Architect (Remote - India (Bengaluru, Chennai, Gurugram, Hyderabad, Noida, or Pune Only)); Associate QA Consultan",
     "kind": "board",
-    "label": "14 of 72 open roles are located in India",
+    "label": "14 of 70 open roles are located in India",
     "url": "https://boards.greenhouse.io/neuraflash",
     "weight": 5
    },
@@ -88,8 +88,8 @@
   "first_checked_at": "2026-11-06T01:12:14Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "40f16c88f6",
-  "summary": "14 of 72 open roles are located in India.",
+  "sig": "8bd9e2ed9a",
+  "summary": "14 of 70 open roles are located in India.",
   "verdict": "yes"
  },
  "inferred": true,
