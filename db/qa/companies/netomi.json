@@ -13,7 +13,7 @@
     "India",
     "Canada"
    ],
-   "india": 9,
+   "india": 7,
    "india_samples": [
     {
      "location": "Remote - India",
@@ -37,7 +37,7 @@
     }
    ],
    "open_samples": [],
-   "remote": 21,
+   "remote": 19,
    "restricted_remote": 12,
    "restricted_samples": [
     {
@@ -62,17 +62,17 @@
     }
    ],
    "slug": "netomi",
-   "total": 21,
+   "total": 19,
    "type": "lever",
    "url": "https://jobs.lever.co/netomi",
    "worldwide": 0
   },
-  "changed_at": "2026-11-17T11:56:10Z",
+  "changed_at": "2026-11-18T08:40:15Z",
   "evidence": [
    {
     "detail": "Agentic Engineer Level II/III (Remote - India); Agentic Product Manager (Gurugram); Data Engineer I (Remote - India)",
     "kind": "board",
-    "label": "9 of 21 open roles are located in India",
+    "label": "7 of 19 open roles are located in India",
     "url": "https://jobs.lever.co/netomi",
     "weight": 5
    },
@@ -87,8 +87,8 @@
   "first_checked_at": "2026-10-19T13:24:59Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "01e870a4de",
-  "summary": "9 of 21 open roles are located in India.",
+  "sig": "ce53631406",
+  "summary": "7 of 19 open roles are located in India.",
   "verdict": "yes"
  },
  "inferred": true,

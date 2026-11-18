@@ -13,7 +13,7 @@
     "United States",
     "Netherlands"
    ],
-   "india": 6,
+   "india": 7,
    "india_samples": [
     {
      "location": "Chennai",
@@ -62,17 +62,17 @@
     }
    ],
    "slug": "contentstack",
-   "total": 12,
+   "total": 13,
    "type": "greenhouse",
    "url": "https://boards.greenhouse.io/contentstack",
    "worldwide": 0
   },
-  "changed_at": "2026-11-09T15:32:53Z",
+  "changed_at": "2026-11-18T08:41:54Z",
   "evidence": [
    {
     "detail": "AI-Native Software Engineer (Chennai); Data Architect - Business Intelligence  (Bangalore (Hybrid)); Principal Engineer - DevOps (India - Pune)",
     "kind": "board",
-    "label": "6 of 12 open roles are located in India",
+    "label": "7 of 13 open roles are located in India",
     "url": "https://boards.greenhouse.io/contentstack",
     "weight": 5
    },
@@ -87,8 +87,8 @@
   "first_checked_at": "2026-11-03T18:34:57Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "423810eacc",
-  "summary": "6 of 12 open roles are located in India.",
+  "sig": "c2366f597d",
+  "summary": "7 of 13 open roles are located in India.",
   "verdict": "yes"
  },
  "inferred": true,
