@@ -18,7 +18,7 @@
     "Portugal",
     "Brazil"
    ],
-   "india": 25,
+   "india": 26,
    "india_samples": [
     {
      "location": "Bengaluru",
@@ -67,17 +67,17 @@
     }
    ],
    "slug": "valtech",
-   "total": 125,
+   "total": 126,
    "type": "greenhouse",
    "url": "https://boards.greenhouse.io/valtech",
    "worldwide": 0
   },
-  "changed_at": "2026-11-17T17:40:43Z",
+  "changed_at": "2026-11-18T07:15:14Z",
   "evidence": [
    {
     "detail": " Akeneo PIM & SFCC L2 Support (Bengaluru); .NET Architect (Bengaluru); AEM - Developer / Senior Developer (Bengaluru)",
     "kind": "board",
-    "label": "25 of 125 open roles are located in India",
+    "label": "26 of 126 open roles are located in India",
     "url": "https://boards.greenhouse.io/valtech",
     "weight": 5
    },
@@ -92,8 +92,8 @@
   "first_checked_at": "2026-11-13T15:44:28Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "b102e9427f",
-  "summary": "25 of 125 open roles are located in India.",
+  "sig": "0c45eb9cb2",
+  "summary": "26 of 126 open roles are located in India.",
   "verdict": "yes"
  },
  "inferred": true,
