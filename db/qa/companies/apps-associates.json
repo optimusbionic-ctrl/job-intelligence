@@ -1,0 +1,30 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-18T20:30:09Z",
+  "evidence": [
+   {
+    "detail": "QA - Testing — Hyderabad, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/qa-testing/apps-associates/20095189",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-18T20:30:09Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "e9f862c26c",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Apps Associates",
+ "slug": "apps-associates",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}

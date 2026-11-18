@@ -1,0 +1,27 @@
+{
+ "category": "AI",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-18T20:35:02Z",
+  "evidence": [
+   {
+    "detail": "Motion Designer (Remote) — India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://cutshort.io/job/Motion-Designer-Anujmation-fDT6pRhb",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-18T20:35:02Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "37048e730f",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Anujmation",
+ "slug": "anujmation",
+ "tier": 1
+}

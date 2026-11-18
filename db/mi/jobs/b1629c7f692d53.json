@@ -1,0 +1,110 @@
+{
+ "apply_url": null,
+ "board_apply": "https://cutshort.io/job/Motion-Designer-Anujmation-fDT6pRhb",
+ "category": "AI",
+ "comp_potential": "below",
+ "company": "Anujmation",
+ "company_slug": "anujmation",
+ "concerns": [
+  "Pay evidence suggests below ₹35 LPA",
+  "Also asks for: Blender"
+ ],
+ "contacts_count": 0,
+ "content_hash": "a5f015d77150",
+ "date_quality": "exact",
+ "deadline": "2027-02-13T07:36:13Z",
+ "employment": "full-time",
+ "first_seen": "2026-11-18T20:35:02Z",
+ "fit": 74,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "b1629c7f692d53",
+ "include_reason": "Motion design title",
+ "india": {
+  "cities": [],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "motion",
+ "last_verified": "2026-11-18T20:35:02Z",
+ "location": "India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-09-18T12:03:58Z",
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [
+  "Animate high-retention Reels & Shorts"
+ ],
+ "salary": {
+  "applies_india": true,
+  "basis": "listed",
+  "currency": "INR",
+  "fx_at": "Wed, 18 Nov 2026 00:02:31 +0000",
+  "fx_rate": 1.0,
+  "inr_max": 200000,
+  "inr_min": 100000,
+  "max": 200000,
+  "min": 100000,
+  "note": "Listed in the posting",
+  "original_period": "annual",
+  "period": "annual",
+  "source_name": "Cutshort",
+  "source_url": "https://cutshort.io/job/Motion-Designer-Anujmation-fDT6pRhb",
+  "state": "verified",
+  "verified_at": "2026-11-18T20:35:02Z"
+ },
+ "scores": {
+  "ai": 44,
+  "comp": 22,
+  "company": 98,
+  "location": 100,
+  "seniority": 66,
+  "skill": 88
+ },
+ "seniority": "unspecified",
+ "snippet": "Experience: 2 years\nWhat You’ll Do\n\n• Animate high-retention Reels & Shorts\n\n• Create motion typography\n\n• Design high-conversion carousel creatives\n\n• Support game art & UI assets\n\n• Collaborate with writers and strategists\n\n• Use AI tools to accelerate production\n\n• Deliver projects in a fast-paced environment\n\n What We’re Looking For\n Core Skills \n\n• Adobe After Effects\n\n• Motion Typography\n\n• Animation Principles",
+ "source_primary": "Cutshort",
+ "sources": [
+  {
+   "id": "cutshort",
+   "job_id": "6aad28ae9ba0c8c02e342056",
+   "kind": "board",
+   "name": "Cutshort",
+   "posted_at": "2026-09-18T12:03:58Z",
+   "seen_at": "2026-11-18T20:35:02Z",
+   "url": "https://cutshort.io/job/Motion-Designer-Anujmation-fDT6pRhb"
+  }
+ ],
+ "specializations": [
+  "3D motion",
+  "AI-generated video",
+  "Technical storytelling"
+ ],
+ "status": "active",
+ "tier": 1,
+ "title": "Motion Designer (Remote)",
+ "tools": [
+  "After Effects",
+  "Cinema 4D",
+  "Blender",
+  "Premiere Pro",
+  "Illustrator",
+  "Photoshop"
+ ],
+ "updated_at": null,
+ "url": "https://cutshort.io/job/Motion-Designer-Anujmation-fDT6pRhb",
+ "why": [
+  "Core motion design role",
+  "Tools you already use: After Effects, Cinema 4D, Premiere Pro, Illustrator, Photoshop",
+  "Specialisations in scope: 3D motion, AI-generated video, Technical storytelling",
+  "AI company (Tier 1 priority)",
+  "Location lists India"
+ ],
+ "work_mode": "remote",
+ "years_min": null
+}
