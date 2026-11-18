@@ -1,24 +1,15 @@
 {
- "avg": 16536934,
+ "avg": 17533780,
  "basis": "Interquartile range of posting midpoints, converted to INR at today's rate",
  "currency": "INR",
- "high": 20530228,
+ "high": 21975671,
  "id": "mi-dataset-remote",
  "label": "Disclosed pay on remote motion-design postings (any region, this dataset)",
- "low": 11772277,
+ "low": 11716352,
  "market": "Remote (global)",
- "n": 16,
- "retrieved_at": "2026-11-17",
+ "n": 13,
+ "retrieved_at": "2026-11-18",
  "samples": [
-  {
-   "company": "Affirm",
-   "currency": "CAD",
-   "location": "Canada",
-   "max": 151000,
-   "min": 101000,
-   "title": "Visual Designer II",
-   "url": "https://himalayas.app/companies/affirm/jobs/visual-designer-ii?utm_source=api"
-  },
   {
    "company": "College Board",
    "currency": "USD",
@@ -56,15 +47,6 @@
    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8268342"
   },
   {
-   "company": "Acoustic",
-   "currency": "USD",
-   "location": "United States",
-   "max": 145000,
-   "min": 120000,
-   "title": "Senior Brand Designer",
-   "url": "https://himalayas.app/companies/acoustic/jobs/senior-brand-designer?utm_source=api"
-  },
-  {
    "company": "Luma AI",
    "currency": "USD",
    "location": "Los Angeles, CA (United States)",
@@ -72,15 +54,6 @@
    "min": 126000,
    "title": "Editor + Motion Graphics",
    "url": "https://jobs.ashbyhq.com/lumaai/6e7d4b86-b359-43a7-bd75-c9efce10d5ad"
-  },
-  {
-   "company": "Huckleberry Labs",
-   "currency": "USD",
-   "location": "United States",
-   "max": 160000,
-   "min": 135000,
-   "title": "Senior Brand Designer",
-   "url": "https://himalayas.app/companies/huckleberry-labs/jobs/senior-brand-designer?utm_source=api"
   },
   {
    "company": "Render",
