@@ -1,6 +1,6 @@
 {
  "apply_url": null,
- "board_apply": "https://himalayas.app/companies/zenara-health/jobs/ai-native-software-engineer-qa-automation?utm_source=api",
+ "board_apply": "https://jobs.workable.com/view/7krbSReJ8oJW49Hce3MAcq/remote-ai-native-software-engineer%2C-qa-automation-in-india-at-zenara-health",
  "category": "Product / SaaS",
  "comp_potential": "unknown",
  "company": "Zenara Health",
@@ -11,9 +11,9 @@
   "Pay not disclosed — ask for the range early"
  ],
  "contacts_count": 0,
- "content_hash": "197d8ef1a9b0",
+ "content_hash": "34aed979183e",
  "date_quality": "exact",
- "deadline": "2026-12-21T00:09:56Z",
+ "deadline": null,
  "employment": "full-time",
  "first_seen": "2026-10-20T12:47:14Z",
  "fit": 75,
@@ -30,8 +30,8 @@
   "visa": false
  },
  "kind": "automation",
- "last_verified": "2026-11-15T16:48:49Z",
- "location": "India",
+ "last_verified": "2026-11-18T05:38:27Z",
+ "location": "India (Remote)",
  "logo": null,
  "needs_review": false,
  "official": false,
@@ -62,24 +62,15 @@
  },
  "seniority": "unspecified",
  "snippet": "AI-Native Software Engineer, QA Automation — Mid to Senior | Zenara Health \n Location: Remote - India\n Type: Full-time\n Working Hours: All meetings and live collaboration happen between approximately 6:00 PM and 12:00 AM IST , overlapping US Pacific Time. Attendance in that window is required. Your remaining work is yours to schedule.\n Commitment: Approximately 50 hours per week \n Industry: Healthcare technology expe",
- "source_primary": "Himalayas",
+ "source_primary": "Workable job marketplace",
  "sources": [
-  {
-   "id": "himalayas",
-   "job_id": "https://himalayas.app/companies/zenara-health/jobs/ai-native-software-engineer-qa-automation",
-   "kind": "board",
-   "name": "Himalayas",
-   "posted_at": "2026-10-22T00:09:57Z",
-   "seen_at": "2026-11-15T16:48:49Z",
-   "url": "https://himalayas.app/companies/zenara-health/jobs/ai-native-software-engineer-qa-automation?utm_source=api"
-  },
   {
    "id": "workable",
    "job_id": "334d7c67-a441-4d5b-ba9c-354701d81ee6",
    "kind": "board",
    "name": "Workable job marketplace",
    "posted_at": "2026-10-20T12:19:33Z",
-   "seen_at": "2026-11-15T16:48:49Z",
+   "seen_at": "2026-11-18T05:38:27Z",
    "url": "https://jobs.workable.com/view/7krbSReJ8oJW49Hce3MAcq/remote-ai-native-software-engineer%2C-qa-automation-in-india-at-zenara-health"
   }
  ],
@@ -101,7 +92,7 @@
  ],
  "track": "software",
  "updated_at": null,
- "url": "https://himalayas.app/companies/zenara-health/jobs/ai-native-software-engineer-qa-automation?utm_source=api",
+ "url": "https://jobs.workable.com/view/7krbSReJ8oJW49Hce3MAcq/remote-ai-native-software-engineer%2C-qa-automation-in-india-at-zenara-health",
  "why": [
   "Already on your resume: Compatibility testing, Stress / load testing, Test cases & scenarios, Bug reporting",
   "Product / SaaS company",
