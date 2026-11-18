@@ -1,13 +1,13 @@
 {
- "avg": 6545945,
+ "avg": 8883782,
  "basis": "Interquartile range of posting midpoints, converted to INR at today's rate",
  "currency": "INR",
- "high": 8883782,
+ "high": 10535043,
  "id": "qa-dataset-remote",
  "label": "Disclosed pay on remote QA postings (any region, this dataset)",
  "low": 6093246,
  "market": "Remote (global)",
- "n": 7,
+ "n": 8,
  "retrieved_at": "2026-11-18",
  "samples": [
   {
@@ -54,6 +54,15 @@
    "min": 85000,
    "title": "Quality Assurance Analyst",
    "url": "https://himalayas.app/companies/spacecoast-av-consultants-llc/jobs/quality-assurance-analyst?utm_source=api"
+  },
+  {
+   "company": "NTT DATA",
+   "currency": "USD",
+   "location": "United States",
+   "max": 131500,
+   "min": 93816,
+   "title": "Data Engineer Tester - Healthcare Data & AI Validation - Remote (Philadelphia, P",
+   "url": "https://himalayas.app/companies/nttdata/jobs/data-engineer-tester-healthcare-data-ai-validation-remote-philadelphia-p?utm_source=api"
   },
   {
    "company": "OpenDataJobs",

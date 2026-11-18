@@ -1,23 +1,22 @@
 {
  "category": "Product / SaaS",
  "classification": "Inferred from job description",
- "domain": "zenarahealth.com",
  "india_hiring": {
   "board": null,
-  "changed_at": "2026-11-18T05:38:27Z",
+  "changed_at": "2026-11-18T12:06:51Z",
   "evidence": [
    {
-    "detail": "AI-Native Software Engineer, QA Automation — India (Remote)",
+    "detail": "AI-Native Software Engineer, QA Automation — India",
     "kind": "posting",
     "label": "A current posting lists India as a location",
-    "url": "https://jobs.workable.com/view/7krbSReJ8oJW49Hce3MAcq/remote-ai-native-software-engineer%2C-qa-automation-in-india-at-zenara-health",
+    "url": "https://himalayas.app/companies/zenara-health/jobs/ai-native-software-engineer-qa-automation?utm_source=api",
     "weight": 5
    }
   ],
   "first_checked_at": "2026-10-20T12:47:14Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "361cd7d41c",
+  "sig": "36543bae09",
   "summary": "A current posting lists India as a location.",
   "verdict": "yes"
  },
