@@ -472,7 +472,7 @@
    "ats": null
   },
   "lightwonder": {
-   "at": "2026-11-04T03:45:48Z",
+   "at": "2026-11-19T03:57:47Z",
    "ats": null
   },
   "lodha": {
@@ -970,10 +970,10 @@
   }
  },
  "counts": {
-  "closed": 11,
-  "keep": 25,
-  "live": 182,
-  "stale": 120
+  "closed": 12,
+  "keep": 22,
+  "live": 177,
+  "stale": 127
  },
- "updated_at": "2026-11-19T02:54:45Z"
+ "updated_at": "2026-11-19T03:59:10Z"
 }
