@@ -3,20 +3,20 @@
  "classification": "Inferred from job description",
  "india_hiring": {
   "board": null,
-  "changed_at": "2026-11-19T22:50:39Z",
+  "changed_at": "2026-11-19T23:44:22Z",
   "evidence": [
    {
-    "detail": "QA (Manual) Tester — Pune, India",
+    "detail": "Functional Tester (Automation + Manual) — Navi Mumbai, India",
     "kind": "posting",
     "label": "A current posting lists India as a location",
-    "url": "https://www.shine.com/jobs/qa-manual-tester/honeybee-tech-solutions/19960597",
+    "url": "https://www.shine.com/jobs/functional-tester-automation-manual/honeybee-tech-solutions/19936802",
     "weight": 5
    }
   ],
   "first_checked_at": "2026-11-03T18:02:49Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "5dd1a297a8",
+  "sig": "366e24d7be",
   "summary": "A current posting lists India as a location.",
   "verdict": "yes"
  },

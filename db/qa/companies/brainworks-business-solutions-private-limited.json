@@ -3,20 +3,20 @@
  "classification": "Inferred from job description",
  "india_hiring": {
   "board": null,
-  "changed_at": "2026-11-19T22:50:39Z",
+  "changed_at": "2026-11-19T23:44:22Z",
   "evidence": [
    {
-    "detail": "Performance Tester — Bangalore, India",
+    "detail": "QA Automation Engineer — Pune, Hyderabad, Bangalore, Chennai, India",
     "kind": "posting",
     "label": "A current posting lists India as a location",
-    "url": "https://www.shine.com/jobs/performance-tester/brainworks-business-solutions-private-limited/19999188",
+    "url": "https://www.shine.com/jobs/qa-automation-engineer/brainworks-business-solutions-private-limited/20045909",
     "weight": 5
    }
   ],
   "first_checked_at": "2026-10-20T17:43:38Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "824e71d6eb",
+  "sig": "69569a73d6",
   "summary": "A current posting lists India as a location.",
   "verdict": "yes"
  },

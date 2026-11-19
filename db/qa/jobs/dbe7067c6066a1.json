@@ -9,10 +9,11 @@
   "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
   "Also asks for: API testing, Programming",
   "Asks for 4+ years — you have about 2.5",
-  "Pay not disclosed — ask for the range early"
+  "Pay not disclosed — ask for the range early",
+  "Reposted / refreshed listing — original posting is older"
  ],
  "contacts_count": 0,
- "content_hash": "799e651a0e69",
+ "content_hash": "ad6f359806c0",
  "date_quality": "exact",
  "deadline": "2027-01-11T07:36:50Z",
  "employment": "full-time",
@@ -31,13 +32,13 @@
   "visa": false
  },
  "kind": "automation",
- "last_verified": "2026-11-19T22:50:39Z",
+ "last_verified": "2026-11-19T23:44:22Z",
  "location": "India",
  "logo": null,
  "needs_review": false,
  "official": false,
- "posted_at": "2026-11-12T07:36:50Z",
- "repost": false,
+ "posted_at": "2026-11-19T16:47:47Z",
+ "repost": true,
  "requirements": [
   "4–10 years of experience as an Automation Engineer, SDET, QA Automation Engineer, or similar role.",
   "Hands-on experience with WebdriverIO, Playwright, Pytest, or similar modern automation frameworks .",
@@ -76,8 +77,8 @@
    "job_id": "https://himalayas.app/companies/tilda-research/jobs/automation-engineer-sdet",
    "kind": "board",
    "name": "Himalayas",
-   "posted_at": "2026-11-12T07:36:50Z",
-   "seen_at": "2026-11-19T22:50:39Z",
+   "posted_at": "2026-11-19T16:47:47Z",
+   "seen_at": "2026-11-19T23:44:22Z",
    "url": "https://himalayas.app/companies/tilda-research/jobs/automation-engineer-sdet?utm_source=api"
   }
  ],

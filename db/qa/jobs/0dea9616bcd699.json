@@ -8,10 +8,11 @@
  "concerns": [
   "Mentions test automation — be ready to discuss it or show a small script",
   "Also asks for: API testing, SQL / databases",
-  "Pay not disclosed — ask for the range early"
+  "Pay not disclosed — ask for the range early",
+  "Reposted / refreshed listing — original posting is older"
  ],
  "contacts_count": 0,
- "content_hash": "de1ad324a67c",
+ "content_hash": "233aa93a90cd",
  "date_quality": "exact",
  "deadline": "2027-01-03T18:56:50Z",
  "employment": "full-time",
@@ -30,13 +31,13 @@
   "visa": false
  },
  "kind": "manual-qa",
- "last_verified": "2026-11-19T22:50:39Z",
+ "last_verified": "2026-11-19T23:44:22Z",
  "location": "India",
  "logo": null,
  "needs_review": false,
  "official": false,
- "posted_at": "2026-11-04T18:56:50Z",
- "repost": false,
+ "posted_at": "2026-11-19T18:12:14Z",
+ "repost": true,
  "requirements": [
   "2+ years of hands-on manual QA experience on web and mobile products",
   "Strong experience writing structured test cases and running regression cycles",
@@ -70,8 +71,8 @@
    "job_id": "https://himalayas.app/companies/withmotion/jobs/qa-tester",
    "kind": "board",
    "name": "Himalayas",
-   "posted_at": "2026-11-04T18:56:50Z",
-   "seen_at": "2026-11-19T22:50:39Z",
+   "posted_at": "2026-11-19T18:12:14Z",
+   "seen_at": "2026-11-19T23:44:22Z",
    "url": "https://himalayas.app/companies/withmotion/jobs/qa-tester?utm_source=api"
   }
  ],

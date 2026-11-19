@@ -8,10 +8,11 @@
  "concerns": [
   "Also asks for: SQL / databases",
   "Pay not disclosed — ask for the range early",
-  "IT services company (client projects)"
+  "IT services company (client projects)",
+  "Reposted / refreshed listing — original posting is older"
  ],
  "contacts_count": 0,
- "content_hash": "8ed3560ce417",
+ "content_hash": "ca80a3c6b5c0",
  "date_quality": "exact",
  "deadline": "2027-01-05T01:12:00Z",
  "employment": "full-time",
@@ -30,13 +31,13 @@
   "visa": false
  },
  "kind": "qa-engineer",
- "last_verified": "2026-11-19T22:50:39Z",
+ "last_verified": "2026-11-19T23:44:22Z",
  "location": "India",
  "logo": "https://cdn-images.himalayas.app/nwgsaavnxx3vujg0esm10y3a3e4d",
  "needs_review": false,
  "official": false,
- "posted_at": "2026-11-06T01:12:01Z",
- "repost": false,
+ "posted_at": "2026-11-19T16:53:44Z",
+ "repost": true,
  "requirements": [
   "Primary Responsibilities and Impact Drivers: (not limited to)"
  ],
@@ -67,8 +68,8 @@
    "job_id": "https://himalayas.app/companies/mediaradar/jobs/quality-analyst",
    "kind": "board",
    "name": "Himalayas",
-   "posted_at": "2026-11-06T01:12:01Z",
-   "seen_at": "2026-11-19T22:50:39Z",
+   "posted_at": "2026-11-19T16:53:44Z",
+   "seen_at": "2026-11-19T23:44:22Z",
    "url": "https://himalayas.app/companies/mediaradar/jobs/quality-analyst?utm_source=api"
   }
  ],

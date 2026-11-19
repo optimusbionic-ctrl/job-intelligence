@@ -8,10 +8,11 @@
  "concerns": [
   "Mentions test automation — be ready to discuss it or show a small script",
   "Also asks for: API testing",
-  "Pay not disclosed — ask for the range early"
+  "Pay not disclosed — ask for the range early",
+  "Reposted / refreshed listing — original posting is older"
  ],
  "contacts_count": 0,
- "content_hash": "47283e92ea21",
+ "content_hash": "5aea5bf49985",
  "date_quality": "exact",
  "deadline": "2026-12-01T15:29:08Z",
  "employment": "full-time",
@@ -30,13 +31,13 @@
   "visa": false
  },
  "kind": "manual-qa",
- "last_verified": "2026-11-19T22:50:39Z",
+ "last_verified": "2026-11-19T23:44:22Z",
  "location": "India",
  "logo": null,
  "needs_review": false,
  "official": false,
- "posted_at": "2026-11-01T12:47:45Z",
- "repost": false,
+ "posted_at": "2026-11-19T17:58:12Z",
+ "repost": true,
  "requirements": [],
  "responsibilities": [
   "Design, develop, and execute comprehensive test plans and test cases for web applications, APIs, and mobile interfaces",
@@ -67,8 +68,8 @@
    "job_id": "https://himalayas.app/companies/dumroo-ai/jobs/software-tester",
    "kind": "board",
    "name": "Himalayas",
-   "posted_at": "2026-11-01T12:47:45Z",
-   "seen_at": "2026-11-19T22:50:39Z",
+   "posted_at": "2026-11-19T17:58:12Z",
+   "seen_at": "2026-11-19T23:44:22Z",
    "url": "https://himalayas.app/companies/dumroo-ai/jobs/software-tester?utm_source=api"
   }
  ],
