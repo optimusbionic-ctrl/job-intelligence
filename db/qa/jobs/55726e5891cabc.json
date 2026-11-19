@@ -1,0 +1,107 @@
+{
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/full-stack-scientific-software-developer-plus-qa-engineer/zecruiters-jobconnect-private-limited/19901295",
+ "category": "Other",
+ "comp_potential": "listed_good",
+ "company": "Zecruiters Jobconnect Private Limited",
+ "company_slug": "zecruiters-jobconnect-private-limited",
+ "concerns": [
+  "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
+  "Also asks for: API testing, SQL / databases, Programming",
+  "Office outside Mumbai — relocation within India"
+ ],
+ "contacts_count": 0,
+ "content_hash": "e985d36b761f",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-19T20:04:01Z",
+ "fit": 72,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "55726e5891cabc",
+ "include_reason": "Automation-heavy QA (SDET)",
+ "india": {
+  "cities": [
+   "Pune"
+  ],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "automation",
+ "last_verified": "2026-11-19T20:04:01Z",
+ "location": "Pune, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-10-23T08:07:35Z",
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "applies_india": true,
+  "basis": "listed",
+  "currency": "INR",
+  "fx_at": "Thu, 19 Nov 2026 00:02:31 +0000",
+  "fx_rate": 1.0,
+  "inr_max": 2000000,
+  "inr_min": 1000000,
+  "max": 2000000,
+  "min": 1000000,
+  "note": "Listed in the posting",
+  "original_period": "annual",
+  "period": "annual",
+  "source_name": "Shine.com",
+  "source_url": "https://www.shine.com/jobs/full-stack-scientific-software-developer-plus-qa-engineer/zecruiters-jobconnect-private-limited/19901295",
+  "state": "verified",
+  "verified_at": "2026-11-19T20:04:01Z"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 100,
+  "company": 66,
+  "location": 78,
+  "seniority": 100,
+  "skill": 47
+ },
+ "seniority": "unspecified",
+ "snippet": "Experience: 2 to 7 Yrs\nSkills: regression testing, react.js, integration testing, testing, sql, api, entity framework core, qa documentation., postman, .net core, manual testing functional testing, asp.net core web api\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "19901295",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-10-23T08:07:35Z",
+   "seen_at": "2026-11-19T20:04:01Z",
+   "url": "https://www.shine.com/jobs/full-stack-scientific-software-developer-plus-qa-engineer/zecruiters-jobconnect-private-limited/19901295"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 3,
+ "title": "Full-Stack Scientific Software Developer Plus QA Engineer",
+ "tools": [
+  "Functional testing",
+  "Regression testing",
+  "API testing",
+  "SQL / databases",
+  "Programming"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/full-stack-scientific-software-developer-plus-qa-engineer/zecruiters-jobconnect-private-limited/19901295",
+ "why": [
+  "Already on your resume: Functional testing, Regression testing",
+  "Asks for 2–7 years — you have about 2.5",
+  "Pay is listed in the posting",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": 7,
+ "years_min": 2
+}

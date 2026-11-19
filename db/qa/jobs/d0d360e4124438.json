@@ -1,0 +1,85 @@
+{
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/qa-testermanual-freshers/bm-coder-technologies/19918581",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "BM Coder Technologies",
+ "company_slug": "bm-coder-technologies",
+ "concerns": [
+  "Office outside Mumbai — relocation within India",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "ded7a253eb4f",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-19T20:04:01Z",
+ "fit": 73,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "d0d360e4124438",
+ "include_reason": "Manual / functional QA title",
+ "india": {
+  "cities": [],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "manual-qa",
+ "last_verified": "2026-11-19T20:04:01Z",
+ "location": "All India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-10-24T07:53:26Z",
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 60,
+  "company": 66,
+  "location": 80,
+  "seniority": 100,
+  "skill": 64
+ },
+ "seniority": "unspecified",
+ "snippet": "Experience: 0 to 4 Yrs\nSkills: Manual Testing, SDLC, STLC, Bug Reporting, Defect Tracking, Communication skills, Problemsolving, Attention to detail\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "19918581",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-10-24T07:53:26Z",
+   "seen_at": "2026-11-19T20:04:01Z",
+   "url": "https://www.shine.com/jobs/qa-testermanual-freshers/bm-coder-technologies/19918581"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 3,
+ "title": "QA Tester(Manual) Freshers",
+ "tools": [
+  "Bug reporting"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/qa-testermanual-freshers/bm-coder-technologies/19918581",
+ "why": [
+  "Manual / functional QA — the core of your resume",
+  "Already on your resume: Bug reporting",
+  "Asks for 0–4 years — you have about 2.5",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": 4,
+ "years_min": 0
+}

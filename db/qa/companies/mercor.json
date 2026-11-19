@@ -31,13 +31,13 @@
    "url": "https://jobs.ashbyhq.com/mercor",
    "worldwide": 0
   },
-  "changed_at": "2026-11-19T05:05:54Z",
+  "changed_at": "2026-11-19T20:04:01Z",
   "evidence": [
    {
-    "detail": "Software Tester - Fully Remote | Upto $60/hr — India",
+    "detail": "Linguistic QA Expert - Fully Remote | Upto $18/hr — India",
     "kind": "posting",
     "label": "A current posting lists India as a location",
-    "url": "https://himalayas.app/companies/mercor/jobs/software-tester-fully-remote-upto-60-hr-4910912622?utm_source=api",
+    "url": "https://himalayas.app/companies/mercor/jobs/linguistic-qa-expert-fully-remote-upto-18-hr?utm_source=api",
     "weight": 5
    },
    {
@@ -51,7 +51,7 @@
   "first_checked_at": "2026-10-20T08:44:35Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "40af60398d",
+  "sig": "7b278ab978",
   "summary": "A current posting lists India as a location.",
   "verdict": "yes"
  },

@@ -1,0 +1,54 @@
+{
+ "ats": {
+  "slug": "tag",
+  "type": "lever"
+ },
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": {
+   "apac": 0,
+   "countries": [
+    "United States"
+   ],
+   "india": 0,
+   "india_samples": [],
+   "open_samples": [],
+   "remote": 0,
+   "restricted_remote": 0,
+   "restricted_samples": [],
+   "slug": "tag",
+   "total": 4,
+   "type": "lever",
+   "url": "https://jobs.lever.co/tag",
+   "worldwide": 0
+  },
+  "changed_at": "2026-11-19T20:06:27Z",
+  "evidence": [
+   {
+    "detail": "Motion Graphics creativo para vdeo (Bengaluru) — Bangalore, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/motion-graphics-creativo-para-vdeo-bengaluru/tag/19635825",
+    "weight": 5
+   },
+   {
+    "detail": "None are located in India or open worldwide",
+    "kind": "board",
+    "label": "All 4 open roles are in United States",
+    "url": "https://jobs.lever.co/tag",
+    "weight": -3
+   }
+  ],
+  "first_checked_at": "2026-11-19T20:06:27Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "79e2a2542e",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Tag",
+ "slug": "tag",
+ "tier": 3
+}

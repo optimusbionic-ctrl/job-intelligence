@@ -1,0 +1,93 @@
+{
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/qa-engineer/ncircle-tech-co/19593516",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "nCircle Tech Co",
+ "company_slug": "ncircle-tech-co",
+ "concerns": [
+  "Mentions test automation — be ready to discuss it or show a small script",
+  "Also asks for: API testing",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "963971766c5b",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-19T20:04:01Z",
+ "fit": 80,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "e29bb5c8ba0c87",
+ "include_reason": "QA / test engineer title",
+ "india": {
+  "cities": [
+   "Mumbai"
+  ],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "qa-engineer",
+ "last_verified": "2026-11-19T20:04:01Z",
+ "location": "Mumbai City, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-09-26T04:54:37Z",
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 60,
+  "company": 66,
+  "location": 100,
+  "seniority": 100,
+  "skill": 76
+ },
+ "seniority": "unspecified",
+ "snippet": "Experience: 0 to 4 Yrs\nSkills: Regression, Functional, Integration, Smoke, Azure DevOps, Bugzilla, Cypress, Appium, Understanding of Software Testing Life Cycle STLC, Knowledge of Software Development Life Cycle SDLC, Manual Testing concepts, Sanity Testing, Basic knowledge of Automation, Familiarity with bugtracking tools such as Jira Good analytical, problemsolving skills, Strong communication, documentation skills",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "19593516",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-09-26T04:54:37Z",
+   "seen_at": "2026-11-19T20:04:01Z",
+   "url": "https://www.shine.com/jobs/qa-engineer/ncircle-tech-co/19593516"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 3,
+ "title": "QA Engineer",
+ "tools": [
+  "Regression testing",
+  "Sanity testing",
+  "Jira",
+  "Bugzilla",
+  "API testing",
+  "Test automation"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/qa-engineer/ncircle-tech-co/19593516",
+ "why": [
+  "QA / test engineer role",
+  "Already on your resume: Regression testing, Sanity testing, Jira, Bugzilla",
+  "Asks for 0–4 years — you have about 2.5",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": 4,
+ "years_min": 0
+}

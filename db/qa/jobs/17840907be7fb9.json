@@ -1,0 +1,89 @@
+{
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/quality-assurance-automation-tester-playwright-selenium/hawk-sense-business-solution-pvt-ltd/20020273",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "Hawk Sense Business Solution pvt. ltd.",
+ "company_slug": "hawk-sense-business-solution-pvt-ltd",
+ "concerns": [
+  "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
+  "Also asks for: API testing, Programming",
+  "Office outside Mumbai — relocation within India",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "4fb2ca137f10",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-19T20:04:01Z",
+ "fit": 61,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "17840907be7fb9",
+ "include_reason": "Automation-heavy QA (SDET)",
+ "india": {
+  "cities": [
+   "Pune"
+  ],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "automation",
+ "last_verified": "2026-11-19T20:04:01Z",
+ "location": "Pune, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-11-06T02:23:53Z",
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 60,
+  "company": 66,
+  "location": 78,
+  "seniority": 100,
+  "skill": 24
+ },
+ "seniority": "unspecified",
+ "snippet": "Experience: 0 to 4 Yrs\nSkills: Automation Frameworks, Selenium, API Testing, Python, Interpersonal Skills, Playwright, FastAPI, ProblemSolving\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "20020273",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-11-06T02:23:53Z",
+   "seen_at": "2026-11-19T20:04:01Z",
+   "url": "https://www.shine.com/jobs/quality-assurance-automation-tester-playwright-selenium/hawk-sense-business-solution-pvt-ltd/20020273"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 3,
+ "title": "Quality Assurance Automation Tester - Playwright/Selenium",
+ "tools": [
+  "API testing",
+  "Test automation",
+  "Programming"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/quality-assurance-automation-tester-playwright-selenium/hawk-sense-business-solution-pvt-ltd/20020273",
+ "why": [
+  "Asks for 0–4 years — you have about 2.5",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": 4,
+ "years_min": 0
+}

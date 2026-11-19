@@ -1,0 +1,27 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-19T20:06:27Z",
+  "evidence": [
+   {
+    "detail": "Motion Graphic Designer — Rajkot, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/motion-graphic-designer/digivyer/20090419",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-19T20:06:27Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "2b7d9c4a52",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Digivyer",
+ "slug": "digivyer",
+ "tier": 3
+}

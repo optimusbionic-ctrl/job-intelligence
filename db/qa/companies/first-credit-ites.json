@@ -1,0 +1,30 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-19T20:04:01Z",
+  "evidence": [
+   {
+    "detail": "Quality Analyst Qa Mumbai — Mumbai City, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/quality-analyst-qa-mumbai/first-credit-ites/19959565",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-19T20:04:01Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "afbfd0c0c2",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "First Credit ITES",
+ "slug": "first-credit-ites",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}

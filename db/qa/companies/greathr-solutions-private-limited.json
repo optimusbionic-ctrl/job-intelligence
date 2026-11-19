@@ -1,0 +1,30 @@
+{
+ "category": "Recruiter (client not named)",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-19T20:04:01Z",
+  "evidence": [
+   {
+    "detail": "QA Automation Engineer — Pune, Bangalore, Chennai, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/qa-automation-engineer/greathr-solutions-private-limited/20008407",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-19T20:04:01Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "5dd803b42a",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "GREATHR SOLUTIONS PRIVATE LIMITED",
+ "slug": "greathr-solutions-private-limited",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}

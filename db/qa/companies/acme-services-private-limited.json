@@ -1,0 +1,30 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-19T20:04:01Z",
+  "evidence": [
+   {
+    "detail": "Quality Assurance Engineer — Mumbai City, Thane, Mira Bhayandar, Vasai, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/quality-assurance-engineer/acme-services-private-limited/20028419",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-19T20:04:01Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "2ffb395c70",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Acme Services Private Limited",
+ "slug": "acme-services-private-limited",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}

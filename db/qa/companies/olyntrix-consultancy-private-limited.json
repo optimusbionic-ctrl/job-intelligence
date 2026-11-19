@@ -1,0 +1,30 @@
+{
+ "category": "Recruiter (client not named)",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-19T20:04:01Z",
+  "evidence": [
+   {
+    "detail": "QA Tester - QA Testing, Playwright — Hyderabad, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/qa-tester-qa-testing-playwright/olyntrix-consultancy-private-limited/20100346",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-19T20:04:01Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "3e8a908367",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "OLYNTRIX CONSULTANCY PRIVATE LIMITED",
+ "slug": "olyntrix-consultancy-private-limited",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}

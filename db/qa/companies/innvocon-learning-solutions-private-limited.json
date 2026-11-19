@@ -1,0 +1,30 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-19T20:04:01Z",
+  "evidence": [
+   {
+    "detail": "QA Automation Tester - QA Testing, Automation Testing — Jaipur, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/qa-automation-tester-qa-testing-automation-testing/innvocon-learning-solutions-private-limited/20099405",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-19T20:04:01Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "8cb4b6cc95",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Innvocon Learning Solutions Private Limited",
+ "slug": "innvocon-learning-solutions-private-limited",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}

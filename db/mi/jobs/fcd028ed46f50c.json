@@ -1,0 +1,89 @@
+{
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/motion-graphics-creativo-para-vdeo-bengaluru/tag/19635825",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "Tag",
+ "company_slug": "tag",
+ "concerns": [
+  "Compensation not disclosed",
+  "Also asks for: Blender"
+ ],
+ "contacts_count": 0,
+ "content_hash": "8e491aad0da9",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-19T20:06:27Z",
+ "fit": 54,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "fcd028ed46f50c",
+ "include_reason": "Mixed graphic + motion title",
+ "india": {
+  "cities": [
+   "Bengaluru"
+  ],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "graphic-motion",
+ "last_verified": "2026-11-19T20:06:27Z",
+ "location": "Bangalore, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-09-29T09:57:25Z",
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 30,
+  "comp": 48,
+  "company": 40,
+  "location": 86,
+  "seniority": 66,
+  "skill": 57
+ },
+ "seniority": "unspecified",
+ "snippet": "Experience: 3 to 15 Yrs\nSkills: Motion Graphics, 2D Animation, 3D Animation, Adobe After Effects, Adobe Premiere Pro, Blender, Maxon Cinema 4D, Redshift, Octane, Arnold Renderer\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "19635825",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-09-29T09:57:25Z",
+   "seen_at": "2026-11-19T20:06:27Z",
+   "url": "https://www.shine.com/jobs/motion-graphics-creativo-para-vdeo-bengaluru/tag/19635825"
+  }
+ ],
+ "specializations": [
+  "3D motion"
+ ],
+ "status": "active",
+ "tier": 3,
+ "title": "Motion Graphics creativo para vdeo (Bengaluru)",
+ "tools": [
+  "After Effects",
+  "Cinema 4D",
+  "Blender",
+  "Premiere Pro"
+ ],
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/motion-graphics-creativo-para-vdeo-bengaluru/tag/19635825",
+ "why": [
+  "Tools you already use: After Effects, Cinema 4D, Premiere Pro",
+  "Specialisations in scope: 3D motion",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_min": null
+}

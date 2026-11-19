@@ -1,0 +1,86 @@
+{
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/motion-graphic-designer-animator/laqshya-live-experiences/20072140",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "Laqshya Live Experiences",
+ "company_slug": "laqshya-live-experiences",
+ "concerns": [
+  "Compensation not disclosed",
+  "Also asks for: Blender"
+ ],
+ "contacts_count": 0,
+ "content_hash": "b8ba21d0c926",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-19T20:06:27Z",
+ "fit": 53,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "78ebfcfd8f1747",
+ "include_reason": "Mixed graphic + motion title",
+ "india": {
+  "cities": [],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "graphic-motion",
+ "last_verified": "2026-11-19T20:06:27Z",
+ "location": "All India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-11-13T20:18:00Z",
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 30,
+  "comp": 48,
+  "company": 40,
+  "location": 88,
+  "seniority": 66,
+  "skill": 55
+ },
+ "seniority": "unspecified",
+ "snippet": "Experience: 4 to 8 Yrs\nSkills: Adobe After Effects, Blender, animation, motion graphics, video editing, 3D animation, Premiere Pro, creative problemsolving, attention to detail\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "20072140",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-11-13T20:18:00Z",
+   "seen_at": "2026-11-19T20:06:27Z",
+   "url": "https://www.shine.com/jobs/motion-graphic-designer-animator/laqshya-live-experiences/20072140"
+  }
+ ],
+ "specializations": [
+  "3D motion"
+ ],
+ "status": "active",
+ "tier": 3,
+ "title": "Motion Graphic Designer/ Animator",
+ "tools": [
+  "After Effects",
+  "Blender",
+  "Premiere Pro"
+ ],
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/motion-graphic-designer-animator/laqshya-live-experiences/20072140",
+ "why": [
+  "Tools you already use: After Effects, Premiere Pro",
+  "Specialisations in scope: 3D motion",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_min": null
+}

@@ -1,0 +1,86 @@
+{
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/senior-lead-film-motion-graphics-bengaluru-india/phase-1-events-and-experiences/19688246",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "Phase 1 Events and Experiences",
+ "company_slug": "phase-1-events-and-experiences",
+ "concerns": [
+  "Compensation not disclosed"
+ ],
+ "contacts_count": 0,
+ "content_hash": "6f9f827110c5",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-19T20:06:27Z",
+ "fit": 58,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "7160053c212fe1",
+ "include_reason": "Mixed graphic + motion title",
+ "india": {
+  "cities": [
+   "Bengaluru"
+  ],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "graphic-motion",
+ "last_verified": "2026-11-19T20:06:27Z",
+ "location": "Bangalore, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-10-02T09:15:19Z",
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 30,
+  "comp": 48,
+  "company": 40,
+  "location": 86,
+  "seniority": 96,
+  "skill": 55
+ },
+ "seniority": "lead",
+ "snippet": "Experience: 8 to 12 Yrs\nSkills: Film editing, Motion graphics, Animation, Visual storytelling, After Effects, Compositing, VFX, Typography, Premiere Pro, 2D3D animation\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "19688246",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-10-02T09:15:19Z",
+   "seen_at": "2026-11-19T20:06:27Z",
+   "url": "https://www.shine.com/jobs/senior-lead-film-motion-graphics-bengaluru-india/phase-1-events-and-experiences/19688246"
+  }
+ ],
+ "specializations": [
+  "Technical storytelling"
+ ],
+ "status": "active",
+ "tier": 3,
+ "title": "Senior Lead  Film & Motion Graphics Bengaluru (India)",
+ "tools": [
+  "After Effects",
+  "Premiere Pro"
+ ],
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/senior-lead-film-motion-graphics-bengaluru-india/phase-1-events-and-experiences/19688246",
+ "why": [
+  "Tools you already use: After Effects, Premiere Pro",
+  "Specialisations in scope: Technical storytelling",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_min": null
+}

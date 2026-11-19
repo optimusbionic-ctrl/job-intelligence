@@ -1,0 +1,93 @@
+{
+ "ats": {
+  "slug": "portcast",
+  "type": "lever"
+ },
+ "category": "AI",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": {
+   "apac": 0,
+   "countries": [
+    "India",
+    "Singapore",
+    "Philippines",
+    "Thailand",
+    "Vietnam",
+    "Indonesia",
+    "Malaysia",
+    "Hong Kong"
+   ],
+   "india": 7,
+   "india_samples": [
+    {
+     "location": "Delhi • Bangalore • Singapore • Manila • Chennai • Hyderabad • Kolkata • Mumbai ",
+     "title": "Backend Engineer",
+     "url": "https://jobs.lever.co/portcast/1f6381eb-03dd-451a-a8cc-2c862cec3fe3"
+    },
+    {
+     "location": "Bangalore • Bangkok • Chennai • Delhi • Hyderabad • Kolkata • Mumbai • Singapore",
+     "title": "Data Analyst",
+     "url": "https://jobs.lever.co/portcast/e66df487-0622-480f-8506-532b3db5db28"
+    },
+    {
+     "location": "Singapore • Bangalore • Chennai • Delhi • Hyderabad • Kolkata • Mumbai • Cebu • ",
+     "title": "Data Analyst Intern",
+     "url": "https://jobs.lever.co/portcast/f18cc64e-c34a-416c-b213-62a39906260e"
+    },
+    {
+     "location": "Singapore • Jakarta • Bangalore • Delhi • Bangkok • Kuala Lumpur • Manila • Cebu",
+     "title": "Head of Tech (Engineering & AI)",
+     "url": "https://jobs.lever.co/portcast/3fbd2b9a-c12b-4578-a628-5929fa2da2bf"
+    }
+   ],
+   "open_samples": [],
+   "remote": 7,
+   "restricted_remote": 2,
+   "restricted_samples": [
+    {
+     "location": "Mexico City • Guadalajara • Monterrey • Puebla • Tijuana • Santiago • Buenos Air",
+     "title": "Sales Manager (Americas)",
+     "url": "https://jobs.lever.co/portcast/0a005759-bd64-4132-9f21-d420bc2e2c0c"
+    },
+    {
+     "location": "Chicago • Florida • Atlanta • Jacksonville • Miami • Indianapolis • Memphis • Ta",
+     "title": "Sales Manager (US)",
+     "url": "https://jobs.lever.co/portcast/acb0cccd-51ec-4dd1-ac63-254cb5087941"
+    }
+   ],
+   "slug": "portcast",
+   "total": 9,
+   "type": "lever",
+   "url": "https://jobs.lever.co/portcast",
+   "worldwide": 0
+  },
+  "changed_at": "2026-11-19T20:06:27Z",
+  "evidence": [
+   {
+    "detail": "Backend Engineer (Delhi • Bangalore • Singapore • Manila • Chennai • Hyderabad • Kolkata • Mumbai ); Data Analyst (Bangalore • Bangkok • Chennai • Delhi • Hyderabad • Kolkata • Mumbai • Singapore); Data Analyst Intern (S",
+    "kind": "board",
+    "label": "7 of 9 open roles are located in India",
+    "url": "https://jobs.lever.co/portcast",
+    "weight": 5
+   },
+   {
+    "detail": "Marketing Designer (with a focus on Video & Motion Graphics) — Bangalore, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/marketing-designer-with-a-focus-on-video-motion-graphics/portcast/19688175",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-19T20:06:27Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "96866ad3c1",
+  "summary": "7 of 9 open roles are located in India.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Portcast",
+ "slug": "portcast",
+ "tier": 1
+}

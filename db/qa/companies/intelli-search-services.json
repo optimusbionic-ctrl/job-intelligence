@@ -1,0 +1,30 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-19T20:04:01Z",
+  "evidence": [
+   {
+    "detail": "Software Tester  Mumbai Andheri East 5 days WFO 12PM To 9PM shift — Mumbai City, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/software-tester-mumbai-andheri-east-5-days-wfo-pm-to-9pm-shift/intelli-search-services/19960898",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-19T20:04:01Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "38fb1e3d5a",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Intelli Search Services",
+ "slug": "intelli-search-services",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}

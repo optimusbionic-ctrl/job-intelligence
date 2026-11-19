@@ -9,7 +9,7 @@
   "Office outside Mumbai — relocation within India"
  ],
  "contacts_count": 0,
- "content_hash": "527d0c620550",
+ "content_hash": "2ca5320a7ad3",
  "date_quality": "exact",
  "deadline": null,
  "employment": "full-time",
@@ -28,8 +28,8 @@
   "visa": false
  },
  "kind": "qa-engineer",
- "last_verified": "2026-10-24T18:44:21Z",
- "location": "Jaipur, Ajmer, India",
+ "last_verified": "2026-11-19T20:04:01Z",
+ "location": "Ajmer, Jaipur, India",
  "logo": null,
  "needs_review": false,
  "official": false,
@@ -41,8 +41,8 @@
   "applies_india": true,
   "basis": "listed",
   "currency": "INR",
-  "fx_at": "Sat, 24 Oct 2026 00:02:31 +0000",
-  "fx_rate": 1,
+  "fx_at": "Thu, 19 Nov 2026 00:02:31 +0000",
+  "fx_rate": 1.0,
   "inr_max": 450000,
   "inr_min": 250000,
   "max": 450000,
@@ -53,7 +53,7 @@
   "source_name": "Shine.com",
   "source_url": "https://www.shine.com/jobs/executive-qa/coxwill-global/19898927",
   "state": "verified",
-  "verified_at": "2026-10-24T18:44:21Z"
+  "verified_at": "2026-11-19T20:04:01Z"
  },
  "scores": {
   "ai": 58,
@@ -73,7 +73,7 @@
    "kind": "board",
    "name": "Shine.com",
    "posted_at": "2026-10-22T19:09:23Z",
-   "seen_at": "2026-10-24T18:44:21Z",
+   "seen_at": "2026-11-19T20:04:01Z",
    "url": "https://www.shine.com/jobs/executive-qa/coxwill-global/19898927"
   }
  ],

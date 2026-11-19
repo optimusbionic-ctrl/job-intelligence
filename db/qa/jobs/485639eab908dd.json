@@ -11,7 +11,7 @@
   "Reposted / refreshed listing — original posting is older"
  ],
  "contacts_count": 0,
- "content_hash": "b8a83662b67a",
+ "content_hash": "f39abc747238",
  "date_quality": "exact",
  "deadline": null,
  "employment": "full-time",
@@ -30,12 +30,12 @@
   "visa": false
  },
  "kind": "automation",
- "last_verified": "2026-11-03T18:02:49Z",
+ "last_verified": "2026-11-19T20:04:01Z",
  "location": "Coimbatore, India",
  "logo": "https://staticrect.shine.com/r/m/images/job_logo/3ca4f19ea474436bac97e33ad19fcc52.webp",
  "needs_review": false,
  "official": false,
- "posted_at": "2026-09-10T05:35:12Z",
+ "posted_at": "2026-11-02T17:08:15Z",
  "repost": true,
  "requirements": [
   "(Summary from the Shine.com listing; open the posting for the full description.)"
@@ -45,7 +45,7 @@
   "applies_india": true,
   "basis": "listed",
   "currency": "INR",
-  "fx_at": "Tue, 03 Nov 2026 00:02:31 +0000",
+  "fx_at": "Thu, 19 Nov 2026 00:02:31 +0000",
   "fx_rate": 1.0,
   "inr_max": 500000,
   "inr_min": 300000,
@@ -57,7 +57,7 @@
   "source_name": "Shine.com",
   "source_url": "https://www.shine.com/jobs/qa-automation-engineer/diraa-hr-services/19987084",
   "state": "verified",
-  "verified_at": "2026-11-03T18:02:49Z"
+  "verified_at": "2026-11-19T20:04:01Z"
  },
  "scores": {
   "ai": 58,
@@ -77,17 +77,8 @@
    "kind": "board",
    "name": "Shine.com",
    "posted_at": "2026-11-02T17:08:15Z",
-   "seen_at": "2026-11-03T18:02:49Z",
+   "seen_at": "2026-11-19T20:04:01Z",
    "url": "https://www.shine.com/jobs/qa-automation-engineer/diraa-hr-services/19987084"
-  },
-  {
-   "id": "shine",
-   "job_id": "19523845",
-   "kind": "board",
-   "name": "Shine.com",
-   "posted_at": "2026-09-10T05:35:12Z",
-   "seen_at": "2026-11-03T18:02:49Z",
-   "url": "https://www.shine.com/jobs/qa-engineer/diraa-hr-services/19523845"
   }
  ],
  "specializations": [],
@@ -96,7 +87,7 @@
  "title": "Qa Automation Engineer",
  "tools": [],
  "track": "software",
- "updated_at": "2026-11-02T17:08:15Z",
+ "updated_at": null,
  "url": "https://www.shine.com/jobs/qa-automation-engineer/diraa-hr-services/19987084",
  "why": [
   "Asks for 0–4 years — you have about 2.5",

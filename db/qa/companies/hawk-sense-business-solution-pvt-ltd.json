@@ -1,0 +1,30 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-19T20:04:01Z",
+  "evidence": [
+   {
+    "detail": "Quality Assurance Automation Tester - Playwright/Selenium — Pune, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/quality-assurance-automation-tester-playwright-selenium/hawk-sense-business-solution-pvt-ltd/20020273",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-19T20:04:01Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "2a0ef64b0a",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Hawk Sense Business Solution pvt. ltd.",
+ "slug": "hawk-sense-business-solution-pvt-ltd",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}

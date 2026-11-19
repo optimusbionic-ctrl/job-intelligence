@@ -1,0 +1,83 @@
+{
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/senior-motion-graphics-designer/jobrapido/19569473",
+ "category": "AI",
+ "comp_potential": "unknown",
+ "company": "Jobrapido",
+ "company_slug": "jobrapido",
+ "concerns": [
+  "Compensation not disclosed"
+ ],
+ "contacts_count": 0,
+ "content_hash": "41bf5cb54cf7",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-19T20:06:27Z",
+ "fit": 66,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "5cfebb6c797421",
+ "include_reason": "Mixed graphic + motion title",
+ "india": {
+  "cities": [
+   "Bengaluru"
+  ],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "graphic-motion",
+ "last_verified": "2026-11-19T20:06:27Z",
+ "location": "Bangalore, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-09-21T06:32:16Z",
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 44,
+  "comp": 48,
+  "company": 98,
+  "location": 86,
+  "seniority": 100,
+  "skill": 39
+ },
+ "seniority": "senior",
+ "snippet": "Experience: 5 to 15 Yrs\nSkills: Motion Design, Animation, Video Editing, Sound Design, Storyboarding, AI tools, Clientfacing communication\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "19569473",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-09-21T06:32:16Z",
+   "seen_at": "2026-11-19T20:06:27Z",
+   "url": "https://www.shine.com/jobs/senior-motion-graphics-designer/jobrapido/19569473"
+  }
+ ],
+ "specializations": [
+  "AI-generated video"
+ ],
+ "status": "active",
+ "tier": 1,
+ "title": "Senior Motion Graphics Designer",
+ "tools": [],
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/senior-motion-graphics-designer/jobrapido/19569473",
+ "why": [
+  "Specialisations in scope: AI-generated video",
+  "AI company (Tier 1 priority)",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_min": null
+}

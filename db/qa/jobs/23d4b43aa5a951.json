@@ -1,0 +1,88 @@
+{
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/quality-assurance-tester/kudzu-infotech-pvt-ltd/20028119",
+ "category": "Product / SaaS",
+ "comp_potential": "unknown",
+ "company": "Kudzu InfoTech Pvt Ltd",
+ "company_slug": "kudzu-infotech-pvt-ltd",
+ "concerns": [
+  "Office outside Mumbai — relocation within India",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "5d4fdbed2aa3",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-19T20:04:01Z",
+ "fit": 86,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "23d4b43aa5a951",
+ "include_reason": "Manual / functional QA title",
+ "india": {
+  "cities": [],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "manual-qa",
+ "last_verified": "2026-11-19T20:04:01Z",
+ "location": "Coimbatore, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-11-06T13:57:37Z",
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 60,
+  "company": 95,
+  "location": 80,
+  "seniority": 100,
+  "skill": 93
+ },
+ "seniority": "unspecified",
+ "snippet": "Experience: 2 to 4 Yrs\nSkills: test case design, execution, regression testing, functional testing, manual testing, ecommerce testing\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "20028119",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-11-06T13:57:37Z",
+   "seen_at": "2026-11-19T20:04:01Z",
+   "url": "https://www.shine.com/jobs/quality-assurance-tester/kudzu-infotech-pvt-ltd/20028119"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 1,
+ "title": "Quality Assurance Tester",
+ "tools": [
+  "Functional testing",
+  "Regression testing",
+  "Test cases & scenarios"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/quality-assurance-tester/kudzu-infotech-pvt-ltd/20028119",
+ "why": [
+  "Manual / functional QA — the core of your resume",
+  "Already on your resume: Functional testing, Regression testing, Test cases & scenarios",
+  "Product / SaaS company",
+  "Asks for 2–4 years — you have about 2.5",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": 4,
+ "years_min": 2
+}

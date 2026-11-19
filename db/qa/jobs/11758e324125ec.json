@@ -1,0 +1,90 @@
+{
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/associate-software-development-test-engineer/webmd/19703255",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "WebMD",
+ "company_slug": "webmd",
+ "concerns": [
+  "Also asks for: API testing, Programming",
+  "Entry-level role — pay may be at the lower end",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "0111243bc7f9",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-19T20:04:01Z",
+ "fit": 74,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "11758e324125ec",
+ "include_reason": "QA / test engineer title",
+ "india": {
+  "cities": [
+   "Mumbai"
+  ],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "qa-engineer",
+ "last_verified": "2026-11-19T20:04:01Z",
+ "location": "Navi Mumbai, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-10-05T01:05:11Z",
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 60,
+  "company": 66,
+  "location": 100,
+  "seniority": 100,
+  "skill": 57
+ },
+ "seniority": "junior",
+ "snippet": "Experience: 0 to 4 Yrs\nSkills: software quality assurance, API Testing, SDLC, HTML, CSS, JavaScript, JIRA, webbased technologies, testing requirements, issue tracking\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "19703255",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-10-05T01:05:11Z",
+   "seen_at": "2026-11-19T20:04:01Z",
+   "url": "https://www.shine.com/jobs/associate-software-development-test-engineer/webmd/19703255"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 3,
+ "title": "Associate Software Development Test Engineer",
+ "tools": [
+  "Jira",
+  "API testing",
+  "Programming"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/associate-software-development-test-engineer/webmd/19703255",
+ "why": [
+  "QA / test engineer role",
+  "Already on your resume: Jira",
+  "Asks for 0–4 years — you have about 2.5",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": 4,
+ "years_min": 0
+}

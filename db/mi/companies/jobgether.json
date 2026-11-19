@@ -1,0 +1,103 @@
+{
+ "ats": {
+  "slug": "jobgether",
+  "type": "lever"
+ },
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": {
+   "apac": 0,
+   "countries": [
+    "United States",
+    "India",
+    "Brazil",
+    "Canada",
+    "United Kingdom",
+    "Switzerland",
+    "Spain",
+    "Germany"
+   ],
+   "india": 397,
+   "india_samples": [
+    {
+     "location": "India",
+     "title": ".NET Tech Lead / Senior .NET Developer",
+     "url": "https://jobs.lever.co/jobgether/0cfb75cb-67d2-404c-87b1-32901eee9df3"
+    },
+    {
+     "location": "India",
+     "title": "AI Engineer",
+     "url": "https://jobs.lever.co/jobgether/b9f500fd-b38b-4aeb-ac21-aad8117f47cf"
+    },
+    {
+     "location": "India",
+     "title": "AI Forward Deployment Engineer",
+     "url": "https://jobs.lever.co/jobgether/5f1cdd30-3246-4db0-b676-42fafd1fe5fc"
+    },
+    {
+     "location": "India",
+     "title": "AI Infrastructure Metrics, Measurements & SOP Leader",
+     "url": "https://jobs.lever.co/jobgether/d4fdea0f-3a3b-4b59-b360-f9e52d6226f0"
+    }
+   ],
+   "open_samples": [],
+   "remote": 4687,
+   "restricted_remote": 4290,
+   "restricted_samples": [
+    {
+     "location": "Brazil",
+     "title": "\"Frankenstein\" Video Editor",
+     "url": "https://jobs.lever.co/jobgether/f661691f-c0c9-4408-a9b4-6e777b60799d"
+    },
+    {
+     "location": "US",
+     "title": "(Contractor) Senior Lead React Native Engineer",
+     "url": "https://jobs.lever.co/jobgether/846566db-150d-44bd-b05e-925df01c5a6f"
+    },
+    {
+     "location": "US",
+     "title": "(INT) Manager, EDI",
+     "url": "https://jobs.lever.co/jobgether/b355cb9d-4afd-40fa-8435-c1698aaf55c6"
+    },
+    {
+     "location": "Switzerland",
+     "title": "(Senior) FP&A Analyst",
+     "url": "https://jobs.lever.co/jobgether/34501531-53b9-4581-b3f8-e9fbaee72158"
+    }
+   ],
+   "slug": "jobgether",
+   "total": 4688,
+   "type": "lever",
+   "url": "https://jobs.lever.co/jobgether",
+   "worldwide": 0
+  },
+  "changed_at": "2026-11-19T20:06:27Z",
+  "evidence": [
+   {
+    "detail": ".NET Tech Lead / Senior .NET Developer (India); AI Engineer (India); AI Forward Deployment Engineer (India)",
+    "kind": "board",
+    "label": "397 of 4688 open roles are located in India",
+    "url": "https://jobs.lever.co/jobgether",
+    "weight": 5
+   },
+   {
+    "detail": "Lead Motion Graphics Artist (Localisation & Adaptation) — All India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/lead-motion-graphics-artist-localisation-adaptation/jobgether/19961668",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-19T20:06:27Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "70691f63d7",
+  "summary": "397 of 4688 open roles are located in India.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Jobgether",
+ "slug": "jobgether",
+ "tier": 3
+}

@@ -1,0 +1,91 @@
+{
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/video-editor-and-motion-graphics-designer/servotech-power-systems/20079265",
+ "category": "AI",
+ "comp_potential": "unknown",
+ "company": "Servotech Power Systems",
+ "company_slug": "servotech-power-systems",
+ "concerns": [
+  "Compensation not disclosed",
+  "Also asks for: Blender"
+ ],
+ "contacts_count": 0,
+ "content_hash": "78439eb5dc9f",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-19T20:06:27Z",
+ "fit": 70,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "674197c61bc3d8",
+ "include_reason": "Motion title with video scope",
+ "india": {
+  "cities": [
+   "Delhi NCR"
+  ],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "video-motion",
+ "last_verified": "2026-11-19T20:06:27Z",
+ "location": "Delhi, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-11-13T22:26:41Z",
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 44,
+  "comp": 48,
+  "company": 98,
+  "location": 64,
+  "seniority": 66,
+  "skill": 75
+ },
+ "seniority": "unspecified",
+ "snippet": "Experience: 2 to 6 Yrs\nSkills: Video Editing, Adobe Premiere Pro, Final Cut Pro, Motion Graphics, Adobe After Effects, Blender, Cinema 4D, Maya, 3D Tools, AI Tools\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "20079265",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-11-13T22:26:41Z",
+   "seen_at": "2026-11-19T20:06:27Z",
+   "url": "https://www.shine.com/jobs/video-editor-and-motion-graphics-designer/servotech-power-systems/20079265"
+  }
+ ],
+ "specializations": [
+  "3D motion",
+  "AI-generated video"
+ ],
+ "status": "active",
+ "tier": 1,
+ "title": "Video Editor and Motion Graphics Designer",
+ "tools": [
+  "After Effects",
+  "Cinema 4D",
+  "Blender",
+  "Premiere Pro"
+ ],
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/video-editor-and-motion-graphics-designer/servotech-power-systems/20079265",
+ "why": [
+  "Tools you already use: After Effects, Cinema 4D, Premiere Pro",
+  "Specialisations in scope: 3D motion, AI-generated video",
+  "AI company (Tier 1 priority)",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_min": null
+}
