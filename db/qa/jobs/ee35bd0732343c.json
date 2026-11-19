@@ -1,0 +1,134 @@
+{
+ "apply_url": null,
+ "board_apply": "https://himalayas.app/companies/photon/jobs/qa-engineer_offshore?utm_source=api",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "Photon",
+ "company_slug": "photon",
+ "concerns": [
+  "Mentions test automation — be ready to discuss it or show a small script",
+  "Also asks for: API testing, SQL / databases",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "a838dafa22c4",
+ "date_quality": "exact",
+ "deadline": "2026-12-02T01:15:43Z",
+ "employment": "full-time",
+ "first_seen": "2026-11-19T18:59:05Z",
+ "fit": 76,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "ee35bd0732343c",
+ "include_reason": "QA / test engineer title",
+ "india": {
+  "cities": [],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "qa-engineer",
+ "last_verified": "2026-11-19T18:59:05Z",
+ "location": "India",
+ "logo": "https://cdn-images.himalayas.app/jcz22vzek6q5rcz4rn965fx3rcix",
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-11-19T17:47:57Z",
+ "repost": false,
+ "requirements": [
+  "Hands-on experience in software development and agile methodologies.",
+  "Collaborate with QA Analysts and Software Developers to develop solutions.",
+  "Write clear, concise, and comprehensive test plans and test cases.",
+  "Analyze and evaluate Software and Business Requirement Documents during all phases of the Software Development Life Cycle (SDLC) and Software Testing Life Cycle.",
+  "Communicate and interpret critical business areas early in an application to prioritize test cases accordingly."
+ ],
+ "responsibilities": [
+  "Excellent manual testing skills.",
+  "Hands-on experience in software development and agile methodologies.",
+  "Collaborate with QA Analysts and Software Developers to develop solutions.",
+  "Write clear, concise, and comprehensive test plans and test cases.",
+  "Analyze and evaluate Software and Business Requirement Documents during all phases of the Software Development Life Cycle (SDLC) and Software Testing Life Cycle.",
+  "Prepare Test Plans, Test Strategies, and Test Cases as per Business Requirements.",
+  "Communicate and interpret critical business areas early in an application to prioritize test cases accordingly."
+ ],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 60,
+  "company": 66,
+  "location": 100,
+  "seniority": 84,
+  "skill": 74
+ },
+ "seniority": "unspecified",
+ "snippet": "We are looking for a Senior QA Engineer to primarily handle manual testing with strong knowledge of automation testing tools and techniques.\n Role & Responsibilities:\n\n• Excellent manual testing skills.\n\n• Hands-on experience in software development and agile methodologies.\n\n• Collaborate with QA Analysts and Software Developers to develop solutions.\n\n• Write clear, concise, and comprehensive test plans and test case",
+ "source_primary": "Himalayas",
+ "sources": [
+  {
+   "id": "himalayas",
+   "job_id": "https://himalayas.app/companies/photon/jobs/qa-engineer_offshore",
+   "kind": "board",
+   "name": "Himalayas",
+   "posted_at": "2026-11-19T17:47:57Z",
+   "seen_at": "2026-11-19T18:59:05Z",
+   "url": "https://himalayas.app/companies/photon/jobs/qa-engineer_offshore?utm_source=api"
+  },
+  {
+   "id": "himalayas",
+   "job_id": "https://himalayas.app/companies/photon/jobs/qa-engineer-offshore-chennai",
+   "kind": "board",
+   "name": "Himalayas",
+   "posted_at": "2026-11-19T17:47:57Z",
+   "seen_at": "2026-11-19T18:59:05Z",
+   "url": "https://himalayas.app/companies/photon/jobs/qa-engineer-offshore-chennai?utm_source=api"
+  },
+  {
+   "id": "himalayas",
+   "job_id": "https://himalayas.app/companies/photon/jobs/qa-engineer-offshore",
+   "kind": "board",
+   "name": "Himalayas",
+   "posted_at": "2026-11-19T17:47:57Z",
+   "seen_at": "2026-11-19T18:59:05Z",
+   "url": "https://himalayas.app/companies/photon/jobs/qa-engineer-offshore?utm_source=api"
+  },
+  {
+   "id": "himalayas",
+   "job_id": "https://himalayas.app/companies/photon/jobs/qa-engineer-offshore-medimpact",
+   "kind": "board",
+   "name": "Himalayas",
+   "posted_at": "2026-11-19T17:47:57Z",
+   "seen_at": "2026-11-19T18:59:05Z",
+   "url": "https://himalayas.app/companies/photon/jobs/qa-engineer-offshore-medimpact?utm_source=api"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 3,
+ "title": "QA Engineer_Offshore",
+ "tools": [
+  "Functional testing",
+  "Regression testing",
+  "Usability testing",
+  "Test cases & scenarios",
+  "Google Sheets / Excel",
+  "API testing",
+  "SQL / databases",
+  "Test automation",
+  "Agile / Scrum"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://himalayas.app/companies/photon/jobs/qa-engineer_offshore?utm_source=api",
+ "why": [
+  "QA / test engineer role",
+  "Already on your resume: Functional testing, Regression testing, Usability testing, Test cases & scenarios, Google Sheets / Excel",
+  "Location lists India"
+ ],
+ "work_mode": "remote",
+ "years_max": null,
+ "years_min": null
+}

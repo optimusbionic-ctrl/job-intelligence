@@ -7,10 +7,11 @@
  "company_slug": "pitchday",
  "concerns": [
   "Compensation not disclosed",
-  "Agency / studio (Tier 2)"
+  "Agency / studio (Tier 2)",
+  "Reposted / refreshed listing — original posting is older"
  ],
  "contacts_count": 0,
- "content_hash": "6f7406301fc3",
+ "content_hash": "efd67693c936",
  "date_quality": "exact",
  "deadline": "2027-01-01T19:33:02Z",
  "employment": "full-time",
@@ -29,13 +30,13 @@
   "visa": false
  },
  "kind": "motion",
- "last_verified": "2026-11-03T10:27:01Z",
+ "last_verified": "2026-11-19T19:01:39Z",
  "location": "India, Indonesia, Philippines, Singapore, Vietnam",
  "logo": "https://cdn-images.himalayas.app/foq0l300kaic8frst3j7s4kjm126",
  "needs_review": false,
  "official": false,
- "posted_at": "2026-11-02T19:33:05Z",
- "repost": false,
+ "posted_at": "2026-11-19T16:59:01Z",
+ "repost": true,
  "requirements": [
   "Experience leading motion design projects and supporting or guiding creative teams.",
   "Ability to adapt to diverse visual styles, formats, and project briefs.",
@@ -67,8 +68,8 @@
    "job_id": "https://himalayas.app/companies/pitchday/jobs/senior-motion-designer",
    "kind": "board",
    "name": "Himalayas",
-   "posted_at": "2026-11-02T19:33:05Z",
-   "seen_at": "2026-11-03T10:27:01Z",
+   "posted_at": "2026-11-19T16:59:01Z",
+   "seen_at": "2026-11-19T19:01:39Z",
    "url": "https://himalayas.app/companies/pitchday/jobs/senior-motion-designer?utm_source=api"
   }
  ],

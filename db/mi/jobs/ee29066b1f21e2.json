@@ -2,21 +2,21 @@
  "apply_url": null,
  "board_apply": "https://himalayas.app/companies/loonker-creative-solutions-opc-pvt-ltd/jobs/sr-animator?utm_source=api",
  "category": "Agency / studio",
- "comp_potential": "below",
+ "comp_potential": "unknown",
  "company": "Loonker creative solutions OPC Pvt Ltd",
  "company_slug": "loonker-creative-solutions-opc-pvt-ltd",
  "concerns": [
-  "Pay not disclosed — showing a low-confidence estimate",
-  "Pay evidence suggests below ₹35 LPA",
-  "Agency / studio (Tier 2)"
+  "Compensation not disclosed",
+  "Agency / studio (Tier 2)",
+  "Reposted / refreshed listing — original posting is older"
  ],
  "contacts_count": 0,
- "content_hash": "5e84621c7408",
+ "content_hash": "dce611873546",
  "date_quality": "exact",
  "deadline": "2026-12-13T16:52:59Z",
  "employment": "full-time",
  "first_seen": "2026-10-15T15:27:11Z",
- "fit": 66,
+ "fit": 70,
  "has_hiring_manager": false,
  "has_named_contact": false,
  "has_public_email": false,
@@ -30,13 +30,13 @@
   "visa": false
  },
  "kind": "motion",
- "last_verified": "2026-10-18T23:27:04Z",
+ "last_verified": "2026-11-19T19:01:39Z",
  "location": "India",
  "logo": "https://cdn-images.himalayas.app/1yv4uiq9jsxaxj3cg3n21qy23z2d",
  "needs_review": false,
  "official": false,
- "posted_at": "2026-10-14T16:52:59Z",
- "repost": false,
+ "posted_at": "2026-11-19T18:19:06Z",
+ "repost": true,
  "requirements": [
   "4+ years of relevant work experience in delivering explainers, social media ads etc.",
   "Easy to work and collaborate with. Should come across as a friendly, warm person.",
@@ -48,28 +48,11 @@
  ],
  "responsibilities": [],
  "salary": {
-  "estimate": {
-   "confidence": "low",
-   "currency": "INR",
-   "evidence": [
-    "ab-senior-motion-designer-in",
-    "ab-senior-motion-graphic-designer-in",
-    "gd-senior-motion-designer-blr"
-   ],
-   "high": 920000,
-   "inr_high": 920000,
-   "inr_low": 800000,
-   "low": 800000,
-   "method": "India market averages for senior motion designers from 3 sources (AmbitionBox ×2, Glassdoor Bangalore): ₹8.0–9.2 LPA. These are averages across all employers and experience around 3 years; no evidence that this employer pays above market.",
-   "potential": "below"
-  },
-  "note": "Estimate — not employer-confirmed",
-  "state": "estimate",
-  "verified_at": "2026-10-18T23:27:04Z"
+  "state": "unavailable"
  },
  "scores": {
   "ai": 30,
-  "comp": 22,
+  "comp": 48,
   "company": 62,
   "location": 100,
   "seniority": 100,
@@ -84,8 +67,8 @@
    "job_id": "https://himalayas.app/companies/loonker-creative-solutions-opc-pvt-ltd/jobs/sr-animator",
    "kind": "board",
    "name": "Himalayas",
-   "posted_at": "2026-10-14T16:52:59Z",
-   "seen_at": "2026-10-18T23:27:04Z",
+   "posted_at": "2026-11-19T18:19:06Z",
+   "seen_at": "2026-11-19T19:01:39Z",
    "url": "https://himalayas.app/companies/loonker-creative-solutions-opc-pvt-ltd/jobs/sr-animator?utm_source=api"
   }
  ],

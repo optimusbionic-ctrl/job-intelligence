@@ -6,10 +6,11 @@
  "company": "Lifelancer",
  "company_slug": "lifelancer",
  "concerns": [
-  "Pay not disclosed — ask for the range early"
+  "Pay not disclosed — ask for the range early",
+  "Reposted / refreshed listing — original posting is older"
  ],
  "contacts_count": 0,
- "content_hash": "0c7229a4466b",
+ "content_hash": "fc6d34a54941",
  "date_quality": "exact",
  "deadline": "2027-01-06T05:24:28Z",
  "employment": "full-time",
@@ -28,13 +29,13 @@
   "visa": false
  },
  "kind": "qa-engineer",
- "last_verified": "2026-11-07T06:49:53Z",
+ "last_verified": "2026-11-19T18:59:05Z",
  "location": "India",
  "logo": "https://cdn-images.himalayas.app/ztdsyzatuliky237a5zq922sir0k",
  "needs_review": false,
  "official": false,
- "posted_at": "2026-11-07T05:24:29Z",
- "repost": false,
+ "posted_at": "2026-11-19T16:53:10Z",
+ "repost": true,
  "requirements": [
   "Carries out procedures to ensure that all information systems products and services meet minimum organization standards and end-user requirements.",
   "Defines master test plans to document overall testing strategy for a project.",
@@ -65,8 +66,8 @@
    "job_id": "https://himalayas.app/companies/lifelancer/jobs/software-qa-engineer",
    "kind": "board",
    "name": "Himalayas",
-   "posted_at": "2026-11-07T05:24:29Z",
-   "seen_at": "2026-11-07T06:49:53Z",
+   "posted_at": "2026-11-19T16:53:10Z",
+   "seen_at": "2026-11-19T18:59:05Z",
    "url": "https://himalayas.app/companies/lifelancer/jobs/software-qa-engineer?utm_source=api"
   }
  ],

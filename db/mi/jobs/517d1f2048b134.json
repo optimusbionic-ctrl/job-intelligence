@@ -2,24 +2,23 @@
  "apply_url": null,
  "board_apply": "https://himalayas.app/companies/benrey/jobs/freelance-graphic-motion-designer-5222562264?utm_source=api",
  "category": "Agency / studio",
- "comp_potential": "below",
+ "comp_potential": "unknown",
  "company": "Benrey",
  "company_slug": "benrey",
  "concerns": [
-  "Pay not disclosed — showing a low-confidence estimate",
-  "Pay evidence suggests below ₹35 LPA",
+  "Compensation not disclosed",
   "Agency / studio (Tier 2)",
   "Contract role",
   "Also asks for: Blender",
   "Reposted / refreshed listing — original posting is older"
  ],
  "contacts_count": 0,
- "content_hash": "37f91c48534e",
+ "content_hash": "897ac9d0cb06",
  "date_quality": "exact",
  "deadline": "2026-12-24T11:00:33Z",
  "employment": "contract",
  "first_seen": "2026-10-15T15:27:11Z",
- "fit": 60,
+ "fit": 63,
  "has_hiring_manager": false,
  "has_named_contact": false,
  "has_public_email": false,
@@ -33,12 +32,12 @@
   "visa": false
  },
  "kind": "graphic-motion",
- "last_verified": "2026-10-27T10:26:45Z",
+ "last_verified": "2026-11-19T19:01:39Z",
  "location": "India",
  "logo": null,
  "needs_review": false,
  "official": false,
- "posted_at": "2026-10-25T11:00:33Z",
+ "posted_at": "2026-11-19T17:03:51Z",
  "repost": true,
  "requirements": [
   "Strong command of Adobe Creative Suite (especially Photoshop).",
@@ -56,28 +55,11 @@
   "Deliver polished, final visuals/videos on schedule."
  ],
  "salary": {
-  "estimate": {
-   "confidence": "low",
-   "currency": "INR",
-   "evidence": [
-    "ab-senior-motion-designer-in",
-    "ab-senior-motion-graphic-designer-in",
-    "gd-senior-motion-designer-blr"
-   ],
-   "high": 920000,
-   "inr_high": 920000,
-   "inr_low": 800000,
-   "low": 800000,
-   "method": "India market averages for senior motion designers from 3 sources (AmbitionBox ×2, Glassdoor Bangalore): ₹8.0–9.2 LPA. These are averages across all employers and experience around 3 years; no evidence that this employer pays above market.",
-   "potential": "below"
-  },
-  "note": "Estimate — not employer-confirmed",
-  "state": "estimate",
-  "verified_at": "2026-10-27T10:26:45Z"
+  "state": "unavailable"
  },
  "scores": {
   "ai": 44,
-  "comp": 22,
+  "comp": 48,
   "company": 62,
   "location": 100,
   "seniority": 66,
@@ -92,8 +74,8 @@
    "job_id": "https://himalayas.app/companies/benrey/jobs/freelance-graphic-motion-designer-5222562264",
    "kind": "board",
    "name": "Himalayas",
-   "posted_at": "2026-10-25T11:00:33Z",
-   "seen_at": "2026-10-27T10:26:45Z",
+   "posted_at": "2026-11-19T17:03:51Z",
+   "seen_at": "2026-11-19T19:01:39Z",
    "url": "https://himalayas.app/companies/benrey/jobs/freelance-graphic-motion-designer-5222562264?utm_source=api"
   }
  ],
