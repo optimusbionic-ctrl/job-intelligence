@@ -7,11 +7,10 @@
  "company_slug": "oneforma",
  "concerns": [
   "Pay not disclosed — ask for the range early",
-  "IT services company (client projects)",
-  "Reposted / refreshed listing — original posting is older"
+  "IT services company (client projects)"
  ],
  "contacts_count": 0,
- "content_hash": "7559af80cfe8",
+ "content_hash": "043c393a5bde",
  "date_quality": "exact",
  "deadline": "2027-01-06T15:32:48Z",
  "employment": "full-time",
@@ -30,13 +29,13 @@
   "visa": false
  },
  "kind": "qa-engineer",
- "last_verified": "2026-11-19T18:59:05Z",
+ "last_verified": "2026-11-19T22:50:39Z",
  "location": "India",
  "logo": "https://cdn-images.himalayas.app/nxtd8ulxjpykm09n3fe3sy216edr",
  "needs_review": false,
  "official": false,
- "posted_at": "2026-11-19T16:52:08Z",
- "repost": true,
+ "posted_at": "2026-11-07T15:32:49Z",
+ "repost": false,
  "requirements": [],
  "responsibilities": [],
  "salary": {
@@ -59,8 +58,8 @@
    "job_id": "https://himalayas.app/companies/oneforma/jobs/software-test-engineer-3418592534",
    "kind": "board",
    "name": "Himalayas",
-   "posted_at": "2026-11-19T16:52:08Z",
-   "seen_at": "2026-11-19T18:59:05Z",
+   "posted_at": "2026-11-07T15:32:49Z",
+   "seen_at": "2026-11-19T22:50:39Z",
    "url": "https://himalayas.app/companies/oneforma/jobs/software-test-engineer-3418592534?utm_source=api"
   }
  ],

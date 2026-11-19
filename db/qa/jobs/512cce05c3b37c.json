@@ -6,11 +6,10 @@
  "company": "Photon Interactive UK Limited",
  "company_slug": "photon-interactive-uk-limited",
  "concerns": [
-  "Pay not disclosed — ask for the range early",
-  "Reposted / refreshed listing — original posting is older"
+  "Pay not disclosed — ask for the range early"
  ],
  "contacts_count": 0,
- "content_hash": "dfa6f22adb04",
+ "content_hash": "902d751311ed",
  "date_quality": "exact",
  "deadline": "2026-12-24T05:26:56Z",
  "employment": "full-time",
@@ -29,13 +28,13 @@
   "visa": false
  },
  "kind": "qa-engineer",
- "last_verified": "2026-11-19T17:55:53Z",
+ "last_verified": "2026-11-19T22:50:39Z",
  "location": "India",
  "logo": "https://cdn-images.himalayas.app/6uea03ugprm7j1fah48hp1jr6ny6",
  "needs_review": false,
  "official": false,
- "posted_at": "2026-11-19T17:04:05Z",
- "repost": true,
+ "posted_at": "2026-10-25T05:26:57Z",
+ "repost": false,
  "requirements": [
   "Define and enforce QA standards, guidelines, and best practices.",
   "Maintain documentation of test cases, test results, and defect reports.",
@@ -73,8 +72,8 @@
    "job_id": "https://himalayas.app/companies/photon-interactive-uk-limited/jobs/qa-lead_offshore",
    "kind": "board",
    "name": "Himalayas",
-   "posted_at": "2026-11-19T17:04:05Z",
-   "seen_at": "2026-11-19T17:55:53Z",
+   "posted_at": "2026-10-25T05:26:57Z",
+   "seen_at": "2026-11-19T22:50:39Z",
    "url": "https://himalayas.app/companies/photon-interactive-uk-limited/jobs/qa-lead_offshore?utm_source=api"
   }
  ],

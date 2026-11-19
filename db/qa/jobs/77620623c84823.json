@@ -7,11 +7,10 @@
  "company_slug": "photon",
  "concerns": [
   "Mentions test automation — be ready to discuss it or show a small script",
-  "Pay not disclosed — ask for the range early",
-  "Reposted / refreshed listing — original posting is older"
+  "Pay not disclosed — ask for the range early"
  ],
  "contacts_count": 0,
- "content_hash": "2639ff09d6cc",
+ "content_hash": "bf36087abd22",
  "date_quality": "exact",
  "deadline": "2026-12-02T13:27:32Z",
  "employment": "full-time",
@@ -30,13 +29,13 @@
   "visa": false
  },
  "kind": "qa-engineer",
- "last_verified": "2026-11-19T17:55:53Z",
+ "last_verified": "2026-11-19T22:50:39Z",
  "location": "India",
  "logo": "https://cdn-images.himalayas.app/jcz22vzek6q5rcz4rn965fx3rcix",
  "needs_review": false,
  "official": false,
- "posted_at": "2026-10-03T01:15:44Z",
- "repost": true,
+ "posted_at": "2026-10-03T00:51:28Z",
+ "repost": false,
  "requirements": [],
  "responsibilities": [],
  "salary": {
@@ -59,26 +58,17 @@
    "job_id": "https://himalayas.app/companies/photon/jobs/qa-engineer-offshore-chennai",
    "kind": "board",
    "name": "Himalayas",
-   "posted_at": "2026-11-19T17:47:57Z",
-   "seen_at": "2026-11-19T17:55:53Z",
+   "posted_at": "2026-10-03T13:27:33Z",
+   "seen_at": "2026-11-19T22:50:39Z",
    "url": "https://himalayas.app/companies/photon/jobs/qa-engineer-offshore-chennai?utm_source=api"
-  },
-  {
-   "id": "himalayas",
-   "job_id": "https://himalayas.app/companies/photon/jobs/qa-engineer-offshore",
-   "kind": "board",
-   "name": "Himalayas",
-   "posted_at": "2026-11-19T17:47:57Z",
-   "seen_at": "2026-11-19T17:55:53Z",
-   "url": "https://himalayas.app/companies/photon/jobs/qa-engineer-offshore?utm_source=api"
   },
   {
    "id": "himalayas",
    "job_id": "https://himalayas.app/companies/photon/jobs/qa-engineer-offshore-medimpact",
    "kind": "board",
    "name": "Himalayas",
-   "posted_at": "2026-11-19T17:47:57Z",
-   "seen_at": "2026-11-19T17:55:53Z",
+   "posted_at": "2026-10-03T08:39:34Z",
+   "seen_at": "2026-11-19T22:50:39Z",
    "url": "https://himalayas.app/companies/photon/jobs/qa-engineer-offshore-medimpact?utm_source=api"
   },
   {
@@ -87,8 +77,17 @@
    "kind": "board",
    "name": "Himalayas",
    "posted_at": "2026-10-03T01:15:44Z",
-   "seen_at": "2026-11-19T17:55:53Z",
+   "seen_at": "2026-11-19T22:50:39Z",
    "url": "https://himalayas.app/companies/photon/jobs/qa-engineer_offshore?utm_source=api"
+  },
+  {
+   "id": "himalayas",
+   "job_id": "https://himalayas.app/companies/photon/jobs/qa-engineer-offshore",
+   "kind": "board",
+   "name": "Himalayas",
+   "posted_at": "2026-10-03T00:51:28Z",
+   "seen_at": "2026-11-19T22:50:39Z",
+   "url": "https://himalayas.app/companies/photon/jobs/qa-engineer-offshore?utm_source=api"
   }
  ],
  "specializations": [
@@ -106,7 +105,7 @@
   "Agile / Scrum"
  ],
  "track": "software",
- "updated_at": "2026-11-19T17:47:57Z",
+ "updated_at": null,
  "url": "https://himalayas.app/companies/photon/jobs/qa-engineer-offshore-chennai?utm_source=api",
  "why": [
   "QA / test engineer role",
