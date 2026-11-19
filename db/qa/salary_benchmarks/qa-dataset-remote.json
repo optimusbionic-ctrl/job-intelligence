@@ -7,7 +7,7 @@
  "label": "Disclosed pay on remote QA postings (any region, this dataset)",
  "low": 6093251,
  "market": "Remote (global)",
- "n": 6,
+ "n": 10,
  "retrieved_at": "2026-11-19",
  "samples": [
   {
@@ -20,6 +20,15 @@
    "url": "https://himalayas.app/companies/storware-sp-z-o-o/jobs/manual-tester-with-linux-qa-team?utm_source=api"
   },
   {
+   "company": "TECDATA ENGINEERING",
+   "currency": "EUR",
+   "location": "Spain",
+   "max": 28000,
+   "min": 28000,
+   "title": "QA Tester / Analista Funcional",
+   "url": "https://himalayas.app/companies/tecdata-engineering/jobs/qa-tester-analista-funcional?utm_source=api"
+  },
+  {
    "company": "9th Way Insignia",
    "currency": "USD",
    "location": "United States",
@@ -27,6 +36,15 @@
    "min": 62818,
    "title": "Junior Tester",
    "url": "https://himalayas.app/companies/9th-way-insignia/jobs/junior-tester?utm_source=api"
+  },
+  {
+   "company": "StackAdapt",
+   "currency": "CAD",
+   "location": "Canada",
+   "max": 115500,
+   "min": 84000,
+   "title": "Quality Engineer",
+   "url": "https://jobicy.com/jobs/155930-quality-engineer-3"
   },
   {
    "company": "micro1",
@@ -47,6 +65,15 @@
    "url": "https://himalayas.app/companies/spacecoast-av-consultants-llc/jobs/quality-assurance-analyst?utm_source=api"
   },
   {
+   "company": "NTT DATA",
+   "currency": "USD",
+   "location": "United States",
+   "max": 131500,
+   "min": 93816,
+   "title": "Data Engineer Tester - Healthcare Data & AI Validation - Remote (Philadelphia, P",
+   "url": "https://himalayas.app/companies/nttdata/jobs/data-engineer-tester-healthcare-data-ai-validation-remote-philadelphia-p?utm_source=api"
+  },
+  {
    "company": "OpenDataJobs",
    "currency": "USD",
    "location": "United States",
@@ -63,6 +90,15 @@
    "min": 100000,
    "title": "QA Engineer",
    "url": "https://himalayas.app/companies/xperteez-technology/jobs/qa-engineer?utm_source=api"
+  },
+  {
+   "company": "Discord",
+   "currency": "USD",
+   "location": "USA",
+   "max": 175500,
+   "min": 156000,
+   "title": "QA/DevOps Engineer",
+   "url": "https://jobicy.com/jobs/155923-qa-devops-engineer"
   }
  ],
  "source_name": "QA Intelligence dataset",
