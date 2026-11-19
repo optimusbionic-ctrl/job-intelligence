@@ -12,7 +12,8 @@
     "India",
     "United States",
     "United Kingdom",
-    "Canada"
+    "Canada",
+    "UAE"
    ],
    "india": 15,
    "india_samples": [
@@ -38,8 +39,8 @@
     }
    ],
    "open_samples": [],
-   "remote": 15,
-   "restricted_remote": 13,
+   "remote": 16,
+   "restricted_remote": 14,
    "restricted_samples": [
     {
      "location": "United Kingdom (Remote)",
@@ -52,28 +53,28 @@
      "url": "https://jobs.ashbyhq.com/ema/b4d1709b-f33a-4eb4-b3ec-f5509be8069d"
     },
     {
+     "location": "Dubai | United Arab Emirates (Hybrid) • Dubai",
+     "title": "Account Executive - Dubai",
+     "url": "https://jobs.ashbyhq.com/ema/ec68e7e5-ef08-4de6-83a5-d858bd63dec5"
+    },
+    {
      "location": "Mountain View (Hybrid) • United States",
      "title": "Devops Engineer, US",
      "url": "https://jobs.ashbyhq.com/ema/6f816cca-bf17-4061-b751-033a14e433cb"
-    },
-    {
-     "location": "United Kingdom (Remote)",
-     "title": "Engineering Leader",
-     "url": "https://jobs.ashbyhq.com/ema/6debf9aa-ad1c-4fa8-878f-df222bc789b8"
     }
    ],
    "slug": "ema",
-   "total": 38,
+   "total": 39,
    "type": "ashby",
    "url": "https://jobs.ashbyhq.com/ema",
    "worldwide": 0
   },
-  "changed_at": "2026-11-13T09:07:39Z",
+  "changed_at": "2026-11-19T13:18:22Z",
   "evidence": [
    {
     "detail": " Devops Engineer (Bengaluru office); Customer Engagement Manager (India - Bengaluru); Engineering Leader (India - Bengaluru)",
     "kind": "board",
-    "label": "15 of 38 open roles are located in India",
+    "label": "15 of 39 open roles are located in India",
     "url": "https://jobs.ashbyhq.com/ema",
     "weight": 5
    }
@@ -81,8 +82,8 @@
   "first_checked_at": "2026-11-10T21:34:53Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "25b5fa3211",
-  "summary": "15 of 38 open roles are located in India.",
+  "sig": "ef03e5e77c",
+  "summary": "15 of 39 open roles are located in India.",
   "verdict": "yes"
  },
  "inferred": true,
