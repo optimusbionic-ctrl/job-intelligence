@@ -15,11 +15,6 @@
    "india_samples": [
     {
      "location": "Bengaluru",
-     "title": "Agent Engineer",
-     "url": "https://jobs.ashbyhq.com/sarvam/36f89b00-2010-4d23-aae3-17a2f53d9eaa"
-    },
-    {
-     "location": "Bengaluru",
      "title": "Data Scientist - Evaluations, Chanakya",
      "url": "https://jobs.ashbyhq.com/sarvam/7c42207a-bb56-413c-839f-9ad692df840e"
     },
@@ -32,6 +27,11 @@
      "location": "Delhi",
      "title": "Embedded Data Scientist, Chanakya",
      "url": "https://jobs.ashbyhq.com/sarvam/dc047f4f-97be-4bb3-a9f1-cebbfc4de3e6"
+    },
+    {
+     "location": "Delhi",
+     "title": "Embedded Infrastructure Engineer, Chanakya",
+     "url": "https://jobs.ashbyhq.com/sarvam/b2201b5e-1e96-497a-962c-bca1768f75fd"
     }
    ],
    "open_samples": [],
@@ -47,7 +47,7 @@
   "changed_at": "2026-11-19T07:23:18Z",
   "evidence": [
    {
-    "detail": "Agent Engineer (Bengaluru); Data Scientist - Evaluations, Chanakya (Bengaluru); Deployment Strategist (Bengaluru)",
+    "detail": "Data Scientist - Evaluations, Chanakya (Bengaluru); Deployment Strategist (Bengaluru); Embedded Data Scientist, Chanakya (Delhi)",
     "kind": "board",
     "label": "43 of 43 open roles are located in India",
     "url": "https://jobs.ashbyhq.com/sarvam",
