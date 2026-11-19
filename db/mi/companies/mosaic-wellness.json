@@ -3,20 +3,20 @@
  "classification": "Inferred from job description",
  "india_hiring": {
   "board": null,
-  "changed_at": "2026-11-19T20:58:47Z",
+  "changed_at": "2026-11-19T21:53:31Z",
   "evidence": [
    {
-    "detail": "Motion Designer — Mumbai",
+    "detail": "Motion Graphics Designer and Video Editor (Thane) — Thane, India",
     "kind": "posting",
     "label": "A current posting lists India as a location",
-    "url": "https://cutshort.io/job/Motion-Designer-Mumbai-Mosaic-Wellness-TesUXjsN",
+    "url": "https://www.shine.com/jobs/motion-graphics-designer-and-video-editor-thane/mosaic-wellness/19581047",
     "weight": 5
    }
   ],
   "first_checked_at": "2026-11-03T18:34:57Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "5951667241",
+  "sig": "6de89833dd",
   "summary": "A current posting lists India as a location.",
   "verdict": "yes"
  },
