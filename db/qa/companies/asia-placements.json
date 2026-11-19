@@ -3,20 +3,20 @@
  "classification": "Inferred from job description",
  "india_hiring": {
   "board": null,
-  "changed_at": "2026-11-19T20:04:01Z",
+  "changed_at": "2026-11-19T20:56:30Z",
   "evidence": [
    {
     "detail": "Mutual Funds Tester Engineer — Mumbai City, India",
     "kind": "posting",
     "label": "A current posting lists India as a location",
-    "url": "https://www.shine.com/jobs/mutual-funds-tester-engineer/asia-placements/20044618",
+    "url": "https://www.shine.com/jobs/mutual-funds-tester-engineer/asia-placements/20044687",
     "weight": 5
    }
   ],
   "first_checked_at": "2026-10-19T13:24:59Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "bfbdd3e215",
+  "sig": "15bea3159c",
   "summary": "A current posting lists India as a location.",
   "verdict": "yes"
  },
