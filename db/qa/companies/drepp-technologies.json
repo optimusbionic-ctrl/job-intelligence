@@ -1,0 +1,31 @@
+{
+ "category": "IT services",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-19T05:05:54Z",
+  "evidence": [
+   {
+    "detail": "Backend QA — India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://himalayas.app/companies/drepp-technologies/jobs/backend-qa?utm_source=api",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-19T05:05:54Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "133fe1476d",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "logo": "https://cdn-images.himalayas.app/s3nxc8tf5bdl04yu6w1wsvm6dg7z",
+ "name": "Drepp Technologies",
+ "slug": "drepp-technologies",
+ "tier": 2,
+ "tracks": [
+  "software"
+ ]
+}
