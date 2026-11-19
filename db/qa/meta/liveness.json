@@ -85,7 +85,7 @@
    "ats": null
   },
   "awinmoindiamarketing": {
-   "at": "2026-11-03T23:44:21Z",
+   "at": "2026-11-19T01:51:56Z",
    "ats": null
   },
   "aziro": {
@@ -320,7 +320,7 @@
    "ats": null
   },
   "fundcount": {
-   "at": "2026-11-04T00:28:15Z",
+   "at": "2026-11-19T01:51:56Z",
    "ats": null
   },
   "fusemachines": {
@@ -576,7 +576,7 @@
    "ats": null
   },
   "phicommerce": {
-   "at": "2026-11-04T00:28:15Z",
+   "at": "2026-11-19T01:51:56Z",
    "ats": null
   },
   "pitchnhire": {
@@ -647,7 +647,7 @@
    "ats": null
   },
   "reliancegames": {
-   "at": "2026-11-04T00:28:15Z",
+   "at": "2026-11-19T01:51:56Z",
    "ats": null
   },
   "reliancegameszapak": {
@@ -972,8 +972,8 @@
  "counts": {
   "closed": 11,
   "keep": 25,
-  "live": 182,
-  "stale": 120
+  "live": 175,
+  "stale": 127
  },
- "updated_at": "2026-11-19T00:28:32Z"
+ "updated_at": "2026-11-19T01:53:35Z"
 }
