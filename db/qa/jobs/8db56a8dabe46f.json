@@ -9,7 +9,7 @@
   "Asks for 4+ years — you have about 2.5"
  ],
  "contacts_count": 0,
- "content_hash": "c300f9ad5ebf",
+ "content_hash": "2e598973d2a4",
  "date_quality": "exact",
  "deadline": null,
  "employment": "full-time",
@@ -24,7 +24,7 @@
   "cities": [
    "Mumbai",
    "Pune",
-   "Chennai"
+   "Delhi NCR"
   ],
   "company": "yes",
   "reason": "Location lists India",
@@ -32,8 +32,8 @@
   "visa": false
  },
  "kind": "manual-qa",
- "last_verified": "2026-10-23T07:43:52Z",
- "location": "Mumbai City, Pune, Mozambique, United Arab Emirates, Kolkata, Chennai, India",
+ "last_verified": "2026-11-19T14:33:24Z",
+ "location": "Mumbai City, Pune, Zambia, Delhi, United Arab Emirates, Zimbabwe, India",
  "logo": null,
  "needs_review": false,
  "official": false,
@@ -45,8 +45,8 @@
   "applies_india": true,
   "basis": "listed",
   "currency": "INR",
-  "fx_at": "Fri, 23 Oct 2026 00:02:31 +0000",
-  "fx_rate": 1,
+  "fx_at": "Thu, 19 Nov 2026 00:02:31 +0000",
+  "fx_rate": 1.0,
   "inr_max": 2400000,
   "inr_min": 1200000,
   "max": 2400000,
@@ -57,7 +57,7 @@
   "source_name": "Shine.com",
   "source_url": "https://www.shine.com/jobs/test-analyst/awinmo-india-marketing-private-limited/19586327",
   "state": "verified",
-  "verified_at": "2026-10-23T07:43:52Z"
+  "verified_at": "2026-11-19T14:33:24Z"
  },
  "scores": {
   "ai": 58,
@@ -77,7 +77,7 @@
    "kind": "board",
    "name": "Shine.com",
    "posted_at": "2026-09-24T14:51:10Z",
-   "seen_at": "2026-10-23T07:43:52Z",
+   "seen_at": "2026-11-19T14:33:24Z",
    "url": "https://www.shine.com/jobs/test-analyst/awinmo-india-marketing-private-limited/19586327"
   }
  ],
