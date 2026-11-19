@@ -7,10 +7,11 @@
  "company_slug": "photon-interactive-uk-limited",
  "concerns": [
   "Mentions test automation — be ready to discuss it or show a small script",
-  "Pay not disclosed — ask for the range early"
+  "Pay not disclosed — ask for the range early",
+  "Reposted / refreshed listing — original posting is older"
  ],
  "contacts_count": 0,
- "content_hash": "2cefa3fa991f",
+ "content_hash": "7aafb8aaa0f5",
  "date_quality": "exact",
  "deadline": "2026-12-24T15:27:06Z",
  "employment": "full-time",
@@ -29,13 +30,13 @@
   "visa": false
  },
  "kind": "qa-engineer",
- "last_verified": "2026-10-27T10:43:30Z",
+ "last_verified": "2026-11-19T17:55:53Z",
  "location": "India",
  "logo": "https://cdn-images.himalayas.app/6uea03ugprm7j1fah48hp1jr6ny6",
  "needs_review": false,
  "official": false,
- "posted_at": "2026-10-24T18:18:32Z",
- "repost": false,
+ "posted_at": "2026-11-19T17:04:05Z",
+ "repost": true,
  "requirements": [],
  "responsibilities": [],
  "salary": {
@@ -58,8 +59,8 @@
    "job_id": "https://himalayas.app/companies/photon-interactive-uk-limited/jobs/qa-engineer-offshore-chennai",
    "kind": "board",
    "name": "Himalayas",
-   "posted_at": "2026-10-25T15:27:07Z",
-   "seen_at": "2026-10-27T10:43:30Z",
+   "posted_at": "2026-11-19T17:04:05Z",
+   "seen_at": "2026-11-19T17:55:53Z",
    "url": "https://himalayas.app/companies/photon-interactive-uk-limited/jobs/qa-engineer-offshore-chennai?utm_source=api"
   },
   {
@@ -67,8 +68,8 @@
    "job_id": "https://himalayas.app/companies/photon-interactive-uk-limited/jobs/qa-engineer-offshore-medimpact",
    "kind": "board",
    "name": "Himalayas",
-   "posted_at": "2026-10-25T10:14:03Z",
-   "seen_at": "2026-10-27T10:43:30Z",
+   "posted_at": "2026-11-19T17:04:05Z",
+   "seen_at": "2026-11-19T17:55:53Z",
    "url": "https://himalayas.app/companies/photon-interactive-uk-limited/jobs/qa-engineer-offshore-medimpact?utm_source=api"
   },
   {
@@ -76,8 +77,8 @@
    "job_id": "https://himalayas.app/companies/photon-interactive-uk-limited/jobs/qa-engineer_offshore",
    "kind": "board",
    "name": "Himalayas",
-   "posted_at": "2026-10-25T03:21:19Z",
-   "seen_at": "2026-10-27T10:43:30Z",
+   "posted_at": "2026-11-19T17:04:05Z",
+   "seen_at": "2026-11-19T17:55:53Z",
    "url": "https://himalayas.app/companies/photon-interactive-uk-limited/jobs/qa-engineer_offshore?utm_source=api"
   },
   {
@@ -85,8 +86,8 @@
    "job_id": "https://himalayas.app/companies/photon-interactive-uk-limited/jobs/qa-engineer-offshore",
    "kind": "board",
    "name": "Himalayas",
-   "posted_at": "2026-10-24T18:18:32Z",
-   "seen_at": "2026-10-27T10:43:30Z",
+   "posted_at": "2026-11-19T17:04:05Z",
+   "seen_at": "2026-11-19T17:55:53Z",
    "url": "https://himalayas.app/companies/photon-interactive-uk-limited/jobs/qa-engineer-offshore?utm_source=api"
   }
  ],

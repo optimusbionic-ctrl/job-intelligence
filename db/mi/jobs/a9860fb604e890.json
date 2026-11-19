@@ -2,22 +2,22 @@
  "apply_url": null,
  "board_apply": "https://himalayas.app/companies/stage-works/jobs/creative-developer-3d-web-interactive-animation?utm_source=api",
  "category": "Other",
- "comp_potential": "below",
+ "comp_potential": "unknown",
  "company": "Stage Works",
  "company_slug": "stage-works",
  "concerns": [
-  "Pay not disclosed — showing a low-confidence estimate",
-  "Pay evidence suggests below ₹35 LPA",
+  "Compensation not disclosed",
   "Contract role",
-  "Also asks for: Blender, Three.js / WebGL"
+  "Also asks for: Blender, Three.js / WebGL",
+  "Reposted / refreshed listing — original posting is older"
  ],
  "contacts_count": 0,
- "content_hash": "073b3f8dae1f",
+ "content_hash": "4e0af8eef2fc",
  "date_quality": "exact",
  "deadline": "2026-12-15T09:16:52Z",
  "employment": "contract",
  "first_seen": "2026-10-16T10:27:31Z",
- "fit": 61,
+ "fit": 65,
  "has_hiring_manager": false,
  "has_named_contact": false,
  "has_public_email": false,
@@ -31,13 +31,13 @@
   "visa": false
  },
  "kind": "motion",
- "last_verified": "2026-10-19T03:27:48Z",
+ "last_verified": "2026-11-19T17:57:38Z",
  "location": "India",
  "logo": "https://cdn-images.himalayas.app/a0vlnlf41il15n8jbfnjssfrvk64",
  "needs_review": false,
  "official": false,
- "posted_at": "2026-10-16T09:16:53Z",
- "repost": false,
+ "posted_at": "2026-11-19T17:23:24Z",
+ "repost": true,
  "requirements": [],
  "responsibilities": [
   "You will build and maintain 3D web and interactive animation projects for our architecture and planning operations on a fixed-term employment basis for 3 months, working 48 hours per week with a 1-month probation period.",
@@ -46,28 +46,11 @@
   "Three.js / React Three Fiber"
  ],
  "salary": {
-  "estimate": {
-   "confidence": "low",
-   "currency": "INR",
-   "evidence": [
-    "ab-senior-motion-designer-in",
-    "ab-senior-motion-graphic-designer-in",
-    "gd-senior-motion-designer-blr"
-   ],
-   "high": 920000,
-   "inr_high": 920000,
-   "inr_low": 800000,
-   "low": 800000,
-   "method": "India market averages for senior motion designers from 3 sources (AmbitionBox ×2, Glassdoor Bangalore): ₹8.0–9.2 LPA. These are averages across all employers and experience around 3 years; no evidence that this employer pays above market.",
-   "potential": "below"
-  },
-  "note": "Estimate — not employer-confirmed",
-  "state": "estimate",
-  "verified_at": "2026-10-19T03:27:48Z"
+  "state": "unavailable"
  },
  "scores": {
   "ai": 72,
-  "comp": 22,
+  "comp": 48,
   "company": 40,
   "location": 100,
   "seniority": 66,
@@ -82,8 +65,8 @@
    "job_id": "https://himalayas.app/companies/stage-works/jobs/creative-developer-3d-web-interactive-animation",
    "kind": "board",
    "name": "Himalayas",
-   "posted_at": "2026-10-16T09:16:53Z",
-   "seen_at": "2026-10-19T03:27:48Z",
+   "posted_at": "2026-11-19T17:23:24Z",
+   "seen_at": "2026-11-19T17:57:38Z",
    "url": "https://himalayas.app/companies/stage-works/jobs/creative-developer-3d-web-interactive-animation?utm_source=api"
   }
  ],

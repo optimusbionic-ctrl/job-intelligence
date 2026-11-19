@@ -9,10 +9,11 @@
   "Mentions test automation — be ready to discuss it or show a small script",
   "Also asks for: Programming",
   "Pay not disclosed — ask for the range early",
-  "IT services company (client projects)"
+  "IT services company (client projects)",
+  "Reposted / refreshed listing — original posting is older"
  ],
  "contacts_count": 0,
- "content_hash": "70c3f9121bef",
+ "content_hash": "b2bc49f91b37",
  "date_quality": "exact",
  "deadline": "2027-01-18T04:55:29Z",
  "employment": "full-time",
@@ -31,13 +32,13 @@
   "visa": false
  },
  "kind": "qa-engineer",
- "last_verified": "2026-11-19T05:05:54Z",
+ "last_verified": "2026-11-19T17:55:53Z",
  "location": "India",
  "logo": "https://cdn-images.himalayas.app/s3nxc8tf5bdl04yu6w1wsvm6dg7z",
  "needs_review": false,
  "official": false,
- "posted_at": "2026-11-19T04:55:30Z",
- "repost": false,
+ "posted_at": "2026-11-19T16:38:41Z",
+ "repost": true,
  "requirements": [
   "Should be a team player with flexible working hours"
  ],
@@ -62,8 +63,8 @@
    "job_id": "https://himalayas.app/companies/drepp-technologies/jobs/backend-qa",
    "kind": "board",
    "name": "Himalayas",
-   "posted_at": "2026-11-19T04:55:30Z",
-   "seen_at": "2026-11-19T05:05:54Z",
+   "posted_at": "2026-11-19T16:38:41Z",
+   "seen_at": "2026-11-19T17:55:53Z",
    "url": "https://himalayas.app/companies/drepp-technologies/jobs/backend-qa?utm_source=api"
   }
  ],
