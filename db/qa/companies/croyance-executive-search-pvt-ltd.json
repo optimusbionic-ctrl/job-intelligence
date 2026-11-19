@@ -1,0 +1,30 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-19T10:06:31Z",
+  "evidence": [
+   {
+    "detail": "Quality Assurance Engineer - QC, QA, Testing — Pune, Pimpri Chinchwad, Satara, Ahmednagar, Chakan, Maharashtra, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/quality-assurance-engineer-qc-qa-testing/croyance-executive-search-pvt-ltd/20098877",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-19T10:06:31Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "4db1a69642",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Croyance Executive Search Pvt. Ltd.",
+ "slug": "croyance-executive-search-pvt-ltd",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}

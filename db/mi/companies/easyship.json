@@ -16,7 +16,7 @@
     "Hong Kong",
     "Italy"
    ],
-   "india": 6,
+   "india": 4,
    "india_samples": [
     {
      "location": "Bangalore, India",
@@ -44,17 +44,17 @@
    "restricted_remote": 0,
    "restricted_samples": [],
    "slug": "easyship",
-   "total": 20,
+   "total": 18,
    "type": "greenhouse",
    "url": "https://boards.greenhouse.io/easyship",
    "worldwide": 0
   },
-  "changed_at": "2026-11-18T10:06:13Z",
+  "changed_at": "2026-11-19T10:08:58Z",
   "evidence": [
    {
     "detail": "Account Executive  (Bangalore, India); Customer Success Manager - Growth (Bengaluru, Karnataka, India); Senior Customer Success Manager (Bangalore)",
     "kind": "board",
-    "label": "6 of 20 open roles are located in India",
+    "label": "4 of 18 open roles are located in India",
     "url": "https://boards.greenhouse.io/easyship",
     "weight": 5
    }
@@ -62,8 +62,8 @@
   "first_checked_at": "2026-10-18T18:27:42Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "a4e8f0c608",
-  "summary": "6 of 20 open roles are located in India.",
+  "sig": "2b8c606827",
+  "summary": "4 of 18 open roles are located in India.",
   "verdict": "yes"
  },
  "inferred": true,
