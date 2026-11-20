@@ -1,0 +1,30 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-20T11:58:23Z",
+  "evidence": [
+   {
+    "detail": "Sap Qa Tester — Pune, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/sap-qa-tester/visdin-solutions/20023084",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-20T11:58:23Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "0e5125327d",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Visdin Solutions",
+ "slug": "visdin-solutions",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}

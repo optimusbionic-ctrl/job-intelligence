@@ -1,5 +1,5 @@
 {
- "avg": 6536092,
+ "avg": 6501704,
  "basis": "Interquartile range of posting midpoints, converted to INR at today's rate",
  "currency": "INR",
  "high": 10519187,
@@ -7,7 +7,7 @@
  "label": "Disclosed pay on remote QA postings (any region, this dataset)",
  "low": 3690829,
  "market": "Remote (global)",
- "n": 12,
+ "n": 13,
  "retrieved_at": "2026-11-20",
  "samples": [
   {
@@ -45,6 +45,15 @@
    "min": 35000,
    "title": "QA Tester",
    "url": "https://himalayas.app/companies/irium/jobs/qa-tester?utm_source=api"
+  },
+  {
+   "company": "TISTA Science and Technology Corporation",
+   "currency": "USD",
+   "location": "United States",
+   "max": 60250,
+   "min": 50075,
+   "title": "Manual Functional Tester",
+   "url": "https://himalayas.app/companies/tista-science-and-technology-corporation/jobs/manual-functional-tester?utm_source=api"
   },
   {
    "company": "9th Way Insignia",

@@ -1,0 +1,89 @@
+{
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/sap-qa-tester/visdin-solutions/20023084",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "Visdin Solutions",
+ "company_slug": "visdin-solutions",
+ "concerns": [
+  "Also asks for: API testing",
+  "Asks for 4+ years — you have about 2.5",
+  "Office outside Mumbai — relocation within India",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "e08f512ce2da",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-20T11:58:23Z",
+ "fit": 67,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "611206524cd64a",
+ "include_reason": "Manual / functional QA title",
+ "india": {
+  "cities": [
+   "Pune"
+  ],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "manual-qa",
+ "last_verified": "2026-11-20T11:58:23Z",
+ "location": "Pune, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-11-06T03:14:36Z",
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 60,
+  "company": 66,
+  "location": 78,
+  "seniority": 72,
+  "skill": 64
+ },
+ "seniority": "unspecified",
+ "snippet": "Experience: 4 to 8 Yrs\nSkills: SAP Fiori, API Testing, SoapUI, UFT One VBScript, SAP GUI, Webbased Automation Testing, UFT Framework development, UFT Reporting, RESTSOAP, Postman\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "20023084",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-11-06T03:14:36Z",
+   "seen_at": "2026-11-20T11:58:23Z",
+   "url": "https://www.shine.com/jobs/sap-qa-tester/visdin-solutions/20023084"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 3,
+ "title": "Sap Qa Tester",
+ "tools": [
+  "UI testing",
+  "API testing"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/sap-qa-tester/visdin-solutions/20023084",
+ "why": [
+  "Manual / functional QA — the core of your resume",
+  "Already on your resume: UI testing",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": 8,
+ "years_min": 4
+}

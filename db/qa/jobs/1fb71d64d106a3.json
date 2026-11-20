@@ -1,6 +1,6 @@
 {
  "apply_url": null,
- "board_apply": "https://www.shine.com/jobs/mutual-funds-tester-engineer/asia-placements/20044618",
+ "board_apply": "https://www.shine.com/jobs/mutual-funds-tester-engineer/asia-placements/20044687",
  "category": "Recruiter (client not named)",
  "comp_potential": "unknown",
  "company": "Asia Placements",
@@ -9,7 +9,7 @@
   "Pay not disclosed — ask for the range early"
  ],
  "contacts_count": 0,
- "content_hash": "69d7806f2d0e",
+ "content_hash": "83b4dceeb24b",
  "date_quality": "exact",
  "deadline": null,
  "employment": "full-time",
@@ -30,7 +30,7 @@
   "visa": false
  },
  "kind": "manual-qa",
- "last_verified": "2026-11-20T05:39:33Z",
+ "last_verified": "2026-11-20T11:58:23Z",
  "location": "Mumbai City, India",
  "logo": null,
  "needs_review": false,
@@ -53,16 +53,34 @@
   "skill": 50
  },
  "seniority": "unspecified",
- "snippet": "Experience: 2 to 6 Yrs\nSkills: mutual funds, tester, engineer\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "snippet": "Experience: 2 to 4 Yrs\nSkills: mutual funds, tester, engineer\n(Summary from the Shine.com listing; open the posting for the full description.)",
  "source_primary": "Shine.com",
  "sources": [
+  {
+   "id": "shine",
+   "job_id": "20044687",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-11-09T15:55:50Z",
+   "seen_at": "2026-11-20T11:58:23Z",
+   "url": "https://www.shine.com/jobs/mutual-funds-tester-engineer/asia-placements/20044687"
+  },
+  {
+   "id": "shine",
+   "job_id": "20044652",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-11-09T15:54:03Z",
+   "seen_at": "2026-11-20T11:58:23Z",
+   "url": "https://www.shine.com/jobs/mutual-funds-tester-engineer/asia-placements/20044652"
+  },
   {
    "id": "shine",
    "job_id": "20044618",
    "kind": "board",
    "name": "Shine.com",
    "posted_at": "2026-11-09T15:52:23Z",
-   "seen_at": "2026-11-20T05:39:33Z",
+   "seen_at": "2026-11-20T11:58:23Z",
    "url": "https://www.shine.com/jobs/mutual-funds-tester-engineer/asia-placements/20044618"
   }
  ],
@@ -73,13 +91,13 @@
  "tools": [],
  "track": "software",
  "updated_at": null,
- "url": "https://www.shine.com/jobs/mutual-funds-tester-engineer/asia-placements/20044618",
+ "url": "https://www.shine.com/jobs/mutual-funds-tester-engineer/asia-placements/20044687",
  "why": [
   "Manual / functional QA — the core of your resume",
-  "Asks for 2–6 years — you have about 2.5",
+  "Asks for 2–4 years — you have about 2.5",
   "Location lists India"
  ],
  "work_mode": "onsite",
- "years_max": 6,
+ "years_max": 4,
  "years_min": 2
 }
