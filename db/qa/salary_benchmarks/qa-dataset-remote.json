@@ -2,12 +2,12 @@
  "avg": 6536092,
  "basis": "Interquartile range of posting midpoints, converted to INR at today's rate",
  "currency": "INR",
- "high": 10519187,
+ "high": 11204730,
  "id": "qa-dataset-remote",
  "label": "Disclosed pay on remote QA postings (any region, this dataset)",
  "low": 6084075,
  "market": "Remote (global)",
- "n": 8,
+ "n": 10,
  "retrieved_at": "2026-11-20",
  "samples": [
   {
@@ -56,6 +56,15 @@
    "url": "https://himalayas.app/companies/micro1/jobs/ai-agent-tester?utm_source=api"
   },
   {
+   "company": "SpaceCoast AV Consultants, LLC",
+   "currency": "USD",
+   "location": "United States",
+   "max": 105000,
+   "min": 85000,
+   "title": "Quality Assurance Analyst",
+   "url": "https://himalayas.app/companies/spacecoast-av-consultants-llc/jobs/quality-assurance-analyst?utm_source=api"
+  },
+  {
    "company": "NTT DATA",
    "currency": "USD",
    "location": "United States",
@@ -72,6 +81,15 @@
    "min": 100000,
    "title": "QA Tester",
    "url": "https://himalayas.app/companies/opendatajobs/jobs/qa-tester?utm_source=api"
+  },
+  {
+   "company": "Xperteez Technology",
+   "currency": "USD",
+   "location": "United States",
+   "max": 140000,
+   "min": 100000,
+   "title": "QA Engineer",
+   "url": "https://himalayas.app/companies/xperteez-technology/jobs/qa-engineer?utm_source=api"
   },
   {
    "company": "Discord",
