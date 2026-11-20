@@ -68,6 +68,10 @@
    "at": "2026-11-18T19:34:22Z",
    "ats": null
   },
+  "ardhas": {
+   "at": "2026-11-20T02:11:23Z",
+   "ats": null
+  },
   "aristocratindia": {
    "at": "2026-11-10T22:47:54Z",
    "ats": null
@@ -446,6 +450,10 @@
   },
   "joyfulcraftsmen": {
    "at": "2026-11-18T23:25:22Z",
+   "ats": null
+  },
+  "kdci": {
+   "at": "2026-11-20T02:11:23Z",
    "ats": null
   },
   "kenshohrsolutions": {
@@ -970,10 +978,10 @@
   }
  },
  "counts": {
-  "closed": 11,
-  "keep": 54,
-  "live": 184,
-  "stale": 116
+  "closed": 18,
+  "keep": 58,
+  "live": 177,
+  "stale": 113
  },
- "updated_at": "2026-11-20T01:04:05Z"
+ "updated_at": "2026-11-20T02:12:58Z"
 }

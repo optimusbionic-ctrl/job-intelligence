@@ -3,20 +3,20 @@
  "classification": "Inferred from job description",
  "india_hiring": {
   "board": null,
-  "changed_at": "2026-11-20T01:01:58Z",
+  "changed_at": "2026-11-20T02:11:23Z",
   "evidence": [
    {
-    "detail": "Career Opportunity For Playwright Automation tester (Hyderabad) — Hyderabad, India",
+    "detail": "QA Automation Engineer (AI/Agentic Testing) (Delhi) — Delhi, India",
     "kind": "posting",
     "label": "A current posting lists India as a location",
-    "url": "https://www.shine.com/jobs/career-opportunity-for-playwright-automation-tester-hyderabad/tekskills/19887181",
+    "url": "https://www.shine.com/jobs/qa-automation-engineer-ai-agentic-testing-delhi/tekskills/20052913",
     "weight": 5
    }
   ],
   "first_checked_at": "2026-10-23T14:44:10Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "5f534ba568",
+  "sig": "6ce0611d94",
   "summary": "A current posting lists India as a location.",
   "verdict": "yes"
  },

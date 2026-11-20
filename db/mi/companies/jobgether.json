@@ -16,9 +16,9 @@
     "United Kingdom",
     "Spain",
     "Switzerland",
-    "France"
+    "Germany"
    ],
-   "india": 334,
+   "india": 336,
    "india_samples": [
     {
      "location": "India",
@@ -42,8 +42,8 @@
     }
    ],
    "open_samples": [],
-   "remote": 4050,
-   "restricted_remote": 3716,
+   "remote": 4053,
+   "restricted_remote": 3717,
    "restricted_samples": [
     {
      "location": "US",
@@ -67,17 +67,17 @@
     }
    ],
    "slug": "jobgether",
-   "total": 4051,
+   "total": 4054,
    "type": "lever",
    "url": "https://jobs.lever.co/jobgether",
    "worldwide": 0
   },
-  "changed_at": "2026-11-19T20:58:47Z",
+  "changed_at": "2026-11-20T02:12:58Z",
   "evidence": [
    {
     "detail": ".NET Tech Lead / Senior .NET Developer (India); AI Engineer (India); AI Forward Deployment Engineer (India)",
     "kind": "board",
-    "label": "334 of 4051 open roles are located in India",
+    "label": "336 of 4054 open roles are located in India",
     "url": "https://jobs.lever.co/jobgether",
     "weight": 5
    },
@@ -92,8 +92,8 @@
   "first_checked_at": "2026-11-19T20:06:27Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "f92ea8d0ee",
-  "summary": "334 of 4051 open roles are located in India.",
+  "sig": "96166f29ea",
+  "summary": "336 of 4054 open roles are located in India.",
   "verdict": "yes"
  },
  "inferred": true,
