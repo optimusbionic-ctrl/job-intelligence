@@ -1,10 +1,86 @@
 {
+ "ats": {
+  "slug": "jobgether",
+  "type": "lever"
+ },
  "category": "Game studio",
  "classification": "Inferred from job description",
  "india_hiring": {
-  "board": null,
-  "changed_at": "2026-11-19T23:44:22Z",
+  "board": {
+   "apac": 0,
+   "countries": [
+    "United States",
+    "India",
+    "Brazil",
+    "Canada",
+    "United Kingdom",
+    "Spain",
+    "Switzerland",
+    "France"
+   ],
+   "india": 334,
+   "india_samples": [
+    {
+     "location": "India",
+     "title": ".NET Tech Lead / Senior .NET Developer",
+     "url": "https://jobs.lever.co/jobgether/0cfb75cb-67d2-404c-87b1-32901eee9df3"
+    },
+    {
+     "location": "India",
+     "title": "AI Engineer",
+     "url": "https://jobs.lever.co/jobgether/b9f500fd-b38b-4aeb-ac21-aad8117f47cf"
+    },
+    {
+     "location": "India",
+     "title": "AI Forward Deployment Engineer",
+     "url": "https://jobs.lever.co/jobgether/5f1cdd30-3246-4db0-b676-42fafd1fe5fc"
+    },
+    {
+     "location": "India",
+     "title": "AI Infrastructure Metrics, Measurements & SOP Leader",
+     "url": "https://jobs.lever.co/jobgether/d4fdea0f-3a3b-4b59-b360-f9e52d6226f0"
+    }
+   ],
+   "open_samples": [],
+   "remote": 4050,
+   "restricted_remote": 3716,
+   "restricted_samples": [
+    {
+     "location": "US",
+     "title": "(Contractor) Senior Lead React Native Engineer",
+     "url": "https://jobs.lever.co/jobgether/846566db-150d-44bd-b05e-925df01c5a6f"
+    },
+    {
+     "location": "US",
+     "title": "(INT) Manager, EDI",
+     "url": "https://jobs.lever.co/jobgether/b355cb9d-4afd-40fa-8435-c1698aaf55c6"
+    },
+    {
+     "location": "Switzerland",
+     "title": "(Senior) FP&A Analyst",
+     "url": "https://jobs.lever.co/jobgether/34501531-53b9-4581-b3f8-e9fbaee72158"
+    },
+    {
+     "location": "Spain",
+     "title": "(Senior) FP&A Analyst",
+     "url": "https://jobs.lever.co/jobgether/5b4aa616-54d3-4f07-9e68-ff27dca342a3"
+    }
+   ],
+   "slug": "jobgether",
+   "total": 4051,
+   "type": "lever",
+   "url": "https://jobs.lever.co/jobgether",
+   "worldwide": 0
+  },
+  "changed_at": "2026-11-20T01:01:58Z",
   "evidence": [
+   {
+    "detail": ".NET Tech Lead / Senior .NET Developer (India); AI Engineer (India); AI Forward Deployment Engineer (India)",
+    "kind": "board",
+    "label": "334 of 4051 open roles are located in India",
+    "url": "https://jobs.lever.co/jobgether",
+    "weight": 5
+   },
    {
     "detail": "Video Game LQA Testing — All India",
     "kind": "posting",
@@ -16,8 +92,8 @@
   "first_checked_at": "2026-10-19T13:24:59Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "df3843c765",
-  "summary": "A current posting lists India as a location.",
+  "sig": "6e9b8b8a67",
+  "summary": "334 of 4051 open roles are located in India.",
   "verdict": "yes"
  },
  "inferred": true,
