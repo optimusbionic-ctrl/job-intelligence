@@ -2,14 +2,23 @@
  "avg": 6536092,
  "basis": "Interquartile range of posting midpoints, converted to INR at today's rate",
  "currency": "INR",
- "high": 11204730,
+ "high": 10519187,
  "id": "qa-dataset-remote",
  "label": "Disclosed pay on remote QA postings (any region, this dataset)",
- "low": 6084075,
+ "low": 3690829,
  "market": "Remote (global)",
- "n": 10,
+ "n": 12,
  "retrieved_at": "2026-11-20",
  "samples": [
+  {
+   "company": "Kwanii",
+   "currency": "PHP",
+   "location": "Philippines",
+   "max": 600000,
+   "min": 600000,
+   "title": "QA Analyst (WFH, Full-Time)",
+   "url": "https://himalayas.app/companies/kwanii/jobs/qa-analyst-wfh-full-time?utm_source=api"
+  },
   {
    "company": "Storware Sp. z o.o.",
    "currency": "PLN",
@@ -27,6 +36,15 @@
    "min": 28000,
    "title": "QA Tester / Analista Funcional",
    "url": "https://himalayas.app/companies/tecdata-engineering/jobs/qa-tester-analista-funcional?utm_source=api"
+  },
+  {
+   "company": "IRIUM",
+   "currency": "EUR",
+   "location": "Spain",
+   "max": 37000,
+   "min": 35000,
+   "title": "QA Tester",
+   "url": "https://himalayas.app/companies/irium/jobs/qa-tester?utm_source=api"
   },
   {
    "company": "9th Way Insignia",
