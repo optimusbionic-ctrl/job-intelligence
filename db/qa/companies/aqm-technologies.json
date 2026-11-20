@@ -3,20 +3,20 @@
  "classification": "Inferred from job description",
  "india_hiring": {
   "board": null,
-  "changed_at": "2026-11-20T13:09:21Z",
+  "changed_at": "2026-11-20T14:31:25Z",
   "evidence": [
    {
-    "detail": "Software Tester  Capital Markets — Mumbai City, India",
+    "detail": "Software Test Engineer | Capital Market Domain | Mumbai — Mumbai City, India",
     "kind": "posting",
     "label": "A current posting lists India as a location",
-    "url": "https://www.shine.com/jobs/software-tester-capital-markets/aqm-technologies/19864301",
+    "url": "https://www.shine.com/jobs/software-test-engineer-capital-market-domain-mumbai/aqm-technologies/19568715",
     "weight": 5
    }
   ],
   "first_checked_at": "2026-10-19T13:24:59Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "c16029a1a2",
+  "sig": "e47afbaa75",
   "summary": "A current posting lists India as a location.",
   "verdict": "yes"
  },

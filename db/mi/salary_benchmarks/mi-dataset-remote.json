@@ -7,7 +7,7 @@
  "label": "Disclosed pay on remote motion-design postings (any region, this dataset)",
  "low": 11698718,
  "market": "Remote (global)",
- "n": 13,
+ "n": 12,
  "retrieved_at": "2026-11-20",
  "samples": [
   {
@@ -81,15 +81,6 @@
    "min": 180000,
    "title": "Motion Designer",
    "url": "https://jobs.ashbyhq.com/Perplexity/39d520eb-6b81-4b61-8b23-5efcdac4cad9"
-  },
-  {
-   "company": "OpenAI",
-   "currency": "USD",
-   "location": "San Francisco (United States)",
-   "max": 230000,
-   "min": 207000,
-   "title": "Motion Design Producer",
-   "url": "https://jobs.ashbyhq.com/openai/db31bc85-f5ea-4703-ab78-46fcd67ac3a1"
   },
   {
    "company": "OpenAI",
