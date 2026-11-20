@@ -3,20 +3,20 @@
  "classification": "Inferred from job description",
  "india_hiring": {
   "board": null,
-  "changed_at": "2026-11-20T07:54:28Z",
+  "changed_at": "2026-11-20T11:02:00Z",
   "evidence": [
    {
-    "detail": "QA Engineer — Pune, India",
+    "detail": "Full-Stack Scientific Software Developer Plus QA Engineer — Pune, India",
     "kind": "posting",
     "label": "A current posting lists India as a location",
-    "url": "https://www.shine.com/jobs/qa-engineer/zecruiters-jobconnect-private-limited/19895896",
+    "url": "https://www.shine.com/jobs/full-stack-scientific-software-developer-plus-qa-engineer/zecruiters-jobconnect-private-limited/19901295",
     "weight": 5
    }
   ],
   "first_checked_at": "2026-10-23T14:44:10Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "c893b52a16",
+  "sig": "47ea47f99e",
   "summary": "A current posting lists India as a location.",
   "verdict": "yes"
  },

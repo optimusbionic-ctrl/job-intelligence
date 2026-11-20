@@ -42,8 +42,8 @@
     }
    ],
    "open_samples": [],
-   "remote": 4588,
-   "restricted_remote": 4197,
+   "remote": 4611,
+   "restricted_remote": 4220,
    "restricted_samples": [
     {
      "location": "US",
@@ -67,17 +67,17 @@
     }
    ],
    "slug": "jobgether",
-   "total": 4589,
+   "total": 4612,
    "type": "lever",
    "url": "https://jobs.lever.co/jobgether",
    "worldwide": 0
   },
-  "changed_at": "2026-11-20T10:04:19Z",
+  "changed_at": "2026-11-20T11:04:12Z",
   "evidence": [
    {
     "detail": ".NET Tech Lead / Senior .NET Developer (India); AEO/GEO Lead (Technical AI Search) (India); AI Delivery Manager (India)",
     "kind": "board",
-    "label": "391 of 4589 open roles are located in India",
+    "label": "391 of 4612 open roles are located in India",
     "url": "https://jobs.lever.co/jobgether",
     "weight": 5
    },
@@ -92,8 +92,8 @@
   "first_checked_at": "2026-11-19T20:06:27Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "48ba963fb7",
-  "summary": "391 of 4589 open roles are located in India.",
+  "sig": "706ca1f705",
+  "summary": "391 of 4612 open roles are located in India.",
   "verdict": "yes"
  },
  "inferred": true,

@@ -7,11 +7,10 @@
  "company_slug": "agile-technology",
  "concerns": [
   "Also asks for: Programming",
-  "Pay not disclosed — ask for the range early",
-  "Reposted / refreshed listing — original posting is older"
+  "Pay not disclosed — ask for the range early"
  ],
  "contacts_count": 0,
- "content_hash": "5ccc7e313565",
+ "content_hash": "2a952e4cc7b6",
  "date_quality": "exact",
  "deadline": null,
  "employment": "full-time",
@@ -32,13 +31,13 @@
   "visa": false
  },
  "kind": "qa-engineer",
- "last_verified": "2026-11-20T07:54:28Z",
+ "last_verified": "2026-11-20T11:02:00Z",
  "location": "Mumbai City, India",
  "logo": null,
  "needs_review": false,
  "official": false,
- "posted_at": "2026-11-06T01:50:28Z",
- "repost": true,
+ "posted_at": "2026-11-03T05:44:22Z",
+ "repost": false,
  "requirements": [],
  "responsibilities": [],
  "salary": {
@@ -62,8 +61,17 @@
    "kind": "board",
    "name": "Shine.com",
    "posted_at": "2026-11-06T01:50:28Z",
-   "seen_at": "2026-11-20T07:54:28Z",
+   "seen_at": "2026-11-20T11:02:00Z",
    "url": "https://www.shine.com/jobs/software-test-engineer-sambhajinagar/agile-technology/20018027"
+  },
+  {
+   "id": "shine",
+   "job_id": "19997083",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-11-03T05:44:22Z",
+   "seen_at": "2026-11-20T11:02:00Z",
+   "url": "https://www.shine.com/jobs/software-test-engineer-engine-software-automation-and-control-qa/agile-technology/19997083"
   }
  ],
  "specializations": [],

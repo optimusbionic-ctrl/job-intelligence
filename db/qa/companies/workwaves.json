@@ -3,20 +3,20 @@
  "classification": "Inferred from job description",
  "india_hiring": {
   "board": null,
-  "changed_at": "2026-11-20T07:54:28Z",
+  "changed_at": "2026-11-20T11:02:00Z",
   "evidence": [
    {
-    "detail": "Software Tester - Software Testing, Java Developer — Ahmednagar, Dhubri, Bhubaneswar, Ahmedabad, Chandigarh, Asansol, India",
+    "detail": "Software Tester — Ahmednagar, Dhubri, Chandigarh, Bhubaneswar, Ahmedabad, Asansol, India",
     "kind": "posting",
     "label": "A current posting lists India as a location",
-    "url": "https://www.shine.com/jobs/software-tester-software-testing-java-developer/workwaves/20070843",
+    "url": "https://www.shine.com/jobs/software-tester/workwaves/20011661",
     "weight": 5
    }
   ],
   "first_checked_at": "2026-10-19T13:24:59Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "5e6756fd38",
+  "sig": "067a70b865",
   "summary": "A current posting lists India as a location.",
   "verdict": "yes"
  },

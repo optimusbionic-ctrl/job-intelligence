@@ -48,17 +48,17 @@
    "restricted_remote": 0,
    "restricted_samples": [],
    "slug": "glance",
-   "total": 26,
+   "total": 27,
    "type": "greenhouse",
    "url": "https://boards.greenhouse.io/glance",
    "worldwide": 0
   },
-  "changed_at": "2026-11-20T03:24:02Z",
+  "changed_at": "2026-11-20T11:04:12Z",
   "evidence": [
    {
     "detail": "Applied Scientist II - Recommendation (Bangalore); Applied Scientist III - Recommendation Systems  (Bangalore); Consultant - AI Governance Specialist (bangalore)",
     "kind": "board",
-    "label": "14 of 26 open roles are located in India",
+    "label": "14 of 27 open roles are located in India",
     "url": "https://boards.greenhouse.io/glance",
     "weight": 5
    },
@@ -80,7 +80,7 @@
   "first_checked_at": "2026-10-15T16:19:24Z",
   "india_based": true,
   "method": "Careers board, posting text",
-  "sig": "0df5e1b603",
+  "sig": "c353d7a00a",
   "summary": "Glance is headquartered in India.",
   "verdict": "yes"
  },
