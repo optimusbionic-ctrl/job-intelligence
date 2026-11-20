@@ -1,22 +1,24 @@
 {
  "apply_url": null,
- "board_apply": "https://jobs.workable.com/view/87RWVdhPgJPqa7raYj4PJk/qa-engineer-in-bengaluru-at-weekday-ai",
- "category": "Other",
- "comp_potential": "listed_good",
+ "board_apply": "https://jobs.workable.com/view/uHMnzHiBmbazQsFY7ERP6s/qa-engineer-in-bengaluru-at-weekday-ai",
+ "category": "Product / SaaS",
+ "comp_potential": "unknown",
  "company": "Weekday AI",
  "company_slug": "weekday-ai",
  "concerns": [
   "Mentions test automation — be ready to discuss it or show a small script",
-  "Also asks for: API testing, Programming",
-  "Office outside Mumbai — relocation within India"
+  "Also asks for: API testing, SQL / databases, Programming",
+  "Office outside Mumbai — relocation within India",
+  "Pay not disclosed — ask for the range early",
+  "Reposted / refreshed listing — original posting is older"
  ],
  "contacts_count": 0,
- "content_hash": "dae484c5653c",
+ "content_hash": "b662f8f271d3",
  "date_quality": "exact",
  "deadline": null,
  "employment": "full-time",
  "first_seen": "2026-11-03T18:02:49Z",
- "fit": 77,
+ "fit": 80,
  "has_hiring_manager": false,
  "has_named_contact": false,
  "has_public_email": false,
@@ -32,106 +34,72 @@
   "visa": false
  },
  "kind": "qa-engineer",
- "last_verified": "2026-11-16T09:44:50Z",
+ "last_verified": "2026-11-20T07:54:28Z",
  "location": "Bengaluru, Karnataka, India",
  "logo": "https://workablehr.s3.amazonaws.com/uploads/account/logo/691818/logo",
  "needs_review": false,
  "official": false,
- "posted_at": "2026-11-14T16:24:20Z",
- "repost": false,
- "requirements": [
-  "● 2+ years of QA experience with strong exposure to manual testing.",
-  "● Hands-on experience in Selenium WebDriver with Java and understanding of POM / Hybrid frameworks.",
-  "● Experience with API testing & automation using Postman, Rest Assured, or similar tools.",
-  "● Good understanding of SDLC, STLC, Defect Lifecycle, and Agile processes.",
-  "● Excellent communication skills and ability to work independently in a fast-paced environment.",
-  "● Highly proactive, self-driven, and ownership-oriented.",
-  "manual testing, Selenium Web Driver, Java"
- ],
- "responsibilities": [
-  "● Design, execute, and maintain manual and automated test cases for web and API components.",
-  "● Perform API testing and automation using tools like Postman, REST Assured, or similar.",
-  "● Collaborate with Product Managers and Developers to review requirements and define clear acceptance criteria.",
-  "● Conduct functional, regression, integration, and UAT testing for new and existing product features.",
-  "● Identify, document, and track defects using JIRA and ensure proper root cause analysis.",
-  "● Maintain test data, test documentation, and ensure traceability across all test activities.",
-  "● Participate in Product walkthroughs and daily stand-ups."
- ],
+ "posted_at": "2026-11-20T06:58:57Z",
+ "repost": true,
+ "requirements": [],
+ "responsibilities": [],
  "salary": {
-  "applies_india": true,
-  "basis": "listed",
-  "currency": "INR",
-  "fx_at": "Mon, 16 Nov 2026 00:02:31 +0000",
-  "fx_rate": 1.0,
-  "inr_max": 1200000,
-  "inr_min": 600000,
-  "max": 1200000,
-  "min": 600000,
-  "note": "Listed in the posting",
-  "original_period": "annual",
-  "period": "annual",
-  "source_name": "Workable job marketplace",
-  "source_url": "https://jobs.workable.com/view/87RWVdhPgJPqa7raYj4PJk/qa-engineer-in-bengaluru-at-weekday-ai",
-  "state": "verified",
-  "verified_at": "2026-11-16T09:44:50Z"
+  "state": "unavailable"
  },
  "scores": {
-  "ai": 58,
-  "comp": 100,
-  "company": 66,
+  "ai": 84,
+  "comp": 60,
+  "company": 95,
   "location": 60,
   "seniority": 100,
-  "skill": 74
+  "skill": 76
  },
  "seniority": "unspecified",
- "snippet": "This role is for one of Weekday’s clients\nSalary range: Rs 600000 - Rs 1200000 (ie INR 6 - 12 LPA) \n\nMin Experience: 2+ years\nLocation: Bengaluru, Karnataka, India\nJobType: full-time\n\n Key Responsibilities: \n ● Design, execute, and maintain manual and automated test cases for web and API components. \n ● Perform API testing and automation using tools like Postman, REST Assured, or similar. \n ● Collaborate with Product",
+ "snippet": "This role is for one of Weekday’s clients \n\nMin Experience: 2+ years\nLocation: Bengaluru\nJobType: full-time\n\n We are looking for a QA Engineer to automate critical user journeys and ensure high-quality releases across our web, Android, and iOS platforms. If you have hands-on experience with Playwright, TypeScript/JavaScript, and AI-powered testing, we want to hear from you. \n\n 𝗪𝗵𝗮𝘁 𝗬𝗼𝘂'𝗹𝗹 𝗗𝗼\n\n• Participate in require",
  "source_primary": "Workable job marketplace",
  "sources": [
   {
    "id": "workable",
-   "job_id": "39a536ce-0ad3-4c06-b5b8-96659747ce8b",
+   "job_id": "e89556ae-16ef-4d02-a37e-cb050532bc20",
    "kind": "board",
    "name": "Workable job marketplace",
-   "posted_at": "2026-11-16T09:22:50Z",
-   "seen_at": "2026-11-16T09:44:50Z",
-   "url": "https://jobs.workable.com/view/87RWVdhPgJPqa7raYj4PJk/qa-engineer-in-bengaluru-at-weekday-ai"
-  },
-  {
-   "id": "workable",
-   "job_id": "f49251f6-9df8-4455-8d5b-21444e5ae13a",
-   "kind": "board",
-   "name": "Workable job marketplace",
-   "posted_at": "2026-11-14T16:24:20Z",
-   "seen_at": "2026-11-16T09:44:50Z",
-   "url": "https://jobs.workable.com/view/wcDhDitiTQLBn8y3DqiMLE/remote-qa-engineer-in-india-at-weekday-ai"
+   "posted_at": "2026-11-20T06:58:57Z",
+   "seen_at": "2026-11-20T07:54:28Z",
+   "url": "https://jobs.workable.com/view/uHMnzHiBmbazQsFY7ERP6s/qa-engineer-in-bengaluru-at-weekday-ai"
   }
  ],
- "specializations": [],
+ "specializations": [
+  "Android",
+  "iOS",
+  "Mobile apps",
+  "Web apps"
+ ],
  "status": "active",
- "tier": 3,
+ "tier": 1,
  "title": "QA Engineer",
  "tools": [
   "Regression testing",
+  "Smoke testing",
+  "Exploratory testing",
   "Test cases & scenarios",
   "Bug reporting",
-  "Jira",
-  "Google Sheets / Excel",
   "API testing",
+  "SQL / databases",
   "Test automation",
-  "Programming",
-  "Agile / Scrum"
+  "Programming"
  ],
  "track": "software",
  "updated_at": null,
- "url": "https://jobs.workable.com/view/87RWVdhPgJPqa7raYj4PJk/qa-engineer-in-bengaluru-at-weekday-ai",
+ "url": "https://jobs.workable.com/view/uHMnzHiBmbazQsFY7ERP6s/qa-engineer-in-bengaluru-at-weekday-ai",
  "why": [
   "QA / test engineer role",
-  "Already on your resume: Regression testing, Test cases & scenarios, Bug reporting, Jira, Google Sheets / Excel",
-  "Asks for 2+ years — you have about 2.5",
-  "Pay is listed in the posting",
-  "Location lists India"
+  "Already on your resume: Regression testing, Smoke testing, Exploratory testing, Test cases & scenarios, Bug reporting",
+  "Platforms you test on: Android, iOS, Mobile apps",
+  "Product / SaaS company",
+  "Location lists India",
+  "Asks for 2–3 years — you have about 2.5"
  ],
  "work_mode": "onsite",
- "years_max": null,
+ "years_max": 3,
  "years_min": 2
 }

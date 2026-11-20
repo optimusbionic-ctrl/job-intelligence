@@ -10,20 +10,25 @@
    "apac": 0,
    "countries": [
     "United States",
-    "Brazil",
     "India",
+    "Brazil",
     "Canada",
     "Germany",
     "United Kingdom",
     "Spain",
     "Switzerland"
    ],
-   "india": 373,
+   "india": 391,
    "india_samples": [
     {
      "location": "India",
      "title": ".NET Tech Lead / Senior .NET Developer",
      "url": "https://jobs.lever.co/jobgether/0cfb75cb-67d2-404c-87b1-32901eee9df3"
+    },
+    {
+     "location": "India",
+     "title": "AEO/GEO Lead (Technical AI Search)",
+     "url": "https://jobs.lever.co/jobgether/90a1453b-1cf2-4956-910a-a70f4f45b0a7"
     },
     {
      "location": "India",
@@ -34,16 +39,11 @@
      "location": "India",
      "title": "AI Engineer",
      "url": "https://jobs.lever.co/jobgether/b9f500fd-b38b-4aeb-ac21-aad8117f47cf"
-    },
-    {
-     "location": "India",
-     "title": "AI Forward Deployment Engineer",
-     "url": "https://jobs.lever.co/jobgether/5f1cdd30-3246-4db0-b676-42fafd1fe5fc"
     }
    ],
    "open_samples": [],
-   "remote": 4391,
-   "restricted_remote": 4018,
+   "remote": 4491,
+   "restricted_remote": 4100,
    "restricted_samples": [
     {
      "location": "US",
@@ -67,17 +67,17 @@
     }
    ],
    "slug": "jobgether",
-   "total": 4392,
+   "total": 4492,
    "type": "lever",
    "url": "https://jobs.lever.co/jobgether",
    "worldwide": 0
   },
-  "changed_at": "2026-11-20T06:38:41Z",
+  "changed_at": "2026-11-20T07:56:24Z",
   "evidence": [
    {
-    "detail": ".NET Tech Lead / Senior .NET Developer (India); AI Delivery Manager (India); AI Engineer (India)",
+    "detail": ".NET Tech Lead / Senior .NET Developer (India); AEO/GEO Lead (Technical AI Search) (India); AI Delivery Manager (India)",
     "kind": "board",
-    "label": "373 of 4392 open roles are located in India",
+    "label": "391 of 4492 open roles are located in India",
     "url": "https://jobs.lever.co/jobgether",
     "weight": 5
    },
@@ -92,8 +92,8 @@
   "first_checked_at": "2026-11-19T20:06:27Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "66b9904dc3",
-  "summary": "373 of 4392 open roles are located in India.",
+  "sig": "ae21250669",
+  "summary": "391 of 4492 open roles are located in India.",
   "verdict": "yes"
  },
  "inferred": true,
