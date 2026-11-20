@@ -14,8 +14,8 @@
    "india": 0,
    "india_samples": [],
    "open_samples": [],
-   "remote": 17,
-   "restricted_remote": 17,
+   "remote": 18,
+   "restricted_remote": 18,
    "restricted_samples": [
     {
      "location": "San Francisco • New York City • Los Angeles",
@@ -39,17 +39,17 @@
     }
    ],
    "slug": "nen-creative",
-   "total": 29,
+   "total": 30,
    "type": "ashby",
    "url": "https://jobs.ashbyhq.com/nen-creative",
    "worldwide": 0
   },
-  "changed_at": "2026-11-10T21:34:53Z",
+  "changed_at": "2026-11-20T21:25:05Z",
   "evidence": [
    {
-    "detail": "None are located in India or open worldwide; 17 remote roles are limited to named countries",
+    "detail": "None are located in India or open worldwide; 18 remote roles are limited to named countries",
     "kind": "board",
-    "label": "All 29 open roles are in United States",
+    "label": "All 30 open roles are in United States",
     "url": "https://jobs.ashbyhq.com/nen-creative",
     "weight": -3
    }
@@ -57,8 +57,8 @@
   "first_checked_at": "2026-11-10T21:34:53Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "640213260a",
-  "summary": "All 29 open roles are in United States. None are located in India or open worldwide; 17 remote roles are limited to named countries.",
+  "sig": "b1fefd71f1",
+  "summary": "All 30 open roles are in United States. None are located in India or open worldwide; 18 remote roles are limited to named countries.",
   "verdict": "no"
  },
  "inferred": true,
