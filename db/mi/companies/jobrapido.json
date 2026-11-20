@@ -3,20 +3,20 @@
  "classification": "Inferred from job description",
  "india_hiring": {
   "board": null,
-  "changed_at": "2026-11-20T17:32:46Z",
+  "changed_at": "2026-11-20T19:39:28Z",
   "evidence": [
    {
-    "detail": "Motion Graphics — Bangalore, India",
+    "detail": "Senior Motion Graphics Designer — Bangalore, India",
     "kind": "posting",
     "label": "A current posting lists India as a location",
-    "url": "https://www.shine.com/jobs/motion-graphics/jobrapido/19595768",
+    "url": "https://www.shine.com/jobs/senior-motion-graphics-designer/jobrapido/19569473",
     "weight": 5
    }
   ],
   "first_checked_at": "2026-11-19T20:06:27Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "8b291ee314",
+  "sig": "c930c13320",
   "summary": "A current posting lists India as a location.",
   "verdict": "yes"
  },
