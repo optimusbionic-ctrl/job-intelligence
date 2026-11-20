@@ -1,0 +1,31 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-20T13:09:21Z",
+  "evidence": [
+   {
+    "detail": "Freelance Game Tester (PS5) — India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://himalayas.app/companies/pole-to-win-international/jobs/freelance-game-tester-ps5?utm_source=api",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-20T13:09:21Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "b1846bedb8",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "logo": "https://cdn-images.himalayas.app/bjv749hefvaj3nwcmavfy202pfg9",
+ "name": "Pole To Win International",
+ "slug": "pole-to-win-international",
+ "tier": 3,
+ "tracks": [
+  "game"
+ ]
+}
