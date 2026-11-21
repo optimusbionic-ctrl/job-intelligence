@@ -1,0 +1,85 @@
+{
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/quality-assurance-analyst-ipqa-qa-validation/shamisha-resources-management-llp/20111212",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "Shamisha Resources Management LLP",
+ "company_slug": "shamisha-resources-management-llp",
+ "concerns": [
+  "Entry-level role — pay may be at the lower end",
+  "Office outside Mumbai — relocation within India",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "3a0f3eac2087",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-21T18:16:12Z",
+ "fit": 65,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "99d41a8111b780",
+ "include_reason": "Manual / functional QA title",
+ "india": {
+  "cities": [],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "manual-qa",
+ "last_verified": "2026-11-21T18:16:12Z",
+ "location": "Ahmedabad, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-11-20T12:13:41Z",
+ "repost": false,
+ "requirements": [
+  "(Summary from the Shine.com listing; open the posting for the full description.)"
+ ],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 60,
+  "company": 66,
+  "location": 80,
+  "seniority": 80,
+  "skill": 50
+ },
+ "seniority": "unspecified",
+ "snippet": "Experience: 0 Yrs\nSkills: ipqa, qa, validation, inprocess\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "20111212",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-11-20T12:13:41Z",
+   "seen_at": "2026-11-21T18:16:12Z",
+   "url": "https://www.shine.com/jobs/quality-assurance-analyst-ipqa-qa-validation/shamisha-resources-management-llp/20111212"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 3,
+ "title": "Quality Assurance Analyst - Ipqa, QA, Validation",
+ "tools": [],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/quality-assurance-analyst-ipqa-qa-validation/shamisha-resources-management-llp/20111212",
+ "why": [
+  "Manual / functional QA — the core of your resume",
+  "Asks for 0+ years — you have about 2.5",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": null,
+ "years_min": 0
+}

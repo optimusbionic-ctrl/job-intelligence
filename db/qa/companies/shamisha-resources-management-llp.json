@@ -1,0 +1,30 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-21T18:16:12Z",
+  "evidence": [
+   {
+    "detail": "Quality Assurance Analyst - Ipqa, QA, Validation — Ahmedabad, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/quality-assurance-analyst-ipqa-qa-validation/shamisha-resources-management-llp/20111212",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-21T18:16:12Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "952f75791d",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Shamisha Resources Management LLP",
+ "slug": "shamisha-resources-management-llp",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}

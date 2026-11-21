@@ -3,20 +3,20 @@
  "classification": "Inferred from job description",
  "india_hiring": {
   "board": null,
-  "changed_at": "2026-10-23T04:43:53Z",
+  "changed_at": "2026-11-21T18:16:12Z",
   "evidence": [
    {
-    "detail": "Automation Tester — Pune, Hyderabad, India",
+    "detail": "Java QA Engineer — Bangalore, India",
     "kind": "posting",
     "label": "A current posting lists India as a location",
-    "url": "https://www.shine.com/jobs/automation-tester/alphacom-systems-and-solutions-pvt-ltd/19895662",
+    "url": "https://www.shine.com/jobs/java-qa-engineer/alphacom-systems-and-solutions-pvt-ltd/20028676",
     "weight": 5
    }
   ],
   "first_checked_at": "2026-10-23T04:43:53Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "fe1a80f904",
+  "sig": "d6a9a7b1c9",
   "summary": "A current posting lists India as a location.",
   "verdict": "yes"
  },

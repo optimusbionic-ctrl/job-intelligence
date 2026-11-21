@@ -1,0 +1,98 @@
+{
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/java-qa-engineer/alphacom-systems-and-solutions-pvt-ltd/20028676",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "Alphacom Systems and Solutions Pvt Ltd",
+ "company_slug": "alphacom-systems-and-solutions-pvt-ltd",
+ "concerns": [
+  "Also asks for: Programming",
+  "Office outside Mumbai — relocation within India",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "35605f041c1d",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-21T18:16:12Z",
+ "fit": 64,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "06bfcbc2652e58",
+ "include_reason": "QA / test engineer title",
+ "india": {
+  "cities": [
+   "Bengaluru"
+  ],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "qa-engineer",
+ "last_verified": "2026-11-21T18:16:12Z",
+ "location": "Bangalore, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-11-06T16:30:03Z",
+ "repost": false,
+ "requirements": [
+  "(Summary from the Shine.com listing; open the posting for the full description.)"
+ ],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 60,
+  "company": 66,
+  "location": 60,
+  "seniority": 100,
+  "skill": 43
+ },
+ "seniority": "unspecified",
+ "snippet": "Experience: 2 to 7 Yrs\nSkills: java, qa\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "20028676",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-11-06T16:36:17Z",
+   "seen_at": "2026-11-21T18:16:12Z",
+   "url": "https://www.shine.com/jobs/java-qa-engineer/alphacom-systems-and-solutions-pvt-ltd/20028676"
+  },
+  {
+   "id": "shine",
+   "job_id": "20028586",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-11-06T16:30:03Z",
+   "seen_at": "2026-11-21T18:16:12Z",
+   "url": "https://www.shine.com/jobs/java-qa-engineer/alphacom-systems-and-solutions-pvt-ltd/20028586"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 3,
+ "title": "Java QA Engineer",
+ "tools": [
+  "Programming"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/java-qa-engineer/alphacom-systems-and-solutions-pvt-ltd/20028676",
+ "why": [
+  "QA / test engineer role",
+  "Asks for 2–7 years — you have about 2.5",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": 7,
+ "years_min": 2
+}
