@@ -2,7 +2,7 @@
  "alerts_count": 0,
  "changed_count": 0,
  "closed_count": 22,
- "duration_s": 92.8,
+ "duration_s": 76.0,
  "enrichment": {
   "careers_emails": 0,
   "dates_estimated": 0,
@@ -11,21 +11,21 @@
   "searches": 0
  },
  "excluded_counts": {
-  "Adjacent title without substantial motion work": 31,
-  "Character / film / game animation": 11,
-  "Generic product/UX designer (no motion specialisation in title)": 42,
-  "Graphic / illustration role": 31,
-  "Intern / junior / entry level": 22,
-  "Junior experience requirement": 3,
-  "Not a design role": 49,
-  "Not a motion role": 234,
-  "Not open to India": 93,
-  "Older than window": 260,
-  "Pure video editing role": 75,
-  "Social content role": 1,
+  "Adjacent title without substantial motion work": 37,
+  "Character / film / game animation": 13,
+  "Generic product/UX designer (no motion specialisation in title)": 57,
+  "Graphic / illustration role": 34,
+  "Intern / junior / entry level": 21,
+  "Junior experience requirement": 4,
+  "Not a design role": 48,
+  "Not a motion role": 280,
+  "Not open to India": 101,
+  "Older than window": 259,
+  "Pure video editing role": 79,
+  "Social content role": 3,
   "Staffing agency listing — employer not identified": 17,
   "Talent pool / not a specific opening": 2,
-  "Unpaid / volunteer": 1
+  "Unpaid / volunteer": 3
  },
  "excluded_samples": [
   {
@@ -48,6 +48,27 @@
    "source": "Himalayas",
    "title": "Freelance Senior Animator",
    "url": "https://himalayas.app/companies/outpost-vfx-com/jobs/freelance-senior-animator?utm_source=api"
+  },
+  {
+   "company": "Silverback Strategies",
+   "reason": "Not open to India: Restricted to United States",
+   "source": "Himalayas",
+   "title": "Senior Motion & Graphic Designer",
+   "url": "https://himalayas.app/companies/silverback-strategies/jobs/senior-motion-graphic-designer-3888715816?utm_source=api"
+  },
+  {
+   "company": "DotYeti Design",
+   "reason": "Not open to India: Restricted to Brazil",
+   "source": "Himalayas",
+   "title": "Senior Motion Graphic Designer",
+   "url": "https://himalayas.app/companies/dotyeti-design/jobs/senior-motion-graphic-designer-5252290785?utm_source=api"
+  },
+  {
+   "company": "Symphony Solutions",
+   "reason": "Not open to India: Restricted to Poland",
+   "source": "Himalayas",
+   "title": "Senior Motion Designer",
+   "url": "https://himalayas.app/companies/symphonysol/jobs/senior-motion-designer?utm_source=api"
   },
   {
    "company": "dentsu international",
@@ -99,11 +120,18 @@
    "url": "https://himalayas.app/companies/wolf-games/jobs/senior-video-editor-ai-motion-designer?utm_source=api"
   },
   {
-   "company": "WorkStaff360",
-   "reason": "Not open to India: Restricted to Pakistan",
+   "company": "BrainStack",
+   "reason": "Not open to India: Restricted to Ukraine",
    "source": "Himalayas",
-   "title": "URGENT: Video Editor and Motion Graphics Artist",
-   "url": "https://himalayas.app/companies/workstaff360/jobs/urgent-video-editor-and-motion-graphics-artist?utm_source=api"
+   "title": "Motion Designer [Astrology]",
+   "url": "https://himalayas.app/companies/brainstack-net/jobs/motion-designer-astrology?utm_source=api"
+  },
+  {
+   "company": "NewGen",
+   "reason": "Not open to India: Restricted to United States",
+   "source": "Himalayas",
+   "title": "Freelance Motion Designer / Animator",
+   "url": "https://himalayas.app/companies/newgen/jobs/freelance-motion-designer-animator?utm_source=api"
   },
   {
    "company": "Superside",
@@ -111,13 +139,6 @@
    "source": "Himalayas",
    "title": "Lead Creative (Motion Design)",
    "url": "https://himalayas.app/companies/superside/jobs/lead-creative-motion-design?utm_source=api"
-  },
-  {
-   "company": "Pavago",
-   "reason": "Not open to India: Restricted to Pakistan",
-   "source": "Himalayas",
-   "title": "Animator / Motion Graphics Designer",
-   "url": "https://himalayas.app/companies/pavago/jobs/animator-motion-graphics-designer-9945445038?utm_source=api"
   },
   {
    "company": "Remote VA",
@@ -134,11 +155,39 @@
    "url": "https://himalayas.app/companies/remote-va/jobs/video-animator?utm_source=api"
   },
   {
-   "company": "Clinch",
-   "reason": "Not open to India: Restricted to Philippines",
+   "company": "Creatio",
+   "reason": "Junior experience requirement",
    "source": "Himalayas",
    "title": "Motion Designer",
-   "url": "https://himalayas.app/companies/clinch/jobs/motion-designer?utm_source=api"
+   "url": "https://himalayas.app/companies/creatio/jobs/motion-designer?utm_source=api"
+  },
+  {
+   "company": "Bjak",
+   "reason": "Not open to India: Restricted to South Korea",
+   "source": "Himalayas",
+   "title": "Motion Designer (UX/Interface)",
+   "url": "https://himalayas.app/companies/bjak/jobs/motion-designer-ux-interface-5914552737?utm_source=api"
+  },
+  {
+   "company": "Hire Overseas",
+   "reason": "Not open to India: Restricted to Anguilla, Antigua and Barbuda, Argentina, Aruba, Bahamas, Ba",
+   "source": "Himalayas",
+   "title": "Creative Designer (Static and Motion) (BBS935)",
+   "url": "https://himalayas.app/companies/hire-overseas/jobs/creative-designer-static-and-motion-bbs935?utm_source=api"
+  },
+  {
+   "company": "Hire Overseas",
+   "reason": "Not open to India: Restricted to Anguilla, Antigua and Barbuda, Argentina, Aruba, Bahamas, Ba",
+   "source": "Himalayas",
+   "title": "Creative Designer (Static and Motion) (BBS922)",
+   "url": "https://himalayas.app/companies/hire-overseas/jobs/creative-designer-static-and-motion-bbs922?utm_source=api"
+  },
+  {
+   "company": "Hook",
+   "reason": "Not open to India: Restricted to United States",
+   "source": "Himalayas",
+   "title": "Motion Designer II",
+   "url": "https://himalayas.app/companies/hook-co/jobs/motion-designer-ii?utm_source=api"
   },
   {
    "company": "Superside",
@@ -295,13 +344,6 @@
    "url": "https://jobs.workable.com/view/hhyRFWX99bWSGXhEG31qMJ/remote-senior-motion-designer-in-dubai-at-fuse-energy"
   },
   {
-   "company": "Quandela",
-   "reason": "Intern / junior / entry level",
-   "source": "Workable job marketplace",
-   "title": "Video Editor and Motion Design Intern (H1/2027)",
-   "url": "https://jobs.workable.com/view/tqoFJwTm8CeVmimLQpRjBq/video-editor-and-motion-design-intern-(h1%2F2027)-in-massy-at-quandela"
-  },
-  {
    "company": "Lifely",
    "reason": "Not open to India: Restricted to Malaysia",
    "source": "Workable job marketplace",
@@ -330,13 +372,6 @@
    "url": "https://www.shine.com/jobs/junior-senior-graphic-designer-motion-graphics-designer/kreata-global/20079260"
   },
   {
-   "company": "Reliance Games",
-   "reason": "Character / film / game animation",
-   "source": "Shine.com",
-   "title": "Animator - 2D",
-   "url": "https://www.shine.com/jobs/animator-2d/reliance-games/19865506"
-  },
-  {
    "company": "Digituala Lab Enterprise",
    "reason": "Character / film / game animation",
    "source": "Shine.com",
@@ -356,6 +391,13 @@
    "source": "Shine.com",
    "title": "2d Spine Animator",
    "url": "https://www.shine.com/jobs/2d-spine-animator/xopple-infotech-pvt-ltd/20025993"
+  },
+  {
+   "company": "Reliance Games",
+   "reason": "Character / film / game animation",
+   "source": "Shine.com",
+   "title": "Animator - 2D",
+   "url": "https://www.shine.com/jobs/animator-2d/reliance-games/19865506"
   },
   {
    "company": "prayan animation studio pvt. ltd.",
@@ -407,13 +449,6 @@
    "url": "https://jobs.ashbyhq.com/openai/30b0a80b-8421-4847-a670-5bd09920c4ce"
   },
   {
-   "company": "OpenAI",
-   "reason": "Not open to India: Remote but limited to San Francisco (United States)",
-   "source": "OpenAI careers (Ashby)",
-   "title": "Motion Design Producer",
-   "url": "https://jobs.ashbyhq.com/openai/db31bc85-f5ea-4703-ab78-46fcd67ac3a1"
-  },
-  {
    "company": "Perplexity",
    "reason": "Not open to India: Remote but limited to New York City • Remote (United States) • San Franc",
    "source": "Perplexity careers (Ashby)",
@@ -446,14 +481,28 @@
    "reason": "Character / film / game animation",
    "source": "Epic Games careers (Greenhouse)",
    "title": "Lead Technical Animator",
-   "url": "https://epicgames.com/careers/jobs/6203698004?gh_jid=6203698004"
+   "url": "https://epicgames.com/careers/jobs/6203696004?gh_jid=6203696004"
   },
   {
    "company": "Epic Games",
    "reason": "Character / film / game animation",
    "source": "Epic Games careers (Greenhouse)",
    "title": "Lead Technical Animator",
-   "url": "https://epicgames.com/careers/jobs/6203696004?gh_jid=6203696004"
+   "url": "https://epicgames.com/careers/jobs/6203698004?gh_jid=6203698004"
+  },
+  {
+   "company": "Epic Games",
+   "reason": "Character / film / game animation",
+   "source": "Epic Games careers (Greenhouse)",
+   "title": "Principal Animator",
+   "url": "https://epicgames.com/careers/jobs/6266520004?gh_jid=6266520004"
+  },
+  {
+   "company": "Epic Games",
+   "reason": "Character / film / game animation",
+   "source": "Epic Games careers (Greenhouse)",
+   "title": "Principal Animator",
+   "url": "https://epicgames.com/careers/jobs/6242257004?gh_jid=6242257004"
   },
   {
    "company": "Raisin",
@@ -485,13 +534,6 @@
   },
   {
    "company": "Thinkingbox",
-   "reason": "Not open to India: On-site outside India (Vancouver), no sponsorship stated",
-   "source": "Thinkingbox careers (Lever)",
-   "title": "Art Director, Motion - The Heist",
-   "url": "https://jobs.lever.co/thinkingbox/99dffe00-de83-4ffd-b562-f82fdeb89ceb"
-  },
-  {
-   "company": "Thinkingbox",
    "reason": "Not open to India: On-site outside India (Toronto), no sponsorship stated",
    "source": "Thinkingbox careers (Lever)",
    "title": "Creative Director, Motion - The Heist",
@@ -503,13 +545,6 @@
    "source": "Thinkingbox careers (Lever)",
    "title": "Creative Director, Motion - The Heist",
    "url": "https://jobs.lever.co/thinkingbox/40829438-ce46-4d26-8e7d-f6f5a671dfa4"
-  },
-  {
-   "company": "Thinkingbox",
-   "reason": "Not open to India: On-site outside India (Chicago), no sponsorship stated",
-   "source": "Thinkingbox careers (Lever)",
-   "title": "Creative Director, Motion - The Heist",
-   "url": "https://jobs.lever.co/thinkingbox/4e8187da-120a-4667-8f61-10ecb6e488b8"
   },
   {
    "company": "Pure",
@@ -540,13 +575,6 @@
    "url": "https://job-boards.greenhouse.io/landor/jobs/8264320"
   },
   {
-   "company": "LEVEL Studios",
-   "reason": "Not open to India: On-site outside India (Austin, TX (United States)), no sponsorship stated",
-   "source": "LEVEL Studios careers (Ashby)",
-   "title": "Staff UI Artist, Art and Motion Graphics",
-   "url": "https://jobs.ashbyhq.com/level/2fff9383-2a6a-45ee-9ca3-090eec5179ad"
-  },
-  {
    "company": "Luma AI",
    "reason": "Not open to India: Remote but limited to Los Angeles, CA (United States)",
    "source": "Luma AI careers (Ashby)",
@@ -562,24 +590,10 @@
   },
   {
    "company": "Ruby Labs",
-   "reason": "Not open to India: Remote but limited to Ukraine • Moldova • Albania • Kazakhstan • Montene",
-   "source": "Ruby Labs careers (Ashby)",
-   "title": "2D Graphic and Motion Designer",
-   "url": "https://jobs.ashbyhq.com/ruby-labs/c42453d0-67aa-4b22-b813-e2966b1cdb5f"
-  },
-  {
-   "company": "Ruby Labs",
    "reason": "Intern / junior / entry level",
    "source": "Ruby Labs careers (Ashby)",
    "title": "Junior Motion Designer",
    "url": "https://jobs.ashbyhq.com/ruby-labs/9713cce2-2048-452a-b83f-dab60be69dcf"
-  },
-  {
-   "company": "Universe",
-   "reason": "Intern / junior / entry level",
-   "source": "Universe careers (Ashby)",
-   "title": "Junior AI Motion Designer",
-   "url": "https://jobs.ashbyhq.com/universe/c0afc5e7-bd76-41ee-96dc-00a078138a0f"
   },
   {
    "company": "Universe",
@@ -601,6 +615,13 @@
    "source": "Universe careers (Ashby)",
    "title": "AI Motion designer",
    "url": "https://jobs.ashbyhq.com/universe/3a3d0685-6e8b-4717-b356-5581eaa635f5"
+  },
+  {
+   "company": "Universe",
+   "reason": "Not open to India: Remote but limited to Remote (Ukraine)",
+   "source": "Universe careers (Ashby)",
+   "title": "Motion Designer",
+   "url": "https://jobs.ashbyhq.com/universe/f579be0a-f2c4-408e-9993-9bce1932f6dd"
   },
   {
    "company": "TIGI HR",
@@ -757,28 +778,28 @@
    "url": "https://www.jobtarget.com/jobs/jt-foehbw1qz7/senior-motion-designer-india"
   }
  ],
- "finished_at": "2026-11-19T07:24:51Z",
+ "finished_at": "2026-11-21T12:23:41Z",
  "fx": {
-  "as_of": "Thu, 19 Nov 2026 00:02:31 +0000",
+  "as_of": "Fri, 20 Nov 2026 00:02:32 +0000",
   "source": "https://open.er-api.com/v6/latest/USD (ExchangeRate-API open access)",
-  "usd_inr": 93.513568
+  "usd_inr": 93.372746
  },
- "id": "20261119T072318Z",
+ "id": "20261121T122225Z",
  "india_checks": {
-  "companies": 129,
-  "roles_clarified": 4,
+  "companies": 145,
+  "roles_clarified": 3,
   "verdicts": {
    "likely": 2,
    "no": 5,
-   "unclear": 50,
-   "yes": 72
+   "unclear": 51,
+   "yes": 87
   },
   "web_checked": 0
  },
- "kept": 128,
+ "kept": 131,
  "new_count": 0,
  "pipeline_version": "2.1.0",
- "raw_count": 1023,
+ "raw_count": 1112,
  "source_status": {
   "ashby": {
    "boards": 89,
@@ -788,12 +809,12 @@
   },
   "cutshort": {
    "fetched": 45,
-   "ms": 44259,
+   "ms": 37544,
    "ok": true
   },
   "dribbble": {
-   "fetched": 31,
-   "ms": 14956,
+   "fetched": 30,
+   "ms": 11193,
    "ok": true
   },
   "greenhouse": {
@@ -802,48 +823,48 @@
     "nothing: HTTP 404 for https://boards-api.greenhouse.io/v1/boards/nothing/jobs: b''"
    ],
    "errors": 1,
-   "fetched": 58,
+   "fetched": 60,
    "ok": true
   },
   "himalayas": {
-   "fetched": 176,
-   "ms": 35188,
+   "fetched": 249,
+   "ms": 13675,
    "ok": true
   },
   "hn": {
    "fetched": 1,
-   "ms": 6753,
+   "ms": 6473,
    "ok": true
   },
   "jobicy": {
-   "fetched": 138,
-   "ms": 4446,
+   "fetched": 147,
+   "ms": 3190,
    "ok": true
   },
   "lever": {
-   "boards": 19,
+   "boards": 20,
    "errors": 0,
-   "fetched": 11,
+   "fetched": 9,
    "ok": true
   },
   "motionographer": {
    "fetched": 1,
-   "ms": 347,
+   "ms": 202,
    "ok": true
   },
   "remoteok": {
-   "fetched": 218,
-   "ms": 8107,
+   "fetched": 221,
+   "ms": 6922,
    "ok": true
   },
   "remotive": {
    "fetched": 16,
-   "ms": 4961,
+   "ms": 4390,
    "ok": true
   },
   "shine": {
-   "fetched": 22,
-   "ms": 27258,
+   "fetched": 25,
+   "ms": 12347,
    "ok": true
   },
   "smartrecruiters": {
@@ -853,20 +874,20 @@
    "ok": true
   },
   "workable": {
-   "fetched": 57,
-   "ms": 23568,
+   "fetched": 56,
+   "ms": 21970,
    "ok": true
   },
   "workingnomads": {
-   "fetched": 36,
-   "ms": 315,
+   "fetched": 35,
+   "ms": 224,
    "ok": true
   },
   "wwr": {
-   "fetched": 17,
-   "ms": 242,
+   "fetched": 21,
+   "ms": 167,
    "ok": true
   }
  },
- "started_at": "2026-11-19T07:23:18Z"
+ "started_at": "2026-11-21T12:22:25Z"
 }
