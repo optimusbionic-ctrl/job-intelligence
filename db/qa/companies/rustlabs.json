@@ -1,0 +1,30 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-21T07:07:54Z",
+  "evidence": [
+   {
+    "detail": "Image Edit QA Reviewer (Photoshop), AI Training (USD 1.5/task) — Argentina, Bangladesh, Brazil, Colombia, Egypt, Ghana, India, Mexico, Nigeria, Philippines, Sri Lanka, Vietnam",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://himalayas.app/companies/rustlabs/jobs/image-edit-qa-reviewer-photoshop-ai-training-usd-1-5-task?utm_source=api",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-21T07:07:54Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "f3821e6322",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "RustLabs",
+ "slug": "rustlabs",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}

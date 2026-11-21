@@ -1,0 +1,27 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-21T07:09:48Z",
+  "evidence": [
+   {
+    "detail": "Motion Graphics Designer - Video Editing, Videography — Mumbai City, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/motion-graphics-designer-video-editing-videography/xcel-hr-solutions/20114125",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-21T07:09:48Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "199f49ac96",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Xcel HR Solutions",
+ "slug": "xcel-hr-solutions",
+ "tier": 3
+}

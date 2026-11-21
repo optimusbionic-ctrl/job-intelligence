@@ -1,0 +1,88 @@
+{
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/automation-testing-professional/clifyx-technology/20105979",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "Clifyx Technology",
+ "company_slug": "clifyx-technology",
+ "concerns": [
+  "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
+  "Also asks for: API testing, Programming",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "24c7c58c1344",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-21T07:07:54Z",
+ "fit": 64,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "49f3437cc93eca",
+ "include_reason": "Automation-heavy QA (SDET)",
+ "india": {
+  "cities": [
+   "Mumbai"
+  ],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "automation",
+ "last_verified": "2026-11-21T07:07:54Z",
+ "location": "Mumbai City, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-11-20T10:29:13Z",
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 60,
+  "company": 66,
+  "location": 100,
+  "seniority": 100,
+  "skill": 24
+ },
+ "seniority": "unspecified",
+ "snippet": "Experience: 0 to 4 Yrs\nSkills: JavaScript, test automation tools, Playwright, API automation, REST API testing, endtoend testing\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "20105979",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-11-20T10:29:13Z",
+   "seen_at": "2026-11-21T07:07:54Z",
+   "url": "https://www.shine.com/jobs/automation-testing-professional/clifyx-technology/20105979"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 3,
+ "title": "Automation testing Professional",
+ "tools": [
+  "API testing",
+  "Test automation",
+  "Programming"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/automation-testing-professional/clifyx-technology/20105979",
+ "why": [
+  "Asks for 0–4 years — you have about 2.5",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": 4,
+ "years_min": 0
+}
