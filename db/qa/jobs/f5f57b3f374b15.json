@@ -1,0 +1,94 @@
+{
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/urgent-hiring-software-test-engineer/flywings-hr-services/20106059",
+ "category": "Recruiter (client not named)",
+ "comp_potential": "unknown",
+ "company": "Flywings Hr Services",
+ "company_slug": "flywings-hr-services",
+ "concerns": [
+  "Mentions test automation — be ready to discuss it or show a small script",
+  "Also asks for: SQL / databases, Programming",
+  "Office outside Mumbai — relocation within India",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "54cc47e2c1a7",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-21T11:21:31Z",
+ "fit": 74,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "f5f57b3f374b15",
+ "include_reason": "QA / test engineer title",
+ "india": {
+  "cities": [
+   "Pune"
+  ],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "qa-engineer",
+ "last_verified": "2026-11-21T11:21:31Z",
+ "location": "Pune, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-11-20T10:30:11Z",
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 60,
+  "company": 66,
+  "location": 78,
+  "seniority": 100,
+  "skill": 67
+ },
+ "seniority": "unspecified",
+ "snippet": "Experience: 0 to 4 Yrs\nSkills: Manual Testing, Automation Testing, Selenium, Java, SDLC, STLC, bug reporting, SQL, functional testing, test case writing\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "20106059",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-11-20T10:30:11Z",
+   "seen_at": "2026-11-21T11:21:31Z",
+   "url": "https://www.shine.com/jobs/urgent-hiring-software-test-engineer/flywings-hr-services/20106059"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 3,
+ "title": "Urgent Hiring Software Test Engineer",
+ "tools": [
+  "Functional testing",
+  "Test cases & scenarios",
+  "Bug reporting",
+  "SQL / databases",
+  "Test automation",
+  "Programming"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/urgent-hiring-software-test-engineer/flywings-hr-services/20106059",
+ "why": [
+  "QA / test engineer role",
+  "Already on your resume: Functional testing, Test cases & scenarios, Bug reporting",
+  "Asks for 0–4 years — you have about 2.5",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": 4,
+ "years_min": 0
+}

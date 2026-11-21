@@ -1,0 +1,30 @@
+{
+ "category": "Recruiter (client not named)",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-21T11:21:31Z",
+  "evidence": [
+   {
+    "detail": "Urgent Hiring Software Test Engineer — Pune, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/urgent-hiring-software-test-engineer/flywings-hr-services/20106059",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-21T11:21:31Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "da70cc1ce5",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Flywings Hr Services",
+ "slug": "flywings-hr-services",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}
