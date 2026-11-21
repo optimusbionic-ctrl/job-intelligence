@@ -1,0 +1,30 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-21T04:56:07Z",
+  "evidence": [
+   {
+    "detail": "Software Test Engineer — Pune, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/software-test-engineer/ample-softech-system/20113407",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-21T04:56:07Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "5f8efd01f4",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Ample Softech System",
+ "slug": "ample-softech-system",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}
