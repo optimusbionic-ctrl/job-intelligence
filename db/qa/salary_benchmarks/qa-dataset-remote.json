@@ -1,13 +1,13 @@
 {
- "avg": 6536092,
+ "avg": 6084075,
  "basis": "Interquartile range of posting midpoints, converted to INR at today's rate",
  "currency": "INR",
- "high": 8870411,
+ "high": 10519187,
  "id": "qa-dataset-remote",
  "label": "Disclosed pay on remote QA postings (any region, this dataset)",
- "low": 3690829,
+ "low": 2870645,
  "market": "Remote (global)",
- "n": 12,
+ "n": 11,
  "retrieved_at": "2026-11-21",
  "samples": [
   {
@@ -81,15 +81,6 @@
    "min": 50000,
    "title": "AI Agent Tester – Remote (Worldwide)",
    "url": "https://himalayas.app/companies/remotejobsone/jobs/ai-agent-tester-remote-worldwide?utm_source=api"
-  },
-  {
-   "company": "SpaceCoast AV Consultants, LLC",
-   "currency": "USD",
-   "location": "United States",
-   "max": 105000,
-   "min": 85000,
-   "title": "Quality Assurance Analyst",
-   "url": "https://himalayas.app/companies/spacecoast-av-consultants-llc/jobs/quality-assurance-analyst?utm_source=api"
   },
   {
    "company": "NTT DATA",
