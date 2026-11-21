@@ -2,19 +2,20 @@
  "apply_url": null,
  "board_apply": "https://himalayas.app/companies/micro1/jobs/ai-agent-tester?utm_source=api",
  "category": "Other",
- "comp_potential": "listed_global",
+ "comp_potential": "unknown",
  "company": "micro1",
  "company_slug": "micro1",
  "concerns": [
+  "Pay not disclosed — ask for the range early",
   "Contract role"
  ],
  "contacts_count": 0,
- "content_hash": "6ea72246dd57",
+ "content_hash": "10c67fa0205e",
  "date_quality": "exact",
  "deadline": "2027-01-15T16:20:47Z",
  "employment": "contract",
  "first_seen": "2026-11-16T16:45:02Z",
- "fit": 73,
+ "fit": 70,
  "has_hiring_manager": false,
  "has_named_contact": false,
  "has_public_email": false,
@@ -28,7 +29,7 @@
   "visa": false
  },
  "kind": "manual-qa",
- "last_verified": "2026-11-16T16:45:02Z",
+ "last_verified": "2026-11-21T22:18:23Z",
  "location": "Worldwide",
  "logo": "https://cdn-images.himalayas.app/91oa56akgt3qjqc1nh3uoruub40c",
  "needs_review": false,
@@ -42,26 +43,11 @@
   "Run real-life scenarios: bills, returns, email follow-ups, bookings, shopping, groceries, travel, family logistics, outings, and forms"
  ],
  "salary": {
-  "applies_india": "unconfirmed",
-  "basis": "listed",
-  "currency": "USD",
-  "fx_at": "Mon, 16 Nov 2026 00:02:31 +0000",
-  "fx_rate": 94.3996,
-  "inr_max": 8495966,
-  "inr_min": 4719981,
-  "max": 90000,
-  "min": 50000,
-  "note": "Listed for a worldwide-remote role; confirm it applies to India-based hires",
-  "original_period": "hourly",
-  "period": "annual",
-  "source_name": "Himalayas",
-  "source_url": "https://himalayas.app/companies/micro1/jobs/ai-agent-tester?utm_source=api",
-  "state": "verified",
-  "verified_at": "2026-11-16T16:45:02Z"
+  "state": "unavailable"
  },
  "scores": {
   "ai": 58,
-  "comp": 96,
+  "comp": 60,
   "company": 66,
   "location": 86,
   "seniority": 100,
@@ -77,7 +63,7 @@
    "kind": "board",
    "name": "Himalayas",
    "posted_at": "2026-11-16T16:20:47Z",
-   "seen_at": "2026-11-16T16:45:02Z",
+   "seen_at": "2026-11-21T22:18:23Z",
    "url": "https://himalayas.app/companies/micro1/jobs/ai-agent-tester?utm_source=api"
   }
  ],
@@ -92,7 +78,6 @@
  "why": [
   "Manual / functional QA — the core of your resume",
   "Asks for 2–3 years — you have about 2.5",
-  "Pay is listed in the posting",
   "Worldwide remote"
  ],
  "work_mode": "remote",
