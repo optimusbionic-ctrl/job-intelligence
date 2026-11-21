@@ -1,0 +1,90 @@
+{
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/mindstix-software-labs-quality-analyst-manual-testing-pune/mindstix-software-labs/20108811",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "Mindstix Software Labs",
+ "company_slug": "mindstix-software-labs",
+ "concerns": [
+  "Also asks for: API testing",
+  "Office outside Mumbai — relocation within India",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "acffc6725469",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-21T21:17:07Z",
+ "fit": 78,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "b4fc7d62132d90",
+ "include_reason": "Manual / functional QA title",
+ "india": {
+  "cities": [
+   "Pune"
+  ],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "manual-qa",
+ "last_verified": "2026-11-21T21:17:07Z",
+ "location": "Pune, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-11-20T11:28:38Z",
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 64,
+  "comp": 60,
+  "company": 66,
+  "location": 78,
+  "seniority": 100,
+  "skill": 79
+ },
+ "seniority": "unspecified",
+ "snippet": "Experience: 2 to 6 Yrs\nSkills: manual testing, API testing, exploratory testing, test planning, SDLC, STLC, JSON, crossplatform consistency, testing methodologies, test documentation\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "20108811",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-11-20T11:28:38Z",
+   "seen_at": "2026-11-21T21:17:07Z",
+   "url": "https://www.shine.com/jobs/mindstix-software-labs-quality-analyst-manual-testing-pune/mindstix-software-labs/20108811"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 3,
+ "title": "Mindstix Software Labs Quality Analyst Manual Testing (Pune)",
+ "tools": [
+  "Exploratory testing",
+  "Test cases & scenarios",
+  "API testing"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/mindstix-software-labs-quality-analyst-manual-testing-pune/mindstix-software-labs/20108811",
+ "why": [
+  "Manual / functional QA — the core of your resume",
+  "Already on your resume: Exploratory testing, Test cases & scenarios",
+  "Asks for 2–6 years — you have about 2.5",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": 6,
+ "years_min": 2
+}

@@ -1,0 +1,30 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-21T21:17:07Z",
+  "evidence": [
+   {
+    "detail": "Mindstix Software Labs Quality Analyst Manual Testing (Pune) — Pune, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/mindstix-software-labs-quality-analyst-manual-testing-pune/mindstix-software-labs/20108811",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-21T21:17:07Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "161695ac10",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Mindstix Software Labs",
+ "slug": "mindstix-software-labs",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}
