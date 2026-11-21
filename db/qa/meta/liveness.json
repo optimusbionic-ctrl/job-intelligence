@@ -770,6 +770,10 @@
    "at": "2026-11-10T22:47:54Z",
    "ats": null
   },
+  "studynow": {
+   "at": "2026-11-21T00:23:00Z",
+   "ats": null
+  },
   "sumatosoft": {
    "at": "2026-11-10T06:32:44Z",
    "ats": null
@@ -982,10 +986,10 @@
   }
  },
  "counts": {
-  "closed": 14,
-  "keep": 46,
-  "live": 184,
+  "closed": 11,
+  "keep": 61,
+  "live": 172,
   "stale": 116
  },
- "updated_at": "2026-11-20T23:24:17Z"
+ "updated_at": "2026-11-21T00:24:41Z"
 }
