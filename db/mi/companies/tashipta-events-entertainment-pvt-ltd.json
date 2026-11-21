@@ -1,0 +1,27 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-21T08:29:37Z",
+  "evidence": [
+   {
+    "detail": "Senior Motion Graphic Designer — Mumbai City, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/senior-motion-graphic-designer/tashipta-events-entertainment-pvt-ltd/20106572",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-21T08:29:37Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "86dc1e1a43",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Tashipta Events & Entertainment Pvt Ltd",
+ "slug": "tashipta-events-entertainment-pvt-ltd",
+ "tier": 3
+}
