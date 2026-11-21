@@ -10,8 +10,8 @@
    "apac": 0,
    "countries": [
     "India",
-    "United States",
-    "Netherlands"
+    "Netherlands",
+    "United States"
    ],
    "india": 7,
    "india_samples": [
@@ -37,8 +37,8 @@
     }
    ],
    "open_samples": [],
-   "remote": 5,
-   "restricted_remote": 4,
+   "remote": 4,
+   "restricted_remote": 3,
    "restricted_samples": [
     {
      "location": "Remote - Netherlands or Portgual",
@@ -54,25 +54,20 @@
      "location": "Remote - US",
      "title": "Sr. Partner Relationship Manager, Agencies",
      "url": "https://www.contentstack.com/company/careers/8010026003?gh_jid=8010026003"
-    },
-    {
-     "location": "Remote - US",
-     "title": "Sr. Product Marketing Manager, Content Cloud",
-     "url": "https://www.contentstack.com/company/careers/7989312003?gh_jid=7989312003"
     }
    ],
    "slug": "contentstack",
-   "total": 13,
+   "total": 12,
    "type": "greenhouse",
    "url": "https://boards.greenhouse.io/contentstack",
    "worldwide": 0
   },
-  "changed_at": "2026-11-18T08:41:54Z",
+  "changed_at": "2026-11-21T17:22:08Z",
   "evidence": [
    {
     "detail": "AI-Native Software Engineer (Chennai); Data Architect - Business Intelligence  (Bangalore (Hybrid)); Principal Engineer - DevOps (India - Pune)",
     "kind": "board",
-    "label": "7 of 13 open roles are located in India",
+    "label": "7 of 12 open roles are located in India",
     "url": "https://boards.greenhouse.io/contentstack",
     "weight": 5
    },
@@ -87,8 +82,8 @@
   "first_checked_at": "2026-11-03T18:34:57Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "c2366f597d",
-  "summary": "7 of 13 open roles are located in India.",
+  "sig": "bf7cb671f7",
+  "summary": "7 of 12 open roles are located in India.",
   "verdict": "yes"
  },
  "inferred": true,
