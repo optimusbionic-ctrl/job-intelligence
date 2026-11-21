@@ -1,0 +1,30 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-21T23:15:30Z",
+  "evidence": [
+   {
+    "detail": "QA Tester — Bhopal, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/qa-tester/alphawizz-technologies-pvt-ltd/20089954",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-21T23:15:30Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "83a5718f5c",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Alphawizz Technologies Pvt. Ltd.",
+ "slug": "alphawizz-technologies-pvt-ltd",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}

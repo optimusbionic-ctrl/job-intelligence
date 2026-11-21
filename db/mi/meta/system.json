@@ -6,24 +6,24 @@
   "usd_inr": 93.372746
  },
  "india_checks": {
-  "companies": 144,
+  "companies": 145,
   "roles_clarified": 3,
   "verdicts": {
    "likely": 2,
    "no": 5,
    "unclear": 51,
-   "yes": 86
+   "yes": 87
   },
   "web_checked": 0
  },
  "last_run": {
-  "alerts_count": 0,
-  "closed_count": 23,
-  "finished_at": "2026-11-21T22:21:25Z",
-  "id": "20261121T222004Z",
-  "kept": 130,
-  "new_count": 0,
-  "raw_count": 1045
+  "alerts_count": 1,
+  "closed_count": 22,
+  "finished_at": "2026-11-21T23:18:53Z",
+  "id": "20261121T231725Z",
+  "kept": 131,
+  "new_count": 1,
+  "raw_count": 1023
  },
  "monitor": {
   "cadence": "every 3 hours",
@@ -37,5 +37,5 @@
   "trigger_id": "trig_01AcYzMU7L1j3u73f9kfZhgY"
  },
  "pipeline_version": "2.1.0",
- "updated_at": "2026-11-21T22:21:26Z"
+ "updated_at": "2026-11-21T23:18:53Z"
 }

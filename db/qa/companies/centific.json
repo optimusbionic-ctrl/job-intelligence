@@ -1,0 +1,30 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-21T23:15:30Z",
+  "evidence": [
+   {
+    "detail": "Software QA Tester 3 — Hyderabad, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/software-qa-tester-3/centific/20108439",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-21T23:15:30Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "eba6e41ed8",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Centific",
+ "slug": "centific",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}

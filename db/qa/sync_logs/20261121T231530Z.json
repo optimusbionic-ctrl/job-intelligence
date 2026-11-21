@@ -1,8 +1,8 @@
 {
- "alerts_count": 0,
- "changed_count": 5,
- "closed_count": 11,
- "duration_s": 91.7,
+ "alerts_count": 5,
+ "changed_count": 1,
+ "closed_count": 14,
+ "duration_s": 113.9,
  "enrichment": {
   "careers_emails": 0,
   "dates_estimated": 0,
@@ -11,42 +11,35 @@
   "searches": 0
  },
  "excluded_counts": {
-  "AI training / data labelling": 1,
+  "AI training / data labelling": 7,
   "Asks for 10+ years": 3,
-  "Asks for 18+ years": 1,
+  "Asks for 18+ years": 2,
   "Asks for 19+ years": 1,
-  "Asks for 5+ years": 20,
-  "Asks for 6+ years": 21,
+  "Asks for 5+ years": 15,
+  "Asks for 6+ years": 23,
   "Asks for 7+ years": 12,
   "Asks for 8+ years": 1,
-  "Call-centre / process quality role": 4,
-  "Data / ETL testing (SQL-heavy)": 3,
-  "Hardware / embedded testing": 7,
-  "Internship / trainee": 13,
-  "Needs a language other than English or Hindi": 57,
-  "Not open to India": 101,
-  "Not software QA (manufacturing, pharma, construction…)": 26,
-  "Older than window": 153,
+  "Call-centre / process quality role": 6,
+  "Data / ETL testing (SQL-heavy)": 5,
+  "Hardware / embedded testing": 8,
+  "Internship / trainee": 15,
+  "Needs a language other than English or Hindi": 44,
+  "Not open to India": 81,
+  "Not software QA (manufacturing, pharma, construction…)": 31,
+  "Older than window": 154,
   "Security / penetration testing": 1,
-  "Senior / lead level": 135,
+  "Senior / lead level": 129,
   "Staffing agency listing — employer not identified": 4,
-  "Support role": 3,
+  "Support role": 1,
   "Talent pool / not a specific opening": 2
  },
  "excluded_samples": [
   {
-   "company": "HARJAI COMPUTERS PRIVATE LIMITED",
+   "company": "Nameless",
    "reason": "Asks for 5+ years",
    "source": "Shine.com",
-   "title": "Automation Tester",
-   "url": "https://www.shine.com/jobs/automation-tester/harjai-computers-private-limited/20003607"
-  },
-  {
-   "company": "HARJAI COMPUTERS PRIVATE LIMITED",
-   "reason": "Asks for 5+ years",
-   "source": "Shine.com",
-   "title": "Automation Tester",
-   "url": "https://www.shine.com/jobs/automation-tester/harjai-computers-private-limited/20003507"
+   "title": "Tester (India)",
+   "url": "https://www.shine.com/jobs/tester-india/nameless/20102201"
   },
   {
    "company": "reliance games",
@@ -63,11 +56,25 @@
    "url": "https://www.shine.com/jobs/associate-lead-manual-game-tester-navi-mumbai/gametion-technologies/19595905"
   },
   {
+   "company": "Bootup Nexware Private Limited",
+   "reason": "Asks for 7+ years",
+   "source": "Shine.com",
+   "title": "Windchill Tester",
+   "url": "https://www.shine.com/jobs/windchill-tester/bootup-nexware-private-limited/20085586"
+  },
+  {
    "company": "The Elite Job",
    "reason": "Asks for 18+ years",
    "source": "Shine.com",
    "title": "Remote Entry-Level Game Tester (Freshers Welcome)",
    "url": "https://www.shine.com/jobs/remote-entry-level-game-tester-freshers-welcome/the-elite-job/20050821"
+  },
+  {
+   "company": "Testvox",
+   "reason": "Asks for 5+ years",
+   "source": "Shine.com",
+   "title": "Mobile Automation Tester  Playwright  ID 414803",
+   "url": "https://www.shine.com/jobs/mobile-automation-tester-playwright-job-id/testvox/19918875"
   },
   {
    "company": "EXCELON SOLUTIONS PRIVATE LIMITED",
@@ -98,11 +105,11 @@
    "url": "https://www.shine.com/jobs/qa-manager/md-shakeel-ahamed/20028257"
   },
   {
-   "company": "Yusho Corporation",
-   "reason": "Not software QA (manufacturing, pharma, construction…)",
+   "company": "Icogz Pvt Ltd",
+   "reason": "Internship / trainee",
    "source": "Shine.com",
-   "title": "QA/QC Inspector",
-   "url": "https://www.shine.com/jobs/qa-qc-inspector/yusho-corporation/20011462"
+   "title": "QA & Testing Intern",
+   "url": "https://www.shine.com/jobs/qa-testing-intern/icogz-pvt-ltd/20101037"
   },
   {
    "company": "Edstate Learning",
@@ -133,25 +140,11 @@
    "url": "https://www.shine.com/jobs/qa-lead-corporate-banking-and-payments/quality-kiosk-software-llp/20040297"
   },
   {
-   "company": "Bootup Nexware Private Limited",
-   "reason": "Asks for 7+ years",
+   "company": "Darwin Recruitment",
+   "reason": "Asks for 6+ years",
    "source": "Shine.com",
-   "title": "Windchill Tester",
-   "url": "https://www.shine.com/jobs/windchill-tester/bootup-nexware-private-limited/20085586"
-  },
-  {
-   "company": "KSB ENTERPRISE",
-   "reason": "Hardware / embedded testing",
-   "source": "Shine.com",
-   "title": "Software Developer - Software Testing, Hardware Testing, Hardware Development",
-   "url": "https://www.shine.com/jobs/software-developer-software-testing-hardware-testing-hardware-development/ksb-enterprise/20082782"
-  },
-  {
-   "company": "INTELLICS GLOBAL SERVICES PRIVATE LIMITED",
-   "reason": "Senior / lead level",
-   "source": "Shine.com",
-   "title": "Senior Software Tester - Selenium, Testing",
-   "url": "https://www.shine.com/jobs/senior-software-tester-selenium-testing/intellics-global-services-private-limited/20081595"
+   "title": "QA Test Engineer (Automation)",
+   "url": "https://www.shine.com/jobs/qa-test-engineer-automation/darwin-recruitment/20072777"
   },
   {
    "company": "Upsurge Infotech",
@@ -161,6 +154,20 @@
    "url": "https://www.shine.com/jobs/software-test-engineer-intern-mumbai/upsurge-infotech/20038082"
   },
   {
+   "company": "Instinct Innovations",
+   "reason": "Internship / trainee",
+   "source": "Shine.com",
+   "title": "Software Testing - Internship",
+   "url": "https://www.shine.com/jobs/software-testing-internship/instinct-innovations/20074743"
+  },
+  {
+   "company": "Vervali Systems Pvt Ltd",
+   "reason": "Data / ETL testing (SQL-heavy)",
+   "source": "Shine.com",
+   "title": "Manual QA Tester (API & Database Testing)",
+   "url": "https://www.shine.com/jobs/manual-qa-tester-api-database-testing/vervali-systems-pvt-ltd/20108536"
+  },
+  {
    "company": "Ernst u0026 Young LLP ( EY India )",
    "reason": "Asks for 6+ years",
    "source": "Shine.com",
@@ -168,11 +175,18 @@
    "url": "https://www.shine.com/jobs/manual-functional-tester-banking-applications-mumbai/ernst-u0026-young-llp-ey-india/20057789"
   },
   {
-   "company": "REIS Staffing & HR Services Pvt Ltd",
-   "reason": "Asks for 5+ years",
+   "company": "Flywings HR Services",
+   "reason": "Hardware / embedded testing",
    "source": "Shine.com",
-   "title": "QA Engineer",
-   "url": "https://www.shine.com/jobs/qa-engineer/reis-staffing-hr-services-pvt-ltd/20000000"
+   "title": "Urgent hiring Manual Tester -(Telecom Domain) (Pune)",
+   "url": "https://www.shine.com/jobs/urgent-hiring-manual-tester-telecom-domain-pune/flywings-hr-services/19839545"
+  },
+  {
+   "company": "Ani Integrated Services Ltd.",
+   "reason": "Not software QA (manufacturing, pharma, construction…)",
+   "source": "Shine.com",
+   "title": "Civil Engineer - QA & QC",
+   "url": "https://www.shine.com/jobs/civil-engineer-qa-qc/ani-integrated-services-ltd/20113690"
   },
   {
    "company": "IQuest Management Consultants Pvt Ltd.",
@@ -182,18 +196,11 @@
    "url": "https://www.shine.com/jobs/quality-engineer-trainee/iquest-management-consultants-pvt-ltd/20096206"
   },
   {
-   "company": "Rainbow HR Consulting Services Private Limited",
+   "company": "Greythr",
    "reason": "Not software QA (manufacturing, pharma, construction…)",
    "source": "Shine.com",
-   "title": "QA/QC Engineer",
-   "url": "https://www.shine.com/jobs/qa-qc-engineer/rainbow-hr-consulting-services-private-limited/20000885"
-  },
-  {
-   "company": "Conviction",
-   "reason": "Asks for 5+ years",
-   "source": "Shine.com",
-   "title": "QA Automation Engineer",
-   "url": "https://www.shine.com/jobs/qa-automation-engineer/conviction/19998770"
+   "title": "Engineer - QA/QC (Electrical)",
+   "url": "https://www.shine.com/jobs/engineer-qa-qc-electrical/greythr/20107383"
   },
   {
    "company": "Evoke HR Solutions Pvt. Ltd.",
@@ -210,27 +217,6 @@
    "url": "https://www.shine.com/jobs/senior-quality-engineer-manufacturing-engineering-qa-qc/evoke-hr-solutions-pvt-ltd/20085462"
   },
   {
-   "company": "Axycube Solutions Pvt. Ltd.",
-   "reason": "Asks for 6+ years",
-   "source": "Shine.com",
-   "title": "Salesforce QA Engineer",
-   "url": "https://www.shine.com/jobs/salesforce-qa-engineer/axycube-solutions-pvt-ltd/20008078"
-  },
-  {
-   "company": "Rainbow HR Consulting Services Private Limited",
-   "reason": "Not software QA (manufacturing, pharma, construction…)",
-   "source": "Shine.com",
-   "title": "Senior QA/QC Engineer",
-   "url": "https://www.shine.com/jobs/senior-qa-qc-engineer/rainbow-hr-consulting-services-private-limited/20001774"
-  },
-  {
-   "company": "REIS Staffing & HR Services Pvt Ltd",
-   "reason": "Asks for 5+ years",
-   "source": "Shine.com",
-   "title": "QA Automation Engineer",
-   "url": "https://www.shine.com/jobs/qa-automation-engineer/reis-staffing-hr-services-pvt-ltd/20001791"
-  },
-  {
    "company": "Starworth Global Solutions",
    "reason": "Not software QA (manufacturing, pharma, construction…)",
    "source": "Shine.com",
@@ -238,18 +224,53 @@
    "url": "https://www.shine.com/jobs/quality-control-engineer-qc-engineer-quality-assurance-qa-qc/starworth-global-solutions/20060560"
   },
   {
-   "company": "Ss Fabricators And Manufacturers Pvt Lyd",
+   "company": "Larsen & Toubro Ltd",
    "reason": "Not software QA (manufacturing, pharma, construction…)",
    "source": "Shine.com",
-   "title": "Quality Engineer (QA/qc) (Warora)",
-   "url": "https://www.shine.com/jobs/quality-engineer-qa-qc-warora/ss-fabricators-and-manufacturers-pvt-lyd/19901389"
+   "title": "QA/QC Engineer - Civil, Mechanical, and Electrical & Instrumentation",
+   "url": "https://www.shine.com/jobs/qa-qc-engineer-civil-mechanical-and-electrical-instrumentation/larsen-toubro-ltd/19960168"
   },
   {
-   "company": "Right Advisors Private Limited",
+   "company": "Top Syringe Mfg. Co. Pvt. Ltd",
    "reason": "Not software QA (manufacturing, pharma, construction…)",
    "source": "Shine.com",
-   "title": "Civil QA/QC Engineer",
-   "url": "https://www.shine.com/jobs/civil-qa-qc-engineer/right-advisors-private-limited/20016643"
+   "title": "Qa Engineer",
+   "url": "https://www.shine.com/jobs/qa-engineer/top-syringe-mfg-co-pvt-ltd/19687312"
+  },
+  {
+   "company": "Infovision HR Consulting Services Pvt Ltd",
+   "reason": "Not software QA (manufacturing, pharma, construction…)",
+   "source": "Shine.com",
+   "title": "Quality Engineer",
+   "url": "https://www.shine.com/jobs/quality-engineer/infovision-hr-consulting-services-pvt-ltd/19954314"
+  },
+  {
+   "company": "RISHABRAJ ESTATE DEVELOPERS PRIVATE LIMITED",
+   "reason": "Not software QA (manufacturing, pharma, construction…)",
+   "source": "Shine.com",
+   "title": "Quality Engineer (Construction)",
+   "url": "https://www.shine.com/jobs/quality-engineer-construction/rishabraj-estate-developers-private-limited/19654463"
+  },
+  {
+   "company": "Innova ESI",
+   "reason": "Asks for 7+ years",
+   "source": "Shine.com",
+   "title": "QA Automation Engineer - Gen AI",
+   "url": "https://www.shine.com/jobs/qa-automation-engineer-gen-ai/innova-esi/20033998"
+  },
+  {
+   "company": "Sowparnika",
+   "reason": "Not software QA (manufacturing, pharma, construction…)",
+   "source": "Shine.com",
+   "title": "QA QC Engineer",
+   "url": "https://www.shine.com/jobs/qa-qc-engineer/sowparnika/19917440"
+  },
+  {
+   "company": "T&S CONSULTING GROUP",
+   "reason": "Call-centre / process quality role",
+   "source": "Shine.com",
+   "title": "Test Engineer - LOS, LMS, Collections",
+   "url": "https://www.shine.com/jobs/test-engineer-los-lms-collections/ts-consulting-group/20099230"
   },
   {
    "company": "RAJPUT PROTECTION SERVICE PRIVATE LIMITED",
@@ -266,11 +287,11 @@
    "url": "https://www.shine.com/jobs/test-engineer/awinmo-india-marketing-private-limited/19744488"
   },
   {
-   "company": "REIS Staffing & HR Services Pvt Ltd",
-   "reason": "Asks for 5+ years",
+   "company": "EXCELON SOLUTIONS PRIVATE LIMITED",
+   "reason": "Asks for 6+ years",
    "source": "Shine.com",
-   "title": "Automation Test Engineer",
-   "url": "https://www.shine.com/jobs/automation-test-engineer/reis-staffing-hr-services-pvt-ltd/20001165"
+   "title": "Performance Testing Engineer - Python, Load Testing",
+   "url": "https://www.shine.com/jobs/performance-testing-engineer-python-load-testing/excelon-solutions-private-limited/20095935"
   },
   {
    "company": "Accelus Robotics Pvt. Ltd",
@@ -280,25 +301,18 @@
    "url": "https://www.shine.com/jobs/electronics-test-engineer/accelus-robotics-pvt-ltd/19915878"
   },
   {
-   "company": "Evoke HR Solutions Pvt. Ltd.",
-   "reason": "Asks for 6+ years",
+   "company": "Sansidsolutions LLP",
+   "reason": "Call-centre / process quality role",
    "source": "Shine.com",
-   "title": "Performance Testing Engineer",
-   "url": "https://www.shine.com/jobs/performance-testing-engineer/evoke-hr-solutions-pvt-ltd/20001869"
+   "title": "Test Engineer - LOS/LMS/Collections",
+   "url": "https://www.shine.com/jobs/test-engineer-los-lms-collections/sansidsolutions-llp/20106927"
   },
   {
-   "company": "Edurun Virtuoso Services Private Limited",
-   "reason": "Asks for 7+ years",
+   "company": "GREATHR SOLUTIONS PRIVATE LIMITED",
+   "reason": "Hardware / embedded testing",
    "source": "Shine.com",
-   "title": "Automation Test Engineer",
-   "url": "https://www.shine.com/jobs/automation-test-engineer/edurun-virtuoso-services-private-limited/20002170"
-  },
-  {
-   "company": "Infovision HR Consulting Services Pvt Ltd",
-   "reason": "Senior / lead level",
-   "source": "Shine.com",
-   "title": "QA Test Lead",
-   "url": "https://www.shine.com/jobs/qa-test-lead/infovision-hr-consulting-services-pvt-ltd/19988103"
+   "title": "Network Test Engineer - Pytest",
+   "url": "https://www.shine.com/jobs/network-test-engineer-pytest/greathr-solutions-private-limited/20099855"
   },
   {
    "company": "Ada Loveace Technologies",
@@ -322,6 +336,13 @@
    "url": "https://www.shine.com/jobs/lqa-game-tester-turkish-freelance-remote/pole-to-win-ptw/20093523"
   },
   {
+   "company": "UST",
+   "reason": "Senior / lead level",
+   "source": "Shine.com",
+   "title": "Tester III - Software Testing (Playwright) (Telangana)",
+   "url": "https://www.shine.com/jobs/tester-iii-software-testing-playwright-telangana/ust/20112443"
+  },
+  {
    "company": "Manpowergroup Services India",
    "reason": "Senior / lead level",
    "source": "Shine.com",
@@ -343,11 +364,11 @@
    "url": "https://www.shine.com/jobs/qa-playwright-selenium-cypress-7-yrs-pan-india/innova-esi/19960917"
   },
   {
-   "company": "MNR Solutions Pvt Ltd",
-   "reason": "Asks for 5+ years",
+   "company": "Iris Software, Inc.",
+   "reason": "Senior / lead level",
    "source": "Shine.com",
-   "title": "QA Engineer",
-   "url": "https://www.shine.com/jobs/qa-engineer/mnr-solutions-pvt-ltd/19981110"
+   "title": "QA Playwright - Senior Engineer",
+   "url": "https://www.shine.com/jobs/qa-playwright-senior-engineer/iris-software-inc/19995679"
   },
   {
    "company": "Burgeon It Services",
@@ -357,13 +378,6 @@
    "url": "https://www.shine.com/jobs/qa-automation-architect-playwright-pune/burgeon-it-services/20076230"
   },
   {
-   "company": "Iris Software, Inc.",
-   "reason": "Senior / lead level",
-   "source": "Shine.com",
-   "title": "QA Playwright - Senior Engineer",
-   "url": "https://www.shine.com/jobs/qa-playwright-senior-engineer/iris-software-inc/19995679"
-  },
-  {
    "company": "Virtusa",
    "reason": "Asks for 5+ years",
    "source": "Shine.com",
@@ -371,11 +385,11 @@
    "url": "https://www.shine.com/jobs/qa-playwright/virtusa/19995745"
   },
   {
-   "company": "TMF Group",
-   "reason": "Senior / lead level",
+   "company": "Persistent Systems",
+   "reason": "Asks for 6+ years",
    "source": "Shine.com",
-   "title": "QA Manager - testing (Pune)",
-   "url": "https://www.shine.com/jobs/qa-manager-testing-pune/tmf-group/19903098"
+   "title": "QA Playwright",
+   "url": "https://www.shine.com/jobs/qa-playwright/persistent-systems/19919046"
   },
   {
    "company": "Synergy Tech Solutions",
@@ -385,25 +399,25 @@
    "url": "https://www.shine.com/jobs/qa-sr-qa-engineers/synergy-tech-solutions/20076538"
   },
   {
-   "company": "Dasinfomedia Pvt Ltd",
+   "company": "Virtusa",
+   "reason": "Asks for 5+ years",
+   "source": "Shine.com",
+   "title": "QA Software Tester",
+   "url": "https://www.shine.com/jobs/qa-software-tester/virtusa/19704334"
+  },
+  {
+   "company": "Birlasoft",
+   "reason": "Asks for 6+ years",
+   "source": "Shine.com",
+   "title": "GWPC QA Tester Technical Specialist-Testing Services (Uttar Pradesh)",
+   "url": "https://www.shine.com/jobs/gwpc-qa-tester-technical-specialist-testing-services-uttar-pradesh/birlasoft/19687229"
+  },
+  {
+   "company": "Himalyanextgen",
    "reason": "Internship / trainee",
    "source": "Shine.com",
-   "title": "QA / Test Engineer Intern",
-   "url": "https://www.shine.com/jobs/qa-test-engineer-intern/dasinfomedia-pvt-ltd/20019894"
-  },
-  {
-   "company": "MEEDEN LABS PRIVATE LIMITED",
-   "reason": "Senior / lead level",
-   "source": "Shine.com",
-   "title": "QA Senior Engineer",
-   "url": "https://www.shine.com/jobs/qa-senior-engineer/meeden-labs-private-limited/20044165"
-  },
-  {
-   "company": "Input Zero Technologies",
-   "reason": "Asks for 7+ years",
-   "source": "Workable job marketplace",
-   "title": "SAP - QA Automation Tester",
-   "url": "https://jobs.workable.com/view/qjYZLWU76ZNJcGzzggi1A9/sap---qa-automation-tester-in-pune-at-input-zero-technologies"
+   "title": "QA Intern / QA Tester",
+   "url": "https://www.shine.com/jobs/qa-intern-qa-tester/himalyanextgen/19881499"
   },
   {
    "company": "Input Zero Technologies",
@@ -411,6 +425,13 @@
    "source": "Workable job marketplace",
    "title": "SAP - QA Automation Tester",
    "url": "https://jobs.workable.com/view/dQMGD4Ug3oocwhaUM4gUxw/sap---qa-automation-tester-in-bengaluru-at-input-zero-technologies"
+  },
+  {
+   "company": "Input Zero Technologies",
+   "reason": "Asks for 7+ years",
+   "source": "Workable job marketplace",
+   "title": "SAP - QA Automation Tester",
+   "url": "https://jobs.workable.com/view/qjYZLWU76ZNJcGzzggi1A9/sap---qa-automation-tester-in-pune-at-input-zero-technologies"
   },
   {
    "company": "Origin",
@@ -577,8 +598,8 @@
    "company": "Side",
    "reason": "Needs a language other than English or Hindi",
    "source": "Workable job marketplace",
-   "title": "LQA Game Tester (Dutch) - Freelance Remote",
-   "url": "https://jobs.workable.com/view/gLFSWauoso35QtAVFaAeWV/lqa-game-tester-(dutch)---freelance-remote-in-braga-at-side"
+   "title": "LQA Game Tester (Czech) - Freelance Remote",
+   "url": "https://jobs.workable.com/view/4tzh4Tf6nMkVhze7SRjQ9j/lqa-game-tester-(czech)---freelance-remote-in-czechia-at-side"
   },
   {
    "company": "JLOOP",
@@ -588,6 +609,13 @@
    "url": "https://jobs.workable.com/view/qmwcJsqP9KqdE2CUUNcu2w/remote-qa-analyst-in-ukraine-at-jloop"
   },
   {
+   "company": "Side",
+   "reason": "Needs a language other than English or Hindi",
+   "source": "Workable job marketplace",
+   "title": "LQA Game Tester (Dutch) - Freelance Remote",
+   "url": "https://jobs.workable.com/view/gLFSWauoso35QtAVFaAeWV/lqa-game-tester-(dutch)---freelance-remote-in-braga-at-side"
+  },
+  {
    "company": "EUROPEAN DYNAMICS",
    "reason": "Not open to India: On-site outside India (Athens, Attica, Greece), no sponsorship stated",
    "source": "Workable job marketplace",
@@ -595,18 +623,11 @@
    "url": "https://jobs.workable.com/view/n8YMsC7DNtNjULpTCDeGBd/hybrid-qa-tester-in-athens-at-european-dynamics"
   },
   {
-   "company": "Side",
-   "reason": "Needs a language other than English or Hindi",
-   "source": "Workable job marketplace",
-   "title": "LQA Game Tester (Czech) - Freelance Remote",
-   "url": "https://jobs.workable.com/view/4tzh4Tf6nMkVhze7SRjQ9j/lqa-game-tester-(czech)---freelance-remote-in-czechia-at-side"
-  },
-  {
    "company": "Qualco Group",
    "reason": "Asks for 5+ years",
    "source": "Workable job marketplace",
-   "title": "Quality Assurance Tester",
-   "url": "https://jobs.workable.com/view/cEViqiGg8RUZF6CKvLRE2x/hybrid-quality-assurance-tester-in-athens-at-qualco-group"
+   "title": "Quality Assurance Tester (Manual)",
+   "url": "https://jobs.workable.com/view/cEViqiGg8RUZF6CKvLRE2x/hybrid-quality-assurance-tester-(manual)-in-athens-at-qualco-group"
   },
   {
    "company": "Risco Group",
@@ -630,13 +651,6 @@
    "url": "https://jobs.workable.com/view/tCxRrPppLHpximKmFsFeQk/remote-qa-analyst-in-bucharest-at-hicx"
   },
   {
-   "company": "Murray Company Mechanical Contractors",
-   "reason": "Not software QA (manufacturing, pharma, construction…)",
-   "source": "Workable job marketplace",
-   "title": "QA/QC Manager - Process Piping",
-   "url": "https://jobs.workable.com/view/ccvt3GeAuDbAodMRztFZSi/qa%2Fqc-manager---process-piping-in-san-leandro-at-murray-company-mechanical-contractors"
-  },
-  {
    "company": "Nass",
    "reason": "Not software QA (manufacturing, pharma, construction…)",
    "source": "Workable job marketplace",
@@ -644,11 +658,18 @@
    "url": "https://jobs.workable.com/view/ceDQG2NVazW2iRMpKbEd4v/qa-qc-inspector-in-riffa-at-nass"
   },
   {
+   "company": "Murray Company Mechanical Contractors",
+   "reason": "Not software QA (manufacturing, pharma, construction…)",
+   "source": "Workable job marketplace",
+   "title": "QA/QC Manager - Process Piping",
+   "url": "https://jobs.workable.com/view/ccvt3GeAuDbAodMRztFZSi/qa%2Fqc-manager---process-piping-in-san-leandro-at-murray-company-mechanical-contractors"
+  },
+  {
    "company": "Qode",
    "reason": "Senior / lead level",
    "source": "Workable job marketplace",
-   "title": "Senior QA Engineer (Automation - Python preferred)",
-   "url": "https://jobs.workable.com/view/6zZXQ9QifQq9mJFbfKLNER/senior-qa-engineer-(automation---python-preferred)-in-ha-noi-at-qode"
+   "title": "Senior QA Engineer (Automation - Python)",
+   "url": "https://jobs.workable.com/view/boBUCRsJ2P8RgT3wLdQAZ6/senior-qa-engineer-(automation---python)-in-ha-noi-at-qode"
   },
   {
    "company": "MacDonald-Miller Facility Solutions",
@@ -742,13 +763,6 @@
    "url": "https://jobs.workable.com/view/qycLttn3jpxUGJm7D546D5/hybrid-qa-engineer-in-charlotte-at-fastbreak-ai"
   },
   {
-   "company": "Intetics",
-   "reason": "Senior / lead level",
-   "source": "Workable job marketplace",
-   "title": "Senior QA Automation Engineer",
-   "url": "https://jobs.workable.com/view/qWr6WuX94uRFoQ8NQjQVGq/remote-senior-qa-automation-engineer-in-armenia-at-intetics"
-  },
-  {
    "company": "Genetec",
    "reason": "Not open to India: On-site outside India (Montreal, Quebec, Canada), no sponsorship stated",
    "source": "Workable job marketplace",
@@ -826,13 +840,6 @@
    "url": "https://jobs.workable.com/view/4xJ4BNC3y2qvCRZysDw5A9/remote-business-analyst%2Fsoftware-tester-fluent-in-french-in-athens-at-european-dynamics"
   },
   {
-   "company": "Ace IT Careers",
-   "reason": "Not open to India: Restricted to United States",
-   "source": "Workable job marketplace",
-   "title": "Associate Software Test Analyst",
-   "url": "https://jobs.workable.com/view/mzBMKcRPm2XBqNjkpmfYHk/remote-associate-software-test-analyst-in-nashville-at-ace-it-careers"
-  },
-  {
    "company": "Maharah Human Resources Company",
    "reason": "Not open to India: On-site outside India (Riyadh, Riyadh Province, Saudi Arabia), no sponsorship stated",
    "source": "Workable job marketplace",
@@ -847,13 +854,6 @@
    "url": "https://jobs.workable.com/view/pppWPpUGkGiQqr2c4S3h85/testeur-fonctionnalit%C3%A9-aq-(client)-%2F-functionality-qa-tester-(insourced)-in-montreal-at-keywords-studios"
   },
   {
-   "company": "FuturLab Ltd",
-   "reason": "Senior / lead level",
-   "source": "Workable job marketplace",
-   "title": "Lead QA - UK Only (Remote/Hybrid - Brighton)",
-   "url": "https://jobs.workable.com/view/95ccgmWKPaz6Gc2UFumsWU/lead-qa---uk-only-(remote%2Fhybrid---brighton)-in-brighton-at-futurlab-ltd"
-  },
-  {
    "company": "Side",
    "reason": "Needs a language other than English or Hindi",
    "source": "Workable job marketplace",
@@ -866,6 +866,13 @@
    "source": "Workable job marketplace",
    "title": "Espagnol/Latam Spanish - Localisation de jeux | Localization QA Game Tester",
    "url": "https://jobs.workable.com/view/d94YVJ4gvcpFxqAB1VrJLq/espagnol%2Flatam-spanish---localisation-de-jeux-%7C-localization-qa-game-tester-in-montreal-at-side"
+  },
+  {
+   "company": "FuturLab Ltd",
+   "reason": "Senior / lead level",
+   "source": "Workable job marketplace",
+   "title": "Lead QA - UK Only (Remote/Hybrid - Brighton)",
+   "url": "https://jobs.workable.com/view/95ccgmWKPaz6Gc2UFumsWU/lead-qa---uk-only-(remote%2Fhybrid---brighton)-in-brighton-at-futurlab-ltd"
   },
   {
    "company": "United Concrete",
@@ -896,18 +903,11 @@
    "url": "https://jobs.workable.com/view/nwbw2G6UJcm56FDrpM3F8H/qa%2Fqc-superintendent-in-charlotte-at-gallo-mechanical"
   },
   {
-   "company": "Vrinda International",
-   "reason": "Asks for 5+ years",
+   "company": "RemoteJobsOne",
+   "reason": "Not software QA (manufacturing, pharma, construction…)",
    "source": "Himalayas",
-   "title": "Duck Creek QA Analyst (Cloud Migration)",
-   "url": "https://himalayas.app/companies/vrinda-international/jobs/duck-creek-qa-analyst-cloud-migration?utm_source=api"
-  },
-  {
-   "company": "Brady Technologies",
-   "reason": "Senior / lead level",
-   "source": "Himalayas",
-   "title": "Senior QA & Automation Engineer (Python)",
-   "url": "https://himalayas.app/companies/brady-technologies/jobs/senior-qa-automation-engineer-python-7463537916?utm_source=api"
+   "title": "Food Delivery App User Tester – Remote (Worldwide)",
+   "url": "https://himalayas.app/companies/remotejobsone/jobs/food-delivery-app-user-tester-remote-worldwide?utm_source=api"
   },
   {
    "company": "Revvity",
@@ -1190,13 +1190,6 @@
    "url": "https://himalayas.app/companies/steer-health/jobs/senior-qa-engineer?utm_source=api"
   },
   {
-   "company": "Fello",
-   "reason": "Senior / lead level",
-   "source": "Himalayas",
-   "title": "Senior QA Engineer",
-   "url": "https://himalayas.app/companies/fello/jobs/senior-qa-engineer?utm_source=api"
-  },
-  {
    "company": "Madello Consulting",
    "reason": "Senior / lead level",
    "source": "Himalayas",
@@ -1216,6 +1209,13 @@
    "source": "Himalayas",
    "title": "Senior Software Quality and Test Engineer",
    "url": "https://himalayas.app/companies/parexel/jobs/senior-software-quality-and-test-engineer?utm_source=api"
+  },
+  {
+   "company": "RemoteJobsOne",
+   "reason": "Senior / lead level",
+   "source": "Himalayas",
+   "title": "Member of Technical Staff, Quality Engineering – Remote (Worldwide)",
+   "url": "https://himalayas.app/companies/remotejobsone/jobs/member-of-technical-staff-quality-engineering-remote-worldwide?utm_source=api"
   },
   {
    "company": "Clera",
@@ -1386,6 +1386,13 @@
    "url": "https://himalayas.app/companies/felsen-software-solutions/jobs/salesforce-qa-lead?utm_source=api"
   },
   {
+   "company": "Zyte",
+   "reason": "Data / ETL testing (SQL-heavy)",
+   "source": "Himalayas",
+   "title": "Data QA Engineer - Remote",
+   "url": "https://himalayas.app/companies/zyte/jobs/data-qa-engineer-remote?utm_source=api"
+  },
+  {
    "company": "CAMP Systems",
    "reason": "Senior / lead level",
    "source": "Himalayas",
@@ -1426,37 +1433,30 @@
    "source": "Himalayas",
    "title": "Senior QA Engineer – Remote (Asia Pacific)",
    "url": "https://himalayas.app/companies/intalentglobal/jobs/senior-qa-engineer-remote-asia-pacific?utm_source=api"
-  },
-  {
-   "company": "CFRA",
-   "reason": "Asks for 5+ years",
-   "source": "Himalayas",
-   "title": "Quality Assurance Engineer (Desktop Solutions)",
-   "url": "https://himalayas.app/companies/cfra/jobs/quality-assurance-engineer-desktop-solutions?utm_source=api"
   }
  ],
- "finished_at": "2026-11-19T20:58:02Z",
+ "finished_at": "2026-11-21T23:17:24Z",
  "fx": {
-  "as_of": "Thu, 19 Nov 2026 00:02:31 +0000",
+  "as_of": "Fri, 20 Nov 2026 00:02:32 +0000",
   "source": "https://open.er-api.com/v6/latest/USD (ExchangeRate-API open access)",
-  "usd_inr": 93.513568
+  "usd_inr": 93.372746
  },
- "id": "20261119T205630Z",
+ "id": "20261121T231530Z",
  "india_checks": {
-  "companies": 262,
+  "companies": 263,
   "roles_clarified": 2,
   "verdicts": {
    "likely": 3,
    "no": 1,
    "unclear": 28,
-   "yes": 230
+   "yes": 231
   },
   "web_checked": 0
  },
- "kept": 195,
- "new_count": 0,
+ "kept": 200,
+ "new_count": 5,
  "pipeline_version": "1.0.0",
- "raw_count": 825,
+ "raw_count": 802,
  "source_status": {
   "ashby": {
    "boards": 11,
@@ -1466,67 +1466,67 @@
   },
   "cutshort": {
    "fetched": 45,
-   "ms": 39138,
+   "ms": 43345,
    "ok": true
   },
   "greenhouse": {
    "boards": 29,
    "errors": 0,
-   "fetched": 54,
+   "fetched": 53,
    "ok": true
   },
   "himalayas": {
-   "fetched": 219,
-   "ms": 17466,
+   "fetched": 190,
+   "ms": 32787,
    "ok": true
   },
   "hn": {
    "fetched": 2,
-   "ms": 5536,
+   "ms": 15155,
    "ok": true
   },
   "jobicy": {
-   "fetched": 11,
-   "ms": 5699,
+   "fetched": 5,
+   "ms": 5189,
    "ok": true
   },
   "lever": {
    "boards": 16,
    "errors": 0,
-   "fetched": 53,
+   "fetched": 57,
    "ok": true
   },
   "remoteok": {
-   "fetched": 5,
-   "ms": 5990,
+   "fetched": 6,
+   "ms": 5827,
    "ok": true
   },
   "remotive": {
    "fetched": 0,
-   "ms": 2170,
+   "ms": 2232,
    "ok": true
   },
   "shine": {
-   "fetched": 143,
-   "ms": 18215,
+   "fetched": 148,
+   "ms": 31926,
    "ok": true
   },
   "smartrecruiters": {
    "boards": 14,
    "errors": 0,
-   "fetched": 24,
+   "fetched": 27,
    "ok": true
   },
   "workable": {
    "fetched": 150,
-   "ms": 37617,
+   "ms": 41804,
    "ok": true
   },
   "workingnomads": {
    "fetched": 5,
-   "ms": 117,
+   "ms": 497,
    "ok": true
   }
  },
- "started_at": "2026-11-19T20:56:30Z"
+ "started_at": "2026-11-21T23:15:30Z"
 }

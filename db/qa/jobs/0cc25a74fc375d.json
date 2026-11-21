@@ -1,0 +1,87 @@
+{
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/qa-tester/alphawizz-technologies-pvt-ltd/20089954",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "Alphawizz Technologies Pvt. Ltd.",
+ "company_slug": "alphawizz-technologies-pvt-ltd",
+ "concerns": [
+  "Also asks for: API testing, SQL / databases",
+  "Office outside Mumbai — relocation within India",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "71043d87eed4",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-21T23:15:30Z",
+ "fit": 68,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "0cc25a74fc375d",
+ "include_reason": "Manual / functional QA title",
+ "india": {
+  "cities": [],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "manual-qa",
+ "last_verified": "2026-11-21T23:15:30Z",
+ "location": "Bhopal, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-11-16T19:46:07Z",
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 60,
+  "company": 66,
+  "location": 80,
+  "seniority": 94,
+  "skill": 50
+ },
+ "seniority": "unspecified",
+ "snippet": "Experience: 3 to 7 Yrs\nSkills: Manual Testing, API testing, SQL, SDLC, STLC, Agile methodologies, Postman, problemsolving skills\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "20089954",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-11-16T19:46:07Z",
+   "seen_at": "2026-11-21T23:15:30Z",
+   "url": "https://www.shine.com/jobs/qa-tester/alphawizz-technologies-pvt-ltd/20089954"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 3,
+ "title": "QA Tester",
+ "tools": [
+  "API testing",
+  "SQL / databases",
+  "Agile / Scrum"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/qa-tester/alphawizz-technologies-pvt-ltd/20089954",
+ "why": [
+  "Manual / functional QA — the core of your resume",
+  "Asks for 3+ years — you have about 2.5",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": 7,
+ "years_min": 3
+}

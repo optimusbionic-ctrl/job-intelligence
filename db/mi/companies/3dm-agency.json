@@ -1,0 +1,27 @@
+{
+ "category": "SaaS",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-21T23:17:25Z",
+  "evidence": [
+   {
+    "detail": "Lead Motion Graphic Designer - 1 (Hyderabad) — Hyderabad, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/lead-motion-graphic-designer-1-hyderabad/3dm-agency/20102868",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-21T23:17:25Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "cdf16bdd47",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "3DM Agency",
+ "slug": "3dm-agency",
+ "tier": 1
+}

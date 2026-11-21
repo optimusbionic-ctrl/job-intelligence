@@ -1,0 +1,30 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-21T23:15:30Z",
+  "evidence": [
+   {
+    "detail": "QA Tester — Nagpur, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/qa-tester/botcoding-pvtltd/20021883",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-21T23:15:30Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "7f5a1e7c00",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Botcoding Pvt.Ltd.",
+ "slug": "botcoding-pvt-ltd",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}

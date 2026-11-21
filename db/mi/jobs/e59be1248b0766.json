@@ -1,0 +1,90 @@
+{
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/lead-motion-graphic-designer-1-hyderabad/3dm-agency/20102868",
+ "category": "SaaS",
+ "comp_potential": "unknown",
+ "company": "3DM Agency",
+ "company_slug": "3dm-agency",
+ "concerns": [
+  "Compensation not disclosed"
+ ],
+ "contacts_count": 0,
+ "content_hash": "7c695fc320d4",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-21T23:17:25Z",
+ "fit": 70,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "e59be1248b0766",
+ "include_reason": "Mixed graphic + motion title",
+ "india": {
+  "cities": [
+   "Hyderabad"
+  ],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "graphic-motion",
+ "last_verified": "2026-11-21T23:17:25Z",
+ "location": "Hyderabad, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-11-20T09:40:08Z",
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 30,
+  "comp": 48,
+  "company": 98,
+  "location": 64,
+  "seniority": 96,
+  "skill": 64
+ },
+ "seniority": "lead",
+ "snippet": "Experience: 5 to 9 Yrs\nSkills: motion graphics, video editing, animation, Adobe After Effects, Adobe Premiere Pro, Final Cut Pro, Photoshop, Illustrator, Cinema 4D, 3D software\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "20102868",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-11-20T09:40:08Z",
+   "seen_at": "2026-11-21T23:17:25Z",
+   "url": "https://www.shine.com/jobs/lead-motion-graphic-designer-1-hyderabad/3dm-agency/20102868"
+  }
+ ],
+ "specializations": [
+  "3D motion"
+ ],
+ "status": "active",
+ "tier": 1,
+ "title": "Lead Motion Graphic Designer - 1 (Hyderabad)",
+ "tools": [
+  "After Effects",
+  "Cinema 4D",
+  "Premiere Pro",
+  "Illustrator",
+  "Photoshop"
+ ],
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/lead-motion-graphic-designer-1-hyderabad/3dm-agency/20102868",
+ "why": [
+  "Tools you already use: After Effects, Cinema 4D, Premiere Pro, Illustrator, Photoshop",
+  "Specialisations in scope: 3D motion",
+  "SaaS company (Tier 1 priority)",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_min": null
+}

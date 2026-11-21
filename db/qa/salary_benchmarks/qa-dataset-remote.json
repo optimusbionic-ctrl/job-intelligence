@@ -5,20 +5,11 @@
  "high": 10519187,
  "id": "qa-dataset-remote",
  "label": "Disclosed pay on remote QA postings (any region, this dataset)",
- "low": 2870645,
+ "low": 3690829,
  "market": "Remote (global)",
- "n": 11,
+ "n": 8,
  "retrieved_at": "2026-11-21",
  "samples": [
-  {
-   "company": "Kwanii",
-   "currency": "PHP",
-   "location": "Philippines",
-   "max": 600000,
-   "min": 600000,
-   "title": "QA Analyst (WFH, Full-Time)",
-   "url": "https://himalayas.app/companies/kwanii/jobs/qa-analyst-wfh-full-time?utm_source=api"
-  },
   {
    "company": "Storware Sp. z o.o.",
    "currency": "PLN",
@@ -63,24 +54,6 @@
    "min": 62818,
    "title": "Junior Tester",
    "url": "https://himalayas.app/companies/9th-way-insignia/jobs/junior-tester?utm_source=api"
-  },
-  {
-   "company": "micro1",
-   "currency": "USD",
-   "location": "Worldwide",
-   "max": 90000,
-   "min": 50000,
-   "title": "AI Agent Tester",
-   "url": "https://himalayas.app/companies/micro1/jobs/ai-agent-tester?utm_source=api"
-  },
-  {
-   "company": "RemoteJobsOne",
-   "currency": "USD",
-   "location": "Albania, Andorra, Austria, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Faroe Islands, Finland, France, Germany, Gibraltar, Greece, Guernsey, Holy See (Vatican City State), Hungary, Iceland, Ireland, Isle of Man, Italy, Jersey, Kosovo, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova, Monaco, Montenegro, Netherlands, North Macedonia, Norway, Poland, Portugal, Romania, San Marino, Serbia, Slovakia, Slovenia, Spain, Svalbard and Jan Mayen, Sweden, Switzerland, Ukraine, United Kingdom, Åland Islands",
-   "max": 90000,
-   "min": 50000,
-   "title": "AI Agent Tester – Remote (Worldwide)",
-   "url": "https://himalayas.app/companies/remotejobsone/jobs/ai-agent-tester-remote-worldwide?utm_source=api"
   },
   {
    "company": "NTT DATA",

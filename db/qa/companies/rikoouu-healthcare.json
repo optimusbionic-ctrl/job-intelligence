@@ -1,0 +1,30 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-21T23:15:30Z",
+  "evidence": [
+   {
+    "detail": "QA Automation Engineer (AI Agents + Playwright) — Pune, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/qa-automation-engineer-ai-agents-playwright/rikoouu-healthcare/20106215",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-21T23:15:30Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "a4cc96e5ec",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Rikoouu Healthcare",
+ "slug": "rikoouu-healthcare",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}
