@@ -1,33 +1,15 @@
 {
- "avg": 6501704,
+ "avg": 6536092,
  "basis": "Interquartile range of posting midpoints, converted to INR at today's rate",
  "currency": "INR",
- "high": 10519187,
+ "high": 6536092,
  "id": "qa-dataset-remote",
  "label": "Disclosed pay on remote QA postings (any region, this dataset)",
- "low": 3690829,
+ "low": 5150674,
  "market": "Remote (global)",
- "n": 14,
- "retrieved_at": "2026-11-20",
+ "n": 8,
+ "retrieved_at": "2026-11-21",
  "samples": [
-  {
-   "company": "Kwanii",
-   "currency": "PHP",
-   "location": "Philippines",
-   "max": 600000,
-   "min": 600000,
-   "title": "QA Analyst (WFH, Full-Time)",
-   "url": "https://himalayas.app/companies/kwanii/jobs/qa-analyst-wfh-full-time?utm_source=api"
-  },
-  {
-   "company": "Storware Sp. z o.o.",
-   "currency": "PLN",
-   "location": "Poland",
-   "max": 108000,
-   "min": 84000,
-   "title": "Manual Tester with Linux (QA team)",
-   "url": "https://himalayas.app/companies/storware-sp-z-o-o/jobs/manual-tester-with-linux-qa-team?utm_source=api"
-  },
   {
    "company": "TECDATA ENGINEERING",
    "currency": "EUR",
@@ -54,15 +36,6 @@
    "min": 50075,
    "title": "Manual Functional Tester",
    "url": "https://himalayas.app/companies/tista-science-and-technology-corporation/jobs/manual-functional-tester?utm_source=api"
-  },
-  {
-   "company": "9th Way Insignia",
-   "currency": "USD",
-   "location": "United States",
-   "max": 67500,
-   "min": 62818,
-   "title": "Junior Tester",
-   "url": "https://himalayas.app/companies/9th-way-insignia/jobs/junior-tester?utm_source=api"
   },
   {
    "company": "StackAdapt",
@@ -92,15 +65,6 @@
    "url": "https://himalayas.app/companies/remotejobsone/jobs/ai-agent-tester-remote-worldwide?utm_source=api"
   },
   {
-   "company": "SpaceCoast AV Consultants, LLC",
-   "currency": "USD",
-   "location": "United States",
-   "max": 105000,
-   "min": 85000,
-   "title": "Quality Assurance Analyst",
-   "url": "https://himalayas.app/companies/spacecoast-av-consultants-llc/jobs/quality-assurance-analyst?utm_source=api"
-  },
-  {
    "company": "NTT DATA",
    "currency": "USD",
    "location": "United States",
@@ -108,24 +72,6 @@
    "min": 93816,
    "title": "Data Engineer Tester - Healthcare Data & AI Validation - Remote (Philadelphia, P",
    "url": "https://himalayas.app/companies/nttdata/jobs/data-engineer-tester-healthcare-data-ai-validation-remote-philadelphia-p?utm_source=api"
-  },
-  {
-   "company": "OpenDataJobs",
-   "currency": "USD",
-   "location": "United States",
-   "max": 140000,
-   "min": 100000,
-   "title": "QA Tester",
-   "url": "https://himalayas.app/companies/opendatajobs/jobs/qa-tester?utm_source=api"
-  },
-  {
-   "company": "Xperteez Technology",
-   "currency": "USD",
-   "location": "United States",
-   "max": 140000,
-   "min": 100000,
-   "title": "QA Engineer",
-   "url": "https://himalayas.app/companies/xperteez-technology/jobs/qa-engineer?utm_source=api"
   },
   {
    "company": "Discord",
