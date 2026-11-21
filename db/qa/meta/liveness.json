@@ -735,7 +735,7 @@
    "ats": null
   },
   "skiltravel": {
-   "at": "2026-11-03T19:56:44Z",
+   "at": "2026-11-21T05:55:59Z",
    "ats": null
   },
   "sleekinfo": {
@@ -986,10 +986,10 @@
   }
  },
  "counts": {
-  "closed": 12,
-  "keep": 62,
-  "live": 170,
-  "stale": 117
+  "closed": 11,
+  "keep": 63,
+  "live": 168,
+  "stale": 118
  },
- "updated_at": "2026-11-21T04:57:32Z"
+ "updated_at": "2026-11-21T05:57:25Z"
 }
