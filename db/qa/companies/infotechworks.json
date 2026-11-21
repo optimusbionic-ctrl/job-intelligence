@@ -1,0 +1,30 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-21T09:20:58Z",
+  "evidence": [
+   {
+    "detail": "QA Test Engineer (Manual) — Pune, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/qa-test-engineer-manual/infotechworks/20108541",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-21T09:20:58Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "e77a8ecbdb",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "InfoTechWorks",
+ "slug": "infotechworks",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}

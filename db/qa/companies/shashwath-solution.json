@@ -1,0 +1,30 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-21T09:20:58Z",
+  "evidence": [
+   {
+    "detail": "QA Automation Tester — Pune, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/qa-automation-tester/shashwath-solution/20106199",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-21T09:20:58Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "65fb1bf94d",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Shashwath Solution",
+ "slug": "shashwath-solution",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}
