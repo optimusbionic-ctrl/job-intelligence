@@ -1,24 +1,15 @@
 {
- "avg": 6052561,
+ "avg": 5573346,
  "basis": "Interquartile range of posting midpoints, converted to INR at today's rate",
  "currency": "INR",
- "high": 10464700,
+ "high": 5573346,
  "id": "qa-dataset-remote",
  "label": "Disclosed pay on remote QA postings (any region, this dataset)",
  "low": 5123995,
  "market": "Remote (global)",
- "n": 8,
+ "n": 4,
  "retrieved_at": "2026-11-22",
  "samples": [
-  {
-   "company": "Storware Sp. z o.o.",
-   "currency": "PLN",
-   "location": "Poland",
-   "max": 108000,
-   "min": 84000,
-   "title": "Manual Tester with Linux (QA team)",
-   "url": "https://himalayas.app/companies/storware-sp-z-o-o/jobs/manual-tester-with-linux-qa-team?utm_source=api"
-  },
   {
    "company": "IRIUM",
    "currency": "EUR",
@@ -47,15 +38,6 @@
    "url": "https://himalayas.app/companies/lavendo/jobs/qa-tester-data-privacy-platform-dc?utm_source=api"
   },
   {
-   "company": "9th Way Insignia",
-   "currency": "USD",
-   "location": "United States",
-   "max": 67500,
-   "min": 62818,
-   "title": "Junior Tester",
-   "url": "https://himalayas.app/companies/9th-way-insignia/jobs/junior-tester?utm_source=api"
-  },
-  {
    "company": "NTT DATA",
    "currency": "USD",
    "location": "United States",
@@ -63,24 +45,6 @@
    "min": 93816,
    "title": "Data Engineer Tester - Healthcare Data & AI Validation - Remote (Philadelphia, P",
    "url": "https://himalayas.app/companies/nttdata/jobs/data-engineer-tester-healthcare-data-ai-validation-remote-philadelphia-p?utm_source=api"
-  },
-  {
-   "company": "OpenDataJobs",
-   "currency": "USD",
-   "location": "United States",
-   "max": 140000,
-   "min": 100000,
-   "title": "QA Tester",
-   "url": "https://himalayas.app/companies/opendatajobs/jobs/qa-tester?utm_source=api"
-  },
-  {
-   "company": "Xperteez Technology",
-   "currency": "USD",
-   "location": "United States",
-   "max": 140000,
-   "min": 100000,
-   "title": "QA Engineer",
-   "url": "https://himalayas.app/companies/xperteez-technology/jobs/qa-engineer?utm_source=api"
   }
  ],
  "source_name": "QA Intelligence dataset",
