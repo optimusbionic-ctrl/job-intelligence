@@ -52,6 +52,10 @@
    "at": "2026-11-18T22:29:26Z",
    "ats": null
   },
+  "anujmation": {
+   "at": "2026-11-22T22:22:36Z",
+   "ats": null
+  },
   "appinventiv": {
    "at": "2026-11-18T19:37:13Z",
    "ats": null
@@ -319,6 +323,10 @@
   },
   "influur": {
    "at": "2026-11-10T21:34:53Z",
+   "ats": null
+  },
+  "infopark": {
+   "at": "2026-11-22T22:22:36Z",
    "ats": null
   },
   "infosys": {
@@ -719,8 +727,8 @@
  "counts": {
   "closed": 22,
   "keep": 16,
-  "live": 57,
-  "stale": 149
+  "live": 59,
+  "stale": 147
  },
- "updated_at": "2026-11-22T21:24:17Z"
+ "updated_at": "2026-11-22T22:24:14Z"
 }
