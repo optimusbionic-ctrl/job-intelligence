@@ -1,0 +1,84 @@
+{
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/motion-graphic-designer-from-music-industry/krwizard/20034288",
+ "category": "AI",
+ "comp_potential": "unknown",
+ "company": "Krwizard",
+ "company_slug": "krwizard",
+ "concerns": [
+  "Compensation not disclosed"
+ ],
+ "contacts_count": 0,
+ "content_hash": "f682d9f03316",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-22T13:37:41Z",
+ "fit": 64,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "6efce3de037b0f",
+ "include_reason": "Mixed graphic + motion title",
+ "india": {
+  "cities": [],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "graphic-motion",
+ "last_verified": "2026-11-22T13:37:41Z",
+ "location": "All India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-11-08T07:24:15Z",
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 44,
+  "comp": 48,
+  "company": 98,
+  "location": 88,
+  "seniority": 66,
+  "skill": 47
+ },
+ "seniority": "unspecified",
+ "snippet": "Experience: 2 to 6 Yrs\nSkills: design, graphics, motion, motion graphics, design tools, figma, project, ai tools, ui ux\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "20034288",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-11-08T07:24:15Z",
+   "seen_at": "2026-11-22T13:37:41Z",
+   "url": "https://www.shine.com/jobs/motion-graphic-designer-from-music-industry/krwizard/20034288"
+  }
+ ],
+ "specializations": [
+  "AI-generated video"
+ ],
+ "status": "active",
+ "tier": 1,
+ "title": "Motion Graphic Designer (from Music Industry)",
+ "tools": [
+  "Figma"
+ ],
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/motion-graphic-designer-from-music-industry/krwizard/20034288",
+ "why": [
+  "Tools you already use: Figma",
+  "Specialisations in scope: AI-generated video",
+  "AI company (Tier 1 priority)",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_min": null
+}

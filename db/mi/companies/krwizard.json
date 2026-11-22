@@ -1,0 +1,27 @@
+{
+ "category": "AI",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-22T13:37:41Z",
+  "evidence": [
+   {
+    "detail": "Motion Graphic Designer (from Music Industry) — All India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/motion-graphic-designer-from-music-industry/krwizard/20034288",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-22T13:37:41Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "c5a431beb6",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Krwizard",
+ "slug": "krwizard",
+ "tier": 1
+}
