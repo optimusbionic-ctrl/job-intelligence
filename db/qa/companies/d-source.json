@@ -1,0 +1,30 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-22T21:21:04Z",
+  "evidence": [
+   {
+    "detail": "Quality Assurance Engineer - Quality Control, Ppap, Capa — Nashik, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/quality-assurance-engineer-quality-control-ppap-capa/d-source/20114463",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-22T21:21:04Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "3a4b75ae19",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "D Source",
+ "slug": "d-source",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}
