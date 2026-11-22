@@ -1,14 +1,14 @@
 {
- "avg": 6084075,
+ "avg": 6052561,
  "basis": "Interquartile range of posting midpoints, converted to INR at today's rate",
  "currency": "INR",
- "high": 10519187,
+ "high": 10464700,
  "id": "qa-dataset-remote",
  "label": "Disclosed pay on remote QA postings (any region, this dataset)",
- "low": 3690829,
+ "low": 5123995,
  "market": "Remote (global)",
  "n": 8,
- "retrieved_at": "2026-11-21",
+ "retrieved_at": "2026-11-22",
  "samples": [
   {
    "company": "Storware Sp. z o.o.",
@@ -18,15 +18,6 @@
    "min": 84000,
    "title": "Manual Tester with Linux (QA team)",
    "url": "https://himalayas.app/companies/storware-sp-z-o-o/jobs/manual-tester-with-linux-qa-team?utm_source=api"
-  },
-  {
-   "company": "TECDATA ENGINEERING",
-   "currency": "EUR",
-   "location": "Spain",
-   "max": 28000,
-   "min": 28000,
-   "title": "QA Tester / Analista Funcional",
-   "url": "https://himalayas.app/companies/tecdata-engineering/jobs/qa-tester-analista-funcional?utm_source=api"
   },
   {
    "company": "IRIUM",
@@ -45,6 +36,15 @@
    "min": 50075,
    "title": "Manual Functional Tester",
    "url": "https://himalayas.app/companies/tista-science-and-technology-corporation/jobs/manual-functional-tester?utm_source=api"
+  },
+  {
+   "company": "Lavendo",
+   "currency": "USD",
+   "location": "United States",
+   "max": 70000,
+   "min": 50000,
+   "title": "QA Tester, Data Privacy Platform (DC)",
+   "url": "https://himalayas.app/companies/lavendo/jobs/qa-tester-data-privacy-platform-dc?utm_source=api"
   },
   {
    "company": "9th Way Insignia",
