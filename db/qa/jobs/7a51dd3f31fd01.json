@@ -1,0 +1,86 @@
+{
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/qa-tester-web-erp-mobile-nagpur/codestrela-technologies/20106121",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "Codestrela Technologies",
+ "company_slug": "codestrela-technologies",
+ "concerns": [
+  "Office outside Mumbai — relocation within India",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "5ae581b2cafa",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-22T00:13:24Z",
+ "fit": 77,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "7a51dd3f31fd01",
+ "include_reason": "Mobile app QA",
+ "india": {
+  "cities": [],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "mobile-qa",
+ "last_verified": "2026-11-22T00:13:24Z",
+ "location": "Nagpur, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-11-20T10:33:15Z",
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 60,
+  "company": 66,
+  "location": 80,
+  "seniority": 100,
+  "skill": 77
+ },
+ "seniority": "unspecified",
+ "snippet": "Experience: 0 to 4 Yrs\nSkills: Test businesscritical software, Validate workflows, Report issues clearly, concisely, Help ship reliable ERP, custom software releases, Collaborate with crossfunctional teams, Resolve defects, Improve overall product quality, Develop, execute test cases\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "20106121",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-11-20T10:33:15Z",
+   "seen_at": "2026-11-22T00:13:24Z",
+   "url": "https://www.shine.com/jobs/qa-tester-web-erp-mobile-nagpur/codestrela-technologies/20106121"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 3,
+ "title": "QA Tester - Web, ERP & Mobile (Nagpur)",
+ "tools": [
+  "Test cases & scenarios",
+  "Bug reporting"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/qa-tester-web-erp-mobile-nagpur/codestrela-technologies/20106121",
+ "why": [
+  "Mobile app testing on Android and iOS, like your current work",
+  "Already on your resume: Test cases & scenarios, Bug reporting",
+  "Asks for 0–4 years — you have about 2.5",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": 4,
+ "years_min": 0
+}

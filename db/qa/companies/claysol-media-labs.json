@@ -1,0 +1,30 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-22T00:13:24Z",
+  "evidence": [
+   {
+    "detail": "QA Test Engineer (ISTQB certified) — Bangalore, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/qa-test-engineer-istqb-certified/claysol-media-labs/20100991",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-22T00:13:24Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "d8db624a4a",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Claysol Media Labs",
+ "slug": "claysol-media-labs",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}

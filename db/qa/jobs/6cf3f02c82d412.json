@@ -1,0 +1,90 @@
+{
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/qa-test-engineer-istqb-certified/claysol-media-labs/20100991",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "Claysol Media Labs",
+ "company_slug": "claysol-media-labs",
+ "concerns": [
+  "Mentions test automation — be ready to discuss it or show a small script",
+  "Also asks for: API testing, ISTQB",
+  "Asks for 4+ years — you have about 2.5",
+  "Office outside Mumbai — relocation within India",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "637313cecce5",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-22T00:13:24Z",
+ "fit": 56,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "6cf3f02c82d412",
+ "include_reason": "QA / test engineer title",
+ "india": {
+  "cities": [
+   "Bengaluru"
+  ],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "qa-engineer",
+ "last_verified": "2026-11-22T00:13:24Z",
+ "location": "Bangalore, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-11-20T09:01:08Z",
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 60,
+  "company": 66,
+  "location": 60,
+  "seniority": 72,
+  "skill": 38
+ },
+ "seniority": "unspecified",
+ "snippet": "Experience: 4 to 8 Yrs\nSkills: software testing, Selenium, ISTQB certification, automation experience, Playwright, API tests\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "20100991",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-11-20T09:01:08Z",
+   "seen_at": "2026-11-22T00:13:24Z",
+   "url": "https://www.shine.com/jobs/qa-test-engineer-istqb-certified/claysol-media-labs/20100991"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 3,
+ "title": "QA Test Engineer (ISTQB certified)",
+ "tools": [
+  "API testing",
+  "Test automation",
+  "ISTQB"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/qa-test-engineer-istqb-certified/claysol-media-labs/20100991",
+ "why": [
+  "QA / test engineer role",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": 8,
+ "years_min": 4
+}

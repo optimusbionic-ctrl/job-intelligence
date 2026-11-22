@@ -1,0 +1,30 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-22T00:13:24Z",
+  "evidence": [
+   {
+    "detail": "QA Tester - Web, ERP & Mobile (Nagpur) — Nagpur, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/qa-tester-web-erp-mobile-nagpur/codestrela-technologies/20106121",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-22T00:13:24Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "adf9db6c59",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Codestrela Technologies",
+ "slug": "codestrela-technologies",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}
