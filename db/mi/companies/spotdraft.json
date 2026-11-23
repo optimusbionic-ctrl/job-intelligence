@@ -12,13 +12,8 @@
     "India",
     "United States"
    ],
-   "india": 10,
+   "india": 9,
    "india_samples": [
-    {
-     "location": "SpotDraft HQ, Bengaluru",
-     "title": "Associate Product Manager",
-     "url": "https://jobs.ashbyhq.com/spotdraft/e9146208-bd24-443b-b1d8-96aabd292538"
-    },
     {
      "location": "SpotDraft HQ, Bengaluru",
      "title": "Chief Of Staff to the CTO",
@@ -33,6 +28,11 @@
      "location": "SpotDraft HQ, Bengaluru",
      "title": "Implementation Manager",
      "url": "https://jobs.ashbyhq.com/spotdraft/85493b9b-16ca-4116-ad3e-0ce7219d40aa"
+    },
+    {
+     "location": "SpotDraft HQ, Bengaluru",
+     "title": "People Operations Lead",
+     "url": "https://jobs.ashbyhq.com/spotdraft/399639ad-83f2-4c4f-b97e-fd7b4180e39c"
     }
    ],
    "open_samples": [],
@@ -61,17 +61,17 @@
     }
    ],
    "slug": "spotdraft",
-   "total": 14,
+   "total": 13,
    "type": "ashby",
    "url": "https://jobs.ashbyhq.com/spotdraft",
    "worldwide": 0
   },
-  "changed_at": "2026-11-19T08:48:08Z",
+  "changed_at": "2026-11-23T04:06:44Z",
   "evidence": [
    {
-    "detail": "Associate Product Manager (SpotDraft HQ, Bengaluru); Chief Of Staff to the CTO (SpotDraft HQ, Bengaluru); Customer Success Manager-NAM (SpotDraft HQ, Bengaluru)",
+    "detail": "Chief Of Staff to the CTO (SpotDraft HQ, Bengaluru); Customer Success Manager-NAM (SpotDraft HQ, Bengaluru); Implementation Manager (SpotDraft HQ, Bengaluru)",
     "kind": "board",
-    "label": "10 of 14 open roles are located in India",
+    "label": "9 of 13 open roles are located in India",
     "url": "https://jobs.ashbyhq.com/spotdraft",
     "weight": 5
    },
@@ -86,8 +86,8 @@
   "first_checked_at": "2026-11-03T18:34:57Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "3136a8a213",
-  "summary": "10 of 14 open roles are located in India.",
+  "sig": "66cc42ab4b",
+  "summary": "9 of 13 open roles are located in India.",
   "verdict": "yes"
  },
  "inferred": true,

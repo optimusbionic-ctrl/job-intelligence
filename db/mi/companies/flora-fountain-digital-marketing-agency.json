@@ -1,0 +1,27 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-23T04:06:44Z",
+  "evidence": [
+   {
+    "detail": "Senior Animator — Ahmedabad, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/senior-animator/flora-fountain-digital-marketing-agency/19635844",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-23T04:06:44Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "4ad9cce123",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Flora Fountain: Digital Marketing Agency",
+ "slug": "flora-fountain-digital-marketing-agency",
+ "tier": 3
+}

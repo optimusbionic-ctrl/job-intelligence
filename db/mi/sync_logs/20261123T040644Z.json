@@ -1,8 +1,8 @@
 {
- "alerts_count": 0,
+ "alerts_count": 1,
  "changed_count": 0,
- "closed_count": 23,
- "duration_s": 78.4,
+ "closed_count": 22,
+ "duration_s": 82.1,
  "enrichment": {
   "careers_emails": 0,
   "dates_estimated": 0,
@@ -11,18 +11,18 @@
   "searches": 0
  },
  "excluded_counts": {
-  "Adjacent title without substantial motion work": 37,
-  "Character / film / game animation": 13,
-  "Generic product/UX designer (no motion specialisation in title)": 58,
-  "Graphic / illustration role": 30,
-  "Intern / junior / entry level": 23,
-  "Junior experience requirement": 5,
-  "Not a design role": 45,
-  "Not a motion role": 282,
+  "Adjacent title without substantial motion work": 36,
+  "Character / film / game animation": 16,
+  "Generic product/UX designer (no motion specialisation in title)": 61,
+  "Graphic / illustration role": 34,
+  "Intern / junior / entry level": 25,
+  "Junior experience requirement": 4,
+  "Not a design role": 50,
+  "Not a motion role": 291,
   "Not open to India": 99,
-  "Older than window": 260,
-  "Pure video editing role": 77,
-  "Social content role": 3,
+  "Older than window": 252,
+  "Pure video editing role": 57,
+  "Social content role": 4,
   "Staffing agency listing — employer not identified": 17,
   "Talent pool / not a specific opening": 2,
   "Unpaid / volunteer": 3
@@ -99,6 +99,13 @@
    "url": "https://himalayas.app/companies/bjak/jobs/senior-motion-designer-4720489843?utm_source=api"
   },
   {
+   "company": "Riva International, Inc.",
+   "reason": "Not open to India: Restricted to Canada",
+   "source": "Himalayas",
+   "title": "Motion and Visual Designer",
+   "url": "https://himalayas.app/companies/riva-international-inc/jobs/motion-and-visual-designer?utm_source=api"
+  },
+  {
    "company": "BrainStack",
    "reason": "Not open to India: Restricted to Ukraine",
    "source": "Himalayas",
@@ -120,13 +127,6 @@
    "url": "https://himalayas.app/companies/superside/jobs/lead-creative-motion-design?utm_source=api"
   },
   {
-   "company": "Pavago",
-   "reason": "Not open to India: Restricted to Pakistan",
-   "source": "Himalayas",
-   "title": "Animator / Motion Graphics Designer",
-   "url": "https://himalayas.app/companies/pavago/jobs/animator-motion-graphics-designer-9945445038?utm_source=api"
-  },
-  {
    "company": "Remote VA",
    "reason": "Not open to India: Restricted to Philippines",
    "source": "Himalayas",
@@ -139,13 +139,6 @@
    "source": "Himalayas",
    "title": "Video Animator",
    "url": "https://himalayas.app/companies/remote-va/jobs/video-animator?utm_source=api"
-  },
-  {
-   "company": "Clinch",
-   "reason": "Not open to India: Restricted to Philippines",
-   "source": "Himalayas",
-   "title": "Motion Designer",
-   "url": "https://himalayas.app/companies/clinch/jobs/motion-designer?utm_source=api"
   },
   {
    "company": "Pinterest",
@@ -181,13 +174,6 @@
    "source": "Himalayas",
    "title": "Creative Designer (Static and Motion) (BBS922)",
    "url": "https://himalayas.app/companies/hire-overseas/jobs/creative-designer-static-and-motion-bbs922?utm_source=api"
-  },
-  {
-   "company": "Hook",
-   "reason": "Not open to India: Restricted to United States",
-   "source": "Himalayas",
-   "title": "Motion Designer II",
-   "url": "https://himalayas.app/companies/hook-co/jobs/motion-designer-ii?utm_source=api"
   },
   {
    "company": "Superside",
@@ -379,11 +365,11 @@
    "url": "https://www.shine.com/jobs/2d-animator-noida-india/digituala-lab-enterprise/20038900"
   },
   {
-   "company": "Emporio Marketing",
+   "company": "Sadguru foods Processing",
    "reason": "Character / film / game animation",
    "source": "Shine.com",
-   "title": "Lead 2D Animator",
-   "url": "https://www.shine.com/jobs/lead-2d-animator/emporio-marketing/20073637"
+   "title": "2D & 3D Animator (Hyderabad)",
+   "url": "https://www.shine.com/jobs/2d-3d-animator-hyderabad/sadguru-foods-processing/20110649"
   },
   {
    "company": "Xopple Infotech Pvt. Ltd.",
@@ -391,6 +377,13 @@
    "source": "Shine.com",
    "title": "2d Spine Animator",
    "url": "https://www.shine.com/jobs/2d-spine-animator/xopple-infotech-pvt-ltd/20025993"
+  },
+  {
+   "company": "Emporio Marketing",
+   "reason": "Character / film / game animation",
+   "source": "Shine.com",
+   "title": "Lead 2D Animator",
+   "url": "https://www.shine.com/jobs/lead-2d-animator/emporio-marketing/20073637"
   },
   {
    "company": "Reliance Games",
@@ -778,26 +771,26 @@
    "url": "https://www.jobtarget.com/jobs/jt-foehbw1qz7/senior-motion-designer-india"
   }
  ],
- "finished_at": "2026-11-21T01:55:48Z",
+ "finished_at": "2026-11-23T04:08:06Z",
  "fx": {
-  "as_of": "Fri, 20 Nov 2026 00:02:32 +0000",
+  "as_of": "Mon, 23 Nov 2026 00:02:32 +0000",
   "source": "https://open.er-api.com/v6/latest/USD (ExchangeRate-API open access)",
-  "usd_inr": 93.372746
+  "usd_inr": 92.753491
  },
- "id": "20261121T015430Z",
+ "id": "20261123T040644Z",
  "india_checks": {
-  "companies": 142,
+  "companies": 146,
   "roles_clarified": 3,
   "verdicts": {
    "likely": 2,
    "no": 5,
    "unclear": 51,
-   "yes": 84
+   "yes": 88
   },
   "web_checked": 0
  },
- "kept": 128,
- "new_count": 0,
+ "kept": 131,
+ "new_count": 1,
  "pipeline_version": "2.1.0",
  "raw_count": 1105,
  "source_status": {
@@ -809,12 +802,12 @@
   },
   "cutshort": {
    "fetched": 45,
-   "ms": 40058,
+   "ms": 40122,
    "ok": true
   },
   "dribbble": {
    "fetched": 30,
-   "ms": 13751,
+   "ms": 9980,
    "ok": true
   },
   "greenhouse": {
@@ -827,18 +820,18 @@
    "ok": true
   },
   "himalayas": {
-   "fetched": 243,
-   "ms": 18206,
+   "fetched": 245,
+   "ms": 25142,
    "ok": true
   },
   "hn": {
    "fetched": 1,
-   "ms": 6734,
+   "ms": 7177,
    "ok": true
   },
   "jobicy": {
-   "fetched": 149,
-   "ms": 4369,
+   "fetched": 135,
+   "ms": 4748,
    "ok": true
   },
   "lever": {
@@ -849,22 +842,22 @@
   },
   "motionographer": {
    "fetched": 1,
-   "ms": 184,
+   "ms": 265,
    "ok": true
   },
   "remoteok": {
-   "fetched": 221,
-   "ms": 6846,
+   "fetched": 218,
+   "ms": 7315,
    "ok": true
   },
   "remotive": {
    "fetched": 16,
-   "ms": 4587,
+   "ms": 4708,
    "ok": true
   },
   "shine": {
-   "fetched": 22,
-   "ms": 17065,
+   "fetched": 26,
+   "ms": 16151,
    "ok": true
   },
   "smartrecruiters": {
@@ -875,19 +868,19 @@
   },
   "workable": {
    "fetched": 56,
-   "ms": 21874,
+   "ms": 23609,
    "ok": true
   },
   "workingnomads": {
    "fetched": 35,
-   "ms": 111,
+   "ms": 288,
    "ok": true
   },
   "wwr": {
-   "fetched": 21,
-   "ms": 250,
+   "fetched": 32,
+   "ms": 309,
    "ok": true
   }
  },
- "started_at": "2026-11-21T01:54:30Z"
+ "started_at": "2026-11-23T04:06:44Z"
 }

@@ -1,15 +1,24 @@
 {
- "avg": 5565209,
+ "avg": 5116514,
  "basis": "Interquartile range of posting midpoints, converted to INR at today's rate",
  "currency": "INR",
  "high": 5565209,
  "id": "qa-dataset-remote",
  "label": "Disclosed pay on remote QA postings (any region, this dataset)",
- "low": 5116514,
+ "low": 3664802,
  "market": "Remote (global)",
- "n": 4,
+ "n": 5,
  "retrieved_at": "2026-11-23",
  "samples": [
+  {
+   "company": "Syd Life AI",
+   "currency": "USD",
+   "location": "Worldwide",
+   "max": 40000,
+   "min": 20000,
+   "title": "QA Engineer",
+   "url": "https://himalayas.app/companies/syd-life-ai/jobs/qa-engineer?utm_source=api"
+  },
   {
    "company": "IRIUM",
    "currency": "EUR",
