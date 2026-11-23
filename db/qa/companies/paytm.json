@@ -20,7 +20,7 @@
     "Luxembourg",
     "Indonesia"
    ],
-   "india": 192,
+   "india": 180,
    "india_samples": [
     {
      "location": "Noida, Uttar Pradesh",
@@ -33,32 +33,32 @@
      "url": "https://jobs.lever.co/paytm/feb33510-9ea7-4b69-b69d-87a41f7c2c2c"
     },
     {
-     "location": "Mumbai, Maharashtra",
-     "title": "AVP - Business Management",
-     "url": "https://jobs.lever.co/paytm/00765276-c16d-47cf-99d2-85c8c91ada3c"
-    },
-    {
      "location": "Bangalore, Karnataka",
      "title": "Ad Sales (KAM) -Manager/ Senior Manager - Paytm Ads - Bangalore",
      "url": "https://jobs.lever.co/paytm/552abb0b-e76d-4902-aedb-ca2290536744"
+    },
+    {
+     "location": "Noida, Uttar Pradesh",
+     "title": "Ad Sales (KAM) -Manager/ Senior Manager - Paytm Ads - Noida",
+     "url": "https://jobs.lever.co/paytm/6641f782-c6cd-483d-8a8a-b852b6445389"
     }
    ],
    "open_samples": [],
-   "remote": 2,
+   "remote": 1,
    "restricted_remote": 0,
    "restricted_samples": [],
    "slug": "paytm",
-   "total": 199,
+   "total": 187,
    "type": "lever",
    "url": "https://jobs.lever.co/paytm",
    "worldwide": 0
   },
-  "changed_at": "2026-11-20T11:58:23Z",
+  "changed_at": "2026-11-23T06:42:54Z",
   "evidence": [
    {
-    "detail": "AM / DM | Non IT Purchase (Noida, Uttar Pradesh); AM/Manager– Procurement (Admin, Real Estate & HR) (Noida, Uttar Pradesh); AVP - Business Management (Mumbai, Maharashtra)",
+    "detail": "AM / DM | Non IT Purchase (Noida, Uttar Pradesh); AM/Manager– Procurement (Admin, Real Estate & HR) (Noida, Uttar Pradesh); Ad Sales (KAM) -Manager/ Senior Manager - Paytm Ads - Bangalore (Bangalore, Karnataka)",
     "kind": "board",
-    "label": "192 of 199 open roles are located in India",
+    "label": "180 of 187 open roles are located in India",
     "url": "https://jobs.lever.co/paytm",
     "weight": 5
    },
@@ -73,7 +73,7 @@
   "first_checked_at": "2026-10-19T15:45:44Z",
   "india_based": true,
   "method": "Careers board, posting text",
-  "sig": "21e2a93007",
+  "sig": "670fbcd8ef",
   "summary": "Paytm is headquartered in India.",
   "verdict": "yes"
  },
