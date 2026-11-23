@@ -1,0 +1,99 @@
+{
+ "apply_url": null,
+ "board_apply": "https://jobs.workable.com/view/vwZ8w7fAEarS3fcmfAvpxu/salesforce-qa-in-ahmedabad-at-horizontal-digital",
+ "category": "IT services",
+ "comp_potential": "unknown",
+ "company": "Horizontal Digital",
+ "company_slug": "horizontal-digital",
+ "concerns": [
+  "Asks for 4+ years — you have about 2.5",
+  "Office outside Mumbai — relocation within India",
+  "Pay not disclosed — ask for the range early",
+  "IT services company (client projects)"
+ ],
+ "contacts_count": 0,
+ "content_hash": "8f97a17bd2b9",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-23T12:35:07Z",
+ "fit": 72,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "eafc13388e754b",
+ "include_reason": "QA / test engineer title",
+ "india": {
+  "cities": [],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "qa-engineer",
+ "last_verified": "2026-11-23T12:35:07Z",
+ "location": "Ahmedabad, Gujarat, India",
+ "logo": "https://workablehr.s3.amazonaws.com/uploads/account/logo/579191/logo",
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-11-23T11:25:08Z",
+ "repost": false,
+ "requirements": [
+  "As a Salesforce QA , you’ll apply and develop your analytical, interpersonal, creative thinking, business management, and leadership skills from day one. You'll begin as a generalist and be placed in the thick of the action, as you work side by side with some of the best consultants and project managers in the business"
+ ],
+ "responsibilities": [
+  "Become a trusted advisor to our clients and facilitate ongoing communications and guiding efforts to manage and exceed client expectations.",
+  "Gather and analyze requirements from business teams and stakeholders to determine appropriate QA Activities based on the requirements.",
+  "Draft Test Plans, Create Test cases, regression test plans, and other QA related documents.",
+  "Implement, improve, and maintain new and legacy testing cases/suites for both the Developer and Administrator teams.",
+  "Lead weekly & monthly release regression test cycles.",
+  "Identify platform issues and craft proactive resolutions and communication plans to remedy.",
+  "Review the development work consistently and own the quality of the QA work."
+ ],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 62,
+  "comp": 60,
+  "company": 76,
+  "location": 80,
+  "seniority": 72,
+  "skill": 72
+ },
+ "seniority": "unspecified",
+ "snippet": "We are conducting an in-person hiring drive for the Salesforce QA role at our Jaipur office . Please apply in advance to pre-register and get a head start in the hiring process. \n Apply only if you are available to attend the in-person drive on 21 November 2026 . \n At Horizontal Digital, we hold ourselves to one key belief: You’re only as good as your worst customer experience. This mantra is what drives our digital ",
+ "source_primary": "Workable job marketplace",
+ "sources": [
+  {
+   "id": "workable",
+   "job_id": "ef2c8aa8-5544-4fc0-bdec-55c6eb2f4946",
+   "kind": "board",
+   "name": "Workable job marketplace",
+   "posted_at": "2026-11-23T11:25:08Z",
+   "seen_at": "2026-11-23T12:35:07Z",
+   "url": "https://jobs.workable.com/view/vwZ8w7fAEarS3fcmfAvpxu/salesforce-qa-in-ahmedabad-at-horizontal-digital"
+  }
+ ],
+ "specializations": [
+  "Web apps"
+ ],
+ "status": "active",
+ "tier": 2,
+ "title": "Salesforce QA",
+ "tools": [
+  "Regression testing",
+  "Test cases & scenarios"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://jobs.workable.com/view/vwZ8w7fAEarS3fcmfAvpxu/salesforce-qa-in-ahmedabad-at-horizontal-digital",
+ "why": [
+  "QA / test engineer role",
+  "Already on your resume: Regression testing, Test cases & scenarios",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": null,
+ "years_min": 4
+}
