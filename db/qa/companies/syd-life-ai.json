@@ -1,0 +1,38 @@
+{
+ "category": "Product / SaaS",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-23T01:55:11Z",
+  "evidence": [
+   {
+    "detail": "QA Engineer — Worldwide",
+    "kind": "posting",
+    "label": "A current posting is open worldwide",
+    "url": "https://himalayas.app/companies/syd-life-ai/jobs/qa-engineer?utm_source=api",
+    "weight": 3
+   },
+   {
+    "detail": "…back to its evidence . Syd is available in 30 languages and deployed in 26 countries .  Privacy and security sit at the centre of how we build : SOC 2 , I…",
+    "kind": "posting",
+    "label": "Posting describes hiring across countries",
+    "url": "https://himalayas.app/companies/syd-life-ai/jobs/qa-engineer?utm_source=api",
+    "weight": 3
+   }
+  ],
+  "first_checked_at": "2026-11-23T01:55:11Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "2ed5294c21",
+  "summary": "No India-located roles found, but a current posting is open worldwide.",
+  "verdict": "likely"
+ },
+ "inferred": true,
+ "logo": "https://cdn-images.himalayas.app/kd48xn9s5ep39vjmtqsk7miu52dm",
+ "name": "Syd Life AI",
+ "slug": "syd-life-ai",
+ "tier": 1,
+ "tracks": [
+  "software"
+ ]
+}

@@ -1,0 +1,129 @@
+{
+ "apply_url": null,
+ "board_apply": "https://himalayas.app/companies/syd-life-ai/jobs/qa-engineer?utm_source=api",
+ "category": "Product / SaaS",
+ "comp_potential": "listed_global",
+ "company": "Syd Life AI",
+ "company_slug": "syd-life-ai",
+ "concerns": [
+  "Mentions test automation — be ready to discuss it or show a small script",
+  "Also asks for: API testing, Localization",
+  "Contract role"
+ ],
+ "contacts_count": 0,
+ "content_hash": "2393e7ccf2ae",
+ "date_quality": "exact",
+ "deadline": "2026-12-22T09:20:56Z",
+ "employment": "contract",
+ "first_seen": "2026-11-23T01:55:11Z",
+ "fit": 86,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "8121ef213eec1b",
+ "include_reason": "QA / test engineer title",
+ "india": {
+  "cities": [],
+  "company": "likely",
+  "reason": "Worldwide remote",
+  "status": "likely",
+  "visa": false
+ },
+ "kind": "qa-engineer",
+ "last_verified": "2026-11-23T01:55:11Z",
+ "location": "Worldwide",
+ "logo": "https://cdn-images.himalayas.app/kd48xn9s5ep39vjmtqsk7miu52dm",
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-11-23T00:20:28Z",
+ "repost": false,
+ "requirements": [
+  "Practical experience testing mobile apps on both iOS and Android .",
+  "Experience building and maintaining automated tests , with programming skills sufficient to investigate failures and keep the test suite dependable .",
+  "Experience with API testing , version control and running tests within continuous integration and release workflows .",
+  "Strong exploratory testing skills and judgement about which checks to automate and which need human review .",
+  "Clear written English for test plans , bug reports and communication with the team .",
+  "The ability to prioritise work , explain risks and own a QA process with limited supervision ."
+ ],
+ "responsibilities": [
+  "Practical experience testing mobile apps on both iOS and Android .",
+  "Experience building and maintaining automated tests , with programming skills sufficient to investigate failures and keep the test suite dependable .",
+  "Experience with API testing , version control and running tests within continuous integration and release workflows .",
+  "Strong exploratory testing skills and judgement about which checks to automate and which need human review .",
+  "Clear written English for test plans , bug reports and communication with the team .",
+  "The ability to prioritise work , explain risks and own a QA process with limited supervision .",
+  "Map critical member journeys and build a practical testing strategy based on member impact and release risk ."
+ ],
+ "salary": {
+  "applies_india": "unconfirmed",
+  "basis": "listed",
+  "currency": "USD",
+  "fx_at": "Mon, 23 Nov 2026 00:02:32 +0000",
+  "fx_rate": 92.7535,
+  "inr_max": 3710140,
+  "inr_min": 1855070,
+  "max": 40000,
+  "min": 20000,
+  "note": "Listed for a worldwide-remote role; confirm it applies to India-based hires",
+  "original_period": "annual",
+  "period": "annual",
+  "source_name": "Himalayas",
+  "source_url": "https://himalayas.app/companies/syd-life-ai/jobs/qa-engineer?utm_source=api",
+  "state": "verified",
+  "verified_at": "2026-11-23T01:55:11Z"
+ },
+ "scores": {
+  "ai": 80,
+  "comp": 96,
+  "company": 95,
+  "location": 86,
+  "seniority": 84,
+  "skill": 80
+ },
+ "seniority": "unspecified",
+ "snippet": "About Syd Life AI \n We build life quality infrastructure that compounds validated research and action into better living .\n Syd , our companion , draws on 2.7 million+ peer-reviewed studies and 14.3 billion+ person-years of longitudinal data , and turns that evidence into action across nine dimensions of life quality . Every recommendation traces back to its evidence . Syd is available in 30 languages and deployed in",
+ "source_primary": "Himalayas",
+ "sources": [
+  {
+   "id": "himalayas",
+   "job_id": "https://himalayas.app/companies/syd-life-ai/jobs/qa-engineer",
+   "kind": "board",
+   "name": "Himalayas",
+   "posted_at": "2026-11-23T00:20:28Z",
+   "seen_at": "2026-11-23T01:55:11Z",
+   "url": "https://himalayas.app/companies/syd-life-ai/jobs/qa-engineer?utm_source=api"
+  }
+ ],
+ "specializations": [
+  "Android",
+  "iOS",
+  "Mobile apps"
+ ],
+ "status": "active",
+ "tier": 1,
+ "title": "QA Engineer",
+ "tools": [
+  "Regression testing",
+  "Exploratory testing",
+  "Test cases & scenarios",
+  "Bug reporting",
+  "Jira",
+  "API testing",
+  "Test automation",
+  "Localization"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://himalayas.app/companies/syd-life-ai/jobs/qa-engineer?utm_source=api",
+ "why": [
+  "QA / test engineer role",
+  "Already on your resume: Regression testing, Exploratory testing, Test cases & scenarios, Bug reporting, Jira",
+  "Platforms you test on: Android, iOS, Mobile apps",
+  "Product / SaaS company",
+  "Worldwide remote",
+  "Pay is listed in the posting"
+ ],
+ "work_mode": "remote",
+ "years_max": null,
+ "years_min": null
+}

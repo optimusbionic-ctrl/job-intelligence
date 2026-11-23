@@ -1,0 +1,30 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-23T01:55:11Z",
+  "evidence": [
+   {
+    "detail": "Test & Automation QA Engineer — Mumbai City, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/test-automation-qa-engineer/allps/19960056",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-23T01:55:11Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "e2e114e3af",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "ALLPS",
+ "slug": "allps",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}

@@ -18,7 +18,7 @@
     "Switzerland",
     "Germany"
    ],
-   "india": 311,
+   "india": 320,
    "india_samples": [
     {
      "location": "India",
@@ -42,8 +42,8 @@
     }
    ],
    "open_samples": [],
-   "remote": 3862,
-   "restricted_remote": 3551,
+   "remote": 3898,
+   "restricted_remote": 3578,
    "restricted_samples": [
     {
      "location": "US",
@@ -67,17 +67,17 @@
     }
    ],
    "slug": "jobgether",
-   "total": 3863,
+   "total": 3899,
    "type": "lever",
    "url": "https://jobs.lever.co/jobgether",
    "worldwide": 0
   },
-  "changed_at": "2026-11-22T20:23:39Z",
+  "changed_at": "2026-11-23T01:56:54Z",
   "evidence": [
    {
     "detail": ".NET Tech Lead / Senior .NET Developer (India); AEO/GEO Lead (Technical AI Search) (India); AI Delivery Manager (India)",
     "kind": "board",
-    "label": "311 of 3863 open roles are located in India",
+    "label": "320 of 3899 open roles are located in India",
     "url": "https://jobs.lever.co/jobgether",
     "weight": 5
    },
@@ -92,8 +92,8 @@
   "first_checked_at": "2026-11-19T20:06:27Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "162e2ea2f7",
-  "summary": "311 of 3863 open roles are located in India.",
+  "sig": "6b8f7f6831",
+  "summary": "320 of 3899 open roles are located in India.",
   "verdict": "yes"
  },
  "inferred": true,

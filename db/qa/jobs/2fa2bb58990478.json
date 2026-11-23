@@ -1,0 +1,91 @@
+{
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/test-automation-qa-engineer/allps/19960056",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "ALLPS",
+ "company_slug": "allps",
+ "concerns": [
+  "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
+  "Also asks for: API testing, ISTQB",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "e3c9e6fd4af0",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-23T01:55:11Z",
+ "fit": 71,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "2fa2bb58990478",
+ "include_reason": "Automation-heavy QA (SDET)",
+ "india": {
+  "cities": [
+   "Mumbai"
+  ],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "automation",
+ "last_verified": "2026-11-23T01:55:11Z",
+ "location": "Mumbai City, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-10-30T04:23:14Z",
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 60,
+  "company": 66,
+  "location": 100,
+  "seniority": 100,
+  "skill": 47
+ },
+ "seniority": "unspecified",
+ "snippet": "Experience: 1 to 5 Yrs\nSkills: software testing, Selenium, Cypress, API testing, bug tracking, Jira, Azure DevOps, Playwright, Postman, ISTQB Foundation\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "19960056",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-10-30T04:23:14Z",
+   "seen_at": "2026-11-23T01:55:11Z",
+   "url": "https://www.shine.com/jobs/test-automation-qa-engineer/allps/19960056"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 3,
+ "title": "Test & Automation QA Engineer",
+ "tools": [
+  "Bug reporting",
+  "Jira",
+  "API testing",
+  "Test automation",
+  "ISTQB"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/test-automation-qa-engineer/allps/19960056",
+ "why": [
+  "Already on your resume: Bug reporting, Jira",
+  "Asks for 1–5 years — you have about 2.5",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": 5,
+ "years_min": 1
+}
