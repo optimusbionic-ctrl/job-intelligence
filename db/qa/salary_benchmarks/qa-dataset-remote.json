@@ -7,18 +7,9 @@
  "label": "Disclosed pay on remote QA postings (any region, this dataset)",
  "low": 3664802,
  "market": "Remote (global)",
- "n": 9,
+ "n": 5,
  "retrieved_at": "2026-11-23",
  "samples": [
-  {
-   "company": "Storware Sp. z o.o.",
-   "currency": "PLN",
-   "location": "Poland",
-   "max": 108000,
-   "min": 84000,
-   "title": "Manual Tester with Linux (QA team)",
-   "url": "https://himalayas.app/companies/storware-sp-z-o-o/jobs/manual-tester-with-linux-qa-team?utm_source=api"
-  },
   {
    "company": "Syd Life AI",
    "currency": "USD",
@@ -38,15 +29,6 @@
    "url": "https://himalayas.app/companies/irium/jobs/qa-tester?utm_source=api"
   },
   {
-   "company": "TISTA Science and Technology Corporation",
-   "currency": "USD",
-   "location": "United States",
-   "max": 60250,
-   "min": 50075,
-   "title": "Manual Functional Tester",
-   "url": "https://himalayas.app/companies/tista-science-and-technology-corporation/jobs/manual-functional-tester?utm_source=api"
-  },
-  {
    "company": "Lavendo",
    "currency": "USD",
    "location": "United States",
@@ -54,15 +36,6 @@
    "min": 50000,
    "title": "QA Tester, Data Privacy Platform (DC)",
    "url": "https://himalayas.app/companies/lavendo/jobs/qa-tester-data-privacy-platform-dc?utm_source=api"
-  },
-  {
-   "company": "9th Way Insignia",
-   "currency": "USD",
-   "location": "United States",
-   "max": 67500,
-   "min": 62818,
-   "title": "Junior Tester",
-   "url": "https://himalayas.app/companies/9th-way-insignia/jobs/junior-tester?utm_source=api"
   },
   {
    "company": "ICF",
@@ -81,15 +54,6 @@
    "min": 93816,
    "title": "Data Engineer Tester - Healthcare Data & AI Validation - Remote (Philadelphia, P",
    "url": "https://himalayas.app/companies/nttdata/jobs/data-engineer-tester-healthcare-data-ai-validation-remote-philadelphia-p?utm_source=api"
-  },
-  {
-   "company": "OpenDataJobs",
-   "currency": "USD",
-   "location": "United States",
-   "max": 140000,
-   "min": 100000,
-   "title": "QA Tester",
-   "url": "https://himalayas.app/companies/opendatajobs/jobs/qa-tester?utm_source=api"
   }
  ],
  "source_name": "QA Intelligence dataset",
