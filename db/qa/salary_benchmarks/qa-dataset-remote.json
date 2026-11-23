@@ -1,14 +1,14 @@
 {
- "avg": 5573346,
+ "avg": 5565209,
  "basis": "Interquartile range of posting midpoints, converted to INR at today's rate",
  "currency": "INR",
- "high": 5573346,
+ "high": 5565209,
  "id": "qa-dataset-remote",
  "label": "Disclosed pay on remote QA postings (any region, this dataset)",
- "low": 5123995,
+ "low": 5116514,
  "market": "Remote (global)",
  "n": 4,
- "retrieved_at": "2026-11-22",
+ "retrieved_at": "2026-11-23",
  "samples": [
   {
    "company": "IRIUM",
