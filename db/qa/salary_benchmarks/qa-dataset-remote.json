@@ -2,12 +2,12 @@
  "avg": 5565209,
  "basis": "Interquartile range of posting midpoints, converted to INR at today's rate",
  "currency": "INR",
- "high": 10449423,
+ "high": 6043725,
  "id": "qa-dataset-remote",
  "label": "Disclosed pay on remote QA postings (any region, this dataset)",
  "low": 3664802,
  "market": "Remote (global)",
- "n": 9,
+ "n": 8,
  "retrieved_at": "2026-11-23",
  "samples": [
   {
@@ -81,15 +81,6 @@
    "min": 100000,
    "title": "QA Tester",
    "url": "https://himalayas.app/companies/opendatajobs/jobs/qa-tester?utm_source=api"
-  },
-  {
-   "company": "Xperteez Technology",
-   "currency": "USD",
-   "location": "United States",
-   "max": 140000,
-   "min": 100000,
-   "title": "QA Engineer",
-   "url": "https://himalayas.app/companies/xperteez-technology/jobs/qa-engineer?utm_source=api"
   }
  ],
  "source_name": "QA Intelligence dataset",
