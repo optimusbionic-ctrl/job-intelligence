@@ -12,7 +12,7 @@
     "India",
     "United States"
    ],
-   "india": 8,
+   "india": 7,
    "india_samples": [
     {
      "location": "SpotDraft HQ, Bengaluru",
@@ -26,13 +26,13 @@
     },
     {
      "location": "SpotDraft HQ, Bengaluru",
-     "title": "People Operations Lead",
-     "url": "https://jobs.ashbyhq.com/spotdraft/399639ad-83f2-4c4f-b97e-fd7b4180e39c"
+     "title": "Product Manager - AI",
+     "url": "https://jobs.ashbyhq.com/spotdraft/88fc1f00-e546-463a-8ba0-78bc89a95cc6"
     },
     {
      "location": "SpotDraft HQ, Bengaluru",
-     "title": "Product Manager - AI",
-     "url": "https://jobs.ashbyhq.com/spotdraft/88fc1f00-e546-463a-8ba0-78bc89a95cc6"
+     "title": "Senior Content Marketing Manager",
+     "url": "https://jobs.ashbyhq.com/spotdraft/fac72e55-20eb-4d8f-8783-7f6d28df3504"
     }
    ],
    "open_samples": [],
@@ -61,17 +61,17 @@
     }
    ],
    "slug": "spotdraft",
-   "total": 12,
+   "total": 11,
    "type": "ashby",
    "url": "https://jobs.ashbyhq.com/spotdraft",
    "worldwide": 0
   },
-  "changed_at": "2026-11-23T09:58:33Z",
+  "changed_at": "2026-11-23T11:10:22Z",
   "evidence": [
    {
-    "detail": "Chief Of Staff to the CTO (SpotDraft HQ, Bengaluru); Implementation Manager (SpotDraft HQ, Bengaluru); People Operations Lead (SpotDraft HQ, Bengaluru)",
+    "detail": "Chief Of Staff to the CTO (SpotDraft HQ, Bengaluru); Implementation Manager (SpotDraft HQ, Bengaluru); Product Manager - AI (SpotDraft HQ, Bengaluru)",
     "kind": "board",
-    "label": "8 of 12 open roles are located in India",
+    "label": "7 of 11 open roles are located in India",
     "url": "https://jobs.ashbyhq.com/spotdraft",
     "weight": 5
    },
@@ -86,8 +86,8 @@
   "first_checked_at": "2026-11-03T18:34:57Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "5979ecc2c0",
-  "summary": "8 of 12 open roles are located in India.",
+  "sig": "8d4c2c1c51",
+  "summary": "7 of 11 open roles are located in India.",
   "verdict": "yes"
  },
  "inferred": true,

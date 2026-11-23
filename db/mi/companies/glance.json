@@ -20,7 +20,7 @@
     "Japan",
     "United States"
    ],
-   "india": 14,
+   "india": 12,
    "india_samples": [
     {
      "location": "Bangalore",
@@ -33,14 +33,14 @@
      "url": "https://job-boards.greenhouse.io/glance/jobs/7528890"
     },
     {
-     "location": "bangalore",
-     "title": "Consultant - AI Governance Specialist",
-     "url": "https://job-boards.greenhouse.io/glance/jobs/8203695"
-    },
-    {
      "location": "Bangalore",
      "title": "Lead - Taxation",
      "url": "https://job-boards.greenhouse.io/glance/jobs/7903950"
+    },
+    {
+     "location": "Bangalore, India",
+     "title": "Manager - Strategy & operations",
+     "url": "https://job-boards.greenhouse.io/glance/jobs/8015084"
     }
    ],
    "open_samples": [],
@@ -48,17 +48,17 @@
    "restricted_remote": 0,
    "restricted_samples": [],
    "slug": "glance",
-   "total": 26,
+   "total": 24,
    "type": "greenhouse",
    "url": "https://boards.greenhouse.io/glance",
    "worldwide": 0
   },
-  "changed_at": "2026-11-20T19:39:28Z",
+  "changed_at": "2026-11-23T11:10:22Z",
   "evidence": [
    {
-    "detail": "Applied Scientist II - Recommendation (Bangalore); Applied Scientist III - Recommendation Systems  (Bangalore); Consultant - AI Governance Specialist (bangalore)",
+    "detail": "Applied Scientist II - Recommendation (Bangalore); Applied Scientist III - Recommendation Systems  (Bangalore); Lead - Taxation (Bangalore)",
     "kind": "board",
-    "label": "14 of 26 open roles are located in India",
+    "label": "12 of 24 open roles are located in India",
     "url": "https://boards.greenhouse.io/glance",
     "weight": 5
    },
@@ -80,7 +80,7 @@
   "first_checked_at": "2026-10-15T16:19:24Z",
   "india_based": true,
   "method": "Careers board, posting text",
-  "sig": "0df5e1b603",
+  "sig": "22aa5393e9",
   "summary": "Glance is headquartered in India.",
   "verdict": "yes"
  },
