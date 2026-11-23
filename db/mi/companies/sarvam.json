@@ -11,17 +11,12 @@
    "countries": [
     "India"
    ],
-   "india": 43,
+   "india": 42,
    "india_samples": [
     {
      "location": "Bengaluru",
      "title": "Data Scientist - Evaluations, Chanakya",
      "url": "https://jobs.ashbyhq.com/sarvam/7c42207a-bb56-413c-839f-9ad692df840e"
-    },
-    {
-     "location": "Bengaluru",
-     "title": "Deployment Strategist",
-     "url": "https://jobs.ashbyhq.com/sarvam/48c228f1-0762-4d4e-9d83-ae8f751ce19d"
     },
     {
      "location": "Delhi • Mumbai",
@@ -32,6 +27,11 @@
      "location": "Mumbai • Delhi",
      "title": "Deployment Strategist II (DS-2)",
      "url": "https://jobs.ashbyhq.com/sarvam/0e02db36-768a-4d16-9a54-a8eee10eb2c1"
+    },
+    {
+     "location": "Delhi",
+     "title": "Embedded Data Scientist, Chanakya",
+     "url": "https://jobs.ashbyhq.com/sarvam/dc047f4f-97be-4bb3-a9f1-cebbfc4de3e6"
     }
    ],
    "open_samples": [],
@@ -39,17 +39,17 @@
    "restricted_remote": 0,
    "restricted_samples": [],
    "slug": "sarvam",
-   "total": 43,
+   "total": 42,
    "type": "ashby",
    "url": "https://jobs.ashbyhq.com/sarvam",
    "worldwide": 0
   },
-  "changed_at": "2026-11-23T17:11:22Z",
+  "changed_at": "2026-11-23T19:38:39Z",
   "evidence": [
    {
-    "detail": "Data Scientist - Evaluations, Chanakya (Bengaluru); Deployment Strategist (Bengaluru); Deployment Strategist I (DS-1) (Delhi • Mumbai)",
+    "detail": "Data Scientist - Evaluations, Chanakya (Bengaluru); Deployment Strategist I (DS-1) (Delhi • Mumbai); Deployment Strategist II (DS-2) (Mumbai • Delhi)",
     "kind": "board",
-    "label": "43 of 43 open roles are located in India",
+    "label": "42 of 42 open roles are located in India",
     "url": "https://jobs.ashbyhq.com/sarvam",
     "weight": 5
    },
@@ -64,8 +64,8 @@
   "first_checked_at": "2026-11-10T21:34:53Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "1544e0d2bf",
-  "summary": "43 of 43 open roles are located in India.",
+  "sig": "a68f120662",
+  "summary": "42 of 42 open roles are located in India.",
   "verdict": "yes"
  },
  "inferred": true,

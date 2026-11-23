@@ -2,12 +2,12 @@
  "avg": 16324614,
  "basis": "Interquartile range of posting midpoints, converted to INR at today's rate",
  "currency": "INR",
- "high": 21922288,
+ "high": 18086931,
  "id": "mi-dataset-remote",
  "label": "Disclosed pay on remote motion-design postings (any region, this dataset)",
  "low": 11130419,
  "market": "Remote (global)",
- "n": 11,
+ "n": 12,
  "retrieved_at": "2026-11-23",
  "samples": [
   {
@@ -27,6 +27,15 @@
    "min": 90000,
    "title": "Senior Motion & Graphic Designer",
    "url": "https://himalayas.app/companies/silverback-strategies/jobs/senior-motion-graphic-designer-2282778552?utm_source=api"
+  },
+  {
+   "company": "Red Door Collaborative",
+   "currency": "USD",
+   "location": "United States",
+   "max": 120000,
+   "min": 105000,
+   "title": "Senior Lead Motion Designer",
+   "url": "https://himalayas.app/companies/red-door-collaborative/jobs/senior-lead-motion-designer?utm_source=api"
   },
   {
    "company": "Pogo",

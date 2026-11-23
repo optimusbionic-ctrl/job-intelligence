@@ -3,20 +3,20 @@
  "classification": "Inferred from job description",
  "india_hiring": {
   "board": null,
-  "changed_at": "2026-11-23T17:08:51Z",
+  "changed_at": "2026-11-23T19:36:53Z",
   "evidence": [
    {
-    "detail": "Quality Engineer - Manual Game Tester (Amravati) — Amravati, India",
+    "detail": "Game Tester — Navi Mumbai, Maharashtra, India",
     "kind": "posting",
     "label": "A current posting lists India as a location",
-    "url": "https://www.shine.com/jobs/quality-engineer-manual-game-tester-amravati/gametion-technologies/19679483",
+    "url": "https://outscal.com/job/game-tester-at-gametion-technologies-pvt-ltd-in-navi-mumbai-maharashtra-india-1",
     "weight": 5
    }
   ],
   "first_checked_at": "2026-10-19T13:24:59Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "c1c15011eb",
+  "sig": "3f3240f88a",
   "summary": "A current posting lists India as a location.",
   "verdict": "yes"
  },
@@ -25,7 +25,7 @@
  "slug": "gametion-technologies",
  "tier": 3,
  "tracks": [
-  "game",
-  "software"
+  "software",
+  "game"
  ]
 }
