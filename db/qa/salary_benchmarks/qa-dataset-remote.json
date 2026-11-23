@@ -2,12 +2,12 @@
  "avg": 5565209,
  "basis": "Interquartile range of posting midpoints, converted to INR at today's rate",
  "currency": "INR",
- "high": 6043725,
+ "high": 8433982,
  "id": "qa-dataset-remote",
  "label": "Disclosed pay on remote QA postings (any region, this dataset)",
  "low": 3664802,
  "market": "Remote (global)",
- "n": 8,
+ "n": 9,
  "retrieved_at": "2026-11-23",
  "samples": [
   {
@@ -63,6 +63,15 @@
    "min": 62818,
    "title": "Junior Tester",
    "url": "https://himalayas.app/companies/9th-way-insignia/jobs/junior-tester?utm_source=api"
+  },
+  {
+   "company": "ICF",
+   "currency": "USD",
+   "location": "United States",
+   "max": 114503,
+   "min": 67355,
+   "title": "Quality Assurance Analyst",
+   "url": "https://himalayas.app/companies/icf/jobs/quality-assurance-analyst?utm_source=api"
   },
   {
    "company": "NTT DATA",
