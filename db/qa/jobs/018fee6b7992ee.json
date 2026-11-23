@@ -1,0 +1,95 @@
+{
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/quality-control-research-associate-qc-qa-quality-assurance/dsrp-hr-services/20127658",
+ "category": "Recruiter (client not named)",
+ "comp_potential": "unknown",
+ "company": "DSRP HR SERVICES",
+ "company_slug": "dsrp-hr-services",
+ "concerns": [
+  "Asks for 4+ years — you have about 2.5",
+  "Entry-level role — pay may be at the lower end",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "60ef8b097c1e",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-23T08:37:45Z",
+ "fit": 64,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "018fee6b7992ee",
+ "include_reason": "QA / test engineer title",
+ "india": {
+  "cities": [
+   "Mumbai"
+  ],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "qa-engineer",
+ "last_verified": "2026-11-23T08:37:45Z",
+ "location": "Navi Mumbai, Thane, Mira Bhayandar, Kalyan, Vasai, Dombivali, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-11-23T12:27:57Z",
+ "repost": false,
+ "requirements": [
+  "(Summary from the Shine.com listing; open the posting for the full description.)"
+ ],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 60,
+  "company": 66,
+  "location": 100,
+  "seniority": 72,
+  "skill": 43
+ },
+ "seniority": "junior",
+ "snippet": "Experience: 4 to 8 Yrs\nSkills: quality control, qc, qa, quality assurance, research associate\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "20127658",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-11-23T12:28:13Z",
+   "seen_at": "2026-11-23T08:37:45Z",
+   "url": "https://www.shine.com/jobs/quality-control-research-associate-qc-qa-quality-assurance/dsrp-hr-services/20127658"
+  },
+  {
+   "id": "shine",
+   "job_id": "20127653",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-11-23T12:27:57Z",
+   "seen_at": "2026-11-23T08:37:45Z",
+   "url": "https://www.shine.com/jobs/quality-control-associate-qc-qa-quality-assurance/dsrp-hr-services/20127653"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 3,
+ "title": "Quality Control Research Associate - QC, QA, Quality Assurance",
+ "tools": [],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/quality-control-research-associate-qc-qa-quality-assurance/dsrp-hr-services/20127658",
+ "why": [
+  "QA / test engineer role",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": 8,
+ "years_min": 4
+}
