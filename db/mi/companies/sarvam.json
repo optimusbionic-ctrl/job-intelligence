@@ -11,7 +11,7 @@
    "countries": [
     "India"
    ],
-   "india": 40,
+   "india": 43,
    "india_samples": [
     {
      "location": "Bengaluru",
@@ -24,14 +24,14 @@
      "url": "https://jobs.ashbyhq.com/sarvam/48c228f1-0762-4d4e-9d83-ae8f751ce19d"
     },
     {
-     "location": "Delhi",
-     "title": "Embedded Data Scientist, Chanakya",
-     "url": "https://jobs.ashbyhq.com/sarvam/dc047f4f-97be-4bb3-a9f1-cebbfc4de3e6"
+     "location": "Delhi • Mumbai",
+     "title": "Deployment Strategist I (DS-1)",
+     "url": "https://jobs.ashbyhq.com/sarvam/9d8a0c6b-c391-46bf-960d-1b733f999863"
     },
     {
-     "location": "Delhi",
-     "title": "Embedded Infrastructure Engineer, Chanakya",
-     "url": "https://jobs.ashbyhq.com/sarvam/b2201b5e-1e96-497a-962c-bca1768f75fd"
+     "location": "Mumbai • Delhi",
+     "title": "Deployment Strategist II (DS-2)",
+     "url": "https://jobs.ashbyhq.com/sarvam/0e02db36-768a-4d16-9a54-a8eee10eb2c1"
     }
    ],
    "open_samples": [],
@@ -39,17 +39,17 @@
    "restricted_remote": 0,
    "restricted_samples": [],
    "slug": "sarvam",
-   "total": 40,
+   "total": 43,
    "type": "ashby",
    "url": "https://jobs.ashbyhq.com/sarvam",
    "worldwide": 0
   },
-  "changed_at": "2026-11-23T11:10:22Z",
+  "changed_at": "2026-11-23T17:11:22Z",
   "evidence": [
    {
-    "detail": "Data Scientist - Evaluations, Chanakya (Bengaluru); Deployment Strategist (Bengaluru); Embedded Data Scientist, Chanakya (Delhi)",
+    "detail": "Data Scientist - Evaluations, Chanakya (Bengaluru); Deployment Strategist (Bengaluru); Deployment Strategist I (DS-1) (Delhi • Mumbai)",
     "kind": "board",
-    "label": "40 of 40 open roles are located in India",
+    "label": "43 of 43 open roles are located in India",
     "url": "https://jobs.ashbyhq.com/sarvam",
     "weight": 5
    },
@@ -64,8 +64,8 @@
   "first_checked_at": "2026-11-10T21:34:53Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "4dd4c87e9c",
-  "summary": "40 of 40 open roles are located in India.",
+  "sig": "1544e0d2bf",
+  "summary": "43 of 43 open roles are located in India.",
   "verdict": "yes"
  },
  "inferred": true,

@@ -11,7 +11,7 @@
    "countries": [
     "India"
    ],
-   "india": 18,
+   "india": 19,
    "india_samples": [
     {
      "location": "Bengaluru ",
@@ -39,17 +39,17 @@
    "restricted_remote": 0,
    "restricted_samples": [],
    "slug": "karya",
-   "total": 18,
+   "total": 19,
    "type": "greenhouse",
    "url": "https://boards.greenhouse.io/karya",
    "worldwide": 0
   },
-  "changed_at": "2026-11-23T05:24:03Z",
+  "changed_at": "2026-11-23T17:11:22Z",
   "evidence": [
    {
     "detail": "Associate - Founder's Office (Bengaluru ); Community Coordinator - Work Management (Bengaluru, Karnataka, India, Delhi, India); Content Developer - Learning and Curriculum (Bengaluru)",
     "kind": "board",
-    "label": "18 of 18 open roles are located in India",
+    "label": "19 of 19 open roles are located in India",
     "url": "https://boards.greenhouse.io/karya",
     "weight": 5
    }
@@ -57,8 +57,8 @@
   "first_checked_at": "2026-11-10T21:34:53Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "50c0a8b8ff",
-  "summary": "18 of 18 open roles are located in India.",
+  "sig": "9e3aa01cf3",
+  "summary": "19 of 19 open roles are located in India.",
   "verdict": "yes"
  },
  "inferred": true,
