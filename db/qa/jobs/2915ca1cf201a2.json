@@ -1,16 +1,17 @@
 {
  "apply_url": null,
- "board_apply": "https://www.shine.com/jobs/software-tester-manual-tester-at-xl-dynamics-india-pvt-ltd-mumbai/xl-dynamics/20086623",
+ "board_apply": "https://www.shine.com/jobs/software-tester-manual-tester-at-xl-dynamics-india-pvt-ltd/xl-dynamics/20101063",
  "category": "Other",
  "comp_potential": "unknown",
  "company": "XL Dynamics",
  "company_slug": "xl-dynamics",
  "concerns": [
   "Also asks for: API testing",
-  "Pay not disclosed — ask for the range early"
+  "Pay not disclosed — ask for the range early",
+  "Reposted / refreshed listing — original posting is older"
  ],
  "contacts_count": 0,
- "content_hash": "3f701aadb119",
+ "content_hash": "c4223357e182",
  "date_quality": "exact",
  "deadline": null,
  "employment": "full-time",
@@ -31,13 +32,13 @@
   "visa": false
  },
  "kind": "manual-qa",
- "last_verified": "2026-11-24T03:58:51Z",
- "location": "Mumbai City, India",
+ "last_verified": "2026-11-24T07:20:09Z",
+ "location": "Navi Mumbai, India",
  "logo": null,
  "needs_review": false,
  "official": false,
  "posted_at": "2026-11-16T18:40:45Z",
- "repost": false,
+ "repost": true,
  "requirements": [],
  "responsibilities": [],
  "salary": {
@@ -52,31 +53,40 @@
   "skill": 64
  },
  "seniority": "unspecified",
- "snippet": "Experience: 1 to 5 Yrs\nSkills: Manual Testing, API Testing, REST, jira, communication skills, Quality Testing, Agile, JSON, Analytical, Postman\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "snippet": "Experience: 1 to 5 Yrs\nSkills: manual testing, API testing, REST, Jira, STLC, JSON, Agile, communication, analytical skills, Postman\n(Summary from the Shine.com listing; open the posting for the full description.)",
  "source_primary": "Shine.com",
  "sources": [
+  {
+   "id": "shine",
+   "job_id": "20101063",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-11-20T09:03:15Z",
+   "seen_at": "2026-11-24T07:20:09Z",
+   "url": "https://www.shine.com/jobs/software-tester-manual-tester-at-xl-dynamics-india-pvt-ltd/xl-dynamics/20101063"
+  },
   {
    "id": "shine",
    "job_id": "20086623",
    "kind": "board",
    "name": "Shine.com",
    "posted_at": "2026-11-16T18:40:45Z",
-   "seen_at": "2026-11-24T03:58:51Z",
+   "seen_at": "2026-11-24T07:20:09Z",
    "url": "https://www.shine.com/jobs/software-tester-manual-tester-at-xl-dynamics-india-pvt-ltd-mumbai/xl-dynamics/20086623"
   }
  ],
  "specializations": [],
  "status": "active",
  "tier": 3,
- "title": "Software Tester (Manual Tester) at XL Dynamics India Pvt Ltd (Mumbai)",
+ "title": "Software Tester (Manual Tester) at XL Dynamics India Pvt Ltd",
  "tools": [
   "Jira",
   "API testing",
   "Agile / Scrum"
  ],
  "track": "software",
- "updated_at": null,
- "url": "https://www.shine.com/jobs/software-tester-manual-tester-at-xl-dynamics-india-pvt-ltd-mumbai/xl-dynamics/20086623",
+ "updated_at": "2026-11-20T09:03:15Z",
+ "url": "https://www.shine.com/jobs/software-tester-manual-tester-at-xl-dynamics-india-pvt-ltd/xl-dynamics/20101063",
  "why": [
   "Manual / functional QA — the core of your resume",
   "Already on your resume: Jira",

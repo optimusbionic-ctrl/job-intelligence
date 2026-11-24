@@ -20,7 +20,7 @@
     "Luxembourg",
     "Indonesia"
    ],
-   "india": 183,
+   "india": 182,
    "india_samples": [
     {
      "location": "Noida, Uttar Pradesh",
@@ -48,17 +48,17 @@
    "restricted_remote": 0,
    "restricted_samples": [],
    "slug": "paytm",
-   "total": 190,
+   "total": 188,
    "type": "lever",
    "url": "https://jobs.lever.co/paytm",
    "worldwide": 0
   },
-  "changed_at": "2026-11-23T15:02:48Z",
+  "changed_at": "2026-11-24T07:20:09Z",
   "evidence": [
    {
     "detail": "AM / DM | Non IT Purchase (Noida, Uttar Pradesh); AM/Manager– Procurement (Admin, Real Estate & HR) (Noida, Uttar Pradesh); Ad Sales (KAM) -Manager/ Senior Manager - Paytm Ads - Bangalore (Bangalore, Karnataka)",
     "kind": "board",
-    "label": "183 of 190 open roles are located in India",
+    "label": "182 of 188 open roles are located in India",
     "url": "https://jobs.lever.co/paytm",
     "weight": 5
    },
@@ -73,7 +73,7 @@
   "first_checked_at": "2026-10-19T15:45:44Z",
   "india_based": true,
   "method": "Careers board, posting text",
-  "sig": "b41cf1f09c",
+  "sig": "71e5d1db9c",
   "summary": "Paytm is headquartered in India.",
   "verdict": "yes"
  },
