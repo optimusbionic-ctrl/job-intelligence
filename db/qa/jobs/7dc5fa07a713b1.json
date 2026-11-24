@@ -1,0 +1,86 @@
+{
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/qa-engineer-solidworks-pdm/dassault-systemes/20119006",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "Dassault Systèmes",
+ "company_slug": "dassault-syst-mes",
+ "concerns": [
+  "Office outside Mumbai — relocation within India",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "048afde85c6d",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-24T12:36:59Z",
+ "fit": 66,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "7dc5fa07a713b1",
+ "include_reason": "QA / test engineer title",
+ "india": {
+  "cities": [
+   "Pune"
+  ],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "qa-engineer",
+ "last_verified": "2026-11-24T12:36:59Z",
+ "location": "Pune, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-11-23T09:46:18Z",
+ "repost": false,
+ "requirements": [
+  "(Summary from the Shine.com listing; open the posting for the full description.)"
+ ],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 60,
+  "company": 66,
+  "location": 78,
+  "seniority": 100,
+  "skill": 43
+ },
+ "seniority": "unspecified",
+ "snippet": "Experience: 0 to 4 Yrs\nSkills: QA Engineer, Solidworks PDM, Scientific Software Engineering\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "20119006",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-11-23T09:46:18Z",
+   "seen_at": "2026-11-24T12:36:59Z",
+   "url": "https://www.shine.com/jobs/qa-engineer-solidworks-pdm/dassault-systemes/20119006"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 3,
+ "title": "QA Engineer (Solidworks PDM)",
+ "tools": [],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/qa-engineer-solidworks-pdm/dassault-systemes/20119006",
+ "why": [
+  "QA / test engineer role",
+  "Asks for 0–4 years — you have about 2.5",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": 4,
+ "years_min": 0
+}

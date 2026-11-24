@@ -1,0 +1,30 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-24T12:36:59Z",
+  "evidence": [
+   {
+    "detail": "QA Engineer (Solidworks PDM) — Pune, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/qa-engineer-solidworks-pdm/dassault-systemes/20119006",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-24T12:36:59Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "cf94cfe1f5",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Dassault Systèmes",
+ "slug": "dassault-syst-mes",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}

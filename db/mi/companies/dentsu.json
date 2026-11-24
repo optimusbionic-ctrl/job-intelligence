@@ -3,20 +3,20 @@
  "classification": "Inferred from job description",
  "india_hiring": {
   "board": null,
-  "changed_at": "2026-11-24T11:29:58Z",
+  "changed_at": "2026-11-24T12:39:10Z",
   "evidence": [
    {
-    "detail": "Senior Motion Graphic Designer — Mumbai City, India",
+    "detail": "Creative Technologist, AI & Motion — India",
     "kind": "posting",
     "label": "A current posting lists India as a location",
-    "url": "https://www.shine.com/jobs/senior-motion-graphic-designer/dentsu/19995736",
+    "url": "https://expertini.work/result/work-creative-technologist-ai-motion-india-dentsu-amp-622636495207663685-india/",
     "weight": 5
    }
   ],
   "first_checked_at": "2026-11-03T18:34:57Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "5f4f296e7f",
+  "sig": "627637f455",
   "summary": "A current posting lists India as a location.",
   "verdict": "yes"
  },

@@ -12,6 +12,10 @@
    "at": "2026-11-19T00:28:32Z",
    "ats": null
   },
+  "88digital": {
+   "at": "2026-11-24T12:39:10Z",
+   "ats": null
+  },
   "aadhyaanimatics": {
    "at": "2026-11-18T21:29:17Z",
    "ats": null
@@ -42,6 +46,10 @@
   },
   "aiimstorms": {
    "at": "2026-11-18T22:29:26Z",
+   "ats": null
+  },
+  "alkatefitsolutionscalicut": {
+   "at": "2026-11-24T12:39:10Z",
    "ats": null
   },
   "angshumansettscompany": {
@@ -369,6 +377,10 @@
    "at": "2026-11-18T23:27:56Z",
    "ats": null
   },
+  "jobrapido": {
+   "at": "2026-11-24T12:39:10Z",
+   "ats": null
+  },
   "karya": {
    "at": "2026-11-10T21:48:09Z",
    "ats": {
@@ -506,6 +518,10 @@
     "type": "ashby"
    }
   },
+  "phase1eventsandexperiences": {
+   "at": "2026-11-24T12:39:10Z",
+   "ats": null
+  },
   "phonepe": {
    "at": "2026-11-18T21:29:17Z",
    "ats": null
@@ -608,6 +624,13 @@
   "swageazy": {
    "at": "2026-11-18T19:37:13Z",
    "ats": null
+  },
+  "tag": {
+   "at": "2026-11-24T12:39:10Z",
+   "ats": {
+    "slug": "tag",
+    "type": "lever"
+   }
   },
   "talentclub": {
    "at": "2026-11-10T21:34:53Z",
@@ -725,10 +748,10 @@
   }
  },
  "counts": {
-  "closed": 22,
-  "keep": 8,
-  "live": 64,
-  "stale": 153
+  "closed": 25,
+  "keep": 10,
+  "live": 66,
+  "stale": 146
  },
- "updated_at": "2026-11-24T11:32:03Z"
+ "updated_at": "2026-11-24T12:41:24Z"
 }

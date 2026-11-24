@@ -84,6 +84,10 @@
    "at": "2026-11-15T19:48:30Z",
    "ats": null
   },
+  "ashra": {
+   "at": "2026-11-24T12:36:59Z",
+   "ats": null
+  },
   "aspiresoftserv": {
    "at": "2026-11-18T22:26:36Z",
    "ats": null
@@ -121,6 +125,10 @@
   },
   "bmcoder": {
    "at": "2026-11-03T20:52:26Z",
+   "ats": null
+  },
+  "bootupnexware": {
+   "at": "2026-11-24T12:36:59Z",
    "ats": null
   },
   "brainedaiabventures": {
@@ -247,6 +255,10 @@
    "at": "2026-11-03T22:50:01Z",
    "ats": null
   },
+  "dynamite": {
+   "at": "2026-11-24T12:36:59Z",
+   "ats": null
+  },
   "eclerx": {
    "at": "2026-11-19T00:24:58Z",
    "ats": null
@@ -293,6 +305,10 @@
   },
   "finacussolutions": {
    "at": "2026-11-04T00:28:15Z",
+   "ats": null
+  },
+  "firstcreditites": {
+   "at": "2026-11-24T12:36:59Z",
    "ats": null
   },
   "fivefeedlearningsolutions": {
@@ -371,7 +387,7 @@
    }
   },
   "grin": {
-   "at": "2026-11-03T23:44:21Z",
+   "at": "2026-11-24T12:36:59Z",
    "ats": {
     "slug": "grin",
     "type": "greenhouse"
@@ -385,8 +401,16 @@
    "at": "2026-11-03T19:56:44Z",
    "ats": null
   },
+  "hawksensebusinesssolution": {
+   "at": "2026-11-24T12:36:59Z",
+   "ats": null
+  },
   "homesfy": {
    "at": "2026-11-10T22:47:54Z",
+   "ats": null
+  },
+  "honeybeetechsolutions": {
+   "at": "2026-11-24T12:36:59Z",
    "ats": null
   },
   "houstonskilledconsultancy": {
@@ -425,6 +449,14 @@
    "at": "2026-11-10T15:48:46Z",
    "ats": null
   },
+  "intellisearchservices": {
+   "at": "2026-11-24T12:36:59Z",
+   "ats": null
+  },
+  "interactivebrokers": {
+   "at": "2026-11-24T12:36:59Z",
+   "ats": null
+  },
   "irissoftware": {
    "at": "2026-11-18T23:25:22Z",
    "ats": null
@@ -446,7 +478,7 @@
    "ats": null
   },
   "jobgether": {
-   "at": "2026-11-03T21:33:45Z",
+   "at": "2026-11-24T12:36:59Z",
    "ats": {
     "slug": "jobgether",
     "type": "lever"
@@ -528,7 +560,7 @@
    "ats": null
   },
   "ncircletech": {
-   "at": "2026-11-03T20:52:26Z",
+   "at": "2026-11-24T12:36:59Z",
    "ats": null
   },
   "nexthire": {
@@ -599,6 +631,10 @@
    "at": "2026-11-11T07:18:14Z",
    "ats": null
   },
+  "placementlocal": {
+   "at": "2026-11-24T12:36:59Z",
+   "ats": null
+  },
   "planit": {
    "at": "2026-11-03T21:50:10Z",
    "ats": null
@@ -626,12 +662,16 @@
    "at": "2026-11-18T22:26:36Z",
    "ats": null
   },
+  "psmsofttech": {
+   "at": "2026-11-24T12:36:59Z",
+   "ats": null
+  },
   "qalabsandbox": {
    "at": "2026-11-13T21:31:07Z",
    "ats": null
   },
   "qapitolqa": {
-   "at": "2026-11-03T21:33:45Z",
+   "at": "2026-11-24T12:36:59Z",
    "ats": null
   },
   "qualitykiosk": {
@@ -934,7 +974,11 @@
    "ats": null
   },
   "way2society": {
-   "at": "2026-11-03T20:52:26Z",
+   "at": "2026-11-24T12:36:59Z",
+   "ats": null
+  },
+  "webmd": {
+   "at": "2026-11-24T12:36:59Z",
    "ats": null
   },
   "weframetech": {
@@ -981,7 +1025,7 @@
    "ats": null
   },
   "zecruitersjobconnect": {
-   "at": "2026-11-09T00:29:29Z",
+   "at": "2026-11-24T12:36:59Z",
    "ats": null
   },
   "zenwork": {
@@ -994,10 +1038,10 @@
   }
  },
  "counts": {
-  "closed": 11,
-  "keep": 36,
-  "live": 165,
-  "stale": 146
+  "closed": 14,
+  "keep": 32,
+  "live": 200,
+  "stale": 113
  },
- "updated_at": "2026-11-24T11:29:57Z"
+ "updated_at": "2026-11-24T12:39:09Z"
 }
