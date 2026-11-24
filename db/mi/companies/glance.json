@@ -20,7 +20,7 @@
     "Japan",
     "United States"
    ],
-   "india": 13,
+   "india": 11,
    "india_samples": [
     {
      "location": "Bangalore",
@@ -38,9 +38,9 @@
      "url": "https://job-boards.greenhouse.io/glance/jobs/7903950"
     },
     {
-     "location": "Bangalore, India",
-     "title": "Manager - Strategy & operations",
-     "url": "https://job-boards.greenhouse.io/glance/jobs/8015084"
+     "location": "Bangalore",
+     "title": "SDE III - Data Engineering",
+     "url": "https://job-boards.greenhouse.io/glance/jobs/8054888"
     }
    ],
    "open_samples": [],
@@ -48,17 +48,17 @@
    "restricted_remote": 0,
    "restricted_samples": [],
    "slug": "glance",
-   "total": 25,
+   "total": 23,
    "type": "greenhouse",
    "url": "https://boards.greenhouse.io/glance",
    "worldwide": 0
   },
-  "changed_at": "2026-11-24T04:00:21Z",
+  "changed_at": "2026-11-24T13:56:52Z",
   "evidence": [
    {
     "detail": "Applied Scientist II - Recommendation (Bangalore); Applied Scientist III - Recommendation Systems  (Bangalore); Lead - Taxation (Bangalore)",
     "kind": "board",
-    "label": "13 of 25 open roles are located in India",
+    "label": "11 of 23 open roles are located in India",
     "url": "https://boards.greenhouse.io/glance",
     "weight": 5
    },
@@ -80,7 +80,7 @@
   "first_checked_at": "2026-10-15T16:19:24Z",
   "india_based": true,
   "method": "Careers board, posting text",
-  "sig": "789bc3765d",
+  "sig": "ffe0da0dcf",
   "summary": "Glance is headquartered in India.",
   "verdict": "yes"
  },

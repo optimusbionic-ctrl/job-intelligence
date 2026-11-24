@@ -328,7 +328,7 @@
    "ats": null
   },
   "fortanix": {
-   "at": "2026-11-09T13:16:55Z",
+   "at": "2026-11-24T13:54:25Z",
    "ats": null
   },
   "fountane": {
@@ -1038,10 +1038,10 @@
   }
  },
  "counts": {
-  "closed": 14,
+  "closed": 11,
   "keep": 32,
-  "live": 200,
-  "stale": 113
+  "live": 184,
+  "stale": 129
  },
- "updated_at": "2026-11-24T12:39:09Z"
+ "updated_at": "2026-11-24T13:56:51Z"
 }
