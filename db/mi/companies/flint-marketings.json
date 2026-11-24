@@ -1,0 +1,27 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-24T05:11:10Z",
+  "evidence": [
+   {
+    "detail": "Motion Graphic Designer — Noida, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/motion-graphic-designer/flint-marketings/20120595",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-24T05:11:10Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "4128cec07c",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "flint marketings",
+ "slug": "flint-marketings",
+ "tier": 3
+}

@@ -1,0 +1,85 @@
+{
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/motion-graphics-specialist/inter-smart-solution-pvt-ltd/20122953",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "Inter Smart Solution Pvt Ltd",
+ "company_slug": "inter-smart-solution-pvt-ltd",
+ "concerns": [
+  "Compensation not disclosed"
+ ],
+ "contacts_count": 0,
+ "content_hash": "1a09ce91d70c",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-24T05:11:10Z",
+ "fit": 56,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "fdc67ff7cfd33c",
+ "include_reason": "Mixed graphic + motion title",
+ "india": {
+  "cities": [],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "graphic-motion",
+ "last_verified": "2026-11-24T05:11:10Z",
+ "location": "Kochi, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-11-23T10:50:20Z",
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 30,
+  "comp": 48,
+  "company": 40,
+  "location": 88,
+  "seniority": 66,
+  "skill": 65
+ },
+ "seniority": "unspecified",
+ "snippet": "Experience: 2 to 6 Yrs\nSkills: Adobe After Effects, Adobe Premiere Pro, typography, composition, color theory, visual storytelling, animation principles, transitions\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "20122953",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-11-23T10:50:20Z",
+   "seen_at": "2026-11-24T05:11:10Z",
+   "url": "https://www.shine.com/jobs/motion-graphics-specialist/inter-smart-solution-pvt-ltd/20122953"
+  }
+ ],
+ "specializations": [
+  "UI/UX animation",
+  "Technical storytelling"
+ ],
+ "status": "active",
+ "tier": 3,
+ "title": "Motion Graphics Specialist",
+ "tools": [
+  "After Effects",
+  "Premiere Pro"
+ ],
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/motion-graphics-specialist/inter-smart-solution-pvt-ltd/20122953",
+ "why": [
+  "Tools you already use: After Effects, Premiere Pro",
+  "Specialisations in scope: UI/UX animation, Technical storytelling",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_min": null
+}

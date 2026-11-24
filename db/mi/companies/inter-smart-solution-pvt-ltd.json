@@ -1,0 +1,27 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-24T05:11:10Z",
+  "evidence": [
+   {
+    "detail": "Motion Graphics Specialist — Kochi, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/motion-graphics-specialist/inter-smart-solution-pvt-ltd/20122953",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-24T05:11:10Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "0a37838324",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Inter Smart Solution Pvt Ltd",
+ "slug": "inter-smart-solution-pvt-ltd",
+ "tier": 3
+}

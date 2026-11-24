@@ -1,0 +1,27 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-24T05:11:10Z",
+  "evidence": [
+   {
+    "detail": "Creative Director Motion Design (Agency Experienced Preferred) — Mumbai City, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/creative-director-motion-design-agency-experienced-preferred/all-in-motion/20124252",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-24T05:11:10Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "e4968b6965",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "All in Motion",
+ "slug": "all-in-motion",
+ "tier": 3
+}

@@ -1,0 +1,86 @@
+{
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/graphic-designer-motion-graphics-artist/aqva-marketing/20122938",
+ "category": "AI",
+ "comp_potential": "unknown",
+ "company": "Aqva Marketing",
+ "company_slug": "aqva-marketing",
+ "concerns": [
+  "Compensation not disclosed"
+ ],
+ "contacts_count": 0,
+ "content_hash": "e02c26e1bd26",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-24T05:11:10Z",
+ "fit": 62,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "10fb8966d063ab",
+ "include_reason": "Mixed graphic + motion title",
+ "india": {
+  "cities": [
+   "Delhi NCR"
+  ],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "graphic-motion",
+ "last_verified": "2026-11-24T05:11:10Z",
+ "location": "Noida, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-11-23T10:50:07Z",
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 44,
+  "comp": 48,
+  "company": 98,
+  "location": 64,
+  "seniority": 66,
+  "skill": 47
+ },
+ "seniority": "unspecified",
+ "snippet": "Experience: 2 to 6 Yrs\nSkills: graphic design, video editing, VFX, CGI, motion graphics, Adobe Creative Suite, Adobe Photoshop, AI video creation, 2D3D animation, AI video generation tools\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "20122938",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-11-23T10:50:07Z",
+   "seen_at": "2026-11-24T05:11:10Z",
+   "url": "https://www.shine.com/jobs/graphic-designer-motion-graphics-artist/aqva-marketing/20122938"
+  }
+ ],
+ "specializations": [
+  "AI-generated video"
+ ],
+ "status": "active",
+ "tier": 1,
+ "title": "Graphic Designer & Motion Graphics Artist",
+ "tools": [
+  "Photoshop"
+ ],
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/graphic-designer-motion-graphics-artist/aqva-marketing/20122938",
+ "why": [
+  "Tools you already use: Photoshop",
+  "Specialisations in scope: AI-generated video",
+  "AI company (Tier 1 priority)",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_min": null
+}
