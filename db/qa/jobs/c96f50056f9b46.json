@@ -1,0 +1,108 @@
+{
+ "apply_url": null,
+ "board_apply": "https://himalayas.app/companies/helm-operations/jobs/quality-assurance-analyst?utm_source=api",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "Helm Operations",
+ "company_slug": "helm-operations",
+ "concerns": [
+  "Mentions test automation — be ready to discuss it or show a small script",
+  "Also asks for: API testing",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "9b2d97607922",
+ "date_quality": "exact",
+ "deadline": "2027-01-23T16:11:21Z",
+ "employment": "full-time",
+ "first_seen": "2026-11-24T17:28:17Z",
+ "fit": 85,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "c96f50056f9b46",
+ "include_reason": "Manual / functional QA title",
+ "india": {
+  "cities": [],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "manual-qa",
+ "last_verified": "2026-11-24T17:28:17Z",
+ "location": "India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-11-24T16:11:23Z",
+ "repost": false,
+ "requirements": [
+  "3+ years of software testing experience with a strong grasp of QA best practices and methodologies in an agile-scrum environment.",
+  "Proven experience in manual, integration, and API testing.",
+  "Solid understanding of Git fundamentals - branching strategies, pull requests, code reviews, and navigating a shared repository.",
+  "Strong self-management and organizational abilities."
+ ],
+ "responsibilities": [
+  "Design, write, and execute test cases across web and mobile platforms for assigned product lines and project work.",
+  "Create and maintain test plans for releases and delivery milestones, ensuring coverage is intentional, traceable, and communicated clearly to the team.",
+  "Work closely with product owners, developers, and QAs to identify areas of risk and strategically prioritize testing to maximize coverage and impact.",
+  "Validate integration quality between Helm CONNECT and third-party systems and integrations scoped within the Kirby engagement."
+ ],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 86,
+  "comp": 60,
+  "company": 66,
+  "location": 100,
+  "seniority": 94,
+  "skill": 90
+ },
+ "seniority": "unspecified",
+ "snippet": "Job Summary:\nAs a Quality Assurance Analyst at Helm, you are a champion of quality across every stage of the software development lifecycle. You work closely with developers, product owners, and cross-functional teammates to ensure Helm CONNECT meets the highest standards of reliability, usability, and performance for our customers in the marine industry. You don't just find bugs - you ask the questions that prevent ",
+ "source_primary": "Himalayas",
+ "sources": [
+  {
+   "id": "himalayas",
+   "job_id": "https://himalayas.app/companies/helm-operations/jobs/quality-assurance-analyst",
+   "kind": "board",
+   "name": "Himalayas",
+   "posted_at": "2026-11-24T16:11:23Z",
+   "seen_at": "2026-11-24T17:28:17Z",
+   "url": "https://himalayas.app/companies/helm-operations/jobs/quality-assurance-analyst?utm_source=api"
+  }
+ ],
+ "specializations": [
+  "Windows / PC",
+  "Mobile apps",
+  "Web apps"
+ ],
+ "status": "active",
+ "tier": 3,
+ "title": "Quality Assurance Analyst",
+ "tools": [
+  "Regression testing",
+  "Usability testing",
+  "Test cases & scenarios",
+  "Bug reporting",
+  "Google Sheets / Excel",
+  "API testing",
+  "Test automation",
+  "Agile / Scrum"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://himalayas.app/companies/helm-operations/jobs/quality-assurance-analyst?utm_source=api",
+ "why": [
+  "Manual / functional QA — the core of your resume",
+  "Already on your resume: Regression testing, Usability testing, Test cases & scenarios, Bug reporting, Google Sheets / Excel",
+  "Platforms you test on: Windows / PC, Mobile apps",
+  "Asks for 3+ years — you have about 2.5",
+  "Location lists India"
+ ],
+ "work_mode": "remote",
+ "years_max": 3,
+ "years_min": 3
+}

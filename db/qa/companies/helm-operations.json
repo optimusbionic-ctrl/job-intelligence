@@ -1,0 +1,30 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-24T17:28:17Z",
+  "evidence": [
+   {
+    "detail": "Quality Assurance Analyst — India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://himalayas.app/companies/helm-operations/jobs/quality-assurance-analyst?utm_source=api",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-24T17:28:17Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "c1db3e89a5",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Helm Operations",
+ "slug": "helm-operations",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}

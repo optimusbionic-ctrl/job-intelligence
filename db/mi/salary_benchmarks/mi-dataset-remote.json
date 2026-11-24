@@ -1,13 +1,13 @@
 {
- "avg": 12693820,
+ "avg": 16367123,
  "basis": "Interquartile range of posting midpoints, converted to INR at today's rate",
  "currency": "INR",
  "high": 18134029,
  "id": "mi-dataset-remote",
  "label": "Disclosed pay on remote motion-design postings (any region, this dataset)",
- "low": 10461940,
+ "low": 11159402,
  "market": "Remote (global)",
- "n": 13,
+ "n": 12,
  "retrieved_at": "2026-11-24",
  "samples": [
   {
@@ -36,15 +36,6 @@
    "min": 90000,
    "title": "Senior Motion & Graphic Designer",
    "url": "https://himalayas.app/companies/silverback-strategies/jobs/senior-motion-graphic-designer-2282778552?utm_source=api"
-  },
-  {
-   "company": "Red Door Collaborative",
-   "currency": "USD",
-   "location": "United States",
-   "max": 120000,
-   "min": 105000,
-   "title": "Senior Lead Motion Designer",
-   "url": "https://himalayas.app/companies/red-door-collaborative/jobs/senior-lead-motion-designer?utm_source=api"
   },
   {
    "company": "Pogo",
@@ -112,11 +103,11 @@
   {
    "company": "Pinterest",
    "currency": "USD",
-   "location": "United States",
+   "location": "San Francisco, CA, US; Remote, US",
    "max": 326870,
    "min": 158765,
    "title": "Staff Motion Designer, Design Innovation",
-   "url": "https://himalayas.app/companies/pinterestcareers/jobs/staff-motion-designer-design-innovation-4550058863?utm_source=api"
+   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8302281"
   },
   {
    "company": "Render",
