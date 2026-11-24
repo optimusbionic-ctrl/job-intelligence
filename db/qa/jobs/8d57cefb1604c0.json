@@ -12,9 +12,9 @@
   "Reposted / refreshed listing — original posting is older"
  ],
  "contacts_count": 0,
- "content_hash": "f12e0f231500",
+ "content_hash": "a8da55c4e9e6",
  "date_quality": "exact",
- "deadline": "2027-01-18T18:04:53Z",
+ "deadline": null,
  "employment": "full-time",
  "first_seen": "2026-10-19T13:24:59Z",
  "fit": 76,
@@ -31,12 +31,12 @@
   "visa": false
  },
  "kind": "automation",
- "last_verified": "2026-11-23T20:27:13Z",
+ "last_verified": "2026-11-24T23:26:03Z",
  "location": "India (Remote)",
  "logo": "https://workablehr.s3.amazonaws.com/uploads/account/logo/622549/logo",
  "needs_review": false,
  "official": false,
- "posted_at": "2026-11-19T18:04:53Z",
+ "posted_at": "2026-11-23T20:07:28Z",
  "repost": true,
  "requirements": [
   "Maintain reliable test execution as the product and test suite expand",
@@ -73,17 +73,8 @@
    "kind": "board",
    "name": "Workable job marketplace",
    "posted_at": "2026-11-23T20:07:28Z",
-   "seen_at": "2026-11-23T20:27:13Z",
+   "seen_at": "2026-11-24T23:26:03Z",
    "url": "https://jobs.workable.com/view/f1BPs1wJmkMsfEq7tiDuQ4/remote-ai-augmented-qa-engineer-in-india-at-pavago"
-  },
-  {
-   "id": "himalayas",
-   "job_id": "https://himalayas.app/companies/pavago/jobs/ai-augmented-qa-engineer-2148723846",
-   "kind": "board",
-   "name": "Himalayas",
-   "posted_at": "2026-11-19T18:04:53Z",
-   "seen_at": "2026-11-23T20:27:13Z",
-   "url": "https://himalayas.app/companies/pavago/jobs/ai-augmented-qa-engineer-2148723846?utm_source=api"
   }
  ],
  "specializations": [
@@ -100,7 +91,7 @@
   "Programming"
  ],
  "track": "software",
- "updated_at": "2026-11-23T20:07:28Z",
+ "updated_at": null,
  "url": "https://jobs.workable.com/view/f1BPs1wJmkMsfEq7tiDuQ4/remote-ai-augmented-qa-engineer-in-india-at-pavago",
  "why": [
   "Already on your resume: Regression testing, Exploratory testing, Test cases & scenarios",
