@@ -1,0 +1,30 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-24T03:58:51Z",
+  "evidence": [
+   {
+    "detail": "Manual Testing Engineer (Pune) — Pune, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/manual-testing-engineer-pune/sperton-global-as/20126476",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-24T03:58:51Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "4150d82401",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Sperton Global AS",
+ "slug": "sperton-global-as",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}

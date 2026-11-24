@@ -1,0 +1,27 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-24T04:00:21Z",
+  "evidence": [
+   {
+    "detail": "Graphic Designer and Animator (Bengaluru) — Bangalore, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/graphic-designer-and-animator-bengaluru/recognized/20123758",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-24T04:00:21Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "e9a5ba03d7",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Recognized",
+ "slug": "recognized",
+ "tier": 3
+}

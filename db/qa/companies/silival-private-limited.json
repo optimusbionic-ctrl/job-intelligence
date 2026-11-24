@@ -1,0 +1,30 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-24T03:58:51Z",
+  "evidence": [
+   {
+    "detail": "Software Tester — Bangalore, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/software-tester/silival-private-limited/20043907",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-24T03:58:51Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "7195d1dd58",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "SILIVAL PRIVATE LIMITED",
+ "slug": "silival-private-limited",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}
