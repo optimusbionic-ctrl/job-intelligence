@@ -1,26 +1,26 @@
 {
  "apply_url": null,
- "board_apply": "https://www.shine.com/jobs/software-test-engineer-sambhajinagar/agile-technology/20018027",
+ "board_apply": "https://www.shine.com/jobs/software-test-engineer-engine-software-automation-and-control-qa/agile-technology/19997083",
  "category": "Other",
  "comp_potential": "unknown",
  "company": "Agile Technology",
  "company_slug": "agile-technology",
  "concerns": [
-  "Also asks for: Programming",
+  "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
   "Pay not disclosed — ask for the range early"
  ],
  "contacts_count": 0,
- "content_hash": "2a952e4cc7b6",
+ "content_hash": "3058b42a7975",
  "date_quality": "exact",
  "deadline": null,
  "employment": "full-time",
  "first_seen": "2026-11-19T20:04:01Z",
- "fit": 82,
+ "fit": 77,
  "has_hiring_manager": false,
  "has_named_contact": false,
  "has_public_email": false,
  "id": "54d6968d4dc8c4",
- "include_reason": "QA / test engineer title",
+ "include_reason": "Automation-heavy QA (SDET)",
  "india": {
   "cities": [
    "Mumbai"
@@ -30,8 +30,8 @@
   "status": "confirmed",
   "visa": false
  },
- "kind": "qa-engineer",
- "last_verified": "2026-11-20T11:02:00Z",
+ "kind": "automation",
+ "last_verified": "2026-11-24T00:24:02Z",
  "location": "Mumbai City, India",
  "logo": null,
  "needs_review": false,
@@ -49,47 +49,36 @@
   "company": 66,
   "location": 100,
   "seniority": 100,
-  "skill": 86
+  "skill": 67
  },
  "seniority": "unspecified",
- "snippet": "Experience: 1 to 5 Yrs\nSkills: troubleshooting skills, Scrum, regression testing, performance testing, functional verification, MS Excel, different testing types, agile development process, test specification management, scripting in Python\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "snippet": "Experience: 1 to 5 Yrs\nSkills: troubleshooting skills, Scrum, regression testing, performance testing, functional verification, MS Excel, PowerPoint, different testing types, agile development process, test specification management\n(Summary from the Shine.com listing; open the posting for the full description.)",
  "source_primary": "Shine.com",
  "sources": [
-  {
-   "id": "shine",
-   "job_id": "20018027",
-   "kind": "board",
-   "name": "Shine.com",
-   "posted_at": "2026-11-06T01:50:28Z",
-   "seen_at": "2026-11-20T11:02:00Z",
-   "url": "https://www.shine.com/jobs/software-test-engineer-sambhajinagar/agile-technology/20018027"
-  },
   {
    "id": "shine",
    "job_id": "19997083",
    "kind": "board",
    "name": "Shine.com",
    "posted_at": "2026-11-03T05:44:22Z",
-   "seen_at": "2026-11-20T11:02:00Z",
+   "seen_at": "2026-11-24T00:24:02Z",
    "url": "https://www.shine.com/jobs/software-test-engineer-engine-software-automation-and-control-qa/agile-technology/19997083"
   }
  ],
  "specializations": [],
  "status": "active",
  "tier": 3,
- "title": "Software Test Engineer (Sambhajinagar)",
+ "title": "Software Test Engineer (Engine Software - Automation and Control QA)",
  "tools": [
   "Regression testing",
   "Stress / load testing",
   "Google Sheets / Excel",
-  "Programming",
   "Agile / Scrum"
  ],
  "track": "software",
  "updated_at": null,
- "url": "https://www.shine.com/jobs/software-test-engineer-sambhajinagar/agile-technology/20018027",
+ "url": "https://www.shine.com/jobs/software-test-engineer-engine-software-automation-and-control-qa/agile-technology/19997083",
  "why": [
-  "QA / test engineer role",
   "Already on your resume: Regression testing, Stress / load testing, Google Sheets / Excel",
   "Asks for 1–5 years — you have about 2.5",
   "Location lists India"

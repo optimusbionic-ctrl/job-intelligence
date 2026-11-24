@@ -1,0 +1,109 @@
+{
+ "apply_url": null,
+ "board_apply": "https://himalayas.app/companies/skycell-ag/jobs/automation-qa-engineer?utm_source=api",
+ "category": "Product / SaaS",
+ "comp_potential": "unknown",
+ "company": "SkyCell AG",
+ "company_slug": "skycell-ag",
+ "concerns": [
+  "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
+  "Also asks for: SQL / databases, Programming",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "0a0c32c3fcbf",
+ "date_quality": "exact",
+ "deadline": "2027-01-23T00:12:31Z",
+ "employment": "full-time",
+ "first_seen": "2026-11-24T00:24:02Z",
+ "fit": 77,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "3074aa3f51a425",
+ "include_reason": "Automation-heavy QA (SDET)",
+ "india": {
+  "cities": [],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "automation",
+ "last_verified": "2026-11-24T00:24:02Z",
+ "location": "India",
+ "logo": "https://cdn-images.himalayas.app/7gwou6jtacn0mtsmeo4kdelwbr9e",
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-11-24T00:12:31Z",
+ "repost": false,
+ "requirements": [
+  "Experience building and maintaining test automation frameworks, ideally with Playwright and JavaScript / Node.js",
+  "Experience testing REST/GraphQL APIs, including OAuth/JWT authentication, contract testing and SQL checks on database side effects",
+  "Experience testing shared UI components with Testing Library, Storybook or Vitest/Jest",
+  "Experience keeping CI/CD pipelines (Jenkins) reliable and tackling flaky tests",
+  "Clear communication, curiosity about root causes, and strong written and spoken English"
+ ],
+ "responsibilities": [
+  "Shape the test strategy with the team and advise on quality at every stage, from requirements to release",
+  "Help write requirements and testable acceptance criteria, including for new UI components with the design system team",
+  "Build and maintain automation frameworks, test suites and shared libraries in Playwright, plus test data tools in JavaScript / Node.js",
+  "Test REST and GraphQL APIs (functional, contract and negative tests), covering authentication, error handling and data integrity. Set up contract testing (e.g., Pact) and check how services communicate through queues, webhooks and events",
+  "Test our shared UI component library for visual regression, accessibility and cross-browser behaviour. Write unit and integration tests (Storybook, Testing Library) and make sure new releases don't break the apps that use them",
+  "Support performance, availability and security testing with tools like k6, Artillery or JMeter",
+  "Keep Jenkins pipelines healthy, fast and reproducible. Triage failed builds daily, tell product bugs apart from flaky tests and environment issues, and fix flaky tests at the root cause"
+ ],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 68,
+  "comp": 60,
+  "company": 95,
+  "location": 100,
+  "seniority": 84,
+  "skill": 62
+ },
+ "seniority": "unspecified",
+ "snippet": "As an Automation QA Enginer at SkyCell, you'll shape how our team thinks about quality, working alongside developers and the design system team to catch problems early so everyone ships with confidence. You'll build with Playwright, test APIs and UI components, and help teammates grow their testing skills along the way. You don't need to match every point below to apply. If this sounds like work you'd enjoy, we'd lov",
+ "source_primary": "Himalayas",
+ "sources": [
+  {
+   "id": "himalayas",
+   "job_id": "https://himalayas.app/companies/skycell-ag/jobs/automation-qa-engineer",
+   "kind": "board",
+   "name": "Himalayas",
+   "posted_at": "2026-11-24T00:12:31Z",
+   "seen_at": "2026-11-24T00:24:02Z",
+   "url": "https://himalayas.app/companies/skycell-ag/jobs/automation-qa-engineer?utm_source=api"
+  }
+ ],
+ "specializations": [
+  "Web apps"
+ ],
+ "status": "active",
+ "tier": 1,
+ "title": "Automation QA Engineer",
+ "tools": [
+  "Regression testing",
+  "Compatibility testing",
+  "Stress / load testing",
+  "Test cases & scenarios",
+  "Bug reporting",
+  "Google Sheets / Excel",
+  "SQL / databases",
+  "Test automation",
+  "Programming"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://himalayas.app/companies/skycell-ag/jobs/automation-qa-engineer?utm_source=api",
+ "why": [
+  "Already on your resume: Regression testing, Compatibility testing, Stress / load testing, Test cases & scenarios, Bug reporting, Google Sheets / Excel",
+  "Product / SaaS company",
+  "Location lists India"
+ ],
+ "work_mode": "remote",
+ "years_max": null,
+ "years_min": null
+}

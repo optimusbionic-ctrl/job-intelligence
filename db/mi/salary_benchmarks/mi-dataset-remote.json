@@ -1,14 +1,14 @@
 {
- "avg": 16324614,
+ "avg": 16367123,
  "basis": "Interquartile range of posting midpoints, converted to INR at today's rate",
  "currency": "INR",
- "high": 18086931,
+ "high": 18134029,
  "id": "mi-dataset-remote",
  "label": "Disclosed pay on remote motion-design postings (any region, this dataset)",
- "low": 11130419,
+ "low": 11159402,
  "market": "Remote (global)",
  "n": 12,
- "retrieved_at": "2026-11-23",
+ "retrieved_at": "2026-11-24",
  "samples": [
   {
    "company": "College Board",
