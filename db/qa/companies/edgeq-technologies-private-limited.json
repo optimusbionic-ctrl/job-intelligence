@@ -1,0 +1,31 @@
+{
+ "category": "Fintech",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-24T06:06:15Z",
+  "evidence": [
+   {
+    "detail": "QA Engineer — Worldwide",
+    "kind": "posting",
+    "label": "A current posting is open worldwide",
+    "url": "https://himalayas.app/companies/edgeq-technologies-private-limited/jobs/qa-engineer?utm_source=api",
+    "weight": 3
+   }
+  ],
+  "first_checked_at": "2026-11-24T06:06:15Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "eb46633f07",
+  "summary": "No India-located roles found, but a current posting is open worldwide.",
+  "verdict": "likely"
+ },
+ "inferred": true,
+ "logo": "https://cdn-images.himalayas.app/nsoksch835xdr8dpttroc9r1w35t",
+ "name": "EdgeQ Technologies Private Limited",
+ "slug": "edgeq-technologies-private-limited",
+ "tier": 1,
+ "tracks": [
+  "software"
+ ]
+}

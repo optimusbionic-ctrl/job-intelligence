@@ -1,0 +1,119 @@
+{
+ "apply_url": null,
+ "board_apply": "https://himalayas.app/companies/edgeq-technologies-private-limited/jobs/qa-engineer?utm_source=api",
+ "category": "Fintech",
+ "comp_potential": "unknown",
+ "company": "EdgeQ Technologies Private Limited",
+ "company_slug": "edgeq-technologies-private-limited",
+ "concerns": [
+  "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
+  "Also asks for: Test management (TestRail/Zephyr), API testing, SQL / databases",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "babadedbd2e6",
+ "date_quality": "exact",
+ "deadline": "2028-11-05T04:41:49Z",
+ "employment": "full-time",
+ "first_seen": "2026-11-24T06:06:15Z",
+ "fit": 79,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "acabd9d61b2666",
+ "include_reason": "Automation-heavy QA (SDET)",
+ "india": {
+  "cities": [],
+  "company": "likely",
+  "reason": "Worldwide remote",
+  "status": "likely",
+  "visa": false
+ },
+ "kind": "automation",
+ "last_verified": "2026-11-24T06:06:15Z",
+ "location": "Worldwide",
+ "logo": "https://cdn-images.himalayas.app/nsoksch835xdr8dpttroc9r1w35t",
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-11-24T04:24:09Z",
+ "repost": false,
+ "requirements": [
+  "2–7 years of experience in Software Quality Assurance or Software Testing.",
+  "Strong understanding of software testing methodologies and SDLC/STLC.",
+  "Experience in manual testing and automation testing.",
+  "Hands-on experience with Selenium, Cypress, or Playwright.",
+  "Knowledge of programming languages such as Java, Python, or JavaScript.",
+  "Experience with API testing using Postman or REST Assured.",
+  "Familiarity with Jira, TestRail, or similar test management tools."
+ ],
+ "responsibilities": [
+  "Design, develop, and execute test plans, test cases, and test scenarios.",
+  "Perform manual and automated testing of web, mobile, and software applications.",
+  "Identify, document, track, and report software defects.",
+  "Develop and maintain automated test scripts using Selenium, Cypress, or Playwright.",
+  "Perform functional, regression, integration, and system testing.",
+  "Validate APIs using Postman, REST Assured, or similar tools.",
+  "Conduct database testing and validate backend data using SQL queries."
+ ],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 84,
+  "comp": 60,
+  "company": 95,
+  "location": 86,
+  "seniority": 100,
+  "skill": 57
+ },
+ "seniority": "unspecified",
+ "snippet": "QA Engineer\n Job Title: QA Engineer\n Location: Remote – United States\n Job Type: Full-Time\n Experience: 2–7 Years\n Salary Range: $80,000 – $125,000 per year\n Work Mode: 100% Remote\n Industry: Information Technology\n Job Summary\n We are seeking a detail-oriented and experienced QA Engineer to join our technology team. The ideal candidate will be responsible for ensuring the quality, reliability, and performance of sof",
+ "source_primary": "Himalayas",
+ "sources": [
+  {
+   "id": "himalayas",
+   "job_id": "https://himalayas.app/companies/edgeq-technologies-private-limited/jobs/qa-engineer",
+   "kind": "board",
+   "name": "Himalayas",
+   "posted_at": "2026-11-24T04:24:09Z",
+   "seen_at": "2026-11-24T06:06:15Z",
+   "url": "https://himalayas.app/companies/edgeq-technologies-private-limited/jobs/qa-engineer?utm_source=api"
+  }
+ ],
+ "specializations": [
+  "Mobile apps",
+  "Web apps"
+ ],
+ "status": "active",
+ "tier": 1,
+ "title": "QA Engineer",
+ "tools": [
+  "Regression testing",
+  "Compatibility testing",
+  "Stress / load testing",
+  "Test cases & scenarios",
+  "Bug reporting",
+  "Jira",
+  "Google Sheets / Excel",
+  "Test management (TestRail/Zephyr)",
+  "API testing",
+  "SQL / databases",
+  "Test automation",
+  "Programming",
+  "Agile / Scrum",
+  "ISTQB"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://himalayas.app/companies/edgeq-technologies-private-limited/jobs/qa-engineer?utm_source=api",
+ "why": [
+  "Already on your resume: Regression testing, Compatibility testing, Stress / load testing, Test cases & scenarios, Bug reporting, Jira",
+  "Platforms you test on: Mobile apps",
+  "Fintech company",
+  "Asks for 2–7 years — you have about 2.5",
+  "Worldwide remote"
+ ],
+ "work_mode": "remote",
+ "years_max": 7,
+ "years_min": 2
+}
