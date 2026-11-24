@@ -18,7 +18,7 @@
    "countries": [
     "India"
    ],
-   "india": 41,
+   "india": 40,
    "india_samples": [
     {
      "location": "Bengaluru",
@@ -46,17 +46,17 @@
    "restricted_remote": 0,
    "restricted_samples": [],
    "slug": "sarvam",
-   "total": 41,
+   "total": 40,
    "type": "ashby",
    "url": "https://jobs.ashbyhq.com/sarvam",
    "worldwide": 0
   },
-  "changed_at": "2026-11-24T08:47:16Z",
+  "changed_at": "2026-11-24T10:12:48Z",
   "evidence": [
    {
     "detail": "Data Scientist - Evaluations, Chanakya (Bengaluru); Deployment Strategist I (DS-1) (Delhi • Mumbai); Deployment Strategist II (DS-2) (Mumbai • Delhi)",
     "kind": "board",
-    "label": "41 of 41 open roles are located in India",
+    "label": "40 of 40 open roles are located in India",
     "url": "https://jobs.ashbyhq.com/sarvam",
     "weight": 5
    },
@@ -78,7 +78,7 @@
   "first_checked_at": "2026-10-15T16:19:24Z",
   "india_based": true,
   "method": "Careers board, posting text",
-  "sig": "964dd6c7aa",
+  "sig": "28f60a6802",
   "summary": "Sarvam AI is headquartered in India.",
   "verdict": "yes"
  },

@@ -1,0 +1,30 @@
+{
+ "category": "Fintech",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-24T10:10:52Z",
+  "evidence": [
+   {
+    "detail": "QA Tester — Mumbai City, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/qa-tester/mor-projects/20118534",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-24T10:10:52Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "323288eaec",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "MOR Projects",
+ "slug": "mor-projects",
+ "tier": 1,
+ "tracks": [
+  "software"
+ ]
+}

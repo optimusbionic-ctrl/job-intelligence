@@ -3,20 +3,20 @@
  "classification": "Inferred from job description",
  "india_hiring": {
   "board": null,
-  "changed_at": "2026-11-24T07:20:09Z",
+  "changed_at": "2026-11-24T10:10:52Z",
   "evidence": [
    {
-    "detail": "Software Tester (Manual Tester) at XL Dynamics India Pvt Ltd — Navi Mumbai, India",
+    "detail": "Software Tester (Manual Tester) at XL Dynamics India Pvt Ltd (Mumbai) — Mumbai City, India",
     "kind": "posting",
     "label": "A current posting lists India as a location",
-    "url": "https://www.shine.com/jobs/software-tester-manual-tester-at-xl-dynamics-india-pvt-ltd/xl-dynamics/20101063",
+    "url": "https://www.shine.com/jobs/software-tester-manual-tester-at-xl-dynamics-india-pvt-ltd-mumbai/xl-dynamics/20086623",
     "weight": 5
    }
   ],
   "first_checked_at": "2026-11-17T10:12:50Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "c9dcbeca29",
+  "sig": "7f1e3038df",
   "summary": "A current posting lists India as a location.",
   "verdict": "yes"
  },

@@ -10,25 +10,20 @@
    "apac": 0,
    "countries": [
     "India",
-    "Singapore",
     "Philippines",
+    "Singapore",
     "Thailand",
-    "Vietnam",
     "Indonesia",
     "Malaysia",
-    "Hong Kong"
+    "Vietnam",
+    "Argentina"
    ],
-   "india": 7,
+   "india": 5,
    "india_samples": [
     {
      "location": "Delhi • Bangalore • Singapore • Manila • Chennai • Hyderabad • Kolkata • Mumbai ",
      "title": "Backend Engineer",
      "url": "https://jobs.lever.co/portcast/1f6381eb-03dd-451a-a8cc-2c862cec3fe3"
-    },
-    {
-     "location": "Bangalore • Bangkok • Chennai • Delhi • Hyderabad • Kolkata • Mumbai • Singapore",
-     "title": "Data Analyst",
-     "url": "https://jobs.lever.co/portcast/e66df487-0622-480f-8506-532b3db5db28"
     },
     {
      "location": "Singapore • Bangalore • Chennai • Delhi • Hyderabad • Kolkata • Mumbai • Cebu • ",
@@ -39,10 +34,15 @@
      "location": "Singapore • Jakarta • Bangalore • Delhi • Bangkok • Kuala Lumpur • Manila • Cebu",
      "title": "Head of Tech (Engineering & AI)",
      "url": "https://jobs.lever.co/portcast/3fbd2b9a-c12b-4578-a628-5929fa2da2bf"
+    },
+    {
+     "location": "Bangalore • Jakarta • Kuala Lumpur • Manila • Chennai • Delhi • Hyderabad • Kolk",
+     "title": "Marketing Director",
+     "url": "https://jobs.lever.co/portcast/4b2b82af-90cd-41ae-b40e-fb95688201d0"
     }
    ],
    "open_samples": [],
-   "remote": 7,
+   "remote": 6,
    "restricted_remote": 2,
    "restricted_samples": [
     {
@@ -57,17 +57,17 @@
     }
    ],
    "slug": "portcast",
-   "total": 9,
+   "total": 7,
    "type": "lever",
    "url": "https://jobs.lever.co/portcast",
    "worldwide": 0
   },
-  "changed_at": "2026-11-19T20:06:27Z",
+  "changed_at": "2026-11-24T10:12:48Z",
   "evidence": [
    {
-    "detail": "Backend Engineer (Delhi • Bangalore • Singapore • Manila • Chennai • Hyderabad • Kolkata • Mumbai ); Data Analyst (Bangalore • Bangkok • Chennai • Delhi • Hyderabad • Kolkata • Mumbai • Singapore); Data Analyst Intern (S",
+    "detail": "Backend Engineer (Delhi • Bangalore • Singapore • Manila • Chennai • Hyderabad • Kolkata • Mumbai ); Data Analyst Intern (Singapore • Bangalore • Chennai • Delhi • Hyderabad • Kolkata • Mumbai • Cebu • ); Head of Tech (E",
     "kind": "board",
-    "label": "7 of 9 open roles are located in India",
+    "label": "5 of 7 open roles are located in India",
     "url": "https://jobs.lever.co/portcast",
     "weight": 5
    },
@@ -82,8 +82,8 @@
   "first_checked_at": "2026-11-19T20:06:27Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "96866ad3c1",
-  "summary": "7 of 9 open roles are located in India.",
+  "sig": "40d8e9873b",
+  "summary": "5 of 7 open roles are located in India.",
   "verdict": "yes"
  },
  "inferred": true,

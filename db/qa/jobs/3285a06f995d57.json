@@ -1,0 +1,90 @@
+{
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/qa-tester-manual-automation-pune/spring-computing-technologies/20119009",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "Spring Computing Technologies",
+ "company_slug": "spring-computing-technologies",
+ "concerns": [
+  "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
+  "Also asks for: API testing, SQL / databases, Programming",
+  "Office outside Mumbai — relocation within India",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "307dd9e9c846",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-24T10:10:52Z",
+ "fit": 61,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "3285a06f995d57",
+ "include_reason": "Automation-heavy QA (SDET)",
+ "india": {
+  "cities": [
+   "Pune"
+  ],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "automation",
+ "last_verified": "2026-11-24T10:10:52Z",
+ "location": "Pune, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-11-23T09:46:19Z",
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 60,
+  "company": 66,
+  "location": 78,
+  "seniority": 100,
+  "skill": 24
+ },
+ "seniority": "unspecified",
+ "snippet": "Experience: 2 to 6 Yrs\nSkills: Manual Testing, Automation Testing, Selenium WebDriver, Python, Java, SQL, API testing, Playwright, TypeScript, Postman\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "20119009",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-11-23T09:46:19Z",
+   "seen_at": "2026-11-24T10:10:52Z",
+   "url": "https://www.shine.com/jobs/qa-tester-manual-automation-pune/spring-computing-technologies/20119009"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 3,
+ "title": "QA tester ( manual + automation) (Pune)",
+ "tools": [
+  "API testing",
+  "SQL / databases",
+  "Test automation",
+  "Programming"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/qa-tester-manual-automation-pune/spring-computing-technologies/20119009",
+ "why": [
+  "Asks for 2–6 years — you have about 2.5",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": 6,
+ "years_min": 2
+}

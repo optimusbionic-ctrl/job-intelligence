@@ -1,0 +1,30 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-24T10:10:52Z",
+  "evidence": [
+   {
+    "detail": "QA tester ( manual + automation) (Pune) — Pune, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/qa-tester-manual-automation-pune/spring-computing-technologies/20119009",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-24T10:10:52Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "c4e2af95e8",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Spring Computing Technologies",
+ "slug": "spring-computing-technologies",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}

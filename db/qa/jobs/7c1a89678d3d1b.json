@@ -1,0 +1,88 @@
+{
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/qa-automation-testing-engineer/morningstar/20118652",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "Morningstar",
+ "company_slug": "morningstar",
+ "concerns": [
+  "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
+  "Also asks for: API testing, Programming",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "c5a15b7494a0",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-24T10:10:52Z",
+ "fit": 64,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "7c1a89678d3d1b",
+ "include_reason": "Automation-heavy QA (SDET)",
+ "india": {
+  "cities": [
+   "Mumbai"
+  ],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "automation",
+ "last_verified": "2026-11-24T10:10:52Z",
+ "location": "Navi Mumbai, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-11-23T09:39:13Z",
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 60,
+  "company": 66,
+  "location": 100,
+  "seniority": 100,
+  "skill": 24
+ },
+ "seniority": "unspecified",
+ "snippet": "Experience: 1 to 5 Yrs\nSkills: QA Automation, Java, Selenium, API Testing, UI Automation, Python, JavaScript, Playwright, Rest Assured, Rest API Testing\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "20118652",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-11-23T09:39:13Z",
+   "seen_at": "2026-11-24T10:10:52Z",
+   "url": "https://www.shine.com/jobs/qa-automation-testing-engineer/morningstar/20118652"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 3,
+ "title": "Qa Automation Testing Engineer",
+ "tools": [
+  "API testing",
+  "Test automation",
+  "Programming"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/qa-automation-testing-engineer/morningstar/20118652",
+ "why": [
+  "Asks for 1–5 years — you have about 2.5",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": 5,
+ "years_min": 1
+}
