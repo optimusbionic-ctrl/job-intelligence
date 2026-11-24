@@ -11,14 +11,14 @@
    "countries": [
     "United States",
     "India",
-    "Brazil",
     "Canada",
+    "Brazil",
     "United Kingdom",
     "Germany",
     "Spain",
-    "France"
+    "Switzerland"
    ],
-   "india": 326,
+   "india": 263,
    "india_samples": [
     {
      "location": "India",
@@ -42,8 +42,8 @@
     }
    ],
    "open_samples": [],
-   "remote": 4260,
-   "restricted_remote": 3934,
+   "remote": 3323,
+   "restricted_remote": 3060,
    "restricted_samples": [
     {
      "location": "US",
@@ -67,17 +67,17 @@
     }
    ],
    "slug": "jobgether",
-   "total": 4261,
+   "total": 3323,
    "type": "lever",
    "url": "https://jobs.lever.co/jobgether",
    "worldwide": 0
   },
-  "changed_at": "2026-11-24T17:30:21Z",
+  "changed_at": "2026-11-24T20:29:47Z",
   "evidence": [
    {
     "detail": ".NET Tech Lead / Senior .NET Developer (India); .Net Developer with PLANISWARE (India); AEO/GEO Lead (Technical AI Search) (India)",
     "kind": "board",
-    "label": "326 of 4261 open roles are located in India",
+    "label": "263 of 3323 open roles are located in India",
     "url": "https://jobs.lever.co/jobgether",
     "weight": 5
    },
@@ -92,8 +92,8 @@
   "first_checked_at": "2026-11-19T20:06:27Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "74ae138f74",
-  "summary": "326 of 4261 open roles are located in India.",
+  "sig": "77fadc6b49",
+  "summary": "263 of 3323 open roles are located in India.",
   "verdict": "yes"
  },
  "inferred": true,
