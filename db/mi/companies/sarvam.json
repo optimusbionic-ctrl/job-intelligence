@@ -11,7 +11,7 @@
    "countries": [
     "India"
    ],
-   "india": 40,
+   "india": 39,
    "india_samples": [
     {
      "location": "Bengaluru",
@@ -19,7 +19,7 @@
      "url": "https://jobs.ashbyhq.com/sarvam/7c42207a-bb56-413c-839f-9ad692df840e"
     },
     {
-     "location": "Delhi • Mumbai",
+     "location": "Mumbai",
      "title": "Deployment Strategist I (DS-1)",
      "url": "https://jobs.ashbyhq.com/sarvam/9d8a0c6b-c391-46bf-960d-1b733f999863"
     },
@@ -39,17 +39,17 @@
    "restricted_remote": 0,
    "restricted_samples": [],
    "slug": "sarvam",
-   "total": 40,
+   "total": 39,
    "type": "ashby",
    "url": "https://jobs.ashbyhq.com/sarvam",
    "worldwide": 0
   },
-  "changed_at": "2026-11-24T10:12:48Z",
+  "changed_at": "2026-11-24T11:29:58Z",
   "evidence": [
    {
-    "detail": "Data Scientist - Evaluations, Chanakya (Bengaluru); Deployment Strategist I (DS-1) (Delhi • Mumbai); Deployment Strategist II (DS-2) (Mumbai • Delhi)",
+    "detail": "Data Scientist - Evaluations, Chanakya (Bengaluru); Deployment Strategist I (DS-1) (Mumbai); Deployment Strategist II (DS-2) (Mumbai • Delhi)",
     "kind": "board",
-    "label": "40 of 40 open roles are located in India",
+    "label": "39 of 39 open roles are located in India",
     "url": "https://jobs.ashbyhq.com/sarvam",
     "weight": 5
    },
@@ -64,8 +64,8 @@
   "first_checked_at": "2026-11-10T21:34:53Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "4dd4c87e9c",
-  "summary": "40 of 40 open roles are located in India.",
+  "sig": "3aa33b2b49",
+  "summary": "39 of 39 open roles are located in India.",
   "verdict": "yes"
  },
  "inferred": true,

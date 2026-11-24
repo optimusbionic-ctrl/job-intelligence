@@ -1,0 +1,87 @@
+{
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/sharepoint-tester-testing/alphacom-systems-and-solutions-pvt-ltd/20129265",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "Alphacom Systems and Solutions Pvt Ltd",
+ "company_slug": "alphacom-systems-and-solutions-pvt-ltd",
+ "concerns": [
+  "Asks for 4+ years — you have about 2.5",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "62dd66355dcf",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-24T11:28:24Z",
+ "fit": 66,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "5823cc0c7b0c12",
+ "include_reason": "Manual / functional QA title",
+ "india": {
+  "cities": [
+   "Mumbai",
+   "Bengaluru",
+   "Hyderabad"
+  ],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "manual-qa",
+ "last_verified": "2026-11-24T11:28:24Z",
+ "location": "Mumbai City, Bhiwandi, All India, Ghaziabad, Bangalore, Hyderabad",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-11-24T12:26:39Z",
+ "repost": false,
+ "requirements": [
+  "(Summary from the Shine.com listing; open the posting for the full description.)"
+ ],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 60,
+  "company": 66,
+  "location": 100,
+  "seniority": 72,
+  "skill": 50
+ },
+ "seniority": "unspecified",
+ "snippet": "Experience: 4 to 5 Yrs\nSkills: sharepoint, testing\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "20129265",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-11-24T12:26:39Z",
+   "seen_at": "2026-11-24T11:28:24Z",
+   "url": "https://www.shine.com/jobs/sharepoint-tester-testing/alphacom-systems-and-solutions-pvt-ltd/20129265"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 3,
+ "title": "SharePoint Tester - Testing",
+ "tools": [],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/sharepoint-tester-testing/alphacom-systems-and-solutions-pvt-ltd/20129265",
+ "why": [
+  "Manual / functional QA — the core of your resume",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": 5,
+ "years_min": 4
+}

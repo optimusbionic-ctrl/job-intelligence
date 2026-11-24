@@ -3,20 +3,20 @@
  "classification": "Inferred from job description",
  "india_hiring": {
   "board": null,
-  "changed_at": "2026-11-21T18:16:12Z",
+  "changed_at": "2026-11-24T11:28:24Z",
   "evidence": [
    {
-    "detail": "Java QA Engineer — Bangalore, India",
+    "detail": "SharePoint Tester - Testing — Mumbai City, Bhiwandi, All India, Ghaziabad, Bangalore, Hyderabad",
     "kind": "posting",
     "label": "A current posting lists India as a location",
-    "url": "https://www.shine.com/jobs/java-qa-engineer/alphacom-systems-and-solutions-pvt-ltd/20028676",
+    "url": "https://www.shine.com/jobs/sharepoint-tester-testing/alphacom-systems-and-solutions-pvt-ltd/20129265",
     "weight": 5
    }
   ],
   "first_checked_at": "2026-10-23T04:43:53Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "d6a9a7b1c9",
+  "sig": "656d4852de",
   "summary": "A current posting lists India as a location.",
   "verdict": "yes"
  },
