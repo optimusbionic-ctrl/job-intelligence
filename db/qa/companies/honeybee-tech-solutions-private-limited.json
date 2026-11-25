@@ -1,0 +1,30 @@
+{
+ "category": "Fintech",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-25T11:33:45Z",
+  "evidence": [
+   {
+    "detail": "QA Engineer - BFS, Banking, Manual — Ahmednagar, Maharashtra, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/qa-engineer-bfs-banking-manual/honeybee-tech-solutions-private-limited/20131392",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-25T11:33:45Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "6148c69945",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Honeybee Tech Solutions Private Limited",
+ "slug": "honeybee-tech-solutions-private-limited",
+ "tier": 1,
+ "tracks": [
+  "software"
+ ]
+}

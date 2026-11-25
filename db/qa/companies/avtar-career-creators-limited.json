@@ -1,0 +1,30 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-25T11:33:45Z",
+  "evidence": [
+   {
+    "detail": "Software Tester - Testing — Chennai, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/software-tester-testing/avtar-career-creators-limited/20129919",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-25T11:33:45Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "579bdac6b7",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "AVTAR CAREER CREATORS LIMITED",
+ "slug": "avtar-career-creators-limited",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}
