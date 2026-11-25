@@ -1,0 +1,30 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-25T00:23:48Z",
+  "evidence": [
+   {
+    "detail": "Software Tester - Manual Testing — Mumbai",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.teamlease.com/jobs/software-tester-manual-testing-jobs-in-mumbai-alfa-labs-technologies-llp-1100254",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-25T00:23:48Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "388b841715",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Alfa Labs Technologies",
+ "slug": "alfa-labs-technologies",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}

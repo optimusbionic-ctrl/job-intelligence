@@ -32,6 +32,10 @@
    "at": "2026-11-18T20:30:09Z",
    "ats": null
   },
+  "alfa": {
+   "at": "2026-11-25T00:23:48Z",
+   "ats": null
+  },
   "alfallp": {
    "at": "2026-11-18T19:34:22Z",
    "ats": null
@@ -722,6 +726,10 @@
    "at": "2026-11-18T22:26:36Z",
    "ats": null
   },
+  "rohiniitconsulting": {
+   "at": "2026-11-25T00:23:48Z",
+   "ats": null
+  },
   "rohiniitconsultingllp": {
    "at": "2026-11-18T19:34:22Z",
    "ats": null
@@ -1038,10 +1046,10 @@
   }
  },
  "counts": {
-  "closed": 14,
+  "closed": 11,
   "keep": 37,
-  "live": 194,
-  "stale": 110
+  "live": 177,
+  "stale": 132
  },
- "updated_at": "2026-11-24T23:27:27Z"
+ "updated_at": "2026-11-25T00:25:15Z"
 }

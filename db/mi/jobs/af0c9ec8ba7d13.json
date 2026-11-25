@@ -10,7 +10,7 @@
   "Full description not available from this source"
  ],
  "contacts_count": 0,
- "content_hash": "9b5ebed1955e",
+ "content_hash": "3b04d2419754",
  "date_quality": "unknown",
  "deadline": null,
  "employment": "full-time",
@@ -29,8 +29,8 @@
   "visa": false
  },
  "kind": "graphic-motion",
- "last_verified": "2026-10-29T03:27:05Z",
- "location": "India (Remote)",
+ "last_verified": "2026-11-25T00:25:16Z",
+ "location": "India",
  "logo": null,
  "needs_review": false,
  "official": false,
@@ -51,24 +51,24 @@
  },
  "seniority": "senior",
  "snippet": "",
- "source_primary": "Roar Global careers (via search index)",
+ "source_primary": "Web (via search index)",
  "sources": [
   {
    "id": "web",
    "job_id": "https://careers.roar.global/jobs/aca2a5dc-2bb9-49ca-b111-57df24577fb8",
    "kind": "search",
-   "name": "Roar Global careers (via search index)",
+   "name": "Web (via search index)",
    "posted_at": null,
-   "seen_at": "2026-10-29T03:27:05Z",
+   "seen_at": "2026-11-25T00:25:16Z",
    "url": "https://careers.roar.global/jobs/aca2a5dc-2bb9-49ca-b111-57df24577fb8"
   },
   {
    "id": "web",
    "job_id": "https://careers.roar.global/jobs/2c605cdd-002e-4456-b40c-3ae92f9b50c6",
    "kind": "search",
-   "name": "Roar Global careers (via search index)",
+   "name": "Web (via search index)",
    "posted_at": null,
-   "seen_at": "2026-10-29T03:27:05Z",
+   "seen_at": "2026-11-25T00:25:16Z",
    "url": "https://careers.roar.global/jobs/2c605cdd-002e-4456-b40c-3ae92f9b50c6"
   }
  ],

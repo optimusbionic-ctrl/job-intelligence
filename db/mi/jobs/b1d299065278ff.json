@@ -12,7 +12,7 @@
   "Full description not available from this source"
  ],
  "contacts_count": 0,
- "content_hash": "1f6905c9b5b9",
+ "content_hash": "39cfde587ee2",
  "date_quality": "unknown",
  "deadline": null,
  "employment": "contract",
@@ -31,7 +31,7 @@
   "visa": false
  },
  "kind": "product-motion",
- "last_verified": "2026-11-03T18:34:57Z",
+ "last_verified": "2026-11-25T00:25:16Z",
  "location": "",
  "logo": null,
  "needs_review": false,
@@ -53,16 +53,25 @@
  },
  "seniority": "unspecified",
  "snippet": "",
- "source_primary": "Web job listing (via search index)",
+ "source_primary": "Web (via search index)",
  "sources": [
   {
    "id": "web",
    "job_id": "https://jobs.weekday.works/ux-ui-motion-designer-contract-at-lykstage-4389765055",
    "kind": "search",
-   "name": "Web job listing (via search index)",
+   "name": "Web (via search index)",
    "posted_at": null,
-   "seen_at": "2026-11-03T18:34:57Z",
+   "seen_at": "2026-11-25T00:25:16Z",
    "url": "https://jobs.weekday.works/ux-ui-motion-designer-contract-at-lykstage-4389765055"
+  },
+  {
+   "id": "foundit",
+   "job_id": "https://www.foundit.in/job/ux-ui-motion-designer-contract-lykstage-mumbai-46255489",
+   "kind": "search",
+   "name": "foundit (via search index)",
+   "posted_at": null,
+   "seen_at": "2026-11-25T00:25:16Z",
+   "url": "https://www.foundit.in/job/ux-ui-motion-designer-contract-lykstage-mumbai-46255489"
   }
  ],
  "specializations": [
@@ -70,7 +79,7 @@
  ],
  "status": "lead",
  "tier": 3,
- "title": "UX UI Motion Designer (Contract)",
+ "title": "UX/UI Motion Designer (Contract)",
  "tools": [],
  "updated_at": null,
  "url": "https://jobs.weekday.works/ux-ui-motion-designer-contract-at-lykstage-4389765055",

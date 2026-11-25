@@ -1,0 +1,31 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-25T00:23:48Z",
+  "evidence": [
+   {
+    "detail": "Game Tester — Mumbai, Maharashtra, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://outscal.com/job/game-tester-at-games2win-india-pvt-ltd-in-mumbai-maharashtra-india-1",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-25T00:23:48Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "a17bced33e",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Games2win India",
+ "slug": "games2win-india",
+ "tier": 3,
+ "tracks": [
+  "game",
+  "software"
+ ]
+}
