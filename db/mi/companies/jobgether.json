@@ -16,9 +16,9 @@
     "United Kingdom",
     "Germany",
     "Spain",
-    "Switzerland"
+    "France"
    ],
-   "india": 280,
+   "india": 285,
    "india_samples": [
     {
      "location": "India",
@@ -42,13 +42,18 @@
     }
    ],
    "open_samples": [],
-   "remote": 3528,
-   "restricted_remote": 3248,
+   "remote": 3745,
+   "restricted_remote": 3460,
    "restricted_samples": [
     {
      "location": "US",
      "title": "(INT) Manager, EDI",
      "url": "https://jobs.lever.co/jobgether/b355cb9d-4afd-40fa-8435-c1698aaf55c6"
+    },
+    {
+     "location": "Germany",
+     "title": "(Senior) Accountant (w/m/d)",
+     "url": "https://jobs.lever.co/jobgether/4bfc372a-44ce-45c6-be49-171c24096247"
     },
     {
      "location": "Switzerland",
@@ -59,25 +64,20 @@
      "location": "Spain",
      "title": "(Senior) FP&A Analyst",
      "url": "https://jobs.lever.co/jobgether/5b4aa616-54d3-4f07-9e68-ff27dca342a3"
-    },
-    {
-     "location": "Germany",
-     "title": "(Senior) FP&A Analyst",
-     "url": "https://jobs.lever.co/jobgether/6b38eaed-db39-4ccb-851a-f19db36fed9d"
     }
    ],
    "slug": "jobgether",
-   "total": 3528,
+   "total": 3745,
    "type": "lever",
    "url": "https://jobs.lever.co/jobgether",
    "worldwide": 0
   },
-  "changed_at": "2026-11-25T08:01:30Z",
+  "changed_at": "2026-11-25T09:12:44Z",
   "evidence": [
    {
     "detail": ".NET Tech Lead / Senior .NET Developer (India); .Net Developer with PLANISWARE (India); AEO/GEO Lead (Technical AI Search) (India)",
     "kind": "board",
-    "label": "280 of 3528 open roles are located in India",
+    "label": "285 of 3745 open roles are located in India",
     "url": "https://jobs.lever.co/jobgether",
     "weight": 5
    },
@@ -92,8 +92,8 @@
   "first_checked_at": "2026-11-19T20:06:27Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "d4beaebc96",
-  "summary": "280 of 3528 open roles are located in India.",
+  "sig": "4313ad94f2",
+  "summary": "285 of 3745 open roles are located in India.",
   "verdict": "yes"
  },
  "inferred": true,
