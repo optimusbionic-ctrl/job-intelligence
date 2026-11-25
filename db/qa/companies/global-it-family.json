@@ -1,0 +1,30 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-25T07:59:36Z",
+  "evidence": [
+   {
+    "detail": "QA Manual Automation Engineer (Bengaluru) — Bangalore, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/qa-manual-automation-engineer-bengaluru/global-it-family/20120907",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-25T07:59:36Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "72e73d80b6",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Global IT Family",
+ "slug": "global-it-family",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}
