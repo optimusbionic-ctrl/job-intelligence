@@ -24,8 +24,8 @@
    "india": 0,
    "india_samples": [],
    "open_samples": [],
-   "remote": 15,
-   "restricted_remote": 15,
+   "remote": 14,
+   "restricted_remote": 14,
    "restricted_samples": [
     {
      "location": "EMEA",
@@ -43,23 +43,23 @@
      "url": "https://jobs.lever.co/superside/164e09f2-41db-469a-ac65-c9036247a3a3"
     },
     {
-     "location": "Global",
-     "title": "Conceptual Art Director",
-     "url": "https://jobs.lever.co/superside/a6b28001-e4b7-4253-bb2e-bc0ce8e74f07"
+     "location": "LATAM",
+     "title": "Creative (Graphic Designer)",
+     "url": "https://jobs.lever.co/superside/f3d3064a-6df5-4a65-af08-132eeaf3688c"
     }
    ],
    "slug": "superside",
-   "total": 16,
+   "total": 15,
    "type": "lever",
    "url": "https://jobs.lever.co/superside",
    "worldwide": 0
   },
-  "changed_at": "2026-11-24T15:03:14Z",
+  "changed_at": "2026-11-25T02:58:31Z",
   "evidence": [
    {
-    "detail": "None are located in India or open worldwide; 15 remote roles are limited to named countries",
+    "detail": "None are located in India or open worldwide; 14 remote roles are limited to named countries",
     "kind": "board",
-    "label": "All 16 open roles are in Colombia, Argentina, Canada and Spain",
+    "label": "All 15 open roles are in Colombia, Argentina, Canada and Spain",
     "url": "https://jobs.lever.co/superside",
     "weight": -3
    }
@@ -67,8 +67,8 @@
   "first_checked_at": "2026-10-22T09:28:02Z",
   "india_based": false,
   "method": "Careers board, posting text, web search",
-  "sig": "ef27abaeab",
-  "summary": "All 16 open roles are in Colombia, Argentina, Canada and Spain. None are located in India or open worldwide; 15 remote roles are limited to named countries.",
+  "sig": "1775db1c17",
+  "summary": "All 15 open roles are in Colombia, Argentina, Canada and Spain. None are located in India or open worldwide; 14 remote roles are limited to named countries.",
   "verdict": "no",
   "web": {
    "checked_at": "2026-10-22T10:28:53Z",
