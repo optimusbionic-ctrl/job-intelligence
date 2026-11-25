@@ -15,14 +15,9 @@
    "india": 0,
    "india_samples": [],
    "open_samples": [],
-   "remote": 11,
-   "restricted_remote": 11,
+   "remote": 10,
+   "restricted_remote": 10,
    "restricted_samples": [
-    {
-     "location": "Berlin",
-     "title": "Engineering Manager - Data Platform (m/f/d)",
-     "url": "https://jobs.ashbyhq.com/babbel/ed8a567a-9ea2-46f8-8ae3-0f8b8177b5db"
-    },
     {
      "location": "New York",
      "title": "Growth Lead, Paid Social & Experimentation",
@@ -37,20 +32,25 @@
      "location": "Berlin",
      "title": "Head of Pricing & Monetization (m/f/d)",
      "url": "https://jobs.ashbyhq.com/babbel/f74444aa-f169-4529-a4ce-8c5337eb4fe7"
+    },
+    {
+     "location": "Berlin",
+     "title": "Infrastructure / DX Engineer – Platform (all genders)",
+     "url": "https://jobs.ashbyhq.com/babbel/2e2f0461-1ba0-431f-b639-f8c3c3bfdcfa"
     }
    ],
    "slug": "babbel",
-   "total": 11,
+   "total": 10,
    "type": "ashby",
    "url": "https://jobs.ashbyhq.com/babbel",
    "worldwide": 0
   },
-  "changed_at": "2026-11-25T09:12:44Z",
+  "changed_at": "2026-11-25T10:36:56Z",
   "evidence": [
    {
-    "detail": "None are located in India or open worldwide; 11 remote roles are limited to named countries",
+    "detail": "None are located in India or open worldwide; 10 remote roles are limited to named countries",
     "kind": "board",
-    "label": "All 11 open roles are in Germany and United States",
+    "label": "All 10 open roles are in Germany and United States",
     "url": "https://jobs.ashbyhq.com/babbel",
     "weight": -3
    }
@@ -58,8 +58,8 @@
   "first_checked_at": "2026-11-03T18:34:57Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "346c507ad5",
-  "summary": "All 11 open roles are in Germany and United States. None are located in India or open worldwide; 11 remote roles are limited to named countries.",
+  "sig": "14f6d91aa2",
+  "summary": "All 10 open roles are in Germany and United States. None are located in India or open worldwide; 10 remote roles are limited to named countries.",
   "verdict": "no"
  },
  "inferred": true,

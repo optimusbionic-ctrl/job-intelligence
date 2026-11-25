@@ -53,17 +53,17 @@
     }
    ],
    "slug": "imagineart",
-   "total": 24,
+   "total": 25,
    "type": "ashby",
    "url": "https://jobs.ashbyhq.com/imagineart",
    "worldwide": 0
   },
-  "changed_at": "2026-11-19T20:06:27Z",
+  "changed_at": "2026-11-25T10:36:56Z",
   "evidence": [
    {
     "detail": "Agent Infrastructure Engineer — Core Harness (Superagent) (India); Performance Marketing Manager (India); SEO Lead (India)",
     "kind": "board",
-    "label": "3 of 24 open roles are located in India",
+    "label": "3 of 25 open roles are located in India",
     "url": "https://jobs.ashbyhq.com/imagineart",
     "weight": 5
    },
@@ -78,8 +78,8 @@
   "first_checked_at": "2026-11-10T21:34:53Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "21af345ddd",
-  "summary": "3 of 24 open roles are located in India.",
+  "sig": "07464a5a8f",
+  "summary": "3 of 25 open roles are located in India.",
   "verdict": "yes"
  },
  "inferred": true,
