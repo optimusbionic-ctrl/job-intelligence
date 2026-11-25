@@ -42,8 +42,8 @@
     }
    ],
    "open_samples": [],
-   "remote": 48,
-   "restricted_remote": 37,
+   "remote": 49,
+   "restricted_remote": 38,
    "restricted_samples": [
     {
      "location": "Brazil - Remote",
@@ -57,27 +57,27 @@
     },
     {
      "location": "Canada - Remote",
-     "title": "Commerce digital Consultant Bloomreach CRM",
-     "url": "https://job-boards.eu.greenhouse.io/valtech/jobs/5042574101"
+     "title": "Cloud Engineer",
+     "url": "https://job-boards.eu.greenhouse.io/valtech/jobs/5048802101"
     },
     {
      "location": "Canada - Remote",
-     "title": "Commerce digital Consultant Shopify",
-     "url": "https://job-boards.eu.greenhouse.io/valtech/jobs/5047565101"
+     "title": "Commerce digital Consultant Bloomreach CRM",
+     "url": "https://job-boards.eu.greenhouse.io/valtech/jobs/5042574101"
     }
    ],
    "slug": "valtech",
-   "total": 130,
+   "total": 131,
    "type": "greenhouse",
    "url": "https://boards.greenhouse.io/valtech",
    "worldwide": 0
   },
-  "changed_at": "2026-11-25T18:53:12Z",
+  "changed_at": "2026-11-25T20:57:25Z",
   "evidence": [
    {
     "detail": " Akeneo PIM & SFCC L2 Support (Bengaluru); .NET Architect (Bengaluru); AEM - Developer / Senior Developer (Bengaluru)",
     "kind": "board",
-    "label": "28 of 130 open roles are located in India",
+    "label": "28 of 131 open roles are located in India",
     "url": "https://boards.greenhouse.io/valtech",
     "weight": 5
    },
@@ -92,8 +92,8 @@
   "first_checked_at": "2026-11-13T15:44:28Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "9d3d18828d",
-  "summary": "28 of 130 open roles are located in India.",
+  "sig": "c19c606989",
+  "summary": "28 of 131 open roles are located in India.",
   "verdict": "yes"
  },
  "inferred": true,
