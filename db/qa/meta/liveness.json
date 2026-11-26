@@ -48,6 +48,10 @@
    "at": "2026-11-18T20:30:09Z",
    "ats": null
   },
+  "alphawizz": {
+   "at": "2026-11-26T01:12:13Z",
+   "ats": null
+  },
   "analyticsfoxsoftwares": {
    "at": "2026-11-25T22:56:05Z",
    "ats": null
@@ -128,11 +132,15 @@
    "ats": null
   },
   "bmcoder": {
-   "at": "2026-11-03T20:52:26Z",
+   "at": "2026-11-26T01:12:13Z",
    "ats": null
   },
   "bootupnexware": {
    "at": "2026-11-24T12:36:59Z",
+   "ats": null
+  },
+  "botcoding": {
+   "at": "2026-11-26T01:12:13Z",
    "ats": null
   },
   "brainedaiabventures": {
@@ -161,6 +169,10 @@
   },
   "capgeminiservicesindia": {
    "at": "2026-11-03T22:50:01Z",
+   "ats": null
+  },
+  "centific": {
+   "at": "2026-11-26T01:12:13Z",
    "ats": null
   },
   "cittasolutions": {
@@ -300,7 +312,7 @@
    "ats": null
   },
   "expleo": {
-   "at": "2026-11-11T01:08:08Z",
+   "at": "2026-11-26T01:12:13Z",
    "ats": null
   },
   "fasttrackjobsconsultancy": {
@@ -742,6 +754,10 @@
    "at": "2026-11-19T00:24:58Z",
    "ats": null
   },
+  "rowthtech": {
+   "at": "2026-11-26T01:12:13Z",
+   "ats": null
+  },
   "rtpldigital": {
    "at": "2026-11-18T23:25:22Z",
    "ats": null
@@ -1050,10 +1066,10 @@
   }
  },
  "counts": {
-  "closed": 12,
-  "keep": 27,
-  "live": 180,
-  "stale": 139
+  "closed": 13,
+  "keep": 28,
+  "live": 194,
+  "stale": 124
  },
- "updated_at": "2026-11-25T23:53:16Z"
+ "updated_at": "2026-11-26T01:14:07Z"
 }

@@ -10,7 +10,7 @@
   "Full description not available from this source"
  ],
  "contacts_count": 0,
- "content_hash": "4e7cdd4a7ac4",
+ "content_hash": "364a4af18e15",
  "date_quality": "unknown",
  "deadline": null,
  "employment": "full-time",
@@ -29,8 +29,8 @@
   "visa": false
  },
  "kind": "manual-qa",
- "last_verified": "2026-11-03T18:50:05Z",
- "location": "India",
+ "last_verified": "2026-11-26T01:12:13Z",
+ "location": "India (Remote)",
  "logo": null,
  "needs_review": false,
  "official": false,
@@ -51,15 +51,15 @@
  },
  "seniority": "unspecified",
  "snippet": "",
- "source_primary": "Web (via search index)",
+ "source_primary": "Web job listing (via search index)",
  "sources": [
   {
    "id": "web",
    "job_id": "https://www.remoterocketship.com/company/teamified-com-au/jobs/qa-tester-india-remote",
    "kind": "search",
-   "name": "Web (via search index)",
+   "name": "Web job listing (via search index)",
    "posted_at": null,
-   "seen_at": "2026-11-03T18:50:05Z",
+   "seen_at": "2026-11-26T01:12:13Z",
    "url": "https://www.remoterocketship.com/company/teamified-com-au/jobs/qa-tester-india-remote"
   }
  ],
