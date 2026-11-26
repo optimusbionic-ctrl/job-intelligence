@@ -16,8 +16,8 @@
   "board": {
    "apac": 0,
    "countries": [
-    "United Kingdom",
     "United States",
+    "United Kingdom",
     "Australia",
     "Canada",
     "India"
@@ -40,17 +40,17 @@
    "restricted_remote": 0,
    "restricted_samples": [],
    "slug": "rockstargames",
-   "total": 16,
+   "total": 15,
    "type": "greenhouse",
    "url": "https://boards.greenhouse.io/rockstargames",
    "worldwide": 0
   },
-  "changed_at": "2026-11-25T00:23:48Z",
+  "changed_at": "2026-11-26T11:28:36Z",
   "evidence": [
    {
     "detail": "Security Compliance Operations Lead (Bengaluru, Karnataka, India); Senior Security Vulnerability Engineer (Bengaluru, Karnataka, India)",
     "kind": "board",
-    "label": "2 of 16 open roles are located in India",
+    "label": "2 of 15 open roles are located in India",
     "url": "https://boards.greenhouse.io/rockstargames",
     "weight": 5
    },
@@ -65,8 +65,8 @@
   "first_checked_at": "2026-10-19T15:45:44Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "4939c9f64f",
-  "summary": "2 of 16 open roles are located in India.",
+  "sig": "a055dc4046",
+  "summary": "2 of 15 open roles are located in India.",
   "verdict": "yes"
  },
  "name": "Rockstar Games",

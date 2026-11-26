@@ -5,9 +5,9 @@
  "high": 10468771,
  "id": "qa-dataset-remote",
  "label": "Disclosed pay on remote QA postings (any region, this dataset)",
- "low": 2851561,
+ "low": 3666292,
  "market": "Remote (global)",
- "n": 11,
+ "n": 10,
  "retrieved_at": "2026-11-26",
  "samples": [
   {
@@ -27,15 +27,6 @@
    "min": 20000,
    "title": "QA Engineer",
    "url": "https://himalayas.app/companies/syd-life-ai/jobs/qa-engineer?utm_source=api"
-  },
-  {
-   "company": "TECDATA ENGINEERING",
-   "currency": "EUR",
-   "location": "Spain",
-   "max": 28000,
-   "min": 28000,
-   "title": "QA Tester / Analista Funcional",
-   "url": "https://himalayas.app/companies/tecdata-engineering/jobs/qa-tester-analista-funcional?utm_source=api"
   },
   {
    "company": "IRIUM",

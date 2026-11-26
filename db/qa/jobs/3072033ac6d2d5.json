@@ -1,0 +1,120 @@
+{
+ "apply_url": null,
+ "board_apply": "https://himalayas.app/companies/vrinda-international/jobs/qa-tester-athena-master?utm_source=api",
+ "category": "IT services",
+ "comp_potential": "listed_good",
+ "company": "Vrinda International",
+ "company_slug": "vrinda-international",
+ "concerns": [
+  "Mentions test automation — be ready to discuss it or show a small script",
+  "Also asks for: SQL / databases",
+  "Asks for 4+ years — you have about 2.5",
+  "IT services company (client projects)"
+ ],
+ "contacts_count": 0,
+ "content_hash": "bc3293b67c74",
+ "date_quality": "exact",
+ "deadline": "2027-01-25T09:52:53Z",
+ "employment": "full-time",
+ "first_seen": "2026-11-26T11:28:36Z",
+ "fit": 74,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "3072033ac6d2d5",
+ "include_reason": "Manual / functional QA title",
+ "india": {
+  "cities": [],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "manual-qa",
+ "last_verified": "2026-11-26T11:28:36Z",
+ "location": "India",
+ "logo": "https://cdn-images.himalayas.app/pkbf71dc320bw78ymg2k345v04yl",
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-11-26T09:52:54Z",
+ "repost": false,
+ "requirements": [
+  "Possess 4 to 5 years of professional experience in quality assurance within the IT Services sector.",
+  "Demonstrate proficiency in Azure DevOps and GitHub Actions for continuous integration and deployment.",
+  "Have strong practical experience with automation tools such as Selenium and the Robot Framework.",
+  "Show capability in handling streaming data validation using Kafka.",
+  "Be skilled in querying and analyzing data using SQL, with a solid understanding of backend testing methodologies.",
+  "Experience with ETL processes and data pipeline validation is essential.",
+  "Familiarity with OpenSearch or Elasticsearch is required for effective log and data analysis."
+ ],
+ "responsibilities": [
+  "Execute comprehensive testing strategies using Selenium and Robot Framework to validate application functionality and user interfaces.",
+  "Monitor and validate real-time data streams and streaming data integrity utilizing Kafka and related technologies.",
+  "Perform deep-dive backend testing and SQL queries to verify data consistency across various system layers.",
+  "Conduct rigorous ETL and data pipeline testing to ensure accurate transformation and movement of data between systems.",
+  "Utilize OpenSearch and Elasticsearch for log analysis, performance monitoring, and data retrieval verification.",
+  "Collaborate within CI/CD pipelines to automate testing processes and streamline deployment workflows.",
+  "Validate Master Data Management (MDM) processes, with a focus on Reltio MDM where applicable, to ensure data governance and quality."
+ ],
+ "salary": {
+  "applies_india": true,
+  "basis": "listed",
+  "currency": "INR",
+  "fx_at": "Wed, 25 Nov 2026 00:02:31 +0000",
+  "fx_rate": 1.0,
+  "inr_max": 1000000,
+  "inr_min": 1000000,
+  "max": 1000000,
+  "min": 1000000,
+  "note": "Listed in the posting",
+  "original_period": "annual",
+  "period": "annual",
+  "source_name": "Himalayas",
+  "source_url": "https://himalayas.app/companies/vrinda-international/jobs/qa-tester-athena-master?utm_source=api",
+  "state": "verified",
+  "verified_at": "2026-11-26T11:28:36Z"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 100,
+  "company": 76,
+  "location": 100,
+  "seniority": 72,
+  "skill": 59
+ },
+ "seniority": "unspecified",
+ "snippet": "QA Tester (Athena Master)\n\n Summary\n\n We are seeking a highly skilled QA Tester to join our IT Services division, where you will play a pivotal role in ensuring the integrity and performance of our complex data ecosystems. This position is designed for a professional with 4 to 5 years of hands-on experience, offering a competitive annual compensation package of ₹10 LPA. The successful candidate will be responsible fo",
+ "source_primary": "Himalayas",
+ "sources": [
+  {
+   "id": "himalayas",
+   "job_id": "https://himalayas.app/companies/vrinda-international/jobs/qa-tester-athena-master",
+   "kind": "board",
+   "name": "Himalayas",
+   "posted_at": "2026-11-26T09:52:54Z",
+   "seen_at": "2026-11-26T11:28:36Z",
+   "url": "https://himalayas.app/companies/vrinda-international/jobs/qa-tester-athena-master?utm_source=api"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 2,
+ "title": "QA TESTER (ATHENA MASTER)",
+ "tools": [
+  "UI testing",
+  "SQL / databases",
+  "Test automation"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://himalayas.app/companies/vrinda-international/jobs/qa-tester-athena-master?utm_source=api",
+ "why": [
+  "Manual / functional QA — the core of your resume",
+  "Already on your resume: UI testing",
+  "Pay is listed in the posting",
+  "Location lists India"
+ ],
+ "work_mode": "remote",
+ "years_max": 5,
+ "years_min": 4
+}
