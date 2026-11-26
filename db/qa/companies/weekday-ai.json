@@ -1,23 +1,23 @@
 {
- "category": "Product / SaaS",
+ "category": "Fintech",
  "classification": "Inferred from job description",
  "domain": "weekday.works",
  "india_hiring": {
   "board": null,
-  "changed_at": "2026-11-23T16:09:38Z",
+  "changed_at": "2026-11-26T16:04:27Z",
   "evidence": [
    {
-    "detail": "QA Engineer - Manual testing — Bengaluru, Karnataka, India",
+    "detail": "QA Engineer — Thiruvananthapuram, Keralam, India",
     "kind": "posting",
     "label": "A current posting lists India as a location",
-    "url": "https://jobs.workable.com/view/pri9GRwAZ7pP4KxS2Z42qR/qa-engineer---manual-testing-in-bengaluru-at-weekday-ai",
+    "url": "https://jobs.workable.com/view/81Q36H2gRHYAD37Xm7T9dj/qa-engineer-in-thiruvananthapuram-at-weekday-ai",
     "weight": 5
    }
   ],
   "first_checked_at": "2026-10-19T13:24:59Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "d07e052911",
+  "sig": "2ca7d44cb1",
   "summary": "A current posting lists India as a location.",
   "verdict": "yes"
  },
