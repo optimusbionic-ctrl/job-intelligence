@@ -1,13 +1,13 @@
 {
- "avg": 6054915,
+ "avg": 5575514,
  "basis": "Interquartile range of posting midpoints, converted to INR at today's rate",
  "currency": "INR",
- "high": 8827897,
+ "high": 10468771,
  "id": "qa-dataset-remote",
  "label": "Disclosed pay on remote QA postings (any region, this dataset)",
- "low": 3666292,
+ "low": 2851561,
  "market": "Remote (global)",
- "n": 12,
+ "n": 11,
  "retrieved_at": "2026-11-26",
  "samples": [
   {
@@ -81,15 +81,6 @@
    "min": 67355,
    "title": "Quality Assurance Analyst",
    "url": "https://himalayas.app/companies/icf/jobs/quality-assurance-analyst?utm_source=api"
-  },
-  {
-   "company": "SpaceCoast AV Consultants, LLC",
-   "currency": "USD",
-   "location": "United States",
-   "max": 105000,
-   "min": 85000,
-   "title": "Quality Assurance Analyst",
-   "url": "https://himalayas.app/companies/spacecoast-av-consultants-llc/jobs/quality-assurance-analyst?utm_source=api"
   },
   {
    "company": "NTT DATA",

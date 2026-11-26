@@ -88,6 +88,10 @@
    "at": "2026-11-18T19:34:22Z",
    "ats": null
   },
+  "artechsolutions": {
+   "at": "2026-11-26T05:12:45Z",
+   "ats": null
+  },
   "arvind": {
    "at": "2026-11-15T19:48:30Z",
    "ats": null
@@ -395,6 +399,10 @@
    "at": "2026-11-19T00:24:58Z",
    "ats": null
   },
+  "greenbyteweb": {
+   "at": "2026-11-26T05:12:45Z",
+   "ats": null
+  },
   "greenfields": {
    "at": "2026-11-03T23:44:21Z",
    "ats": {
@@ -463,6 +471,10 @@
   },
   "integratedpersonnelservices": {
    "at": "2026-11-10T15:48:46Z",
+   "ats": null
+  },
+  "intellicsglobalservices": {
+   "at": "2026-11-26T05:12:45Z",
    "ats": null
   },
   "intellisearchservices": {
@@ -564,7 +576,7 @@
    "ats": null
   },
   "mobisec": {
-   "at": "2026-11-03T22:50:01Z",
+   "at": "2026-11-26T05:12:45Z",
    "ats": null
   },
   "nameless": {
@@ -604,7 +616,7 @@
    "ats": null
   },
   "orcapodconsultingservices": {
-   "at": "2026-11-11T05:04:02Z",
+   "at": "2026-11-26T05:12:45Z",
    "ats": null
   },
   "origin": {
@@ -719,7 +731,7 @@
    "ats": null
   },
   "recro": {
-   "at": "2026-11-11T05:04:02Z",
+   "at": "2026-11-26T05:12:45Z",
    "ats": null
   },
   "reliancegames": {
@@ -1066,10 +1078,10 @@
   }
  },
  "counts": {
-  "closed": 23,
-  "keep": 19,
-  "live": 184,
-  "stale": 135
+  "closed": 15,
+  "keep": 22,
+  "live": 182,
+  "stale": 137
  },
- "updated_at": "2026-11-26T04:02:35Z"
+ "updated_at": "2026-11-26T05:14:07Z"
 }
