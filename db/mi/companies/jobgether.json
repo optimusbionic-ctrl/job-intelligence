@@ -18,7 +18,7 @@
     "Germany",
     "Switzerland"
    ],
-   "india": 242,
+   "india": 258,
    "india_samples": [
     {
      "location": "India",
@@ -42,8 +42,8 @@
     }
    ],
    "open_samples": [],
-   "remote": 4052,
-   "restricted_remote": 3810,
+   "remote": 4116,
+   "restricted_remote": 3858,
    "restricted_samples": [
     {
      "location": "Germany",
@@ -56,28 +56,28 @@
      "url": "https://jobs.lever.co/jobgether/28ee4dc1-dc6e-48e7-bcad-2c3ec3d2e55b"
     },
     {
+     "location": "Germany",
+     "title": "(Senior) Digital Strategist",
+     "url": "https://jobs.lever.co/jobgether/bf0aa5f6-083e-4cea-985a-caeb54cabf2c"
+    },
+    {
      "location": "Hungary",
      "title": "(Senior) Java Test Automation Engineer",
      "url": "https://jobs.lever.co/jobgether/194f751c-9e95-4871-90cb-4b1c91b5bd37"
-    },
-    {
-     "location": "Croatia",
-     "title": "(Senior) Java Test Automation Engineer",
-     "url": "https://jobs.lever.co/jobgether/1a3eb996-645c-4786-bae0-9c49937f6078"
     }
    ],
    "slug": "jobgether",
-   "total": 4052,
+   "total": 4116,
    "type": "lever",
    "url": "https://jobs.lever.co/jobgether",
    "worldwide": 0
   },
-  "changed_at": "2026-11-26T12:38:49Z",
+  "changed_at": "2026-11-26T13:58:12Z",
   "evidence": [
    {
     "detail": ".Net Developer with PLANISWARE (India); AEO/GEO Lead (Technical AI Search) (India); AI Delivery Manager (India)",
     "kind": "board",
-    "label": "242 of 4052 open roles are located in India",
+    "label": "258 of 4116 open roles are located in India",
     "url": "https://jobs.lever.co/jobgether",
     "weight": 5
    },
@@ -92,8 +92,8 @@
   "first_checked_at": "2026-11-19T20:06:27Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "7c1663fc99",
-  "summary": "242 of 4052 open roles are located in India.",
+  "sig": "03d952c112",
+  "summary": "258 of 4116 open roles are located in India.",
   "verdict": "yes"
  },
  "inferred": true,
