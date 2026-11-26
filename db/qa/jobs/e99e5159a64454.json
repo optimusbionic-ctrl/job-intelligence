@@ -1,0 +1,106 @@
+{
+ "apply_url": null,
+ "board_apply": "https://himalayas.app/companies/infotrust/jobs/quality-engineer-automation?utm_source=api",
+ "category": "Product / SaaS",
+ "comp_potential": "unknown",
+ "company": "InfoTrust",
+ "company_slug": "infotrust",
+ "concerns": [
+  "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
+  "Also asks for: API testing, SQL / databases, Programming",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "0e40f3fc39c6",
+ "date_quality": "exact",
+ "deadline": "2027-01-25T07:53:13Z",
+ "employment": "full-time",
+ "first_seen": "2026-11-26T07:58:25Z",
+ "fit": 78,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "e99e5159a64454",
+ "include_reason": "Automation-heavy QA (SDET)",
+ "india": {
+  "cities": [],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "automation",
+ "last_verified": "2026-11-26T07:58:25Z",
+ "location": "India",
+ "logo": "https://cdn-images.himalayas.app/9moovik2540fgka6yfodanqioyfh",
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-11-26T07:53:14Z",
+ "repost": false,
+ "requirements": [
+  "2-5 years of test automation experience on web, API or cloud-based systems",
+  "Bachelor’s degree in Computer Science, Engineering or a related field",
+  "Solid grounding in software testing principles, QA methodologies and the SDLC"
+ ],
+ "responsibilities": [
+  "This is a hands-on individual contributor role reporting to Engineering leadership. Leadership sets your main product focus when you’re hired. You’ll work closely with other quality engineers, engineering managers, developers, DevOps and product teams. The goal is simple: catch defects before they reach production, not after.",
+  "In your first 90 days you’ll learn our products, architecture and shared frameworks. Then you’ll start building automated tests for your features. By day 90, your releases will ship against a complete test plan, with your tests running in the pipeline.",
+  "Write the test plan for every feature you own before it ships. You’ll document and plan test cases with engineering managers and developers so each release is fully covered.",
+  "Design, build and maintain automated functional, regression, performance and API tests for your features, using the team’s shared frameworks.",
+  "Validate and query data in SQL and NoSQL databases to set up test data, check results and troubleshoot.",
+  "Monitor test results, analyze failures and report issues with diagnostics clear enough for the team to act on quickly.",
+  "Help extend the team’s test automation frameworks so they stay scalable and maintainable as our products grow."
+ ],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 60,
+  "company": 95,
+  "location": 100,
+  "seniority": 100,
+  "skill": 56
+ },
+ "seniority": "unspecified",
+ "snippet": "InfoTrust is a global, privately-owned products and solutions company dedicated to unlocking the power of data to drive marketing performance and business growth. We specialize in digital analytics, media enablement, and privacy-centric solutions that help Fortune 100–500 companies and the world’s largest brands optimize their marketing strategies. Our culture is built on passion, ownership, diversity, trust, respect",
+ "source_primary": "Himalayas",
+ "sources": [
+  {
+   "id": "himalayas",
+   "job_id": "https://himalayas.app/companies/infotrust/jobs/quality-engineer-automation",
+   "kind": "board",
+   "name": "Himalayas",
+   "posted_at": "2026-11-26T07:53:14Z",
+   "seen_at": "2026-11-26T07:58:25Z",
+   "url": "https://himalayas.app/companies/infotrust/jobs/quality-engineer-automation?utm_source=api"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 1,
+ "title": "Quality Engineer - Automation",
+ "tools": [
+  "Regression testing",
+  "Stress / load testing",
+  "Test cases & scenarios",
+  "Bug reporting",
+  "Google Sheets / Excel",
+  "API testing",
+  "SQL / databases",
+  "Test automation",
+  "Programming"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://himalayas.app/companies/infotrust/jobs/quality-engineer-automation?utm_source=api",
+ "why": [
+  "Already on your resume: Regression testing, Stress / load testing, Test cases & scenarios, Bug reporting, Google Sheets / Excel",
+  "Product / SaaS company",
+  "Asks for 2–5 years — you have about 2.5",
+  "Location lists India"
+ ],
+ "work_mode": "remote",
+ "years_max": 5,
+ "years_min": 2
+}

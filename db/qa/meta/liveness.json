@@ -21,7 +21,7 @@
    "ats": null
   },
   "aithonsolutions": {
-   "at": "2026-11-11T07:18:14Z",
+   "at": "2026-11-26T07:58:25Z",
    "ats": null
   },
   "ajnalens": {
@@ -224,7 +224,7 @@
    "ats": null
   },
   "cscoracletest": {
-   "at": "2026-11-11T06:49:33Z",
+   "at": "2026-11-26T07:58:25Z",
    "ats": null
   },
   "cxm": {
@@ -656,7 +656,7 @@
    "ats": null
   },
   "pitchnhire": {
-   "at": "2026-11-11T07:18:14Z",
+   "at": "2026-11-26T07:58:25Z",
    "ats": null
   },
   "placementlocal": {
@@ -978,7 +978,7 @@
    "ats": null
   },
   "tvsd": {
-   "at": "2026-11-11T07:18:14Z",
+   "at": "2026-11-26T07:58:25Z",
    "ats": null
   },
   "ubisoft": {
@@ -1078,10 +1078,10 @@
   }
  },
  "counts": {
-  "closed": 13,
-  "keep": 24,
-  "live": 183,
-  "stale": 135
+  "closed": 11,
+  "keep": 26,
+  "live": 180,
+  "stale": 137
  },
- "updated_at": "2026-11-26T06:31:07Z"
+ "updated_at": "2026-11-26T08:00:46Z"
 }

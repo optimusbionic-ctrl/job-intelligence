@@ -13,10 +13,10 @@
     "Canada",
     "India",
     "Brazil",
-    "Spain",
-    "Germany",
     "Switzerland",
-    "United Kingdom"
+    "Spain",
+    "United Kingdom",
+    "France"
    ],
    "india": 238,
    "india_samples": [
@@ -42,13 +42,18 @@
     }
    ],
    "open_samples": [],
-   "remote": 3683,
-   "restricted_remote": 3445,
+   "remote": 3776,
+   "restricted_remote": 3538,
    "restricted_samples": [
     {
      "location": "Germany",
      "title": "(Senior) Accountant (w/m/d)",
      "url": "https://jobs.lever.co/jobgether/4bfc372a-44ce-45c6-be49-171c24096247"
+    },
+    {
+     "location": "Switzerland",
+     "title": "(Senior) Consultant Data Migration",
+     "url": "https://jobs.lever.co/jobgether/28ee4dc1-dc6e-48e7-bcad-2c3ec3d2e55b"
     },
     {
      "location": "Portugal",
@@ -59,25 +64,20 @@
      "location": "UK",
      "title": "3D Artist",
      "url": "https://jobs.lever.co/jobgether/06990190-f768-49f8-81eb-18ad554559f3"
-    },
-    {
-     "location": "Netherlands",
-     "title": "3D Artist",
-     "url": "https://jobs.lever.co/jobgether/09bec8fb-aa6f-4d5f-8b78-75ec0f45d106"
     }
    ],
    "slug": "jobgether",
-   "total": 3683,
+   "total": 3776,
    "type": "lever",
    "url": "https://jobs.lever.co/jobgether",
    "worldwide": 0
   },
-  "changed_at": "2026-11-26T06:31:07Z",
+  "changed_at": "2026-11-26T08:00:47Z",
   "evidence": [
    {
     "detail": ".Net Developer with PLANISWARE (India); AEO/GEO Lead (Technical AI Search) (India); AI Delivery Manager (India)",
     "kind": "board",
-    "label": "238 of 3683 open roles are located in India",
+    "label": "238 of 3776 open roles are located in India",
     "url": "https://jobs.lever.co/jobgether",
     "weight": 5
    },
@@ -92,8 +92,8 @@
   "first_checked_at": "2026-11-19T20:06:27Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "82c0dc5382",
-  "summary": "238 of 3683 open roles are located in India.",
+  "sig": "8099bce4a6",
+  "summary": "238 of 3776 open roles are located in India.",
   "verdict": "yes"
  },
  "inferred": true,
