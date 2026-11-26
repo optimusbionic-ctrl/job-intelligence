@@ -13,7 +13,7 @@
     "United States",
     "Canada"
    ],
-   "india": 60,
+   "india": 59,
    "india_samples": [
     {
      "location": "Bangalore HQ",
@@ -32,8 +32,8 @@
     },
     {
      "location": "Bangalore HQ",
-     "title": "CDP - Data Analyst",
-     "url": "https://jobs.ashbyhq.com/Tekion/123ca252-d027-4e31-bcab-3275bb54ec76"
+     "title": "Cloud Finops Analyst II",
+     "url": "https://jobs.ashbyhq.com/Tekion/a33d54f8-6f48-4158-b8ae-9da634830ebe"
     }
    ],
    "open_samples": [],
@@ -62,17 +62,17 @@
     }
    ],
    "slug": "tekion",
-   "total": 87,
+   "total": 86,
    "type": "ashby",
    "url": "https://jobs.ashbyhq.com/tekion",
    "worldwide": 0
   },
-  "changed_at": "2026-11-25T14:27:31Z",
+  "changed_at": "2026-11-26T06:31:07Z",
   "evidence": [
    {
     "detail": "Architect, Software Engineering - Frontend - Integration  (Bangalore HQ); Architect, Software Engineering - Integration  (Bangalore HQ); Associate Principal Graphic Designer (Bangalore HQ)",
     "kind": "board",
-    "label": "60 of 87 open roles are located in India",
+    "label": "59 of 86 open roles are located in India",
     "url": "https://jobs.ashbyhq.com/tekion",
     "weight": 5
    },
@@ -87,8 +87,8 @@
   "first_checked_at": "2026-11-10T21:34:53Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "3d2fcffdb5",
-  "summary": "60 of 87 open roles are located in India.",
+  "sig": "427160d172",
+  "summary": "59 of 86 open roles are located in India.",
   "verdict": "yes"
  },
  "inferred": true,

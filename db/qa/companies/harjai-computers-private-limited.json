@@ -3,20 +3,20 @@
  "classification": "Inferred from job description",
  "india_hiring": {
   "board": null,
-  "changed_at": "2026-11-20T11:58:23Z",
+  "changed_at": "2026-11-26T06:29:44Z",
   "evidence": [
    {
-    "detail": "Manual and Automation Tester — Mumbai City, Pune, India",
+    "detail": "Manual and Automation Tester - Manual Testing, Automation Testing, Webdriver — Navi Mumbai, Mumbai City, Thane, India",
     "kind": "posting",
     "label": "A current posting lists India as a location",
-    "url": "https://www.shine.com/jobs/manual-and-automation-tester/harjai-computers-private-limited/20014969",
+    "url": "https://www.shine.com/jobs/manual-and-automation-tester-manual-testing-automation-testing-webdriver/harjai-computers-private-limited/20141048",
     "weight": 5
    }
   ],
   "first_checked_at": "2026-10-19T13:24:59Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "5c77019c4d",
+  "sig": "5008dd7e18",
   "summary": "A current posting lists India as a location.",
   "verdict": "yes"
  },

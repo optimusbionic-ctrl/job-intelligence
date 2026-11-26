@@ -1,0 +1,30 @@
+{
+ "category": "Recruiter (client not named)",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-26T06:29:44Z",
+  "evidence": [
+   {
+    "detail": "Software Engineer - Information Technology, Software Testing — All India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/software-engineer-information-technology-software-testing/navis-human-resources-pvt-ltd/20140179",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-26T06:29:44Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "a4e4ba4d53",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "NAVIS Human Resources Pvt. Ltd.",
+ "slug": "navis-human-resources-pvt-ltd",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}
