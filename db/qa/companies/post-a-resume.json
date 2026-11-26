@@ -3,20 +3,20 @@
  "classification": "Inferred from job description",
  "india_hiring": {
   "board": null,
-  "changed_at": "2026-10-19T13:24:59Z",
+  "changed_at": "2026-11-26T09:05:54Z",
   "evidence": [
    {
-    "detail": "QA Analyst — Gandhinagar, Ahmedabad, Gandhidham, Gujarat, India",
+    "detail": "Quality Assurance Engineer - QA, QC, Quality Control — Ankleshwar, Bharuch, India",
     "kind": "posting",
     "label": "A current posting lists India as a location",
-    "url": "https://www.shine.com/jobs/qa-analyst/post-a-resume/19826466",
+    "url": "https://www.shine.com/jobs/quality-assurance-engineer-qa-qc-quality-control/post-a-resume/20140817",
     "weight": 5
    }
   ],
   "first_checked_at": "2026-10-19T13:24:59Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "0923a5084f",
+  "sig": "651307342b",
   "summary": "A current posting lists India as a location.",
   "verdict": "yes"
  },
