@@ -535,6 +535,10 @@
    "at": "2026-11-18T19:34:22Z",
    "ats": null
   },
+  "knickglobal": {
+   "at": "2026-11-26T19:39:09Z",
+   "ats": null
+  },
   "kombatindia": {
    "at": "2026-11-18T19:34:22Z",
    "ats": null
@@ -1078,10 +1082,10 @@
   }
  },
  "counts": {
-  "closed": 11,
-  "keep": 27,
-  "live": 182,
-  "stale": 136
+  "closed": 12,
+  "keep": 30,
+  "live": 178,
+  "stale": 137
  },
- "updated_at": "2026-11-26T18:23:14Z"
+ "updated_at": "2026-11-26T19:40:35Z"
 }
