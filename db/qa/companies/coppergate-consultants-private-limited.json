@@ -1,0 +1,30 @@
+{
+ "category": "Recruiter (client not named)",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-26T04:00:41Z",
+  "evidence": [
+   {
+    "detail": "Quality Analyst - QA, International — Kalyan, Panvel, Vasai, Navi Mumbai, Thane, Bhiwandi, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/quality-analyst-qa-international/coppergate-consultants-private-limited/20140547",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-26T04:00:41Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "c0d3599581",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Coppergate Consultants Private Limited",
+ "slug": "coppergate-consultants-private-limited",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}

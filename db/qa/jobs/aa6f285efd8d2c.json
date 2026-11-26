@@ -1,0 +1,104 @@
+{
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/qa-engineer-test-engineer-sdet-automation/reis-staffing-hr-services-pvt-ltd/20141492",
+ "category": "Recruiter (client not named)",
+ "comp_potential": "listed_good",
+ "company": "REIS Staffing & HR Services Pvt Ltd",
+ "company_slug": "reis-staffing-hr-services-pvt-ltd",
+ "concerns": [
+  "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet"
+ ],
+ "contacts_count": 0,
+ "content_hash": "9a7933f3d424",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-26T04:00:41Z",
+ "fit": 79,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "aa6f285efd8d2c",
+ "include_reason": "Automation-heavy QA (SDET)",
+ "india": {
+  "cities": [
+   "Mumbai"
+  ],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "automation",
+ "last_verified": "2026-11-26T04:00:41Z",
+ "location": "Navi Mumbai, Mumbai City, Thane, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-11-25T21:04:05Z",
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "applies_india": true,
+  "basis": "listed",
+  "currency": "INR",
+  "fx_at": "Wed, 25 Nov 2026 00:02:31 +0000",
+  "fx_rate": 1.0,
+  "inr_max": 500000,
+  "inr_min": 250000,
+  "max": 500000,
+  "min": 250000,
+  "note": "Listed in the posting",
+  "original_period": "annual",
+  "period": "annual",
+  "source_name": "Shine.com",
+  "source_url": "https://www.shine.com/jobs/qa-engineer-test-engineer-sdet-automation/reis-staffing-hr-services-pvt-ltd/20141492",
+  "state": "verified",
+  "verified_at": "2026-11-26T04:00:41Z"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 90,
+  "company": 66,
+  "location": 100,
+  "seniority": 94,
+  "skill": 67
+ },
+ "seniority": "unspecified",
+ "snippet": "Experience: 3 to 5 Yrs\nSkills: sdet, automation, manual, selenium, jira, defect management, test cases, qa engineer, test engineer, playwright\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "20141492",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-11-25T21:04:05Z",
+   "seen_at": "2026-11-26T04:00:41Z",
+   "url": "https://www.shine.com/jobs/qa-engineer-test-engineer-sdet-automation/reis-staffing-hr-services-pvt-ltd/20141492"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 3,
+ "title": "QA Engineer - Test Engineer, Sdet, Automation",
+ "tools": [
+  "Test cases & scenarios",
+  "Bug reporting",
+  "Jira",
+  "Test automation"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/qa-engineer-test-engineer-sdet-automation/reis-staffing-hr-services-pvt-ltd/20141492",
+ "why": [
+  "Already on your resume: Test cases & scenarios, Bug reporting, Jira",
+  "Asks for 3+ years — you have about 2.5",
+  "Pay is listed in the posting",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": 5,
+ "years_min": 3
+}

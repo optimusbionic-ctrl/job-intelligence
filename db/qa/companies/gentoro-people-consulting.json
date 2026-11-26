@@ -1,0 +1,30 @@
+{
+ "category": "Recruiter (client not named)",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-26T04:00:41Z",
+  "evidence": [
+   {
+    "detail": "Quality Assurance Engineer - Quality Control — Dombivali, Thane, Kalyan, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/quality-assurance-engineer-quality-control/gentoro-people-consulting/20137387",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-26T04:00:41Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "cb598c1636",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "GENTORO PEOPLE CONSULTING",
+ "slug": "gentoro-people-consulting",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}

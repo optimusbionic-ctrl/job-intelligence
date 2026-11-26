@@ -1,0 +1,91 @@
+{
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/automation-test-engineer-appium-automation-testing-robot-framework/alphacom-systems-and-solutions-pvt-ltd/20137280",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "Alphacom Systems and Solutions Pvt Ltd",
+ "company_slug": "alphacom-systems-and-solutions-pvt-ltd",
+ "concerns": [
+  "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
+  "Asks for 4+ years — you have about 2.5",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "230c12449209",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-26T04:00:41Z",
+ "fit": 58,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "a0147fb7846984",
+ "include_reason": "Automation-heavy QA (SDET)",
+ "india": {
+  "cities": [
+   "Mumbai",
+   "Bengaluru",
+   "Delhi NCR",
+   "Hyderabad",
+   "Chennai"
+  ],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "automation",
+ "last_verified": "2026-11-26T04:00:41Z",
+ "location": "Mumbai City, All India, Chennai, Delhi, Bangalore, Hyderabad",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-11-25T15:35:23Z",
+ "repost": false,
+ "requirements": [
+  "(Summary from the Shine.com listing; open the posting for the full description.)"
+ ],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 60,
+  "company": 66,
+  "location": 100,
+  "seniority": 72,
+  "skill": 24
+ },
+ "seniority": "unspecified",
+ "snippet": "Experience: 4 to 8 Yrs\nSkills: appium, automation testing, robot framework\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "20137280",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-11-25T15:35:23Z",
+   "seen_at": "2026-11-26T04:00:41Z",
+   "url": "https://www.shine.com/jobs/automation-test-engineer-appium-automation-testing-robot-framework/alphacom-systems-and-solutions-pvt-ltd/20137280"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 3,
+ "title": "Automation Test Engineer - Appium, Automation Testing, Robot Framework",
+ "tools": [
+  "Test automation"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/automation-test-engineer-appium-automation-testing-robot-framework/alphacom-systems-and-solutions-pvt-ltd/20137280",
+ "why": [
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": 8,
+ "years_min": 4
+}
