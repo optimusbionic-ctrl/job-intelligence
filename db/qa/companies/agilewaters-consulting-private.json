@@ -1,0 +1,30 @@
+{
+ "category": "Recruiter (client not named)",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-27T09:06:39Z",
+  "evidence": [
+   {
+    "detail": "Quality Analyst (3-5 Years Experience) (Pune) — Pune, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/quality-analyst-3-5-years-experience-pune/agilewaters-consulting-private/20154795",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-27T09:06:39Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "40b3879a6e",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Agilewaters Consulting Private",
+ "slug": "agilewaters-consulting-private",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}
