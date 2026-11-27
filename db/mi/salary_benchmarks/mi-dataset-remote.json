@@ -2,14 +2,23 @@
  "avg": 16252757,
  "basis": "Interquartile range of posting midpoints, converted to INR at today's rate",
  "currency": "INR",
- "high": 21825791,
+ "high": 18007316,
  "id": "mi-dataset-remote",
  "label": "Disclosed pay on remote motion-design postings (any region, this dataset)",
  "low": 11081425,
  "market": "Remote (global)",
- "n": 11,
+ "n": 12,
  "retrieved_at": "2026-11-26",
  "samples": [
+  {
+   "company": "Affirm",
+   "currency": "CAD",
+   "location": "Canada",
+   "max": 151000,
+   "min": 101000,
+   "title": "Visual Designer II",
+   "url": "https://himalayas.app/companies/affirm/jobs/visual-designer-ii?utm_source=api"
+  },
   {
    "company": "College Board",
    "currency": "USD",
