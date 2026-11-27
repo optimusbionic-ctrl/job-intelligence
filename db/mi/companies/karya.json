@@ -11,8 +11,13 @@
    "countries": [
     "India"
    ],
-   "india": 19,
+   "india": 20,
    "india_samples": [
+    {
+     "location": "Bangalore",
+     "title": "AI Engineer",
+     "url": "https://job-boards.greenhouse.io/karya/jobs/4048756008"
+    },
     {
      "location": "Bengaluru ",
      "title": "Associate - Founder's Office",
@@ -27,11 +32,6 @@
      "location": "Bengaluru",
      "title": "Content Developer - Learning and Curriculum",
      "url": "https://job-boards.greenhouse.io/karya/jobs/5044438008"
-    },
-    {
-     "location": "Bengaluru",
-     "title": "Customer Success Lead",
-     "url": "https://job-boards.greenhouse.io/karya/jobs/5106514008"
     }
    ],
    "open_samples": [],
@@ -39,17 +39,17 @@
    "restricted_remote": 0,
    "restricted_samples": [],
    "slug": "karya",
-   "total": 19,
+   "total": 20,
    "type": "greenhouse",
    "url": "https://boards.greenhouse.io/karya",
    "worldwide": 0
   },
-  "changed_at": "2026-11-23T17:11:22Z",
+  "changed_at": "2026-11-27T02:41:16Z",
   "evidence": [
    {
-    "detail": "Associate - Founder's Office (Bengaluru ); Community Coordinator - Work Management (Bengaluru, Karnataka, India, Delhi, India); Content Developer - Learning and Curriculum (Bengaluru)",
+    "detail": "AI Engineer (Bangalore); Associate - Founder's Office (Bengaluru ); Community Coordinator - Work Management (Bengaluru, Karnataka, India, Delhi, India)",
     "kind": "board",
-    "label": "19 of 19 open roles are located in India",
+    "label": "20 of 20 open roles are located in India",
     "url": "https://boards.greenhouse.io/karya",
     "weight": 5
    }
@@ -57,8 +57,8 @@
   "first_checked_at": "2026-11-10T21:34:53Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "9e3aa01cf3",
-  "summary": "19 of 19 open roles are located in India.",
+  "sig": "c626094f0d",
+  "summary": "20 of 20 open roles are located in India.",
   "verdict": "yes"
  },
  "inferred": true,

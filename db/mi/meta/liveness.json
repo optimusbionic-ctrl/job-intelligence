@@ -212,6 +212,10 @@
     "type": "lever"
    }
   },
+  "digivyer": {
+   "at": "2026-11-27T02:41:16Z",
+   "ats": null
+  },
   "doodlspace": {
    "at": "2026-11-25T21:59:35Z",
    "ats": null
@@ -300,6 +304,10 @@
   },
   "havascreativenetworkindia": {
    "at": "2026-11-18T22:29:26Z",
+   "ats": null
+  },
+  "hiteshiinfotech": {
+   "at": "2026-11-27T02:41:16Z",
    "ats": null
   },
   "hmxmedia": {
@@ -394,6 +402,10 @@
   },
   "kimp": {
    "at": "2026-11-18T23:27:56Z",
+   "ats": null
+  },
+  "krwizard": {
+   "at": "2026-11-27T02:41:16Z",
    "ats": null
   },
   "kultremedia": {
@@ -748,10 +760,10 @@
   }
  },
  "counts": {
-  "closed": 23,
+  "closed": 22,
   "keep": 8,
-  "live": 62,
-  "stale": 149
+  "live": 64,
+  "stale": 148
  },
- "updated_at": "2026-11-27T01:22:48Z"
+ "updated_at": "2026-11-27T02:42:49Z"
 }
