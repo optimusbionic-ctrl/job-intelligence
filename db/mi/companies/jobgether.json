@@ -13,12 +13,12 @@
     "Canada",
     "Brazil",
     "India",
-    "Germany",
     "United Kingdom",
+    "Germany",
     "Spain",
     "France"
    ],
-   "india": 219,
+   "india": 224,
    "india_samples": [
     {
      "location": "India",
@@ -42,8 +42,8 @@
     }
    ],
    "open_samples": [],
-   "remote": 3686,
-   "restricted_remote": 3467,
+   "remote": 3864,
+   "restricted_remote": 3640,
    "restricted_samples": [
     {
      "location": "Germany",
@@ -67,17 +67,17 @@
     }
    ],
    "slug": "jobgether",
-   "total": 3686,
+   "total": 3864,
    "type": "lever",
    "url": "https://jobs.lever.co/jobgether",
    "worldwide": 0
   },
-  "changed_at": "2026-11-27T05:11:52Z",
+  "changed_at": "2026-11-27T06:33:16Z",
   "evidence": [
    {
     "detail": ".Net Developer with PLANISWARE (India); AEO/GEO Lead (Technical AI Search) (India); AI Delivery Manager (India)",
     "kind": "board",
-    "label": "219 of 3686 open roles are located in India",
+    "label": "224 of 3864 open roles are located in India",
     "url": "https://jobs.lever.co/jobgether",
     "weight": 5
    },
@@ -92,8 +92,8 @@
   "first_checked_at": "2026-11-19T20:06:27Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "a8abbb9d09",
-  "summary": "219 of 3686 open roles are located in India.",
+  "sig": "f469bc3175",
+  "summary": "224 of 3864 open roles are located in India.",
   "verdict": "yes"
  },
  "inferred": true,
