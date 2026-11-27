@@ -1,0 +1,104 @@
+{
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/manual-tester-test-artifacts-knowledge-housing-loan-mobile-app-testing/excelon-solutions-private-limited/20158597",
+ "category": "Fintech",
+ "comp_potential": "listed_good",
+ "company": "EXCELON SOLUTIONS PRIVATE LIMITED",
+ "company_slug": "excelon-solutions-private-limited",
+ "concerns": [],
+ "contacts_count": 0,
+ "content_hash": "1d2187140328",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-27T05:10:15Z",
+ "fit": 89,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "e06d2df6e0f7dd",
+ "include_reason": "Mobile app QA",
+ "india": {
+  "cities": [
+   "Mumbai"
+  ],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "mobile-qa",
+ "last_verified": "2026-11-27T05:10:15Z",
+ "location": "Mumbai City, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-11-26T15:31:11Z",
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "applies_india": true,
+  "basis": "listed",
+  "currency": "INR",
+  "fx_at": "Fri, 27 Nov 2026 00:02:31 +0000",
+  "fx_rate": 1.0,
+  "inr_max": 700000,
+  "inr_min": 300000,
+  "max": 700000,
+  "min": 300000,
+  "note": "Listed in the posting",
+  "original_period": "annual",
+  "period": "annual",
+  "source_name": "Shine.com",
+  "source_url": "https://www.shine.com/jobs/manual-tester-test-artifacts-knowledge-housing-loan-mobile-app-testing/excelon-solutions-private-limited/20158597",
+  "state": "verified",
+  "verified_at": "2026-11-27T05:10:15Z"
+ },
+ "scores": {
+  "ai": 74,
+  "comp": 100,
+  "company": 95,
+  "location": 100,
+  "seniority": 94,
+  "skill": 77
+ },
+ "seniority": "unspecified",
+ "snippet": "Experience: 3 to 5 Yrs\nSkills: housing loan, banking, agile, functional testing, system testing, loan processing, test artifacts knowledge, mobile app testing, workflow testing, manual tester\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "20158597",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-11-26T15:31:11Z",
+   "seen_at": "2026-11-27T05:10:15Z",
+   "url": "https://www.shine.com/jobs/manual-tester-test-artifacts-knowledge-housing-loan-mobile-app-testing/excelon-solutions-private-limited/20158597"
+  }
+ ],
+ "specializations": [
+  "Mobile apps"
+ ],
+ "status": "active",
+ "tier": 1,
+ "title": "Manual Tester - Test Artifacts Knowledge, Housing Loan, Mobile APP Testing",
+ "tools": [
+  "Functional testing",
+  "Agile / Scrum"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/manual-tester-test-artifacts-knowledge-housing-loan-mobile-app-testing/excelon-solutions-private-limited/20158597",
+ "why": [
+  "Mobile app testing on Android and iOS, like your current work",
+  "Already on your resume: Functional testing",
+  "Platforms you test on: Mobile apps",
+  "Fintech company",
+  "Location lists India",
+  "Asks for 3+ years — you have about 2.5"
+ ],
+ "work_mode": "onsite",
+ "years_max": 5,
+ "years_min": 3
+}

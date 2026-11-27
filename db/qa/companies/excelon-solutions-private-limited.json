@@ -1,29 +1,29 @@
 {
- "category": "Other",
+ "category": "Fintech",
  "classification": "Inferred from job description",
  "india_hiring": {
   "board": null,
-  "changed_at": "2026-10-28T11:44:36Z",
+  "changed_at": "2026-11-27T05:10:15Z",
   "evidence": [
    {
-    "detail": "Automation Tester — Pune, India",
+    "detail": "Manual Tester - Test Artifacts Knowledge, Housing Loan, Mobile APP Testing — Mumbai City, India",
     "kind": "posting",
     "label": "A current posting lists India as a location",
-    "url": "https://www.shine.com/jobs/automation-tester/excelon-solutions-private-limited/19925431",
+    "url": "https://www.shine.com/jobs/manual-tester-test-artifacts-knowledge-housing-loan-mobile-app-testing/excelon-solutions-private-limited/20158597",
     "weight": 5
    }
   ],
   "first_checked_at": "2026-10-28T11:44:36Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "bcb8929d77",
+  "sig": "1e30f97c1b",
   "summary": "A current posting lists India as a location.",
   "verdict": "yes"
  },
  "inferred": true,
  "name": "EXCELON SOLUTIONS PRIVATE LIMITED",
  "slug": "excelon-solutions-private-limited",
- "tier": 3,
+ "tier": 1,
  "tracks": [
   "software"
  ]

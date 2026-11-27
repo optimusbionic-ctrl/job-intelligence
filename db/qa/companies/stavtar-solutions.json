@@ -1,0 +1,30 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-27T05:10:15Z",
+  "evidence": [
+   {
+    "detail": "QA Engineer Manual and Automation — Mumbai City, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/qa-engineer-manual-and-automation/stavtar-solutions/20155866",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-27T05:10:15Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "d6e162de4f",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Stavtar Solutions",
+ "slug": "stavtar-solutions",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}

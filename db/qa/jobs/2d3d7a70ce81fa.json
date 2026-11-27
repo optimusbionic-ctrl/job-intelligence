@@ -11,7 +11,7 @@
   "Full description not available from this source"
  ],
  "contacts_count": 0,
- "content_hash": "975783bfa1eb",
+ "content_hash": "06eb8ab6b3a5",
  "date_quality": "unknown",
  "deadline": null,
  "employment": "full-time",
@@ -24,13 +24,13 @@
  "include_reason": "Manual / functional QA title",
  "india": {
   "cities": [],
-  "company": "unclear",
+  "company": "yes",
   "reason": "Location not stated",
   "status": "unconfirmed",
   "visa": false
  },
  "kind": "manual-qa",
- "last_verified": "2026-11-10T22:47:54Z",
+ "last_verified": "2026-11-27T05:10:15Z",
  "location": "",
  "logo": null,
  "needs_review": false,
@@ -60,7 +60,7 @@
    "kind": "search",
    "name": "Web (via search index)",
    "posted_at": null,
-   "seen_at": "2026-11-10T22:47:54Z",
+   "seen_at": "2026-11-27T05:10:15Z",
    "url": "https://jobs.weekday.works/nucsoft-manual-test-engineer"
   }
  ],
@@ -73,7 +73,8 @@
  "updated_at": null,
  "url": "https://jobs.weekday.works/nucsoft-manual-test-engineer",
  "why": [
-  "Manual / functional QA — the core of your resume"
+  "Manual / functional QA — the core of your resume",
+  "Nucsoft already hires people in India"
  ],
  "work_mode": "unspecified",
  "years_max": null,

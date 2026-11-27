@@ -1,21 +1,29 @@
 {
- "category": "Other",
+ "category": "Fintech",
  "classification": "Inferred from job description",
  "india_hiring": {
   "board": null,
-  "changed_at": "2026-11-10T22:47:54Z",
-  "evidence": [],
+  "changed_at": "2026-11-27T05:10:15Z",
+  "evidence": [
+   {
+    "detail": "Junior Manual Tester LOS — Mumbai City, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/junior-manual-tester-los/nucsoft/20153782",
+    "weight": 5
+   }
+  ],
   "first_checked_at": "2026-11-10T22:47:54Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "54391d7cdf",
-  "summary": "No public evidence yet about hiring from India.",
-  "verdict": "unclear"
+  "sig": "7b33c7b1ab",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
  },
  "inferred": true,
  "name": "Nucsoft",
  "slug": "nucsoft",
- "tier": 3,
+ "tier": 1,
  "tracks": [
   "software"
  ]

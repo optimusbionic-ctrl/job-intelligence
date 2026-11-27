@@ -1,0 +1,89 @@
+{
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/junior-manual-tester-los/nucsoft/20153782",
+ "category": "Fintech",
+ "comp_potential": "unknown",
+ "company": "Nucsoft",
+ "company_slug": "nucsoft",
+ "concerns": [
+  "Entry-level role — pay may be at the lower end",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "6334a745e530",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-27T05:10:15Z",
+ "fit": 85,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "bdeb474c8ac2e0",
+ "include_reason": "Manual / functional QA title",
+ "india": {
+  "cities": [
+   "Mumbai"
+  ],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "manual-qa",
+ "last_verified": "2026-11-27T05:10:15Z",
+ "location": "Mumbai City, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-11-26T05:45:09Z",
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 60,
+  "company": 95,
+  "location": 100,
+  "seniority": 100,
+  "skill": 79
+ },
+ "seniority": "junior",
+ "snippet": "Experience: 1 to 5 Yrs\nSkills: Manual Testing, sanity testing, test cases, test scenarios, Loan Origination Systems LOS, lending processes, Vehicle Loan processes\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "20153782",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-11-26T05:45:09Z",
+   "seen_at": "2026-11-27T05:10:15Z",
+   "url": "https://www.shine.com/jobs/junior-manual-tester-los/nucsoft/20153782"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 1,
+ "title": "Junior Manual Tester LOS",
+ "tools": [
+  "Sanity testing",
+  "Test cases & scenarios"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/junior-manual-tester-los/nucsoft/20153782",
+ "why": [
+  "Manual / functional QA — the core of your resume",
+  "Already on your resume: Sanity testing, Test cases & scenarios",
+  "Fintech company",
+  "Asks for 1–5 years — you have about 2.5",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": 5,
+ "years_min": 1
+}

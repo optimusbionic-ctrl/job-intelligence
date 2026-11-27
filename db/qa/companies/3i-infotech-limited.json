@@ -1,0 +1,30 @@
+{
+ "category": "Fintech",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-27T05:10:15Z",
+  "evidence": [
+   {
+    "detail": "Manual Test Engineer NACH — Navi Mumbai, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/manual-test-engineer-nach/3i-infotech-limited/20154945",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-27T05:10:15Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "d3e8dda38f",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "3i Infotech Limited",
+ "slug": "3i-infotech-limited",
+ "tier": 1,
+ "tracks": [
+  "software"
+ ]
+}

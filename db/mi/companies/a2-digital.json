@@ -1,0 +1,27 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-27T05:11:52Z",
+  "evidence": [
+   {
+    "detail": "Motion Graphic Designer (Hadapsar) — Pune, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/motion-graphic-designer-hadapsar/a2-digital/20150095",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-27T05:11:52Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "d95153dddb",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "A2 Digital",
+ "slug": "a2-digital",
+ "tier": 3
+}
