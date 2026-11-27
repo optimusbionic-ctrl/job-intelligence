@@ -1,0 +1,30 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-27T12:33:24Z",
+  "evidence": [
+   {
+    "detail": "Software Tester / Quality Assurance Engineer (Mumbai) — Mumbai City, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/software-tester-quality-assurance-engineer-mumbai/vman/20143466",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-27T12:33:24Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "1a54ad943c",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Vman",
+ "slug": "vman",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}

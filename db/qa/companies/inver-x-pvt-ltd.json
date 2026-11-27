@@ -1,0 +1,30 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-27T12:33:24Z",
+  "evidence": [
+   {
+    "detail": "Junior QA Engineer — Mumbai City, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/junior-qa-engineer/inver-x-pvt-ltd/20151444",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-27T12:33:24Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "968cba3776",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "INVER X PVT LTD",
+ "slug": "inver-x-pvt-ltd",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}

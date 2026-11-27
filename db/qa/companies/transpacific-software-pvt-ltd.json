@@ -1,0 +1,30 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-27T12:33:24Z",
+  "evidence": [
+   {
+    "detail": "Software Tester ? E-commerce Domain — Navi Mumbai, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/software-tester-e-commerce-domain/transpacific-software-pvt-ltd/20145828",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-27T12:33:24Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "373eb0b852",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Transpacific Software Pvt. Ltd",
+ "slug": "transpacific-software-pvt-ltd",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}
