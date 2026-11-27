@@ -3,20 +3,20 @@
  "classification": "Inferred from job description",
  "india_hiring": {
   "board": null,
-  "changed_at": "2026-10-23T07:43:52Z",
+  "changed_at": "2026-11-27T23:26:46Z",
   "evidence": [
    {
     "detail": "Quality Assurance Analyst — India",
     "kind": "posting",
     "label": "A current posting lists India as a location",
-    "url": "https://himalayas.app/companies/binary-stream/jobs/quality-assurance-analyst?utm_source=api",
+    "url": "https://himalayas.app/companies/binary-stream/jobs/quality-assurance-analyst-2302024291?utm_source=api",
     "weight": 5
    }
   ],
   "first_checked_at": "2026-10-20T23:43:22Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "1ecda894f2",
+  "sig": "cd3554c030",
   "summary": "A current posting lists India as a location.",
   "verdict": "yes"
  },
