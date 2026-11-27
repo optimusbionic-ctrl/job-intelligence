@@ -664,6 +664,10 @@
    "at": "2026-11-18T19:37:13Z",
    "ats": null
   },
+  "techplek": {
+   "at": "2026-11-27T04:03:59Z",
+   "ats": null
+  },
   "techvantagesoftware": {
    "at": "2026-11-18T23:27:56Z",
    "ats": null
@@ -762,8 +766,8 @@
  "counts": {
   "closed": 22,
   "keep": 8,
-  "live": 64,
-  "stale": 148
+  "live": 65,
+  "stale": 147
  },
- "updated_at": "2026-11-27T02:42:49Z"
+ "updated_at": "2026-11-27T04:05:22Z"
 }
