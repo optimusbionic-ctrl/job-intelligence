@@ -3,20 +3,20 @@
  "classification": "Inferred from job description",
  "india_hiring": {
   "board": null,
-  "changed_at": "2026-11-19T20:06:27Z",
+  "changed_at": "2026-11-27T21:33:48Z",
   "evidence": [
    {
-    "detail": "Graphic Designer + Motion Graphics (2-5 Yrs Exp) | Kairos Media — Mumbai City, India",
+    "detail": "Graphic Designer + Motion Graphics (2-5 yrs exp) | Kairos Media (Mumbai) — Mumbai City, India",
     "kind": "posting",
     "label": "A current posting lists India as a location",
-    "url": "https://www.shine.com/jobs/graphic-designer-motion-graphics-2-5-yrs-exp-kairos-media/kairos-media/19569871",
+    "url": "https://www.shine.com/jobs/graphic-designer-motion-graphics-2-5-yrs-exp-kairos-media-mumbai/kairos-media/20155617",
     "weight": 5
    }
   ],
   "first_checked_at": "2026-11-19T20:06:27Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "83dc194580",
+  "sig": "a082b0539a",
   "summary": "A current posting lists India as a location.",
   "verdict": "yes"
  },
