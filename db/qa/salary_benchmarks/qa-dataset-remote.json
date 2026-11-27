@@ -1,13 +1,13 @@
 {
- "avg": 5551226,
+ "avg": 6028538,
  "basis": "Interquartile range of posting midpoints, converted to INR at today's rate",
  "currency": "INR",
- "high": 6028538,
+ "high": 10423166,
  "id": "qa-dataset-remote",
  "label": "Disclosed pay on remote QA postings (any region, this dataset)",
- "low": 2775613,
+ "low": 3654875,
  "market": "Remote (global)",
- "n": 5,
+ "n": 11,
  "retrieved_at": "2026-11-27",
  "samples": [
   {
@@ -29,6 +29,24 @@
    "url": "https://himalayas.app/companies/syd-life-ai/jobs/qa-engineer?utm_source=api"
   },
   {
+   "company": "IRIUM",
+   "currency": "EUR",
+   "location": "Spain",
+   "max": 37000,
+   "min": 35000,
+   "title": "QA Tester",
+   "url": "https://himalayas.app/companies/irium/jobs/qa-tester?utm_source=api"
+  },
+  {
+   "company": "micro1",
+   "currency": "USD",
+   "location": "United States",
+   "max": 70000,
+   "min": 42000,
+   "title": "AI Product Tester (Consumer Safety & Security)",
+   "url": "https://himalayas.app/companies/micro1/jobs/ai-product-tester-consumer-safety-security?utm_source=api"
+  },
+  {
    "company": "Lavendo",
    "currency": "USD",
    "location": "United States",
@@ -47,6 +65,33 @@
    "url": "https://himalayas.app/companies/9th-way-insignia/jobs/junior-tester?utm_source=api"
   },
   {
+   "company": "ICF",
+   "currency": "USD",
+   "location": "United States",
+   "max": 114503,
+   "min": 67355,
+   "title": "Quality Assurance Analyst",
+   "url": "https://himalayas.app/companies/icf/jobs/quality-assurance-analyst?utm_source=api"
+  },
+  {
+   "company": "SpaceCoast AV Consultants, LLC",
+   "currency": "USD",
+   "location": "United States",
+   "max": 105000,
+   "min": 85000,
+   "title": "Quality Assurance Analyst",
+   "url": "https://himalayas.app/companies/spacecoast-av-consultants-llc/jobs/quality-assurance-analyst?utm_source=api"
+  },
+  {
+   "company": "NTT DATA",
+   "currency": "USD",
+   "location": "United States",
+   "max": 131500,
+   "min": 93816,
+   "title": "Data Engineer Tester - Healthcare Data & AI Validation - Remote (Philadelphia, P",
+   "url": "https://himalayas.app/companies/nttdata/jobs/data-engineer-tester-healthcare-data-ai-validation-remote-philadelphia-p?utm_source=api"
+  },
+  {
    "company": "OpenDataJobs",
    "currency": "USD",
    "location": "United States",
@@ -54,6 +99,15 @@
    "min": 100000,
    "title": "QA Tester",
    "url": "https://himalayas.app/companies/opendatajobs/jobs/qa-tester?utm_source=api"
+  },
+  {
+   "company": "Xperteez Technology",
+   "currency": "USD",
+   "location": "United States",
+   "max": 140000,
+   "min": 100000,
+   "title": "QA Engineer",
+   "url": "https://himalayas.app/companies/xperteez-technology/jobs/qa-engineer?utm_source=api"
   }
  ],
  "source_name": "QA Intelligence dataset",
