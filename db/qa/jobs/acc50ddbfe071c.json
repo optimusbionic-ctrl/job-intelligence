@@ -1,5 +1,5 @@
 {
- "apply_url": "https://apply.workable.com/keywords-intl1/jobs/view/32B10AE4F9.md",
+ "apply_url": "https://apply.workable.com/keywords-intl1/jobs/view/32B10AE4F9",
  "board_apply": null,
  "category": "Game services / QA",
  "comp_potential": "unknown",
@@ -12,7 +12,7 @@
   "Full description not available from this source"
  ],
  "contacts_count": 1,
- "content_hash": "588cb2b0df50",
+ "content_hash": "b1ce95f9ccf0",
  "date_quality": "unknown",
  "deadline": null,
  "employment": "full-time",
@@ -33,8 +33,8 @@
   "visa": false
  },
  "kind": "game-tester",
- "last_verified": "2026-11-23T13:58:32Z",
- "location": "Gurgaon",
+ "last_verified": "2026-11-27T01:19:47Z",
+ "location": "Gurgaon, India",
  "logo": null,
  "needs_review": false,
  "official": true,
@@ -59,21 +59,21 @@
  "sources": [
   {
    "id": "workable",
+   "job_id": "https://apply.workable.com/keywords-intl1/jobs/view/32B10AE4F9",
+   "kind": "search",
+   "name": "Workable (via search index)",
+   "posted_at": null,
+   "seen_at": "2026-11-27T01:19:47Z",
+   "url": "https://apply.workable.com/keywords-intl1/jobs/view/32B10AE4F9"
+  },
+  {
+   "id": "workable",
    "job_id": "https://apply.workable.com/keywords-intl1/jobs/view/32B10AE4F9.md",
    "kind": "search",
    "name": "Workable (via search index)",
    "posted_at": null,
-   "seen_at": "2026-11-23T13:58:32Z",
+   "seen_at": "2026-11-27T01:19:47Z",
    "url": "https://apply.workable.com/keywords-intl1/jobs/view/32B10AE4F9.md"
-  },
-  {
-   "id": "workable",
-   "job_id": "https://apply.workable.com/keywords-intl1/jobs/view/32B10AE4F9",
-   "kind": "search",
-   "name": "Workable",
-   "posted_at": null,
-   "seen_at": "2026-11-23T13:58:32Z",
-   "url": "https://apply.workable.com/keywords-intl1/jobs/view/32B10AE4F9"
   },
   {
    "id": "workable",
@@ -81,7 +81,7 @@
    "kind": "search",
    "name": "Workable (via search index)",
    "posted_at": null,
-   "seen_at": "2026-11-23T13:58:32Z",
+   "seen_at": "2026-11-27T01:19:47Z",
    "url": "https://apply.workable.com/keywords-intl1/jobs/view/5ED9F71BC6.md"
   },
   {
@@ -90,43 +90,34 @@
    "kind": "search",
    "name": "Workable (via search index)",
    "posted_at": null,
-   "seen_at": "2026-11-23T13:58:32Z",
+   "seen_at": "2026-11-27T01:19:47Z",
    "url": "https://apply.workable.com/keywords-intl1/jobs/view/5ED9F71BC6"
   },
   {
    "id": "web",
    "job_id": "https://startup.jobs/video-game-tester-bengaluru-keywords-studios-8645484",
    "kind": "search",
-   "name": "Web (via search index)",
+   "name": "Web job listing (via search index)",
    "posted_at": null,
-   "seen_at": "2026-11-23T13:58:32Z",
+   "seen_at": "2026-11-27T01:19:47Z",
    "url": "https://startup.jobs/video-game-tester-bengaluru-keywords-studios-8645484"
   },
   {
-   "id": "web",
-   "job_id": "https://jobs.workable.com/jobs/a739bbc3-e976-4548-8cba-081757c4f13d.md",
-   "kind": "search",
-   "name": "Web (via search index)",
-   "posted_at": null,
-   "seen_at": "2026-11-23T13:58:32Z",
-   "url": "https://jobs.workable.com/jobs/a739bbc3-e976-4548-8cba-081757c4f13d.md"
-  },
-  {
    "id": "workable",
-   "job_id": "https://jobs.workable.com/jobs/a739bbc3-e976-4548-8cba-081757c4f13d",
+   "job_id": "https://jobs.workable.com/jobs/a739bbc3-e976-4548-8cba-081757c4f13d.md",
    "kind": "search",
    "name": "Workable (via search index)",
    "posted_at": null,
-   "seen_at": "2026-11-23T13:58:32Z",
-   "url": "https://jobs.workable.com/jobs/a739bbc3-e976-4548-8cba-081757c4f13d"
+   "seen_at": "2026-11-27T01:19:47Z",
+   "url": "https://jobs.workable.com/jobs/a739bbc3-e976-4548-8cba-081757c4f13d.md"
   },
   {
    "id": "web",
    "job_id": "https://hitmarker.net/jobs/keywords-studios-video-game-tester-gurgaon-4500183",
    "kind": "search",
-   "name": "Web (via search index)",
+   "name": "Web job listing (via search index)",
    "posted_at": null,
-   "seen_at": "2026-11-23T13:58:32Z",
+   "seen_at": "2026-11-27T01:19:47Z",
    "url": "https://hitmarker.net/jobs/keywords-studios-video-game-tester-gurgaon-4500183"
   },
   {
@@ -135,7 +126,7 @@
    "kind": "search",
    "name": "Web (via search index)",
    "posted_at": null,
-   "seen_at": "2026-11-23T13:58:32Z",
+   "seen_at": "2026-11-27T01:19:47Z",
    "url": "https://startup.jobs/video-game-tester-gurgaon-keywords-studios-8645485"
   }
  ],
@@ -146,7 +137,7 @@
  "tools": [],
  "track": "game",
  "updated_at": null,
- "url": "https://apply.workable.com/keywords-intl1/jobs/view/32B10AE4F9.md",
+ "url": "https://apply.workable.com/keywords-intl1/jobs/view/32B10AE4F9",
  "why": [
   "Game tester role — matches your game QA work at Webmobril and Golden Horde",
   "Location lists India"

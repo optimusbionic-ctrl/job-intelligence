@@ -3,14 +3,14 @@
  "board_apply": "https://cutshort.io/job/Test-Engineer-Navi-Mumbai-Mumbai-IRIS-BUSINESS-SERVICES-LIMITED-M0N7HAZW",
  "category": "Other",
  "comp_potential": "unknown",
- "company": "IRIS Business Services Limited",
- "company_slug": "iris-business-services-limited",
+ "company": "IRIS Business Services",
+ "company_slug": "iris-business-services",
  "concerns": [
   "Pay not disclosed — ask for the range early",
   "Full description not available from this source"
  ],
  "contacts_count": 0,
- "content_hash": "1a6b7c81c350",
+ "content_hash": "74a0ee27f274",
  "date_quality": "unknown",
  "deadline": null,
  "employment": "full-time",
@@ -31,8 +31,8 @@
   "visa": false
  },
  "kind": "qa-engineer",
- "last_verified": "2026-11-03T18:50:05Z",
- "location": "Navi Mumbai, Mumbai",
+ "last_verified": "2026-11-27T01:19:47Z",
+ "location": "Navi Mumbai / Mumbai, India",
  "logo": null,
  "needs_review": false,
  "official": false,
@@ -53,16 +53,25 @@
  },
  "seniority": "unspecified",
  "snippet": "",
- "source_primary": "Web (via search index)",
+ "source_primary": "Cutshort (via search index)",
  "sources": [
   {
    "id": "web",
    "job_id": "https://cutshort.io/job/Test-Engineer-Navi-Mumbai-Mumbai-IRIS-BUSINESS-SERVICES-LIMITED-M0N7HAZW",
    "kind": "search",
+   "name": "Cutshort (via search index)",
+   "posted_at": null,
+   "seen_at": "2026-11-27T01:19:47Z",
+   "url": "https://cutshort.io/job/Test-Engineer-Navi-Mumbai-Mumbai-IRIS-BUSINESS-SERVICES-LIMITED-M0N7HAZW"
+  },
+  {
+   "id": "web",
+   "job_id": "https://cutshort.io/job/Test-Engineer-Navi-Mumbai-IRIS-BUSINESS-SERVICES-LIMITED-M0N7HAZW",
+   "kind": "search",
    "name": "Web (via search index)",
    "posted_at": null,
-   "seen_at": "2026-11-03T18:50:05Z",
-   "url": "https://cutshort.io/job/Test-Engineer-Navi-Mumbai-Mumbai-IRIS-BUSINESS-SERVICES-LIMITED-M0N7HAZW"
+   "seen_at": "2026-11-27T01:19:47Z",
+   "url": "https://cutshort.io/job/Test-Engineer-Navi-Mumbai-IRIS-BUSINESS-SERVICES-LIMITED-M0N7HAZW"
   }
  ],
  "specializations": [],

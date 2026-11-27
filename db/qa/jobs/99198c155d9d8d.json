@@ -12,7 +12,7 @@
   "Full description not available from this source"
  ],
  "contacts_count": 1,
- "content_hash": "1e2bcad677c5",
+ "content_hash": "28a7099a5df9",
  "date_quality": "unknown",
  "deadline": null,
  "employment": "full-time",
@@ -33,8 +33,8 @@
   "visa": false
  },
  "kind": "game-tester",
- "last_verified": "2026-11-25T00:23:48Z",
- "location": "Bengaluru",
+ "last_verified": "2026-11-27T01:19:47Z",
+ "location": "Bengaluru, India",
  "logo": null,
  "needs_review": false,
  "official": false,
@@ -55,61 +55,25 @@
  },
  "seniority": "junior",
  "snippet": "",
- "source_primary": "Web (via search index)",
+ "source_primary": "Web job listing (via search index)",
  "sources": [
   {
    "id": "web",
    "job_id": "https://builtinbengaluru.in/job/associate-qa-tester-game-functionality/8787173",
    "kind": "search",
-   "name": "Web (via search index)",
-   "posted_at": null,
-   "seen_at": "2026-11-25T00:23:48Z",
-   "url": "https://builtinbengaluru.in/job/associate-qa-tester-game-functionality/8787173"
-  },
-  {
-   "id": "web",
-   "job_id": "https://builtin.com/job/associate-qa-tester-game-functionality/8787173",
-   "kind": "search",
    "name": "Web job listing (via search index)",
    "posted_at": null,
-   "seen_at": "2026-11-25T00:23:48Z",
-   "url": "https://builtin.com/job/associate-qa-tester-game-functionality/8787173"
+   "seen_at": "2026-11-27T01:19:47Z",
+   "url": "https://builtinbengaluru.in/job/associate-qa-tester-game-functionality/8787173"
   },
   {
    "id": "web",
    "job_id": "https://startup.jobs/associate-qa-tester-game-functionality-rockstar-games-1669690",
    "kind": "search",
-   "name": "startup.jobs (via search index)",
+   "name": "Web (via search index)",
    "posted_at": null,
-   "seen_at": "2026-11-25T00:23:48Z",
+   "seen_at": "2026-11-27T01:19:47Z",
    "url": "https://startup.jobs/associate-qa-tester-game-functionality-rockstar-games-1669690"
-  },
-  {
-   "id": "web",
-   "job_id": "https://builtin.com/job/associate-qa-tester-game-functionality/6253123",
-   "kind": "search",
-   "name": "Job board (via search index)",
-   "posted_at": null,
-   "seen_at": "2026-11-25T00:23:48Z",
-   "url": "https://builtin.com/job/associate-qa-tester-game-functionality/6253123"
-  },
-  {
-   "id": "web",
-   "job_id": "https://startup.jobs/associate-qa-tester-game-functionality-rockstar-games-5308593",
-   "kind": "search",
-   "name": "Web (via search index)",
-   "posted_at": null,
-   "seen_at": "2026-11-25T00:23:48Z",
-   "url": "https://startup.jobs/associate-qa-tester-game-functionality-rockstar-games-5308593"
-  },
-  {
-   "id": "web",
-   "job_id": "https://startup.jobs/associate-qa-tester-game-functionality-rockstar-games-8618282",
-   "kind": "search",
-   "name": "Web (via search index)",
-   "posted_at": null,
-   "seen_at": "2026-11-25T00:23:48Z",
-   "url": "https://startup.jobs/associate-qa-tester-game-functionality-rockstar-games-8618282"
   },
   {
    "id": "web",
@@ -117,7 +81,7 @@
    "kind": "search",
    "name": "Web (via search index)",
    "posted_at": null,
-   "seen_at": "2026-11-25T00:23:48Z",
+   "seen_at": "2026-11-27T01:19:47Z",
    "url": "https://hitmarker.net/jobs/rockstar-games-associate-qa-tester-game-functionality-1616521"
   },
   {
@@ -126,8 +90,35 @@
    "kind": "search",
    "name": "Web (via search index)",
    "posted_at": null,
-   "seen_at": "2026-11-25T00:23:48Z",
+   "seen_at": "2026-11-27T01:19:47Z",
    "url": "https://hitmarker.net/jobs/rockstar-games-associate-qa-tester-game-functionality-1674432"
+  },
+  {
+   "id": "web",
+   "job_id": "https://startup.jobs/associate-qa-tester-game-functionality-rockstar-games-5308593",
+   "kind": "search",
+   "name": "Web (via search index)",
+   "posted_at": null,
+   "seen_at": "2026-11-27T01:19:47Z",
+   "url": "https://startup.jobs/associate-qa-tester-game-functionality-rockstar-games-5308593"
+  },
+  {
+   "id": "web",
+   "job_id": "https://startup.jobs/associate-qa-tester-game-functionality-rockstar-games-8618282",
+   "kind": "search",
+   "name": "Web (via search index)",
+   "posted_at": null,
+   "seen_at": "2026-11-27T01:19:47Z",
+   "url": "https://startup.jobs/associate-qa-tester-game-functionality-rockstar-games-8618282"
+  },
+  {
+   "id": "web",
+   "job_id": "https://builtin.com/job/associate-qa-tester-game-functionality/8787173",
+   "kind": "search",
+   "name": "Web (via search index)",
+   "posted_at": null,
+   "seen_at": "2026-11-27T01:19:47Z",
+   "url": "https://builtin.com/job/associate-qa-tester-game-functionality/8787173"
   },
   {
    "id": "web",
@@ -135,7 +126,7 @@
    "kind": "search",
    "name": "Job listing (via search index)",
    "posted_at": null,
-   "seen_at": "2026-11-25T00:23:48Z",
+   "seen_at": "2026-11-27T01:19:47Z",
    "url": "https://www.themuse.com/jobs/rockstargames/associate-qa-tester-game-functionality"
   },
   {
@@ -144,7 +135,7 @@
    "kind": "search",
    "name": "Job listing (via search index)",
    "posted_at": null,
-   "seen_at": "2026-11-25T00:23:48Z",
+   "seen_at": "2026-11-27T01:19:47Z",
    "url": "https://builtinbengaluru.in/job/associate-qa-tester-game-functionality/4340121"
   }
  ],

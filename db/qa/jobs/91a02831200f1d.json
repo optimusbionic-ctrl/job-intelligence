@@ -1,39 +1,37 @@
 {
  "apply_url": null,
- "board_apply": "https://joinsaarthi.com/jobs/deca-games/qa-tester-mfd-pune/128c7ed6-c2a0-4aea-896b-c18d6613ac26",
+ "board_apply": "https://remotive.com/remote/jobs/qa/qa-tester-4900950",
  "category": "Game studio",
  "comp_potential": "unknown",
  "company": "DECA Games",
  "company_slug": "deca-games",
  "concerns": [
-  "Office outside Mumbai — relocation within India",
+  "Employer has not confirmed hiring from India",
   "Pay not disclosed — ask for the range early",
   "Full description not available from this source"
  ],
  "contacts_count": 0,
- "content_hash": "e716dace7f49",
+ "content_hash": "aff1bf205a20",
  "date_quality": "unknown",
  "deadline": null,
  "employment": "full-time",
  "first_seen": "2026-10-19T15:45:44Z",
- "fit": 80,
+ "fit": 74,
  "has_hiring_manager": false,
  "has_named_contact": false,
  "has_public_email": false,
  "id": "91a02831200f1d",
  "include_reason": "Manual / functional QA title",
  "india": {
-  "cities": [
-   "Pune"
-  ],
-  "company": "yes",
-  "reason": "Location lists India",
-  "status": "confirmed",
+  "cities": [],
+  "company": "unclear",
+  "reason": "Remote, region not stated",
+  "status": "unconfirmed",
   "visa": false
  },
  "kind": "manual-qa",
- "last_verified": "2026-11-03T18:50:05Z",
- "location": "Pune",
+ "last_verified": "2026-11-27T01:19:47Z",
+ "location": "Remote",
  "logo": null,
  "needs_review": false,
  "official": false,
@@ -42,37 +40,38 @@
  "requirements": [],
  "responsibilities": [],
  "salary": {
+  "context_benchmark": "qa-dataset-remote",
   "state": "unavailable"
  },
  "scores": {
   "ai": 55,
   "comp": 60,
   "company": 95,
-  "location": 78,
+  "location": 36,
   "seniority": 84,
   "skill": 86
  },
  "seniority": "unspecified",
  "snippet": "",
- "source_primary": "Web (via search index)",
+ "source_primary": "Remotive (via search index)",
  "sources": [
+  {
+   "id": "web",
+   "job_id": "https://remotive.com/remote/jobs/qa/qa-tester-4900950",
+   "kind": "search",
+   "name": "Remotive (via search index)",
+   "posted_at": null,
+   "seen_at": "2026-11-27T01:19:47Z",
+   "url": "https://remotive.com/remote/jobs/qa/qa-tester-4900950"
+  },
   {
    "id": "web",
    "job_id": "https://joinsaarthi.com/jobs/deca-games/qa-tester-mfd-pune/128c7ed6-c2a0-4aea-896b-c18d6613ac26",
    "kind": "search",
    "name": "Web (via search index)",
    "posted_at": null,
-   "seen_at": "2026-11-03T18:50:05Z",
+   "seen_at": "2026-11-27T01:19:47Z",
    "url": "https://joinsaarthi.com/jobs/deca-games/qa-tester-mfd-pune/128c7ed6-c2a0-4aea-896b-c18d6613ac26"
-  },
-  {
-   "id": "web",
-   "job_id": "https://remotive.com/remote/jobs/qa/qa-tester-4900950",
-   "kind": "search",
-   "name": "Web (via search index)",
-   "posted_at": null,
-   "seen_at": "2026-11-03T18:50:05Z",
-   "url": "https://remotive.com/remote/jobs/qa/qa-tester-4900950"
   }
  ],
  "specializations": [],
@@ -82,13 +81,12 @@
  "tools": [],
  "track": "software",
  "updated_at": null,
- "url": "https://joinsaarthi.com/jobs/deca-games/qa-tester-mfd-pune/128c7ed6-c2a0-4aea-896b-c18d6613ac26",
+ "url": "https://remotive.com/remote/jobs/qa/qa-tester-4900950",
  "why": [
   "Manual / functional QA — the core of your resume",
-  "Game studio company",
-  "Location lists India"
+  "Game studio company"
  ],
- "work_mode": "onsite",
+ "work_mode": "remote",
  "years_max": null,
  "years_min": null
 }

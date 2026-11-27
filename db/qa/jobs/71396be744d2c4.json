@@ -10,7 +10,7 @@
   "Full description not available from this source"
  ],
  "contacts_count": 0,
- "content_hash": "c5fef0c1fe9a",
+ "content_hash": "91304dc7ede2",
  "date_quality": "unknown",
  "deadline": null,
  "employment": "full-time",
@@ -31,8 +31,8 @@
   "visa": false
  },
  "kind": "qa-engineer",
- "last_verified": "2026-11-03T18:50:05Z",
- "location": "Mumbai",
+ "last_verified": "2026-11-27T01:19:47Z",
+ "location": "Mumbai, India",
  "logo": null,
  "needs_review": false,
  "official": false,
@@ -53,15 +53,15 @@
  },
  "seniority": "unspecified",
  "snippet": "",
- "source_primary": "Web (via search index)",
+ "source_primary": "Cutshort (via search index)",
  "sources": [
   {
    "id": "web",
    "job_id": "https://cutshort.io/job/QA-Engineer-Mumbai-ftcash-Br2KbmLg",
    "kind": "search",
-   "name": "Web (via search index)",
+   "name": "Cutshort (via search index)",
    "posted_at": null,
-   "seen_at": "2026-11-03T18:50:05Z",
+   "seen_at": "2026-11-27T01:19:47Z",
    "url": "https://cutshort.io/job/QA-Engineer-Mumbai-ftcash-Br2KbmLg"
   }
  ],

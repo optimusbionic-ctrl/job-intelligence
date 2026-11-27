@@ -10,7 +10,7 @@
   "Full description not available from this source"
  ],
  "contacts_count": 0,
- "content_hash": "0dab98f72db3",
+ "content_hash": "c35f44db8ef4",
  "date_quality": "unknown",
  "deadline": null,
  "employment": "full-time",
@@ -31,8 +31,8 @@
   "visa": false
  },
  "kind": "qa-engineer",
- "last_verified": "2026-11-03T18:50:05Z",
- "location": "Mumbai",
+ "last_verified": "2026-11-27T01:19:47Z",
+ "location": "Mumbai, India",
  "logo": null,
  "needs_review": false,
  "official": false,
@@ -61,8 +61,17 @@
    "kind": "search",
    "name": "foundit (via search index)",
    "posted_at": null,
-   "seen_at": "2026-11-03T18:50:05Z",
+   "seen_at": "2026-11-27T01:19:47Z",
    "url": "https://www.foundit.in/job/test-engineer-games2win-india-pvt-ltd-mumbai-37050530"
+  },
+  {
+   "id": "web",
+   "job_id": "https://jobs.theindiajobs.com/c/Games2win-India-Pvt-Ltd/jobs/Jr-Test-Engineer-0JsnGsruCZ",
+   "kind": "search",
+   "name": "Web (via search index)",
+   "posted_at": null,
+   "seen_at": "2026-11-27T01:19:47Z",
+   "url": "https://jobs.theindiajobs.com/c/Games2win-India-Pvt-Ltd/jobs/Jr-Test-Engineer-0JsnGsruCZ"
   }
  ],
  "specializations": [],

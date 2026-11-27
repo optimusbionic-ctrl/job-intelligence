@@ -10,7 +10,7 @@
   "Full description not available from this source"
  ],
  "contacts_count": 0,
- "content_hash": "da222349ccf2",
+ "content_hash": "1a557e9f1b21",
  "date_quality": "unknown",
  "deadline": null,
  "employment": "full-time",
@@ -32,8 +32,8 @@
   "visa": false
  },
  "kind": "qa-engineer",
- "last_verified": "2026-11-26T01:12:13Z",
- "location": "Pune, Mumbai",
+ "last_verified": "2026-11-27T01:19:47Z",
+ "location": "Pune / Mumbai, India",
  "logo": null,
  "needs_review": false,
  "official": false,
@@ -54,22 +54,22 @@
  },
  "seniority": "unspecified",
  "snippet": "",
- "source_primary": "Web job listing (via search index)",
+ "source_primary": "Cutshort (via search index)",
  "sources": [
   {
    "id": "web",
    "job_id": "https://cutshort.io/job/QA-Jupiter-Pune-Mumbai-Wissen-Technology-6EjRl6ta",
    "kind": "search",
-   "name": "Web job listing (via search index)",
+   "name": "Cutshort (via search index)",
    "posted_at": null,
-   "seen_at": "2026-11-26T01:12:13Z",
+   "seen_at": "2026-11-27T01:19:47Z",
    "url": "https://cutshort.io/job/QA-Jupiter-Pune-Mumbai-Wissen-Technology-6EjRl6ta"
   }
  ],
  "specializations": [],
  "status": "lead",
  "tier": 3,
- "title": "QA (Jupiter)",
+ "title": "QA",
  "tools": [],
  "track": "software",
  "updated_at": null,

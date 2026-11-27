@@ -3,14 +3,22 @@
  "classification": "Inferred from job description",
  "india_hiring": {
   "board": null,
-  "changed_at": "2026-11-03T18:34:57Z",
-  "evidence": [],
+  "changed_at": "2026-11-27T01:21:22Z",
+  "evidence": [
+   {
+    "detail": "Senior Motion Designer — Bengaluru",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.foundit.in/job/senior-motion-designer-kwalee-bengaluru-bangalore-36886724",
+    "weight": 5
+   }
+  ],
   "first_checked_at": "2026-11-03T18:34:57Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "54391d7cdf",
-  "summary": "No public evidence yet about hiring from India.",
-  "verdict": "unclear"
+  "sig": "22ec6a8ab6",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
  },
  "inferred": true,
  "name": "Kwalee",
