@@ -1,5 +1,5 @@
 {
- "category": "Fintech",
+ "category": "Other",
  "classification": "Inferred from job description",
  "india_hiring": {
   "board": null,
@@ -23,7 +23,7 @@
  "inferred": true,
  "name": "Nucsoft",
  "slug": "nucsoft",
- "tier": 1,
+ "tier": 3,
  "tracks": [
   "software"
  ]
