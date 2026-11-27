@@ -3,20 +3,20 @@
  "classification": "Inferred from job description",
  "india_hiring": {
   "board": null,
-  "changed_at": "2026-11-27T12:33:24Z",
+  "changed_at": "2026-11-27T13:53:29Z",
   "evidence": [
    {
-    "detail": "QA Engineer - Test Engineer, Sdet, Automation — Navi Mumbai, Mumbai City, Thane, India",
+    "detail": "Automation Tester - Manual, Playwright — Navi Mumbai, Mumbai City, India",
     "kind": "posting",
     "label": "A current posting lists India as a location",
-    "url": "https://www.shine.com/jobs/qa-engineer-test-engineer-sdet-automation/reis-staffing-hr-services-pvt-ltd/20141492",
+    "url": "https://www.shine.com/jobs/automation-tester-manual-playwright/reis-staffing-hr-services-pvt-ltd/20134019",
     "weight": 5
    }
   ],
   "first_checked_at": "2026-11-25T07:59:36Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "d5d9f640d9",
+  "sig": "005bd9062f",
   "summary": "A current posting lists India as a location.",
   "verdict": "yes"
  },
