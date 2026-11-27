@@ -15,10 +15,10 @@
     "India",
     "Germany",
     "United Kingdom",
-    "Spain",
-    "Switzerland"
+    "Switzerland",
+    "Spain"
    ],
-   "india": 228,
+   "india": 167,
    "india_samples": [
     {
      "location": "India",
@@ -27,23 +27,23 @@
     },
     {
      "location": "India",
-     "title": "AEO/GEO Lead (Technical AI Search)",
-     "url": "https://jobs.lever.co/jobgether/90a1453b-1cf2-4956-910a-a70f4f45b0a7"
+     "title": "AR Collections Accountant",
+     "url": "https://jobs.lever.co/jobgether/55b9129f-5c43-4222-8cfc-4202f3b2d55c"
     },
     {
      "location": "India",
-     "title": "AI Delivery Manager",
-     "url": "https://jobs.lever.co/jobgether/2eddd79a-d7e1-404f-aa28-01dd91205116"
+     "title": "AVD Consultant - Contractual",
+     "url": "https://jobs.lever.co/jobgether/bc1328fb-ed3d-493e-a3c4-8275eea52653"
     },
     {
      "location": "India",
-     "title": "AI Platform Developer",
-     "url": "https://jobs.lever.co/jobgether/3fbf8a1b-b75d-4ae1-a6cb-d0e6ff6074c3"
+     "title": "Account Manager",
+     "url": "https://jobs.lever.co/jobgether/acc2ca36-9b67-4452-b906-47800ad7219a"
     }
    ],
    "open_samples": [],
-   "remote": 4334,
-   "restricted_remote": 4106,
+   "remote": 3814,
+   "restricted_remote": 3647,
    "restricted_samples": [
     {
      "location": "Germany",
@@ -67,17 +67,17 @@
     }
    ],
    "slug": "jobgether",
-   "total": 4334,
+   "total": 3814,
    "type": "lever",
    "url": "https://jobs.lever.co/jobgether",
    "worldwide": 0
   },
-  "changed_at": "2026-11-27T11:28:37Z",
+  "changed_at": "2026-11-27T20:31:12Z",
   "evidence": [
    {
-    "detail": ".Net Developer with PLANISWARE (India); AEO/GEO Lead (Technical AI Search) (India); AI Delivery Manager (India)",
+    "detail": ".Net Developer with PLANISWARE (India); AR Collections Accountant (India); AVD Consultant - Contractual (India)",
     "kind": "board",
-    "label": "228 of 4334 open roles are located in India",
+    "label": "167 of 3814 open roles are located in India",
     "url": "https://jobs.lever.co/jobgether",
     "weight": 5
    },
@@ -92,8 +92,8 @@
   "first_checked_at": "2026-11-19T20:06:27Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "e9c2835c16",
-  "summary": "228 of 4334 open roles are located in India.",
+  "sig": "cf6dd4e5dc",
+  "summary": "167 of 3814 open roles are located in India.",
   "verdict": "yes"
  },
  "inferred": true,
