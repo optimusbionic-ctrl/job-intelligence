@@ -1,0 +1,27 @@
+{
+ "category": "AI",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-27T14:57:46Z",
+  "evidence": [
+   {
+    "detail": "Game Artist & Animator (B2C Mobile game, AI) — Noida, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/game-artist-animator-b2c-mobile-game-ai/staffnixcom/20155430",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-27T14:57:46Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "41805b6ed5",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Staffnixcom",
+ "slug": "staffnixcom",
+ "tier": 1
+}

@@ -1,0 +1,80 @@
+{
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/game-artist-animator-b2c-mobile-game-ai/staffnixcom/20155430",
+ "category": "AI",
+ "comp_potential": "unknown",
+ "company": "Staffnixcom",
+ "company_slug": "staffnixcom",
+ "concerns": [
+  "Compensation not disclosed"
+ ],
+ "contacts_count": 0,
+ "content_hash": "a933d768dbe6",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-27T14:57:46Z",
+ "fit": 57,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "fced9f899e0402",
+ "include_reason": "Animator title — needs scope review",
+ "india": {
+  "cities": [
+   "Delhi NCR"
+  ],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "animator",
+ "last_verified": "2026-11-27T14:57:46Z",
+ "location": "Noida, India",
+ "logo": null,
+ "needs_review": true,
+ "official": false,
+ "posted_at": "2026-11-26T06:09:11Z",
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 44,
+  "comp": 48,
+  "company": 98,
+  "location": 64,
+  "seniority": 66,
+  "skill": 32
+ },
+ "seniority": "unspecified",
+ "snippet": "Experience: 4 to 8 Yrs\nSkills: 2D art, illustration, character design, animation, Adobe Creative Suite, Spine, environments, AI art, generation tools, Animate, game design concepts\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "20155430",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-11-26T06:09:11Z",
+   "seen_at": "2026-11-27T14:57:46Z",
+   "url": "https://www.shine.com/jobs/game-artist-animator-b2c-mobile-game-ai/staffnixcom/20155430"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 1,
+ "title": "Game Artist & Animator (B2C Mobile game, AI)",
+ "tools": [],
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/game-artist-animator-b2c-mobile-game-ai/staffnixcom/20155430",
+ "why": [
+  "AI company (Tier 1 priority)",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_min": null
+}

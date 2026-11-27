@@ -1,0 +1,27 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-27T14:57:46Z",
+  "evidence": [
+   {
+    "detail": "2D Graphic Designer & Animator — Chennai, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/2d-graphic-designer-animator/azura-media-solutions/20146426",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-27T14:57:46Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "479c0ad356",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Azura Media Solutions",
+ "slug": "azura-media-solutions",
+ "tier": 3
+}

@@ -11,7 +11,7 @@
   "Reposted / refreshed listing — original posting is older"
  ],
  "contacts_count": 0,
- "content_hash": "4d2f85c06b0b",
+ "content_hash": "85ccc8687d32",
  "date_quality": "exact",
  "deadline": null,
  "employment": "full-time",
@@ -30,12 +30,12 @@
   "visa": false
  },
  "kind": "game-tester",
- "last_verified": "2026-11-24T18:24:05Z",
+ "last_verified": "2026-11-27T14:56:04Z",
  "location": "Mira Bhayandar, India",
  "logo": null,
  "needs_review": false,
  "official": false,
- "posted_at": "2026-09-26T05:30:16Z",
+ "posted_at": "2026-10-05T05:40:08Z",
  "repost": true,
  "requirements": [],
  "responsibilities": [],
@@ -60,17 +60,8 @@
    "kind": "board",
    "name": "Shine.com",
    "posted_at": "2026-10-05T05:40:08Z",
-   "seen_at": "2026-11-24T18:24:05Z",
+   "seen_at": "2026-11-27T14:56:04Z",
    "url": "https://www.shine.com/jobs/game-tester-bhayandar-east/rendered-ideas/19708107"
-  },
-  {
-   "id": "shine",
-   "job_id": "19595898",
-   "kind": "board",
-   "name": "Shine.com",
-   "posted_at": "2026-09-26T05:30:16Z",
-   "seen_at": "2026-11-24T18:24:05Z",
-   "url": "https://www.shine.com/jobs/game-tester-bhayander-east-bhayandar-east/rendered-ideas/19595898"
   }
  ],
  "specializations": [],
@@ -81,7 +72,7 @@
   "Test cases & scenarios"
  ],
  "track": "game",
- "updated_at": "2026-10-05T05:40:08Z",
+ "updated_at": null,
  "url": "https://www.shine.com/jobs/game-tester-bhayandar-east/rendered-ideas/19708107",
  "why": [
   "Game tester role — matches your game QA work at Webmobril and Golden Horde",
