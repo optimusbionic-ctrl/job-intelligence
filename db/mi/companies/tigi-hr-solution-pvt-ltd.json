@@ -1,0 +1,27 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-28T00:26:16Z",
+  "evidence": [
+   {
+    "detail": "Motion Graphic Designer — Ahmedabad, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://cutshort.io/job/Motion-Graphic-Designer-Ahmedabad-TIGI-HR-Solution-Pvt-Ltd--imTcKOCW",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-28T00:26:16Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "7668d961dd",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "TIGI HR Solution Pvt Ltd",
+ "slug": "tigi-hr-solution-pvt-ltd",
+ "tier": 3
+}

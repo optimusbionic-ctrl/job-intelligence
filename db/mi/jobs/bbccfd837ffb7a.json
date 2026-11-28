@@ -6,17 +6,16 @@
  "company": "Bombay Design Centre",
  "company_slug": "bombay-design-centre",
  "concerns": [
-  "Employer has not confirmed hiring from India",
   "Compensation not disclosed",
   "Full description not available from this source"
  ],
  "contacts_count": 0,
- "content_hash": "cb6ac8fed375",
+ "content_hash": "2c04c70c6386",
  "date_quality": "unknown",
  "deadline": null,
  "employment": "full-time",
  "first_seen": "2026-11-03T18:34:57Z",
- "fit": 54,
+ "fit": 59,
  "has_hiring_manager": false,
  "has_named_contact": false,
  "has_public_email": false,
@@ -24,14 +23,14 @@
  "include_reason": "Motion design title",
  "india": {
   "cities": [],
-  "company": "unclear",
-  "reason": "Location not stated",
-  "status": "unconfirmed",
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
   "visa": false
  },
  "kind": "motion",
- "last_verified": "2026-11-03T18:34:57Z",
- "location": "",
+ "last_verified": "2026-11-28T00:26:16Z",
+ "location": "India",
  "logo": null,
  "needs_review": false,
  "official": false,
@@ -46,22 +45,31 @@
   "ai": 45,
   "comp": 48,
   "company": 40,
-  "location": 38,
+  "location": 88,
   "seniority": 66,
   "skill": 69
  },
  "seniority": "unspecified",
  "snippet": "",
- "source_primary": "Web job listing (via search index)",
+ "source_primary": "Weekday (via search index)",
  "sources": [
   {
    "id": "web",
    "job_id": "https://jobs.weekday.works/motion-designer-interaction-design-at-bombaydc-4410301073",
    "kind": "search",
-   "name": "Web job listing (via search index)",
+   "name": "Weekday (via search index)",
    "posted_at": null,
-   "seen_at": "2026-11-03T18:34:57Z",
+   "seen_at": "2026-11-28T00:26:16Z",
    "url": "https://jobs.weekday.works/motion-designer-interaction-design-at-bombaydc-4410301073"
+  },
+  {
+   "id": "hirist",
+   "job_id": "https://www.hirist.tech/j/motion-designer-interaction-design-1638570",
+   "kind": "search",
+   "name": "hirist (via search index)",
+   "posted_at": null,
+   "seen_at": "2026-11-28T00:26:16Z",
+   "url": "https://www.hirist.tech/j/motion-designer-interaction-design-1638570"
   }
  ],
  "specializations": [
@@ -75,8 +83,9 @@
  "url": "https://jobs.weekday.works/motion-designer-interaction-design-at-bombaydc-4410301073",
  "why": [
   "Core motion design role",
-  "Specialisations in scope: Interaction systems"
+  "Specialisations in scope: Interaction systems",
+  "Location lists India"
  ],
- "work_mode": "unspecified",
+ "work_mode": "onsite",
  "years_min": null
 }

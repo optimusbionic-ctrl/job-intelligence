@@ -3,14 +3,22 @@
  "classification": "Inferred from job description",
  "india_hiring": {
   "board": null,
-  "changed_at": "2026-10-19T06:30:02Z",
-  "evidence": [],
+  "changed_at": "2026-11-28T00:26:16Z",
+  "evidence": [
+   {
+    "detail": "Motion/Interaction Designer — India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://careers.kula.ai/acko/14887/apply",
+    "weight": 5
+   }
+  ],
   "first_checked_at": "2026-10-18T18:27:42Z",
   "india_based": false,
   "method": "Careers board, posting text, web search",
-  "sig": "54391d7cdf",
-  "summary": "No public evidence yet about hiring from India.",
-  "verdict": "unclear",
+  "sig": "65d32a092d",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes",
   "web": {
    "checked_at": "2026-10-18T19:27:59Z",
    "query": "\"Acko\" careers (India OR \"work from anywhere\" OR countries OR \"employer of record\" OR \"remote\")",
@@ -49,7 +57,7 @@
   }
  },
  "inferred": true,
- "name": "ACKO",
+ "name": "Acko",
  "slug": "acko",
  "tier": 3
 }

@@ -6,35 +6,33 @@
  "company": "Rockstar Games",
  "company_slug": "rockstar-games",
  "concerns": [
+  "Employer has not confirmed hiring from India",
   "Entry-level role — pay may be at the lower end",
-  "Office outside Mumbai — relocation within India",
   "Pay not disclosed — ask for the range early",
   "Full description not available from this source"
  ],
  "contacts_count": 1,
- "content_hash": "28a7099a5df9",
+ "content_hash": "3a09e57f0f37",
  "date_quality": "unknown",
  "deadline": null,
  "employment": "full-time",
  "first_seen": "2026-10-21T12:45:28Z",
- "fit": 78,
+ "fit": 74,
  "has_hiring_manager": false,
  "has_named_contact": false,
  "has_public_email": false,
  "id": "99198c155d9d8d",
  "include_reason": "Game tester title",
  "india": {
-  "cities": [
-   "Bengaluru"
-  ],
+  "cities": [],
   "company": "yes",
-  "reason": "Location lists India",
-  "status": "confirmed",
+  "reason": "Location not stated",
+  "status": "unconfirmed",
   "visa": false
  },
  "kind": "game-tester",
- "last_verified": "2026-11-27T01:19:47Z",
- "location": "Bengaluru, India",
+ "last_verified": "2026-11-28T00:24:34Z",
+ "location": "",
  "logo": null,
  "needs_review": false,
  "official": false,
@@ -49,22 +47,31 @@
   "ai": 55,
   "comp": 60,
   "company": 96,
-  "location": 60,
+  "location": 36,
   "seniority": 86,
   "skill": 86
  },
  "seniority": "junior",
  "snippet": "",
- "source_primary": "Web job listing (via search index)",
+ "source_primary": "Built In Bengaluru (via search index)",
  "sources": [
   {
    "id": "web",
    "job_id": "https://builtinbengaluru.in/job/associate-qa-tester-game-functionality/8787173",
    "kind": "search",
-   "name": "Web job listing (via search index)",
+   "name": "Built In Bengaluru (via search index)",
    "posted_at": null,
-   "seen_at": "2026-11-27T01:19:47Z",
+   "seen_at": "2026-11-28T00:24:34Z",
    "url": "https://builtinbengaluru.in/job/associate-qa-tester-game-functionality/8787173"
+  },
+  {
+   "id": "web",
+   "job_id": "https://startup.jobs/associate-qa-tester-game-functionality-rockstar-games-8618282",
+   "kind": "search",
+   "name": "startup.jobs (via search index)",
+   "posted_at": null,
+   "seen_at": "2026-11-28T00:24:34Z",
+   "url": "https://startup.jobs/associate-qa-tester-game-functionality-rockstar-games-8618282"
   },
   {
    "id": "web",
@@ -72,17 +79,8 @@
    "kind": "search",
    "name": "Web (via search index)",
    "posted_at": null,
-   "seen_at": "2026-11-27T01:19:47Z",
+   "seen_at": "2026-11-28T00:24:34Z",
    "url": "https://startup.jobs/associate-qa-tester-game-functionality-rockstar-games-1669690"
-  },
-  {
-   "id": "web",
-   "job_id": "https://hitmarker.net/jobs/rockstar-games-associate-qa-tester-game-functionality-1616521",
-   "kind": "search",
-   "name": "Web (via search index)",
-   "posted_at": null,
-   "seen_at": "2026-11-27T01:19:47Z",
-   "url": "https://hitmarker.net/jobs/rockstar-games-associate-qa-tester-game-functionality-1616521"
   },
   {
    "id": "web",
@@ -90,7 +88,7 @@
    "kind": "search",
    "name": "Web (via search index)",
    "posted_at": null,
-   "seen_at": "2026-11-27T01:19:47Z",
+   "seen_at": "2026-11-28T00:24:34Z",
    "url": "https://hitmarker.net/jobs/rockstar-games-associate-qa-tester-game-functionality-1674432"
   },
   {
@@ -99,17 +97,8 @@
    "kind": "search",
    "name": "Web (via search index)",
    "posted_at": null,
-   "seen_at": "2026-11-27T01:19:47Z",
+   "seen_at": "2026-11-28T00:24:34Z",
    "url": "https://startup.jobs/associate-qa-tester-game-functionality-rockstar-games-5308593"
-  },
-  {
-   "id": "web",
-   "job_id": "https://startup.jobs/associate-qa-tester-game-functionality-rockstar-games-8618282",
-   "kind": "search",
-   "name": "Web (via search index)",
-   "posted_at": null,
-   "seen_at": "2026-11-27T01:19:47Z",
-   "url": "https://startup.jobs/associate-qa-tester-game-functionality-rockstar-games-8618282"
   },
   {
    "id": "web",
@@ -117,8 +106,17 @@
    "kind": "search",
    "name": "Web (via search index)",
    "posted_at": null,
-   "seen_at": "2026-11-27T01:19:47Z",
+   "seen_at": "2026-11-28T00:24:34Z",
    "url": "https://builtin.com/job/associate-qa-tester-game-functionality/8787173"
+  },
+  {
+   "id": "web",
+   "job_id": "https://hitmarker.net/jobs/rockstar-games-associate-qa-tester-game-functionality-1616521",
+   "kind": "search",
+   "name": "Web job listing (via search index)",
+   "posted_at": null,
+   "seen_at": "2026-11-28T00:24:34Z",
+   "url": "https://hitmarker.net/jobs/rockstar-games-associate-qa-tester-game-functionality-1616521"
   },
   {
    "id": "web",
@@ -126,7 +124,7 @@
    "kind": "search",
    "name": "Job listing (via search index)",
    "posted_at": null,
-   "seen_at": "2026-11-27T01:19:47Z",
+   "seen_at": "2026-11-28T00:24:34Z",
    "url": "https://www.themuse.com/jobs/rockstargames/associate-qa-tester-game-functionality"
   },
   {
@@ -135,7 +133,7 @@
    "kind": "search",
    "name": "Job listing (via search index)",
    "posted_at": null,
-   "seen_at": "2026-11-27T01:19:47Z",
+   "seen_at": "2026-11-28T00:24:34Z",
    "url": "https://builtinbengaluru.in/job/associate-qa-tester-game-functionality/4340121"
   }
  ],
@@ -150,9 +148,9 @@
  "why": [
   "Game tester role — matches your game QA work at Webmobril and Golden Horde",
   "Game studio company",
-  "Location lists India"
+  "Rockstar Games already hires people in India"
  ],
- "work_mode": "onsite",
+ "work_mode": "unspecified",
  "years_max": null,
  "years_min": null
 }

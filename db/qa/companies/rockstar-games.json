@@ -45,7 +45,7 @@
    "url": "https://boards.greenhouse.io/rockstargames",
    "worldwide": 0
   },
-  "changed_at": "2026-11-26T11:28:36Z",
+  "changed_at": "2026-11-28T00:24:34Z",
   "evidence": [
    {
     "detail": "Security Compliance Operations Lead (Bengaluru, Karnataka, India); Senior Security Vulnerability Engineer (Bengaluru, Karnataka, India)",
@@ -53,19 +53,12 @@
     "label": "2 of 15 open roles are located in India",
     "url": "https://boards.greenhouse.io/rockstargames",
     "weight": 5
-   },
-   {
-    "detail": "Associate QA Tester - Game Functionality — Bengaluru, India",
-    "kind": "posting",
-    "label": "A current posting lists India as a location",
-    "url": "https://builtinbengaluru.in/job/associate-qa-tester-game-functionality/8787173",
-    "weight": 5
    }
   ],
   "first_checked_at": "2026-10-19T15:45:44Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "a055dc4046",
+  "sig": "df81bd8c0f",
   "summary": "2 of 15 open roles are located in India.",
   "verdict": "yes"
  },

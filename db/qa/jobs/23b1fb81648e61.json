@@ -11,7 +11,7 @@
   "Full description not available from this source"
  ],
  "contacts_count": 0,
- "content_hash": "579519d6346e",
+ "content_hash": "8d5847da83ec",
  "date_quality": "unknown",
  "deadline": null,
  "employment": "full-time",
@@ -32,8 +32,8 @@
   "visa": false
  },
  "kind": "qa-engineer",
- "last_verified": "2026-11-27T01:19:47Z",
- "location": "Pune, India",
+ "last_verified": "2026-11-28T00:24:34Z",
+ "location": "Pune",
  "logo": null,
  "needs_review": false,
  "official": false,
@@ -54,15 +54,15 @@
  },
  "seniority": "unspecified",
  "snippet": "",
- "source_primary": "Cutshort (via search index)",
+ "source_primary": "Web (via search index)",
  "sources": [
   {
    "id": "web",
    "job_id": "https://cutshort.io/job/QA-Engineer-Pune-11Sight-com-BPXSNfdi",
    "kind": "search",
-   "name": "Cutshort (via search index)",
+   "name": "Web (via search index)",
    "posted_at": null,
-   "seen_at": "2026-11-27T01:19:47Z",
+   "seen_at": "2026-11-28T00:24:34Z",
    "url": "https://cutshort.io/job/QA-Engineer-Pune-11Sight-com-BPXSNfdi"
   }
  ],

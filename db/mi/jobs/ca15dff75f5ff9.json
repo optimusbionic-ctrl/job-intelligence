@@ -1,0 +1,78 @@
+{
+ "apply_url": null,
+ "board_apply": "https://cutshort.io/job/Motion-Graphic-Designer-Ahmedabad-TIGI-HR-Solution-Pvt-Ltd--imTcKOCW",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "TIGI HR Solution Pvt Ltd",
+ "company_slug": "tigi-hr-solution-pvt-ltd",
+ "concerns": [
+  "Compensation not disclosed",
+  "Full description not available from this source"
+ ],
+ "contacts_count": 0,
+ "content_hash": "c421dc4b7eb8",
+ "date_quality": "unknown",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-28T00:26:16Z",
+ "fit": 51,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "ca15dff75f5ff9",
+ "include_reason": "Mixed graphic + motion title",
+ "india": {
+  "cities": [],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "graphic-motion",
+ "last_verified": "2026-11-28T00:26:16Z",
+ "location": "Ahmedabad, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": null,
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 45,
+  "comp": 48,
+  "company": 40,
+  "location": 88,
+  "seniority": 66,
+  "skill": 42
+ },
+ "seniority": "unspecified",
+ "snippet": "",
+ "source_primary": "Cutshort (via search index)",
+ "sources": [
+  {
+   "id": "cutshort",
+   "job_id": "https://cutshort.io/job/Motion-Graphic-Designer-Ahmedabad-TIGI-HR-Solution-Pvt-Ltd--imTcKOCW",
+   "kind": "search",
+   "name": "Cutshort (via search index)",
+   "posted_at": null,
+   "seen_at": "2026-11-28T00:26:16Z",
+   "url": "https://cutshort.io/job/Motion-Graphic-Designer-Ahmedabad-TIGI-HR-Solution-Pvt-Ltd--imTcKOCW"
+  }
+ ],
+ "specializations": [],
+ "status": "lead",
+ "tier": 3,
+ "title": "Motion Graphic Designer",
+ "tools": [],
+ "updated_at": null,
+ "url": "https://cutshort.io/job/Motion-Graphic-Designer-Ahmedabad-TIGI-HR-Solution-Pvt-Ltd--imTcKOCW",
+ "why": [
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_min": null
+}

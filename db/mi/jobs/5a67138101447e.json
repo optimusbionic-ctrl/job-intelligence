@@ -6,17 +6,16 @@
  "company": "Kimp",
  "company_slug": "kimp",
  "concerns": [
-  "Employer has not confirmed hiring from India",
   "Compensation not disclosed",
   "Full description not available from this source"
  ],
  "contacts_count": 0,
- "content_hash": "835a87c7c741",
+ "content_hash": "622d165958cb",
  "date_quality": "unknown",
  "deadline": null,
  "employment": "full-time",
  "first_seen": "2026-11-03T18:34:57Z",
- "fit": 51,
+ "fit": 56,
  "has_hiring_manager": false,
  "has_named_contact": false,
  "has_public_email": false,
@@ -24,14 +23,14 @@
  "include_reason": "Mixed graphic + motion title",
  "india": {
   "cities": [],
-  "company": "unclear",
-  "reason": "Location not stated",
-  "status": "unconfirmed",
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
   "visa": false
  },
  "kind": "graphic-motion",
- "last_verified": "2026-11-03T18:34:57Z",
- "location": "",
+ "last_verified": "2026-11-28T00:26:16Z",
+ "location": "India",
  "logo": null,
  "needs_review": false,
  "official": false,
@@ -46,32 +45,34 @@
   "ai": 45,
   "comp": 48,
   "company": 40,
-  "location": 38,
+  "location": 88,
   "seniority": 100,
   "skill": 42
  },
  "seniority": "senior",
  "snippet": "",
- "source_primary": "Web job listing (via search index)",
+ "source_primary": "Weekday (via search index)",
  "sources": [
   {
    "id": "web",
    "job_id": "https://jobs.weekday.works/senior-motion-graphic-designer-mgd2604in-at-kimp-4399263656",
    "kind": "search",
-   "name": "Web job listing (via search index)",
+   "name": "Weekday (via search index)",
    "posted_at": null,
-   "seen_at": "2026-11-03T18:34:57Z",
+   "seen_at": "2026-11-28T00:26:16Z",
    "url": "https://jobs.weekday.works/senior-motion-graphic-designer-mgd2604in-at-kimp-4399263656"
   }
  ],
  "specializations": [],
  "status": "lead",
  "tier": 3,
- "title": "Senior Motion Graphic Designer",
+ "title": "Senior Motion Graphic Designer (MGD2604IN)",
  "tools": [],
  "updated_at": null,
  "url": "https://jobs.weekday.works/senior-motion-graphic-designer-mgd2604in-at-kimp-4399263656",
- "why": [],
- "work_mode": "unspecified",
+ "why": [
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
  "years_min": null
 }

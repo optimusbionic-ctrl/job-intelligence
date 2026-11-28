@@ -3,14 +3,22 @@
  "classification": "Inferred from job description",
  "india_hiring": {
   "board": null,
-  "changed_at": "2026-11-03T21:37:23Z",
-  "evidence": [],
+  "changed_at": "2026-11-28T00:26:16Z",
+  "evidence": [
+   {
+    "detail": "Motion Graphic Designer — India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://jobs.weekday.works/motion-graphic-designer-at-magnon-group-4409258602",
+    "weight": 5
+   }
+  ],
   "first_checked_at": "2026-11-03T21:37:23Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "54391d7cdf",
-  "summary": "No public evidence yet about hiring from India.",
-  "verdict": "unclear"
+  "sig": "592270640a",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
  },
  "inferred": true,
  "name": "Magnon Group",

@@ -6,17 +6,16 @@
  "company": "Intigly",
  "company_slug": "intigly",
  "concerns": [
-  "Employer has not confirmed hiring from India",
   "Compensation not disclosed",
   "Full description not available from this source"
  ],
  "contacts_count": 0,
- "content_hash": "d50e15ae7447",
+ "content_hash": "136abbe5b887",
  "date_quality": "unknown",
  "deadline": null,
  "employment": "full-time",
  "first_seen": "2026-11-03T18:34:57Z",
- "fit": 50,
+ "fit": 56,
  "has_hiring_manager": false,
  "has_named_contact": false,
  "has_public_email": false,
@@ -24,14 +23,14 @@
  "include_reason": "Mixed graphic + motion title",
  "india": {
   "cities": [],
-  "company": "unclear",
-  "reason": "Location not stated",
-  "status": "unconfirmed",
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
   "visa": false
  },
  "kind": "graphic-motion",
- "last_verified": "2026-11-03T18:34:57Z",
- "location": "",
+ "last_verified": "2026-11-28T00:26:16Z",
+ "location": "India",
  "logo": null,
  "needs_review": false,
  "official": false,
@@ -46,21 +45,21 @@
   "ai": 45,
   "comp": 48,
   "company": 40,
-  "location": 38,
+  "location": 88,
   "seniority": 96,
   "skill": 42
  },
  "seniority": "lead",
  "snippet": "",
- "source_primary": "Web job listing (via search index)",
+ "source_primary": "Weekday (via search index)",
  "sources": [
   {
    "id": "web",
    "job_id": "https://jobs.weekday.works/motion-graphic-designer-team-lead-at-intigly-4420517999",
    "kind": "search",
-   "name": "Web job listing (via search index)",
+   "name": "Weekday (via search index)",
    "posted_at": null,
-   "seen_at": "2026-11-03T18:34:57Z",
+   "seen_at": "2026-11-28T00:26:16Z",
    "url": "https://jobs.weekday.works/motion-graphic-designer-team-lead-at-intigly-4420517999"
   }
  ],
@@ -71,7 +70,9 @@
  "tools": [],
  "updated_at": null,
  "url": "https://jobs.weekday.works/motion-graphic-designer-team-lead-at-intigly-4420517999",
- "why": [],
- "work_mode": "unspecified",
+ "why": [
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
  "years_min": null
 }

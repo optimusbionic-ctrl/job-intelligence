@@ -1,5 +1,5 @@
 {
- "apply_url": "https://apply.workable.com/keywords-intl1/jobs/view/9E7B5F0B6B",
+ "apply_url": "https://apply.workable.com/keywords-intl1/jobs/view/9E7B5F0B6B.md",
  "board_apply": null,
  "category": "Game services / QA",
  "comp_potential": "unknown",
@@ -13,7 +13,7 @@
   "Full description not available from this source"
  ],
  "contacts_count": 1,
- "content_hash": "00239a5183f0",
+ "content_hash": "6035e6fcbfc5",
  "date_quality": "unknown",
  "deadline": null,
  "employment": "full-time",
@@ -32,7 +32,7 @@
   "visa": false
  },
  "kind": "game-tester",
- "last_verified": "2026-11-27T01:19:47Z",
+ "last_verified": "2026-11-28T00:24:34Z",
  "location": "",
  "logo": null,
  "needs_review": false,
@@ -58,29 +58,29 @@
  "sources": [
   {
    "id": "workable",
-   "job_id": "https://apply.workable.com/keywords-intl1/jobs/view/9E7B5F0B6B",
-   "kind": "search",
-   "name": "Workable (via search index)",
-   "posted_at": null,
-   "seen_at": "2026-11-27T01:19:47Z",
-   "url": "https://apply.workable.com/keywords-intl1/jobs/view/9E7B5F0B6B"
-  },
-  {
-   "id": "workable",
    "job_id": "https://apply.workable.com/keywords-intl1/jobs/view/9E7B5F0B6B.md",
    "kind": "search",
    "name": "Workable (via search index)",
    "posted_at": null,
-   "seen_at": "2026-11-27T01:19:47Z",
+   "seen_at": "2026-11-28T00:24:34Z",
    "url": "https://apply.workable.com/keywords-intl1/jobs/view/9E7B5F0B6B.md"
+  },
+  {
+   "id": "workable",
+   "job_id": "https://apply.workable.com/keywords-intl1/jobs/view/9E7B5F0B6B",
+   "kind": "search",
+   "name": "Workable",
+   "posted_at": null,
+   "seen_at": "2026-11-28T00:24:34Z",
+   "url": "https://apply.workable.com/keywords-intl1/jobs/view/9E7B5F0B6B"
   },
   {
    "id": "web",
    "job_id": "https://jobs.weekday.works/keywords-studios-(player-support)-game-tester---fresher",
    "kind": "search",
-   "name": "Web (via search index)",
+   "name": "Web search (via search index)",
    "posted_at": null,
-   "seen_at": "2026-11-27T01:19:47Z",
+   "seen_at": "2026-11-28T00:24:34Z",
    "url": "https://jobs.weekday.works/keywords-studios-(player-support)-game-tester---fresher"
   },
   {
@@ -89,7 +89,7 @@
    "kind": "search",
    "name": "Web (via search index)",
    "posted_at": null,
-   "seen_at": "2026-11-27T01:19:47Z",
+   "seen_at": "2026-11-28T00:24:34Z",
    "url": "https://outscal.com/us/job/game-tester-fresher-at-keywords-studios-in-gurugram-haryana-india-1"
   },
   {
@@ -98,7 +98,7 @@
    "kind": "search",
    "name": "Job listing (via search index)",
    "posted_at": null,
-   "seen_at": "2026-11-27T01:19:47Z",
+   "seen_at": "2026-11-28T00:24:34Z",
    "url": "https://swooped.co/job-postings/game-tester-fresher-gurgaon-keywords-studios-a400b"
   }
  ],
@@ -109,7 +109,7 @@
  "tools": [],
  "track": "game",
  "updated_at": null,
- "url": "https://apply.workable.com/keywords-intl1/jobs/view/9E7B5F0B6B",
+ "url": "https://apply.workable.com/keywords-intl1/jobs/view/9E7B5F0B6B.md",
  "why": [
   "Game tester role — matches your game QA work at Webmobril and Golden Horde",
   "Keywords Studios already hires people in India"

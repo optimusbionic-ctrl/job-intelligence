@@ -3,14 +3,22 @@
  "classification": "Inferred from job description",
  "india_hiring": {
   "board": null,
-  "changed_at": "2026-11-03T18:34:57Z",
-  "evidence": [],
+  "changed_at": "2026-11-28T00:26:16Z",
+  "evidence": [
+   {
+    "detail": "Senior Motion Designer — India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://jobs.weekday.works/senior-motion-designer-at-clevertize-private-limited-4416805710",
+    "weight": 5
+   }
+  ],
   "first_checked_at": "2026-11-03T18:34:57Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "54391d7cdf",
-  "summary": "No public evidence yet about hiring from India.",
-  "verdict": "unclear"
+  "sig": "11e8935bb9",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
  },
  "inferred": true,
  "name": "Clevertize Private Limited",
