@@ -1,0 +1,27 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-28T06:01:11Z",
+  "evidence": [
+   {
+    "detail": "Video Editor - Video Editing, Motion Graphics, Graphic Design — Noida, Delhi, Faridabad, Gurugram, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/video-editor-video-editing-motion-graphics-graphic-design/lynchpin-hr/20162472",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-28T06:01:11Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "715b589d75",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Lynchpin HR.",
+ "slug": "lynchpin-hr",
+ "tier": 3
+}
