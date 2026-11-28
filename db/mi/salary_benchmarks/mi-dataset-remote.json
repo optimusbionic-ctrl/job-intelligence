@@ -1,24 +1,15 @@
 {
- "avg": 13946417,
+ "avg": 16363796,
  "basis": "Interquartile range of posting midpoints, converted to INR at today's rate",
  "currency": "INR",
  "high": 18130343,
  "id": "mi-dataset-remote",
  "label": "Disclosed pay on remote motion-design postings (any region, this dataset)",
- "low": 11157134,
+ "low": 11649024,
  "market": "Remote (global)",
- "n": 13,
+ "n": 12,
  "retrieved_at": "2026-11-28",
  "samples": [
-  {
-   "company": "Wolf Games",
-   "currency": "USD",
-   "location": "United States",
-   "max": 110000,
-   "min": 80000,
-   "title": "Senior Video Editor & AI Motion Designer",
-   "url": "https://himalayas.app/companies/wolf-games/jobs/senior-video-editor-ai-motion-designer?utm_source=api"
-  },
   {
    "company": "College Board",
    "currency": "USD",

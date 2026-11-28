@@ -1,0 +1,30 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-28T05:00:10Z",
+  "evidence": [
+   {
+    "detail": "AEM QA Automation (Bengaluru South) — Bangalore, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/aem-qa-automation-bengaluru-south/codilar-technologies/20155083",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-28T05:00:10Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "cb651d59a5",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Codilar Technologies",
+ "slug": "codilar-technologies",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}

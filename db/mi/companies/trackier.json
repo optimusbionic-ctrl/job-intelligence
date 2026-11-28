@@ -3,32 +3,32 @@
  "classification": "Inferred from job description",
  "india_hiring": {
   "board": null,
-  "changed_at": "2026-11-27T13:55:04Z",
+  "changed_at": "2026-11-28T05:02:20Z",
   "evidence": [
    {
-    "detail": "Sr. AI Motion Graphics Designer — India (Remote)",
+    "detail": "Sr. AI Motion Graphics Designer — India",
     "kind": "posting",
     "label": "A current posting lists India as a location",
-    "url": "https://jobs.workable.com/view/sebJPUxQwrEzUh3qDLTT8s/remote-sr.-ai-motion-graphics-designer-in-india-at-trackier",
+    "url": "https://himalayas.app/companies/trackier/jobs/sr-ai-motion-graphics-designer?utm_source=api",
     "weight": 5
    },
    {
     "detail": "…, the US, Singapore, and Dubai, with its platforms serving businesses in 20+ countries, including leading brands such as ICICI Bank, Flipkart, OLX, and Dent…",
     "kind": "posting",
     "label": "Posting describes hiring across countries",
-    "url": "https://jobs.workable.com/view/sebJPUxQwrEzUh3qDLTT8s/remote-sr.-ai-motion-graphics-designer-in-india-at-trackier",
+    "url": "https://himalayas.app/companies/trackier/jobs/sr-ai-motion-graphics-designer?utm_source=api",
     "weight": 3
    }
   ],
   "first_checked_at": "2026-11-27T13:55:04Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "2568c0848d",
+  "sig": "3790955880",
   "summary": "A current posting lists India as a location.",
   "verdict": "yes"
  },
  "inferred": true,
- "logo": "https://workablehr.s3.amazonaws.com/uploads/account/logo/545889/logo",
+ "logo": "https://cdn-images.himalayas.app/90lkg0lxh32uc3h17jntiq4w8f37",
  "name": "Trackier",
  "slug": "trackier",
  "tier": 1

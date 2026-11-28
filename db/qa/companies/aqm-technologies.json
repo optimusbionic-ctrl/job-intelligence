@@ -1,29 +1,29 @@
 {
- "category": "Fintech",
+ "category": "Other",
  "classification": "Inferred from job description",
  "india_hiring": {
   "board": null,
-  "changed_at": "2026-11-24T10:10:52Z",
+  "changed_at": "2026-11-28T05:00:10Z",
   "evidence": [
    {
-    "detail": "Manual Tester Capital Markets Domain — Mumbai City, India",
+    "detail": "IVR Tester Manual Testing — Mumbai City, India",
     "kind": "posting",
     "label": "A current posting lists India as a location",
-    "url": "https://www.shine.com/jobs/manual-tester-capital-markets-domain/aqm-technologies/20119278",
+    "url": "https://www.shine.com/jobs/ivr-tester-manual-testing/aqm-technologies/20143484",
     "weight": 5
    }
   ],
   "first_checked_at": "2026-10-19T13:24:59Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "1586556abc",
+  "sig": "bb2c247fa6",
   "summary": "A current posting lists India as a location.",
   "verdict": "yes"
  },
  "inferred": true,
  "name": "AQM Technologies",
  "slug": "aqm-technologies",
- "tier": 1,
+ "tier": 3,
  "tracks": [
   "software"
  ]

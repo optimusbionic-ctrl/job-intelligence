@@ -1,0 +1,94 @@
+{
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/qa-automation-engineer/vishwa-karma/20162398",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "Vishwa karma",
+ "company_slug": "vishwa-karma",
+ "concerns": [
+  "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
+  "Also asks for: API testing, SQL / databases",
+  "Office outside Mumbai — relocation within India",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "7f896e52630f",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-28T05:00:10Z",
+ "fit": 62,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "372fba5eee7d4b",
+ "include_reason": "Automation-heavy QA (SDET)",
+ "india": {
+  "cities": [
+   "Delhi NCR"
+  ],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "automation",
+ "last_verified": "2026-11-28T05:00:10Z",
+ "location": "Gurugram, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-11-27T16:03:06Z",
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 62,
+  "comp": 60,
+  "company": 66,
+  "location": 60,
+  "seniority": 100,
+  "skill": 38
+ },
+ "seniority": "unspecified",
+ "snippet": "Experience: 0 to 4 Yrs\nSkills: Jira, SQL, Selenium, Agile, Scrum, manual testing, API testing, Postman, Playwright, Software Testing Life Cycle STLC, Software Development Life Cycle SDLC, browser developer tools\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "20162398",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-11-27T16:03:06Z",
+   "seen_at": "2026-11-28T05:00:10Z",
+   "url": "https://www.shine.com/jobs/qa-automation-engineer/vishwa-karma/20162398"
+  }
+ ],
+ "specializations": [
+  "Web apps"
+ ],
+ "status": "active",
+ "tier": 3,
+ "title": "Qa Automation Engineer",
+ "tools": [
+  "Jira",
+  "API testing",
+  "SQL / databases",
+  "Test automation",
+  "Agile / Scrum"
+ ],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/qa-automation-engineer/vishwa-karma/20162398",
+ "why": [
+  "Already on your resume: Jira",
+  "Asks for 0–4 years — you have about 2.5",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": 4,
+ "years_min": 0
+}

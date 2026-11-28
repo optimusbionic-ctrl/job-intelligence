@@ -1,0 +1,99 @@
+{
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/qa-consultant/vishwa-karma/20157854",
+ "category": "Recruiter (client not named)",
+ "comp_potential": "listed_good",
+ "company": "Vishwa karma Hiring For shine",
+ "company_slug": "vishwa-karma-hiring-for-shine",
+ "concerns": [
+  "Office outside Mumbai — relocation within India"
+ ],
+ "contacts_count": 0,
+ "content_hash": "d6e0b7d92146",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-28T05:00:10Z",
+ "fit": 67,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "f597a704911966",
+ "include_reason": "QA / test engineer title",
+ "india": {
+  "cities": [
+   "Delhi NCR"
+  ],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "qa-engineer",
+ "last_verified": "2026-11-28T05:00:10Z",
+ "location": "Gurugram, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-11-26T13:43:52Z",
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "applies_india": true,
+  "basis": "listed",
+  "currency": "INR",
+  "fx_at": "Sat, 28 Nov 2026 00:02:31 +0000",
+  "fx_rate": 1.0,
+  "inr_max": 600000,
+  "inr_min": 350000,
+  "max": 600000,
+  "min": 350000,
+  "note": "Listed in the posting",
+  "original_period": "annual",
+  "period": "annual",
+  "source_name": "Shine.com",
+  "source_url": "https://www.shine.com/jobs/qa-consultant/vishwa-karma/20157854",
+  "state": "verified",
+  "verified_at": "2026-11-28T05:00:10Z"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 90,
+  "company": 66,
+  "location": 60,
+  "seniority": 100,
+  "skill": 43
+ },
+ "seniority": "unspecified",
+ "snippet": "Experience: 2 to 4 Yrs\nSkills: b31.3, warehouse operations, dry van, qa management, third-party logistics, ftl, aws-cwi, api 570, trackwise, corrective preventive action\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "20157854",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-11-26T13:43:52Z",
+   "seen_at": "2026-11-28T05:00:10Z",
+   "url": "https://www.shine.com/jobs/qa-consultant/vishwa-karma/20157854"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 3,
+ "title": "Qa Consultant",
+ "tools": [],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/qa-consultant/vishwa-karma/20157854",
+ "why": [
+  "QA / test engineer role",
+  "Asks for 2–4 years — you have about 2.5",
+  "Pay is listed in the posting",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": 4,
+ "years_min": 2
+}

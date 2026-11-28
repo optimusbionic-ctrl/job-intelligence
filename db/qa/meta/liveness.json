@@ -351,6 +351,10 @@
    "at": "2026-11-03T18:55:47Z",
    "ats": null
   },
+  "flywingshrservices": {
+   "at": "2026-11-28T05:00:10Z",
+   "ats": null
+  },
   "fogtecfireprotection": {
    "at": "2026-11-18T21:27:04Z",
    "ats": null
@@ -1029,6 +1033,10 @@
    "at": "2026-11-18T23:25:22Z",
    "ats": null
   },
+  "visdinsolutions": {
+   "at": "2026-11-28T05:00:10Z",
+   "ats": null
+  },
   "visions": {
    "at": "2026-11-03T23:44:21Z",
    "ats": null
@@ -1106,10 +1114,10 @@
   }
  },
  "counts": {
-  "closed": 11,
-  "keep": 24,
-  "live": 204,
-  "stale": 123
+  "closed": 26,
+  "keep": 25,
+  "live": 192,
+  "stale": 122
  },
- "updated_at": "2026-11-28T03:58:35Z"
+ "updated_at": "2026-11-28T05:02:19Z"
 }

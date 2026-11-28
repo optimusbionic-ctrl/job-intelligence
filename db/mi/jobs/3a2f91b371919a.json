@@ -1,6 +1,6 @@
 {
  "apply_url": null,
- "board_apply": "https://jobs.workable.com/view/sebJPUxQwrEzUh3qDLTT8s/remote-sr.-ai-motion-graphics-designer-in-india-at-trackier",
+ "board_apply": "https://himalayas.app/companies/trackier/jobs/sr-ai-motion-graphics-designer?utm_source=api",
  "category": "AI",
  "comp_potential": "unknown",
  "company": "Trackier",
@@ -9,9 +9,9 @@
   "Compensation not disclosed"
  ],
  "contacts_count": 0,
- "content_hash": "b2ec053b2d36",
+ "content_hash": "0557e99cb0c4",
  "date_quality": "exact",
- "deadline": null,
+ "deadline": "2027-01-27T04:39:32Z",
  "employment": "full-time",
  "first_seen": "2026-11-27T13:55:04Z",
  "fit": 83,
@@ -28,21 +28,21 @@
   "visa": false
  },
  "kind": "graphic-motion",
- "last_verified": "2026-11-27T13:55:04Z",
- "location": "India (Remote)",
- "logo": "https://workablehr.s3.amazonaws.com/uploads/account/logo/545889/logo",
+ "last_verified": "2026-11-28T05:02:20Z",
+ "location": "India",
+ "logo": "https://cdn-images.himalayas.app/90lkg0lxh32uc3h17jntiq4w8f37",
  "needs_review": false,
  "official": false,
  "posted_at": "2026-11-27T12:45:36Z",
  "repost": false,
  "requirements": [
-  "Experience working with SaaS, B2B, technology, or product-based companies.",
-  "Understanding of SaaS dashboards, product interfaces, and software workflows.",
-  "Basic knowledge of Figma and UI/UX design concepts.",
-  "Knowledge of 3D animation, compositing, and visual effects.",
-  "Experience creating product launch videos, feature demonstrations, and educational content.",
-  "Ability to understand technical concepts and communicate them through simple, engaging visuals.",
-  "Performance-driven culture with accelerated growth opportunities."
+  "2–3 years of professional experience in motion graphics and video editing.",
+  "Strong proficiency in Adobe After Effects and Adobe Premiere Pro.",
+  "Working knowledge of Adobe Photoshop and Illustrator.",
+  "Experience with UI animations, screen recordings, product demonstrations, and software explainer videos.",
+  "Strong understanding of animation principles, timing, transitions, composition, and typography.",
+  "Knowledge of sound design, colour grading, and video post-production.",
+  "Understanding of visual storytelling and creative video composition."
  ],
  "responsibilities": [
   "We are looking for a creative and detail-oriented AI Motion Graphics Designer & Video Editor with 2–3 years of experience in motion graphics, video editing, animation, and AI-powered video production.",
@@ -65,16 +65,25 @@
   "skill": 74
  },
  "seniority": "senior",
- "snippet": "About Trackier\n Trackier is a leading player in performance marketing technology, offering an integrated suite of products that help brands, agencies, ad networks, and affiliates track, attribute, protect, and grow partner-driven revenue.\n Our ecosystem comprises three products:\n\n• Trackier: A performance marketing and affiliate tracking platform that offers attribution, campaign management, fraud prevention, automat",
- "source_primary": "Workable job marketplace",
+ "snippet": "About Trackier \n\n Trackier is a leading player in performance marketing technology, offering an integrated suite of products that help brands, agencies, ad networks, and affiliates track, attribute, protect, and grow partner-driven revenue.\n Our ecosystem comprises three products:\n\n• \n Trackier : A performance marketing and affiliate tracking platform that offers attribution, campaign management, fraud prevention, au",
+ "source_primary": "Himalayas",
  "sources": [
+  {
+   "id": "himalayas",
+   "job_id": "https://himalayas.app/companies/trackier/jobs/sr-ai-motion-graphics-designer",
+   "kind": "board",
+   "name": "Himalayas",
+   "posted_at": "2026-11-28T04:39:32Z",
+   "seen_at": "2026-11-28T05:02:20Z",
+   "url": "https://himalayas.app/companies/trackier/jobs/sr-ai-motion-graphics-designer?utm_source=api"
+  },
   {
    "id": "workable",
    "job_id": "d464e455-92a2-47de-9f14-e99db4279bb4",
    "kind": "board",
    "name": "Workable job marketplace",
    "posted_at": "2026-11-27T12:45:36Z",
-   "seen_at": "2026-11-27T13:55:04Z",
+   "seen_at": "2026-11-28T05:02:20Z",
    "url": "https://jobs.workable.com/view/sebJPUxQwrEzUh3qDLTT8s/remote-sr.-ai-motion-graphics-designer-in-india-at-trackier"
   }
  ],
@@ -101,7 +110,7 @@
   "Firefly"
  ],
  "updated_at": null,
- "url": "https://jobs.workable.com/view/sebJPUxQwrEzUh3qDLTT8s/remote-sr.-ai-motion-graphics-designer-in-india-at-trackier",
+ "url": "https://himalayas.app/companies/trackier/jobs/sr-ai-motion-graphics-designer?utm_source=api",
  "why": [
   "Tools you already use: After Effects, Figma, Premiere Pro, Illustrator, Photoshop",
   "Specialisations in scope: Product motion, UI/UX animation, Micro-interactions, Product films",
