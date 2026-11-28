@@ -1,0 +1,90 @@
+{
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/game-tester-chennai/apps-for-game/20144376",
+ "category": "Game studio",
+ "comp_potential": "unknown",
+ "company": "Apps for Game",
+ "company_slug": "apps-for-game",
+ "concerns": [
+  "Office outside Mumbai — relocation within India",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "ab18a2f2e4ef",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-28T03:57:15Z",
+ "fit": 74,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "514db67fd8619a",
+ "include_reason": "Game tester title",
+ "india": {
+  "cities": [
+   "Chennai"
+  ],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "game-tester",
+ "last_verified": "2026-11-28T03:57:15Z",
+ "location": "Chennai, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-11-26T03:18:53Z",
+ "repost": false,
+ "requirements": [
+  "(Summary from the Shine.com listing; open the posting for the full description.)"
+ ],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 60,
+  "company": 96,
+  "location": 60,
+  "seniority": 100,
+  "skill": 64
+ },
+ "seniority": "unspecified",
+ "snippet": "Experience: 0 to 4 Yrs\nSkills: retesting, test plans\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "20144376",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-11-26T03:18:53Z",
+   "seen_at": "2026-11-28T03:57:15Z",
+   "url": "https://www.shine.com/jobs/game-tester-chennai/apps-for-game/20144376"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 1,
+ "title": "Game Tester (Chennai)",
+ "tools": [
+  "Test cases & scenarios"
+ ],
+ "track": "game",
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/game-tester-chennai/apps-for-game/20144376",
+ "why": [
+  "Game tester role — matches your game QA work at Webmobril and Golden Horde",
+  "Already on your resume: Test cases & scenarios",
+  "Game studio company",
+  "Asks for 0–4 years — you have about 2.5",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": 4,
+ "years_min": 0
+}

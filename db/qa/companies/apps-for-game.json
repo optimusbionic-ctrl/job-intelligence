@@ -1,0 +1,30 @@
+{
+ "category": "Game studio",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-28T03:57:15Z",
+  "evidence": [
+   {
+    "detail": "Game Tester (Chennai) — Chennai, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/game-tester-chennai/apps-for-game/20144376",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-28T03:57:15Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "7b8b37687f",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Apps for Game",
+ "slug": "apps-for-game",
+ "tier": 1,
+ "tracks": [
+  "game"
+ ]
+}
