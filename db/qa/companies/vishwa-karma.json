@@ -3,20 +3,20 @@
  "classification": "Inferred from job description",
  "india_hiring": {
   "board": null,
-  "changed_at": "2026-11-28T05:00:10Z",
+  "changed_at": "2026-11-28T07:11:53Z",
   "evidence": [
    {
-    "detail": "Qa Automation Engineer — Gurugram, India",
+    "detail": "Automation Test Engineer — Mumbai City, Chennai, Hyderabad, Bangalore, India",
     "kind": "posting",
     "label": "A current posting lists India as a location",
-    "url": "https://www.shine.com/jobs/qa-automation-engineer/vishwa-karma/20162398",
+    "url": "https://www.shine.com/jobs/automation-test-engineer/vishwa-karma/20162397",
     "weight": 5
    }
   ],
   "first_checked_at": "2026-10-19T13:24:59Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "1ebdfcc309",
+  "sig": "03ca4afc2b",
   "summary": "A current posting lists India as a location.",
   "verdict": "yes"
  },

@@ -1,15 +1,16 @@
 {
  "apply_url": null,
- "board_apply": "https://www.shine.com/jobs/automation-test-engineer/vishwa-karma/20001939",
+ "board_apply": "https://www.shine.com/jobs/automation-test-engineer/vishwa-karma/20162397",
  "category": "Other",
  "comp_potential": "listed_good",
  "company": "Vishwa karma",
  "company_slug": "vishwa-karma",
  "concerns": [
-  "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet"
+  "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
+  "Reposted / refreshed listing — original posting is older"
  ],
  "contacts_count": 0,
- "content_hash": "feec91a76a44",
+ "content_hash": "fe20c4701285",
  "date_quality": "exact",
  "deadline": null,
  "employment": "full-time",
@@ -33,13 +34,13 @@
   "visa": false
  },
  "kind": "automation",
- "last_verified": "2026-11-18T16:36:15Z",
- "location": "Mumbai City, Hyderabad, Chennai, Bangalore, India",
+ "last_verified": "2026-11-28T07:11:53Z",
+ "location": "Mumbai City, Chennai, Hyderabad, Bangalore, India",
  "logo": null,
  "needs_review": false,
  "official": false,
- "posted_at": "2026-11-03T18:38:00Z",
- "repost": false,
+ "posted_at": "2026-11-27T16:02:25Z",
+ "repost": true,
  "requirements": [
   "(Summary from the Shine.com listing; open the posting for the full description.)"
  ],
@@ -48,7 +49,7 @@
   "applies_india": true,
   "basis": "listed",
   "currency": "INR",
-  "fx_at": "Wed, 18 Nov 2026 00:02:31 +0000",
+  "fx_at": "Sat, 28 Nov 2026 00:02:31 +0000",
   "fx_rate": 1.0,
   "inr_max": 5000000,
   "inr_min": 500000,
@@ -58,9 +59,9 @@
   "original_period": "annual",
   "period": "annual",
   "source_name": "Shine.com",
-  "source_url": "https://www.shine.com/jobs/automation-test-engineer/vishwa-karma/20001939",
+  "source_url": "https://www.shine.com/jobs/automation-test-engineer/vishwa-karma/20162397",
   "state": "verified",
-  "verified_at": "2026-11-18T16:36:15Z"
+  "verified_at": "2026-11-28T07:11:53Z"
  },
  "scores": {
   "ai": 58,
@@ -71,17 +72,17 @@
   "skill": 24
  },
  "seniority": "unspecified",
- "snippet": "Experience: 3 to 8 Yrs\nSkills: selenium webdriver\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "snippet": "Experience: 3 to 8 Yrs\nSkills: Selenium WebDriver\n(Summary from the Shine.com listing; open the posting for the full description.)",
  "source_primary": "Shine.com",
  "sources": [
   {
    "id": "shine",
-   "job_id": "20001939",
+   "job_id": "20162397",
    "kind": "board",
    "name": "Shine.com",
-   "posted_at": "2026-11-03T18:38:00Z",
-   "seen_at": "2026-11-18T16:36:15Z",
-   "url": "https://www.shine.com/jobs/automation-test-engineer/vishwa-karma/20001939"
+   "posted_at": "2026-11-27T16:02:25Z",
+   "seen_at": "2026-11-28T07:11:53Z",
+   "url": "https://www.shine.com/jobs/automation-test-engineer/vishwa-karma/20162397"
   }
  ],
  "specializations": [],
@@ -93,7 +94,7 @@
  ],
  "track": "software",
  "updated_at": null,
- "url": "https://www.shine.com/jobs/automation-test-engineer/vishwa-karma/20001939",
+ "url": "https://www.shine.com/jobs/automation-test-engineer/vishwa-karma/20162397",
  "why": [
   "Asks for 3+ years — you have about 2.5",
   "Pay is listed in the posting",
