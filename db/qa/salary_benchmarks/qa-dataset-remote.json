@@ -2,23 +2,14 @@
  "avg": 5578567,
  "basis": "Interquartile range of posting midpoints, converted to INR at today's rate",
  "currency": "INR",
- "high": 8454225,
+ "high": 8832731,
  "id": "qa-dataset-remote",
  "label": "Disclosed pay on remote QA postings (any region, this dataset)",
  "low": 3347140,
  "market": "Remote (global)",
- "n": 15,
+ "n": 14,
  "retrieved_at": "2026-11-28",
  "samples": [
-  {
-   "company": "Kwanii",
-   "currency": "PHP",
-   "location": "Philippines",
-   "max": 600000,
-   "min": 600000,
-   "title": "QA Analyst (WFH, Full-Time)",
-   "url": "https://himalayas.app/companies/kwanii/jobs/qa-analyst-wfh-full-time?utm_source=api"
-  },
   {
    "company": "AIDA Recruitment",
    "currency": "USD",
