@@ -12,6 +12,10 @@
    "at": "2026-11-19T00:28:32Z",
    "ats": null
   },
+  "3dmagency": {
+   "at": "2026-11-28T10:28:28Z",
+   "ats": null
+  },
   "88digital": {
    "at": "2026-11-24T12:39:10Z",
    "ats": null
@@ -765,9 +769,9 @@
  },
  "counts": {
   "closed": 23,
-  "keep": 5,
-  "live": 73,
-  "stale": 148
+  "keep": 9,
+  "live": 70,
+  "stale": 147
  },
- "updated_at": "2026-11-28T09:28:48Z"
+ "updated_at": "2026-11-28T10:30:08Z"
 }

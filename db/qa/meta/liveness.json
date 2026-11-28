@@ -48,6 +48,10 @@
    "at": "2026-11-18T18:24:49Z",
    "ats": null
   },
+  "allps": {
+   "at": "2026-11-28T10:26:49Z",
+   "ats": null
+  },
   "allshoretalent": {
    "at": "2026-11-18T20:30:09Z",
    "ats": null
@@ -1114,10 +1118,10 @@
   }
  },
  "counts": {
-  "closed": 13,
-  "keep": 24,
-  "live": 194,
-  "stale": 135
+  "closed": 11,
+  "keep": 25,
+  "live": 210,
+  "stale": 121
  },
- "updated_at": "2026-11-28T09:27:09Z"
+ "updated_at": "2026-11-28T10:28:27Z"
 }
