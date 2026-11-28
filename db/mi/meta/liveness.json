@@ -357,6 +357,10 @@
    "at": "2026-11-18T20:35:02Z",
    "ats": null
   },
+  "inlandindia": {
+   "at": "2026-11-28T13:40:50Z",
+   "ats": null
+  },
   "innogenx": {
    "at": "2026-11-18T22:29:26Z",
    "ats": null
@@ -393,6 +397,13 @@
    "at": "2026-11-18T23:27:56Z",
    "ats": null
   },
+  "jobgether": {
+   "at": "2026-11-28T13:40:50Z",
+   "ats": {
+    "slug": "jobgether",
+    "type": "lever"
+   }
+  },
   "jobrapido": {
    "at": "2026-11-24T12:39:10Z",
    "ats": null
@@ -422,6 +433,10 @@
   },
   "kwalee": {
    "at": "2026-11-18T21:29:17Z",
+   "ats": null
+  },
+  "laqshyaliveexperiences": {
+   "at": "2026-11-28T13:40:50Z",
    "ats": null
   },
   "launch3d": {
@@ -618,6 +633,10 @@
    "at": "2026-11-18T19:37:13Z",
    "ats": null
   },
+  "servotechpowersystems": {
+   "at": "2026-11-28T13:40:50Z",
+   "ats": null
+  },
   "sketchrootcom": {
    "at": "2026-11-18T22:29:26Z",
    "ats": null
@@ -772,10 +791,10 @@
   }
  },
  "counts": {
-  "closed": 23,
-  "keep": 4,
-  "live": 70,
-  "stale": 152
+  "closed": 24,
+  "keep": 3,
+  "live": 76,
+  "stale": 146
  },
- "updated_at": "2026-11-28T12:26:57Z"
+ "updated_at": "2026-11-28T13:42:05Z"
 }
