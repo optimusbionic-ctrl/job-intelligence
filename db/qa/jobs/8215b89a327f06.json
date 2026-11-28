@@ -1,0 +1,84 @@
+{
+ "apply_url": null,
+ "board_apply": "https://www.shine.com/jobs/qa-engineer-software-testing-remote-m-w-d/joblet-ai/20148789",
+ "category": "Other",
+ "comp_potential": "unknown",
+ "company": "Joblet-AI",
+ "company_slug": "joblet-ai",
+ "concerns": [
+  "Office outside Mumbai — relocation within India",
+  "Pay not disclosed — ask for the range early"
+ ],
+ "contacts_count": 0,
+ "content_hash": "f8403174b66c",
+ "date_quality": "exact",
+ "deadline": null,
+ "employment": "full-time",
+ "first_seen": "2026-11-28T08:30:21Z",
+ "fit": 64,
+ "has_hiring_manager": false,
+ "has_named_contact": false,
+ "has_public_email": false,
+ "id": "8215b89a327f06",
+ "include_reason": "QA / test engineer title",
+ "india": {
+  "cities": [
+   "Delhi NCR"
+  ],
+  "company": "yes",
+  "reason": "Location lists India",
+  "status": "confirmed",
+  "visa": false
+ },
+ "kind": "qa-engineer",
+ "last_verified": "2026-11-28T08:30:21Z",
+ "location": "Delhi, India",
+ "logo": null,
+ "needs_review": false,
+ "official": false,
+ "posted_at": "2026-11-26T04:29:08Z",
+ "repost": false,
+ "requirements": [],
+ "responsibilities": [],
+ "salary": {
+  "state": "unavailable"
+ },
+ "scores": {
+  "ai": 58,
+  "comp": 60,
+  "company": 66,
+  "location": 60,
+  "seniority": 100,
+  "skill": 43
+ },
+ "seniority": "unspecified",
+ "snippet": "Experience: 0 to 4 Yrs\nSkills: application testing, animation, illustration, Adobe Photoshop, After Effects, QA software testing, 2D design, Figma, Sketch, Animate\n(Summary from the Shine.com listing; open the posting for the full description.)",
+ "source_primary": "Shine.com",
+ "sources": [
+  {
+   "id": "shine",
+   "job_id": "20148789",
+   "kind": "board",
+   "name": "Shine.com",
+   "posted_at": "2026-11-26T04:29:08Z",
+   "seen_at": "2026-11-28T08:30:21Z",
+   "url": "https://www.shine.com/jobs/qa-engineer-software-testing-remote-m-w-d/joblet-ai/20148789"
+  }
+ ],
+ "specializations": [],
+ "status": "active",
+ "tier": 3,
+ "title": "QA Engineer - Software Testing / Remote (m/w/d)",
+ "tools": [],
+ "track": "software",
+ "updated_at": null,
+ "url": "https://www.shine.com/jobs/qa-engineer-software-testing-remote-m-w-d/joblet-ai/20148789",
+ "why": [
+  "QA / test engineer role",
+  "Asks for 0–4 years — you have about 2.5",
+  "Location lists India"
+ ],
+ "work_mode": "onsite",
+ "years_max": 4,
+ "years_min": 0
+}

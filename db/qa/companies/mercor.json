@@ -16,22 +16,16 @@
    "india": 0,
    "india_samples": [],
    "open_samples": [],
-   "remote": 1,
-   "restricted_remote": 1,
-   "restricted_samples": [
-    {
-     "location": "San Francisco • Mexico | Mexico City • New York City • London",
-     "title": "Mercor AI Research Fund Grants: Benchmarks",
-     "url": "https://jobs.ashbyhq.com/mercor/e1f6792d-1aae-4c2e-8edb-e2b91343dbb5"
-    }
-   ],
+   "remote": 0,
+   "restricted_remote": 0,
+   "restricted_samples": [],
    "slug": "mercor",
-   "total": 109,
+   "total": 107,
    "type": "ashby",
    "url": "https://jobs.ashbyhq.com/mercor",
    "worldwide": 0
   },
-  "changed_at": "2026-11-27T18:21:22Z",
+  "changed_at": "2026-11-28T08:30:21Z",
   "evidence": [
    {
     "detail": "Linguistic QA Expert - Fully Remote | Upto $18/hr — India",
@@ -41,9 +35,9 @@
     "weight": 5
    },
    {
-    "detail": "None are located in India or open worldwide; 1 remote role is limited to named countries",
+    "detail": "None are located in India or open worldwide",
     "kind": "board",
-    "label": "All 109 open roles are in United States, Mexico and United Kingdom",
+    "label": "All 107 open roles are in United States, Mexico and United Kingdom",
     "url": "https://jobs.ashbyhq.com/mercor",
     "weight": -3
    }
@@ -51,7 +45,7 @@
   "first_checked_at": "2026-10-20T08:44:35Z",
   "india_based": false,
   "method": "Careers board, posting text",
-  "sig": "77dea5519f",
+  "sig": "5fabdaa345",
   "summary": "A current posting lists India as a location.",
   "verdict": "yes"
  },

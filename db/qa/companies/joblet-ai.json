@@ -1,0 +1,30 @@
+{
+ "category": "Other",
+ "classification": "Inferred from job description",
+ "india_hiring": {
+  "board": null,
+  "changed_at": "2026-11-28T08:30:21Z",
+  "evidence": [
+   {
+    "detail": "QA Engineer - Software Testing / Remote (m/w/d) — Delhi, India",
+    "kind": "posting",
+    "label": "A current posting lists India as a location",
+    "url": "https://www.shine.com/jobs/qa-engineer-software-testing-remote-m-w-d/joblet-ai/20148789",
+    "weight": 5
+   }
+  ],
+  "first_checked_at": "2026-11-28T08:30:21Z",
+  "india_based": false,
+  "method": "Careers board, posting text",
+  "sig": "8392ea16ce",
+  "summary": "A current posting lists India as a location.",
+  "verdict": "yes"
+ },
+ "inferred": true,
+ "name": "Joblet-AI",
+ "slug": "joblet-ai",
+ "tier": 3,
+ "tracks": [
+  "software"
+ ]
+}
