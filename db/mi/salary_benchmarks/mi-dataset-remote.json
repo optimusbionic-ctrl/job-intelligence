@@ -1,5 +1,5 @@
 {
- "avg": 16363796,
+ "avg": 13946417,
  "basis": "Interquartile range of posting midpoints, converted to INR at today's rate",
  "currency": "INR",
  "high": 18130343,
@@ -7,7 +7,7 @@
  "label": "Disclosed pay on remote motion-design postings (any region, this dataset)",
  "low": 11157134,
  "market": "Remote (global)",
- "n": 12,
+ "n": 13,
  "retrieved_at": "2026-11-28",
  "samples": [
   {
@@ -63,6 +63,15 @@
    "min": 126000,
    "title": "Editor + Motion Graphics",
    "url": "https://jobs.ashbyhq.com/lumaai/6e7d4b86-b359-43a7-bd75-c9efce10d5ad"
+  },
+  {
+   "company": "Vibrant Emotional Health",
+   "currency": "USD",
+   "location": "United States",
+   "max": 160000,
+   "min": 140000,
+   "title": "Senior Motion Designer",
+   "url": "https://himalayas.app/companies/vibrant-emotional-health/jobs/senior-motion-designer?utm_source=api"
   },
   {
    "company": "Render",

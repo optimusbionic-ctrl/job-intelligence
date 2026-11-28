@@ -1,13 +1,13 @@
 {
- "avg": 6058231,
+ "avg": 5578567,
  "basis": "Interquartile range of posting midpoints, converted to INR at today's rate",
  "currency": "INR",
- "high": 8832731,
+ "high": 8454225,
  "id": "qa-dataset-remote",
  "label": "Disclosed pay on remote QA postings (any region, this dataset)",
- "low": 3663634,
+ "low": 3347140,
  "market": "Remote (global)",
- "n": 12,
+ "n": 15,
  "retrieved_at": "2026-11-28",
  "samples": [
   {
@@ -18,6 +18,15 @@
    "min": 600000,
    "title": "QA Analyst (WFH, Full-Time)",
    "url": "https://himalayas.app/companies/kwanii/jobs/qa-analyst-wfh-full-time?utm_source=api"
+  },
+  {
+   "company": "AIDA Recruitment",
+   "currency": "USD",
+   "location": "Ukraine",
+   "max": 17400,
+   "min": 10800,
+   "title": "Manual QA Engineer",
+   "url": "https://himalayas.app/companies/aida-recruitment/jobs/manual-qa-engineer?utm_source=api"
   },
   {
    "company": "Storware Sp. z o.o.",
@@ -36,6 +45,15 @@
    "min": 20000,
    "title": "QA Engineer",
    "url": "https://himalayas.app/companies/syd-life-ai/jobs/qa-engineer?utm_source=api"
+  },
+  {
+   "company": "mercor",
+   "currency": "USD",
+   "location": "India",
+   "max": 36000,
+   "min": 36000,
+   "title": "Linguistic QA Expert - Fully Remote | Upto $18/hr",
+   "url": "https://himalayas.app/companies/mercor/jobs/linguistic-qa-expert-fully-remote-upto-18-hr?utm_source=api"
   },
   {
    "company": "IRIUM",
@@ -72,6 +90,15 @@
    "min": 62818,
    "title": "Junior Tester",
    "url": "https://himalayas.app/companies/9th-way-insignia/jobs/junior-tester?utm_source=api"
+  },
+  {
+   "company": "mercor",
+   "currency": "USD",
+   "location": "India",
+   "max": 120000,
+   "min": 60000,
+   "title": "Software Tester - Fully Remote | Upto $60/hr",
+   "url": "https://himalayas.app/companies/mercor/jobs/software-tester-fully-remote-upto-60-hr-4910912622?utm_source=api"
   },
   {
    "company": "ICF",

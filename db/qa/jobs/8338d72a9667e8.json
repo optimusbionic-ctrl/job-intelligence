@@ -2,22 +2,22 @@
  "apply_url": null,
  "board_apply": "https://himalayas.app/companies/mercor/jobs/linguistic-qa-expert-fully-remote-upto-18-hr?utm_source=api",
  "category": "Product / SaaS",
- "comp_potential": "unknown",
+ "comp_potential": "listed_global",
  "company": "mercor",
  "company_slug": "mercor",
  "concerns": [
   "Also asks for: Localization",
-  "Pay not disclosed — ask for the range early",
+  "Listed range is for another country",
   "Contract role",
   "Reposted / refreshed listing — original posting is older"
  ],
  "contacts_count": 0,
- "content_hash": "94d559166ac8",
+ "content_hash": "c57f5cb3cb91",
  "date_quality": "exact",
  "deadline": "2027-01-18T18:03:46Z",
  "employment": "contract",
  "first_seen": "2026-10-20T08:44:35Z",
- "fit": 71,
+ "fit": 74,
  "has_hiring_manager": false,
  "has_named_contact": false,
  "has_public_email": false,
@@ -31,12 +31,12 @@
   "visa": false
  },
  "kind": "qa-engineer",
- "last_verified": "2026-11-19T20:04:01Z",
+ "last_verified": "2026-11-28T01:53:32Z",
  "location": "India",
  "logo": "https://cdn-images.himalayas.app/6jo5q9nua35jgtdfm41nq6b7ocqf",
  "needs_review": false,
  "official": false,
- "posted_at": "2026-11-19T18:03:46Z",
+ "posted_at": "2026-11-28T00:36:02Z",
  "repost": true,
  "requirements": [
   "Native or near-native command of Hindi as spoken in India.",
@@ -51,11 +51,26 @@
   "Maintain consistency in applying rubrics across judgments, enhancing the quality of AI-generated content ."
  ],
  "salary": {
-  "state": "unavailable"
+  "applies_india": false,
+  "basis": "listed",
+  "currency": "USD",
+  "fx_at": "Sat, 28 Nov 2026 00:02:31 +0000",
+  "fx_rate": 92.9761,
+  "inr_max": 3347140,
+  "inr_min": 3347140,
+  "max": 36000,
+  "min": 36000,
+  "note": "Range listed for a non-India location",
+  "original_period": "hourly",
+  "period": "annual",
+  "source_name": "Himalayas",
+  "source_url": "https://himalayas.app/companies/mercor/jobs/linguistic-qa-expert-fully-remote-upto-18-hr?utm_source=api",
+  "state": "verified",
+  "verified_at": "2026-11-28T01:53:32Z"
  },
  "scores": {
   "ai": 58,
-  "comp": 60,
+  "comp": 96,
   "company": 95,
   "location": 100,
   "seniority": 84,
@@ -70,8 +85,8 @@
    "job_id": "https://himalayas.app/companies/mercor/jobs/linguistic-qa-expert-fully-remote-upto-18-hr",
    "kind": "board",
    "name": "Himalayas",
-   "posted_at": "2026-11-19T18:03:46Z",
-   "seen_at": "2026-11-19T20:04:01Z",
+   "posted_at": "2026-11-28T00:36:02Z",
+   "seen_at": "2026-11-28T01:53:32Z",
    "url": "https://himalayas.app/companies/mercor/jobs/linguistic-qa-expert-fully-remote-upto-18-hr?utm_source=api"
   }
  ],
@@ -88,6 +103,7 @@
  "why": [
   "QA / test engineer role",
   "Product / SaaS company",
+  "Pay is listed in the posting",
   "Location lists India"
  ],
  "work_mode": "remote",

@@ -2,21 +2,22 @@
  "apply_url": null,
  "board_apply": "https://himalayas.app/companies/mercor/jobs/software-tester-fully-remote-upto-60-hr-4910912622?utm_source=api",
  "category": "Product / SaaS",
- "comp_potential": "unknown",
+ "comp_potential": "listed_global",
  "company": "mercor",
  "company_slug": "mercor",
  "concerns": [
   "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
-  "Pay not disclosed — ask for the range early",
-  "Contract role"
+  "Listed range is for another country",
+  "Contract role",
+  "Reposted / refreshed listing — original posting is older"
  ],
  "contacts_count": 0,
- "content_hash": "07db0a69fc36",
+ "content_hash": "20196eca8cc7",
  "date_quality": "exact",
  "deadline": "2026-12-12T16:53:56Z",
  "employment": "contract",
  "first_seen": "2026-10-29T12:55:23Z",
- "fit": 76,
+ "fit": 80,
  "has_hiring_manager": false,
  "has_named_contact": false,
  "has_public_email": false,
@@ -30,13 +31,13 @@
   "visa": false
  },
  "kind": "automation",
- "last_verified": "2026-10-29T12:55:23Z",
+ "last_verified": "2026-11-28T01:53:32Z",
  "location": "India",
  "logo": "https://cdn-images.himalayas.app/6jo5q9nua35jgtdfm41nq6b7ocqf",
  "needs_review": false,
  "official": false,
- "posted_at": "2026-10-13T16:53:56Z",
- "repost": false,
+ "posted_at": "2026-11-28T00:41:11Z",
+ "repost": true,
  "requirements": [
   "3+ years of experience in Software Engineering , QA Engineering , SDET , or Test Automation .",
   "Strong experience testing modern web applications.",
@@ -54,11 +55,26 @@
   "Provide structured technical feedback following project review rubrics."
  ],
  "salary": {
-  "state": "unavailable"
+  "applies_india": false,
+  "basis": "listed",
+  "currency": "USD",
+  "fx_at": "Sat, 28 Nov 2026 00:02:31 +0000",
+  "fx_rate": 92.9761,
+  "inr_max": 11157134,
+  "inr_min": 5578567,
+  "max": 120000,
+  "min": 60000,
+  "note": "Range listed for a non-India location",
+  "original_period": "hourly",
+  "period": "annual",
+  "source_name": "Himalayas",
+  "source_url": "https://himalayas.app/companies/mercor/jobs/software-tester-fully-remote-upto-60-hr-4910912622?utm_source=api",
+  "state": "verified",
+  "verified_at": "2026-11-28T01:53:32Z"
  },
  "scores": {
   "ai": 62,
-  "comp": 60,
+  "comp": 96,
   "company": 95,
   "location": 100,
   "seniority": 94,
@@ -73,8 +89,8 @@
    "job_id": "https://himalayas.app/companies/mercor/jobs/software-tester-fully-remote-upto-60-hr-4910912622",
    "kind": "board",
    "name": "Himalayas",
-   "posted_at": "2026-10-13T16:53:56Z",
-   "seen_at": "2026-10-29T12:55:23Z",
+   "posted_at": "2026-11-28T00:41:11Z",
+   "seen_at": "2026-11-28T01:53:32Z",
    "url": "https://himalayas.app/companies/mercor/jobs/software-tester-fully-remote-upto-60-hr-4910912622?utm_source=api"
   }
  ],
@@ -96,6 +112,7 @@
   "Already on your resume: Bug reporting, Google Sheets / Excel",
   "Product / SaaS company",
   "Asks for 3+ years — you have about 2.5",
+  "Pay is listed in the posting",
   "Location lists India"
  ],
  "work_mode": "remote",
