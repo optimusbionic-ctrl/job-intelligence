@@ -1,23 +1,23 @@
 {
  "apply_url": null,
- "board_apply": "https://himalayas.app/companies/akamai-technologies/jobs/software-development-engineer-in-test-ii-9524361389?utm_source=api",
+ "board_apply": "https://himalayas.app/companies/akamai-technologies/jobs/software-development-engineer-in-test-ii-4465478259?utm_source=api",
  "category": "Product / SaaS",
  "comp_potential": "unknown",
  "company": "Akamai Technologies",
  "company_slug": "akamai-technologies",
  "concerns": [
   "Automation-heavy role (Selenium/Appium-type scripting) — not on your resume yet",
-  "Also asks for: API testing, Programming",
+  "Also asks for: Programming",
   "Pay not disclosed — ask for the range early",
   "Reposted / refreshed listing — original posting is older"
  ],
  "contacts_count": 0,
- "content_hash": "27a245caa3bd",
+ "content_hash": "6bc91fc100ca",
  "date_quality": "exact",
- "deadline": "2027-01-11T12:56:46Z",
+ "deadline": "2027-01-27T09:14:08Z",
  "employment": "full-time",
  "first_seen": "2026-10-29T14:02:12Z",
- "fit": 76,
+ "fit": 78,
  "has_hiring_manager": false,
  "has_named_contact": false,
  "has_public_email": false,
@@ -31,22 +31,25 @@
   "visa": false
  },
  "kind": "automation",
- "last_verified": "2026-11-19T23:44:22Z",
+ "last_verified": "2026-11-28T11:23:59Z",
  "location": "India",
  "logo": "https://cdn-images.himalayas.app/lb8259c8ijm7nvddhbhfm13hy13d",
  "needs_review": false,
  "official": false,
- "posted_at": "2026-11-19T16:43:17Z",
+ "posted_at": "2026-11-28T09:14:08Z",
  "repost": true,
- "requirements": [],
+ "requirements": [
+  "Collaborating and influencing through code reviews, design process and product development",
+  "Executing functional, integration, and performance tests with comprehensive test cases."
+ ],
  "responsibilities": [
-  "Building test strategy and automation for products of Next generation Micro segmentation and threat protection solutions",
-  "Taking ownership for test execution, test automation, identify and bring in tools to assist the testing goal",
-  "Collaborating with engineering teams in an Agile environment on code, design, test plan and automation framework review",
-  "Working closely with development team to enhance new releases, testing process",
-  "Coordinating and participating in customer installs, demos to team",
-  "Hold qualifications in Computer Science, Engineering, or a related field, or possess equivalent practical experience in these domains.",
-  "3+ years of experience in software testing / QA automation, with at least 2 years testing applications on AWS"
+  "Testing and Automation of App battery applications, creating & reviewing test scenarios/Test cases/Test Code and delivering high quality software solutions",
+  "Using software development skills to develop, execute, and maintain automated test scripts and integrate them into regression suites",
+  "Understanding product & technical requirements and ensure end-to-end test coverage",
+  "Collaborating and influencing through code reviews, design process and product development",
+  "Executing functional, integration, and performance tests with comprehensive test cases.",
+  "Demonstrate experience using programming languages like Python and Understanding of PyTest automation frameworks",
+  "Utilize Linux/Unix environments and Git for scripting, development, and system operations & be hands on Unix command line and Shell Scripting."
  ],
  "salary": {
   "state": "unavailable"
@@ -56,21 +59,21 @@
   "comp": 60,
   "company": 95,
   "location": 100,
-  "seniority": 94,
-  "skill": 53
+  "seniority": 92,
+  "skill": 62
  },
  "seniority": "mid",
- "snippet": "Are you excited to work with innovative security products? \n Do you relish the prospect of working with cutting-edge network security systems? \n Join our world-class Zero Trust Security Team\n Our Team builds and delivers 'zero trust security solutions' for enterprise customers. Our mission is to provide Micro Segmentation and Threat protection solutions. We provide the simplest, fastest, and most intuitive way to enf",
+ "snippet": "Would you enjoy working in a fast-moving team testing products end-to-end? \n Would you enjoy design and testing of technology solutions? \n Join our Platform Engineering Division\n AppBattery is Kubernetes based platform on which most of Akamai Critical Applications are deployed. We are constantly innovating & improvising to deliver for our customers. Our contribution is critical to the success of our customers' and Ak",
  "source_primary": "Himalayas",
  "sources": [
   {
    "id": "himalayas",
-   "job_id": "https://himalayas.app/companies/akamai-technologies/jobs/software-development-engineer-in-test-ii-9524361389",
+   "job_id": "https://himalayas.app/companies/akamai-technologies/jobs/software-development-engineer-in-test-ii-4465478259",
    "kind": "board",
    "name": "Himalayas",
-   "posted_at": "2026-11-19T16:43:17Z",
-   "seen_at": "2026-11-19T23:44:22Z",
-   "url": "https://himalayas.app/companies/akamai-technologies/jobs/software-development-engineer-in-test-ii-9524361389?utm_source=api"
+   "posted_at": "2026-11-28T09:14:08Z",
+   "seen_at": "2026-11-28T11:23:59Z",
+   "url": "https://himalayas.app/companies/akamai-technologies/jobs/software-development-engineer-in-test-ii-4465478259?utm_source=api"
   }
  ],
  "specializations": [],
@@ -78,24 +81,23 @@
  "tier": 1,
  "title": "Software Development Engineer in Test II",
  "tools": [
+  "Regression testing",
+  "Stress / load testing",
   "Test cases & scenarios",
   "Bug reporting",
-  "Jira",
-  "API testing",
   "Test automation",
   "Programming",
   "Agile / Scrum"
  ],
  "track": "software",
  "updated_at": null,
- "url": "https://himalayas.app/companies/akamai-technologies/jobs/software-development-engineer-in-test-ii-9524361389?utm_source=api",
+ "url": "https://himalayas.app/companies/akamai-technologies/jobs/software-development-engineer-in-test-ii-4465478259?utm_source=api",
  "why": [
-  "Already on your resume: Test cases & scenarios, Bug reporting, Jira",
+  "Already on your resume: Regression testing, Stress / load testing, Test cases & scenarios, Bug reporting",
   "Product / SaaS company",
-  "Asks for 3+ years — you have about 2.5",
   "Location lists India"
  ],
  "work_mode": "remote",
  "years_max": null,
- "years_min": 3
+ "years_min": null
 }
